@@ -1,0 +1,179 @@
+qst_deliver_message|送 信 给 {s13}
+qst_deliver_message_text|{s9} 请 你 带 个 口 信 给 {s13} ， 当 你 接 受 这 个 任 务 的 时 候 {s13} 正 在 {s4} 。
+qst_deliver_message_to_enemy_lord|送 信 给 {s13}
+qst_deliver_message_to_enemy_lord_text|{s9} 请 你 带 个 口 信 给 {s15} 的 {s13} ， 当 你 接 受 这 个 任 务 的 时 候 {s13} 在 {s4} 。 
+qst_raise_troops|培 养 {reg1}名 {s14}
+qst_raise_troops_text|{s9} 请 你 筹 集 {reg1} {s14} 并 且 把 这 些 东 西 带 给 他 。 
+qst_escort_lady|护 送 {s13}去 {s14}
+qst_deal_with_bandits_at_lords_village|从 强 盗 手 里 解 救 {s15}村 
+qst_deal_with_bandits_at_lords_village_text|{s13} 请 你 去 对 付 那 些 躲 在 {s15} 里 的 强 盗 然 后 回 去 报 告 给 他 。 
+qst_collect_taxes|到 {s3}征 税 
+qst_collect_taxes_text|{s9} 请 你 征 收 {s3}的 税 ， 你 可 以 拿 走 五 分 之 一 的 钱 。 
+qst_hunt_down_fugitive|抓 捕 {s4}
+qst_hunt_down_fugitive_text|{s9} 请 你 去 抓 捕 一 个 叫 {s4}的 囚 犯 ， 他 现 在 正 在 {s3} 。 
+qst_kill_local_merchant|杀 掉 {s3}的 地 方 商 人 
+qst_kill_local_merchant_text|{s9} 请 你 暗 杀 一 个 当 地 的 商 人 ， 他 现 在 在 {s3} 。 
+qst_bring_back_runaway_serfs|追 回 逃 跑 的 农 奴 
+qst_bring_back_runaway_serfs_text|{s9} 请 你 去 抓 捕 逃 跑 的 农 民 ， 把 他 们 带 回 {s2} 。 他 说 所 有 的 农 民 正 逃 向 {s3} 。 
+qst_follow_spy|跟 踪 准 备 去 碰 头 的 间 谍 
+qst_follow_spy_text|{s11} 请 你 跟 踪 一 个 从 {s12}出 来 的 间 谍 。 你 必 须 小 心 的 跟 着 他 ， 不 要 在 中 途 被 他 发 现 否 则 他 可 能 会 起 疑 心 并 且 返 回 镇 子 里 去 ， 当 他 与 同 伙 会 面 时 ， 你 要 埋 伏 并 且 抓 住 他 们 ， 把 他 们 都 带 回 {s11} 。 
+qst_capture_enemy_hero|抓 捕 在 {s13}的 一 个 领 主 
+qst_lend_companion|把 你 的 同 伴 {s3}借 给 {s9}
+qst_lend_companion_text|{s9} 向 你 借 {s3} 到 他 的 队 伍 里 一 个 星 期 
+qst_collect_debt|讨 要 {s3}欠 {s9}的 借 款 
+qst_collect_debt_text|{s9} 请 你 去 收 回 债 务 {reg4} 先 令 {s3} 带 给 他 。 
+qst_incriminate_loyal_commander|控 告 {s13}的 忠 心 指 挥 官 {s16}
+qst_meet_spy_in_enemy_town|与 在 {s13}的 间 谍 碰 头 
+qst_capture_prisoners|抓 捕 {reg1}个 {s3}俘 虏 
+qst_capture_prisoners_text|{s9} 想 让 你 带 {reg1} {s3} 作 为 人 质 。 
+qst_lend_surgeon|把 你 的 外 科 医 生 {s3}借 给 {s1}
+qst_lend_surgeon_text|借 你 有 经 验 的 外 科 医 生 {s3} 到 {s1} 。 
+qst_follow_army|跟 随 {s9}的 部 队 
+qst_report_to_army|向 元 帅 {s13}报 告 情 况 
+qst_deliver_cattle_to_army|把 {reg3}头 牛 赶 到 {s13}
+qst_join_siege_with_army|参 加 {s14}的 围 城 战 
+qst_screen_army|掩 护 {s13}的 军 队 前 进 
+qst_scout_waypoints|侦 察 {s13}， {s14}和 {s15}
+qst_rescue_lord_by_replace|从 {s14}解 救 {s13}
+qst_deliver_message_to_prisoner_lord|送 信 给 {s14}的 {s13}
+qst_duel_for_lady|与 {s13}决 斗 
+qst_duel_courtship_rival|与 {s13}决 斗（ 可 选 择） 
+qst_duel_avenge_insult|与 {s13}决 斗 
+qst_move_cattle_herd|赶 牛 到 {s13}
+qst_move_cattle_herd_text| {s10} 的 村 长 请 你 把 牛 群 带 到 {s13} 。 
+qst_escort_merchant_caravan|护 送 商 队 去 {s8}
+qst_escort_merchant_caravan_text|护 送 商 船 队 到 {s8} 。 
+qst_deliver_wine|捎 带 {reg5}单 位 的 {s6}到 {s4}
+qst_deliver_wine_text|{s3} 的 {s9} 请 你 在 7天 内 送 {reg5} 个 {s6} 到 {s4} 的 小 酒 馆 。 
+qst_troublesome_bandits|解 决 难 对 付 的 强 盗 
+qst_troublesome_bandits_text|{s4} 的 {s9} 请 你 追 捕 在 镇 子 附 近 麻 烦 的 土 匪 。 
+qst_kidnapped_girl|从 强 盗 那 儿 赎 回 女 孩 
+qst_kidnapped_girl_text| {s4} 的 村 长 给 你 {reg12} 先 令 去 支 付 一 个 女 孩 的 赎 金 ， 你 在 {s3} 附 近 遇 见 土 匪 并 且 付 给 他 们 赎 金 。 之 后 你 把 女 孩 带 回 了 {s4}.
+qst_persuade_lords_to_make_peace|确 保 两 个 领 主 不 反 对 和 平 
+qst_persuade_lords_to_make_peace_text| {s4} 的 村 长 答 应 给 你 {reg12} 先 令 如 果 你 能 确 保 {s12} 和 {s13} 不 再 对 {s15} 和 {s14}之 间 和 平 解 决 问 题 构 成 威 胁 的 话 。 为 了 做 到 这 一 点 你 必 须 说 服 他 们 或 者 确 保 他 们 有 一 个 俘 虏 直 到 一 个 和 平 协 议 制 定 出 来 。 
+qst_deal_with_looters|解 决 劫 匪 
+qst_deal_with_looters_text| {s4} 的 村 长 请 你 对 付 在 {s4} 附 近 的 强 盗 ， 并 且 带 回 任 何 你 找 到 的 货 物 。 
+qst_deal_with_night_bandits|解 决 暗 夜 强 盗 
+qst_deliver_grain|筹 集 小 麦 给 {s3}
+qst_deliver_grain_text| {s3} 的 村 长 请 你 带 给 他 们 {reg5} 包 小 麦 。 
+qst_deliver_cattle|筹 集 {reg5}头 牛 给 {s3}
+qst_deliver_cattle_text| {s3} 的 村 长 请 你 带 {reg5} 头 牛 。 
+qst_train_peasants_against_bandits|训 练 农 民 以 对 抗 在 {s13}的 强 盗 
+qst_eliminate_bandits_infesting_village|从 强 盗 手 里 解 救 {s7}村 
+qst_eliminate_bandits_infesting_village_text|一 个 来 自 {s7} 的 人 请 求 你 从 强 盗 的 手 中 拯 救 他 的 村 庄 。 
+qst_visit_lady|拜 访 女 士 
+qst_formal_marriage_proposal|正 式 求 婚 提 案 
+qst_obtain_liege_blessing|正 式 求 婚 提 案 
+qst_wed_betrothed|和 你 的 未 婚 妻 成 婚 
+qst_wed_betrothed_female|和 你 的 未 婚 妻 成 婚 
+qst_join_faction|宣 誓 效 忠 于 {s1}
+qst_join_faction_text|找 到 {s1} 并 且 宣 誓 效 忠 于 他 。 
+qst_rebel_against_kingdom|帮 助 {s13}取 得 {s14}的 王 位 
+qst_consult_with_minister|和 首 相 商 议 
+qst_consult_with_minister_text|询 问 你 的 大 臣 {s11} ， 目 前 在 {s12}
+qst_organize_feast|组 织 宴 会 
+qst_organize_feast_text|在 宴 会 上 带 一 件 礼 物 给 你 的 配 偶 {s11} ， 目 前 在 {s12}
+qst_resolve_dispute|解 决 争 端 
+qst_resolve_dispute_text|解 决 {s11} 和 {s12} 之 间 的 矛 盾 。 
+qst_offer_gift|获 取 礼 物 
+qst_offer_gift_text|给 {s10} 一 个 礼 物 让 他 献 给 {reg4?她 :他 } {s11} ， {s12}
+qst_denounce_lord|指 控 领 主 
+qst_denounce_lord_text|公 开 指 责 {s11} 。 
+qst_intrigue_against_lord|密 谋 反 对 领 主 
+qst_intrigue_against_lord_text|在 私 下 批 评 {s11} 。 
+qst_track_down_bandits|追 捕 强 盗 
+qst_track_down_bandits_text|{s4} 的 {s9} 请 你 跟 踪 {s6} ， 在 附 近 城 镇 袭 击 旅 行 的 人 。 
+qst_track_down_provocateurs|追 捕 奸 细 
+qst_track_down_provocateurs_text|{s4} 的 {s9} 请 你 追 踪 一 伙 暴 徒 ， 雇 佣 他 们 在 {s5} 和 {s6}边 境 上 制 造 事 件 。 
+qst_retaliate_for_border_incident|报 复 边 境 事 件 
+qst_retaliate_for_border_incident_text|{s4} 的 {s9} 让 你 在 战 场 上 击 败 {s7} 的 {s5} ， 消 除 {s8} 的 紧 张 让 他 上 战 场 。 
+qst_raid_caravan_to_start_war|攻 击 中 立 国 商 队 来 挑 起 战 争 
+qst_cause_provocation|挑 拔 一 个 国 家 攻 打 别 的 国 家 
+qst_rescue_prisoner|营 救 或 赎 回 一 名 俘 虏 
+qst_destroy_bandit_lair|摧 毁 强 盗 老 巢 
+qst_destroy_bandit_lair_text|{s4} 的 {s9} 让 你 去 找 到 {s6} 并 且 摧 毁 它 。 
+qst_kennemer_jarl|复 仇 之 路 ： 和 肯 尼 莫 的 雅 尔 交 谈 
+qst_kennemer_jarl_missions|复 仇 之 路 ： 为 一 名 雅 尔 工 作 
+qst_kennemer_mission_1|雅 尔 任 务 ： 修 道 院 的 审 判 
+qst_kennemer_mission_2|雅 尔 任 务 ： 泰 德 必 须 死 
+qst_kennemer_mission_3|雅 尔 任 务 ： 弑 君 
+qst_reginhard_donations|雷 因 哈 德 的 请 求 ： 为 战 争 受 害 者 捐 款 
+qst_recruit_an_army|雅 尔 任 务 ： 招 募 新 兵 
+qst_doccinga_assault|维 京 袭 击 ： 从 斯 温 的 突 袭 下 拯 救 道 琴 嘉 
+qst_doccinga_interrogation|维 京 袭 击 ： 审 讯 一 名 维 京 海 盗 
+qst_getting_ship|维 京 袭 击 ： 船 与 少 女 
+qst_notes_companions|关 于 同 伴 的 笔 记 
+qst_notes_global|你 的 个 人 笔 记 
+qst_notes_frisa|你 在 弗 里 斯 的 笔 记 
+qst_notes_danmork|你 在 丹 麦 的 笔 记 
+qst_notes_englaland|你 在 英 格 兰 的 笔 记 
+qst_sven_lair|复 仇 之 路 ： 深 入 狼 穴 
+qst_danmork_protection|复 仇 之 路 ： 寻 求 霍 里 克 国 王 的 保 护 
+qst_revenge_sigurd|复 仇 之 路 ： 与 “ 蛇 眼 ” 西 格 德 当 面 对 质 
+qst_collect_smen|西 格 德 的 任 务 ： 为 西 格 德 募 集 军 队 
+qst_bodo_letter|复 仇 之 路 ： 夺 回 密 信 
+qst_the_holmgang|生 死 对 决 ： 昔 友 今 敌 
+qst_the_fleet|复 仇 之 路 ： 入 侵 英 格 兰 
+qst_sven_traitor|复 仇 之 路 ： 叛 徒 斯 温 
+qst_wessex_foragers|围 城 之 战 ： 西 撒 克 逊 征 粮 队 
+qst_the_messengersn|围 城 之 战 ： 信 使 
+qst_the_alliance|复 仇 之 路 ： 联 盟 
+qst_welsh_and_pictish|征 服 者 ： 复 国 大 业 
+qst_cathach_colum|化 身 维 京 海 盗 ： “ 科 伦 西 尔 之 经 ” 
+qst_entregando_pieles|化 身 维 京 海 盗 ： 皮 毛 交 易 
+qst_revenge_exchange|复 仇 之 路 ： 农 场 
+qst_ulf_testigo|保 住 脑 袋 ： 讨 好 农 夫 和 领 主 们 
+qst_the_thing|复 仇 之 路 ： 议 事 会 
+qst_douar_an_enez|复 仇 之 路 ： 当 纳 莱 斯 
+qst_aescesdun|战 役 ： 艾 克 丹 
+qst_svenbn_final|复 仇 之 路 ： 牛 颈 斯 温 
+qst_old_roman|哈 德 良 长 城 ： 拯 救 饥 民 
+qst_vc_menu|维 京 征 服 菜 单 系 统 
+qst_vc_wounds|维 京 征 服 伤 害 系 统 
+qst_sea_battle_spawn|复 活 系 统 
+qst_team_0_ships|复 活 系 统 
+qst_team_1_ships|复 活 系 统 
+qst_blank_quest_2|陪 同 主 教 去 {s14} 。 
+qst_blank_quest_2_text|{s11} 请 你 从 {s22} 护 送 主 教 前 往 {s14} 。
+qst_blank_quest_3|洗 劫 {s14} 的 修 道 院 
+qst_blank_quest_3_text|{s11} 请 你 洗 劫 {s14} 的 修 道 院 ， 位 于 {s34} 附 近 ， 并 带 给 他 {reg33} 先 令 。 
+qst_blank_quest_4|找 到 并 击 溃 一 帮 无 主 士 兵 
+qst_blank_quest_4_text|{s8} 请 你 追 踪 一 帮 劫 掠 了 他 的 村 庄 {s9} 的 无 主 士 兵 。 
+qst_blank_quest_6|俘 虏 {reg5}名 女 人 并 带 给 {s3}
+qst_blank_quest_6_text| {s3} 的 村 庄 长 老 请 你 带 {reg5} 个 女 人 去 村 庄 。（ 作 为 人 质） 
+qst_blank_quest_7|将 逃 跑 的 奴 隶 归 还 给 {s3} 
+qst_blank_quest_7_text|{s3} 的 村 庄 长 老 请 你 把 一 名 逃 跑 的 奴 隶 带 回 村 庄 。 
+qst_blank_quest_9|将 {reg33} 份 蜜 酒 带 到 {s3} 
+qst_blank_quest_9_text|{s3} 的 牧 师 请 你 带 给 他 {reg33} 份 蜂 蜜 酒 。 
+qst_blank_quest_10|为 {s3} 的 {s9} 取 回 一 件 被 窃 的 {s13} 。 
+qst_blank_quest_10_text|{s3} 的 {s9} 请 你 取 回 一 件 被 窃 的 {s13} 。 ^^查 看 ： ^{s10} 
+qst_blank_quest_11|将 {reg33} 份 {s33} 带 到 {s3} 
+qst_blank_quest_11_text|{s3} 的 {s9} 请 你 将 {reg33} 份 {s33} 带 给 他 。 
+qst_blank_quest_12|将 {reg33} 件 木 材 带 到 {s3} 
+qst_blank_quest_12_text|{s3} 的 修 道 院 院 长 请 你 将 {reg33} 件 木 材 带 给 他 。 
+qst_blank_quest_13|往 昔 回 响 
+qst_blank_quest_13_text|{s11} 请 你 对 付 她 过 去 的 爱 人 的 鬼 魂 ， 它 应 该 在 {s33} 
+qst_blank_quest_14|揭 露 刺 杀 阴 谋 
+qst_blank_quest_14_text|有 人 想 谋 杀 你 。 你 可 以 到 {s3} 与 杀 手 的 联 系 人 会 面 ， 试 着 找 出 想 要 买 你 一 命 的 人 。 
+qst_blank_quest_15|揭 露 刺 杀 阴 谋 
+qst_blank_quest_15_text|联 系 人 给 出 了 那 名 下 令 刺 杀 你 的 领 主 的 名 字 — — 他 是 {s9} 。 是 时 候 与 这 位 领 主 当 面 对 质 了 。 
+qst_blank_quest_16|带 {reg25} 块 {s17} 给 {s11} 。 
+qst_blank_quest_16_text|{s11} 请 你 给 她 带 {reg25} 块 {s17} 。 
+qst_blank_quest_17|带 两 块 奶 酪 和 {reg25} 瓶 酒 给 {s11} 。 
+qst_blank_quest_17_text|{s11} 请 你 带 两 块 奶 酪 和 {reg25} 瓶 酒 。
+qst_blank_quest_18|送 信 给 {s3} 
+qst_blank_quest_18_text|{s11} 请 你 将 一 条 消 息 带 给 她 的 爱 人 {s3} 。 
+qst_blank_quest_19|成 为 全 斯 堪 的 纳 维 亚 的 统 治 者 
+qst_blank_quest_20|成 为 全 布 立 吞 的 统 治 者 
+qst_blank_quest_21|成 为 全 爱 尔 兰 的 统 治 者 
+qst_blank_quest_22|成 为 全 英 格 兰 的 统 治 者 
+qst_blank_quest_23|最 后 的 达 努 神 族 
+qst_blank_quest_24|蛇 
+qst_blank_quest_25|弗 莱 厄 蒂 的 子 嗣 
+qst_blank_quest_26|普 雷 西 尔 王 子 
+qst_blank_quest_27|爱 尔 兰 的 笔 记 
+qst_collect_men|复 仇 之 路 ： 参 观 道 琴 嘉 
+qst_learn_where_merchant_brother_is|复 仇 之 路 ： 与 肯 尼 莫 的 雅 尔 交 谈 
+qst_save_relative_of_merchant|攻 打 强 盗 老 巢 
+qst_save_town_from_bandits|从 强 盗 手 中 拯 救 城 镇 
+qst_quests_end|Quests End
