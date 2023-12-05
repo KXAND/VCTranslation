@@ -11,7 +11,7 @@ output_path = 'work_cns/'
 def remove_space_after_chinese(cell):
     # 在所有的汉字后面删去空格，但是忽略"__NULL__"
     if cell != '__NULL__':
-        return re.sub(r'([\u4e00-\u9fa5\u3002\uff1b\uff0c\uff1a\u201c\u201d\uff08\uff09\u3001\uff1f\u300a\u300b\uff01])\s', r'\1', str(cell))
+        return re.sub(r'([\u4e00-\u9fa5。；，：“”（）、？《》！^·…—0123456789])\s', r'\1', str(cell))
     else:
         return cell
 

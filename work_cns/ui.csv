@@ -67,7 +67,7 @@ ui_restore|载入
 ui_cancel|取消
 ui_delete|删除
 ui_confirm_delete_game|你确定你想要删除这个进度吗？
-ui_error_removing_file|删除文件时出错… … 
+ui_error_removing_file|删除文件时出错……
 ui_day_datedisplay|第%d天（%d：%d%d）
 ui_reset_changes|重置
 ui_weapon_proficiencies|武器熟练度
@@ -167,7 +167,7 @@ ui_inventory|物品
 ui_character|角色
 ui_party|部队
 ui_paused|已暂停
-ui_click_left_button_to_cancel_wait|等待… … （点左键返回）
+ui_click_left_button_to_cancel_wait|等待……（点左键返回）
 ui_midnight|午夜
 ui_late_night|深夜
 ui_dawn|黎明
@@ -220,7 +220,7 @@ ui_merchant_cant_afford_value|%s ：我付不起%s那么多，我只有%s。
 ui_merchant_pay_whatever|好吧，你有多少就付多少。
 ui_merchant_think_of_something_else|嗯，让我想想别的。
 ui_dumping_value_items|%d件物品将永久消失，你确定要继续吗？
-ui_dumping_value_item|1 件物品将永久消失，你确定要继续吗？
+ui_dumping_value_item|1件物品将永久消失，你确定要继续吗？
 ui_question_slaughter_food_and_eat|屠宰这个%s作为食品？
 ui_money_value|钱：%s
 ui_dump|丢弃
@@ -327,9 +327,9 @@ ui_received_couched_lance_damage|受到长枪冲刺伤害！
 ui_speed_bonus_plus|速度奖励：+%d%%
 ui_speed_bonus|速度奖励：%d%%
 ui_cant_reload_this_weapon_on_horseback|在马背上无法装填。
-ui_no_more_bolts|没有弩箭了… … 
+ui_no_more_bolts|没有弩箭了……
 ui_you_are_not_carrying_any_bolts|你没有带弩箭。
-ui_no_more_arrows|没有箭了… … 
+ui_no_more_arrows|没有箭了……
 ui_you_are_not_carrying_any_arrows|你没有带箭。
 ui_head_shot|射中头部！
 ui_delivered_number_damage|给对方%d点伤害。
@@ -338,8 +338,8 @@ ui_horse_charged_for_number_damage|马冲撞对方%d点伤害。
 ui_received_number_damage|受到%d点伤害。
 ui_horse_received_number_damage|马受到%d点伤害。
 ui_value_killed_teammate|%s杀死了一名队友！
-ui_horse_fell_dead|马死了… … 
-ui_horse_crippled|马瘸了… … 
+ui_horse_fell_dead|马死了……
+ui_horse_crippled|马瘸了……
 ui_shot_difficulty|射击难度：%2.1f 
 ui_you_have_improved_your_proficiency_in_value_to_number|你%s的熟练度提高到了%d点。
 ui_your_proficiency_in_value_has_improved_by_number_to_number|你%s的熟练度提高了%d点，到了%d点。
@@ -363,7 +363,7 @@ ui_quest_cancelled_value|任务取消：%s。
 ui_lost_value|（失去%s）
 ui_items_lost|（失去物品：
 ui_party_has_nothing_to_eat|部队没吃的了！
-ui_days_training_is_complete|每日训练结束… … 
+ui_days_training_is_complete|每日训练结束……
 ui_total_experience_gained_through_training_number|从训练中获得的总经验值：%d
 ui_some_soldiers_are_ready_to_upgrade|有些士兵可以升级了。
 ui_number_of_companions_exceeds_leadership_limit|同伴人数超过统御技能限制。
@@ -376,9 +376,9 @@ ui_weekly_report|每周报告
 ui_shared_number_experience_within_party|在部队中分享%d点经验。
 ui_got_item_value|获得物品：%s。
 ui_game_saved_successfully|成功保存进度。
-ui_autosaving|自动保存中… … 
-ui_quick_saving|快速保存中… … 
-ui_cant_quick_save|战斗中不能快速保存… … 
+ui_autosaving|自动保存中……
+ui_quick_saving|快速保存中……
+ui_cant_quick_save|战斗中不能快速保存……
 ui_screenshot_taken_to_value|截图保存到%s了。
 ui_screenshot_failed|不能保存截图。
 ui_value_joined_your_party|%s加入了你的队伍。
@@ -404,7 +404,7 @@ ui_save|保存
 ui_save_as|保存为
 ui_quit_without_saving|退出且不保存
 ui_empty_slot|空槽
-ui_game_saved|进度已经保存… … 
+ui_game_saved|进度已经保存……
 ui_confirm_overwrite|存档%s将被覆盖，你确定？
 ui_dynamic_lighting|动态光影
 ui_character_shadows|人物阴影
@@ -453,10 +453,10 @@ ui_attack|攻击
 ui_parry_then_attack|反击
 ui_defend|防守
 ui_kick|脚踢
-ui_equip_weapon_1|装备物品1 
-ui_equip_weapon_2|装备物品2 
-ui_equip_weapon_3|装备物品3 
-ui_equip_weapon_4|装备物品4 
+ui_equip_weapon_1|装备物品1
+ui_equip_weapon_2|装备物品2
+ui_equip_weapon_3|装备物品3
+ui_equip_weapon_4|装备物品4
 ui_equip_next_weapon|装备下一件武器
 ui_equip_next_shield|装备下一面盾牌
 ui_sheath_weapon|收起武器
@@ -487,7 +487,7 @@ ui_wait|等待
 ui_take_screenshot|截图
 ui_randomize|随机
 ui_hint|提示
-ui_press_left_mouse_button_to_continue|按鼠标左键继续… … 
+ui_press_left_mouse_button_to_continue|按鼠标左键继续……
 ui_loot|战利品
 ui_chest|箱子
 ui_cut_short|砍
@@ -496,28 +496,28 @@ ui_blunt_short|钝
 ui_battle|战斗
 ui_siege|围攻
 ui_troops|部队：
-ui_loading_module_info_file|载入剧本信息文件… … 骑砍中文站汉化
-ui_processing_ini_file|处理配置文件… … 骑砍中文站汉化
-ui_loading_music|载入音乐… … 骑砍中文站汉化
-ui_loading_data|载入数据… … 骑砍中文站汉化
-ui_loading_setting_data|载入数据设置… … 骑砍中文站汉化
-ui_loading_textures|载入纹理… … 骑砍中文站汉化
+ui_loading_module_info_file|载入剧本信息文件……骑砍中文站汉化
+ui_processing_ini_file|处理配置文件……骑砍中文站汉化
+ui_loading_music|载入音乐……骑砍中文站汉化
+ui_loading_data|载入数据……骑砍中文站汉化
+ui_loading_setting_data|载入数据设置……骑砍中文站汉化
+ui_loading_textures|载入纹理……骑砍中文站汉化
 ui_finished|完成。
-ui_creating_game|新建游戏… … 骑砍中文站汉化
-ui_loading_savegame_file|载入游戏… … 骑砍中文站汉化
-ui_loading_map_file|装载地图… … 骑砍中文站汉化
-ui_initializing_map|初始化地图… … 骑砍中文站汉化
-ui_launching_game|启动游戏… … 骑砍中文站汉化
+ui_creating_game|新建游戏……骑砍中文站汉化
+ui_loading_savegame_file|载入游戏……骑砍中文站汉化
+ui_loading_map_file|装载地图……骑砍中文站汉化
+ui_initializing_map|初始化地图……骑砍中文站汉化
+ui_launching_game|启动游戏……骑砍中文站汉化
 ui_capital_battle|战斗：
 ui_capital_versus|--对决--
 ui_tracks|踪迹
 ui_battleground|战场
-ui_order_1|选择命令1 
-ui_order_2|选择命令2 
-ui_order_3|选择命令3 
-ui_order_4|选择命令4 
-ui_order_5|选择命令5 
-ui_order_6|选择命令6 
+ui_order_1|选择命令1
+ui_order_2|选择命令2
+ui_order_3|选择命令3
+ui_order_4|选择命令4
+ui_order_5|选择命令5
+ui_order_6|选择命令6
 ui_order_button_hold_this_position|坚守这里
 ui_order_button_follow_me|跟我来
 ui_order_button_charge|冲啊
@@ -681,16 +681,16 @@ ui_download_mb_new_version_question|此服务器上运行的是较新的%d.%d%d%
 ui_download_mb_old_version_question|此服务器上运行的是较老的%d.%d%d%d版本，而你现在运行的版本是较新的%d.%d%d%d。
 ui_download_module_new_version_question|此服务器上运行的MOD是较新的%d.%d%d%d版本，而你现在运行的MOD版本是较老的%d.%d%d%d。需要访问网站并下载这个MOD的新版本么？
 ui_download_module_old_version_question|此服务器上运行的MOD是较老的%d.%d%d%d版本，而你现在运行的MOD版本是较新的%d.%d%d%d。
-ui_authenticating_with_steam|Steam 验证中… … 
-ui_validating_serial_number|确认序列号… … 
-ui_scanning_lan|搜索局域网… … 
-ui_retrieving_servers|检索服务器名单… … 
+ui_authenticating_with_steam|Steam 验证中……
+ui_validating_serial_number|确认序列号……
+ui_scanning_lan|搜索局域网……
+ui_retrieving_servers|检索服务器名单……
 ui_shield_size2|尺寸：%dx%d
 ui_click_to_view_notes|点击查看纪录
-ui_retrieving_server_infos|检索服务器资源(%d)… … 
-ui_connecting_to_server|连接到服务器… … 
+ui_retrieving_server_infos|检索服务器资源(%d)……
+ui_connecting_to_server|连接到服务器……
 ui_requesting_to_join_the_game|请求加入游戏
-ui_loading|载入… … 
+ui_loading|载入……
 ui_group_value_control|第%d组！
 ui_drop_weapon|丢掉武器
 ui_multiplayer_message_all|发言至全体
@@ -701,7 +701,7 @@ ui_send_message_all|发言至全体
 ui_send_message_team|发言至队内
 ui_select|选择
 ui_context_menu|子菜单
-ui_round_starts_in_value_seconds|下一回合%d秒开始… … 
+ui_round_starts_in_value_seconds|下一回合%d秒开始……
 ui_watching_value|跟随%s
 ui_capital_spec|【 围观】 
 ui_capital_dead|【 阵亡】 
@@ -742,7 +742,7 @@ ui_ttnet_account|TTNET Oyun 账号
 ui_username|用户名
 ui_password|密码
 ui_error_incorrect_username_or_password|错误的用户名或密码
-ui_validating_account|账号确认中… … 
+ui_validating_account|账号确认中……
 ui_plase_enter_your_serial_key|请输入你的序列号
 ui_texture_detail2|纹理细节：
 ui_antialiasing2|反锯齿：

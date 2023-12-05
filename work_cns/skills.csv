@@ -4,13 +4,13 @@ skl_leadership|统御
 skl_leadership_desc|每点增加部队命令上限5人，提高部队士气，减少部队开销和工资。（领袖技能）
 skl_prisoner_management|俘虏管理
 skl_prisoner_management_desc|每点增加俘虏上限5人。（领袖技能）
-skl_reserved_1|Reserved Skill 1 
+skl_reserved_1|Reserved Skill 1
 skl_reserved_1_desc|This is a reserved skill.
-skl_reserved_2|Reserved Skill 2 
+skl_reserved_2|Reserved Skill 2
 skl_reserved_2_desc|This is a reserved skill.
-skl_reserved_3|Reserved Skill 3 
+skl_reserved_3|Reserved Skill 3
 skl_reserved_3_desc|This is a reserved skill.
-skl_reserved_4|Reserved Skill 4 
+skl_reserved_4|Reserved Skill 4
 skl_reserved_4_desc|This is a reserved skill.
 skl_persuasion|说服力
 skl_persuasion_desc|此技能帮助你，使你的观点更容易让人接受。同时还能降低让NPC按照你所说的去做所需的最低关系值。（个人技能）
@@ -33,14 +33,14 @@ skl_tactics_desc|每2点增加1点战场优势（影响敌我上场人数比例�
 skl_tracking|跟踪
 skl_tracking_desc|从脚印和其它印迹中发现更多信息。（队伍技能）
 skl_trainer|教练
-skl_trainer_desc|每天每位有该项技能的英雄会增加经验值给其它级别较低的队伍成员。传授的经验值依次为：0，4，10，16，23，30，38，46，55，65，80 。（个人技能）
-skl_reserved_5|Reserved Skill 5 
+skl_trainer_desc|每天每位有该项技能的英雄会增加经验值给其它级别较低的队伍成员。传授的经验值依次为：0，4，10，16，23，30，38，46，55，65，80。（个人技能）
+skl_reserved_5|Reserved Skill 5
 skl_reserved_5_desc|This is a reserved skill.
-skl_reserved_6|Reserved Skill 6 
+skl_reserved_6|Reserved Skill 6
 skl_reserved_6_desc|This is a reserved skill.
-skl_reserved_7|Reserved Skill 7 
+skl_reserved_7|Reserved Skill 7
 skl_reserved_7_desc|This is a reserved skill.
-skl_reserved_8|Reserved Skill 8 
+skl_reserved_8|Reserved Skill 8
 skl_reserved_8_desc|This is a reserved skill.
 skl_looting|掠夺
 skl_looting_desc|每点提高获得战利品的数量10%%。（队伍技能）
@@ -53,16 +53,16 @@ skl_athletics_desc|提高跑动速度。（个人技能）
 skl_shield|盾防
 skl_shield_desc|减少盾的损坏程度（每点减少8%%）和提高盾的格挡速度，以及覆盖范围。（个人技能）
 skl_weapon_master|武器掌握
-skl_weapon_master_desc|让武器熟练度提升的更快，并且提高武器熟练度的上限。也能提高盾牌格挡速度和覆盖范围。上限依次为：60，100，140，180，220，260，300，340，380，420 。（个人技能）
+skl_weapon_master_desc|让武器熟练度提升的更快，并且提高武器熟练度的上限。也能提高盾牌格挡速度和覆盖范围。上限依次为：60，100，140，180，220，260，300，340，380，420。（个人技能）
 skl_maintenance|武器维修
 skl_maintenance_desc|足够的维修知识能让你在战场上不容易损坏你的武器。每点能减少7%的损害。
-skl_reserved_10|Reserved Skill 10 
+skl_reserved_10|Reserved Skill 10
 skl_reserved_10_desc|This is a reserved skill.
-skl_reserved_11|Reserved Skill 11 
+skl_reserved_11|Reserved Skill 11
 skl_reserved_11_desc|This is a reserved skill.
-skl_reserved_12|Reserved Skill 12 
+skl_reserved_12|Reserved Skill 12
 skl_reserved_12_desc|This is a reserved skill.
-skl_reserved_13|Reserved Skill 13 
+skl_reserved_13|Reserved Skill 13
 skl_reserved_13_desc|This is a reserved skill.
 skl_power_draw|强弓
 skl_power_draw_desc|角色可以使用更强力的弓。每点增加弓箭伤害14%%，最高有效等级不超过弓的等级加4。（个人技能）
@@ -76,9 +76,9 @@ skl_navigation|导航
 skl_navigation_desc|在大地图上的海上航行速度增加，每点增加5%的速度（队伍技能）
 skl_sea_king|提督
 skl_sea_king_desc|每点能增加一艘你能够指挥的船只。（领袖技能）
-skl_reserved_16|Reserved Skill 16 
+skl_reserved_16|Reserved Skill 16
 skl_reserved_16_desc|This is a reserved skill.
-skl_reserved_17|Reserved Skill 17 
+skl_reserved_17|Reserved Skill 17
 skl_reserved_17_desc|This is a reserved skill.
-skl_reserved_18|Reserved Skill 18 
+skl_reserved_18|Reserved Skill 18
 skl_reserved_18_desc|This is a reserved skill.
