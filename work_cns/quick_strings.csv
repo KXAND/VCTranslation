@@ -1,0 +1,3196 @@
+﻿qstr_Breaking_camp...|终止宿营……
+qstr_The_poem_the_bard_ha|吟游诗人为{s33} 写的诗似乎没有打动她。
+qstr_Poem_for_a_lady|给女士的诗
+qstr_{s33}_seemed_to_like|{s33} 似乎喜欢这首吟游诗人为她写的诗。
+qstr_The_bard_s_poem_abou|吟游诗人讲述你的诗正在广泛传播。
+qstr_Fame_spreads|名声传播
+qstr_People_say_that_{s31|人们说{s31}发现了一个埋葬维京{s32} 财产墓穴。主对它的所有权争议进行平息。
+qstr_People_say_that_{s31}|人们说{s31}或仆人偷了{s32}的财产。那使得{s32}愤怒。
+qstr_People_say_that_{s31}_|人们说{s31}侍从之一{s32}一杯毒酒{s32}激怒了。
+qstr_People_say_that_{s31}_t|人们说{s31}试图贿赂一些{s32}的保镖进入家庭，但{s32}被发现。
+qstr_People_say_that_a_ru|人们说，谣言传播的一个未知的旅行者未能煽动{s31} 和{s32}之间的敌意。
+qstr_{s33}|{s33}
+qstr_Rumors|谣言
+qstr_{playername}_is_beli|{playername}被认为是最近的贬损的谣言背后涉及{s32}和{s31}.
+qstr_A_recent_rumor_alleg|最近传闻宣称{s32}隐藏在他的保镖背后战斗。
+qstr_A_recent_rumor_allege|最近传闻宣称{s32}在他的庄园里练习某种扭曲的仪式。
+qstr_A_recent_rumor_alleges|最近传闻宣称{s32}很喜欢他的新母马，如果你明白我的意思。
+qstr_A_recent_rumor_alleges_|最近传闻宣称{s32}相比起剑更想有一个角杯。
+qstr_People_say_that_a_rum|人们说，一个谣言传播的一个未知的旅行者{s32}没有损害他的名誉。
+qstr_{playername}_is_belie|{playername}被认为是在传播最近的谣言{s32}不明智的行为。
+qstr_A_recent_rumor_sprea|未知的旅行者声称最近的谣言传播{s32}反对{s31}.
+qstr_People_say_that_a_rumo|人说，一个谣言传播的一个未知的旅行者{s32}作为一个不忠的领主之间未能煽动{s32}和{s31}之间的敌意。
+qstr_{playername}_is_believ|{playername}被认为是在最近的谣言{s32}不忠。
+qstr_It_seems_that_{s31}_|看来，{s31}发现最近的故事关于{s32}不忠的可能。
+qstr_It_appears_{s31}_has|似乎{s31} 驳斥了最近的故事关于{s32}不忠的，除了他的敌人的流言蜚语。
+qstr_It_seems_that_{s31}_h|看来，{s31}发现最近的故事关于{s32}不忠的似乎很有道理。
+qstr_It_appears_that_{s31|似乎{s31}驳斥了最近的故事{s32}不忠，除了他敌人对他的流言蜚语。
+qstr_It_seems_that_{s31}_w|看来，{s31}没有被逗乐{s32}被发现参与偷牛的计划。
+qstr_It_appears_{s32}_had|似乎{s32}设法避免最近的谋杀，并且他的关系和{s31}没有受到影响。
+qstr_Winter_is_the_worst_|冬天是战争的最坏时机。寒冷，潮湿，食物稀缺。人们在冬天里宁可躲在室内而不是在外作战。注意你的士气和食物库存。
+qstr_{s40}_decided_to_bec|{s40}决定成为一个探险家{s39}
+qstr_It_seems_your_soldie|看起来你的士兵用你库存里的饮料度过了一段好时光。
+qstr_It_seems_someone_wen|似乎有盗贼进入你的仓库并偷走了你一些{s33} 。
+qstr_{s22}|{s22}
+qstr_{s1}_of_{s2}_has_bee|{s2} 中的{s1} 已被释放。
+qstr_{s33}_was_beaten_up_|{s33}被{s34}的居民殴打并被丢进了监狱。
+qstr_{s33}_s_attempts_to_|{s33}提高在{s34}的影响力的行动失败了。
+qstr_The_people_of_{s34}_|{s34}的人们非常恨你，{s33}被守卫拒之门外。
+qstr_A_livestock_epidemic|一场瘟疫杀死了在{s4}的{reg4}头牲口。
+qstr_A_livestock_epidemic_|一场瘟疫杀死了在{s4}的{reg5}只羊。
+qstr_A_livestock_epidemic_h|一场瘟疫杀死了在{s4}的{reg4}头牛和{reg5}只羊。
+qstr_You_receive_a_messag|你收到来自{s1} 的口信要求你用合适的方式支持他们。
+qstr_You_receive_a_message|你收到来自{s1}的口信提醒你作为封臣的义务。
+qstr_Your_men_made_some_d|你的士兵用牛奶做了一些美味的奶油。
+qstr_A_livestock_epidemic_ha|一场瘟疫杀死了在{s4}附近农庄的{reg5}头牛。
+qstr_A_livestock_epidemic_has|一场瘟疫杀死了{reg4}头牛。包括你在{s4} 附近农庄的{reg5} 头牛。
+qstr_Your_party_is_spotte|你的部队被{s1}发现了。
+qstr_Your_men_have_nothin|你的部队没有东西吃了！
+qstr_{reg1}_{s1}_{reg2?ha|{reg1}个{s1}{reg2?已:已}趁着夜色逃离了你的队伍。
+qstr_{s1}_of_the_{s3}_has|{s3}的{s1}已经被释放了。
+qstr_{s1}_is_no_longer_in|{s1}不再在夜里被匪盗困扰。
+qstr_{s1}_has_won_the_tou|{s1}赢得了在{s2}的比赛。
+qstr_You_pay_for_accommod|你支付了宿金。
+qstr__Your_tactics_skill_|你的战术技能提高1级。
+qstr__Your_persuasion_ski|你的说服力技能提高1级。
+qstr__Your_leadership_ski|你的统御技能提高1级。
+qstr__Your_intelligence_h|你的智力提高1点。
+qstr__Your_trade_skill_ha|你的交易技能提高1级。
+qstr__Your_weapon_master_|你的武器掌握技能提高1级。
+qstr__Your_engineer_skill|你的工程学技能提高1级。
+qstr_You_have_finished_re|你已经读完了{s1} 。{s2}
+qstr_Book_Read|读书
+qstr_Christian_monastery|基督教修道院
+qstr_Christian_church|基督教教堂
+qstr_shrine_to_Norse_gods|诺尔斯神龛
+qstr_temple_to_Odin|奥丁神庙
+qstr_People_of_{s24}_are_|{s24}的人们对你的宗教偏向不能接受，并毁掉了{s25} 。
+qstr_You_have_{reg0}_days|你还有{reg0}天来完成这个任务。
+qstr_{s1}_is_scouted.|{s1}已经侦察过了。
+qstr_{s1}_has_switched_fr|{s1}从{s2}的手上转移到{s3} 。
+qstr_The_merchants__rest_|在{s1}的交易大厅增加了当地的繁荣度。
+qstr_Christian_monastery_|在{s33}的基督教堂提高了{s34}的信仰度。
+qstr_Pagan_hof_at_{s33}_r|在{s33}的多神教神庙降低了{s34}的基督信仰度。
+qstr_The_scriptorium_in_{|在{s1}的缮写室增加了你的声望。
+qstr_Due_to_the_good_word|由于基督教牧师对你的积极宣传，你与{s1}的关系改善了。
+qstr_Due_to_the_bad_word_|由于基督教牧师对你的负面宣传，你与{s1}的关系恶化了。
+qstr_{s1}_has_become_host|{s1} 变得对你充满敌意，因为你亵渎基督教。
+qstr_Faction_became_hosti|成为敌对派系
+qstr_Due_to_the_good_word_|由于多神教教徒对你的积极宣传，你与{s1}的关系改善了。
+qstr_Due_to_the_bad_word_i|由于多神教教徒对你的负面宣传，你与{s1}的关系恶化了。
+qstr_{s1}_has_become_hosti|{s1} 变得对你充满敌意，因为你亵渎多神教。
+qstr_{s13}_has_too_many_t|{s13}有太多的军队驻守并且领主可能会征兵。
+qstr_most|最多
+qstr_half|一半
+qstr_some|一些
+qstr_few|几个
+qstr_There_are_too_many_m|你的庇护所容纳了太多的人，一些士兵变得不开心而离开了。
+qstr_Refuge_Garrison|庇护所驻军
+qstr_You_receive_word_tha|你收到一条信息——{s1}的教官已经完成了他的任务。
+qstr_TEST:_I_moved_Lords_|TEST ：我移动领主去圣海伦娜。
+qstr_TEST:_I_bring_Lords_|TEST ：我带领主回来。
+qstr_Physicians_in_larger|各大城镇的医师在获得报酬后，他们会在几天之内为你进行治疗。所有负面影响将被移除。
+qstr_You_are_wounded|你负伤了
+qstr_{s1}You_have_only_on|{s1}你只剩下一天时间治疗自己的{reg7} 伤势了。尽快到各大城镇拜访医师。^^
+qstr_{s1}{reg7}_of_your_i|{s1}由于缺乏治疗，你的{reg7} 伤情之一已经变成永久的缺陷。
+qstr_{s1}{reg7}_of_your_w|{s1}你的{reg7} 伤口被治好了，你的能力不再因此受到限制。
+qstr_{s1}|{s1}
+qstr_Wound_Report|伤势报告
+qstr_A_ship_has_been_buil|你在{s0}的一艘船舶完成了。
+qstr_Ship_finished|船舶完成
+qstr_{s0}_has_recovered_f|{s0}从劫掠后得到了恢复。
+qstr_By_now_you_have_more|目前你拥有不止一条船了。在海战中，你可以向你的船队下令“驻守”或“冲锋”，方法如同你在陆战中向部队下令。部队的第一分组将是你的旗舰，其他则是随舰。你可以在一个港口或在海上驻停时更换旗舰。如果你在海岸线附近或者寻找一处登陆点，右键点击你的部队，可以将船队分开。
+qstr_Ship_management|船只管理
+qstr_Your_troops_are_angr|你的士兵非常愤怒，因为他们讨厌在海上过夜。
+qstr_Your_troops_feel_une|你的士兵忧虑于渡海。
+qstr_Severe_weather_has_d|恶劣的天气袭击了{s1} ({s7}) 。
+qstr_Severe_weather_has_de|恶劣的天气毁灭了{s1} ({s7}) 。
+qstr_The_weather_changed_|天气变化：“无风”
+qstr_The_weather_changed_t|天气变化：“轻风”
+qstr_The_weather_changed_to|天气变化：“和风”
+qstr_The_weather_changed_to:|天气变化：“强风”
+qstr_The_weather_changed_to:_|天气变化：“疾风”
+qstr_The_weather_changed_to:__|天气变化：“大风”
+qstr_The_weather_changed_to:__S|天气变化：“狂风”
+qstr_The_operation_of_the|在{s33} 建造的奴隶市场降低了你的荣誉。
+qstr_DEBUG_rebellion:_che|DEBUG rebellion: checking faction {s1} on day {reg1}{***}
+qstr_DEBUG_rebellion:_fac|DEBUG rebellion: faction {s1} reborn on day {reg1}{***}
+qstr__Possible_Rebellion_|(可能的叛乱) 谣言说{s14}仍然活着。
+qstr__Possible_Rebellion__|(可能的叛乱) 谣言说{s14}与他秘密的会面。
+qstr__Possible_Rebellion__R|(可能的叛乱) 谣言说人们赞成恢复{s14}.
+qstr__Possible_Rebellion__Ru|(可能的叛乱) 谣言说{s14}组建一只军队以恢复王位。
+qstr__Possible_Rebellion__Rum|(可能的叛乱) 谣言说{s14}在囤积武器。
+qstr__Possible_Rebellion__Rumo|(可能的叛乱) 谣言说{s14}在囤积武器并且在法兰克寻求支持。
+qstr__Possible_Rebellion__Rumor|(可能的叛乱) 谣言说{s14}组建一只军队以恢复王位。
+qstr__Possible_Rebellion__Rumors|(可能的叛乱) 谣言说{s14}在囤积武器。
+qstr__|nan
+qstr_Congratulations!_You|恭喜你！你设法关押7个或更多的领主在{s13} 。你是一个真正的地牢主人。
+qstr_Dungeon_master_Achie|地下城城主的成就
+qstr_Congratulations!_You_|恭喜你！你设法拥有五个或更多的女情人。女士们必须向你低头，所以你当然可以为你有这样的一个需求感到骄傲。保持良好的工作！
+qstr_Skirt_Chaser_Achieve|好色之徒的成就
+qstr_Congratulations!_You_v|恭喜你！你设法囤积25或更多桶酒在你的家中。一个伟大的壮举鉴于你在世界各地喝了许多麦芽酒和蜂蜜酒。你是一个酗酒的酒鬼，或者你是一个真正的葡萄酒鉴赏家。
+qstr_Wine_Connoisseur_Ach|葡萄酒鉴赏家的成就
+qstr_{s33}_revokes_your_r|{s33} 撤销了你在{s34}的募兵权，因为你俩之间关系不好。
+qstr_The_village_leader_o|{s34} 的长老撤销了你的募兵权，因为你和这个村庄的关系不好。
+qstr_fixing_banners;_plea|修改旗帜
+qstr_unable_to_restore_ba|无法复原旗帜{reg0}被分配给队伍{reg1}
+qstr_Prisoners_revolted!_|囚犯起义了！在{s33}附近。
+qstr_Your_gift_sent_to_{s|你的礼物送到{s13}来改善你与他的关系。
+qstr_Gift_Sent_to_Lord|礼物送给主
+qstr_Tutorial|教程
+qstr_Recruiting_warriors|招募战士
+qstr_Your_troops_feel_ref|经过一晚上休息后，你的部队精神焕发：
+qstr_Your_men_need_rest_o|你的战士需要好好休息，否则他们的士气将会下降。
+qstr_Foragers|征粮队
+qstr_Scouts|侦察兵
+qstr_Morale|士气
+qstr_Each_day_of_the_sieg|每天的围攻，你需要支付一些费用。你支付报酬，挖掘厕所，清洁马厩，购买、携带水和食物，烹饪。真是有趣的军队……
+qstr_You_do_not_have_mone|你没有钱来支付围攻所需的基本费用。这大大削弱了士气。
+qstr_{reg65?my_Lady:my_Lo|{reg65?尊敬的女士:阁下}
+qstr_{reg65?My_Lady:My_Lo|{reg65?尊敬的女士:阁下}
+qstr_{reg65?madame:sir}|{reg65?夫人:先生}
+qstr_{reg65?Madame:Sir}|{reg65?夫人:先生}
+qstr_Dog|狗
+qstr_Welcome_landlubber._|欢迎你的到来，我是这里的船匠。
+qstr_Welcome_{reg59?lady:|欢迎你的到来，{playername}阁下。
+qstr_Welcome_{reg59?madam|欢迎你的到来{reg59?女士:先生} 。
+qstr_Welcome.|欢迎你的到来。
+qstr_Your_ship_is_in_a_ba|你的船看起来有点糟糕。你应该考虑下在我这里修理修理。
+qstr_The_{s7}_is_the_most|{s7} 是我这辈子见过的最好的船。能让这艘船停泊在我的港口真是我的荣幸。
+qstr_Your_ship_is_of_poor|你的船破烂不堪。你或许会想在我这里买艘更好的船。
+qstr_That_s_a_decent_ship|你这船看上去挺像样的。
+qstr_Your_ship_the_{s7}_i|你的船，{s7}真是非同一般。我的工人们可以为你上漆涂色，如果你愿意的话。
+qstr_The_{s7}_is_a_wonder|{s7}是艘好船，我很高兴这船能在我港口里停泊。
+qstr_{s2}_{s3}|{s2} {s3}
+qstr_You_are_already_in_{|你已经在{s1}了。
+qstr__and_your_troops|还有你的部队
+qstr_There_is_a_ship_that|有一艘船可以把你从{s3}带到{s1}的港口，花费{reg1} 先令。
+qstr_I_changed_my_mind.|我改变主意了。
+qstr_For_a_ship_of_this_s|我可没有足够的木料，柏油和羊毛来弄这种大小的船，所以我需要你把这些东西都带过来。
+qstr___He_indicates_the_f|— — 他的手指向海湾的另一边。— — 
+qstr_Now_you_must_join_th|现在你必须加入牛颈斯温和哈罗德· 哈罗德逊带领的舰队，他们很快就要离开里伯了。你的使命将带领你到另一片土地上。
+qstr___His_eyes_shine.__|— — 他两眼放光。— — 
+qstr_The_port_master_of_R|里伯的港口主管告诉你斯温的藏身之处：{s3}的东南方。去那里救出沃登里克号的俘虏。
+qstr___He_approaches_you_|— — 他靠近你，你都能闻到他口里廉价啤酒的气味。— — 
+qstr___He_looks_with_a_pe|— — 他看起来有点反常。— — 
+qstr_The_port_master_of_Ri|里伯的港口主管想要一本叫做“科伦希尔之经”的书，那书在格伦达洛谷，{s3}附近的修道院，那是在爱尔兰的海伯利亚。
+qstr_The_port_master_from|里伯的港口主管告诉你斯温的藏身之处：{s3}的东北方。去那里救出沃登里克号的俘虏。
+qstr___He_gives_you_a_str|— — 他奇怪地瞥了你一眼。— — 
+qstr_The_port_master_of_{|{s4}的港口主管想要你把一批皮毛带到爱尔兰的{s3} ，给当地的一个叫霍格尼的商人。
+qstr_The_port_master_from_|{s4}的港口主管告诉你阿提利的秘密洞穴的位置：{s3}附近。去那里找到博多的信。
+qstr_The_port_master_from_R|{s4}的港口主管告诉你阿提利的秘密洞穴的位置：{s3}附近。去那里找到博多的信。
+qstr_Embark_on_your_boat_|登上你的船并加入舰队去当纳莱斯。
+qstr_Perhaps_there_is_a_l|或许世界末日很快就到了。（冷静）
+qstr_You_re_right!_The_co|你说得对！维京人来了，一切都要结束了！（谨慎）
+qstr_The_Bible_also_says_|圣经上也说一个国王会统一全世界，而我就是那个国王。（易怒）
+qstr_A_change_in_the_worl|世界的变动将为勇敢者提供更多机会，就是这样。（嗜血）
+qstr_I_appreciate_your_re|你说的这话让我放心，但我相信世界的毁灭已成定局，我们之后什么都说不了做不了。我们能做的也只有等待和战斗，直到神的军队的到来。
+qstr_Exactly!_West_Seaxe_|就是这个意思。西撒克逊是信徒们的最后堡垒，但它将被迫屈服于那帮人，我们都会死！让我一个人待着，我不想再说了。
+qstr_Your_self_confidence|你的自信安慰了我，但我必须告诉你国王会被邪恶大军打败，只有神的军队的到来才能拯救世界。然而，如果你成为国王，我会很乐意与你并肩作战战死沙场。
+qstr_I_m_surprised_that_y|你很惊讶你能从其他人的不幸中看到能够获利的地方，你比我想象的还要残忍。
+qstr_You_need_to_rid_your|你需要摆脱自大的缺点。（冷静）
+qstr_I_am_always_willing_|我一直都乐意学习，谢谢你，埃吉尔。（谨慎）
+qstr_I_think_it_s_clear_t|与你相比，命运女神更加喜欢我。（易怒）
+qstr_Silence!_You_shall_n|闭嘴！你不能如此羞辱我的威严！（嗜血）
+qstr_Yes_I_pretended_to_b|是的，我也想保持中立。好吧，有些事自然而然就发生在我身上了，但傲慢是好领袖所拥有的品质。你也需要学会变地傲慢点— — 这也是我的建议— — 能让你的人看到你的自信。你必须一言九鼎，不听从命令的人就要受到惩罚。这就是领袖的价值，我也很高兴你能听进去。就说这么多了。
+qstr_I_understand._Someon|我懂，像你这样的人没有我的经验和知识。能从我这里学东西对你来说很重要，{playername} 。要像我一样成为受尊敬的对象。我也建议你在战场冲锋陷阵，给你的人做个表率，也能和你的人在没有冲突的情况下分享战利品。这就是我的提醒了。现在我们做些该做的吧。
+qstr_Your_men_see_the_way|你的人看到埃吉尔如何对待你，让你失去了一些威严。
+qstr_And_people_say_that_|人们说我是傲慢的人，那我还有什么话可说？好吧，我喜欢这样。我认为领袖最有价值的东西是：能够展现自信的能力，以及吸引人的魅力。你说得对，我也没什么教你的了。
+qstr_I_only_pretended_to_|我也只想给你一些建议，虽然说你看起来也不大乐意听。好的，你下个命令，来展示你的威严，但这并不意味着你是个优秀的领袖。我会遵守，闭嘴并回到自己的工作。
+qstr_I_am_just_a_poor_far|我只是这里的一个贫农，去找那边的农场主管吧。
+qstr_I_just_work_the_fiel|我只是在这里工作的，去找那边的农场主管吧。
+qstr_Stranger_go_talk_to_|陌生人，如果你有生意要谈，去找那边的农场主管吧。
+qstr__Relation:_{reg0}|关系：{reg0}
+qstr_{s12}I_want_to_plund|{s12}我想掠夺和保留{s1}给我{s2}
+qstr__no_fiefs_|（没有封地）
+qstr__fiefs:_{s0}_|（封地：{s0} ）
+qstr___The_child_looks_at|— — 孩子饶有兴趣地看着你，笑起来了— — 
+qstr_My_mother_told_me_no|我妈妈告诉我不要和陌生人说话，再见。
+qstr_Running_is_fun!_I_ca|跑步很有趣！我跑得比你快！你想看看吗？
+qstr_We_are_landless_poor|我们没有土地，贫穷又饱受迫害。生活所迫，{reg59?小妞:伙计} 。请别轻举妄动，我们马上离开。
+qstr_Luckily_for_you_you_|你很走运，我现在心情不错。把所有钱交出来，我或许可以让你活下去。
+qstr_This_a_robbery_eh?_I|这是一次抢劫，明白不？我给你一个机会交出你所有的东西，否则我和我的兄弟们将杀了你，明白不？
+qstr_big|大
+qstr_medium_sized|中等
+qstr_small|小
+qstr_don_t_|不要
+qstr_Note_4:_{s9}_has_sen|笔记4 ：{s9}派人来杀你了。他们就在河边埋伏着，虽然你活下来了，但你从此难以安寝。
+qstr___A_large_group_of_S|— — 一大批撒克逊人拦住了你的去路，他们的首领走出来并举手示意。— — 
+qstr_we_have_made_very_li|到目前为止，我们基本没有什么进展
+qstr_we_have_succeeded_in|我们成功占领了一些土地，但是我们还有很长的一段路要走
+qstr_we_have_become_a_sig|我们现在成了显赫一方的势力了，我们很有机会能赢得最终的胜利。
+qstr_we_are_winning_the_w|我们赢得了这场战争，但是我们的敌人还在顽强抵抗
+qstr_we_are_on_the_verge_|我们已经接近最终的胜利了。残余的敌人完全够不成威胁，但是我们仍然需要将他们赶尽杀绝。
+qstr_Warlord|军阀
+qstr_Note_5:_You_fell_in_|笔记5 ：你和莫莉卡相爱了。
+qstr_{s21}_seems_happy._{|{s21}看起来很高兴。{s21}看来挺开心。
+qstr___She_smiles.__|— — 她微笑了— — 
+qstr___He_mutters_somethi|— — 他嘴里嘟囔着，好像在和看不到的人说话。— — 
+qstr___He_seems_very_nerv|— — 他看起来非常紧张恐惧。— — 
+qstr_Please_calm_down._I_|请冷静，我不是你的敌人。深呼吸一下，再告诉关于我母亲的事情。（冷静）
+qstr_You_re_making_me_wor|你让我非常担心……请冷静下来，并告诉我关于我妈妈的事。（谨慎）
+qstr_Relax!_You_re_talkin|别紧张，我没有恶意，而我将保护你免遭任何人的伤害。（易怒）
+qstr_Calm_down_and_tell_m|冷静下来，告诉我关于我母亲的事情！否则，我发誓，只有你的尸体会回答我的问题。（嗜血）
+qstr_Thank_you_for_being_|感谢你的理解。今天太糟糕了，我感觉好点了。听着，我有重要的事情要说。
+qstr_Please_please_do_not|请别那么着急！斯温在焦急时，会把那些打扰他的人的手指全部砍下来。看，我现在好多了，我有重要的事情要说。
+qstr_Oh_well_yes_I_trust_|哦，好，好的，我相信你。她告诉我要相信你。我告诉你所有事情。
+qstr_Oh_my_god..._Do_not_|天啊……别杀我！别杀我！我冷静下来了，我会亲吻你走过的地方。我是你的仆人，奴仆，我什么事情都告诉你。
+qstr___He_seems_calmer.__|— — 他看起来冷静点了。— — 
+qstr_In_Boar_Grove_you_fo|在野猪林，你找到了一个名叫贝达的牧师，他曾经是你母亲的仆人。他现在自由了，因此前来告诉你关于你母亲的事情。你终于能有关于妈妈的消息了，再进一步寻找你就能找到她了。在港口找老船长。他总是在船附近。
+qstr___He_smiles.__|— — 他笑了起来。— — 
+qstr___He_closes_his_eyes|— — 他闭上他的双眼，似乎是在找恰当的语句。— — 
+qstr___He_takes_a_deep_br|— — 他深吸了一口气，缓慢并且平静。— — 
+qstr_Asbjorn_has_joined_y|阿斯比恩加入了你的部队，他是来保证你加入舰队的。除此之外，他还申请以医师的身份服务。现在是时候回到{s3} ，告诉港口主管你准备好出发了。
+qstr___Bodo_seems_excited|— — 博多看起来很兴奋。— — 
+qstr___He_smiles_at_you._|— — 他对你微笑。— — 
+qstr___He_takes_the_lette|— — 他从你手中拿过了信。— — 
+qstr___He_looks_up_from_t|— — 看完之后他把信还给了你— — 
+qstr_Bodo_s_letter_has_fa|博多的信落到你手里了，而且你决定在解决了议事会的事情后，再做进一步的打算。现在，你要告诉{s9}说信在与阿提利的战斗中被烧掉了，并保证{s11}不会用这个来对付他。
+qstr_Brunhild_thinks_that|伯伦希尔认为你是个软弱的领袖。
+qstr_Reginhard_thinks_tha|雷因哈德认为你是个软弱的领袖。
+qstr_Bodo_thinks_that_you|博多认为你是个软弱的领袖。
+qstr_Brunhild_has_advised|伯伦希尔建议你先找到{s9}的敌人，{s11} ，以在当你将自己交给拉格纳之子之前获得支持。
+qstr_I_m_not_sure_I_want_|我不认为自己想听你的意见。（冷静）
+qstr_You_are_worrying_me_|你在让我担心，博多。你想说什么赶紧说！（谨慎）
+qstr_I_m_very_calm..._Tru|我很冷静… 相信我— — 你不会想看见我焦急的样子。我耐性有限，说吧，否则我就揍你。（易怒）
+qstr_Whatever_you_have_to|你想说什么就说吧，我已经在很久之前就做好准备了。（嗜血）
+qstr_I_understand_my_frie|我懂，朋友，但你也得知道……所有事情。
+qstr_Stay_calm_please._I_|保持冷静，拜托了。我会告诉你所有事情。
+qstr_No_need_to_be_aggres|别那么冲动。你知道我对朋友的忠诚。现在，听清楚了。
+qstr_I_admire_your_strong|我佩服你的坚强，那我就说了。
+qstr___He_puts_his_hand_o|— — 他把手放在你的肩膀并很悲伤地笑着。— — 
+qstr___He_sighs_impatient|— — 他看起来有点不耐烦。— — 
+qstr___He_steps_back_take|— — 他退后一步，作了个深呼吸，并看着你的眼睛— — 
+qstr_Sven_wanted_you_but_|斯温想抓你，但他怎么知道在哪里找你？谁背叛了我们？（聪慧）
+qstr_Your_redemption_and_|你的复仇和我的目标是一致的。（坚强）
+qstr_I_understand_that_wh|我知道事情是因为你而发生的，但这不是你的错。（耐心）
+qstr_You_re_responsible_f|你得为发生的一切负责。斯温死后，你也得付出生命的代价。（正直）
+qstr___He_sighs_with_anno|— — 他看起来很烦恼。— — 
+qstr___He_lowers_his_head|— — 他放下他的手，十分尴尬，紧张不安。— — 
+qstr___He_strains_his_fac|— — 他立刻变了脸色并目不转睛地瞪着你。— — 
+qstr_Info:|信息：
+qstr_Regarding_that_matte|根据情况，我本以为沃登里克号很安全，但我错了。（聪慧）
+qstr_Note_Bodo:_Bodo_feel|博多的笔记：博多觉得自己间接地要为沃登里克号的惨剧负责。
+qstr_So_our_paths_have_me|我们命运与共，朋友。我会告诉你其他的事，然后联合起来对付共同敌人。（坚强）
+qstr_Note_Bodo:_Bodo_felt|博多的笔记：博多感到自己间接上该为沃登里克号的惨剧负责，但你原谅了他。
+qstr_Thanks_for_your_trus|感谢你的信任。希望这是值得的。（耐心）
+qstr_That_would_be_just._|这很公平，我为此也付出了代价。当牛颈斯温死后，我会把自己的脖子放在你的剑下。（正直）
+qstr_Note_Bodo:_Bodo_is_i|博多的笔记：博多感到自己间接上该为沃登里克号的惨剧负责，你的正义感要求他必须在牛颈斯温死后为此赎罪，你承诺要杀死他。
+qstr___He_shrugs.__|— — 他耸了耸肩。— — 
+qstr_Finally_all_roads_le|终于，所有证据都指向“蛇眼”{s11} 。牛颈斯温已经带走了你的母亲，因为{s11}想要得到博多给你母亲的一件东西，并告诉了她很重要。斯温认为你的母亲才是这东西的主人，而不是博多。因此，她还活着。你必须赶快在斯温察觉并杀了她之前找到她！
+qstr_Finally_all_roads_lea|终于，所有证据都指向“蛇眼”{s11} 。牛颈斯温已经带走了你的母亲，因为{s11}想要得到博多给你母亲的一件东西，并告诉了她很重要。斯温认为你的母亲才是这东西的主人，而不是博多。因此，她还活着。你必须赶快在斯温察觉并杀了她之前找到她！
+qstr___He_takes_the_mead_|— — 他把酒杯送到嘴边，喝了很久，再看你。— — 
+qstr_You_don_t_trust_me._|你不信我。我理解，我是这里的过客，或许我该走了。（冷静）
+qstr_I_see..._Something_m|看得出来……有些事情让你很紧张。（谨慎）
+qstr_Look_at_me._Who_else|看着我。除了你我这里还有谁？没人！（易怒）
+qstr_You_looked_like_some|你看起来是个能让朋友信任的人，我会再去一次的。(乐观)
+qstr_{s21}_seems_happy.|{s21}看起来很开心。
+qstr_Please_do_not_leave!|请不要离开！让我们继续边喝边谈！
+qstr_Nervous?_Me?_No_mate|你觉得我只是神经质？不，伙计。我是危险的人。
+qstr_I_ve_just_gotten_to_|我刚刚才认识你，我觉得你可能是别人派来想从我口中挖出点什么的人。
+qstr___He_smiles_drinks_a|— — 他微笑了一会，然后又喝了喝酒，你看着蜂蜜酒流出了他的嘴巴，并沿着他下巴流了下来。之后他又打了个嗝。— — 
+qstr___He_seems_not_hear_|— — 他似乎没听到你说什么。当他脑中想到了什么东西的时候，愉悦流露在他的脸上。— — 
+qstr_{s11}_wants_you_to_m|{s11}想要你找到{s4}的艾达，为弗里斯寡妇和孤儿捐款。她的商店在码头处。
+qstr___He_looks_happy_to_|— — 他听到你的话好像很高兴。— — 
+qstr___He_looks_at_you_wi|— — 他深切地望着你。— — 
+qstr_You_have_decided_to_|你决定把阿斯图里亚斯国王的信带给西撒克逊的国王，把它带到{s11} 。
+qstr_You_have_decided_to_g|你决定把信交给拉格纳之子，把它带到{s11} 。
+qstr___Bodo_seems_overcom|-- 博多似乎喜出望外--
+qstr_Note_Bodo:_With_your|博多的笔记：因为你将阿斯图里亚斯国王的信给了丹麦人，博多感到自己被出卖了。这名坎塔布里亚人已经离开了你的队伍，并以死亡来威胁你，让你不要再去找他。
+qstr___His_face_goes_from|— — 他的脸从困惑变得怒不可遏。— — 
+qstr___Brunhild_comes_up_|— — 伯伦希尔向你走来，然后紧紧地拥抱你。— — 
+qstr___His_eyes_are_a_wel|— — 他的眼中充满了悲伤，眼泪在脸颊上流着。— — 
+qstr___Egil_bares_his_tee|— — 埃吉尔露出了他的牙齿，似乎很生气。— — 
+qstr_Note_Reginhard:_Regi|雷因哈德的笔记：雷因哈德在议事会之前背叛了你，你不得不在议事会裁决下的决斗杀了他。
+qstr_Your_men_think_that_|你的人认为你是个强势的领袖。
+qstr___He_seems_surprised|— — 他看起来很惊讶，但是惊讶很快就被强烈的愤怒代替了。— — 
+qstr_Your_men_think_that_y|你的人认为你是个软弱的领袖。
+qstr_Note_Egil:_Reginhard|埃吉尔的笔记：雷因哈德在议事会之前背叛了你，但你原谅了他。但是，埃吉尔不接受你的决定，你不得不依着议事会的判决在一场决斗中杀了他。
+qstr_Note_Egil:_Reginhard_|埃吉尔的笔记：雷因哈德在议事会上背叛了你，但你饶了他一命。不管怎样，埃吉尔并不认同你的做法。因此你不得不在一场你死我活的决斗中杀死了他。^最后，你因为不能原谅他的背叛，将雷因哈德逐出了你的团队。
+qstr_Note_Egil:_Reginhard_b|埃吉尔的笔记：雷因哈德在议事会上背叛了你，但你饶了他一命。不管怎样，埃吉尔并不认同你的做法。因此你不得不在一场你死我活的决斗中杀死了他。^最后，你因为不能原谅他的背叛，所以也杀了雷因哈德。
+qstr___Reginhard_gathers_|— — 雷因哈德带上了他的东西，离开了。— — 
+qstr_Your_men_think_that_yo|你的人认为你是个有力的领袖。
+qstr___You_approach_Regin|— — 你靠近了雷因哈德，用一把刀深深地捅进了他的脖子。你看着他瘫倒，流血，直到他的眼睛闭上。— — 
+qstr_Your_men_think_that_you|你的人认为你是一个强有力的领导者，但他们将会挂念埃吉尔的魅力。
+qstr___He_seems_happy_to_|— — 他听到你的消息后似乎很高兴。— — 
+qstr_Your_men_think_that_you_|你的人认为你是一个不能惩罚背信弃义之人的软弱领导者。
+qstr___He_pushes_the_jar_|— — 他把罐子丢到一边，然后低下了头。— — 
+qstr___He_looks_at_you_wit|— — 他用泪光闪闪的眼睛看着你。— — 
+qstr_Reginhard_has_joined|雷因哈德已经加入了你。他告诉你泰德和他的人在杜里斯特东面的山脚下。泰德的队伍很强，也许你应该带着一大群士兵。
+qstr_{s21}_seems_unhappy.|{s21}看起来不高兴。
+qstr_high|高
+qstr_low|低
+qstr_normal|一般
+qstr_Christianity|基督教
+qstr_Norse_gods|诺尔斯的众神
+qstr_The_subjects_of_our_|我们王国的子民基本上信奉{s4} 。有记录说明{reg13}人接受我们的信仰。
+qstr_The_subjects_of_our_k|我们王国的子民基本上信奉{s4} 。有记录说明{reg13}人放弃我们的信仰。
+qstr_the_{s12}|{s12}
+qstr_the_{s11}_and_{s12}|{s11}和{s12}
+qstr_the_{s11}_{s12}| {s11} ，{s12}
+qstr_We_are_quite_happy_n|我们很高兴目前没有和任何人交战。
+qstr_We_are_at_war_with_{|我们正在和{s12}交战。
+qstr___He_seems_pleased._|— — 他看起来似乎很高兴。— — 
+qstr___He_seems_upset.__|— — 他看起来似乎有点生气。— — 
+qstr___He_seems_distresse|— — 他看起来有点苦恼。— — 
+qstr___He_looks_at_you_with|— — 他看着你，但他的肩膀完全垂了下去。他看起来就像是一个完全沮丧的人。— — 
+qstr___He_looks_with_grie|— — 他悲伤地望着你。— — 
+qstr___He_spits_on_the_gr|— — 他吐在了地上，五官扭曲，愤怒比悲伤显露得更多。— — 
+qstr_Thiaderd_is_dead._Br|泰德死了。把这个消息带给{s3}的雅尔。
+qstr___He_looks_over_your|— — 他沿着你的肩膀看向了远方。— — 
+qstr___He_puts_his_hand_on|— — 他把他的手放上了你的肩膀然后微笑着。— — 
+qstr___He_turns_away_from|— — 他转头来做了个鬼脸。— — 
+qstr___He_nods._You_note_|— — 他点了点头。你注意到他眼里的关注。— — 
+qstr_{playername}_when_we|{playername} ，当我们开始走这条漫漫长路的时候，很少有人有勇气来支持我。而更少的人会愿意为我们这件事冒生命危险。但你在将自己置于敌人之中时并没有丝毫犹豫。我们已经一起经历了太多东西，有那么几次我差点就失去了所有的希望。但我们赢了。现在是时候让我离开你的盾墙，并把本来属于我的东西拿回来。从现在开始，我将肩负着最大的责任心来统治{s3} 。前方还会有许多的挑战，而我依靠着你能帮我克服这些。当然，你会一直成为我最重要的部下。
+qstr_Find_and_speak_with_|找到{s4}的{s3}并和他对话，向他宣誓效忠。
+qstr__We_will_of_course_n|我们当然得等到国家不再进行战役了。
+qstr_I_do_not_like_this_b|我不喜欢这样，但是事情太糟糕了。你能保证你能做到吗？
+qstr_Well_I_guess_I_can_a|好吧我想我可以承认失败，我想你会对我们好点吧？
+qstr_Perhaps..._Do_you_gi|或者说… 你会给我们一个我们会被对待得好点的承诺？
+qstr_There_comes_a_time_w|有时一个好的领导者应该保证他的人能得到好点的福利，你会对我们许下这个诺言吗？
+qstr_The_fort_has_been_de|要塞被雄狮保护着，而我们只能高昂着头离开，你能保障我们的安全吗？
+qstr_Well_I_guess_I_can_ad|好吧，我想我可以承认失败，我们会离开要塞的。但我需要你担保我们不会受到袭击。
+qstr_We_are_ready_to_leav|我们已经准备好了，如果你向我发誓我们可以平安离开这里的话，我们会留下这个要塞给你然后离开。
+qstr_There_comes_a_time_wh|有时一个好的领导者应该保证他的人能得到好点的福利，我们会离开这个要塞，但你要保证你不会攻击我们。
+qstr_You_re_nothing_but_s|你这个人渣，你最好在我们杀了你之前离开。
+qstr_You_re_wasting_your_|你在浪费你的时间— — 如果你有勇气这么做的话。
+qstr_You_have_called_me_f|你就为了这么点事情叫我？我们永远不会向你这样的人投降的！
+qstr_Surrender?_Hah!_We_c|投降？哈！我们可以守住这道城墙直到老死！
+qstr_8000|8000
+qstr_5000.|5000 。
+qstr_3000|3000
+qstr_2000.|2000 。
+qstr_1000|1000
+qstr_{s6}_has_joined_your|{s6}加入了你的部队。
+qstr_{s1}_Rebels|{s1}叛军
+qstr_I_am_{s4}_the_ruler_|我是{s4} ，{s6}的统治者。
+qstr_I_am_{s4}_a_vassal_o|我是{s4} ，{s6}的封臣。
+qstr_{s7}_and_{s8}|{s7}和{s8}
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5?而且是{s8}的领主。: 。}
+qstr_My_name_is_{s4}_and_|我是{s4}我从{s8}而来，我在战场上寻找冒险和荣耀。
+qstr___The_ugly_face_of_a|— — 一个微笑着的男人的丑陋的脸出现在你面前。— — 
+qstr_Fergus_Mael_Bresail_|费格斯告诉你，普雷西尔王子的士兵在农场，宴会可以接待25个人。你必须带来更多伙伴。
+qstr_Fergus_Mael_Bresail_s|费格斯告诉你，普雷西尔王子在农场，宴会只能接待25个人。你必须解雇或者在附近的营地离开他们，之后再回去。
+qstr_Around_you_everybody|你周围，每个人都在农场的盛宴开始时变得忙碌。
+qstr_The_chronicler_has_p|记录者已答应写关于你的事迹并且向世界公布，你是全斯堪的纳维亚的统治者，如果你征服诺尔斯城镇{s3} ，{s9} 和{s11} 。
+qstr_The_chronicler_has_pr|记录者已答应写关于你的事迹并且向世界公布，你是全布立吞的统治者，如果你征服布立吞城镇：{s3} ，{s9} 和{s11} 。
+qstr_The_chronicler_has_pro|记录者已答应写关于你的事迹并且向世界公布，你是全爱尔兰的统治者，如果你征服戈伊德尔城镇{s3} ，{s9} 和{s11} 。
+qstr_The_chronicler_has_prom|记录者已答应写关于你的事迹并且向世界公布，你是全英格兰统治者了，如果你征服盎格鲁和撒克逊城镇：{s3} ，{s9} 和{s11}.
+qstr_Mael_Bresail_has_use|普雷西尔王子利用你杀死了弗莱厄蒂的子嗣。现在，许多北爱尔兰贵族都痛恨你，因为你是杀死皇族的凶手。你没有太多选择，为今之计是去普雷西尔王子的农场附近见他{s3} 。他答应给你很多钱，无论你做什么决定这都会改变你的命运。
+qstr_Mael_Bresail_has_used|普雷西尔王子利用你杀死了弗莱厄蒂的子嗣。现在，许多北爱尔兰贵族都痛恨你，因为你是杀死皇族的凶手。你没有太多选择，为今之计是去普雷西尔王子的农场附近见他{s3} 。无论你做什么决定这都会改变你的命运。
+qstr_Note_4:_You_chose_to|笔记4 ：你选择给普雷西尔王子一条生路。你们再也不会干扰到对方的生活。
+qstr_Note_4:_Morrigan_for|笔记4 ：莫莉卡迫使你结束普雷西尔王子的生命。
+qstr_Note_4:_You_killed_M|笔记4 ：你在农场杀死了普雷西尔王子来报复他的伏击。
+qstr_Morrigan_has_died._R|莫莉卡已经死了，回去领取奖励和一些答案。
+qstr_Note_3:_You_chose_to|笔记3 ：你选择杀死莫莉卡。
+qstr_Oh_I_m_no_murderer..|噢，我并没有想谋杀谁… 我只是想帮助巴尔伦。(冷静的)
+qstr_My_duty_is_but_to_pr|保护巴尔伦是我的责任，我只是做了我应该做的。(忧郁的)
+qstr_I_am_not_a_murderer.|我并不是在谋杀谁。你攻击了巴尔伦，所以我现在将要杀了你。(暴躁的)
+qstr_My_only_goal_is_to_k|我唯一的目标就是要杀了你，因为你对巴尔伦所做的一切，你这个巫婆(嗜血的)
+qstr_Morrigan_has_joined_|莫莉卡加入了你的队伍。回到修道院长那里去取得你的报酬，也许还有某些问题的答案。
+qstr_Note_3:_You_chose_to_|笔记3 ：你选择放莫莉卡一条生路，去普雷西尔王子那里寻找答案。莫莉卡现在成为了你的部队的一份子。
+qstr_My_parents_gave_me_t|我的父母为我取名为{playername} 。我就是你们在等待的第三个勇者。(冷静的)
+qstr_Well_I_am_{playernam|你们好，我是{playername} ，第三个勇者。(忧郁的)
+qstr_My_name_is_{playerna|我是{playername} ，第三个，也是最重要的一个勇者。(暴躁的)
+qstr_I_am_{playername}._A|我是{playername} 。作为第三个被选中的勇者，遇到你们我感到很荣幸。(嗜血的)
+qstr_Ah_well_we_were_wait|啊，你终于来了。我们在这烧焦的破房子前面等了老半天了。
+qstr_Now_you_decide_to_sh|你终于决定要现身了。你迟到了。
+qstr_Yes_yes_I_see_and_yo|嗯，嗯，我知道，你还有个外婆是吧。但不管怎么样，你让我们等了好几天，而我很怀疑这值不值得。
+qstr_Short_and_polite!_Th|简洁明了！不过你来的这么晚，我们都没时间举行一个像样的仪式了。
+qstr_After_being_defeated|被莫莉卡打败之后，你与其他两位勇者艾德和奥乔巴汇合了。经过简单的交流之后，你们决定分头行动。他们将会继续跟踪莫莉卡，而你则先返回{s3} 。卡利卡斯看起来似乎有些问题。
+qstr_Note_2:_Despite_thei|笔记2 ：尽管他们在与莫莉卡战斗时懦弱害怕而拒绝帮忙，在莫莉卡的洞穴中你还是选择放了这两名勇者一条生路。
+qstr_Note_2:_You_chose_ki|笔记2 ：在莫莉卡的洞穴中，你选择杀掉了另外两名勇者。因为他们在面对莫莉卡时因为害怕拒绝帮忙。
+qstr_Note_3:_Without_rega|笔记3 ：你不顾乌尔夫的规矩，允许埃吉尔和索拉交谈。
+qstr_Note_3:_You_decided_|笔记3 ：你决定尊重乌尔夫的规矩，并保护他的女儿索拉的尊严。
+qstr_Note_3:_Without_regar|笔记3 ：你不顾乌尔夫的规矩，决定和他的女儿索拉谈一场浪漫的恋爱。
+qstr_{s9}_has_good_relati|{s9}的关系和你很好。
+qstr___Ulf_seems_very_hap|— — 乌尔夫看起来十分开心。他穿上了奥姆· 斯瓦提的链甲，把剑拿在手上。— — 
+qstr_Thanks_for_sharing_y|感谢您分享的食物和饮料，乌尔夫。（冷静）
+qstr_Thanks_for_sharing_yo|感谢您分享的食物和饮料，乌尔夫。（谨慎）
+qstr_Sour_milk_and_butter|就只有酸奶和黄油面包？你难道就没有更好点的吗？（易怒）
+qstr_Sour_milk_and_buttere|就只有酸奶和黄油面包？我们会接受你可怜的热情，但我期望你是一个更好的人。（嗜血）
+qstr___He_spits_out_what_|— — 他吐了他之前吃的东西然后扔开了他的酒杯。— — 
+qstr___She_raises_her_han|— — 她举起了双手，让大家冷静下来。— — 
+qstr___He_applauds.__|— — 他鼓掌了。— — 
+qstr_Your_men_think_that_you_a|你的人认为你是一个严厉惩罚背信弃义之人的强有力的领导者。
+qstr_{s11}_thinks_that_yo|{s11}认为你是一个差劲的领导者。
+qstr_{s14}|{s14}
+qstr_Your_men_think_that_you_ar|你的人认为你是一个软弱的领导者，容许有人背叛你。
+qstr___Both_stop_surprise|— — 所有人都停了下来，惊讶于你的口气。埃吉尔紧张地转向了你。— — 
+qstr_{s11}_thinks_that_you|{s11}认为你是一个很棒的领导者。
+qstr___Ulf_watches_mouth_|— — 乌尔夫就这么目瞪口呆地看着埃吉尔与雷因哈德带着许多士兵将他的仓库一扫而空。— — 
+qstr_You_fought_a_duel_wi|你和黑人奥姆进行了一场决斗，并杀了他，救下了乌尔夫的农庄和他的女儿索拉。乌尔夫向你保证他不会在议事会上公开指证你，也不会因为索拉的怀孕而问责。
+qstr_Note_3:_Your_romance|笔记3 ：你和索拉在乌尔夫的农场的事情有了下文：她怀了你的孩子。
+qstr_Note_3:_Egil_s_roman|笔记3 ：埃吉尔和索拉在乌尔夫的农场的事情有了下文：她怀了他的孩子。
+qstr_Note_3:_Thora_from_U|笔记3 ：在乌尔夫的农场的索拉和你的一个手下有了孩子。
+qstr___Ulf_s_mouth_opens_|— — 乌尔夫的嘴巴张合了几次，但不知道他在说什么。你看见他的脸通红，看上去像是要爆发一样。他的眼睛四处搜寻找到他的矛。他的农奴们停止了工作，他们大概有五六个拿着刀棍的人，但可能在房子里面有更多人。— — 
+qstr_Do_not_question_me_B|不许质疑我，伯伦希尔。有时真相是残酷的，乌尔夫。（嗜血）
+qstr_I_apologize_Ulf._I_s|我道歉，乌尔夫。我不经大脑就乱说话，我尊重你的女儿。（冷静）
+qstr_I_see_it_is_importan|我知道让你焦虑的东西对你来说很重要。我很抱歉，我为此向你道歉。（谨慎）
+qstr_We_are_friends_Ulf._|我们是朋友，乌尔夫。我向你道歉。（易怒）
+qstr___Ulf_makes_an_effor|— — 乌尔夫努力地冷静下来，然后深吸一口气，看着你的眼睛。— — 
+qstr___Egil_laughs_at_his|— — 埃吉尔一边做不雅手势，一边笑自己的那个笑话。— — 
+qstr___Reginhard_launches|— — 雷因哈德惊讶地吹了个口哨。— — 
+qstr___Ulf_looks_dejected|— — 当看见那个越过你肩膀的巨人时，乌尔夫吓得脸都青了。— — 
+qstr___She_spits_near_the|— — 她吐了一口口水在奥姆的脚边。— — 
+qstr_Note_5:_You_chose_to|笔记5 ：你选择和奥姆· 斯瓦提决斗，因此乌尔夫和索拉就能保住他们的农场和性命。
+qstr_Orm_the_Black_has_pr|黑人奥姆承诺他会杀死乌尔夫并抢走他的农场和女儿。因此你不需要担心乌尔夫会在议事会上公开指证你。
+qstr_Note_5:_You_chose_th|笔记5 ：你选择让奥姆· 斯瓦提杀死乌尔夫并抢走他的农场和索拉。
+qstr_Your_men_are_getting|你的手下已经听腻了这千篇一律的布道词。也许应该隔一段时间再说了。
+qstr_The_priest_at_{s3}_a|在{s3} 的牧师要你给他带{reg33} 罐蜂蜜酒。
+qstr_Your_men_are_getting_|你的手下已经听腻了这千篇一律的神的故事。也许应该隔一段时间再说了。
+qstr___She_smiles_and_loo|— — 她用挑衅的目光看着你。— — 
+qstr___He_jumps_with_joy.|— — 他欢快地跳着。最终他停了下来，深深地吸了一口气。— — 
+qstr_Jetties|码头
+qstr___Egil_stops_looting|— — 当奥利维被带到你面前时，埃吉尔停止了寻找战利品。他向你走来。— — 
+qstr___Olvir_coughs_up_bl|— — 奥利维咳了点血，并把手背起来。他看起来累了，非常累，但仍然很骄傲，昂然站着。— — 
+qstr___He_spits_to_one_si|— — 在开始说话之前，他冷漠地吐了一口口水。— — 
+qstr___His_face_is_pale._|— — 他的脸很苍白，生命结束之前他还能有一点时间。— — 
+qstr___He_has_a_cough_tha|— — 他猛烈地咳嗽，以至于弯下了腰。你看到他的血越流越少，而他的眼睛也渐渐地褪色。— — 
+qstr_Note_4:_You_chose_th|笔记4 ：你选择让白发奥利维，牛颈斯温的兄弟，和他手中的剑一起死去。
+qstr_Here_a_warrior_who_h|在这里，一名出色的战士理应得到进入英灵殿的资格。埃吉尔，把剑给他。（正直）
+qstr___Egil_carefully_put|— — 埃吉尔小心翼翼地把剑放在了奥利维手中，他十分感激地看着你。— — 
+qstr_Note_4:_You_chose_tha|笔记4 ：你选择让白发奥利维，牛颈斯温的兄弟，不能拿着他的剑死去，你决定自己留着这把剑。
+qstr___He_looks_at_you_with_|— — 他用仇恨的目光看着你手中的剑。奥利维闭上了眼睛，口中发出了一个诅咒，但你没有听到。最后，白发奥利维，牛颈斯温的兄弟，就这么死去了。— — 
+qstr_Sven_s_Bull_Neck_bro|牛颈斯温的兄弟，白发奥利维，死在了乌尔夫的农场的战斗当中。埃吉尔认为{s9}会利用这件事情向议事会控诉你，并要求你血债血还。你的同伴建议你再拜访一次{s11} 。
+qstr___The_prisoner_drink|--囚犯如饥似渴地喝着，他看起来真的渴了。--
+qstr_You_weakling!|你这个弱者！
+qstr_You_re_pathetic.|你真可怜。
+qstr_You_give_me_grief.|你让我感到悲痛。
+qstr___He_is_relieved_by_|— — 他为此感到安心。— — 
+qstr___The_prisoner_looks|— — 囚犯有些疑惑地看着你，但他看起来明显轻松了。— — 
+qstr___The_prisoner_nods.|— — 囚犯点了点头。— — 
+qstr___Your_blow_hits_the|— — 你打中了囚犯的脸，他差点跌倒。— — 
+qstr___You_see_the_prison|— — 你看着囚犯咬紧牙关，试图减轻痛苦。— — 
+qstr___He_does_not_answer|— — 他不回答，但你确认他会配合的。— — 
+qstr___The_prisoner_screa|— — 他痛苦地叫起来。或许他会更配合的。— — 
+qstr___The_prisoner_shout|— — 他痛苦地哭叫起来。你确认他会回答你的问题。— — 
+qstr___The_prisoner_s_scr|— — 他的叫声很凄厉，你从来都没到过一个人叫得那么大声。— — 
+qstr___He_seems_uncomfort|— — 你的严刑拷打让他痛苦无比，他会很乐意回答你的问题。— — 
+qstr___The_prisoner_looks_|— — 你的严刑拷打让他痛苦无比，他作出决定后，终于点了点头。— — 
+qstr___He_unsuccessfully_|— — 他试图说了几句话，但用光了最后的力气。— — 
+qstr___He_grabs_his_club_|— — 他紧紧地抱住刑具并笑了笑— — 
+qstr___He_makes_a_gesture|— — 他作出了厌恶的手势。— — 
+qstr_My_name_is_Olafr_and|我的名字叫奥拉夫，我想见你的妹妹。
+qstr_Sven_Bull_Neck_will_|牛颈斯温会杀了你！
+qstr_You_re_an_asshole.|你这个人渣！
+qstr___He_looks_with_tire|— — 他看起来很疲惫。— — 
+qstr_Sven_Bull_Neck_order|牛颈斯温命令我和一群人登陆道琴嘉，并建起一座港垒以保证安全。如果事情发展顺利，我们的首领“蛇眼”西格德就会从丹麦另派100人来帮助{s11}称王。我就知道这些，我认为肯尼莫的雅尔承诺过在他称王之后，会派出500人在夏天加入西格德远征英格兰的军队。但这不可能了，我们失败了，“蛇眼”西格德不会再牺牲更多的人。他会支援他在英格兰的兄弟，你可以休养生息了。
+qstr_{s3}^^{s4}|{s3}^^{s4}
+qstr_All_plans_of_{s9}_to|{s9}的所有称王计划都被你给毁了。他的盟友，丹麦领主“蛇眼”{s11}不会再派来更多士兵，因为他在征兵侵略英格兰。因为你的所作所为，看起来弗里斯也会从维京人的入侵中休息一阵。但可笑的是你现在得从你拯救的土地上逃跑了。
+qstr_I_know_nothing!|我什么都不知道！
+qstr___He_forces_a_smile.|— — 他强笑着— — 
+qstr_Sven_Bull_Neck_has_t|牛颈斯温还有更重要的事情得做。“蛇眼”西格德在几天前召他到丹麦。如果你想知道他在哪，就去问西格德本人。但我建议你最好好好和他说话，而不是像对待我一样。
+qstr_Sigurd__Snake_in_the|牛颈斯温被“蛇眼”西格德叫到丹麦了，看起来雅尔有什么新任务交给他。你最好直接去丹麦向“蛇眼”{s11}发问。{s6}或许是个开始的好地方。
+qstr_I_say_nothing_bastar|我偏不说，杂种！
+qstr___He_twists_his_mout|— — 他歪着嘴鄙夷地看着你。— — 
+qstr_Sigurd__Snake_in_the_| “蛇眼”西格德是牛颈斯温的主子，而斯温是我的主子。他们两个都是强大的人，伟大的战士，所以离他们远点，否则他们会直接送你下地狱。
+qstr_Sven_Bull_Neck_and_{|牛颈斯温和“蛇眼”{s11} ，都是威震丹麦的战士。如果和他们作战，你得小心了。
+qstr_Scum!|人渣！
+qstr___He_tilts_his_head_|— — 他侧着头凝视，在琢磨着怎么回答。— — 
+qstr_You_wish_to_know_abo|你想了解来自杨灵艾庭部落，奥丁的子嗣，伟大的拉格纳· 罗德伯克吗？好吧，他是一个让所有基督徒都心惊胆战的雅尔，曾经多次袭击英格兰和法兰克，以其壮举闻名天下。他非常懂得如何团结并领导士兵。
+qstr___He_looks_directly_|— — 他用果断的蓝色双眸直直地看着你。— — 
+qstr_Ragnar_was_more_than|拉格纳超越了人类，而且他的儿子们也一样。他和他的妻子们有众多儿子，特别是拉芙格莎和阿丝洛，不算其他女人的话。无骨者艾瓦，比约恩· 艾恩赛德，哈弗丹，“蛇眼”西格德，以及乌比等等……他有超过10个儿子和众多女儿。^如果你够聪明的话，就不要正面对抗他们。你甚至最好去请求西格德赦免你在道琴嘉杀死他那么多手下的罪孽。
+qstr___He_spits_to_the_si|— — 在继续说之前他在一旁吐了口痰。— — 
+qstr_Unfortunately_King_A|不幸的是，在英格兰，诺森布里亚国王艾利把拉格纳抓了起来，并把他丢到毒蛇洞里。如今，拉格纳的子嗣们征服了诺森布里亚，杀死了它的国王们。现在诺森布里亚是丹麦的地盘了，很快英格兰的其他地方也得沦陷。“蛇眼”西格德和拉格纳的其他儿子们将从丹麦召集大量人马，他们会加入艾瓦和哈弗丹· 拉格纳逊并进攻英格兰，这是所有人都知道的。
+qstr_Note_1:_Ragnar_Lodbr|笔记1 ：拉格纳· 罗德伯克，一名已故的维京人，妻妾成群，但主要的是拉芙格莎和阿丝洛，有很多孩子，其中一些叫：无骨者艾瓦，比约恩· 艾恩赛德，哈弗丹，“蛇眼”西格德，以及乌比。拉格纳的儿子们为了报复诺森布里亚国王艾利的杀父之仇而大举进攻英格兰。
+qstr___He_thinks_for_a_fe|— — 他稍微思考了一下。— — 
+qstr_Yes_we_attacked_some|是的，在牛颈斯温离开我们去诺森布里亚后，我们的确攻击了一些船。我记得沃登里克号，因为我喜欢这名字。在基督徒来临之前，沃登在英格兰广受信仰。我记得我以前劫掠过的一个村庄里有一家人依然崇拜沃登，他们是唯一的幸存者。沃登，我们称之为奥丁。
+qstr_They_were_idiots._Th|他们太傻了，在我们进攻过的其它船的残骸旁停了下来，这只花了我们好几个小时就抓到他们了。风向非常有利，而这样我们就登上了他们的船。甲板上的战士很少，所以抢那船很容易。
+qstr___He_swallows.__|— — 他咽了口水— — 
+qstr_Very_few_unfortunate|非常少，真不幸。通常我们是抓他们卖做奴隶。
+qstr___He_raises_his_hand|— — 他在回答之前举起了他的手。— — 
+qstr_The_port_master_of_{s|{s3}的港口主管或许知道牛颈斯温的藏身之处。找到他，从他那里套消息，你一般会在船坞附近找到他。
+qstr___One_of_the_captain|— — 其中一个船长大笑起来— — 
+qstr_Hey_hey!_Enough_laug|— — 嘿嘿，别再笑了，让哈罗德继续说他重要的事！
+qstr_You_ragr_insult_my_c|你这混蛋，如果再侮辱我的孩子们，我要把你开膛破肚，让你安静下来。
+qstr___He_looks_at_you_with_i|— — 他以难以掩饰的反感和厌恶看着你。— — 
+qstr___He_spits_overboard|— — 在注视你身旁的来自斯温一方的船长之前，他朝旁边吐了一口痰。— — 
+qstr___He_clears_his_thro|— — 他清了清喉咙并看着你。— — 
+qstr_Note:_Your_mother_is|笔记：你的母亲现在已经成为了牛颈斯温的人质。看起来她的病情加重了，让她记不清几天前的事情。
+qstr___Harald_remains_cal|— — 哈罗德保持冷静，像是司空见惯，开始下令。— — 
+qstr_Sven_Bull_Neck_attac|牛颈斯温攻击了哈罗德· 哈罗德逊的船只，杀了{s9}和许多士兵。{s9}的最后命令是让你告诉{s11}关于牛颈斯温的背叛。在斯温或者他的人之前先找到{s11}并报告，此时让你的话更加可信。
+qstr___The_farmer_lowers_|— — 农民低着头并看着他的脚，他的言语听起来很悲伤。— — 
+qstr___The_farmer_is_trem|— — 那农民害怕地发抖。— — 
+qstr_My_{reg59?lady:lord}|阁下！不要杀我！我会把土地送给修道院的，求你不要杀我！
+qstr_You_threaten_me?_Loo|你在威胁我吗？阁下，我不想再又更多的麻烦了。
+qstr___The_farmer_looks_i|— — 你看到他在哭泣。— — 
+qstr_I_know_I_cannot_do_a|我知道我什么都做不了！我和这里的其他人一样丢了自己的地。修道院还想要更多土地，现在我也知道是那些雅尔在给他们撑腰。我不想再和他们斗下去了。
+qstr_I_m_not_a_liar_my_{r|我不是骗子，阁下！
+qstr_There_is_something_s|这些文件有点奇怪，你不觉得吗？（谨慎）
+qstr_These_lands_are_impo|这些土地对你来说很重要，没有土地，他全家都会挨饿。（坚强）
+qstr_Well_what_more_could|好吧，你对这文件还有什么要说的？（耐心）
+qstr_You_are_a_monk_a_man|你是僧侣，神的代言人，不能说谎。我会相信你对这文件的描述。（正直）
+qstr___You_watch_him_rub_|— — 你看见他在摩擦手掌并躲避你的视线。— — 
+qstr_I_don_t_know._It_loo|我不知道，这看起来一切正常啊，{reg59?女士:先生} 。
+qstr_Our_monastery_needs_|我们修道院需要这些土地来繁荣。修道院跑不了，但那些农民可以自己在其他地方找农田，{reg59?女士:先生} 。
+qstr_I_m_just_a_scribe_in|我只是个修道院的抄写员！我抄写的是古罗马文字。当我在找那些破旧没用的羊皮纸抄写来准备另一个文件时，我找到了这个。
+qstr_Err..._well..._My_I_|恩……好吧……我，没必要回答这个。
+qstr___The_monk_is_trembl|— — 僧侣害怕地发抖。— — 
+qstr_My_God_{reg59?lady:s|天啊，{reg59?女士:先生} ！别杀我！是院长逼我伪造的。他想要这土地，但求你不要告诉别人。
+qstr_You_would_threaten_a|你想威胁神职人员？真无耻！
+qstr___The_monk_lowers_hi|— — 僧侣放下手，畏缩了起来。— — 
+qstr_I_ll_go_to_hell_for_|我会因为伪证下地狱的！是院长逼我伪造的。他想要这土地，但求你不要告诉别人。
+qstr_{s2}^^{s3}|{s2}^^{s3}
+qstr_I_m_not_a_liar_{reg5|我不是骗子，{reg59?女士:先生} 。这文件没什么错。
+qstr_Allt_veit_ek_Odinn_h|Allt veit ek, Odinn, hvar thu auga falt: i inum maera Mimis brunni...^^ 呃… 抱歉。^^ 什么事？
+qstr_Many_men_prefer_Thor|相对奥丁，许多人更喜欢索尔。但是我更喜欢洛基，因为他是众神中最聪明的一个。不过请不要把这告诉任何人。
+qstr_Glad_and_Gyllir_Gler|Glad and Gyllir, Gler and Skeidbrimir, Sillfrintopp and Sinir, Gisl and Falhofnir, Gulltopp and Lettfeti. 每天亚萨众神都骑着这些马，前往世界树的废墟。
+qstr_{s13}_asked_you_to_g|{s13}要你收集{reg3}头牛，并给他送去。
+qstr_{s9}_wants_you_to_fo|{s9}希望你能够在接到进一步的指令以前跟着他的部队前进。
+qstr_{s9}_asked_you_to_sc|{s9}要你侦察{s13} ，{s14}和{s15} ，然后回去向他汇报。
+qstr___He_seems_impatient|— — 他看起来很不耐烦，甚至很失望。— — 
+qstr___He_spits_angry.__|— — 他生气起来— — 
+qstr_It_seems_you_will_no|看起来你不会得到国王的帮助了。你会和“蛇眼”{s11} 直接谈话。
+qstr_{s10}_won_t_support_|{s10}不会支持你和西格德对抗的。
+qstr_{s11}_supports_you_a|{s11}支持你并保证你的安全，直到你得到拉格纳之剑。
+qstr_It_seems_you_will_ha|看起来你不会得到国王的帮助了。是时候和“蛇眼”{s11}摊牌了。
+qstr___Bodo_grabs_your_ar|— — 博多抓住你的胳膊不让你离开，直到国王走后，他凝视着你，开始说话。--
+qstr___He_seems_hurt_puts|— — 他看起来受伤了，一只手放在胸前，并看着你的眼睛。— — 
+qstr_Bodo_lied_about_the_|博多编造了拉格纳之剑的事情。其实信上写的是和西撒克逊的联盟事宜，而现在信已经到了{s11}手里。
+qstr___The_king_seems_imp|— — 国王看起来很没耐心。— — 
+qstr___He_remains_thought|— — 他思考了一下。— — 
+qstr___He_looks_directly_i|— — 他直直地看着你的眼睛。— — 
+qstr___He_sighs.__|— — 他叹了口气。— — 
+qstr___His_hands_move_qui|— — 当他在解释时，双手动得很快。— — 
+qstr_{s10}_needs_to_recov|{s10}需要追回博多的信，来防止其被“蛇眼”西格德利用，以此获得议事会上其他丹麦领主的支持。{s10}告诉你西格德的一个叫阿提利的手下得到了这封信，但是他从{s3}坐船离开了，没人知道他的目的地在哪里。你应该向{s3}的港口主管询问这件事。
+qstr_{s10}_suggested_that|{s10}建议你到农场说服乌尔夫，让他不要到议事会指证你。此外，{s10}认为如果你与丹麦的领主们搞好关系（超过15点好感度）将有很大的帮助，因为他们将在议事会上为你说话。
+qstr___Egil_walks_away_wi|— — 埃吉尔和国王一起散了会步，你看见他们在说悄悄话。然后霍里克离开了，而埃吉尔回到你身边。— — 
+qstr_Note_Egil:_You_chose|埃吉尔的笔记：你选择了无视埃吉尔是{s9}派来的间谍身份。
+qstr_Reginhard_thinks_that|雷因哈德认为你是个软弱的领导者，因为你没有惩罚埃吉尔的背叛。
+qstr_Your_men_think_that_you_are|你的手下认为你是伟大的领导者。
+qstr___Brunhild_s_eyes_ar|— — 伯伦希尔泪水盈眶。— — 
+qstr___She_runs_away_from|— — 她从你身边开。— — 
+qstr___He_seems_hurt_puts_|— — 他看起来受伤了，他的手捂住胸口，并看着你的眼睛。— — 
+qstr_Note_Egil:_You_warn_|埃吉尔的笔记：你警告埃吉尔，让他在议事会后离开你的部队，因为他是{s9}派来的间谍。
+qstr_Note_Egil:_You_warn_E|埃吉尔的笔记：你警告埃吉尔，让他在议事会后和你进行生死决斗，因为他是{s9}派来的间谍并让伯伦希尔心碎。
+qstr___He_looks_worried._|— — 他看起来很担心。— — 
+qstr_Things_being_as_they|事情就是如此，我也不能做什么了。（冷静）
+qstr_I_see._I_don_t_know_|我也不知道该说什么了。（谨慎）
+qstr_Guthrum_s_dead_but_w|古霍死了，但我们还没。相信我，我会帮你解决的。（易怒）
+qstr_Nothing_is_lost._We_|没事，我们已经挫败西格德的计划了。（嗜血）
+qstr_Yes_the_Norns_that_s|是的，命运女神正在玩弄我们，希望她下次能够保佑我们。
+qstr_Don_t_worry_about_it|别担心。我不会和你说那些复杂的事情。
+qstr_I_m_not_so_sure._You|我不确定。你在丹麦至少对我来说有点好处，但其他人，没什么好的。
+qstr_We_ll_see._Sigurd_is|我们会知道的，西格德是拉格纳之子中最狡猾的一个。
+qstr___Harald_seems_tense|— — 哈罗德看起来很紧张，他表情僵硬并目光警惕，就像影子一样时刻保护他的主人。— — 
+qstr___Sven_Bull_Neck_app|— — 牛颈斯温像是个坚强，自信并且天生拥有领导才能的人物，他高大强壮并且嗓音洪亮。最终，你和他面对面了，他让你回忆起沃登里克号的悲剧。那个曾经伤害过你的人就在你的面前。— — 
+qstr___Sven_Bull_Neck_has|— — 牛颈斯温眼闪泪光并用手指责你。— — 
+qstr_The_judges_nod_at_th|判官们对牛颈斯温的言辞点头同意，让你的处境更加复杂。
+qstr___Egil_whispers.__|— — 埃吉尔窃窃私语。— — 
+qstr___One_judge_near_the|— — 一位法官，站在巨石旁边，先看了看斯温和西格德雅尔，又看了看你和霍里克国王，然后他说道：— — 
+qstr_The_judges_nod_at_yo|法官们听了你的话点了点头，你眼下的情况似乎有所改善。
+qstr___Sven_Bull_Neck_smi|— — 牛颈斯温笑了。— — 
+qstr___Egil_comes_forward|— — 埃吉尔走到法官们的面前来。— — 
+qstr___The_judges_confer_|— — 法官们交头接耳了一会儿，然后发言人开口了。— — 
+qstr_The_judges_nod_at_the|法官们听了埃吉尔的话点了点头，你眼下的情况似乎有所改善。
+qstr_The_judges_shake_the|法官们摇了摇头。这使得你眼下的情况有所改善。
+qstr_I_know_{playername}_|我了解{playername} ，我担保他是无辜的。
+qstr_The_judges_nod_at_hi|听了他的话，法官们点了点头。这使得你眼下的情况好多了。
+qstr_In_my_opinion_{playe|在我看来，{playername}是无辜的。
+qstr_The_judges_nod_at_his|听了他的话，法官们点了点头。这使得你眼下的情况有所改善。
+qstr_I_do_not_have_enough|我没有足够的信息能使我做出支持或反对的评判。 
+qstr_In_my_opinion_{player|在我看来，{playername}应对谋杀白发奥利维的指控负责。
+qstr_The_judges_nod_at_his_|听了他的话，法官们点了点头。这使得你眼下的情况大大地危险了。
+qstr___The_judges_confer_a|— — 法官们交头接耳了一会儿，然后发言人开口了。— — 
+qstr___Sigurd_steps_forwa|— — 西格德走上前来，吸引了所有人的注意。他是一位受人敬畏的人，他父亲带给他的阴影任然笼罩着他。— — 
+qstr___While_Sigurd_conti|— — 当西格德继续他的发言的时候，哈罗德走到霍里克国王旁边来，神情紧张地小声说道：— — 
+qstr___Egil_moves_his_han|— — 埃吉尔局促不安地揉了揉他的手，他的额头上沁满了汗珠。— — 
+qstr_Your_men_think_that_you_are_|你的士兵认为你是个软弱的领导者，因为你没有惩罚埃吉尔的背叛。
+qstr_Do_not_rush_to_actio|不要轻举妄动，霍里克国王。西格德一无所有了：阿提利已经死了。（聪慧）
+qstr_We_will_be_allowed_t|我们会被允许对西格德的话作出回应，我们要相信议事会将做出正义的裁决。（坚强）
+qstr_Egil_this_is_the_tim|埃吉尔，是时候向你的父亲展示你的勇气了。（耐心）
+qstr_I_would_accept_my_pu|如果我有罪的话，我会毫不迟疑地在议事会众人面前接受惩罚— — 但我无罪。（正义）
+qstr_You_speak_wisely._I_|你说得很对，我同意并且支持你的观点。我们不能做任何对议事会有所不敬的事。维持权力的平衡是一件微妙的事情，在这里领主们是十分关键的。我们需要看看西格德究竟在反对我们什么。
+qstr_The_Assembly_s_decis|议事会的决定将会取决于双方势力的强弱。所以，我们不能做任何对议事会有所不敬的事。维持权力的平衡是一件微妙的事情，在这里领主们是十分关键的。我们需要看看西格德究竟在反对我们什么。
+qstr_Egil_listen_to_{play|埃吉尔，听听{playername}的话，好好学着。我们不能做任何对议事会有所不敬的事。维持权力的平衡是一件微妙的事情，在这里领主们是十分关键的。我们需要看看西格德究竟在反对我们什么。
+qstr_You_are_right._Moreo|你是对的，而且，我们不能做任何对议事会有所不敬的事。维持权力的平衡是一件微妙的事情，在这里领主们是十分关键的。我们需要看看西格德究竟在反对我们什么。
+qstr___Sigurd_s_face_seem|— — 西格德显得泰然自若。尽管他的话足以废黜一个国王，他依然面不改色心不跳。— — 
+qstr___Everyone_starts_ta|— — 大家都开始对西格德的话议论纷纷，气氛骤然紧张了。最终，法官要求大家安静下来。— — 
+qstr___King_Horik_s_face_|— — 霍里克国王脸色铁青。— — 
+qstr___Reginhard_seems_un|— — 雷因哈德在众人目光之下似乎显得十分不安，他尤其避免接触你的目光。— — 
+qstr___Egil_suffers_a_ner|— — 埃吉尔受了中中一击，喊出声来。— — 
+qstr___Reginhard_looks_sa|— — 雷因哈德看起来很悲伤。— — 
+qstr_The_judges_nod_at_the_|听了雷因哈德的话，法官们点了点头。这使得你的情况非常的危险了。
+qstr___Reginhard_looks_do|— — 雷因哈德低眉垂眼，轻声地说。— — 
+qstr_I_have_always_treate|我一直对你不赖。我不明白发生了什么。（冷静）
+qstr_You_know_that_I_had_|你比任何人都清楚我在泰德、奥利维或者别的事情上— — 没有选择的余地。（谨慎）
+qstr_Wherever_you_may_hid|无论你以后躲到什么地方，我都会找到并干掉你。（易怒）
+qstr_You_betrayed_Thiader|你背叛了你的朋友，泰德，现在你又要背叛我。诅咒你，雷因哈德。（嗜血）
+qstr_What_happened_is_tha|发生的事情就是，泰德死了，我必须接受这个事实并活下去。现在我至少知道有人会替他报仇。
+qstr_I_m..._sorry._I_do_w|我很抱歉……我不得不这么做。
+qstr_I_do_not_think_so._W|我不这么认为，我们不会再见面了。我将会有我的土地、我的妻子，还有领主的保护，而你，要不就是死，要不就是四处逃命。 
+qstr_I_am_damned..._For_t|我真该死……为了这个原因，我需要远离你或者弗里斯，开始一段新生活。
+qstr___King_Horik_clears_|— — 霍里克国王清了清他的喉咙。— — 
+qstr___For_a_few_seconds_|— — 有那么几秒，西格德失去了理智。— — 
+qstr_The_judges_nod_at_you|听了你的话，法官们点了点头。这使得你眼下的状况有所改善。
+qstr_The_judges_seem_anno|法官们似乎很愤怒。
+qstr___Sigurd_Ragnarsson_|— — 西格德· 拉格纳逊将斯温推了回去并站到了中间。— — 
+qstr_Your_men_think_that_you_are_a|你甘当替罪羊，让你的部下认为你是一个软弱的领导者
+qstr_The_Assembly_has_dec|议事会决定举行生死决斗来确定雷因哈德是否应对撒谎负罪。你决定挑选雷因哈德作为对手，惩罚他的背叛，以及对你与国王名誉的亵渎。
+qstr_The_Assembly_has_decr|议事会决定举行生死决斗来确定雷因哈德是否应对撒谎负罪。你决定挑选雷因哈德作为对手，惩罚他的背叛，和对你和国王名誉的亵渎。
+qstr_The_Assembly_has_decre|议事会决定举行生死决斗来确定雷因哈德是否应对撒谎负罪。你决定为了保护雷因哈德和埃吉尔决斗。
+qstr_Your_men_think_that_you_are_a_|你的人认为你是个无能的领袖，居然让他们付你的赔偿金。
+qstr___He_clears_his_throa|— — 他清了清他的喉咙。— — 
+qstr_The_Assembly_has_decree|议事会决议你参加丹麦将要派往英格兰支援拉格纳之子的船队。如果决斗结束，并且你赢了的话，去见阿斯比恩，他在{s3}的酒厅中。
+qstr___Another_judge_take|— — 另一名法官站到了中央。他环顾各方，直到把目光停留在你身上。— — 
+qstr___King_Horik_quickly|— — 霍里克国王很快就控制住了自己对西格德的情绪。— — 
+qstr___Sigurd_Ragnarsson_s|— — 西格德· 拉格纳逊不动声色。— — 
+qstr___Aelfred_of_West_Se|— — 西撒克逊的艾弗德是一个矮小而瘦骨嶙峋的男人。他有着一头直发和一个突出的下巴。他在人群中并不显眼，但他长得的确很有特点。— — 
+qstr___He_takes_the_letter|— — 他拿起信，慢慢读了起来。当他读完的时候，他盯着你看。— — 
+qstr_Your_men_think_that_you_r|你的人认为你将信息告诉了撒克逊人，这违反了你和比约恩的约定。
+qstr_Your_men_think_that_you_h|你的人认为你的言行举止坚定地守护了你对比约恩的许诺。
+qstr___His_face_tired_and|— — 他的脸，疲惫又肮脏，因为这个消息有了快活的神色，好像他很高兴听到这消息。— — 
+qstr_The_morale_of_the_de|守军听了你的话士气振奋。
+qstr___His_face_thin_and_|— — 他的脸，消瘦又肮脏，在如此长的围困之后，更加显得疲惫。— — 
+qstr_The_morale_of_the_def|守军听了你的话士气消沉。
+qstr___His_face_shows_ala|— — 他的脸上写满了警惕。— — 
+qstr___Three_men_well_arm|— — 三个男人，全副武装，在你说话的时候走上前来。 — — 
+qstr___Ivar_looks_at_you_|— — 艾瓦用深邃的眼光盯着你，打量着你，试图衡量你能带来的好处，或危险。— — 
+qstr___Ivar_looks_at_you_w|— — 艾瓦用寒冰一般的目光盯着你，考量着你是不是在说笑。他的嘴角咧成一道细缝，脸上的肌肉紧绷。他好像要说什么，但欲言又止。你不知道他是看你顺眼，还是已经将你列为他的敌人。— — 
+qstr___Ivar_looks_at_you_wi|— — 艾瓦用寒冰一般的目光盯着你，细细地打量着你。— — 
+qstr___Ivar_smiles_but_th|— — 艾瓦笑了，但是他的笑似乎不含多少善意。他的嘴角微微翘起，显得又是在表示轻蔑，又是在进行恐吓。 — — 
+qstr_Return_to_{s11}_and_|回到{s11}身边并且告诉他，他的兄弟同意和撒克逊人会面。
+qstr___He_takes_you_aside|— — 他将你拉到一边，他的嘴角翘起，脸色深红，带着狂怒的神情看着你。— — 
+qstr___He_looks_carefully|— — 他细细地看了你几秒，用他蛇蝎一般的眼神。— — 
+qstr___He_looks_suspiciou|— — 他怀疑地看着你。— — 
+qstr_Collect_more_than_tw|为西格德· 拉格纳逊征集至少两百人。
+qstr_Collect_two_hundred_|为{s11}征集两百人。
+qstr___He_looks_surprised|— — 他看起来很惊讶。— — 
+qstr_You_don_t_trust_me!_|你不信任我，我明白。但是对我来说，找到母亲十分重要。牛颈斯温攻击了我乘坐的那艘船并且绑架了我的母亲，因为她身上带着一样东西，不过他肯定是弄错了。（冷静）
+qstr_I_think_you_misunder|我认为你误解我了。如果我见不到我母亲，我是不会离开这儿的。牛颈斯温攻击了我乘坐的那艘船并且绑架了我的母亲，因为她身上带着一样东西，不过他肯定是弄错了。（谨慎）
+qstr_I_m_not_an_ordinary_|我也不是一个普通的{reg59?女人:人} 。让我见到牛颈斯温和我的母亲，不然休怪我不客气！牛颈斯温攻击了我乘坐的那艘船并且绑架了我的母亲，因为她身上带着一样东西，不过他肯定是弄错了。她在哪儿？（易怒）
+qstr_I_think_that_we_have|我认为我们一开始就搞错了。告诉我牛颈斯温在哪，我就再也不会再来烦扰你了，我只想见到我的母亲。牛颈斯温攻击了我乘坐的那艘船并且绑架了我的母亲，因为她身上带着一样东西，不过他肯定是弄错了。（嗜血）
+qstr_Your_mother_is_the_w|你的母亲就是那个通神的人？是的，斯温将她带给了我。我问过，她是带着一样东西，一封信，他们在海上被拦截了。我和她交谈过，是的……她提到了一个叫做博多的男人，在一条叫做沃登里克号的船上，他把它给了她。你知道这个名字吗？
+qstr_You_destroy_my_plans|你毁了我在道琴嘉的计划，现在你又来威胁我？你要么就是一个十足的傻瓜，要么就和你的母亲一样的疯癫！你应该感到庆幸我对你的回答还感兴趣。是的，斯温将她带给了我。我问过，她是带着一样东西，一封信，他们在海上被拦截了。我和她交谈过，是的……她提到了一个叫做博多的男人，在一条叫做沃登里克号的船上，他把它给了她。你知道这个名字吗？
+qstr_Your_mother_is_the_wo|你的母亲就是那个通神的人？是的，斯温将她带给了我。我问过，她是带着一样东西，一封信，他们在海上被拦截了。我和她交谈过，是的……她提到了一个叫做博多的男人，在一条叫做沃登里克号的船上，他把它给了她。你知道这个名字吗？
+qstr___He_looks_at_you._H|— — 他看着你，他的眼睛，他的神情，甚至他脸上的皱纹都显示出他极度的焦虑。— — 
+qstr_{s9}_accepted_your_d|{s9} 接受了你的交易。你将博多交给了他，他告诉你他会把牛颈斯温和你的母亲送到{s3} 附近的农场。
+qstr_{s9}_has_proposed_a_|{s9}提出了一个建议，在{s3}附近的农场，用博多交换牛颈斯温和你的母亲。
+qstr_Note_Bodo:_you_chose|博多的笔记：你选择忠于博多，没有在农场将他与西格德作交换。
+qstr_Note_Bodo:_you_chose_|博多的笔记：你已经决定将博多交给{s11}用来交换你的母亲。
+qstr_Sven_is_my_goal_too.|斯温也是我的目标，我想要加入这场追捕。（冷静）
+qstr_Sven_is_mine!_I_want|斯温是我的！我要他死！我要加入这场追捕。（谨慎）
+qstr_No_you_listen_to_me!|不，你必须听我的！斯温将为我付出代价。把这个人交出来！（易怒）
+qstr_Yes!_Those_are_just_|是的，这些才是我想听到的话！在海上攻击他！（嗜血）
+qstr_Your_goal?_Who_are_y|你的目标？你以为你是谁？你有船只和人手吗？
+qstr_Yours?_Sven_is_a_mur|你的人头？斯温是个刽子手，但却不是一个傻瓜。他会等着我们的，他的人都是有经验的维京海盗。如果你要去攻击他，那么就去吧。不过我希望你有足够的人手和船只。 
+qstr_Beware!_You_may_be_i|喂！你在我的地盘上，但是我的好客也是有限度的，嘴巴放干净些！你需要足够多的人手和船只，还得说服他们让你领导者这场远征。
+qstr_Your_enthusiasm_glad|你的执着令我感动，我希望我的人也能如此执着，但是他们都太害怕斯温了。你现在有多少人马？
+qstr___He_looks_into_your|— — 他带着惊奇的目光直视你的眼睛。— — 
+qstr_This_hunt_is_my_life|这场追捕就是我的生命，不达目的誓不罢休。（冷静）
+qstr_Sir_I_have_lost_ever|先生，我已经失去一切了… 我现在就靠着复仇的欲望生存… （谨慎）
+qstr_I_shall_not_leave_un|在你给我一个机会之前，我不会离开，我要一直在你的门前等待。（易怒）
+qstr_You_just_cannot_see_|先生，你现在看不出来，但是你需要我。我不害怕斯温的！（嗜血）
+qstr_Alright!_Alright!_I_|好吧！好吧！我想想… 嗯，我有一个想法。听我说。
+qstr_Oh_by_Thor!_This_isn|哦，索尔在上！这并不必要，是吗，{reg59?姑娘:伙计} ？好吧，我会给你一次机会。
+qstr_Yes_yes_you_are_very|对，对，你非常认真。好吧，我有个主意。
+qstr_Someone_who_is_not_a|不害怕斯温的人都是愚蠢的，但或许我可以给你一个证明自己价值的机会。
+qstr_You_have_offered_you|你向{s11}表示效忠，以此作为追捕牛颈斯温的条件。{s1}让你证明自己的能力。
+qstr___He_makes_the_sign_|— — 他利用奥丁的标志洗脱霉运。— — 
+qstr_{s11}_wants_the_prob|{s11}想让你到{s3}附近的修道院解决土地争议，去找卫利波洛修道院的院长。
+qstr_Note:_The_jarl_has_a|笔记：雅尔让你以最好的办法解决这个争议，意味着你不能让僧侣们为难。
+qstr_{s9}_sent_you_to_rec|{s9}派你到弗里斯的村庄和城镇招募15名士兵后，回来向他报告。
+qstr_{s11}_wants_Thiaderd|{s11}想要杀死泰德。你需要在{s3}的蜜酒厅找雷因哈德谈话，他知道泰德躲藏在哪里。
+qstr___His_eyes_show_joy_|— — 他的眼睛露出喜悦，很有信心地拍拍你的背部。— — 
+qstr_{s11}_told_me_that_S|{s11}告诉我牛颈斯温是“蛇眼”西格德的手下。如果我到达丹麦，就去找{s9} 。
+qstr_Your_king_has_not_wr|你的国王没有冤枉我。不过，你欺骗了我，你看来不像可以帮助我追杀斯温的人。（冷静）
+qstr_Every_time_I_finish_|每次我完成你给的任务，你就会给我新的！而在此同时我的仇敌斯温还在好好地活着。（谨慎）
+qstr_Jarl?_You_promise_mu|雅尔？你是这么答应的，但我肯定当我把你的背叛告知你的国王，他也会这么承诺。（易怒）
+qstr__Jarl?__I_like_that_| “雅尔”？我喜欢，但要是所有的脏话都由我来干，能当“国王”就更好了！（嗜血）
+qstr_I_can_only_help_you_|很简单，如果你帮助我的话，我也会帮助你。但我不是国王，我没有军队或物资去追捕斯温。你说了算。
+qstr_The_difference_is_th|不同的是现在你嬴得了我的信任，我要求你做的只有一件事：杀了国王，斯温就是你的了。
+qstr_The_king_will_not_be|国王不会相信你，因为你是一个陌生人。如果你敢胡说八道，我就会告诉他你是个骗子，他会下命杀了你。
+qstr_I_admire_your_ambiti|我佩服你的野心，但这里只能有一位国王，而在弗里斯的丹麦人只会接纳一个像我这样知名而可信的人成为国王。
+qstr_{s11}_wants_me_to_ki|{s11}为了登上{s3}的王位，让我去杀了他的叔叔，{s9}国王，然后给我士兵和资源去追杀斯温。
+qstr_{s11}_wants_me_to_kil|{s11}为了能自由地登上{s3}的王位，让我去杀了他的叔叔，{s9}国王，然后给我士兵和资源去追捕斯温。
+qstr_Note_3:_You_have_cho|笔记3 ：因为{s9}的背叛以及他与牛颈斯温的主子结盟，你选择成为了他的敌人。你知道他将派人刺杀你。
+qstr_I_did_not_know_your_|阁下，我不知道你的计划。道琴嘉请求我的帮助，我就去了。（冷静）
+qstr_Calm_down_and_tell_me|冷静一下，告诉我有什么问题。我们都是文明人。（谨慎）
+qstr_There_is_only_one_tr|这里只有一个叛徒，那就是你。该死的狗！你要付出代价。（易怒）
+qstr_These_Vikings_were_f|这些维京人势单力薄。如果你打算靠他们的帮助得到王位，你就是个傻瓜。（嗜血）
+qstr_Note_3:_You_chose_no|笔记3 ：即使{s9}背叛了你，与{s11} ，牛颈斯温的主子结盟，你也选择不去公开对抗他。
+qstr_Note_3:_You_chose_to_b|笔记3 ：由于肯尼莫的雅尔的背叛以及他与西格德，即牛颈斯温的主子结盟，你选择成为肯尼莫的雅尔的敌人。你知道他将派出刺客追杀你。
+qstr_Note_3:_You_chose_not|笔记3 ：即使{s9}背叛了你，与{s11} ，牛颈斯温的主子结盟，你也选择不去公开对抗他。
+qstr_Leave_Friese:_Your_r|离开弗里斯：你已经和雅尔翻脸，你是他的敌人。如果你胆敢再次露面，他将不惜派人暗杀你。
+qstr_Leave_Friese._Your_r|离开弗里斯：你已经和雅尔翻脸，他指责你破坏了他夺取王位的计划。你在这段时间内最好不要接近他— — 直到你能取回他的信任。
+qstr_You_were_wrong._Thes|你错了。这些人正打算夺取村庄，然后驻守在这里，等待更多从丹麦来的士兵。现在这已经不可能了，你终结了我的梦想。“蛇眼”西格德会因为你而认为我是一个叛徒，他会来杀我。走开！你在这里不受欢迎。如果我们再见面，我不知道我能不能控制自己不杀你。^^我建议你离开弗里斯。
+qstr_There_s_nothing_to_t|没有什么可以谈的。这些人正打算夺取村庄，驻守在这里，等待更多从丹麦来的士兵。现在这已经不可能了，你终结了我的梦想。“蛇眼”西格德会因为你而认为我是一个叛徒，他会来杀我。走开！你在这里不受欢迎。如果我们再见面，我不知道我能不能控制自己不杀你。^^我建议你离开弗里斯。
+qstr_Leave_Friese._Your_re|离开弗里斯：你已经和雅尔翻脸，他指责你破坏了他夺取王位的计划。你在这段时间内最好不要接近他— — 直到你能取回他的信任。
+qstr_You_are_bold_rat_to_|你这鼠辈真是大胆，竟敢在你的所作所为之后还来见我。看在你曾为我办事的份上，我会给你几天时间准备，之后你就等着来取你性命的杀手吧，因为我将悬赏你的人头。^如果你不离开弗里斯，或者我们再见面的话，我会亲自杀了你。
+qstr_Leave_Friese._Your_rel|离开弗里斯：你已经和雅尔翻脸，你是他的敌人。如果你胆敢再次露面，他将不惜派人暗杀你。
+qstr_No_you_are_a_fool._T|不，傻瓜，这些人正打算夺取村庄，然后驻守在这里，等待更多从丹麦来的士兵。现在这已经不可能了，你终结了我的梦想。“蛇眼”西格德会因为你而认为我是一个叛徒，他会来杀我。我会给你几天时间准备，之后你就等着来取你性命的杀手吧，因为我将悬赏你的人头。^如果你不离开弗里斯，或者我们再见面的话，我会亲自杀了你。
+qstr_Investigate_events_i|调查{s3}的事件。
+qstr_Help_defend_{s3}.|协助{s3} 。
+qstr_The_king_does_not_be|国王不相信你，你需要找到他叛国的证据，也许{s3}的索里克能够帮助你。
+qstr_It_seems_you_will_not|看来你得不到国王的帮助，你不得不直接与“蛇眼”{s11}当面对质了。
+qstr_{s10}_won_t_support_y|{s10}不会帮助你对抗{s9} 。
+qstr_I_did_not_want_to_ki|我不想杀死阿提利，但我别无选择。（冷静）
+qstr_I_am_aware_of_the_se|我知道这有多么危险，你不必提醒我。（谨慎）
+qstr_I_did_this_for_you._|我做这一切都是为了你。如果没有我，这封信就会落到西格德的手上，他就可以夺取王位了。（易怒）
+qstr_Come_on_sire_I_left_|没关系，陛下，我没有留下目击证人。议事会无法指控我任何罪名。（嗜血）
+qstr_I_see._Well_it_is_yo|我明白。好吧，这是你自己的性命。
+qstr_Well_if_Ulf_doesn_t_|好吧，如果乌尔夫不再指证你，或者有一些领主支持你，你可能还有机会。
+qstr_Mark_my_words_{reg59|记住我的话，{reg59?女士:先生} 。如果西格德得到王位，你的性命会变得一文不值。别说你为我做事，其实你只是为了保护自己的利益。
+qstr_Remember_that_I_am_t|请你记住当你提到我时候，不要漏了国王的称呼。
+qstr_It_seems_that_everyt|看来所有东西都为你的审判准备好了。一旦议事会需要你的出现，{s10}将派人警告你。
+qstr_{s9}_wants_you_back_|{s9}希望你和{s11}回来。
+qstr_{s9}_wants_you_to_me|{s9}想让你去诺丁汉附近与西撒克逊的{s11}会面，提出议和的建议。
+qstr___You_perceive_that_|— — 你察觉到你的消息已经深深地扰乱了他。— — 
+qstr_I_guess_you_ve_weigh|我想你在做決定之前，已经权衡了所有选择的利弊。（冷静）
+qstr_So_all_is_not_lost!_|因此我们还有机会！（谨慎）
+qstr_Retreat_is_dishonora|撤退是不光彩的行为。如果我是这支军队的领导者，我将带领它走向胜利。（易怒）
+qstr_Come_come._Retreat?_|哼，撤退？你是懦夫吗？（嗜血）
+qstr_We_must_be_realistic|我们必须面对现实。否则，我们可能失去已经得到的一切。
+qstr_You_need_not_be_so_d|别这么激动，我们还没有输，该死的！我只是在作出最符合逻辑的决策。
+qstr_Well_I_happen_to_lik|好吧，我喜欢与人比胆量。仔细听，因为我认为这会令你感兴趣。
+qstr_No_I_d_rather_be_a_c|不，我宁愿当一个聪明的活人，而不是鲁莽的死人。注意你的言辞！记住你是在和拉格纳之子说话。如果整个诺森布里亚都担不起侮辱我们家族的后果，你凭什么认为自己就可以？
+qstr_{s9}_wants_you_hunt_|{s9}希望你到{s3}附近追击并摧毁西撒克逊征粮队。
+qstr_{s9}_wants_you_deliv|{s9}希望你给他在{s3}的兄弟送信，提醒他们丹麦的援军已经没有指望了，比约恩将与撒克逊人展开停战谈判，并从麦西亚撤离。
+qstr___You_perceive_your_|— — 你认为你的消息深深地扰乱了他。他在回答你之前重重地哼了一声。— — 
+qstr___He_looks_into_your_|— — 他深切地看着你，然后让一个仆人大声地把信念完。之后拉弗伯斯面带微笑地看着你。— — 
+qstr___He_bites_his_lower|— — 他咬着嘴唇思考了几秒。— — 
+qstr_Note_1:_You_gave_the|笔记1 ：{s9}感谢你把信交给拉格纳之子们，现在你正帮助他们。
+qstr___He_rests_a_hand_on|— — 他把一只手放在你的肩膀上— — 
+qstr___He_laughs_loudly._|— — 他放声大笑— — 
+qstr_{s9}_wants_you_find_|{s9}希望你找到{s4}的{s3}并且向他宣誓效忠。然后返回，他要交给你一个任务。
+qstr_As_he_rejoins_his_br|当他与他的兄弟们聚会商讨如何处置博多的信件时，{s11}让你前往奥尔本王国，攻下{s3} 并守住三十天，以此削弱皮克特人，确保诺森布里亚的丹麦人不会腹背受敌。
+qstr___He_takes_a_deep_bre|— — 他深呼吸了一下。— — 
+qstr___He_smiles_pleased.|— — 他很高兴，面带微笑。— — 
+qstr_The_time_to_meet_wit|随着时间的推移，与阿斯图里亚斯军队会面的日子到了。博多在信中提到他们会停靠在{s3} ，并且{s11}想让你去和他们汇合。那有一个名叫西诺的叛徒。我们可以利用他来讨好阿斯图里亚斯的军队，并且让他们反水到拉格纳之子的一方。但是如果你不能说服他们，{s11}希望你可以击败他们。^^在离开英格兰之前，你必须到{s3}和那里的老船长谈谈，{s11}正在当纳莱斯集合士兵和战场来支援你。
+qstr_The_king_wants_no_le|国王不想写信，你被派去传话给他的兄弟，{s11} 。
+qstr___He_takes_the_letter_|— — 他从你的手中拿过信，你看见他的手指沾有墨水。艾弗德慢慢阅读这封信，对信的内容很感兴趣。阅读完毕后，他没说话，要求和博多走到一边，二人谈了很长时间。— — 
+qstr_Note_1:_You_gave_the_|笔记1 ：你把这封信给了西撒克逊人。{s9}很感谢你，你正在帮助他。
+qstr___For_a_moment_he_sh|— — 在这一刻，他感到惊喜。— — 
+qstr___He_studies_you_slo|— — 他仔细地打量你，好像在检查一匹马。— — 
+qstr_{s9}_wants_you_to_fi|{s9}希望你找到{s4}的{s3}并且向他宣誓效忠。然后返回，他要交给你一个任务。
+qstr_{s11}_has_asked_you_|{s11}让你前往威尔士，攻下{s3}并守住二十天。
+qstr_The_time_to_meet_with|随着时间的推移，与阿斯图里亚斯军队会面的日子到了。博多在信中提到他们会停靠在{s3} ，并且{s11}想让你去和他们汇合。那有一个名叫西诺的叛徒。你必须巧妙地揭露他的身份，这样就不会破坏你与阿斯图里亚斯的关系。^^{s11}正在当纳莱斯集合士兵和战船，你得去和{s3}港口的老船长谈谈。
+qstr___He_snaps_his_finge|— — 他打了个响声。— — 
+qstr_You_must_enter_the_s|你必须效忠{s11} ，做好随时战斗的准备。
+qstr___He_looks_at_you_co|— — 他居高临下地看着你。— — 
+qstr___He_scratches_his_c|— — 他深思熟虑到划过自己的下巴。他是个只有二十岁的年轻人，但已经受人尊重。— — 
+qstr_{s13}_asked_you_to_ga|{s13}要求你收集{reg3}头牛，并把它们带回来。
+qstr_{s13}_asked_you_to_gat|{s13}让你搜集{reg3}头牲畜并送到阿先顿，然后回到他身边。
+qstr___He_puts_his_hand_on_|— — 他把手放在你肩膀上，并且看着你的眼睛。— — 
+qstr_You_ve_joined_your_a|你已经与{s11}的军队会合，等待着丹麦大军的来临。看来西撒克逊的命运马上就要揭晓了。
+qstr___He_pats_your_back.|— — 他拍拍你的背部。— — 
+qstr_You_must_enter_the_se|你必须效忠{s11} ，做好随时战斗的准备。
+qstr___Halfdan_laughs_lou|— — 哈弗丹放声大笑。— — 
+qstr___He_confidently_tou|— — 他自信地抚摸你的头发。— — 
+qstr_{s13}_asked_you_to_gath|{s13}让你搜集{reg3}头牲畜并送到雷丁镇，然后回到他身边。
+qstr___He_hugs_you_tightl|— — 他紧紧地拥抱你，像一头熊。— — 
+qstr_You_ve_joined_your_ar|你已经与{s11}的军队会合，并准备向阿先顿的撒克逊人进军。看来西撒克逊的命运马上就要揭晓了。
+qstr_{s9}_told_you_that_S|{s9}告诉你牛颈斯温已经前往雷丁镇，他攻下了那里。是时候去结束沃登里克号上开始发生的一切了。不能让斯温再次逃跑，我们去雷丁镇。
+qstr_You_already_have_my_|你已经得到我的允许，不要再拿同样的问题来烦我。
+qstr_You_are_an_enemy_of_|你是我国的敌人。
+qstr_You_must_earn_my_tru|你在我的土地募兵前必须先取得我的信任，现在我们的关系很坏。
+qstr_I_don_t_know_if_I_tr|我不知道应不应该信任你，任由你把我治下的人们带到战场上。先证明你自己的能力，再来找我。^^（150 以上声望）
+qstr_No._I_do_not_know_wh|不，我不知道你是谁。如果你想在我的领地招人，你必須先赢得我的信任。^^（150 以上声望，或15 点以上好感度）
+qstr_Well_I_ve_come_to_kn|好吧，我了解你，我允许。因此，我在此下令，任何一个人都能自愿加入你的队伍，只要他没有向其他领主宣誓效忠。
+qstr_you|你
+qstr_You_are_challenging_|你准备向我发起决斗？开什么玩笑！如你所愿，{playername} ，打暴你的头将会是非常有意思的事情。
+qstr_{s16}_and_{s17}|{s16}和{s17}
+qstr_Very_well_I_will_acc|很好，如果你再次庄严地向我宣誓，我可以接受你回到我这边来。
+qstr_A_pardon_will_only_b|我不会宽恕你的，除非你把{s17}割让给我。你同意我开出的条件吗？
+qstr_No._There_is_no_chan|不，我们之间没有机会保持和平，我对这个不感兴趣。
+qstr_I_may_be_able_to_hel|我可以帮助你渡过这个微妙的时刻，^^不过，你身上是否正好带有{reg7}先令呢？
+qstr_I_have_heard_of_your|我听说你曾恶劣地对待我的子民，
+qstr_{playername}_your_tr|{playername} ，你在过去残暴的对待我的属民，但是战争就是这样。我愿意帮你了结此事。给我{reg7} 先令，我帮你解决它。
+qstr_{playername}_we_all_|{playername} ，我们都曾经犯错，尽管你曾恶劣地对待我的子民，但我没有心怀怨恨。我会帮你重拾人们的信任，让他们相信你是一位正直的统治者。请让我带走{reg7}先令，我将为你办好事情。
+qstr_Rumor_has_it_that_{s| 有流言说{s35}偷偷把钱藏起来了。
+qstr_Rumor_has_it_that_{s3|有流言说{s35}把钱拿走了。
+qstr_{s34}|{s34}
+qstr_Your_efforts_to_brib|你贿赂当地居民的行动失败了。
+qstr_Our_marshal_{s1}|我们的元帅，{s1}
+qstr_We_are_not_at_war_wi|我们没有与任何人交战。
+qstr_go_on_the_offensive_|马上去进攻。
+qstr_act_to_defend_our_la|进行领土保卫。
+qstr_take_more_time_to_ga|多花点时间来集结军队。
+qstr_You_promised_to_help|你答应帮助{s13}夺回{s14}的王座。
+qstr_What_do_you_say_to_e|你说要作为佣兵队长为{s9}效忠？我毫不怀疑，你非常胜任。
+qstr_{s8}_asked_you_to_tr|{s8} 请求你追踪一群洗劫了他们的村子{s9} 的流浪汉。  
+qstr_{s9}_asked_you_to_ta|{s9}要你带一个口信给{s13} 。在你接受这个任务的时候，{s13}确信在{s4} 。
+qstr_{s9}_asked_you_to_tak|{s9}让你带个口信给{s15}的{s13} 。当你接受这个任务时，{s13}相信正在{s4} 。
+qstr_{s11}_asked_you_to_e|{s11}要求你护送主教从{s22}出发去{s14} 。
+qstr_{s11}_asked_you_to_r|{s11} 要求你去洗劫在{S34} 附近的{s14} 的修道院，并带回来至少{reg33} 先令。
+qstr_{s11}_asked_you_to_es|{s11}要你护送他的{s17}{s13}到{s14} 。
+qstr_{s13}_asked_you_to_d|{s13}要你对付那些侵占了{s15}村避难所的强盗，并返回向他报告情况。
+qstr_{s9}_asked_you_to_ra|{s9}要求帮他训练{reg1}名{s14} ，并给他送去。
+qstr_{s9}_asked_you_to_co|{s9}要你去{s3}征税。他答应你征收的税款中的20% 归你所得。
+qstr_{s9}_asked_you_to_hu|{s9}要你抓捕名叫{s4}的通缉犯。他现在确信在{s3} 。
+qstr_{s9}_asked_you_to_as|{s9}要你杀死一个{s3}的地方商人。
+qstr_{s9}_has_asked_you_t|{s9}要你到{s13}见一个间谍。
+qstr_{s11}_asked_you_to_f|{s11}要你跟踪将要离开{s12}的间谍。你必须小心，别让他在半路发现你，否则他可能会起疑心并折返回去。一旦他与他的同伙碰头，你得伏击他们并把他们两人带回去交给{s11} 。
+qstr_{s11}_asked_you_to_c|{s11}让你俘虏来自{s13}的一名领主，然后安全地带回{s11} 。
+qstr_{s9}_asked_you_to_le|{s9}要你把你的同伴{s3}借给他用一个星期。
+qstr_{s9}_asked_you_to_col|{s9}要求你收集{s3}欠他的{reg4}债款。当你接受这个任务时，{s13}相信正在{s4} 。
+qstr_{s11}_gave_you_a_fak|{s11}给你一封伪造的信，要你送给{s13} ，以欺骗他让他流放他的封臣{s16} 。你得到{s14}附近，并把信交给你的一个{s15} ，然后把他作为一个信使送到城镇里去。相信他的命令会变成真的。
+qstr_{s9}_has_requested_y|{s9}要你帮他抓捕{reg1}个{s3}俘虏。
+qstr_Lend_your_experience|把你老练的外科医生{s3}借给{s1} 。
+qstr_Oh_Dear!_We_have_bee|噢，亲爱的！是个男孩！
+qstr_Oh_Dear!_We_have_rec|噢，亲爱的！是个女孩！
+qstr_Oh_Dear!_Twins_are_b|噢，亲爱的！是对双胞胎！
+qstr_Oh_dear_{playername}|亲爱的{playername} ，我感觉很疲倦。(她向你微笑) 耐心一点，怀胎九月呢。
+qstr_I_m_thinking_of_a_na|我正在思考孩子的名字呢。如果是个男孩，就叫他{playername} ，如果是个女孩，就叫我的名字。
+qstr_I_m_fine._I_will_not|我很好。我不会在意他们的那些玩笑的。我知道这不是隔壁老王的孩子。
+qstr_Time_flies_away_from|时间在战争，忧虑，和艰难的长途跋涉中匆匆逝去… 九个月后，你的孩子就要出生了。
+qstr_Then_take_it_with_my|收下这些吧，这些代表我永恒的谢意。你是一个高尚的人。我永远都不会忘记你在我最需要的时候帮助了我。
+qstr_Forgive_me_{playerna|原谅我，{playername} ，但是我坚持让你接受。这些钱对我来说算不了什么，我欠你的太多了。给你，拿去吧，我们不要再谈这个了。
+qstr_{playername}_what_a_|{playername} ，你是多么可爱的人，但是我不允许你拒绝我的礼物。我欠你的人情难以想象，我相信你会把钱用在比我自己更好的方面。
+qstr_I_know_you_re_at_war|我知道你正与他的国家开战，所以要把这信息传达给他也许有些难。但我也知道你能办到。
+qstr_{s11}_asked_you_to_d|{s11} 请你向{s3} 传达一个信息。
+qstr_Oh_{playername}_my_h|哦，{playername} ，我的丈夫忙于公事，你能帮我带去{reg25}件{s17} ？
+qstr_Oh_{playername}_coul|哦，{playername} ，你能帮我个忙么？某天我碰到一个商人，他在大门旁卖一些新奇的玩意儿。可惜的是，我无法自由地花钱...你能发发善心，帮我带来{reg25}件{s17}吗？
+qstr_{s11}_asked_you_to_b|{s11} 要求你给她带去{reg25}件{s17}.
+qstr_Oh_{playername}_my_hu|噢，{playername} ，我的丈夫{s15} 忙于公事，我想为他办一个惊喜派对。你能做件好事，帮我带来{reg25}瓶{s17}和两件奶酪吗？
+qstr_Oh_{playername}_could|噢，{playername} ，你能帮我个小忙吗？正有一些闺蜜来拜访我，我想为她们办一个小派对。可惜的是我不能随意花钱...你能做件好事，帮我带来{reg25}瓶{s17}和两件奶酪吗？
+qstr_{s11}_asked_you_to_br|{s11}要求你给她带去{reg25}瓶{s17} 和两件奶酪。
+qstr_{s11}_asked_you_to_re|{s11}要你从{s14}营救她的{s17} ，{s13} 。你得跟他交换衣服并代替他呆在监狱里。
+qstr_{s11}_asked_you_to_res|{s11}要你从{s14}救出她的{s17} ，{s13} 。
+qstr_{s12}_asked_you_to_d|{s12} 要你带个口信给{s13}，关于谁被囚禁在{s14}。
+qstr_You_agreed_to_challe|你同意与{s13}决斗以维护{s11}的名誉。
+qstr_{s11}_asked_you_to_di|{s11} 请求你悄悄地解决掉她阴魂不散的前男友，他目前正在{s33} 。
+qstr_{s5}__Persuasion_str|{s5}（说服力：{reg5} ）
+qstr_Persuasion_Attempt|尝试说服
+qstr_I_think_your_dilemma|我觉得{reg22} 先令就能解决这个问题。
+qstr_Thank_you_for_the_wa|感谢你的警告。{reg22} 先令能让我忘记一切事情。
+qstr_Pay_{reg22}_peningas|为你的粗鲁补偿{reg22} 先令，不然...
+qstr_{reg22}_peningas_is_|想让我闭嘴的话你最好给我{reg22} 先令，不然...
+qstr_I_understand_you_wer|我明白你也是不得已而为之，但我也必须得到补偿。我认为{reg22} 先令是个合理的价格。我不想告发你，但也请你不要让我为难。
+qstr_Prepare_to_die_you_i|准备受死吧！你这个无礼的混蛋！
+qstr_Ah_a_duel._Well_if_y|决斗么？如果你坚持的话，{playername} ，我接受。
+qstr_Hmm_are_you_sure?_I_|唔，你确定吗？你要知道，这等于完全毁了我们之间的友谊...
+qstr_Hmm_isn_t_this_all_a|唔，你不觉得这样太草率了吗？  也许我们可以找到更合适的解决方法...
+qstr_I_always_knew_{playe|我早就知道，{playername} ，你就是个没有道德底线的混蛋。只有下流中的下流之人才会做出这种勒索诽谤的事情。  这种指控，甚至不值得我去回答。
+qstr_{playername}_is_it_w|{playername} ，这个值得我们忘记过去不愉快的事情吗？我承认是我做错了。你还有什么条件吗？
+qstr_I_can_pay_you_{reg22|我最多补偿你{reg22} ，一个子都不能再多了！
+qstr_Given_my_poor_financ|根据我的经济条件，我认为{reg22} 先令的赔偿比较合适。
+qstr_I_only_have_mere_{re|我全身上下也只有{reg22} 先令了。拿着然后让我安静一下吧。
+qstr_I_have_no_money_to_p|我没钱能给你了。
+qstr_Bless_you_{playernam|上帝保佑你，{playername} 。这是一个高尚的决定，我将永远铭记在心。
+qstr_This_is_not_only_an_|这不仅是一个高尚的决定，也体现了你在政治方面的成，{playername} 。
+qstr_Well_thank_you_{play|谢谢你，{playername} 。我很感谢你的好意。
+qstr_Maybe_I_was_wrong_ab|也许我看错你了，{playername} 。时间会告诉我答案的。
+qstr_Welcome_to_Maedelste|欢迎来到美杜斯德，这里一直欢迎外来者，尤其是带着银子的人。
+qstr_My_mead_hall_is_the_|我的蜜酒厅是城镇里最大的建筑，欢迎光临。
+qstr_Make_yourselves_comf|好好舒坦下吧，我会给你提供饮食以及住宿。
+qstr_has_put_together_a_b|募集了一笔资金来悬赏一伙洗劫了他村庄的强盗。
+qstr_This_is_not_that_sim|这并不是一件容易的事，但我愿意尝试。我觉得300 先令应该足够了。你说的是那个阵营呢？
+qstr_Aha_my_favorite_one.|啊，我喜欢这话题。我认为150 先令就足够了。你能告诉我那个领主是哪个阵营的吗？
+qstr_Doable_since_so_many|这是可行的，因为许多的领主每时每刻都渴望着能有机会拔出自己的剑。我认为有250 先令就足够了。第一个领主是哪个阵营的？
+qstr_You_get_an_elite_Sax|你得到了精美的撒克逊剑。
+qstr_You_get_a_Long_Seax.|你得到了长刀。
+qstr_You_get_a_beautiful_|你得到了精美的长斧。
+qstr_You_get_a_great_long|你得到一把大长弓。
+qstr_You_get_an_expensive|你得到了昂贵的盔甲。
+qstr_You_get_an_expensive_|你得到了昂贵的链甲。
+qstr_You_get_an_expensive_h|你得到了昂贵的头盔。
+qstr_A_villager_from_{s7}|一个从{s7}来的村民恳求你，希望你能把他们的村子从那群强盗手里解救出来。
+qstr_Hey_what_do_you_want|嘿，你想做什么？我们喝得正欢呢。
+qstr_Are_you_looking_for_|你在找那些想冒生命危险来换取荣誉和财富的人吗？
+qstr_There_is_food_and_dr|我这里的食物和酒足够你们所有人享用，你们想要加入吗？
+qstr_You_chose_well_{reg5|你找对人了，{reg59?女士:先生} ，我的弟兄们言而有信，并知道怎么赚钱。
+qstr_Well_done_{reg59?mad|很好，{reg59?女士:先生} 。把钱和酒留给我们，这个世界上就没有你害怕的敌人了。
+qstr_We_are_at_your_servi|乐意至致，{reg59?女士:先生} 。你只要指出需要伤害的敌人，剩下的我们帮你解决。
+qstr_Oh..._well..._I_do_n|噢……好吧……我不知道……我还好……（冷静）
+qstr_Even_bad_dreams_spea|即使恶梦都会和我们交谈。我想听一听，或许能学到点东西。（谨慎）
+qstr_Yes_I_had_a_nightmar|是的，我做了个恶梦，但我现在已经醒了。所有的烦恼都没了。（易怒）
+qstr_All_is_well._Believe|一切都很好。我觉得这只是个愚蠢的恶梦而已！（嗜血）
+qstr_No_need_to_get_shy!_|不要害羞！无论什么时候看到你很好就行了，朋友。
+qstr_I_prefer_not_to_drea|我更喜欢不做梦。它们一直带来太多的回忆和渴望。好吧，看到你很好就行了，朋友。
+qstr_Yes_we_are_finally_n|是的，我们终于接近弗里斯了。过了这么多天，我们一直在一起，我的旅程会在西撒克逊继续。现在看到你很好就行了，朋友。
+qstr_I_agree_completely._|我完全同意。幸运的是我做梦醒来后一般都不记得了。好吧，看到你很好就行了，朋友。
+qstr___She_has_aged_sever|— — 她在生病后就衰老了许多。她太虚弱了，看起来似乎一触即碎。这不是你所熟悉的那个女人；尽管记忆模糊，但她还是你的母亲。— — 
+qstr___She_smiles_and_look|— — 她微笑着并用充满着母爱的眼光看着你。— — 
+qstr___She_looks_past_you|— — 她望向你身后— — 
+qstr___She_opens_her_eyes|— — 她睁开眼睛，看着你。她的手在颤抖— — 
+qstr___She_shifts_her_gaz|— — 她把眼光转向大海，她在哭泣。— — 
+qstr___He_smiles_and_show|— — 他笑着向你展示船舵— — 
+qstr___He_stares_at_you_f|— — 他凝视了你一小会儿，然后忍俊不禁。— — 
+qstr___He_nods.__|— — 他点头。— — 
+qstr___You_notice_his_han|— — 你注意到他的手因为紧张而颤抖。— — 
+qstr___Now_he_looks_scare|— — 现在他看起来害怕了。— — 
+qstr___He_scratches_his_b|— — 他挠了挠背并笑了笑。— — 
+qstr___He_touches_the_hil|— — 他摸了一下腰中的剑柄。— — 
+qstr_After_traveling_for_|旅行了一些天后，你来到了当纳莱斯，与阿斯图里亚斯人会面。但当你试图说服他们加入拉格纳之子时，博多接过指挥权并下令攻击你的舰队。你必须回到你的舰队并准备作战！
+qstr_After_traveling_for_s|旅行了一些天后，你来到了当纳莱斯，与阿斯图里亚斯人会面。当你揭开叛徒西诺的嘴脸时，出现了一支丹麦人的舰队，他们可能是西诺召来的，开始攻击你的舰队。你必须抓紧时间拯救你的部下！
+qstr_You_are_now_a_Christ|你现在是一名基督徒了。
+qstr_The_priest_is_happy_|祭司很高兴捐款，但他对于你想收买他这件事明显感到不满。也许应该先让时间冲淡一些记忆了。
+qstr_You_are_now_a_pagan_|你现在是一个多神徒，奥丁的追随者，另一个挪威神。
+qstr_The_priest_is_happy_a|祭司很高兴能有活干，但他对于你想收买他这件事明显感到不满。也许应该先让时间冲淡一些记忆了。
+qstr___The_abbot_looks_yo|— — 院长上下打量你，一言不发。— — 
+qstr_Welcome_then._Listen|欢迎，然后听我说：我们需要你的支持。
+qstr_In_nomine_pater_the_|以天父之名，雅尔想羞辱我们，所以派来了一名异教徒。好吧，如果他想耍我们…现在听好了。
+qstr_Then_welcome_{player|欢迎你，{playername} 。我会告诉你事情的经过。
+qstr___The_abbot_after_ru|— — 院长在翻箱倒柜后拿出了一封信给你。— — 
+qstr___The_document_seems|— — 信上的信息比较可靠，上面有个叫福瑞斯威的人写出的漂亮的笔迹，承诺给修道院几块土地，并有一些证人的签名— — ^^
+qstr___You_look_at_the_te|— — 这信写得非常漂亮，字迹工整，但是由于没有任何插图，你根本看不懂。— — ^^
+qstr_Note_1:_You_chose_to|笔记1 ：你决定把{s3}附近的土地送给修道院。
+qstr_Note_1:_You_chose_no|笔记1 ：你决定不把{s3}附近的土地送给修道院。
+qstr___The_abbot_opens_hi|— — 院长睁大眼睛— — 
+qstr_Note:_You_returned__|笔记：你把“科伦希尔之经”送回了格伦达洛谷修道院。
+qstr_The_abbot_of_Finian_|菲尼安的修道院长，在{s3}附近的埃里尤，他要求你赶去见面，显然，他有一个重要的任务。只要你去了，他会给你1000 先令。
+qstr_So_you_re_{playernam|你就是{playername} 。我听说了你的事迹。就我个人而言，我不喜欢你曾经犯下的种种罪行，但这并不是我能决定的事情。这是你的1000 先令。现在听好了… 
+qstr_So_you_re_{playername|你就是{playername} 。我听说了你的事迹。你是一个对他人友善，又爱护人民的人。你值得这1000 先令的奖赏。现在听好了，我的顾主有个任务给你… 
+qstr_So_you_re_{playername}|你就是{playername} 。你的名声比你来得要更快。无数的旅行者曾跟我说起你。你似乎注定会在这个世界上留下你的痕迹。这是你的1000 先令。现在听好了，我的顾主有个任务给你… 
+qstr_So_you_re_{playername}.|你就是{playername} 。我并不是很了解你，也不是很有这个兴趣。不过我的顾主给我的名单上有你的名字。这是你的1000 先令。现在听好了，我的顾主有个任务给你… 
+qstr_The_abbot_of_Finian_h|菲尼安的修道院长要求你前往{s3} 杀死一个叫做'蛇' 的人。前往蜜酒厅去找到他。
+qstr_You_are_working_for_|你正在为菲尼安的修道院长不愿透露姓名的顾主工作。
+qstr_The_abbot_of_Finian_ha|菲尼安的修道院长要求你前往{s3} 并从当地的市长多尼戈尔那得到关于弗莱厄蒂的子嗣的消息。
+qstr_The_abbot_of_Finian_has|菲尼安的修道院长要求你前往{s3} 并调查清楚是什么魔鬼在攻击村子。去村子里找一个叫做卡利卡斯的人了解情况。
+qstr_You_have_finished_th|你完成了菲尼安修道院长交给你的任务。现在该去见普雷西尔王子，修道院长的顾主一面了。他正在{s3} 等候你。
+qstr_You_need_to_learn_th|你需要了解到普雷西尔王子的位置，但是菲尼安的修道院长拒绝把它告诉你。也许更多的银子，更强的说服力或者威慑力，都能够帮助你从他那里打听到确切的位置。
+qstr_The_abbot_of_Finian_t|菲尼安的修道院长告诉你他的顾主，普雷西尔王子，正在{s3} 等候你关于弗莱厄蒂的子嗣的消息。
+qstr_The_abbot_of_{s3}_as|{s3} 的修道院长要求你带给他{reg33} 箱木料。
+qstr_Of_course_my_{reg59?|当然，孩子。我们有一堆葡萄酒。
+qstr_We_have_some_wine_st|我们还有一些能喝的葡萄酒。
+qstr___A_huge_creature_is|— — 一只巨大的怪物从上往下望着你，对你的出现或你的装备不为所动。— — 
+qstr___You_see_a_short_th|— — 你看到一个又矮又瘦，脸又很奇怪的人。— — 
+qstr___The_Swedish_Viking|— — 瑞典维京人打量着，若有所思。— — 
+qstr___The_man_flattening|— — 一名男子一只脚刚踏进门，当你接近他时突然转身。刚开始他看起来很惊讶，但很快又闪现出笑容— — 
+qstr_I_was_just_leaving._|我只是路过而已，或许我该立刻离开。（冷静）
+qstr_I_think_we_are_both_|我觉得我们都不是小孩子，不需要这种把戏了。（谨慎）
+qstr_Heh_I_ve_played_game|听起来真有趣，生活没有点危险是很无聊的。（易怒）
+qstr_Very_well_but_if_I_s|好吧，但如果我解开你的谜语，而我又不喜欢你的答案，我就会杀了你。（嗜血）
+qstr_When_you_open_your_e|当你再次睁开你的眼睛时，你得到了众神的祝福。或许只是你的幻想而已，但你感觉自己更灵巧了，并能更好地使用武器。
+qstr_When_you_open_your_ey|当你再次睁开你的眼睛时，你得到了众神的祝福。或许只是你的幻想而已，但你感觉自己更有吸引力了。
+qstr_When_you_open_your_eye|当你再次睁开你的眼睛时，你得到了众神的祝福。或许只是你的幻想而已，但你感觉自己更强壮了。
+qstr_When_you_open_your_eyes|当你再次睁开你的眼睛时，你得到了众神的祝福。或许只是你的幻想而已，但你感觉自己更聪明了。
+qstr_When_you_open_your_eyes_|当你再次睁开你的眼睛时，你得到了众神的祝福。或许只是你的幻想而已，但你感觉自己更敏捷了。
+qstr_You_open_your_eyes_a|你再次睁开你的眼睛，什么都没发生。
+qstr_An_old_Roman_at_{s3}|{s3}的一个老罗马人向你要8袋小麦。
+qstr_I_have_a_good_load_o|我有一批上好的矿物。
+qstr_I_have_loads_of_both|我有一批矿物和石头。
+qstr_I_have_a_good_load_of|我有一批石头。
+qstr_I_have_some_soapston|我手头上有一些皂石。
+qstr_I_have_loads_of_salt|我有一批盐。
+qstr_Come_with_me._I_ll_s|跟我来。我要让你看看我们找到了什么。
+qstr_I_have_some_salt.|我有一些盐。
+qstr_I_have_plenty_of_tim|我有很多木料。
+qstr_I_have_some_timber_a|我有一些木料。
+qstr_I_have_nice_cows_hug|我有一些又大又肥的牛准备卖到城镇里，我很乐意现在就能卖了它们。
+qstr_I_have_raw_materials|我有用于生产的原材料。
+qstr_I_have_a_few_food_it|我有一些食物要卖。
+qstr_I_am_the_reeve_of_th|我是负责管理{s9} 的长官。我以您的名义管理这座要塞的事务，{reg59?夫人:阁下} 
+qstr_I_am_the_reeve_of_the|我是负责管理{s9} 的长官。我以我的领主的名义管理这座要塞的事务。
+qstr_Your_highness|殿下
+qstr_May_I_remind_you_tha|请允许我提醒您目前我们的税率在一个正常的范围内。
+qstr_May_I_remind_you_that|请允许我提醒您目前我们的税率目前偏低。人民都很感谢您。
+qstr_May_I_remind_you_that_|请允许我提醒您目前我们的税率目前偏高。每一个市场的每一个角落都有人在诅咒您的名字。
+qstr_Donngal_mayor_of_{s3|多尼戈尔，{s3} 的市长，要求你先增进你与他们城镇的关系，他才能告诉你关于弗莱厄蒂的子嗣的事情。你需要至少10 点友好度。
+qstr_Donngal_told_you_tha|多尼戈尔告诉你弗莱厄蒂的子嗣在{s3} 附近的一个农场里。是时候回去告诉修道院长了。
+qstr_Note_1:_You_chose_to_|笔记1 ：你选择杀害弗莱厄蒂的子嗣。
+qstr_The_children_who_wil|多尼戈尔将会用两个奴隶来代替弗莱厄蒂真正的孙子。他们已经被转移到了别的地方。
+qstr_Note_1:_You_chose_to_s|笔记1 ：你选择拯救弗莱厄蒂的子嗣，以牺牲奴隶的孩子为代价。
+qstr_Dongall_will_remove_|多尼戈尔将会把弗莱厄蒂的子嗣转移到迪纳斯布兰附近的另一个农场，当刺客前来时，他们将不会找到任何目标。这可能会使你得罪埃里尤最强大的势力，不过你愿意冒这个险。
+qstr_Note_1:_You_chose_to_sa|笔记1 ：你选择拯救弗莱厄蒂的子嗣。
+qstr__May_I_remind_you_th| 请允许我提醒您目前我们的税率在一个正常的范围内。
+qstr__May_I_remind_you_tha| 请允许我提醒您目前我们的税率目前偏低。人民都很感谢您。
+qstr__May_I_remind_you_that| 请允许我提醒您目前我们的税率目前偏高。每一个市场的每一个角落都有人在诅咒您的名字。
+qstr_town|城镇
+qstr_village|村庄
+qstr_The_mayor_of_{s13}_h|{s13}的镇长想让你解决附近的劫匪。
+qstr_{s9}_of_{s3}_asked_y|{s3}的{s9}让你在一周内送{reg5}个{s6}到{s4}的蜜酒厅。
+qstr_Escort_the_merchant_|护送商人的商队去{s8}镇。
+qstr_Merchant_{s9}_of_{s4|{s4}的{s9}要你消灭在镇子附近的难对付的强盗。
+qstr_The_mayor_of_{s4}_ga|{s4}的镇长给你{reg12} 先令，作为女孩的赎金。你要在{s3}附近和强盗会面，赎回女孩并带回{s4} 。
+qstr_The_mayor_of_{s4}_pr|{s4}的镇长答应给你{reg12} 先令，如果你能使得{s12}和{s13}不再对{s15}和{s14}的和平形式表现出一种凶兆。要做到这个，你得说服他们中的一个或者他们都被俘虏并且还活着，直到达成和平协议。
+qstr_The_mayor_of_{s14}_h|{s14}的镇长要你解决一群游荡在{s14}街道上的强盗。他们只在晚上出来，并且袭击街上单身的旅行者。
+qstr_The_mayor_of_{s10}_a|{s10}的镇长要你把一群牛赶到{s13}去。你将会挣得{reg8} 先令的报酬。
+qstr_Yes_{playername}_I_h|是的，{playername} ，我有一个略有一点复杂的任务交给你。我有一件做工精细的乐器，一个{s13} 。他是由约尔最有名的音乐家打造的。呃… 其实我也不是很确定他来自哪里… 但这不重要。现在它似乎被一个守卫偷走了。这个守卫藏了起来，没人能找到他。我猜他就藏在附近的某个村子里。如果你能帮我找回{s13} ，我将会给你{reg33} 先令。
+qstr_{s10}^{s11}|{s10}^{s11}
+qstr_The_{s9}_of_{s3}_ask|{s3} 的{s9} 请你去找回他失窃的{s13} 。^^前往以下地点寻找:^{s10}
+qstr_Yes_{playername}_one|是的，{playername} ，一个本地的商人正打算扩建他的商店，为此他需要一些石头。不幸的是，由于附近战火连绵，到处是强盗土匪，他没能找到价格合适的石头。也许你能帮他去附近的采石场带回{reg33} 单位的石头？
+qstr_Yes_{playername}_one_|是的，{playername} ，你知道，由于有些地方战乱的问题，最近本地市场对盐的需求突然变得很高，而我们快要没有盐库存了。不幸的是，由于附近战火连绵，到处是强盗土匪，我们派去进口的商队也没有了回音。也许你能去附近的盐矿为我们带回{reg33} 单位的盐？
+qstr_{s9}_of_{s3}_asked_yo|{s3} 的{s9} 请你带回{reg33} 单位的{s33} 。
+qstr___His_eyes_widen.__|— — 他的眼睛睁开— — 
+qstr_He_has_killed_many_p|他杀了很多人，但也杀了我的母亲，我必须找到他！（冷静）
+qstr_I_know_but_he_must_d|我知道，但他必须死！他是我的仇人，我会杀掉他，斯温在哪，索里克？他在哪？（谨慎）
+qstr_Sven_had_the_audacit|斯温有胆量攻击我当时正在乘坐的船只，并杀了所有人，他会付出代价的！他在哪？（易怒）
+qstr_Sven_is_my_goal_now.|斯温是我的目标。任何拦路的人都是我的敌人！斯温在哪？（嗜血）
+qstr___He_looks_frightene|— — 他看起来很害怕。— — 
+qstr_Note_1:_Doccinga_fis|笔记1 ：斯温袭击了你乘坐的船，道琴嘉的渔民救了你。看来你是唯一的幸存者。
+qstr_{s9}_told_me_that_{s|{s9}告诉我说{s3} ，{s1}的雅尔或许知道牛颈斯温在哪。
+qstr___He_rubs_his_hands_|— — 他很紧张地搓了搓手— — 
+qstr___He_points_to_the_s|— — 他指向大海，你看到三艘船。— — 
+qstr___He_seems_nervous_n|— — 他看起来很紧张，不作任何手势。— — 
+qstr_Thonkrik_from_{s3}_t|{s3}的索里克告诉你，{s9}可能和牛颈斯温结盟，并试图夺取弗里斯的王位。
+qstr_Note_4:_You_chose_to_|笔记4 ：你决定杀掉{s3}的维京俘虏。
+qstr_Note_4:_You_chose_to_s|笔记4 ：你决定释放{s3}的维京俘虏。
+qstr_Note_2:_The_Viking_p|笔记2 ：在道琴嘉的维京俘虏告诉你，还有其他人在那次袭击中幸存下来。他们似乎已经被送往牛颈斯温在丹麦的营地。
+qstr_{s11}_told_me_that_I|{s11}告诉我说在道琴嘉海滩附近有艘船等着我。现在是时候离开弗里斯了。
+qstr__May_I_remind_you_that_| 请允许我提醒您目前我们向您缴纳的税款在一个正常的范围内。
+qstr__May_I_remind_you_that_c| 请允许我提醒您目前我们向您缴纳的税款在一个偏低的位置。我们对您十分感激。
+qstr__May_I_remind_you_that_cu| 请允许我提醒您目前我们向您缴纳的税款在一个偏高的位置。许多人都在背后诅咒您的名字。
+qstr_Old_gods?_This_is_a_|上古之神？这很有趣。我从来没见过任何的“神”。(冷静的)
+qstr_Tell_me_more_about_t|请详细描述一下这些“神”以及它们是如何监视你们的。(忧郁的)
+qstr_Look_at_me._I_m_here|看着我。有我在呢，继续说，卡利卡斯。那些“神”是怎么监视你们的？(暴躁的)
+qstr_Come_on_man_no_need_|别怕，不要悲伤，不要心急。有我在呢，我会帮你们解决这个问题的。告诉我，是谁在监视你们？(嗜血的)
+qstr_Demons?_This_could_b|魔鬼？嗯… 这个问题似乎很严重。(冷静的)
+qstr_I_sure_hope_I_am_rea|希望我能准备好面对一个“魔鬼”。(忧郁的)
+qstr_Morrigan_is_a_pretty|莫莉卡是个好名字，就算对一个“魔鬼”来说也是。(暴躁的)
+qstr_Tuatha_De_Danann?_I_|达努神族？我不会害怕任何“恶魔”。(嗜血的)
+qstr_Caliacas_told_you_th|卡利卡斯告诉你攻击他们的是个来自远古的恶魔莫莉卡，乌鸦女神。她率领着一群野兽。你还了解到你不是唯一一个被选中去打败莫莉卡的勇士，还有两位在那可怜的老人被烧掉的小屋前等候着你。
+qstr_It_seems_that_there_|看起来村庄里似乎并无大碍。只是一次误报。现在你只需要等待另外两位勇士的信使抵达了。
+qstr_{s40}_s_Levy|{s40} 的税吏
+qstr_He_is_not_commanding|他现在什么人也没有指挥。
+qstr_He_currently_command|他现在指挥了{reg0}人。{reg1?其中{reg1}人负伤。:}
+qstr_{s33}_lost_1_point_o|{s33} 失去了1 点统御技能
+qstr_{s33}_lost_1_point_of|{s33} 失去了1 点魅力
+qstr_{s33}_didn_t_suffer_|{s33} 没有受任何伤
+qstr_I_am_the_leader_of_t|我是这片土地的领袖。知道向我问问题，你还是蛮聪明的嘛。
+qstr_Looking_for_men_who_|我想找那些为了荣誉和财富而冒生命危险的人，有吗？
+qstr_Interesting._You_re_|真有趣。你要找的人嘛，很巧，我正好知道。
+qstr_You_don_t_trust_me._I|你不信我，我理解。我或许是个外来人，但我也是个好人。（冷静）
+qstr_I_don_t_like_what_yo|我不喜欢你这么说。我来这里招人，为什么浪费我时间？（谨慎）
+qstr_Believe_me_I_have_li|相信我，我耐心不多。我们可以好好商量，或者动手。（易怒）
+qstr_I_see._Well_you_look|明白。好吧，看起来你还有些内情。那我们讨论讨论吧……（嗜血）
+qstr_You_a_good_person?_H|你，是个好人？哈！你在这附近的名声倒是截然相反的。
+qstr_I_see_where_you_are_|我知道你要去哪。与其在这里整夜不眠等你杀我，我还不如现在就解决你。你在这附近的名声能够完全证明你的为人。
+qstr_I_understand_for_you|我懂，你的名声高于一切。我宁可谈判而不想成为你的敌人。
+qstr_There_is_no_negotiat|猫和老鼠之间没什么好谈的。
+qstr_I_see_you_look_like_|你看起来像个正经人，那来谈谈吧。
+qstr_It_is_you_who_wastes|是你在浪费我的时间和耐心。
+qstr_You_ll_get_nothing_w|你的威胁不会让你得到任何东西。
+qstr_Very_well._Let_s_sta|很好，那么开始谈判吧。
+qstr_I_don_t_trust_you._S|我不信任你，不要浪费我时间了。
+qstr_I_see_where_you_are_g|我知道你要去哪。与其在这里整夜不眠等你杀我，我还不如现在就解决你。你在这附近的名声能够完全证明你的为人。
+qstr_Yes_yes_I_got_it._Yo|好的，好的，我懂了。你说了算。
+qstr_Negotiation?_Ha!_Fin|谈判？哈！去找个朋友吧，因为我不算一个。
+qstr_I_see_you_look_like_s|好吧，看起来你还是能说会道的人，那么来谈谈吧。I
+qstr_Yes_I_must_admit_you|是的，我得承认你说得对。
+qstr_Interesting._Seems_I|真有趣，看来我不是在和一个傻瓜说话。
+qstr_From_this_moment_on_|从现在开始，你可以在这村庄招人。
+qstr_The_elder_of_the_vil|{s3}村的村长要你搞到{reg5}袋谷物给他。
+qstr_The_elder_of_the_vill|{s13}村的村长要你训练{reg5}个农民以抵抗当地的强盗。
+qstr_I_see_your_problem_b|我了解你的问题，但难道这对那些女人公平吗？
+qstr_Hmmm_why_can_t_your_|嗯哼，为什么你的士兵不能从附近的村庄娶女人？
+qstr_Your_men_should_real|你的士兵真的很需要学会控制他们的，呃… 生理冲动。
+qstr_Your_men_should_take|你的士兵需要好好管住自己的手，你不这么认为吗？
+qstr_Interesting_problem_|有趣的问题，而解决的办法就更有趣了… 
+qstr_Lonely_men_and_lack_|孤独的男人，缺乏女人？看来我不是唯一一个… 
+qstr_Huh_poor_boys_have_t|哈，可怜的男孩儿需要出风头，但没有人注意到… 
+qstr_I_can_sympathize_wit|我很同情你的士兵，你的提议非常有趣。
+qstr_Your_men_are_patsies|你的手下都是些懦夫，但光荣的{playername}从来不惧挑战！
+qstr_Unfair_you_say?_But_|你说不公平？但我们的手下都是一分气力换一分钱，也不是什么酒鬼。如果你把这些女人从一贫如洗的村子带出来，或者找到某个避难所，你其实是在帮她们。一个体贴的丈夫，衣食无忧，温暖的房子，除此以外一个好女人还需要其他东西吗？
+qstr_Well_it_s_a_long_sto|好吧，这是一个很长的故事，但考虑到他们之间的过节，要知道我们的关系并没那么好。如果我的手下提出要娶那些女人，就会被取笑，我可不许有人侮辱我的士兵，特别是那些懒鬼！
+qstr_My_good_{reg59?lady:|我的好{reg59?女士:阁下} ，我非常认同你，但你要知道，在农忙时节，我们非常需要人手，因为收割和照顾牲畜是非常辛苦的。如果我的手下娶不了老婆，谁还愿意干活呢？实话说，当男人有了妻儿之后，他们常常就注意自己的举止了。
+qstr_Ah_my_{reg59?lady:lo|啊，我的{reg59?女士:阁下} ，你的建议太棒了！但可惜的是我们无法听从。太遗憾了，不是吗？你看，如果我们的手下跑去绑架那些女人，你卑微忠诚的仆人就肯定得掉脑袋了，这是我的脑袋和我自己不希望出现的结果。
+qstr_My_{reg59?lady:lord}_|我的{reg59?女士:阁下} ，看来你在这个问题上有点犹豫不决。我向你保证，我提出的办法现在是非常流行的，而陛下不需要为我们这些下等人的琐事整天操心。我们将非常感激你的帮助。
+qstr_Yes_my_lord_a_warrio|对，阁下，一个像你这样的战士，可能要在自己的同伴身上花费意料之外的时间。但要是你能帮助我们解决这个微妙的问题，我答应你，当你在某一天厌倦了敲碎脑袋的工作，打算退休了，你永远可以回到这里，我们会为你找一个可爱的女士每晚伺候你的。
+qstr_You_re_absolutely_ri|你说得非常对，我的{reg59?女士:阁下} 。男人需要女人，帮助他们走在取悦上帝的正道上。而这就是我一直尝试实现的目标— — 确保我的手下都遵从上帝之道。希望你能理解，并实现上帝的旨意。
+qstr_Yes_{reg59?my_lady:m|对，我的{reg59?女士:阁下} ，对你来说这的确是人生的冒险，但谁知道呢，也许这正合你意，你将腰缠万贯？
+qstr_Glad_to_hear_that_oh|真高兴听见这个消息，噢，最无畏的勇士！也许，我们该详细谈谈？
+qstr_My_dear_{reg59?lady:|亲爱的{reg59?女士:阁下} ，我很乐意付你{reg25} 先令。
+qstr_My_dear_{reg59?lady:l|亲爱的{reg59?女士:阁下} ，我只是一个穷苦的农民，只能付你{reg25} 先令。
+qstr_My_dear_{reg59?lady:lo|我尊敬的{reg59?女士:先生} ，我只是一个贫穷的农民。我只能给您{reg25} 先令。
+qstr_My_dear_{reg59?lady:lor|亲爱的{reg59?女士:阁下} ，你说得很有道理，我很乐意付你{reg25} 先令。
+qstr_My_dear_{reg59?lady:lord|亲爱的{reg59?女士:阁下} ，你的魅力和说服力真是无法抵挡，我很乐意付你{reg25} 先令。
+qstr_The_leader_of_the_vi|{s3} 的村庄长老请你去把逃跑的奴隶带回来。他很可能就藏在村庄周围。
+qstr_The_runaway_slave_is|逃跑的奴隶被你抓住了。现在把他带回{s13} 吧。
+qstr_The_elder_of_the_villa|{s13}村的村长要你训练{reg5}个农民以抵抗当地的强盗。
+qstr_The_elder_of_the_villag|{s3}的村庄长老请求你带给他们{reg5}头牛。
+qstr___She_looks_puzzled_|— — 她看起来又惊讶又疑惑。— — 
+qstr___She_smiles_happy_f|— — 因为你的捐助，她非常开心。— — 
+qstr_{s16}_and_{s15}|{s16}和{s15}
+qstr_{s16}_{s15}|{s16} ，{s15}
+qstr_I_can_smell_a_fat_pu|我在一英里外就嗅到了一个鼓鼓的钱包。我想你想让它变轻些，不是吗？
+qstr_Why_it_be_another_tr|啊！这又是一个旅行者，让我给撞上了。我应该警告你，这里的郊外对于像你这样的一个好{人/ 人} 是有点危险的。但是你要是给我们一点钱，我和我的兄弟们就可以保证你安全到达你的目的地，怎么样？
+qstr_Well_well._Look_at_t|来来来，看看这个！你最好乖乖交出一些银币，不然我和我的同伴就将好好招待你。
+qstr_There_s_a_toll_for_p|交出买路钱，不然我就从你的钱包里收取我应得的那份……
+qstr_Another_fool_come_to|又一个傻瓜过来把{他的/ 她的} 身体往我剑上撞，是吗？那好，放马过来！
+qstr_We_re_not_afraid_of_|我们不怕你，{小子/ 小妞} 。是时候打暴某些人的头了！
+qstr_That_was_a_mistake._|那是一个错误。现在我将慢慢把你折磨到死。
+qstr_Brave_words._Let_s_s|豪言壮语，让我看看你怎么用行动来支持它，坏蛋！
+qstr_Your_God_is_for_wimp|你的神虚弱无力！在通往瓦尔哈拉神殿的彩虹桥对岸奥丁神在等待我！
+qstr_I_ve_been_pondering_|我刚才仔细考虑了下我的基督教信仰，也许是时候完完全全的去体会一名真正基督徒的生活了。我向你保证，只要我自由了，我就会转信基督教。
+qstr_I_ve_always_felt_Chr|我一直觉得基督教很适合我，特别是其中关于救赎的部分。是的，{playername} ，我现在是个真正的基督徒了。当我自由后，我会去拜访其中一座修道院，努力地为我的罪行祈求救赎。现在，请让我离开吧，让我全身心投入为万能的耶稣基督服务吧！
+qstr_I_see_no_reason_even|我甚至找不到和你这种人讨论这个问题的理由！
+qstr_Your_Odin_knows_noth|相信所谓的奥丁只是在慢性自杀！我永远不会放弃耶稣基督。
+qstr_I_ve_been_pondering_t|有关信仰的问题，我已经思考了很久了。现在我有了明确的答案！基督每天只会让人跪下祈祷，而不是挥动他的战斧！从现在起，我将重新回到众神的名下！
+qstr_You_know_{playername|你知道，{playername} ，我前段时间改信基督教了，但我仍然忘不了我们的众神，奥丁，索尔和芙蕾雅。基督教只会使人变得懦弱，而我当然不会允许那发生。所以，从现在起，我不再是基督教徒了！
+qstr_I_see_no_reason_to_e|我没有任何理由和你这种人谈话。
+qstr_Plain|普通
+qstr_Please_note_that_thi|请注意，这种改良使武器造成更多的伤害，但也使得它更慢。
+qstr_This_is_the_{reg4?to|这里是{s5}{reg4?镇:村} ，{先生/ 夫人} 。
+qstr_{s6}_Our_{reg4?town:|{s6}我们的{reg4?城镇:村庄}与周围的土地当然是属于你的，{reg59?女士:阁下} 。
+qstr_{s6}_Our_{reg4?town:v|{s6}我们{reg4?镇:村}及周围的土地属于{s8}的{s7} 。
+qstr_{s3}_and_{s5}|{s3}和{s5}
+qstr_{reg20?We_mostly_pro|{reg20?我们这里主要是出产{s5}:这些天我们这里几乎什么都没有出产} 。如果你想了解更多的情况，你可以去问我们的{reg4?镇长:村长} 。他就在附近，看，就在那边。
+qstr_Mind_your_manners_wi|注意你的言行，我们就不会有任何麻烦。
+qstr_Bugger_off_stranger.|走开，陌生人。你没看到我在看那边的丰满的婊子么？
+qstr_Make_sure_to_keep_yo|管好你的手，不要到商贩摊子那里做些可笑的事。
+qstr_I_m_very_happy._You_|我很高兴。你是一个知道如何保持部队士气的领导者。
+qstr_I_m_happy_to_be_here|在这里我很高兴，事情正逐渐好转，我也在打算赚到足够的钱去买下一个小农场，然后娶妻生子，过安定的生活。
+qstr_Well_..._I_guess_thi|嗯… 我想事情理应变得更好。如果再这样发展下去，我想我可能要离开了。
+qstr_Not_happy_{playernam|很不好，{playername} 。实话实说，你真的需要提高一下士气了。不然你的问题可能就不只是一句很不好这么简单了。
+qstr_{s9}_told_me_that_I_|{s9}告诉我能够在{s3}找到答案。我要跟索里克谈谈。
+qstr_{reg1}.0|{reg1}.0
+qstr_{reg1}.00{reg2}|{reg1}.00{reg2}
+qstr_{reg1}.0{reg2}|{reg1}.0{reg2}
+qstr_{reg1}.{reg2}|{reg1}.{reg2}
+qstr_{s1}_{s2}|{s1} {s2}
+qstr_Next_Page|下一页
+qstr_Naval_Battle|海战
+qstr_Coastal_Assault__Off|海岸突袭（进攻）
+qstr_Coastal_Assault__Def|海岸突袭（防御）
+qstr_Players:|玩家：
+qstr_Invaders:|入侵者：
+qstr_Invasion_difficulty_|入侵难度(%):
+qstr_Allow_Shield_Bash|允许盾击
+qstr_Allow_Falling_from_H|允许落马
+qstr_Allow_Shield_Wall_Bo|启用盾墙加成
+qstr_Remove_Stray_Horses_|在xxx 秒之后杀死所有无人骑乘的马匹(0= 关闭)
+qstr_Replace_All_Weapons_|将所有武器替换为致命的弓
+qstr_God_Mode|上帝模式
+qstr________Game_Descript|-------游戏简介-------^
+qstr_Game_Rules:^|游戏规则：^
+qstr_0|0
+qstr_Players:_{reg1}|玩家：{reg1}
+qstr_Command_enemy_troops|指挥敌人士兵
+qstr_Invaders|侵略者
+qstr_Extra_silver_for_tro|部队额外开支：{reg2}
+qstr_{s0}__{reg1}s_|{s0} ({reg1}s)
+qstr_Thor_s_champion_has_|索尔的冠军被杀了！
+qstr_You_have_killed_the_|你杀死冠军，获得了索尔的青睐！
+qstr_{s1}_has_killed_the_|{s1}已经杀死冠军，获得了索尔的青睐！
+qstr_Thor_has_chosen_{s1}|索尔选择{s1}作为他新的冠军！
+qstr_^^Congratulations!^^|^^恭喜！^^你在入侵中活了下来！
+qstr_New_enemies_are_comi|新的敌人来了！^做好准备！
+qstr_{reg0}:{reg1}{reg2}_|{reg0} ：{reg1}{reg2} 直到下一波敌人
+qstr_Enemies_left:_{reg1}|敌人离开：{reg1}
+qstr_Show_game_rules|显示游戏规则
+qstr_Admin_tools_panel|管理工具面板
+qstr_Change_game_type|更改游戏模式
+qstr_All_Players|所有玩家
+qstr_The|nan
+qstr_Candidate_#1:_{s1}|一号侯选者：{s1}
+qstr_Candidate_#2:_{s1}|二号侯选者：{s1}
+qstr_{s3}_of_the_{s4}_wis|{s3}的{s4}希望选择一个新的元帅，并要求封臣们投票，{s1}和{s2}是合适的候选人。
+qstr_Whom_do_you_wish_to_|你想支持谁？
+qstr_{s1}_gives_his_suppo|{s1}支持{s2} 。
+qstr_Number_of_Supporters|支持者的数目：{reg0}
+qstr_{s2}_has_heard_his_v|{s2}听取大臣们的建议，选择{s1}作为{s3}的元帅。
+qstr_Strategy_Camera:_pre|战场相机：按回车键
+qstr_Orders|命令
+qstr_Mount|上马
+qstr_Attack_Order|攻击命令
+qstr_Retreat|撤退
+qstr_Stand_Ground|站岗
+qstr_Charge|冲锋
+qstr_Follow_Me|随我来
+qstr_Hold_This_Position|坚守此地
+qstr_Spread_Out|散开
+qstr_Stand_Closer|聚拢
+qstr_Fall_Back|退后
+qstr_Advance|前进
+qstr_Dismount|下马
+qstr_Fire_At_Will|任意射击
+qstr_Hold_Your_Fire|停止射击
+qstr_Use_Blunt_Weapons|使用钝击武器
+qstr_Use_Any_Weapon|使用任意武器
+qstr_Ready|准备
+qstr_Wounded|受伤
+qstr_Dead|死亡
+qstr_Number_of_men_knocke|死伤人数：{reg1}
+qstr_Number_of_men_left:_|剩余人数：{reg1}
+qstr_Opponents_Beaten:_{r|击倒对手数量：{reg1}
+qstr_Opponents_Remaining:|剩余对手数量：{reg1}
+qstr_Remain_in_retirement|决定退休。
+qstr_Go_back_to_adventuri|回到冒险。
+qstr_You_have_retired_at_|你在经过{reg5}天的冒险到达{reg4}级的时候决定退休了。
+qstr_Effect_on_Score|得分影响
+qstr_Settlements_owned_by|你的领地数：{reg0}
+qstr_Friendly_Settlements|友军领地数：{reg0}
+qstr_Hostile_Settlements:|敌军领地数：{reg0}
+qstr_Friendly_Lords:_{reg|友军领主：{reg0}
+qstr_Enemy_Lords:_{reg0}|敌军领主：{reg0}
+qstr_Victories:_{reg0}|胜利：{reg0}
+qstr_Defeats:_{reg0}|失败：{reg0}
+qstr_Quests_Completed:_{r|任务完成：{reg0}
+qstr_Companions_Found:_{r|同伴加入人数：{reg0}
+qstr_Companions_Lost/Depa|同伴失散人数：{reg0}
+qstr_Wealth:_{reg0}_penin|财富：{reg0} 先令
+qstr_Inventory:_{reg0}_pe|库存：{reg0} 先令
+qstr_Renown:_{reg0}|声望：{reg0}
+qstr_Experience:_{reg0}|经验：{reg0}
+qstr_Days_Passed:_{reg0}|天数：{reg0}
+qstr_Difficulty:_{reg0}%|难度：{reg0}% 
+qstr_TOTAL_SCORE:_{reg0}|总分数：{reg0}
+qstr_Unpaid|未付
+qstr_Kingdom_Advisor:|王国顾问：
+qstr_Kingdom_Tributes:|王国贡金：
+qstr_Your_troops_are_unpa|你的部队目前没有得到报酬！士气有所下降。
+qstr_{s30}{reg1}{reg2}{re|{s30}{reg1} ，{reg2} ，{reg3} ，{reg4} ，{reg5} ，{reg6} ，{reg7} ，{reg8} ，{reg9} ，{reg10} ，{reg11} ，{reg12} ，{reg13} ，{reg14} ，{reg15} ，{reg16} ，{reg17} ，{reg18} ，{reg19} ，{reg20} ，{reg21} ，{reg22} ，{reg23} ，{reg24}/
+qstr_F4___Complex_formati|F4 - 复杂编队
+qstr_F7___Memorize_div._p|F7 - 记住div 位置
+qstr_F8___Default_divisio|F8 - 默认分配阵型
+qstr_F4___Ranks|F4 - 长蛇阵
+qstr_F5___Shield_Wall|F5 - 盾墙
+qstr_F6___Wedge|F6 - 楔形阵
+qstr_F7___Square|F7 - 方阵
+qstr_F8___No_Formation|F8 - 无阵型
+qstr_F1___Movement_orders|F1 - 移动命令
+qstr_F2___Formation_order|F2 - 编队命令
+qstr_F3___Fire_orders|F3 - 开火命令
+qstr_Ranks|阵型
+qstr_Five_Rows|排成五行
+qstr_Shield_Wall|盾墙
+qstr_Four_Rows|排成四行
+qstr_Wedge|楔形阵
+qstr_Three_Rows|排成三行
+qstr_Square|方阵
+qstr_Two_Rows|排成二行
+qstr_No_Formation|无阵型
+qstr_Single_Line|排成一行
+qstr_Memorize_div._placem|原有阵型
+qstr_Default_division_pla|默认阵型
+qstr_____Y^Cancel|    Y^取消
+qstr_____X^__Trait|    X^ 特质
+qstr_____B^_Horse|    B^ 马匹
+qstr_____A^_Creep|    A^ 变化
+qstr_Extended_Formations_|扩展阵型和AI选项
+qstr_Disable_mod_formatio|禁用MOD 单位：
+qstr_Put_player_in_divisi|把玩家划分为：
+qstr_Army_rotates_to_face|阵型始终朝向敌人的中心：
+qstr_Prevent_AI_from_taki|阻止AI采取防御姿势：
+qstr_Anno_Domini_867|公元867年
+qstr_We_are_in_the_ninth_|我们正身处第九世纪。^罗马之光早已逝去，^时光荏苒，沧海桑田，^数个世纪以后，^骑士与公主的黄金时代^来临。^^这是一个蛮荒，黑暗与无情的年代，^只有赤裸裸的暴力以求得生存，^人们在每天闭上眼睛之前，^都要祈祷能看到第二天的晨光。
+qstr_It_is_the_age_of_the|这是维京人的年代，^爱尔兰的部落，^西撒克逊正在崛起，^奥尔本王国已经出现，^^这一切正在等待你… 
+qstr_Choose_Campaign_Type|选择战役类型。
+qstr_Choose_Options.|选择选项。
+qstr_You_can_change_these|您可以在游戏中你的阵营中更改这些选项。
+qstr_ROYAL_SANDBOX_CAMPAI|国王沙盒模式
+qstr_LORDLY_SANDBOX_CAMPA|领主沙盒模式
+qstr_SANDBOX_CAMPAIGN|沙盒模式
+qstr_STORYLINE_CAMPAIGN|故事模式
+qstr_Impossible|不可能
+qstr_Full_Realism|完全写实
+qstr_Custom|定制
+qstr_Easy_Recruitment:|简单招募：
+qstr_Easy_Levelling:|简单升级：
+qstr_Easy_Upkeep:|简单给养：
+qstr_Shield_Bash:|盾击：
+qstr_Stamina:|耐力：
+qstr_Armor_Penalty:|盔甲累赘度：
+qstr_Rest_Improves_Morale|休息可以提高士气：
+qstr_Insane_Difficulty:|疯狂难度：
+qstr_{s4}|{s4}
+qstr_You_can_change_diffi|您可以更改难度设置。
+qstr_Gore:|血腥：
+qstr_Disable_Scenic_Menu:|禁用场景菜单：
+qstr_Campaign_type_cannot|开始游戏后不能改变游戏模式。
+qstr_More|更多
+qstr_Campaign_Type|游戏类型
+qstr_Difficulty_Type|难度类型
+qstr_Options|选项
+qstr_These_options_can_be|这些选项可以在之后的营地菜单里面更改。
+qstr_Reduced_to_1/4__Easi|减少到1/4 ( 最容易)
+qstr_Reduced_to_1/2__Easy|减少到1/2 ( 容易)
+qstr_Reduced_to_1/2__Easi|减少到1/2 ( 最容易)
+qstr_Reduced_to_3/4__Easy|减少到3/4 ( 容易)
+qstr_Slowest|最慢的
+qstr_Slower|更慢的
+qstr_Faster|更快的
+qstr_Fastest|最快的
+qstr_Less|更少
+qstr_Warning:_The__{s1}__|警告：你点击“{s3} ”之后，此设置的{s1} 和{s2} 等选项不能修改。
+qstr_Choose_a_campaign_ty|选择一个战役模式！
+qstr_Storyline_Campaign:_|故事模式：作为一个故事的主角开始游戏。^^沙盒模式：开始一段漫长的，完全自由的游戏。^^领主沙盒模式：以领主身份开始游戏。^^国王沙盒模式：以国王身份开始游戏。
+qstr_Choose_a_difficulty_|选择一个难度！
+qstr_At_Beginner_level_wh|在初学者难度，只要你请求在乡村招募，就会被允许，而且没有花费。
+qstr_At_Beginner_level_im|在初学者难度，提高军队更容易
+qstr_At_Beginner_level_th|在初学者难度，玩家的部队工资减少40% 。此外，在寺庙的抢劫数额和捕捉船舶的机会增加。
+qstr_Stamina_is_calculate|耐力值取决于你的血量和运动技能，并影响着战斗中的防御能力。一旦角色的耐力耗尽，他或她将无法奔跑，而且武器的伤害减半。^^{s8}
+qstr_Your_skill_points_wi|当你装备重型护甲时，你的技能点将会降低。这个设定会使游戏更加平衡，因为轻甲兵种将变得更加重要。^^{s8}
+qstr_Your_army_needs_regu|你的部队需要适时在你的营地或庇护所里休息。缺乏休整将降低你的部队士气，而充分的休息能够提高士气。
+qstr_Your_enemies_will_ca|你的敌人会造成双倍伤害，而你只造成一半伤害。
+qstr_Add_decapitation_to_|加入斩首战。
+qstr_Disable_the_3D_view_|禁用的据点/ 村庄菜单中的3Ｄ 视图来改善机器的加载时间。
+qstr_Attack_while_holding|攻击时，按住你的盾牌（默认：按住鼠标左键+ 鼠标左键）。
+qstr_The_divisions_of_the|勾选此项后，玩家部队的阵型不会采用盾墙、楔形或方形。^^此外，F4 将不再出现相关的选项菜单。^^默认的阵型还是会有。
+qstr_When_multiple_divisi|当部署多个队列，他们将面对敌军中心。^^若没有勾选此项，他们将面对玩家。^^当然还是有个别队列是转身面对敌人。
+qstr_The_army_opposing_th|敌军从不呆在地图后的防守位置，^^它只会进攻玩家以及盟军。
+qstr_Disable_music_in_bat|在战斗中禁用音乐和添加更多的环境声音。
+qstr_Set_how_much_damage_|给你的角色设置多少伤害。
+qstr_Set_how_much_damage_i|给你的军队设置多少伤害。
+qstr_Set_how_well_troops_|初学者水平战斗最差。
+qstr_Campaign_AI_affects_|战略AI 会影响游戏的许多方面，比如：^- 土匪规模^- 战斗的声誉损失^- 成为领主的机会^- 税^- 领主如何得到增援^- 领主如何回应玩家的要求。
+qstr_Set_the_running_spee|设置部队在战斗中的运行速度。^^{s8}
+qstr_{s2}_{reg0}|{s2} {reg0}
+qstr_The_player_may_recei|玩家在战斗中可能会受到特殊的，使人衰弱的伤口。如果找大城镇的医生对这些伤口进行及时治疗，几天内就会愈合，不会有任何负面影响。如果伤口没有及时处理，就会形成一个伤疤，负面影响则是永久性的。
+qstr_Wounded_troops_take_|伤员的伤口失血^^{s8}
+qstr_From_now_on_spawn_33|减少33% 或者增加50% 的强盗袭击。
+qstr_Sets_the_player_as_c|将玩家设定为队列的指挥官。这个队列将立即成立并跟随玩家接受命令。可以将它作为保镖队列。
+qstr_Equipment_may_get_da|装备可能会在战斗中损坏，其程度取决于团队的武器维修技能。此外，你可以在武器锻造厂可以维修装备。^^{s8}
+qstr_Default|默认
+qstr_Randomize|随机
+qstr_Who_are_you?|你是谁？
+qstr_Be_careful_with_your|小心你的选择。^这些将影响到你其他的属性、技能和对话。
+qstr_Bio:|简介：
+qstr_Gender:|性别：
+qstr_Height:|身高：
+qstr_Age:|年龄：
+qstr_Personality:|性格：
+qstr_Greatest_Virtue:|最大优点：
+qstr_Ethnicity:|种族：
+qstr_Kingdom:|王国：
+qstr_Father_s_Occupation:|父亲的职业：
+qstr_Learnt_While_a_Child|孩提时代的教育：
+qstr_Vocation:|职业：
+qstr_Religion:|宗教：
+qstr_Female|女
+qstr_Male|男
+qstr_Normal|普通
+qstr_Tall|高
+qstr_Short|矮
+qstr_Young__16_22_years_o|青年（16-22 岁）
+qstr_Adult__23_40_years_o|成年（23-40 岁）
+qstr_Elder__40_or_more_ye|老年（40 岁以上）
+qstr_Sanguine|嗜血的
+qstr_Choleric|易怒的
+qstr_Melancholic|谨慎的
+qstr_Phlegmatic|冷静的
+qstr_Justice|正直的
+qstr_Temperance|克制的
+qstr_Fortitude|坚强的
+qstr_Wisdom|聪慧的
+qstr_Anglo_Saxon|盎格鲁-撒克逊
+qstr_Norse|诺尔斯
+qstr_Frisian|弗里斯
+qstr_Irish|爱尔兰
+qstr_Briton|布立吞
+qstr_Scoto_Pict|苏格兰-皮克特
+qstr_Foreigner|外国人
+qstr_{s0}|{s0}
+qstr_Outlaw|法外之徒
+qstr_Peasant|农夫
+qstr_Priest|牧师
+qstr_Craftsman|工匠
+qstr_Merchant|商人
+qstr_Noble|贵族
+qstr_Farming|耕作
+qstr_Stealing|盗窃
+qstr_Oratory|演讲
+qstr_Crafts|手艺
+qstr_Martial_Arts|武术
+qstr_Slave|奴隶
+qstr_Traveler|旅行者
+qstr_Hunter|偷猎者
+qstr_Landowner|地主
+qstr_Christian|基督教徒
+qstr_Pagan|多神教徒
+qstr_This_option_is_not_a|这个选项在领主或国王沙盒模式中不可选取。
+qstr_Your_Kingdom|你的王国
+qstr_Name_^{playername}|名字^{playername}
+qstr_Level:|等级：
+qstr_Health:|健康度：
+qstr_Renown:|名望：
+qstr_Reputation:|声誉：
+qstr_Right_to_Rule:|统治权：
+qstr_Money:|钱：
+qstr_Scandinavian_Gods|斯堪的纳维亚众神
+qstr_Can_read:|可以阅读：
+qstr_Reading:|正在阅读：
+qstr_No_books.|没有书。
+qstr_Trait:|特性：
+qstr_Special_Trait:|特长：
+qstr_Dungeon_Master|地牢大师
+qstr_Ladies__Man|大众情人
+qstr_Wine_Connoisseur|鉴酒家
+qstr_Scars:|疤痕：
+qstr_{reg1}|{reg1}
+qstr_Wounds:|伤口：
+qstr_Enemies_Killed:|杀死敌人：
+qstr_Enemies_Wounded:|伤害敌人：
+qstr_Allies_Killed:|盟友死亡：
+qstr_Allies_Wounded:|盟友受伤：
+qstr_Story|故事
+qstr_Attributes/Skills|属性/ 技能
+qstr_Wounds|伤口
+qstr_Quest|任务
+qstr_Party|部队
+qstr_Relations|关系
+qstr_Budget|预算
+qstr_Statistics|统计数据
+qstr_Companions|同伴
+qstr_Factions|派系
+qstr_Known_Lords|已知的领主
+qstr_Courtship|恋爱
+qstr_Ships|船只
+qstr_Level:_{reg4}_^Days_|等级：{reg4} ^冒险的日子：{reg5} 。
+qstr_Settlements_Owned_by|您拥有的房产：{reg0}
+qstr_Hostile_Lords:_{reg0|敌对领主：{reg0}
+qstr_You_need_to_be_the_r|你需要成为派系的统治者才能访问王国的控制面板。
+qstr_^^^^Wounds_Informati|^^^^伤口信息：^^{s3}^^----------^^{s4}^^----------^^{s5}^^----------^^{s6}
+qstr_Resume_Traveling|继续旅行
+qstr_Your_Camp|你的营地
+qstr_You_stop_to_rest.^He|你停下来休息。^你可以在这里管理营地的资源。
+qstr_Send_Scouts:|派遣侦察员：
+qstr_^Sending_scouts_ahea|^派遣军队侦察员会增加发现敌人的机会。然而，这些人总是很容易暴露，因此他们的生存率很低。
+qstr_Thirty_men_are_neede|需要三十人以上。
+qstr_Send_Foragers:|派出征粮队：
+qstr_^Send_men_to_forage_|^派人为你的军队寻找食物。他们每隔半天将带来额外的食物。
+qstr_Forty_men_are_needed|需要四十人以上。
+qstr_Fortify_Camp:|加强营地：
+qstr_^Fortify_your_camp_w|^巩固你营地的基本防御。从事这项艰巨工作的士兵需要200 先令的奖励，否则你可能面临麻烦。
+qstr_Sixty_men_are_needed|需要六十人以上。
+qstr_Your_Refuge|避难所
+qstr_Wait_Here|在这里等待
+qstr_Troop_Tree|部队升级树
+qstr_Second_Outfit|第二套装备
+qstr_Read_Book|阅读书本
+qstr_Retire|退休
+qstr_Recruit_Prisoners|招募俘虏
+qstr_Map_Colour|地图颜色
+qstr_Followers__Camp|追随者的营地
+qstr_Visit_Camp|参观营地
+qstr_Check_Location|检查位置
+qstr_You_cannot_build_you|这里太靠近定居点，你不能建造避难所。
+qstr_These_too_close_to_a|这里太靠近某一建筑，无法扎营。
+qstr_You_cannot_read._You|您无法阅读。你可以在修道院学习阅读。
+qstr_Your_army_morale_is_|你队伍的士气低落！
+qstr_No_one_is_interested|这个时候没有人感兴趣。
+qstr_Back_to_Siege|返回攻城
+qstr_Your_Siege_Camp|你的攻城营地
+qstr_You_are_besieging_th|你正在攻城。^你可以在这里管理营地的资源。
+qstr_^Send_men_to_forage_n|^派人到附近寻找食物。他们每隔半天带回额外的食物。
+qstr_Your_Sea_Camp|你的海上营地
+qstr_The_ship_is_at_the_m|当你停下休息时，船只将受到风向的摆布。^你可以在这里管理营地的资源。
+qstr_Calm^^The_sails_like|平静^^海面风平浪静。
+qstr_Light_breeze^^On_the|微风^^你注意到海上的阵阵微风。^船帆略微鼓起。
+qstr_Moderate_breeze^^Sma|和风^^海面卷起一个个小波浪。^船帆鼓起了。
+qstr_Strong_breeze^^Moder|阵风^^海浪开始增大。^船帆完全鼓起了，马上需要收起来。
+qstr_High_wind^^There_are|大风^^可以看见许多波浪。船帆收起来了。^船体有可能受损。
+qstr_Gale^^The_sea_is_vio|强风^^波涛剧烈，船帆完全收起了。^船体很有可能受损。
+qstr_Storm^^The_waves_tos|风暴^^船只完全听命于大浪，随时可能散架。
+qstr_Number_of_sailors:|水手数量：
+qstr_{reg5}|{reg5}
+qstr_Speed_from_sailors:|水手速度：
+qstr_{reg6}%|{reg6}%
+qstr_Fleet|舰队
+qstr_Followers_Camp|追随者营地
+qstr_Your_army_is_accompa|你的部队拥有来自不同背景的追随者。^^追随者允许您快速得到重要的服务，并提供士气上的支持，但缺点是有可能使你的部队前进速度减慢。^^您可以随时赶走追随者，但这样做会对你的军队的士气产生影响。^^你可以在旅途中遇到其他人，增加你的追随者人数，并将其设置分组，比如牧师，妇女和其他等。您可以通过部队菜单与追随者交谈，并设置分组。^^如果你决定将部队人数减少至300人以下，或者如果你的军队遭受重大损失或被敌人击败，如果你的追随者队伍没有被摧毁，他们可能会离弃你。
+qstr_Smith|铁匠
+qstr_Healer|医师
+qstr_Mules|骡子
+qstr_Slave_Trader|奴隶贩子
+qstr_Dismiss|解雇
+qstr_Kingdom_Report|王国报告：
+qstr_{reg59?Queen:King}:|{reg59?女王:国王} ：
+qstr_{reg59?Queen:King}_s|{reg59?女王:国王}的城镇：
+qstr_{reg59?Queen:King}_s_|{reg59?女王:国王}的堡垒：
+qstr_{reg59?Queen:King}_s_V|{reg59?女王:国王}的村庄：
+qstr_Lords:|领主：
+qstr_Caravans:|大篷车：
+qstr_Kingdom_Towns:|王国城镇：
+qstr_Kingdom_Forts:|王国堡垒：
+qstr_Kingdom_Villages:|王国村庄：
+qstr_Places_without_Lord:|无主之地：
+qstr_Prisoner_Lords:|俘虏贵族：
+qstr_Minister:|首相：
+qstr_Tax_Enforcement:|强行征税：
+qstr_Yes__costs_3000_peni|是（费用3000 先令/ 每周）
+qstr_No__tax_revenue_lowe|否（税收较低）
+qstr_{reg59?Queen:King}_s_A|{reg59?女王:国王} 军队规模：
+qstr_Royal_Decree|王家法令
+qstr_Summary|总体
+qstr_Lords|贵族
+qstr_Diplomacy|外交
+qstr_Armies|军队
+qstr_Centers|封地
+qstr_Rename|重命名
+qstr_Make_a_Royal_Decree:|下达一个王家法令：^^更换命令需要几个小时的时间，^因为信使需要时间来向你的下属传达信息。^当你选择好了命令，点击完成来确认。
+qstr_Gather_Our_Forces|召集我们的军队
+qstr_Defend_the_Kingdom|保卫王国
+qstr_Current_decree:_{s4}|当前命令：{s4}
+qstr_You_order_the_lords_|你命令领主带领自己的士兵集合。
+qstr_You_order_the_kingdo|你命令领主保卫王国。
+qstr_You_cannot_do_this_n|你现在不能做到这一点。
+qstr_Exhausted|筋疲力尽
+qstr_Very_Tired|很疲惫
+qstr_Tired|疲劳
+qstr_High|高
+qstr_What_name_would_you_|你想给怎么命名你的庇护所
+qstr_Save_it_as:_{s5}.|把它保存为：{s5} 。
+qstr_From_Troop:_|来自部队：
+qstr_{s1}_or_{s2}|{s1} 或{s2}
+qstr__Click_on_a_unit_for|( 点击查看详情)
+qstr_{reg2}|{reg2}
+qstr_On_several_occasions|在你的人生中，你已经多次见过这些奇怪的拉丁字母了，因此你很快便学会了如何阅读。也许你将在短时间内也学懂写字！^^这会让你在修道院停留一周。你想学习阅读吗？
+qstr_Yes.|是。
+qstr_No.|否。
+qstr_No_one_here_wants_to|这里没人想加入你的部队。
+qstr_One_{s3}_is_willing_|一个{s3}愿意跟随你。
+qstr_{reg5}_{s3}_are_will|{reg5}个{s3}愿意跟随你。
+qstr_Recruit_them__{reg6}|招募他们（{reg6} 先令）。
+qstr_One_{s3}_volunteers_|一个{s3}自愿跟随你。
+qstr_{reg5}_{s3}_voluntee|{reg5}个{s3}自愿跟随你。
+qstr_You_need_to_get_the_|当你获得本地领主的许可后才能在这里招募。
+qstr_My_Boats|我的船。
+qstr_Boats_for_Sale|待售船只。
+qstr_No_ships_for_sale^in|这个城市^没有待售船只。
+qstr_No_Name|没有名称
+qstr_{reg7}._Ship|第{reg7} 艘船
+qstr_Flagship|旗舰
+qstr_Very_Good|非常好
+qstr_Good|良好
+qstr_Acceptable|可以接受
+qstr_Bad|差
+qstr_Very_Bad|非常差
+qstr_Dangerous|危险
+qstr_Repair:_{reg8}_penin|修理：{reg8} 先令
+qstr_Type:_{s7}^Wood:_{s6|种类：{s7}^材质：{s6}^状况：{s1}^速度：{reg1}节^可载船员：{reg6}人^价格：{reg7} 先令^{s2}
+qstr_Repair_Ship|修理船只
+qstr_Customize_Ship|自定义船只
+qstr_Sell_Ship|出售船只
+qstr_Buy_Ship|购买船只
+qstr_Are_you_sure_you_wan|你确定你要做这笔交易？
+qstr_Leave_ship_at_the_sh|离开停在岸边的船
+qstr_Next_ship|下一艘船
+qstr_Fleet_Capacity:|舰队容量：
+qstr_{reg1}/{reg2}|{reg1} / {reg2}
+qstr_You_cannot_buy_this_|你不能购买这艘船，因为你没有提督技能。
+qstr_You_cannot_buy_this_b|你不能购买这艘船，因为你没有提督技能。
+qstr_You_cannot_buy_this_bo|你不能购买这艘船，因为你的提督技能不足。
+qstr_You_cannot_buy_this_boa|你不能购买这艘船，因为你的金钱不足。
+qstr_You_can_t_leave_your|你不能离开你停靠在岸边的最后一艘船
+qstr_You_can_t_leave_this|你不能把这艘船停在岸边，因为你其余船只已容纳不了这批船员。
+qstr_{s1}_s_Ships|{s1}'的船
+qstr_You_need_to_get_clos|你必须更靠近岸边才能上岸
+qstr_You_cannot_repair_th|你不能修理这艘船，因为你的金钱不足。
+qstr_No_ships_for_sell^in|这个城市^没有待售船只。
+qstr_Wood:_{s0}^|木材：{s0}^
+qstr_custom|自定义	
+qstr_blue_and_white|蓝，白色
+qstr_red_and_white|红，白色
+qstr_rich_striped|条纹
+qstr_green_and_yellow|黄，绿色
+qstr_red|红色
+qstr_blue_and_red|红，蓝色
+qstr_green|绿色
+qstr_blue_and_yellow|黄，蓝色
+qstr_Sail:_{s0}^|帆布：{s0}^
+qstr_tarred|涂柏油
+qstr_tarred_and_red|红色并涂柏油
+qstr_varnished|涂漆
+qstr_varnished_and_purple|紫色并涂漆
+qstr_blue|蓝色
+qstr_blue_red_and_green|蓝，红，绿色
+qstr_plain|素色
+qstr_Finish:_{s0}^|船体：{s0}^
+qstr_Price:_{reg7}_pening|价格：{reg7} 先令
+qstr_{s1}{s2}{s3}{s4}|{s1}{s2}{s3}{s4}
+qstr_Change_Finish|改变船体
+qstr_Change_Sail|改变帆布
+qstr_Apply|接受
+qstr_Only_ships_made_of_o|只有橡木船才能处理船体。
+qstr_You_don_t_have_enoug|你钱不够。
+qstr_Accept|接受
+qstr_Dismiss_Staff|解雇职员
+qstr_Recruit_staff_for_yo|为你的庇护所招募职员。
+qstr_^Hiring_staff_has_bo|^除了首付，你将持续支付职员工资。好名声和让人印象深刻的庇护所能够吸引大量各色人选。
+qstr_Description:|描述：
+qstr_Captain:|队长：
+qstr_Priest:|神职人员：
+qstr_Bard:|吟游诗人：
+qstr_Bottler:|斟酒人：
+qstr_Happy_Widow:|妓女：
+qstr_Trainer:|教练：
+qstr_Smith:|铁匠：
+qstr_Armorer:|军需官：
+qstr_Physician:|医师：
+qstr_Cook:|厨师：
+qstr_Captain_Marcus|马库斯队长
+qstr_Dismiss/No_Captain|解雇/ 无队长
+qstr_Priest_Beda|贝达牧师
+qstr_Godi_Olafr|戈迪· 奥拉夫
+qstr_Dismiss/No_Priest|解雇/ 无神职人员
+qstr_No_bard_wants_to_ser|没有吟游诗人愿意加入你。
+qstr_Skald_Bragi|诗人布拉吉
+qstr_Bard_Siwi|诗人斯维
+qstr_Dismiss/No_Bard|解雇/ 无吟游诗人
+qstr_Casius|斟酒人
+qstr_Dismiss/No_Bottler|解雇/ 无斟酒人
+qstr_No_happy_widow_is_av|没有妓女愿意加入你。
+qstr_Suaibsech|苏埃塞
+qstr_Tancoystl|坦柯斯提
+qstr_Gulla|古拉
+qstr_Eadgyd|艾德济
+qstr_Dismiss/No_Whore|解雇/ 无妓女
+qstr_Trainer_Harald|哈罗德教练
+qstr_Dismiss/No_Trainer|解雇/ 无教练
+qstr_Ulfberht|乌夫贝特
+qstr_Dismiss/No_Smith|解雇/ 无铁匠
+qstr_Armorer__The_Hungry_|军需官“饥渴之锤”
+qstr_Dismiss/No_Armorer|解雇/ 无军需官
+qstr_No_physicians_are_av|没有医师愿意加入你。
+qstr_Aurelius|奥勒留
+qstr_Morgan|摩根
+qstr_Alexander|亚历山大
+qstr_Ailill|阿希尔
+qstr_Dismiss/No_Physician|解雇/ 无医师
+qstr_Wamba|万巴
+qstr_Dismiss/No_Cook|解雇/ 无厨师
+qstr_{s10}|{s10}
+qstr_You_do_not_have_enou|你没有足够的钱来付给这么多的职员，请减少雇员的数量！
+qstr_The_abbot_sends_for_|修道院长派人去请各方来修道院，这样你就可以听到他们各自的陈述了。^^对你来说，你可以趁等待的时间看看抄写员写的那些金边装饰的文本了。
+qstr_fort|要塞
+qstr_Infiltration|渗透
+qstr_A_good_way_to_hasten|一个快速促使{s2}陷落的好办法是派一小队人渗透进去，破坏防御设施，粮食储备，水源或者守军的忠诚。这是一个困难且冒险的策略，几乎是自杀。你派去的人生还的几率很小，但是如果成功了，他们会对敌人造成巨大破坏。为此，你需要为他们准备600 先令。你希望他们去实施那种破坏吗？
+qstr_Poison_the_{s2}_s_wa|在{s2}的水源下毒。
+qstr_Kill_the_{s2}_s_live|杀死{s2}的牲畜。
+qstr_Burn_the_{s2}_s_food|烧了{s2}的粮仓。
+qstr_Subvert_the_defender|策反守卫者
+qstr_____| ？？
+qstr_A_group_of_chosen_me|选出的人会被派到水源的位置。
+qstr_A_group_of_chosen_men|选出的人会被派去杀牛。
+qstr_A_group_of_chosen_men_|选出的人会被派去烧粮仓。
+qstr_A_group_of_chosen_men_w|选出的人会被派去策反守军。
+qstr_You_do_not_have_the_|你没有600 先令来实施这项任务。
+qstr_{s1}_of_the_{s2}|{s2} 的{s1} 
+qstr_Send|派出
+qstr_You_are_hiring_a_mes|你在招募信使。^你可以发出三种信件：发布命令，改善关系和实施外交。
+qstr_Message_Type:|信件类型：
+qstr_Select_a_Place_for_y|选择你的命令：
+qstr_>>_Orders:^_You_cann|> > 命令：^ 你不能对他国领主发布命令。
+qstr_Orders:_None.|命令：无。
+qstr_Orders:_Meet_and_Fol|命令：与你会合并跟随你。
+qstr_Orders:_Go_to_a_Plac|命令：去一个地方。
+qstr_Orders:_Patrol_an_Ar|命令：巡逻一片区域。
+qstr_Orders:_Besiege_a_Pl|命令：围攻一个地方。
+qstr_>>_Relations:^This_l|> > 关系：^这个领主属于你的王国。
+qstr_Relations:_None.|关系：无。
+qstr_Relations:_Insult_an|关系：侮辱，激怒。
+qstr_Relations:_Send_a_Gi|关系：送出礼物。
+qstr_>>Diplomacy:^It_is_o|> > ^^外交：^只能与阵营领袖谈判^— — 你不是国王。
+qstr_>>Diplomacy:^It_is_on|> > 外交：^只有阵营领导者之间才能谈判，^{s1} 并不是一位国王。
+qstr_Diplomacy:_None.|外交：无。
+qstr_Diplomacy:_Suggest_a|外交：提议联盟。
+qstr_Diplomacy:_Suggest_P|外交：议和。
+qstr_Diplomacy:_Declare_W|外交：宣战。
+qstr_You_want_to_order_{s|你想命令{s9}与你会合并跟随你。
+qstr_You_want_to_order_{s9|你想命令{s9}去… 
+qstr_You_want_to_order_{s9}|你想命令{s9}去巡逻… 
+qstr_You_want_to_order_{s9}_|你想命令{s9}去围攻… 
+qstr_You_want_to_send_a_m|你想送出信件去侮辱，激怒{s9} 。这或许会使得他攻击你。
+qstr_You_want_to_send_a_g|你想送出价值2000 先令的戒指，手镯和其他首饰当做礼物给{s9} ，以增进你们之间的关系。
+qstr_You_want_to_invite_{|你想邀请{s9}与你结成同盟。
+qstr_You_want_to_make_pea|你想与{s9}停战。
+qstr_You_want_to_declare_|你想与{s9}宣战。切记，如果不是与一个关系很差的阵营宣战，就会造成其他阵营的不满与不信任，尤其是当你刚停战或是拥有同盟时。
+qstr_No_message_chosen.|无选中信件。
+qstr_>_You_are_sending_a_|> 你向{s9}送出了信件。^^> 距离：{reg2}公里。^^> 信使服务将会花费{reg3} 先令。^^^> {s10}
+qstr_You_have_not_chosen_|你没有选择信件发送。
+qstr_This_place_is_alread|这个地方已经被他国围攻了。
+qstr_You_have_good_relati|你与这个国家的关系很好，你的领主不会攻击它。
+qstr_You_re_already_at_pe|你已经与这个国家处于和平了，没必要派出信使了。
+qstr_You_need_to_improve_|在你提议结盟前，你应与这个国家增进关系。
+qstr_You_already_have_an_|你已经与这个国家结盟了，只有等目前的盟约结束了才能送出你的请愿。
+qstr_You_are_already_at_w|你已经与这个国家开战了。
+qstr_You_do_not_have_the_n|你没有足够的金钱支付给信使。
+qstr_This_is_a_hardcore_m|这是入侵的专家模式。^^只有回合开始时才能复活。
+qstr_Please_wait.^Player_|请等待。^玩家将在{reg11?第{reg10}回合后:下回合}复活。
+qstr_Send_message_to_othe|向其他管理员发送消息：
+qstr_Broadcast_message_to|向所有玩家广播消息：
+qstr_*ADMIN*:_{s0}|*ADMIN* ：{s0}
+qstr_*ADMIN*:|*ADMIN*:
+qstr_Reset_map|重置地图
+qstr_Slay_all_horses|杀死所有的马
+qstr_Slay_all_bots|杀死所有机器人
+qstr_Slay_player|杀死玩家
+qstr_Heal_player|治疗玩家
+qstr_Refill_player_s_ammo|补充玩家的弹药
+qstr_Fix_player_s_shield|修复玩家的盾牌
+qstr_Change_player_s_team|改变玩家的团队
+qstr_Make_player_a_specta|让玩家成为旁观者
+qstr_Give_player_Thor_s_H|将索尔之锤交给玩家
+qstr_Beacon_a_player|标记一个玩家
+qstr_Teleport_to_player|传送到玩家
+qstr_Teleport_a_player_to|把玩家传送到我
+qstr_Make_player_immortal|把玩家设为不死
+qstr_Make_player_mortal_a|把玩家设为可以被杀死
+qstr_Force_Master_of_the_|这块土地上强有力的统治者
+qstr_Only_available_in_Ba|只在战场模式可用！
+qstr_You_are_the_Thor_s_C|你是索尔的冠军
+qstr_Kill_as_many_opponen|尽可能多的杀死对手
+qstr_Kill|杀
+qstr_You_are_Thor_s_champ|你是索尔的拥护者！
+qstr_You_are_the_captain_|你掌控这艘船了
+qstr_Controls:_arrow_keys|操纵：箭头键，回车
+qstr_Ship_Captain|船长
+qstr_Change_game_type_to:|更换你的游戏模式为：
+qstr_Send_Poll|发送投票
+qstr_Choose_a_colour_for_|为你的王国选择一个颜色！
+qstr_Red|红色
+qstr_Green|绿色
+qstr_Blue|蓝色
+qstr_{reg11}_{reg12}_{reg|{reg11} ，{reg12} ，{reg13}
+qstr_Head_of_cattle_to_ta|带牛( 最大{reg22}):
+qstr_Create_a_new_goal:|创建新的目标：
+qstr__You_can_select_a_cu|( 你可以选择一个自定目标或下面的其中一个，完成后会有奖励)
+qstr_Let_me_choose!|让我选择！
+qstr_{s0}:|{s0} ：
+qstr_Army_size:|军队规模：
+qstr_Marry_a_{reg59?lord:|与{reg59?先生:女士} 结婚：
+qstr_Right_to_rule:|统治权：
+qstr_Wealth:|财富：
+qstr__You_need_to_choose^|( 你需要先设置一个目标！)
+qstr_Yes|是
+qstr_No|否
+qstr_Custom_Goal__no_rewa|自定目标( 没有回报)
+qstr__You_are_a_king_alre|( 你已经是一名国王了！)
+qstr__You_need_to_be_the_|( 你需要先成为你的阵营的统治者！)
+qstr_{reg1}_{reg2}|{reg1} ，{reg2}
+qstr_New_Goal|新目标
+qstr_Current_Goal:_{s1}|当前目标：{s1}
+qstr_Troops:|士兵：
+qstr_Marry:|婚姻：
+qstr_{s3}^_______________|{s3}^-------------------------------^
+qstr_{s1}^{s2}^|{s1}^{s2}^
+qstr_^{s1}|^{s1}
+qstr_Port_of_{s1}|{s1}港
+qstr_Refill_Supplies|补充给养
+qstr_Refill_Stones|补充石头。
+qstr_{s1}_of_the_{s3}_was|{s3}的{s1}被击败但设法逃离了。
+qstr_{s49}{s12}|{s49}{s12}
+qstr_Trying_to_improve_yo|努力提升与{s44}的关系
+qstr_Is_imprisoned_in_the|被关在　 {s44}的监狱里
+qstr_{s54}_is_a_claimant_|{s54}是{s56}的篡位者。
+qstr_nowhere|无
+qstr_{s57}_and_{s58}|{s57}和{s58}
+qstr_{reg3?She:He}|{reg3?她:他}
+qstr_The_town_of_{s50}|{s50}镇
+qstr_The_village_of_{s50}|{s52}附近的{s50}村
+qstr_{s51}_belongs_to_{s1|{s51}属于{s2}的{s1} 。
+qstr_{s2}It_has_no_villag|{s2}它没有下属的村庄。^ 
+qstr_{s2}{reg0?Its_villag|{s2}它{reg0?的下属的村庄是:的下属的村庄是}{s8} 。^ 
+qstr_{s2}Its_prosperity_i|{s2}它的繁荣度为：{s50}
+qstr_{s9}_and_{s10}|{s9}和{s10}
+qstr_{s12}{s14}|{s12}{s14}
+qstr_{s12}_{s14}|{s12} ，{s14}
+qstr_{s11}{s14}|{s11}{s14}
+qstr_{s11}_{s14}|{s11} ，{s14}
+qstr_{s13}{s14}|{s13}{s14}
+qstr_{s13}_{s14}|{s13} ，{s14}
+qstr_{s21}._The_{s8}_decl|为了履行盟约，{s21}对{s8}宣战了
+qstr_No_wars!|没有战争！
+qstr_At_war_with__{reg1}_|与({reg1}) 交战中：{s12}
+qstr_No_allies!|没有盟友！
+qstr_Alliances__{reg2}___|同盟({reg2}) ：{s11}
+qstr_No_casus_belli!|没有开战理由！
+qstr_Casus_belli____{reg3|开战理由({reg3}) ：{s13}
+qstr_{s12}^{s11}^{s13}^^{|{s12}^{s11}^{s13}^^{s21}
+qstr_^___________________|^-------------------------------------------------------------------------------^{s1}^{s21}
+qstr_The_{s5}_has_been_de|{s5}被击败了！
+qstr_{s7}_opened_the_gate|{s7}将门打开。
+qstr_{s7}_closed_the_gate|{s7}将门关上。
+qstr_You_have_received_{r|你受到了{reg5}致命一击！
+qstr_You_have_dealt_{reg5|你发动了{reg5}致命一击！
+qstr_You_have_received_{re|你的头遭到了{reg5}致命一击，你在一秒钟内将看不清东西！
+qstr_You_unleash_your_bat|你发起狂暴了！！！
+qstr_You_feel_exhausted_a|狂暴后你筋疲力尽了！！！
+qstr_Your_strength_is_bac|你的力量恢复了。
+qstr_You_are_too_exhauste|你现在筋疲力尽了，不能进入狂暴状态。
+qstr_The_sound_of_your_si|我方的号角声使你更加有力！
+qstr_The_sound_of_the_ene|敌方的号角声使你逡巡不前！
+qstr_You_are_no_longer_af|你不再受到号角声的影响！
+qstr_{reg1}_ally_troops_w|{reg1}盟军为我方的号角声所激励！
+qstr_No_ally_troops_were_|盟军不再受到我方的号角声的影响。
+qstr_You_need_to_catch_yo|你在再次吹响号角前需要歇口气。
+qstr_Your_supplies_are_re|你的给养已补充完毕。
+qstr_All_stray_horses_wer|所有无人骑乘的马被管理员杀死了。
+qstr_AI_warriors_were_sla|AI战士被管理员杀死
+qstr_All_players_were_sla|所有玩家被一名管理员杀死
+qstr_Player__{s1}__was_sl|玩家“{s1} ”被一名管理员杀死
+qstr_Admin_made_all_playe|所有人都被管理员设置为不死模式。
+qstr_Admin_made_all_player|所有人都被管理员设置为可被死模式。
+qstr_All_players_were_hea|所有玩家被一名管理员治疗
+qstr_Admin_refilled_ammo_|管理员为所有玩家补充了弹药。
+qstr_Admin_fixed_shields_|管理员为所有玩家修复了盾牌。
+qstr_Player__{s1}__was_he|玩家“{s1} ”被一名管理员治疗
+qstr_Admin_refilled_ammo_o|管理员为玩家'{s1}' 补充了弹药。
+qstr_Admin_fixed_shield_o|管理员为玩家'{s1}' 修复了盾牌。
+qstr_Admin_made_player__{|管理员设定玩家'{s1}' {reg1?不: }可以被杀死
+qstr_Teams_have_been_swit|队伍被管理员交换了
+qstr_Player__{s1}__was_sw|玩家“{s1} ”被一名管理员切换到对方队伍
+qstr_All_players_were_tur|所有玩家被一名管理员切换到旁观者
+qstr_Player__{s1}__was_tu|玩家“{s1} ”被一名管理员切换到旁观者
+qstr_{s1}_received_a_Thor|{s1}从一名管理员处得到索尔之锤
+qstr_*ADMIN_CHAT*_[{s1}]:|*ADMIN CHAT* [{s1}] ：{s0}
+qstr_Grants_+{reg1}_to_pa|部队士气增加{reg1}
+qstr_Increases_morale_dur|在战斗中增加士气
+qstr_Heavy_Armour:_you_su|重甲：你的一些技能将被削弱
+qstr_Medium_Armour:_you_s|中甲：你的一些技能将被削弱
+qstr_Heavy_Equipment:_you|重装备：你的一些技能将被削弱
+qstr_Ritual_Equipment:_Ad|仪仗装备：你的某些技能将被削弱
+qstr_Improves_leadership_|提高你的领导力和说服力
+qstr_Requires_{reg1}_inte|需要{reg1}点智慧才能读
+qstr_Reading_Progress:_{r|阅读进度：{reg1}% 
+qstr_wound_treatment|治疗伤口
+qstr_trainer|教练
+qstr_surgery|手术
+qstr_persuasion|说服
+qstr_Gives_+1_to_{s1}_whi|在物品栏中增加1点{s1}
+qstr_Special_Attire:_Bonu|特殊装备：个别技能得到加成
+qstr_Bonus_to_movement_sp|运动速度加成
+qstr_Move_here|移动到这里
+qstr_View_notes|查看记录
+qstr_Accompany|同伴
+qstr_Find_landing_point|找到登陆点
+qstr_killed|死亡
+qstr_wounded|受伤
+qstr_{s0}^TOTAL:_{reg3}__|{s0}^ 总计：{reg3}({s2}) 
+qstr_^{s0}|^{s0}
+qstr_nothing|无
+qstr_{reg0}_village{reg1?|{reg0}村庄{reg1?:} 
+qstr_{reg0}_fort{reg1?s:}|{reg0}城堡{reg1?:} 
+qstr_{reg0}_fort{reg1?s:}_|{reg0}城堡{reg1?:} 以及{s0}
+qstr_{reg0}_town{reg1?s:}|{reg0}城镇{reg1?:} 
+qstr_{reg0}_town{reg1?s:}_|{reg0}城镇{reg1?:} 以及{s0}
+qstr_{reg0}_town{reg1?s:}_{|{reg0}城镇{reg1?:} ，{s0}
+qstr_Your_opponents_are_r|你的对手已经准备好了。
+qstr_Try_to_destroy_as_ma|你需要在两分半钟的时间内尽可能多的摧毁目标。
+qstr_Stay_behind_the_line|站在线后射击目标。尽量不要浪费任何一发弹药。
+qstr_trying_quest_{reg1}|试图探索{reg1}
+qstr_Garrison_Troops|守备部队
+qstr_Camp_Troops|营地部队
+qstr_Refuge_Troops|避难所部队
+qstr_Even_though_nearby_{|即使就在附近，{s1}也不会来帮你。
+qstr_Battle_Advantage_=_{|战场优势为{reg0} 。
+qstr_{s9}_wants_you_to_re|{s9}希望你能够在接到进一步的指令以前跟着他的部队前进。
+qstr__Being_Raided_|（被掠夺中）
+qstr__Looted_|（已被洗劫）
+qstr__Under_Siege_|（陷入包围）
+qstr_The_village_of_{s1}_|{s1}村遭受了{s2}的掠夺。
+qstr_{s3}_is_no_longer_un|{s3}不再陷入包围了。
+qstr_Small_bands_of_enemi|在{s1}附近发现小队敌军。
+qstr_Enemy_patrols_have_b|在{s1}附近发现敌军巡逻队。
+qstr_A_medium_sized_group|在{s1}附近发现中等规模的敌军。
+qstr_A_significant_group_|在{s1}附近发现敌军集团。
+qstr_An_army_of_enemies_h|在{s1}附近发现一支敌军。
+qstr_A_large_army_of_enem|在{s1}附近发现大规模敌军。
+qstr_A_great_host_of_enem|在{s1}附近发现大群敌军。
+qstr_{s1}_has_been_besieg|{s3}的{s2}包围了{s1} 。
+qstr__{s1}__{s11}:_{s14}|（{s1} ）{s11} ：{s14}
+qstr_{s14}__{s21}_|{s14}（{s21} ）
+qstr_Feast_concludes|宴会结束
+qstr_{s1}_is_the_new_mars|{s1}成了{s2}的新元帅。
+qstr_You_gain_{reg12}_ren|你得到{reg12}声望。
+qstr_You_lose_{reg12}_ren|你失去了{reg12}点声望。
+qstr_Your_relation_with_{|你与{s1}的关系提升了。
+qstr_Your_relation_with_{s|你与{s1}的关系恶化了。
+qstr_You_have_angered_the|你激怒了他们
+qstr_You_have_appeased_th|你安抚了他们
+qstr_You_gain_reputation.|你得到荣誉
+qstr_You_lose_reputation.|你失去荣誉
+qstr_Now_your_reputation_|现在你有{reg1}荣誉。
+qstr_The_{s1}_has_declare|{s1}对{s2}宣战。
+qstr_The_{s15}_complies_w|{s15}为遵守与{s17}的盟约，对{s16}宣战。
+qstr_The_{s1}_and_the_{s2|{s1}已与{s2}议和。
+qstr_{s2}_{reg3?was:is_cu|{s2}{reg3?曾:正}在{s3} 。
+qstr_{s2}_{reg3?was:is}_t|{s2}{reg3?已经:正在}赶去{s3} ，而{reg4?她:他}{reg3?之前:也许}在{s4}{reg3?:附近} 。
+qstr_{s2}_{reg3?was:is}_i|{s2}{reg3?:正}在野外某地，而{reg4?她:他}{reg3?之前:也许}在{s3}{reg3?:附近} 。
+qstr_{s2}_{reg3?was:is}_b|{s2}{reg3?曾:正}被囚禁在{s3} 。
+qstr_{s2}_{reg3?was:has_b|{s2}{reg3?已:已经}被{reg4?她的:他的}敌人俘虏。
+qstr_I_don_t_know_where_{|我不知道{s2}在哪里。
+qstr_{s2}_is_attacking_th|{s2}正在攻击撒克逊人。
+qstr_{s2}_is_defending_th|{s2}正在保卫拉格纳之子的国度。
+qstr_You_now_owe_{reg2}_p|你现在欠{s1}{reg2} 先令。
+qstr_Royal_guardian|皇家卫士
+qstr_You_stand_to_gain_{r|如果你赢得战斗，你将得到{reg8}声望
+qstr_You_have_run_into_a_|你陷入了圈套之中！
+qstr_You_are_attacked_by_|你被一群强盗打劫了！
+qstr_Following|随行中
+qstr_Holding|坚守中
+qstr_Charging|冲锋中
+qstr_Advancing|前进中
+qstr_Falling_Back|后退中
+qstr_Standing_Closer|聚拢中
+qstr_Spreading_Out|散开中
+qstr_Standing|站立中
+qstr_Retreating|撤退中
+qstr_N/A|无效
+qstr_Free|自由行动中
+qstr_Any_Weapon|任意武器
+qstr_Blunt_Weapons|钝击武器
+qstr_Given_by:_{s62}|给予人：{s62}
+qstr_Given_on:_{s60}|开始于：{s60}
+qstr_This_quest_has_been_|任务已经完成，把消息告诉{s59}
+qstr_This_quest_has_been_c|这个任务已经结束
+qstr_This_quest_has_been_s|任务已经成功完成，回去告知{s59}.
+qstr_This_quest_has_been_su|任务已经成功完成。
+qstr_This_quest_has_faile|你没能成功完成任务，跟{s59}解释一下吧。
+qstr_This_quest_has_failed|任务失败。
+qstr_At_the_time_quest_wa|接受任务时：^{s1}
+qstr_The_{s5}_has_a_stren|{s5}总共有{reg1}个士兵。
+qstr_According_to_the_las|上一次你见到{reg1?她:他} ，{s1}
+qstr_According_to_the_last|上一次你听说到{reg1?她:他} ，{s1}
+qstr_The_current_garrison|这个要塞有{reg5}人驻守，还能支撑{reg6}天。
+qstr_Very_Poor|非常贫穷
+qstr_Poor|贫穷
+qstr_Average|一般
+qstr_Rich|富有
+qstr_Very_Rich|非常富有
+qstr_Mead_Hall|蜜酒厅
+qstr_A_manor_lets_you_res|有了一个庄园，你就可以在村子中休息，而且在此期间你只用付相当于平时一半的工资给你的部队。
+qstr_Mill|磨坊
+qstr_A_mill_increases_vil|有了一个磨坊，就可以使村子的繁荣度提升5% 。
+qstr_Watchtower|了望塔
+qstr_A_watchtower_lets_th|有了一个了望塔，就可以使村民更早的发出警报，并延长敌人掠夺这村子的时间50% 。
+qstr_School|学校
+qstr_A_school_increases_t|有了一个学校，就可以使村民对你的忠诚度每月提升1点。
+qstr_Messenger_Post|驿站
+qstr_A_messenger_post_let|有了一个驿站，就可以使村民在村子旁发现敌军时向你汇报，不论你离村子有多远。
+qstr_Prison_Tower|哨塔
+qstr_A_prison_tower_reduc|监狱能降低俘虏成功逃跑的几率。
+qstr_Christian_Monastery|基督教修道院
+qstr_A_monastery_promotes|基督教修士传播基督教义
+qstr_Temple_to_god_Odin|奥丁神的神庙
+qstr_A_temple_promotes_pa|传播多神教习俗的神庙
+qstr_Christian_Church|基督教堂
+qstr_A_church_promotes_Ch|传播基督教义的神庙
+qstr_Shrine_to_Norse_Gods|北欧神的神殿
+qstr_A_shrine_promotes_pa|传播多神教习俗的神庙
+qstr_Blacksmith|铁匠
+qstr_A_blacksmith_manufac|铁匠制造并出售武器
+qstr_Merchants__Rest_Hall|商人的休息室
+qstr_A_rest_hall_supports|商人的休息室：增加商人数量，推动商业繁荣
+qstr_Scriptorium|缮写室
+qstr_A_scriptorium_increa|缮写室可提高你作为学术赞助人的名声
+qstr_Slave_Market|奴隶市场
+qstr_A_slave_market_incre|奴隶市场能增加港口城市的繁荣和关税，但会减少了你的荣誉。
+qstr_Brewery|啤酒厂
+qstr_A_brewery_increases_|啤酒厂能增加城堡的繁荣和忠诚度
+qstr_The_prosperity_of_{s|{s2}的繁荣度已由{s3}变至{s4}
+qstr_{s4}_looks_upset.|{s4}看起来很失落。
+qstr_your_party|你的部队
+qstr_{reg0?One_of_your_pr|{reg0?你的囚犯之一，:}{s3}的{s1}逃跑了！
+qstr_You_have_delivered_{|你已经把{reg3}头牛送到了{s1}手中。
+qstr_I_hear_that_there_wi|我听说在{s62}将会举办一场竞技大会。
+qstr_I_heard_that_one_can|我听说{s62}在{s63}卖得很便宜。
+qstr_I_heard_that_they_pa|我听说{s62}在{s63}卖的很贵。
+qstr_I_heard_that_the_Dan|我听说丹麦人要在明年春天之前征服西撒克逊。
+qstr_Currently_the_most_r|大概是由于这次入侵，近来有首歌在吟游诗人之中风行，这首歌讲的是格温特国王卡德沃隆和麦西亚国王潘达入侵诺森布里亚的故事，他们深入古老的迪拉王国的心脏地带。埃德温国王召集士兵，与南方的敌人决一死战。两军在赫夫兰相遇，战场上血流漂杵，尸横遍野，战士遗骸的惨状令人终生难忘。
+qstr_I_heard_the_Pope_in_|我听说罗马教皇将传教士派到丹麦人那里去了！
+qstr_Ragnar_s_sons_are_th|拉格纳之子是世上最危险的人物。我听说他们冷酷无情，没有人敢正视他们。
+qstr_I_think_the_wife_of_|我觉得我朋友的妻子跟一个吟游诗人私通，他们合起伙来骗我朋友。
+qstr_I_hate_bandits!_Some|我憎恶土匪！怎么没有人把他们杀个精光！
+qstr_I_would_like_to_know|我想知道罗马时代是怎么一回事。
+qstr_Many_of_the_nobles_o|年轻的海德公主令不列颠的许多贵族瞠目结舌。她真是美若天仙。但可惜的是，她竟然想遁入教门！
+qstr_A_traveller_told_me_|一个旅行者告诉我，法兰克为正为了进攻弗里斯而招兵买马。
+qstr_The_Danish_have_brou|丹麦人几乎把各种各样的外国人都带来了。看起来全世界的人都来到了古老的不列颠。
+qstr_West_Seaxe_was_never|西撒克逊从未如今日这般强盛。他们的国王自然被视为不列颠的统治者。
+qstr_I_wish_the_world_wer|我希望世道太平些。现在几乎没人可以活到老年。
+qstr_I_ve_been_told_the_a|我听说乌内尔正在秣兵历马，养精蓄锐。他们将无敌于爱尔兰！
+qstr_two_days_ago|两天之前
+qstr_{s24}_increased_reno|{s24} 在{s25} 参加了宴会并因此提高了声望
+qstr_You_asked_me_to_come|你命令我在{s33} 与你见面。所以我在这里等待你的出现。
+qstr_You_asked_me_to_come_|你命令我来{s33} 附近巡逻。所以我在这里找寻敌人的踪迹。
+qstr_Marshal_has_chosen_{|元帅选定{s13} 去征收士兵。
+qstr_Marshal_Levying_Troo|元帅征收士兵
+qstr_The_marshal_is_levyi|元帅正从你的{s10}领地征收{reg0}兵士。
+qstr_{s35}_of_the_{s34}|{s34} 的{s35}
+qstr_{s37}_of_the_{s36}|{s36} 的{s37}
+qstr_The_brewery_in_{s1}_|{s1}的啤酒厂促进了经济繁荣。
+qstr_You_gain_right_to_ru|你获得统治权。
+qstr_You_lose_right_to_ru|你失去统治权。
+qstr_Content_update_appli|新的内容已经保存到存档里面。
+qstr_{s1}_has_entered_tra|{s1} 进入了挂机状态！
+qstr_{s1}_has_become_unco|{s1} 变得无法控制！
+qstr_{s1}_is_getting_exha|{s1} 在大发雷霆之后变得精疲力竭。
+qstr_{s1}_back_to_normal!|{s1} 回复到普通！
+qstr_Manage_this_village.|管理这个村庄。
+qstr_Recruit_volunteers.|招募志愿者。
+qstr_Go_to_the_village_ce|前往村庄。
+qstr_Meet_the_leader.|与领导者会面。
+qstr_Buy_supplies.|购买补给品。
+qstr_Attack_the_bandits.|攻击强盗。
+qstr_Wait_here_for_some_t|在这里呆一段时间。
+qstr_{reg5?Continue_colle|{reg5?继续收税:收税} 。
+qstr_Train_the_peasants.|训练农民。
+qstr_Take_an_action.|采取行动。
+qstr_Leave...|离开… 
+qstr_You_need_to_obtain_p|你需要获得村庄长老的许可才能在此招募。
+qstr___Symbel_| (宴会)
+qstr_Join_the_competition|加入比赛。
+qstr_Stroll_through_town.|去城里逛逛。
+qstr_Meet_the_mayor.|与镇长会面。
+qstr_Mead_hall__hire_men_|进入蜜酒厅(招募士兵) 。
+qstr_Visit_the_mead_hall.|进入蜜酒厅。
+qstr_Visit_the_training_g|访问竞技场。
+qstr_Tour_the_grounds.|四处逛逛。
+qstr_Visit_your_farmstead|参观你的工厂。
+qstr_Attempt_to_visit_a_l|试图访问一位女士。
+qstr_Trade_with_locals.|与当地商人交易。
+qstr_Travel_to_another_Po|出发到其他港口。
+qstr_Manage_this_{reg0?to|管理这个{reg0?城镇:城堡} 。
+qstr_Move_your_court_here|迁都到此。
+qstr_Manage_the_garrison.|管理驻军。
+qstr___{reg1}_peningas_pe|（每晚{reg1} 先令）
+qstr___1_pening_per_night| (每晚1 先令)
+qstr_Ask_for_potential_re|征召新兵
+qstr_See_the_ships.|查看船只。
+qstr_Symbel_for_your_men.|为你的人举行宴会。
+qstr_Sail_from_port.|从港口出航。
+qstr_ranks|长蛇阵
+qstr_shield_wall|盾墙阵
+qstr_wedge|楔形阵
+qstr_square|方形阵
+qstr_up|上
+qstr_Division_{reg1}_{s2}|队列{reg1} 的{s2}组成了{s1} 。
+qstr_Not_enough_troops_in|队列{reg1} 的{s2}没有足够士兵组成{s1} 。
+qstr_Division_{reg1}_{s2}_|队列{reg1} 的{s2}是{s3} 的一个部分，不能用来组成{s1} 。
+qstr_{s1}:_infantry_forma|{s1} ：步兵阵型拆散。
+qstr_{s1}:_archer_formati|{s1} ：弓箭手阵型拆散。
+qstr_{s1}:_skirmisher_for|{s1} ：散兵阵型拆散。
+qstr_{s1}:_cavalry_format|{s1} ：骑兵阵型拆散。
+qstr_{s1}:_formation_disa|{s1} ：阵型拆散。
+qstr_Cavalry_formation_di|骑兵阵型拆散。
+qstr_The_placement_of_{s1|{s1} 队列的设置{reg0} 已保存。
+qstr_The_placement_of_{s1}|{s1} 队列的设置{reg0} 已撤消。
+qstr_Your_party_s_tactica|你的部队战术还无法组织你的部队！
+qstr_...and_attack_enemy_|…并且进攻敌人的{s1}队列！
+qstr_{s2}:_returning_afte|{s2} ：在消灭敌人的{s1}队列后回来。
+qstr_infantry|步兵
+qstr_archer|射手
+qstr_cavalry|骑兵
+qstr_polearm|长枪兵
+qstr_skirmisher|散兵
+qstr_mounted_archer|骑射手
+qstr_support|后援
+qstr_bodyguard|保镖
+qstr_undetermined_type_of|未定型
+qstr_Lame|瘸腿
+qstr_Swaybacked|老
+qstr_Timid|胆小的
+qstr_Meek|温顺的
+qstr_Stubborn|倔犟的
+qstr_Heavy|重
+qstr_Spirited|活泼的
+qstr_Champion|冠军
+qstr_Cracked|裂开的
+qstr_Battered|有凹陷的
+qstr_Thick|厚
+qstr_Reinforced|加强
+qstr_Rusty|生锈的
+qstr_Tattered|破烂的
+qstr_Ragged|破旧的
+qstr_Crude|简陋的
+qstr_Sturdy|坚固的
+qstr_Hardened|加硬
+qstr_Lordly|豪华的
+qstr_Broken|破裂的
+qstr_Bent|弯曲的
+qstr_Chipped|有缺口的
+qstr_Strong|强壮
+qstr_Balanced|平衡的
+qstr_Tempered|回火的
+qstr_Masterwork|极品
+qstr_Large_Bag_of|一大袋
+qstr_Strength.|力量
+qstr_Shield_skill.|盾防技能
+qstr_Power_Throw_skill.|强掷技能
+qstr_Power_Draw_skill.|强击技能
+qstr_Riding_skill.|骑术技能
+qstr_{s2}_needs_{reg1}_mo|{s2} 还需要额外的{reg1} 单位的{s1}
+qstr_You_need_five_tool_k|你还需要5单位的工具来建造避难所！
+qstr_You_need_five_timber|你还需要5单位的木料来建造避难所！
+qstr_To_hire_workers_you_|为了招募人手，你有以下选择：如果没有任何选择，你需要增加你的声望或者升级避难所来容纳他们：
+qstr_Name:_Marcus.|姓名：马库斯。
+qstr_Occupation:_This_cap|这个队长已经正在服役。
+qstr_Occupation:_Captain^|职业：队长^起始费用：500^每周开销：55^备注：他能帮助你管理避难所并提供避难所的升级。
+qstr_Name:_Father_Beda.|姓名：贝达牧师
+qstr_Occupation:_This_pri|这个牧师已经正在服役。
+qstr_Occupation:_Priest^I|职业：牧师^起始费用：250^每周开销：30^备注：他能让你的基督士兵们士气大振。
+qstr_Name:_Godi_Olafr.|名字：戈迪· 奥拉夫。
+qstr_Occupation:_Godi^Ini|职业：牧师^起始费用：250^每周开销：30^备注：鼓励你的士兵讨伐异教徒。
+qstr_Name:_Skald_Bragi.|名字：诗人布拉吉。
+qstr_Occupation:_This_bar|职业：这名诗人已为你所用。
+qstr_Occupation:_Skald^In|职业：吟游诗人^起始费用：200^每周开销：40^备注：在你的大厅内传唱激昂的北欧音乐。
+qstr_Name:_Bard_Siwi.|名字：诗人斯维。
+qstr_Occupation:_Bard^Ini|职业：诗人^起始费用：200^每周开销：40^备注：在你的大厅内传唱激昂的英格兰音乐。
+qstr_Name:_Casius.|名字：凯亚斯。
+qstr_Occupation:_This_man|职业：这个人已为你所用。
+qstr_Occupation:_Bottler^|职业：侍酒人^起始费用：100每周开销：10^备注：他在你的蜜酒厅里面是必不可少的成员。
+qstr_Name:_Suaibsech.|名字：苏埃塞。
+qstr_Occupation:_This_wom|职业：这个女人已为你所用。
+qstr_Occupation:_Happy_Wi|职业：浪荡的寡妇^起始费用：300^每周开销：25^备注：让你的人开心的最佳方式。
+qstr_Name:_Tancoystl.|名字：坦柯斯提。
+qstr_Name:_Gulla.|名字：古拉。
+qstr_Occupation:_Happy_Wid|职业：浪荡的寡妇^起始费用：150^每周开销：15^备注：让你的人开心的最佳方式。
+qstr_Name:_Eadgyd.|名字：艾德济。
+qstr_Name:_Harald.|名字：哈拉尔德。
+qstr_Occupation:_This_tra|职业：这名教官已为你所用。
+qstr_Occupation:_Trainer^|职业：教官^起始费用：450^每周开销：45^备注：训练你的士兵。
+qstr_Name:_Ulfberht.|名字：尤福贝特。
+qstr_Occupation:_This_smi|职业：这名铁匠已为你所用。
+qstr_Occupation:_Smith^In|职业：铁匠^起始费用：400^每周开销：40^备注：为你的庇护所锻造新武器。
+qstr_Name:_The_Hungry_Ham|名字：饿锤。
+qstr_Occupation:_This_arm|职业：这名甲胄师已为你所用。
+qstr_Occupation:_Armorer^|职业：甲胄师^起始费用：400^每周开销：40^备注：他的昵称来源于他对于铁的痴狂，能造各种东西。
+qstr_Name:_Aurelius.|名字：奥勒留。
+qstr_Occupation:_This_phy|职业：这名医生已为你所用。
+qstr_Occupation:_Physicia|职业：医生^起始费用：250^每周开销：15^备注：能够治疗轻伤。
+qstr_Name:_Morgan.|名字：摩根。
+qstr_Name:_Alexander.|名字：亚历山大。
+qstr_Occupation:_Physician|职业：医生^起始费用：350^每周开销：30^备注：受过优良训练的外科医生，能够治疗轻伤和重伤。
+qstr_Name:_Aillil.|名字：阿希尔。
+qstr_Occupation:_Physician^|职业：医生^起始费用：250^每周开销：30^备注：能够治疗轻伤。
+qstr_Name:_Wamba.|名字：万巴。
+qstr_Occupation:_This_coo|职业：这名厨师已为你所用。
+qstr_Occupation:_Cook^Ini|职业：厨师^起始费用：350^每周开销：30^备注：为你和你的人准备宴席。
+qstr_The_{s1}_and_the_{s2}|{s1}和{s2}结盟了。
+qstr_The_{s15}_complies_wi|{s15}藉由攻打{s16}确保了新的联盟关系。
+qstr_Player_bonus_for_dec|玩家斩首奖励：{reg1}
+qstr_Ruthless|凶狠
+qstr_Vile|卑鄙
+qstr_Notorious|恶名昭彰
+qstr_Unkind|可恶
+qstr_Unknown|未知
+qstr_Kind|善良
+qstr_Admirable|令人敬佩
+qstr_Heroic|英勇
+qstr_Inventory|物品栏
+qstr_Show_stats|显示状态。
+qstr_Show_item_details__|是否显示物品详细介绍。
+qstr_Troop_detail|兵种详细
+qstr_{s1}^|{s1}^
+qstr_{s1}Level:_{reg1}^|{s1}等级：{reg1}^
+qstr_{s1}Hit_Points:_{reg|{s1}生命值：{reg1}
+qstr_{s1}Atributes:_^___S|{s1}属性：^ 力量：^
+qstr_{s2}^{reg1}^|{s2}^{reg1}^
+qstr_{s1}___Agility:|{s1} 敏捷：
+qstr_{s2}{reg1}|{s2}{reg1}
+qstr_{s1}Main_skills:_^|{s1}主要技能：^
+qstr_{s1}___Power_Strike:|{s1} 强击：^
+qstr_{s2}{reg1}^|{s2}{reg1}^
+qstr_{s1}___Athletics:^|{s1} 体能：^
+qstr_{s1}___Riding:^|{s1} 骑术：^
+qstr_{s2}_^|{s2}-^
+qstr_{s1}___Power_Throw:^|{s1} 强掷：^
+qstr_{s1}___Power_Draw:^^|{s1} 强弓：^^
+qstr_{s2}{reg1}^^|{s2}{reg1}^^
+qstr_{s2}_^^|{s2}-^^
+qstr_{s1}Weapons:^|{s1}武器：^
+qstr_{s1}___One_Handed:^|{s1} 单手：^
+qstr_{s1}___Two_Handed:^|{s1} 双手：^
+qstr_{s1}___Polearms:^|{s1} 长杆：^
+qstr_{s1}___Archery:^|{s1} 箭术：^
+qstr_{s1}___Crossbow:^|{s1} 弩：^
+qstr_{s1}___Throwing:^|{s1} 投掷：^
+qstr_{s1}___Slings:|{s1} 弹弓：
+qstr_{s2}_|{s2}-
+qstr__Click_on_the_troop_|(点击士兵使他旋转)^^点击一块装备^(头盔，装甲，手套和靴子)^ 来脱除该物品。
+qstr_Landing_near_{s2}|在{s2} 附近登录。
+qstr_{s0}^>_{s1}__{s2}__{|{s0}^> {s1} ，'{s2}' ，{s3} ，{s4}
+qstr_You_have_lost_the_tr|因为着陆时没有带上商人，所以你失去了他们。
+qstr_You_have_lost_the_tra|因为着陆时没有带上商人，所以你失去了他们。
+qstr_SHIP_{reg8}_ERROR:_g|SHIP {reg8} ERROR: gtbws not the same!{***}
+qstr_You_are_an_elder._Yo|你是一位长者，可能不如往日那般敏捷有力，但毫无疑问，你的智慧高深莫测。
+qstr_You_are_an_adult._Yo|你已经成年了。在这个年纪，你既强健有力，又颇有阅历。
+qstr_You_are_a_youth._You|你还是青春年少。你有着取之不尽的精力，渴望改变周围的环境。
+qstr_According_to_Galen_s|根据伽林对古人性格的描述，你的性格是：
+qstr_Phlegmatic._Its_elem|冷静。它的元素为水，表现为希波克拉底体液说中的粘液。它出现于带有自信心，有同情心，自我满足，可靠，害羞，细心，和坚强特质的人身上。这些人也难以改变，漠视他人，放松，矜持。
+qstr_Melancholic._Its_ele|谨慎。它的元素为土，表现为希波克拉底体液说中的黑胆汁。它出现于带有内向，敏感，直觉，有创造力，追求完美，耐心，爱心和宽容特质的人身上。这些人也笨拙，痴迷，沮丧和容易不满。
+qstr_Choleric._Its_elemen|易怒。它的元素是火，表现为希波克拉底体液说中的黄胆汁。它出现于带有说服力，以自我为中心，外向的，独立的，有魅力的和野心勃勃的人身上。这些人也执着，浮躁，脾气暴躁，不安和易怒。
+qstr_Sanguine._Its_elemen|嗜血的。它的元素为气，表现为希波克拉底体液说中的血液。它出现于乐观，富有想象力，有艺术细胞，性格开朗，善于交际，理性和享乐特质的人身上。这些人也都是健忘的，冲动的和不可预知的。
+qstr_{s1}^^{s2}_{s3}|{s1}^^{s2} {s3}
+qstr_According_the_four_c|根据在古典作品认可的四项基本美德，你最常表现为：
+qstr_Wisdom._Also_called_|聪慧。也被叫做谨慎，它根据所在形势最佳的解决方式来支配行动。明智意味着能提前预知行动所产生的后果。
+qstr_Fortitude._Also_call|坚强。也被叫做勇气，它确保在追求目标过程中能始终如一，永不言弃。坚强是一种基于信念，不管产生的后果如何的决定的力量。
+qstr_Temperance._Also_cal|克制。也被叫做自控，它抗拒诱惑的吸引来保持对身体的支配。克制是节制和控制对欲望和激情的追求。
+qstr_Justice._It_symboliz|正直。它代表着对法律的尊重和惩恶扬善。
+qstr_{s1}^^{s2}._{s3}|{s1}^^{s2} ，{s3}
+qstr_You_are_a_foreigner.|你是个外国人。
+qstr_You_come_from_far_aw|你来自遥远的地方，为了了解北欧而冒险，这里充斥着一个分散而饱受被维京海盗骚扰的小王国。
+qstr_You_are_Scoto_Pict|你是苏格兰-皮克特人。
+qstr_a_descendant_of_an_a|一支古老而起源不明的民族的后裔，定居于不列颠北部，与戈伊德尔入侵者混合了。
+qstr_You_are_Briton|你是布立吞人。
+qstr_a_member_of_the_Celt|这是居住于罗马入侵前的不列颠的凯尔特人的一支种族。
+qstr_You_are_Goidel|你是戈伊德尔人。
+qstr_a_member_of_Celtic_p|居住在爱尔兰岛的凯尔特人中的一支种族，被罗马人称作海伯利亚。
+qstr_You_are_Frisian.|你是弗里斯人。
+qstr_You_come_from_the_di|你来自欧洲北部边缘沿海的弗里斯。
+qstr_You_are_a_Norseman|你是诺尔斯人，
+qstr_a_member_of_the_paga|你是个原生于侵扰欧洲海岸的斯堪的纳维亚人的异教徒。
+qstr_You_are_Anglo_Saxon|你是盎格鲁-撒克逊人。
+qstr_a_descendant_of_a_Ge|这是在古代住在易北河河口里斯威克的日耳曼人的后裔，你的族人已经占领不列颠接近四百年。
+qstr_an_impoverished_nobl|一个没落的贵族
+qstr_You_came_into_this_w|家中只剩下了一幢房子还矗立着，记录着已经散去的往日荣光。不过，即使生活困苦，家里依然给予你很好的教育，并从孩童时期就对你进行严格的行为举止方面的训练。
+qstr_a_travelling_merchan|一个旅行商人
+qstr_You_were_always_movi|你父亲是一位旅行商人，为了追寻利益，他经常从一个地方到另一个地方四处奔走。即使你的父母比常人富有，并且尽他们所能给予你最好的教育，在旅行中，你还是会时常与别人买卖一些小玩意，并交上一些朋友。
+qstr_a_craftsman|一个工匠
+qstr_Your_father_s_abilit|你父亲高超的技术时常能做出一些被市民赞扬的有用和美观的物品，你习惯了较舒适或近乎奢侈的生活— — 你掌控了锤子和槌。
+qstr_a_priest|一个牧师
+qstr_You_were_placed_in_t|你在婴儿时就被遗弃在一个修道院。虽然神父们不是你的亲生父母，但他们给予你无穷的关爱，你母亲有时会来看你，但你从未听过你父亲的消息，你过的生活要比大多数人更轻松，你总是喜欢辛苦工作一天后在餐桌上享受一大盘美食。
+qstr_a_peasant|一个农民
+qstr_You_were_born_into_a|你出生在被旁边领主统治的小村庄。虽然你的童年很快乐，但你只有很少的时间玩耍。从你能走路的时候，你就得干活，用你冻僵的手指收获卷心菜。
+qstr_an_outlaw|一个不法之徒
+qstr_Your_education_was_r|你接受不正式的教育，住在沿路废弃的小屋内。你要去乞讨，直到你能成为扒口袋的盗贼。有些人可能会说你的童年是一个悲剧，但没有人像你一样了解阴暗的小巷和城市的秘密。
+qstr_{s1}^^You_were_born_|{s1}^^你出生在{s2} 家庭。{s3}
+qstr_Your_family_baptised|你的家庭让你接受了基督教的洗礼，
+qstr_and_you_were_fascina|而你也对来访村庄的牧师所讲述的故事非常著迷。自此以后，你保持着对这一宗教的信仰。基督教建立在圣经、对耶稣的宣誓以及他门徒的教诲的基础上。
+qstr_Your_family_believed|你的家庭信奉北欧诸神。
+qstr_You_soaked_up_all_of|你沉浸在人们围坐于篝火旁所讲述的古老传说中。你成为了一名忠于旧神的忠实信徒。在你的宗教里，众神各司其职：奥丁，诸神之主；索尔，天空与雷电之神；芙蕾雅，司爱与美的女神；以及其他各种各样主宰着世间不同事务的神祇。
+qstr_a_page_at_a_nobleman|一个贵族家庭的一员
+qstr_You_were_chosen_to_b|你被送到本地一个最富有的贵族家庭中寄养，因此也有了一席之地。在伺候家主和夫人的过程中，你学会了第一堂名为“谦卑”的课程。作为补偿，你的生活中也有各种各样的娱乐活动：对弈、闲谈、以及来访的吟游诗人们对伟大功绩或高尚爱情的诗赞。你被迅速地卷入到成人世界的冲突和竞争中。你也从其他孩子的野蛮游戏中，在他们以木棒代剑的对打中，学会了阁下们的使剑技巧，这一点对于今天的你来说可谓至关重要。
+qstr_a_craftsman_s_appren|一名工匠学徒
+qstr_Your_parents_sent_yo|你的父母将你送去学习一门手艺。在你的新师父手下学习与工作几年之后，他决定先把你提升为熟练工人，最后再升为正式工匠，只要你愿意留在他身边。你对于工具和制作的手艺日渐熟习。
+qstr_a_shop_assistant|一名商行帮工
+qstr_In_the_employ_of_a_s|在商行店主的手下，你学会了如何吸引人们的兴趣以及用言辞说服他们。在随着商队辗转各地进行贸易的历练中，你了解了处处不同的人情风俗，并知道如何才能表现得大方得体。
+qstr_a_street_urchin|一名街头顽童
+qstr_You_ended_up_in_the_|你终日在街上厮混，尽己所能以求生存。以乞讨和偷窃糊口，在这个暴力的世界里每天苟且求生，总是离犯法和监牢只有一步之遥。
+qstr_a_farmer_child|一名农场少年
+qstr_You_put_your_strong_|你花光力气来帮助干农活，对这片土地以及放牧的牲畜了如指掌。某些年头你能够坐享丰收，但某些年头你只能饿着肚子。你逐渐适应了各种艰苦的条件，变得从容不迫。
+qstr_{s1}^^You_spent_your|{s1}^^你将自己的青春花在了作为{s2}身上。{s3}
+qstr_Formerly_being_a_sla|先前，作为一名奴隶，
+qstr_your_adult_life_was_|你成年后的生活充满了悲惨。因为被迫为你的主人承担所有粗重肮脏的活计，你的皮肤非常粗糙，你变得敏捷而强壮。有时你的主人不给你任何食物，因此你不得不学会如何在野外搜寻果腹的东西。你的世界狭窄而枯燥，日复一日，与此同时日晒雨淋又在无尽的工作中惩罚着你的身躯。日出日落，你总是腰酸背痛，唯一的奖赏就是能够看见第二天的阳光，尽管你有些同伴就没那么走运了。当你有空闲时— — 这种情况少之又少— — 你会练习用一个简陋的投石索练习投石，你能够准确击中数步之外的目标，伴着一下让人享受的爆裂声。
+qstr_Formerly_you_were_a_|先前，你是一名牧师。
+qstr_When_you_were_not_wo|当你不需要在修道院里工作或学习时，你游遍了这片属于上帝的领土。所有听过你布道的人都会因为你的热情而留下深刻印象。尽管你在那些流离不定的岁月里坚守着清贫的誓言，你从不缺衣少食，因为善良的农民们总会为上帝的代言人提供最好的招待。时不时地，村民们会来到修道院购买你制作的那些特殊的工艺品。^^疗伤是你的另一项技能。你的医术治好了许多伤者的骨折，并让许多灵魂暂时留在自己的身躯里，而不是提早重投上帝的怀抱。你从未在修道院的高墙大院外感到恐惧，因为你满怀信仰。你唯一的装备只有一杆手杖，这是圣职人员的象征，也是你的慰藉。
+qstr_Formerly_you_were_a_t|先前，你是一名旅行者。
+qstr_Responding_to_the_ca|你在旅程的召唤下，游历过一个又一个村庄，交易所有你能找到的商品。这并不是一种富裕的生活，但你成为了商业的精英，即使对手是一名抠门的老处女，你也能争取到最好的价钱。不久之后，你将建立起自己的商业帝国。
+qstr_Formerly_you_were_a_p|先前，你是一名偷猎者。
+qstr_Unsatisfied_with_com|处于每一个普通人对于财富的欲望，你选择在当地领主的森林里进行偷猎，并成为了他们悬赏通缉的目标。你在黑市里交易猎到的野鹿、野猪和野鹅。严冬时节，你在护林人的鼻子底下伐木，并将木柴送到每一户冻僵了的家庭里。当你拿自己的尊严来换取一些难得的银子时，你发现这并非一件难事。当艰难的日子来临时，你只好在野地里寻找可食用的植物，并成为了这方面的专家。
+qstr_Formerly_you_were_a_f|先前，你是一名自由的{reg59?女人:男人} ，而且拥有一些田产。
+qstr_{reg59?Being_wife_to|{reg59?作为一名自由人的妻子，意味着你比那些仆人的妻子更加轻松，因为你不需要事事亲力亲为。你拥有一些可以为你负担粗重劳动的仆人，但鉴于你的丈夫并非地方豪绅，你还是得干一些农妇的活儿。你的丈夫必须向他的领主缴纳地租以及提供劳力，这是他作为地主的代价。当领主需要领兵作战时，你的丈夫必须作为一名步兵参战，这时他在残酷的战场上唯一可以信赖的只有自己的长矛与盾牌。他经常教你如何正确地使用那些武器，一旦他有事离家，你必须学会自卫。:这意味着你比那些仆人的生活轻松一些，因为你不必事事亲力亲为。你拥有一些可以为你负担粗重劳动的仆人，但鉴于你并非地方豪绅，你还是得干一些农夫的活儿。你必须向你的领主缴纳地租以及提供劳力，这是你作为地主的代价。当领主需要领兵作战时，你必须作为一名步兵参战，这时你在残酷的战场上唯一可以信赖的只有自己的长矛与盾牌。}
+qstr_{s1}^^Through_persis|{s1}^^通过坚持和一点点运气，你学会了如何讨好当地的一位领主，最后，他建议你去见国王，他可以授予你封地。现在，你必须证明自己是值得信赖的。
+qstr_{s1}^^Then_you_happe|{s1}^^然后，你碰巧获得了年轻领主的爱慕。他无视传统和力排众议，娶了你。但此后不久，他在一场比赛中受到致命伤。领主没有一个活着的叔叔，兄弟，或儿子。因此，你接管了他的领地，现在你必须建立你的统治。
+qstr_{s1}^^Through_persist|{s1}^^通过坚持和一点点运气，你学会了如何讨好当地的领主们，一连串事件导致这个国家没有国王，你王位是候选人之一，领主们建议你和竞争者妥协，共享王位。但那个共享者暴病而亡，你成为唯一的统治者。不是每个人都乐于见到这个事变，邻国已经注意到你们的明显弱点。现在你必须建立你的统治。
+qstr_{s1}^^Then_you_happen|{s1}^^然后，你碰巧获得了年轻国王的爱慕。他无视传统和力排众议，娶了你。但此后不久，他在一场比赛中受到致命伤。国王没有一个活着的叔叔，兄弟，或儿子。邻国已经注意到你的王国的明显弱点。现在你必须建立你的统治。
+qstr_>_Viking_Conquest_Ma|> 维京征服模式
+qstr_A_storyline_campaign|一个完整的主线故事和其他的特别内容。
+qstr_>_Sandbox_Campaign|> 沙盒模式
+qstr_No_main_story_or_spe|没有主线故事或特别的内容。你可以自由进行游戏。
+qstr_>_Lordly_Sandbox_Cam|> 领主沙盒模式
+qstr_You_start_as_a_lord_|你选择作为一领主开始游戏
+qstr_>_Royal_Sandbox_Camp|> 国王沙盒模式
+qstr_You_start_as_leader_|你选择作为某一势力的统治者开始游戏。国王万岁！
+qstr_STAMINA_>_Realism_Fe|耐力> 现实特色功能。
+qstr_This_feature_affects|这一特色功能会影响到玩家及所有的游戏角色。^耐力值取决于你的血量和运动技能，并影响着战斗中的防御能力。一旦角色的耐力耗尽，他或她将无法奔跑，而且武器的伤害减半。
+qstr_ARMOR_PENALTY_>_Real|重甲惩罚> 真实性特色功能
+qstr_This_feature_affects_|这一特色功能会影响到玩家及所有的游戏角色。^当你装备重型护甲时，你的技能点将会降低。这个设定会使游戏更加平衡，因为轻甲兵种将变得更加重要。
+qstr_EASY_RECRUITMENT_>_B|简单招募> 初学者选项。
+qstr_When_you_ask_permiss|当你请求获得在村庄募兵的资格时，总能够成功而没有代价。不推荐喜爱角色扮演和代入感的玩家选用。
+qstr_RESTING_MORALE_>_Rea|休整提高士气> 真实性特色功能。
+qstr_INSANE_DIFFICULTY_>_|疯狂难度> 疯狂的玩家功能。
+qstr_Your_troops_need_thr|你的部队需要三倍的经验升级。你的敌人将会造成双倍伤害，而你的伤害将会减半，只对骨灰级玩家推荐。
+qstr_GORE_>_+18_Feature.|血腥模式> 18禁功能。
+qstr_DISABLE_SCENIC_MENU_|禁用风景菜单> 性能特性
+qstr_Disable_the_3D_view_i|禁用的菜单中的3Ｄ 视图来改善机器的加载时间。
+qstr_SHIELD_BASH_>_Realis|禁用风景菜单> 性能特性
+qstr_Player_and_AI_troops|玩家和AI能够盾击
+qstr_...Anno_Domini_868..|… 公元868年… 
+qstr_My_name_is_Beda_the_|老夫的名字是贝达，如果你想要在这个世界中闯出名堂，我建议你认真聆听下面的话… ^^不列颠。布立吞人叫它做帕拉丹岛，爱尔兰人称其为阿尔巴，而那些征服了它的盎格鲁人和撒克逊人则命名为盎格拉兰。这片土地辽阔，富饶，壮丽… 而且让人垂涎三尺。因此，不列颠陷入了纷飞战火，它只服从利剑和长矛的统治。王国此起彼伏，而君主们则战死沙场。女人们常常成为寡妇，而马儿们背着的不再是干草，而是各种武器装备。空中充斥着战士们的呐喊，军队将土地践踏成不毛之地。战争的时代延绵了几个纪元，凡人们披坚执锐，拼个你死我活。渡鸦哀鸣，狼群咆哮，尖矛激碰，盾牌猛撞。^^在北方，盎格鲁人的国土在丹麦人的进军下四分五裂。臭名昭著的维京领主拉格纳的子嗣，如今成为了这片土地上的新领主，统治着伯纳希亚，德拉和爱密特，被统称为诺森布里亚。^^在南方，西撒克逊人在不列颠统治者艾塞雷德与其兄弟艾尔弗雷德的领导下，正在紧张备战中。他们清楚，在海的另一边，更多的丹麦人正在名利的驱动下蠢蠢欲动，准备跨海作战。^^经过几个世纪以来从蛮荒向陆地的开疆拓土，土生土长的布立吞人正处于维京人的威胁之下。他们拼命抵抗挣扎，只为了保护所剩无几的领土，梦想着一位国王的出现，将他们联合起来并取得最终的胜利— — 另一个亚瑟王。而现实情况是，他们的平分继承法使得每一名领主所掌控的土地越来越小，因此统一的希望越来越渺茫。尽管如此，还是有一个强者，伟大的格温特人罗德里，开始着手实现统一威尔士的雄心壮志。^^在更遥远的北方，挪威入侵者在三十年前的三方战役里，把握了绝佳的机会来一举扫除了盖尔人和皮克特人的贵族。在这场浩劫后，一位名叫辛奈德· 麦卡尔平的盖尔族勇士开始重建一个融合了两个民族的王国，但他们已经被驱赶到原先领土的高原腹地了。^^越过大海就是爱尔兰了，来自欧莱克的“高贵武士”艾德麦雷尔在战胜了他的敌人之后，以最高国王的身份统治着提梅尔，而这个头衔只不过是虚名而已。他的宣称从未被欧莱克的另一半人民接受，而抢夺土地、女人和牲畜的内战，可谓是当地一大特色，也丝毫不见平息的迹象。与此同时，丹麦和挪威的维京人已经在沿海建立了十几个据点，并利用河流来洗劫爱尔兰的内陆地带，但是本地人依旧热衷于骨肉相残— — 无论在哪一个方面都是。^^^黄钟毁弃，瓦釜雷鸣。生灵涂炭，不宁不令。
+qstr_BEDA_CHRONICLE^^{s2}|贝达的编年史^^{s2}^^ {s3}
+qstr_{s1}On_head.___{reg2|头部受到{s1} (-{reg2} 智力)^{s2}^^
+qstr_{s1}On_face.___{reg2|脸部受到{s1} (-{reg2} 魅力)^{s2}^^
+qstr_{s1}On_body.___{reg2|身体受到{s1} (-{reg2} 力量)^{s2}^^
+qstr_{s1}On_limbs.___{reg|肢体受到{s1} (-{reg2} 敏捷)^{s2}^^
+qstr_Accumulated_Injuries|累积损伤：^^无
+qstr_Accumulated_Injuries:|累积损伤：^^{s1}大城镇的医师能治疗这些损伤。
+qstr_Healing_wounds:^^non|伤口愈合：^^无
+qstr_Healing_wounds:^^{s1|伤口愈合：^^{s1}这些伤口会自动愈合。
+qstr_{s1}On_head.___{reg1|头部受到{s1} (-{reg1} 智力)^^
+qstr_{s1}On_face.___{reg1|脸部受到{s1} (-{reg1} 魅力)^^
+qstr_{s1}On_body.___{reg1|身体受到{s1} (-{reg1} 力量)^^
+qstr_{s1}On_limbs.___{reg1|肢体受到{s1} (-{reg1} 敏捷)^^
+qstr_Scars:^^none|伤疤：^^无
+qstr_Scars:^^{s1}These_in|伤疤：^^{s1}这些伤口已经留下并无法治疗
+qstr_Lifetime_wounds:_{re|终生创伤：{reg1} 程度
+qstr_Current_party_size_l|当前的部队上限为{reg0} ：^^因基础人数：{s5}{reg31}^因玩家统御：{s2}{reg32}^因玩家魅力：{s3}{reg33}^因玩家声望：{s4}{reg34}^总计：{reg0}
+qstr_^Religious_Differenc|^宗教差异:  -{reg7}
+qstr_^No_food:___{reg7}|^ 没有食物：-{reg7}
+qstr_^Wage_debt:___{reg7}|^欠下工资：-{reg7}
+qstr_Currently_falling_fr|从目前下降：+
+qstr_Currently_rising_fro|从目前上升：
+qstr_{s11}{s10}{s12}|{s11}{s10}{s12}
+qstr_^^These_pagan_troops|^^这些多神教士兵会导致一些士气问题：{s11}
+qstr_^^These_Christian_tr|^^这些基督士兵会导致一些士气问题：{s11}
+qstr_^^Player_currently_h|^^玩家目前可以管理更多的部队。
+qstr_Current_party_morale|当前部队士气是：{reg5} 。^^基础士气：+{reg8}^部队规模的难控性：{s2}{reg1}^缺乏休息：{s3}{reg2}^食物种类：{s4}{reg3}{s5}{s6}{s7}{reg4}{s8}{s13}^^{s19}
+qstr_{s18}^^_____________|{s18}^^----------------^^{s20}
+qstr_{s17}_^_{s18}|{s17} ^ {s18}
+qstr_{s15}_^_{s16}|{s15} ^ {s16}
+qstr_{s22}^^Friends:_^{s8|{s22}^^朋友：^{s8} ^^仇人：^{s6}^{s19}
+qstr_^^Your_estates_are:_|^^你的资产：^{s18}^{s19}
+qstr_Mercenary_employed_b|受雇于{s18}的佣兵头子。^{s19}
+qstr_Report:_^^_{s19}|报告：^^ {s19}
+qstr_On_loan|暂借，
+qstr_is_{s16}_your_choice|{s16}你选择的同伴，{s17}你领导的风格，{s18}整体的情况。士气是{reg0}。
+qstr_Companions_Info:^^_{|同伴信息：^^ {s19} ^^-----------^^ 目前状态：^^ {s7}{s1}
+qstr_Loyal|忠诚的
+qstr_Devoted|忠实的
+qstr_Fond|喜欢的
+qstr_Gracious|亲切的
+qstr_Friendly|友好的
+qstr_Supportive|支援的
+qstr_Favorable|赞同的
+qstr_Cooperative|合作的
+qstr_Accepting|信任的
+qstr_Indifferent|冷淡的
+qstr_Suspicious|猜疑的
+qstr_Unhappy|不开心
+qstr_Resentful|怨恨的
+qstr_Angry|发怒的
+qstr_Hostile|敌视
+qstr_Hateful|憎恨的
+qstr_Vengeful|复仇的
+qstr_Sworn_Enmity|充满敌意
+qstr_Your_relations_with_|你和王国的关系是:^^{s2} 
+qstr_Build_your_personal_|建立私人避难所。
+qstr_You_already_have_a_r|你已经有一个避难所了。如果想搬到这里你得先拆除之前的避难所。
+qstr_You_don_t_have_enough|你没有足够的钱。你要付给工人一千先令的工钱来建造避难所。
+qstr_You_need_to_have_mor|你至少需要30人来干这活。
+qstr_Your_men_await_your_|你的人在等你下令建避难所。材料已经凑齐了，缺少的可以去附近的村庄购买。^^总花费：1000 先令^所需时间：6 小时
+qstr_{s2}^^_{s3}|{s2}^^ {s3}
+qstr_You_are_in_the_kingd|你正在丹麦王国。^^丹麦是维京时代最强大的北地国家。丹麦人不仅在强大的法兰克帝国压力下保持独立，还四处攻掠西欧的城镇和教会。丹麦维京人也是杰出的商人，他们在当时已知世界的大部分地区都有贸易往来。当一个强大的中央集权国家在日德兰半岛建立后，丹麦人开始将眼光转向国外，开始了武力扩张和对外贸易。当男人们出海时，农事就交给女人们打点。
+qstr_You_are_in_the_kingdo|你正在诺维格王国。^^在诺维格王国，绵延的山脉和峡湾组成了难以逾越的自然屏障，村社之间相互独立，与此同时，这个国家内还有三十个小王国。这些小王国里头势力最大的头领们正在进行一场权力的角逐。海路是诺维格王国和外部世界联络的最便捷途径，这里大部分人都是商人、探险家，也有掠夺者。由于缺乏适合耕种的土地，挪威人只得跋涉至人口稀疏的北海诸岛开拓殖民地。在早期，挪威人主导着维京对不列颠的劫掠，但之后丹麦人也加入其中。
+qstr_You_are_in_the_kingdom|你正在雷弗莱王国。^^雷弗莱是苏格兰和北方群岛中被挪威人控制的部分--几十年前被维京人征服的。雷弗莱人时常攻击奥尔本的皮克特人，因此这个王国也成为了挪威人在不列颠群岛扩张的前进基地。另一方面，围绕王位继承权而发生的宫廷惨剧也屡见不鲜。
+qstr_You_are_in_the_kingdom_|你正在弗里斯王国。^^弗里斯是北海东南海岸的一片区域，是在语言上跟盎格鲁撒克逊人有紧密联系的弗里斯人的家园。弗里斯的政权中心处于杜里斯特，是法兰克北部延伸到丹麦边界的一个重要贸易地区。弗里斯在很久前被法兰克人击败而失去独立，现在又被丹麦人统治着。
+qstr_You_are_in_the_kingdom_o|你正在西撒克逊王国。^^西撒克逊王国是不列颠南部的西撒克逊人的王国。几十年前，艾伯特国王征服了麦西亚，从诺森布里亚国王那儿夺取了霸主地位。因此他成为了不列颠统治者，或者说是不列颠的霸主，但是这个优势地位并不长久，尽管西撒克逊在英格兰东南部的扩张证明了它的作用。艾伯特晚年见到了维京人在西撒克逊劫掠的开始。然后，艾伯特的继承者，他的儿子，艾弗沃宁国王在亚里阿之战将丹麦人干脆利落地击败。这场胜利让丹麦人在英格兰的征服推迟了15年，但是对西撒克逊的劫掠却继续着。艾弗沃宁之后，由他健在的四个儿子继承，一个接着一个进行统治，他们分别是：艾弗巴德，厄夫伯特，阿尔弗雷德，最后是伟大的艾弗德。
+qstr_You_are_in_the_kingdom_of|你正在东盎格里亚王国。^^东盎格里亚王国是不列颠最东边的一个盎格鲁人的独立小王国，不像许多其它不列颠的地区一样，盎格鲁-撒克逊人更早时候就在这里定居了。这里先前是沃夫加斯王朝统治，后来落到了麦西亚手里。维京人劫掠了东盎格鲁，但是之后一年撒克逊人在两场大战中守护住了这里。在此之后是一段长久的和平时期，此间维京人只进攻过一次。最后丹麦人不再劫掠东盎格鲁了，并永久定居在了这里。
+qstr_You_are_in_the_kingdom_of_|你正在麦西亚王国。^^麦西亚是盎格鲁-撒克逊人所建立最强大的王国之一，处在特伦特河和其支流的河谷中间。它原来的边界是英格兰中部地区，那里散布着盎格鲁-撒克逊人的定居点，后来凯尔特人部落把他们驱逐到了西边。王国的首府是塔姆沃思，麦西亚的国王世代住在这里。300年来	 它兼并或是支配了其他五个盎格鲁-撒克逊王国，麦西亚统治下的盎格鲁-撒克逊王国在一段时间内被叫做麦西亚霸权。然而，在异教徒大军入侵后，一大片麦西亚领土被丹麦所掌控。
+qstr_You_are_in_the_kingdom_of_N|你正在诺森布里亚王国。^^诺森布里亚是北盎格鲁-撒克逊区域内的一个盎格里亚王国。他的疆域从南奥尔本延伸到北部坎伯河。它原先是伯尼西亚和迪拉王国的联合体，但之后合并了高多汀的领土北扩，并逐渐西扩，一直侵入了凯尔特人的领地。之后诺森布里亚在被哈弗丹· 拉格纳逊和无骨者艾瓦征服这两兄弟征服后，他们拥立了一个盎格鲁-撒克逊人贵族艾哈伯特当傀儡国王，自此诺森布里亚成了丹麦的一部分。
+qstr_You_are_in_the_kingdom_of_G|你正在格温特王国。^^格温特王国是在罗马帝国消亡和撒克逊人来到不列颠之间出现的过渡国家之一。在内战和侵略中失去权力之前，以西北的威尔士为基础，格温特的统治者被誉为“布立吞之王”。格温特的威尔士人还保留着他们的罗马-不列颠遗产，他们的国王也试图把自己的政权和古罗马帝国联系起来，同时，使用拉丁文字进行书写，并保留基督教信仰。但是罗马人的知识大多流失了，格温特的布立吞人转向了一个军事部落社会。
+qstr_You_are_in_the_kingdom_of_B|你正在拜卡灵王国。^^ 拜卡灵是南威尔士一个小的独立王国。它通常充当着东边英格兰和西边强大的威尔士王国缓冲的地带。拜卡灵王国可能是爱尔兰袭击者建立的，很可能就是乌· 赖宁，其实力直到被库内达的后代削弱前，在威尔士都是个强权。
+qstr_You_are_in_the_kingdom_of_A|你正在奥卡勒王国。^^奥卡勒位于盎格鲁-撒克逊势力的北边，奥尔本的南边，是一个布立吞王国。它诞生于罗马帝国灭亡之后，首府是奥卡勒镇。奥卡勒的布立吞人打败了达里安塔王国的部队，与此同时皮克特人对其三次攻击也均以失败告终。此后，皮克特人和诺森布里亚人缔结了联盟，围攻了奥卡勒，数年后城市陷落。不过，18年前奥卡勒的部队一度有过烧毁皮克特人城市邓布兰的机会。
+qstr_You_are_in_the_kingdom_of_C|你正在康比亚王国。^^康比亚王国坐落在大不列颠东南部半岛上，北部和南部被凯尔特海环绕，南部是英吉利海峡。康比亚是凯尔特部落的本部，也叫作克洛维，在德奥翰之战后从威尔士的布立吞人中分离出去，经常处于和扩张中的西撒克逊王国战争之中。布立吞语和布立吞文化很明显是受到往来海峡两岸进行贸易的布立吞人影响的，锡矿的开采对于康比亚经济很重要。
+qstr_You_are_in_the_kingdom_of_GL|你正在格莱永王国。^^这个小凯尔特王国格莱永是由至高王马格努斯· 马克西姆的儿子欧格尼在前志留人西部的一大片区域基础上建立的。这是威尔士罗马化最彻底的地方，但是在铁器时代的部落志留人统治时衰落了。格莱永据说是以一个传奇色彩的早期君主格莱斯的名字命名的。
+qstr_You_are_in_the_kingdom_of_U|你正在阿尔斯特王国。^^阿尔斯特是爱尔兰的盖尔人给他们在岛屿北方的王国取的名字，这是欧内达和克鲁特尼部落的故乡。九质尼尔的后代们的欧内尔王朝取代了阿尔斯特，并于他们在蒂龙郡的基地统治着阿尔斯特。
+qstr_You_are_in_the_kingdom_of_L|你正在雷金王国。^^雷金历史上的第一位国王乌嘉· 莫尔统一了雷金部落，并在阿莱尼丘的山丘堡垒建立了雷金，位于爱尔兰东部。罗马军团离开不列颠后，雷金的族人在北威尔士定居。很长一段时间来，两个王朝争夺着雷金的统治权，分别是欧· 顿莱格和欧· 切斯莱格，最终前者取得了王位。十九年前，雷金的洛卡· 麦· 赛莱格和穆梅殷的奥克巴· 麦· 辛奈德在西亚弗尼坦打败了一支挪威军队。
+qstr_You_are_in_the_kingdom_of_M|你正在穆梅殷王国。^^穆梅殷王国由伊奥甘纳达王朝统治，位于爱尔兰的南部。十九年前，在挪威人数次战败后，奥克巴加入了他东边的邻居、雷金国王洛卡· 麦· 赛莱格的作战行列，在西亚弗尼坦打败了一支维京大军。两百维京人战死，后者扩大了战果，其中手下败将有托梅尔，雷弗莱王国的一名雅尔。
+qstr_You_are_in_the_kingdom_of_CO|你来到了卡内塔王国。^^卡内塔是一个位于岛屿西边的爱尔兰王国。爱尔兰传奇国王百战科恩是后来统治卡内塔部落以及同名王国的人的祖先。数个世纪后，卡内塔国王的古老血脉被英格兰中部以塔拉为中心的统治者取代了。塔拉王朝的两个成员布里昂和费察尔建立了欧· 布里昂和欧· 费察尔家族，所有的统治者都属于卡内塔。卡内塔的欧· 布里昂分支的科查· 巴尔· 麦· 泰德· 莫尔现在是坎拉契特的国王。一队挪威劫掠队从卡内塔一路劫掠到利默里克，但他们被卡内塔人伏击并被击败了。
+qstr_You_are_in_the_terri|你正在欧莱克王国。^^欧莱克是一个在爱尔兰西北边角的爱尔兰王国。欧莱克的国王属于乌伊尼尔，其统治者据说是九质尼尔的后代，并且王国取名于一座山丘要塞欧莱克。这个王国是从阿尔斯特王国脱离开来的，与西内尔· 恩奥基的族人住在一起并接受他们的统治。现在和南乌伊尼尔不和，
+qstr_You_are_in_the_kingdom_of_MI|你正在迈德王国。^^迈德意为“中间”，因为这个王国在爱尔兰的中部。它是由妥法尔· 提默哈建立的，他征服了其他王国，夺取了其他四个在塔拉山周围建立起来王国的土地，从而确立了自己的统治。九质尼尔把自己当做塔拉之王，六个世纪以来，他的子孙后代也几乎不受干扰的成为了爱尔兰的至高王。他的儿子尼奥盖尔继承了他的王位，并把圣帕特里克迎回了他的宫廷。尼尔的子子孙孙继续着征服北边雷金王国领土的事业，并分出了迈德和布雷加这两个子王国给他们的后代。
+qstr_You_are_in_the_kingdom_of_AL|你正在奥尔本王国。^^在大不列颠的北边，皮克特人和苏格兰人因为语言不同而为世敌。然而，达里安塔的国王肯尼思· 麦克亚尔宾在战斗中击败皮克特人后索取其王位，在他的努力下，两族人获得了表明上的联合。他创建了以皮克特领土内的霍特维奥为首府的奥尔本王国，并把宗教中心移到了顿克德，并把圣高隆的遗物也从爱奥那转移到了这里。麦克亚尔宾面临着雷弗莱的维京人和诺森布里亚的盎格鲁人从所未有、日益增长的敌意。
+qstr_You_are_in_territory|你正在奥斯里家族领地。^^奥斯里是爱尔兰最大的家族。在它正式脱离前位于穆梅殷王国最东边，之后作为穆梅殷和雷金的缓冲地，然而他们从未争夺过爱尔兰的至高王王位。奥斯里领主赛博尔· 麦· 顿莱格打败了维京侵略者，之后他联合了奥拉夫和艾瓦对抗塞内尔王子，在伦斯特和芒斯特展开了战役。他也突袭了塞内尔王子在迈德的中心地带，但是战败了。
+qstr_Plain.|平原
+qstr_Snow.|雪地
+qstr_Forest.|森林
+qstr_Snow_Forest.|雪地森林
+qstr_Ocean.|海洋
+qstr_Sea.|近海
+qstr_Standard_Bearer:_{re|旗手：{reg1}^统御奖励：{reg2} (最大3)
+qstr_Musician:_{reg1}^Tac|乐手：{reg1}^战术奖励：{reg2} (最大3)
+qstr_Note:_You_re_close_t|笔记：你正在接近敌方势力范围，你不得不提高警惕。
+qstr_{s16}^^_____________|{s16}^^-------------------^^部队信息：^^^{s6}^^{s7}^^周围地形：{s2}^^放哨：{s5}^^觅食：{s3}^^加固营地{s4}^^{s11}
+qstr_Camp_Info:^^^^Positi|营地信息：^^^^地理位置：{s2}^^你正在驾船航行。^^^^船只管理：^^如果你在海岸边，可以右键点击你的部队来寻找最近的登陆地。
+qstr_Camp_Info:^^^^Positio|营地信息：^^^^地点：{s2}^^你正在驾船航行。^^^^船只管理：^^在海战中你可以通过把船只归类到第九单位来下达“站在原地”或是“冲锋”的指令，就像是在战场上给士兵单位下达指令一样。在你队伍列表中的前列兵种将会和你一起呆在旗舰，其他的会在跟随的船只中。你可以在港口或是海上抛锚的时候更改旗舰。如果你靠近一个海岸，你也可以在海上抛锚或是右键点击部队寻找最近登陆地的时候分离舰队。
+qstr_Priests_in_followers|部队里的祭司人数：{reg1}^手术奖励：{reg2} (最大3)
+qstr_Women_in_followers__|部队里的女性人数：{reg1}^疗伤奖励：{reg2} (最大3)^^注意：每10名女性成员（难民，扎营妇女，军嫂，农妇）会每3天增加1点士气。最高10点士气。
+qstr_^^^^Followers:^^{s2}|^^^^追随者：^^{s2}^^--------------^^{s3}
+qstr_{s5}_has_been_defeat|{s5}被击败了！
+qstr_This_lord_is_a_priso|这领主是{s10}的囚犯。
+qstr_Christian_Lord|基督教徒
+qstr_Pagan_Lord|多神教徒
+qstr_{s37}__his_betrothed|{s37} （他的未婚妻）
+qstr_{s40}._His_love_inte|{s40} 。他心仪的对象是{s37} 。
+qstr_His_love_interests_a|他心仪的对象是{s37} 。
+qstr_{s40}._His_love_inter|{s40} 。他心仪的对象是{s37} 。
+qstr_His_love_interest_is|他心仪的对象是{s37} 。
+qstr_{s1}^{s4}^Kingdom:_{|{s1}^{s4}^王国: {s3}^关系:  {reg4}^领地:  {reg5}^{s5}{s47} 
+qstr_This_lord_is_a_prison|这个领主是{s10}的囚犯。
+qstr_Army_size:_{reg26}|部队规模：{reg26}
+qstr_{s40}._His_love_intere|{s40} ，他的心仪对象是{s39} 。
+qstr_{s40}._He_is_betroth|{s40} ，他的未婚妻是{s39} 。
+qstr_{s1}^^{s4}^Kingdom:_|{s1}^^{s4}^王国：{s3}^关系：{reg4}^领地:  {reg5}^{s5}^{s47}
+qstr_{s1}^^{s2}_of_the_{s|{s1}^^{s3}的{s2}^关系{reg3}^最近一次见面是{reg4} 天前
+qstr_{reg2}_warriors_acco|{reg2} 名战士追随国王。
+qstr_{s2}^^{reg2}_warrior|{s2}^^{reg2} 名战士为领主效力。
+qstr_{s2}^^{reg2}_warriors|{s2}^^{reg2} 名战士驻扎在我们的城镇。
+qstr_{s2}^^{reg2}_warriors_|{s2}^^{reg2} 名战士驻扎在我们的城堡。
+qstr_Kingdom_Armies_Repor|王国军队报告：^不包括预备兵^^^{s2}
+qstr_{s10}Current_fleet:{|{s10}当前舰队：{s0}^^
+qstr_{s10}Refuge:{s0}^^|{s10} 避难所：{s0}^^
+qstr_{s10}Port_of_{s9}:{s|{s10}在{s9}的港口：{s0}^^
+qstr_{s10}Landed_ships_ne|{s10} 在{s9} 停靠你的船：{s0} ^^
+qstr_You_don_t_own_any_sh|你并不拥有任何船。
+qstr_Your_ships_with_ship|你的船的种类，名字，属性，和建造用的木料^^{s10}
+qstr_Rents_and_taxes_from|{reg59? 女王:国王}领地的地租和税收：{reg0} 先令
+qstr_{s2}^Taxes_from_king|{s2}^来自王国领主的税收：{reg0} 先令
+qstr_{s2}^^Kingdom_Total_|{s2}^^王国总收入：{reg0} 先令
+qstr_Payroll_for_the_{reg|国王部队的工资：{reg1} 先令
+qstr_{s3}^Payroll_for_gar|{s3}^驻军的工资：{reg1} 先令
+qstr_{s3}^^Kingdom_Total_|{s3}^^王国总支出：{reg1} 先令
+qstr_Kingdom_Economy_Repo|王国经济报告：^^收入：^税率是可变的^^{s2}^^^^支出：^由于事件或特殊费用，这些值会不同。^^{s3}^^^^最终统计结果为：{reg0} 先令
+qstr_{s4}^^{s2}^Relation:|{s4}^^{s2}^关系：{s3}^繁荣度：{s50}^地租：{reg0}
+qstr_{s5}^^{s2}^Relation:|{s5}^^{s2}^关系：{s3}^繁荣度：{s50}^地租：{reg0}
+qstr_{s2}^No_information.|{s2}^无信息：这村庄被土匪不法分子占领。
+qstr_{s6}^^{s2}|{s6}^^{s2}
+qstr_{s6}^^{s2}^Relation:|{s6}^^{s2}^关系：{s3}^繁荣度：{s50}^地租：{reg0}^关税：{reg1}
+qstr_Kingdom_Centers_Repo|王国封地报告：^^^--城镇-- {s4}^^^^--城堡-- {s5}^^^^--村庄--{s6}^^
+qstr_Appoint_next_marshal|任命下一任元帅
+qstr_Award_{s12}_as_fief|把{s12}作为封地授予
+qstr_Political_issue:_{s1|政治议题:  {s11}
+qstr_{s10}__on_agenda_{re|{s10} (议程 {reg4} 小时)
+qstr_Defending|防守
+qstr_Gathering_army|集结军队
+qstr_Besieging_{s11}|包围 {s11} 
+qstr_Raiding_{s11}|突袭{s11} 
+qstr_Attacking_enemies_ar|攻击{s11} 周围的敌人
+qstr_{s12}__controversy:_|{s12} ( 争议: {reg21}) 
+qstr_{s12}^Screening_part|{s12}^筛选方: {s38} 
+qstr_Kingdom_Global_Info:|王国总体报告：^^{s10}^^{s9}
+qstr_From_this_area_you_c|在这地方你可以发出以下王国指令：
+qstr_>_Order_the_army_to_|> 下令部队集合。^^> 下令所有资源全用于国家防卫。^^> 下令全民皆兵。只有在国家高度危机时才能发动，因为全民皆兵需要王国所有自由能干的成年男子加入战斗。
+qstr_>_Kingdom_Strategy|> 王国战略
+qstr_You_have_given_the_o|你已下令让本国所有部队集合。
+qstr_You_have_given_the_or|你已下令以倾国之力保护王国。
+qstr_The_landed_levy_of_t|全民皆兵的命令已经发下去了：几乎所有能打仗的男人都加入到你的队伍里了。
+qstr_^^^^^^^^{s2}^^{s3}|^^^^^^^^{s2}^^{s3}
+qstr_My_name_is_Beda_the_O|老夫的名字是贝达，这就是我记录下来的从前发生的事情……
+qstr_They_weren_t_good_ti|那不是段好日子。公元861年，我的主人，斯威鲁斯主教去世了。在他去世前，他告诉我终结之日就要来临了。^^865年，一支异教徒军队攻击了赛特。赛特的人想办法安顿下来，但是在和平的假象和金钱的诱惑下，侵略者洗劫了村子。^^那年晚些时候，一支庞大的异教徒军队在冬天驻扎了下来。来年夏天，艾穆德国王迫不及待的把他们赶跑了。这不是支突击队，这是支异教徒大军。朗纳尔带着数千人待了下来。^^867年，正如斯威鲁斯所预料的一样，终结之日来临了。丹麦异教徒大军渡过河口从坎布雷到了爱尔兰。他们占领了城镇，并对诺森布里亚人展开了大屠杀。奥斯伯特和艾拉两个国王都被杀了。所以现在丹麦人统治者北方，施行着他们的法律和异端邪说……当你需要上帝的时候他在哪？^^在南方，维京人夷平了弗里斯海岸。商船逃亡北方，以寻求西撒克逊人的庇护。^^在爱尔兰和威尔士，异教徒的力量与日俱增。很多人说达里安塔王国和皮克特人的领土都要化为乌有了……
+qstr_BEDA_CHRONICLE^^{s2}^|贝达的记事^^{s2}^^{s3}
+qstr_The_news_coming_from|北方的消息令人不安。拉格纳之子号召人们向麦西亚王国挺进。这仍然是一支大军，更别说此外还有的丹麦援军了。愿上帝保佑我们。
+qstr_Some_merchants_repor|据一些商人说“蛇眼”西格德带了装满数百条船的战士出发。我无意中听到一些国王的顾问在维坦要塞说丹麦人准备消灭所有英格兰的王国。^^唯一的好消息是，拉格纳之子西格德雅尔派出了一些丹麦人去攻打弗里斯，但在道琴嘉被打败了。^^我就是从此听说了领导了道琴嘉防御战的{playername} 。^^我那时不知道他此后会成为我生命中至关重要的人。
+qstr_There_was_a_man_call|那有个人叫做艾伯特，或许该说是个国王，诺森布里亚王国的国王艾伯特· 赛宁，但他是个傀儡国王，因为他很软弱，易于操控，所以维京人选了他做国王。这也同样是摆在我们面前的命运吗？
+qstr_In_Anno_Domini_868_t|公元868年维京人占领了诺丁汉。那真是吓人，太可怕了，但是西撒克逊人和麦西亚人一起来帮忙了。西撒克逊国王的弟弟的艾弗德娶了厄丝维，她是有着麦西亚王家血统、统治着盖尼和艾德伯斯两郡的阿尔弗雷德· 穆赛尔的女儿。^^这两国召集了民兵去战斗。西撒克逊从南方挺进诺丁汉，麦西亚在路上和他们会合。也许他们能够最终挡住拉格纳之子前进的步伐吧？^^我的生命从那开始就要改变了，但我那时还不知道这一点。
+qstr_I_still_dream_of_Dou|我每天都会梦见当纳莱斯。上帝的子民是不应该梦到这些的，这就好像是魔鬼从监狱逃了出来统治世界。
+qstr_I_remember_sailing_i|我记得我驾着船进入战斗并且吐了好几次。我的手在颤抖，严寒注满了我的每个关节。我不是战士，但是我的命运是和{playername}以及{reg59?她的:他的} 人联系在一起的。如果我们打败了，大家都会死。幸运的是，发生了一些奇迹，我活了下来。但是包括博多在内的很多人没有活下来，我听说自从{playername}和博多在一艘叫做沃登里克号的船相遇后他们就在一起了。我想对于{reg59?她:他}来说，在经历这么多事情以后，失去博多很痛苦吧，但是{reg59?她的:他的}脸冷若冰霜，没人敢问{reg59?她:他}有什么想法。^^在当纳莱斯打过两场仗之后，我们在村庄的遗迹待了几周，在那里治疗伤员、埋葬逝者，试着恢复秩序。我真觉得这是我最能派上用场的时刻了。很多人来找我寻求安慰，并且对我向死者的悼词表达感激之情。^^然后我们驾船返回英格兰，然而我们不知道那里已经大变天了……
+qstr_Maybe_part_of_him_is|也许他和丹麦人乌尔夫的女儿— — 索拉生的婴孩会继承他的一部分生命。这个男孩，以他父亲的名字为名，健康健壮地成长，并立誓有朝一日会成为一个有权势的人。
+qstr_My_name_is_Beda_and_|我的名字是贝达，这本书是从黑暗时代开始记录的一本编年史，但那段历史并不全是糟透了，因为那时仍然英雄辈出。
+qstr_I_was_there_when_the|当撒克逊人和丹麦人在阿先顿战斗的时候我在那里。{playername}改变历史的时候我就在场。但是当英雄离开的时候，这场战斗和接下来发生的事情都显得苍白了。那时的场景历历在目，当我们进入大厅，看到牛颈斯温杀了{playername}的母亲时，{reg59?她的:他的}脸变得冰凉。没有愤怒，没有恐惧，也没有哭喊，只有冷酷。我向你保证，当牛颈斯温知道他死定了的时候，他脸色也变得苍白了。我们在大厅内战斗，斯温死了，但这并没有改变{playername}那冷酷的面庞。即使在把{reg59?她的:他的}母亲当做女王一样举行葬礼，把宝藏和她遗体一起放在战船海葬后，他依然面色不改。^^那天过后，我们的英雄离去了。{reg59?她:他}向我们告别，我们曾追随{reg59?她:他}参与了一场场战斗，但{reg59?她:他}现在不告诉我们目的地就离去了。^^我担心{reg59?她:他}离开以后就永远不会回来了。我希望这不是真的，因为这个黑暗的世界还需要{reg59?她的:他的}奋斗。
+qstr_BEDA_CHRONICLE^^{s2}^^|贝达的记事^^{s2}^^{s3}^^{s16} 
+qstr_Little_news_has_reac|我没听到多少关于年轻的卡约的消息，我唯一能够肯定的是他永远不会回到哈德良长城了，更不会探望他家人。有关他的最后消息是他加入了一个丹麦远征队，前往君士坦丁堡。
+qstr_^^Egil_returned_to_R|^^埃吉尔回到了他在里伯的家。他在冒险的时候发财了，但把钱都花在了女人和酒上，没多久就在决斗中死了。
+qstr_^^Brunhild_married_a|^^尽管一直对丹麦人怀有仇恨，但伯伦希尔还是和一个丹麦人结婚了，并在约维克住了下来。一个商人告诉我她现在是个快乐的母亲并带着三个孩子。
+qstr_^^The_fate_of_Donnac|^^唐察德的命运是悲惨的。他回到了奥尔本，在那里征募了一些苏格兰人，在爱尔兰海域上袭击挪威商人。都柏林的挪威人悬赏他的人头，最终追到了他，在一场大战中杀了他。奥尔本宫廷内的诗人们至今都在传唱着这个故事。
+qstr_^^Morgant_returned_t|^^摩根回到了康比亚，并试图联合家族来恢复故国敦莫尼亚的领土，但是失败了。许多人仅仅是为了海峡的另一边放弃了他们的家园，令人吃惊的是即使如此还是没能息平众多的纷争。最后，他放弃了，退隐到了我们所熟知的那个彼得罗克斯托修道院，他在此遁入教门。
+qstr_^^Dwywei_was_one_of_|^^杜威是少数在{playername}离开后没有放弃的人之一，我知道她是去找他了。尽管发生过了这么多事情，她还是爱着他，并在天涯海角找寻他。我不知道她有没有成功，也不知道她是不是还活着。
+qstr_^^Dwywei_despite_all|^^杜威在发生了那些事情后，还是没能坦然接受{playername}的离去。我听说她去找他了。
+qstr_^^Reginhard_returned|^^雷因哈德回到了杜里斯特，在那里他和店主艾达结了婚，并且生了一个儿子，取名叫泰德。他们的婚姻开始很美满，但他们没能一直一起走到最后。据最新消息说，他背叛泰德后又背叛了{playername} ，饱受折磨之后他又复归了作恶多端的本性。
+qstr_^^About_Clovis_he_re|^^至于克洛维，他回到了法兰克，在那里得到了一块土地并结了婚。但他似乎想抛却过去，而且也不搭理我的信使。
+qstr_^^The_beautiful_and_|^^美丽而又顽强的苏维格决定以她自己的力量继续为{playername}报仇，追杀牛颈斯温的家族。她回到了丹麦，在那里猎杀了斯温的兄弟，他们的家人也都不放过。这事情让她无处容身，所以现在她和其他一些强盗和流放者一起躲在什么地方。
+qstr_^^The_loeknir_the_ph|^^医生阿斯比恩历尽战乱之后回到了他父母的家奥丁斯弗。他运用他的知识治疗人们，只收极低的佣金，如果有人有需要的话甚至能够免费。他的名声传遍整个北方，人们把他当做圣人一样来崇敬。
+qstr_^^Helgi_was_very_fon|^^海尔吉在发生了那些事后还是很喜欢{playername} ，当她离开后，他陷入了无尽的悲痛之中。关于他我所知道的最后一件事就是他回到了东方，成了一个罗斯人，寄悲痛于杀戮之中。
+qstr_^^Helgi_became_depre|^^海尔吉在{playername}离开后变得消沉。迷茫之中，他去了东方，成了一个罗斯人，在无止境的战争中找寻着他的命运。
+qstr_^^The_Greek_Agathino|^^希腊人阿格霍斯留在北方，呆在伦敦威克附近，他在那里重建古罗马的设施。有时候我会收到他的一些信，我不知道为什么我和他从未成过朋友，但他喜欢保持他过去所拥有的那些关系。我应该就是他过去的唯一痕迹了。
+qstr_^^And_that_is_all_wh|^^关于在{playername}那里效力过的人们的经历了，我就知道这么多了。
+qstr_After_the_departure_|在我们的领袖离开后，我们这些{reg59?她的:他的}部众分道扬镳了。我躲在西撒克逊一个遥不可及的修道院内。我准备在这苟延残喘、度过余生。我给所有带来外界消息的人钱，假如有人能找到{playername}我会给更多的奖赏，然而没人见过{reg59?她:他} 。但是，我还是得到了一些跟他到最后的人的消息。
+qstr_{s11}{s12}{s13}{s14}|{s11}{s12}{s13}{s14}{s15}{s16}{s17}{s18}{s19}{s20}{s21}{s22}{s23} 。
+qstr_{s2}{s3}^^I_hope_my_|{s2} {s3}^^我希望我能把{playername}永载史册。在叫做沃登里克号的船上，一位一无所有的{reg59?女士:先生} ，最后成为了在{reg59?她的:他的}时代举足轻重的军阀。{reg59?她:他}曾是一位杀了可怕的牛颈斯温的人，跻身于那些最具有权势的人之列，例如拉格纳之子、西撒克逊的国王们。^^愿{playername}名垂千古、不朽于世。
+qstr_They_say_that_Eriu_i|他们说，埃里尤是一片荒野，那里的居民太不可靠，太暴力。这使得它值得征服。我听过很多埃里尤的故事，但不值得复述。我确信的是{playername}在那里的一段时间，留给他的是伤痕累累。
+qstr_Honestly_Mael_Bresai|老实说，雷西尔王子的死对于{playername}意味着什么，{reg59?她:他}继续过着{reg59?她的:他的} 生活，好像雷西尔王子从未存在过。或许{reg59?她:他} 多了一些敌人是埃里尤的领主们和有一些意外之财在{reg59?她的:他的} 口袋里，没有更多了^^但莫莉卡是另一回事。那个女人有为什么神奇。不光是她的歌声能够冻结时间。更厉害的是。当她离开时，整个军队感到空虚。
+qstr_The_agreement_with_M|与雷西尔王子协定的{playername}是个有钱人，但他的命运高于财富，金钱只是实现他的目标的一种方式。
+qstr_Honestly_Mael_Bresail|老实说，雷西尔王子的死对于{playername}意味着什么，{reg59?她:他}继续过着{reg59?她的:他的} 生活，好像雷西尔王子从未存在过。或许{reg59?她:他} 多了一些敌人是埃里尤的领主们和有一些意外之财在{reg59?她的:他的} 口袋里，没有更多了^^但莫莉卡是另一回事。那个女人有为什么神奇。不光是她的歌声能够冻结时间。更厉害的是。当她离开时，整个军队感到空虚。当{playername} 杀了她，我想{reg59?她: 他} 觉得自己已经摧毁了一些不属于这个时代或世界的东西。^^他们说很多关于埃里尤的故事，但很少有人记得弗莱厄蒂子嗣丧生的传说。
+qstr_Sandbox_mode_gives_y|沙盒模式给予你完全的自由来选择你的游戏体验，你可以选择成为一个平  和的商人，一个令人  畏惧的维京人，一个被子民爱戴的国王或者任何其他玩法
+qstr_Starting_is_always_d|开始总是很难，所以建议在你的第一场战斗前探索周围的环境。参观附近的定居点，在当地长老或领主那里获得在农场，采石场，盐矿山或伐木营地工作挣钱的任务。在农场或修道院招募士兵或许需要贿赂村长老。你也可以在农场和村庄购买商品然后在城市市场卖掉以获取利润。^^最好是慢慢地玩，探索游戏的可能性和运作方式。如果你有问题，你可以随时阅读笔记。^^维京征服的世界很大。它将带你进入黑暗的时代，像以前一样。
+qstr_^Welcome_to_Viking_C|^欢迎来到维京征服重铸版^^^{s2}^^{s3}
+qstr_In_this_mode_you_sta|在这种模式下，你开始就是一个领主或者国王。作为一个领主，你要控制你的封地和领导军队。作为一个国王，你决定王国的政策，宣布战争，领导军队，发展你的王国。
+qstr_Your_first_priority_|你的首要任务应该是扩大你的财富，增加收入，让府库充盈。
+qstr_^^Welcome_to_Viking_|^^欢迎来到维京征服重铸版^^^{s2}^^{s3}
+qstr_In_the_storyline_you|在故事模式中，你作为一个不确定命运的英雄开始游戏，请仔细阅读以下内容，因为游戏玩法与沙盒模式略有不同。
+qstr_The_story_follows_it|故事遵循它自己的发展道路，你的决定可能会影响到你周围的世界，除了标准的游戏机制。这意味着你将无法自由加入任何王国或服务任何国王，除非被允许这样做。^王国的兴衰，尤其是那些重要的故事和历史相关的，将尽可能还原历史。所以，如果他们在历史上没有被击败，这些王国就不会被摧毁。^只要你玩故事模式，你就无法摆脱你的同伴，也不能给他们的封地或封为领主。你的许多同伴和关键任务相关，重要的是他们是你团队的一部分。^花了几个月的时间来编写维京征服的故事情节，运用大量史料，传说，以及我们对维京世界的热爱。我们希望你能像我们一样喜欢它。
+qstr_The_trainer_{s11}.|教练{s11} 。
+qstr_The_supply_box_will_|{reg1?在{reg0} 回合后:下回合}将出现补给箱。
+qstr_Head_armor_cannot_be|{s0} 的兜帽无法提供头部防御，因此防御被扣减了。
+qstr_You_can_t_sleep._You|你无法入眠。你听到海水拍打着船体的声音，微风轻轻地抚摸着你的脸，但你不想睁开眼睛，你在回忆着，回忆那些过去的时间，你感到过去的生活是多么的遥远，你清楚的记得你失去的每一天，即使从你离开以来已经好几个月了。^^现在，没人知道未来会发生什么。你的旅程带你来到了弗里斯海，你希望可以找到一个老巫医来治病，因为你的母亲病了。自从你和你的母亲抛下一切，你的脑子一片空白，在通往北边的船中，一艘巨大的商船。它是如此的缓慢和笨重，但是船长答应带你到遥远的弗里斯，而老巫医就住在那里^^你的母亲和你在一起，没有任何人来打扰你们。她的病情在慢慢的恶化，并且有一天你的母亲不再认识你，但是曾经她是多么的完美。你每天早晨醒来都不知道事情会发展的怎么样：你可以和她谈话，或者你得把她绑起来以免她掉入海中。^^你想要醒来，虽然你的眼睛在反抗你，但你那沸腾的心在挣扎着… ^^最终，你还是睁开了你的眼睛… 
+qstr_You_can_t_have_more_|你不能有超过两个活跃的队伍。
+qstr_The_night_falls_whil|当沃登里克号正在长风破浪之际，夜幕降临了。目前风向良好，战斗在早晨就已经停止了。你在船到达弗里斯海岸附近时入睡。^船在夜间航行，方向舵疯狂的旋转着。如果一切顺利的话，你将会在第二天到达目的地，你正在一点点的接近你的目的地。^如果一切顺利… 你被梦魔困扰着，它使你逃避现实甚至去空想，当你感觉到你正被剧烈的抖动，一个声音正在大声的呼唤着你，使你从梦中惊醒。^你慢慢地睁开眼睛，模糊的视线伴随着阳光看到了船长沉默的脸。你从他疯狂抖动着的嘴唇中渐渐地明白他的话… ^^
+qstr_Back_to_the_beginnin|回到开始… 
+qstr_View_next_segment...|查看下节… 
+qstr_Selected_faction_is:|选择的阵营是：{s10}^^{s9}
+qstr_You_are_currently_re|你正在阅读{s8} 。
+qstr_You_are_not_reading_|你没有在阅读任何书籍。
+qstr_{s5}_and_{s6}|{s5} 和{s6}
+qstr_Your_estates_are:_{s|你的封地在：{s8}.^{s9}
+qstr_You_don_t_have_the_m|你没有足够的资金来支付士兵的工资。他们还在工作，但很气愤。
+qstr_After_you_buy_the_ma|在你备齐所有的材料后，你的人为你建造了一个永久的庇护所。
+qstr_Player_renown_is_inc|玩家声望上升100点
+qstr_Player_reputation_is|玩家声望上升1点，现在是{reg7} 。
+qstr_Player_reputation_is_|玩家声望下降5点，现在是{reg7} 。
+qstr_Reseted.|重置。
+qstr_The_time_to_meet_with_|随着时间的推移，与阿斯图里亚斯军队会面的日子到了。博多在信中提到他们会停靠在{s3} ，并且{s11}想让你去和他们汇合。那有一个名叫西诺的叛徒。你必须巧妙地揭露他的身份，这样就不会破坏你与阿斯图里亚斯的关系。^^{s11}正在当纳莱斯集合士兵和战船，你得去和{s3}港口的老船长谈谈。
+qstr_The_time_to_meet_with_t|与阿斯图里亚斯的军队见面的时候到了。博多的信上说他们将在{s3}靠岸，{s11}希望你在那里找到他们。这支军队有一名叛徒，你需要巧妙地揭穿他的身份，以免破坏与阿斯图里亚斯的关系。^^{s11}已经在当纳莱斯召集了士兵和船只帮助你。你必须前往{s3}并在港口与老船长谈话。
+qstr_Go_to_Old_Captain.|去找老船长。
+qstr_The_king_of_Danmark_|丹麦国王建议你去乌尔夫的农场并说服他不要在议事会上指证你。此外，{s10}认为与其他丹麦领主搞好关系（15点好感度以上）是一个好主意，因此他们会在议事会上为你说好话。
+qstr_You_have_recently_re|你最近回到了岛上。看来整个世界都疯了。丹麦人进军到了西撒克逊并在雷丁镇建立了强化营地，他们成功击退了撒克逊人的一次攻击。现在，西撒克逊在阿先顿召集所有能动员到的民兵去消灭丹麦人。西撒克逊为了其生存孤注一掷地战斗着。丹麦人则加紧了攻势。看起来一场大战在所难免，斯温也在里面。你必须尽快与{s11}在{s3}会合。
+qstr_You_have_recently_ret|你最近回到了岛上。看来整个世界都疯了。丹麦人进军到了西撒克逊并在雷丁镇建立了强化营地，他们成功击退了撒克逊人的一次攻击。现在，西撒克逊在阿先顿召集所有能动员到的民兵去消灭丹麦人。西撒克逊为了其生存孤注一掷地战斗着。丹麦人则加紧了攻势。看起来一场大战在所难免，斯温也在里面。你必须尽快与{s11}在{s3}会合。
+qstr_Go_to_your_lord.|去你主人的。
+qstr_Go_to_talk_to_Aelfre|与艾弗德（西撒克逊方）或哈弗丹（丹麦方）谈话。
+qstr_off|不
+qstr_{reg1}_{s1}_{reg2?ac|{reg1}个{s1}{reg2?接受:接受}你的提议。成本：{reg0} 先令。
+qstr_No_one_accepts_the_o|没人接受你的提议。
+qstr_You_start_reading_{s|你开始读{s2} 。你决定把它带在身边，任何有空的时候就读几页。
+qstr_You_flip_through_the|你翻着{s2} ，但你发现里面的内容很难理解。看了几页后，你感觉到头很痛，然后放弃阅读了。
+qstr_Villagers|村民们
+qstr_Ambush!_The_enemy_ha|埋伏！敌人设法获得一个好位置，你掉进了埋伏。^^ 掉进了埋伏将你的位置变成了一个难以防守的位置，并且你的士气将会出现问题，你的士兵无法对敌人造成有效的伤害。^^
+qstr_You_have_encountered|你遇到{s1} 。^^军阀用一个激动人心的演讲鼓舞他的士兵，你的敌人有很高的士气。^^
+qstr_You_have_encountered_|你遇到{s1}.^^军阀集合他的人祈祷并且祈求神来保护他们，你的敌人士气高昂。^^
+qstr_You_have_encountered_{|你遇到{s1}.^^我们准备冲锋之前，我们对他们的投射部队感到吃惊，他们对我们造成了人员伤亡。^^
+qstr_You_have_encountered_{s|你遇到{s1}了。
+qstr_You_have_engaged_{s1|你与{s1}开战了，他们曾经袭击过{s3} 。
+qstr_You_were_caught_by_{|当你带着部下在{s3}掠夺的时候，被{s1}撞见了。
+qstr_{s2}^^You_overhear_o|{s2}^^你无意中听到你的一个资深士兵抱怨，你缺乏一个作战计划，并且你牢记这件事，打算找一个能办到的人。^^
+qstr_Your_men_feel_uneasy|你的士兵因为攻击了无辜的人而感到不安。
+qstr_Your_men_feel_uneasy_|你的士兵因为攻击了商人而感到不安。
+qstr_Your_men_feel_good_a|你的士兵因为攻击了不法之徒而感到高兴。
+qstr_Since_{s8}_has_a_goo|被人攻击从来不是好事，但因为{s8}有一个好名声，你的军队感到更加自信。
+qstr_Your_men_feel_uneasy_a|你的士兵因为攻击了深受人们喜爱的{s8}而感到不安。
+qstr_Your_men_feel_uneasy_ab|你的士兵因为攻击了{s8}而感到不安，因为士兵们害怕他。
+qstr_Your_men_are_eager_t|你的士兵渴望杀了{s8} ，因为他是令人憎恨的家伙。
+qstr_Board|驾船
+qstr_You_need_to_have_50_|你需要至少50个士兵才能使用指挥面板。
+qstr_{reg45}_will_be_lost|{reg45}将会失去。
+qstr_You_were_victorious!|你获胜了！
+qstr_The_battle_was_lost.|这场战斗失败了。你的军队完全被击溃了。
+qstr_Your_companions_carr|你的同伴把你从战场上运了出来。
+qstr_You_have_defeated_th|你击败了敌人。
+qstr_You_have_retreated_f|你撤离了战场。
+qstr_^^Ally_Casualties:{s|^^ 友军伤亡：{s0}
+qstr_{s1}_of_the_{s3}_man|{s3}的{s1}设法逃跑。
+qstr_Your_party_lost_{reg|你的军队减少了{reg1}士气。
+qstr_Your_party_gained_{r|你的军队增加了{reg1}士气。
+qstr_TEST:_Loot_value_bef|TEST ：战利品的价值，之前：{reg1}和之后：{reg2}
+qstr_Your_party_gained_{re|因为你共享了战利品，你的军队增加了{reg1}士气。
+qstr_Your_party_lost_{reg1|你的军队失去了{reg1}的士气，因为你的士兵认为你占有了太多的战利品。
+qstr_Some_of_your_tendons|你的一些肌腱在战斗中受伤了，你失去1点力量。
+qstr_The_wound_you_took_w|你受的伤很重，即使治好后还是有点行动不便。你失去1点敏捷。
+qstr_You_have_trouble_thi|这场战斗结束以后，你发现你思考问题的时候有些困难，也许是因为战斗中你的头部挨了特别重的一击。而且现在你频繁地感到头痛。你的智力下降1点。
+qstr_Perhaps_I_m_getting_|也许我的运气在变差……
+qstr_Retirement_is_starti|撤退听起来变得越来越动听。
+qstr_No_matter!_I_will_pe|没关系！我将继续坚持！
+qstr_What_did_I_do_to_des|我该怎么做才能得到这些？
+qstr_I_suppose_it_ll_make|我猜这些至少可以构造出一个很好的故事……
+qstr_Player_retreats_from|玩家退出战斗。
+qstr_You_have_{reg22}_hea|你有{reg22}头牛吃这里的草。
+qstr_{s8}_of_the_{s9}|{s9}的{s8}
+qstr__As_you_reach_the_se|当你到达此地时，你的士兵迎接了你。
+qstr__As_you_reach_the_set|当你到达此地时，宣誓效忠你的领主{s7}来迎接了你。
+qstr__You_are_greeted_by_|你受到了效忠于你的士兵的迎接。
+qstr__You_are_greeted_by_m|你受到了效忠于你的{s7}的迎接。
+qstr_The_rulers_of_the_re|王国的统治者为你冒犯了你的领主而困恼。
+qstr_You_make_sure_they_s|你确保他们看到了自己的领主{s11} ，被你的军队俘虏。
+qstr_The_{reg6?town_s:for|好像{reg6?城镇里:城堡里}食品仓库中的存粮能够支持{reg3}天({reg7} / {reg8}) 。
+qstr_The_{reg6?town_s:fort|{reg6?城镇里:城堡里}食品仓库中已经没有存粮了，守城人员快要饿死了。
+qstr_>>Your_men_are_build|> > 你的士兵们正在建造环绕{s4}的防御工事以防止任何人随意进出。^^
+qstr_>>Your_perimeter_con|> > 你的环形防御工事准备好了。你在{s4}周围建造了哨所，没有人可以在你的眼皮底下进入或者逃脱，这对你来说很有帮助，尤其是当你和守军指挥官谈判的时候。^^
+qstr_>>Your_men_are_ready|> > 你的部下已经准备好突击。
+qstr_>>As_a_disciplined_a|> > 作为一支经验丰富的部队，你的士兵们有厕所，管道和水井来凉下来并每周清洗。一个健康的营帐将阻止疾病传播。
+qstr_>>Your_men_have_fini|> > 你的士兵们已经完成了挡箭牌的建造。现在你可以用它们保护你的前锋部队进攻，以及你的主力军。
+qstr_>>Your_men_have_finis|> > 你的士兵建造好了扩展设施。^^
+qstr_>>Your_attempt_to_fi|> > 你试图寻找叛徒的行动失败了。
+qstr_>>You_have_found_a_t|> > 你在这{s7}里找到了一名叛徒并支持你占领它。这让敌人投降的几率更大了。
+qstr_>>Your_attempt_to_ha|> > 你在{s4}的渗透计划失败了。
+qstr_>>Your_men_have_succ|> > 你的人成功渗透进{s4}并让敌人受到了些损伤。
+qstr_>>You_ve_managed_to_|> > 你设法掠夺附近的农田和庄稼。
+qstr_>>You_have_sent_men_|> 你派人去{s4}寻找叛徒。
+qstr_>>You_have_found_a_tr|> > 你在这{s4}里找到了一名叛徒并支持你占领它。这让敌人投降的几率更大了。
+qstr_>>Your_men_are_takin|> > 你的士兵在你的命令下掠夺{s4}周围的庄稼。这让敌人投降的几率更大了。
+qstr_>>You_have_sent_men_t|> > 你派人渗透{s4} 。
+qstr_>>Your_camp_smells_h|> > 你的营地闻起来很糟糕。地面泥泞，你的士兵们在帐篷间排泄，你看到耗子到处跑。
+qstr_>>As_a_disciplined_ar|> > 作为一支经验丰富的部队，你的士兵们有厕所，管道和水井来凉下来并每周清洗。一个健康的营帐将阻止疾病传播。
+qstr_>>Your_men_are_diggi|> > 你的人在挖洞做厕所和做其他类似的事情来防止疾病。
+qstr_You_need_to_have_more|你需要超过250人来完成此项工作。
+qstr_You_need_to_have_at_|你至少需要分配40人来找叛徒。
+qstr_You_need_more_than_3|你需要超过30人，否则派出士兵后你的营地将没有防备。
+qstr_You_need_to_have_more_|你需要超过10人来完成此项工作
+qstr_You_need_to_have_more_t|你需要超过80人来完成此项工作
+qstr_>>The_assault_equipm|> > 攻城设备已经准备好了，部队在听你待命。
+qstr_>>You_look_at_{s4}._|> > 你看到了{s4} 。你的战士们沉默着，等待着你的那向死亡冲锋的命令，你的肌肉紧张起来，为战斗而发热，但你的思维仍旧冷静，肾上腺素充满了你的全身。^一位士兵深呼一口气“你闻到了吗？”他问道，“这是荣耀的味道。”“你准备好攻占这里了吗？”
+qstr_>>The_steel_of_the_w|> > 金属制的武器闪着光，旗帜在风中狂舞并且号角声响了起来。战士们在低语，大多数是在祈祷，在面对他们生命中最后时刻前讨好他们所信奉的神。前方只有两件事：胜利或死亡。^战争…战争从未改变。
+qstr_>>Winter_is_the_wors|> > 冬季是对于战斗来说最坏的时节，但是你正处于这最冷的几个月份当中，准备去着手攻占{s4} 。许多人都认为你是个魔鬼，要么就是一个疯子。但是没有人知道，有一天你将成为不列颠统治者。^
+qstr_>>It_s_summer_and_ho|> > 现在正是夏季，还是炎热的夏季，也许太热了。但是在这个时刻，你对什么都没有感觉。按照你的惯例，在战斗前，你总是会留出时间来回忆往事…那么，别再想这些了，准备战斗吧，甚至是最坏的情况：面对死亡。
+qstr_>>You_look_at_{s4}._Y|> > 你看到了{s4} 。你的战士们沉默着，等待着你的那向死亡冲锋的命令，你的肌肉紧张起来，为战斗而发热，但你的思维仍旧冷静，肾上腺素充满了你的全身。^一位士兵深呼一口气“你闻到了吗？”他问道，“这是荣耀的味道。”“你准备好攻占这里了吗？”
+qstr_>>Your_men_have_finish|> > 你的士兵们已经完成了挡箭牌的建造。现在你可以用它们保护你的前锋部队进攻，以及你的主力军。
+qstr_>>Your_men_are_buildi|> > 你的人在建造挡箭牌。
+qstr_>>Your_men_have_finishe|> > 你的人建好了攻城梯。
+qstr_>>Your_men_are_buildin|> > 你的人在建造攻城梯。
+qstr_{s4}_lost_between_40|{s4}失去了大约40到50%的库存粮草。
+qstr_{s4}_lost_between_50|{s4}失去了大约50到60%的库存粮草。
+qstr_{s4}_lost_between_30|{s4}失去了大约30到40%的库存粮草。
+qstr_{s4}_lost_between_10|{s4}失去了大约10到20%的库存粮草。
+qstr_{s4}_have_between_10|{s4}失去了大约10到30%的库存粮草。
+qstr_It_should_have_food_|^^这里有{reg5}名守军。^库存粮草能维持{reg6}天
+qstr_^^The_following_armi|^^目前以下部队驻扎在内：
+qstr_^{s3}_with_{reg1}_tr|^{s3}有{reg1}名守军。^
+qstr_^^Commander_this_tow|^^指挥官，这座城是块巨岩。我们中许多人在开战前就逃跑了，所以我们必须提高士兵们的士气。通往主城门的路狭窄且陡峭，但是如果我们扎营并建造一个攻城槌就能击破后城墙进入城镇中了。当墙倒下后，我们就不用提心吊胆地爬那窄小的攻城梯了。
+qstr_^^Alt_Clut_the_rock_|^^克莱德之岩。不列颠北部最雄伟的堡垒。在你之前没人曾通过攻城夺下它。理查德· 希尔国王曾守在克莱德的城门口与贝西尼亚人与皮克特人战斗。
+qstr_^^This_formidable_st|^^这座坚不可摧的要塞是多姆诺尼亚之宝。这里有来自迈德特兰尼亚的满载酒和奢侈品的船只。传说亚瑟王就是出生在此地。
+qstr_^^Dun_Taruo_the_fort|^^泰罗丘，公牛之堡垒。这个地方似乎是巨人建造的，并且数百年来，它在皮克特人中享有很高的声誉。
+qstr_^^The_seat_of_the_br|^^勇敢的高多汀（注：罗马时期不列颠东北部的一支布立吞人）战士的居所。他们在这里发动了对贝西尼亚人的攻击，并且他们英勇地战死将不会被世人所遗忘。你几乎都可以在这里闻到他们勇敢的气息。
+qstr_^^This_place_is_just|^^这个地方等待着你来征服。
+qstr_As_a_last_defensive_|你撤退到城堡的大厅里进行最后的防御。你和你手下残余的士兵将准备在这里接受一场恶战。如果你战败了，你就无路可退了。
+qstr_You_ve_been_driven_a|你被敌人从城墙上赶下去了，现在敌人大量涌入街道内。如果你能击败他们，你也许能扭转局势，反败为胜。
+qstr_You_ve_breached_the_|你已经突破了城墙，但是那些顽固的守卫者继续在街道上抵抗你的攻击！你得消灭他们才能攻击城镇中心的城堡。
+qstr_The_town_centre_is_y|这个城镇的镇广场是你的了，但是剩下的守卫者撤退到城堡里了。你要完全消灭他们才能取得完全的胜利。
+qstr_The_remaining_defend|剩下的守卫撤退到城堡这个最后的防线。你必须冲进去清除剩余的抵抗力量。
+qstr_{s10}^^|{s10}^^
+qstr_{s10}You_may_decide_|{s10}你可以禁止你的手下掠夺{reg2?城镇: 要塞} ，如果你想为你的阵营征服它，不过你的部队会失去士气。
+qstr_{s10}You_can_allow_s|{s10}你可以掠夺并占据{reg2?城镇: 城堡} 。
+qstr_However_since_you_ar|然而，因为你不是{s9}的效忠者，他是绝对不会承认你是这个{reg8?城镇:城堡}的领主。
+qstr_The_enemy_has_been_f|敌人被迫撤退了。进攻停止了，但是围城还在继续。
+qstr_As_you_approach_you_|当你接近时，你被守卫发现了，他们打开了大门欢迎他们的{国王/ 女王} 。
+qstr_As_you_approach_you_a|当你接近时，你被守卫发现了，他们打开了大门欢迎他们的{领主/ 夫人} 。
+qstr_^Christians_aren_t_w|^基督徒不受欢迎。
+qstr_^Christians_are_acce|^基督教徒在此被接受。
+qstr_^Christians_are_in_t|^基督徒是这里的主流。
+qstr_^Christians_are_domi|^基督信仰在此根深蒂固。
+qstr_^This_village_is_a_b|^这个村子是你信仰的堡垒。
+qstr_^Rumor_has_it_that_C|^有谣言说基督信仰不过是一个骗局，人们仍然信仰多神教……
+qstr_^Pagans_aren_t_welco|^多神教徒不受欢迎。
+qstr_^Pagans_are_accepted|^多神教徒在此被接受。
+qstr_^Pagans_are_in_the_m|^多神教徒是这里的主流。
+qstr_^Pagans_are_dominant|^多神教信仰在此根深蒂固。
+qstr_^Rumor_has_it_that_o|^有谣言说为了给基督教开路，旧式的多神教信仰已经被禁止。
+qstr_This_village_and_the|这村庄和附近的土地属于你。
+qstr_You_remember_that_th|你记得这村子和周围的土地属于{s7} 。
+qstr_These_lands_belong_t|这些土地不属于任何人。
+qstr_The_village_is_infes|这个村庄受到{reg8}名{s35}的袭扰。
+qstr_The_village_has_been|村庄遭到了掠夺。当你经过那些烧焦的房屋的时候，无数冤魂萦绕不散……
+qstr_The_village_is_being|村庄受到了袭击。
+qstr_{s10}_{s12}^{s11}{s6|{s10} {s12}^{s11}{s6}{s7}{s15}
+qstr_No_one_here_seems_to|这里好像没有人想加入你的部队。
+qstr_Try_as_you_might_you|不论你怎么努力，你都没有能打败这些强盗。强盗们十分生气地烧毁了村子来报复那些农民，然后离开这个烧焦的地方去寻找别的地方进行掠夺。
+qstr_castle|城堡
+qstr_The_{s17}_has_no_imp|{s17}没有升级的设施。
+qstr_The_{s17}_has_the_fo|{s17}拥有以下设施：{s18} 。
+qstr___Christian_riots_co| (基督徒暴乱：将会失去{reg33} 好感)
+qstr___Pagan_riots_could_| (多神教徒暴乱：将会失去{reg33} 好感)
+qstr_Your_enemies_beat_yo|你的敌人击倒了你，将你丢在战场上，静静等待死亡的降临……
+qstr_You_have_fallen._You|你被击倒了。你的敌人马上搜寻了你的包裹，然后消失在了茫茫夜色中。但他们没想到你虽然奄奄一息，但还活着。
+qstr_Luckily_some_of_your|很幸运的是，你的一些同伴发现你没有回来就出来寻找你，并且发现你躺在路边。他们急忙把你抬带安全的地方并为你包扎伤口。
+qstr_Luckily_some_passing|很幸运的是，一些路过的镇民发现你躺在路边上，他们差点就把你当成乞丐了。他们把你抬到最近的旅馆里并为你包扎伤口。
+qstr_Going_through_the_ba|翻了翻土匪的钱包，你发现一块肮脏的破的牛皮纸与“杀死”，你的名字的一部分仍然可见。翻看另一面，你发现了'在{s3}和我会面。'
+qstr_Your_efforts_prove_s|你的努力被证明是成功的，有些人已经改变了他们的信仰。
+qstr_Your_efforts_to_conv|你的努力是失败的。
+qstr_You_fail_to_steal_an|你没能偷到一头牛。
+qstr_You_drive_away_{reg1|你从这个村庄的牛圈里赶走了{reg17}头牛。
+qstr_People_aren_t_very_h|人们对于你在他们地盘上的所作所为感到很不开心。
+qstr_^This_town_is_a_bast|^这座城市是你信仰的堡垒。
+qstr__As_you_reach_the_sett|当你到达这个地方的时候，你受到了你手下的人的欢迎。^{s15}
+qstr_{s11}^{s15}|{s11}^{s15}
+qstr__As_you_reach_the_settl|当你到达这个地方的时候，你受到了{s7}手下的人的欢迎。^{s15}
+qstr__This_fort_seems_to_|这座堡垒似乎不属于任何人。^{s15}
+qstr_You_are_greeted_by_m|你受到了你手下的欢迎。^{s15}
+qstr_You_are_greeted_by_me|你受到了{s7}手底下的人的欢迎。^{s15}
+qstr__This_town_seems_to_|这座城市似乎不属于任何人。^{s15}
+qstr__You_have_successful|你成功潜入了。
+qstr_{s13}_A_tournament_w|{s13}一场比赛马上要开始了。
+qstr_{s10}_{s14}^{s11}{s1|{s10} {s14}^{s11}{s12}{s13}
+qstr_An_expensive_horse_i|你获得了一匹昂贵的坐骑作为对你获胜的奖赏。
+qstr_A_fat_cow_is_awarded|你获得了一头肥壮的牛作为对你获胜的奖赏。
+qstr_You_are_given_a_beau|你获赠一件漂亮的毛皮装饰盔甲，它配得上你作为一位强大的首领的身份。
+qstr_They_give_you_a_fine|他们赠与你一柄贵族使用的剑作为对你的奖赏。
+qstr_They_appreciate_your|他们很感谢你参加了比赛，他们给你戴上了光荣的花环。
+qstr_Moreover_you_earn_{r|另外，你聪明地在自己身上下了注，获得了{reg8} 先令的回报。
+qstr_Victory_is_yours!_Yo|你赢了！你在这场混战中获胜了，但是你得准备好进入下一轮比赛。
+qstr_You_have_been_bested|你在混战中被打败了，但是竞技场老板相当认可你的技能和勇气，允许你进入下一轮比赛。
+qstr_You_were_beaten._The|你被打败了，这些农民被他们的胜利所鼓舞，但是你想教给他们的东西他们可能没有真正掌握……
+qstr_After_beating_your_l|在你击倒最后一个对手后，你向这些农民解释怎样更好地防御这样的一击。希望他们能接受这些经验，下次能提前做好准备。
+qstr_The_bandits_are_brok|这些强盗被打败了！那些还活着的和意识还清醒的都夹着尾巴逃跑了，他们惧怕这些农民和他们的新教官。
+qstr_Can_t_merge_both_fle|不能合并舰队，因为你的提督技能不够高
+qstr_Can_t_merge_both_flee|不能合并舰队，因为这将超过七艘舰队的限制。
+qstr_Fleets_merged.|舰队合并。
+qstr_The_trader_you_are_e|你护送的商队不能使用渡轮
+qstr_The_ferry_station_is|轮渡站太小，不能运输领主和他的整个军队。
+qstr_You_can_t_enter_the_|你不能进入这个港口，因为你在这里不受欢迎。
+qstr_You_can_t_enter_the_p|你不能进入这个港口，因为你在这里不受欢迎，而且你也无法从海上对这座城市发起攻击。
+qstr_You_can_t_enter_the_po|你不能进入这个港口。你在这个港口里已经有了一支舰队，而且你的提督技能不足够驾驭舰队合并之后船只的数目。
+qstr_You_can_t_enter_the_por|你不能进入这个港口。你在这个港口里已经有了一支舰队，并且由于合计数目超过了7艘，你不能将这两支舰队合并。
+qstr_You_already_have_a_f|你在这个港口里已经有了一支船队，你想将这两支船队合并吗？
+qstr_Unfortunately_{reg3?|不幸的是，{reg3?你:{s1}}找不到可以带来利润的贸易商品。
+qstr_^Buying_{s4}_here_an|^在这里购进{s4}并在{s5}卖出的话，每一件商品可以为你带来{reg6} 先令的利润。{s3}
+qstr_{reg3?You_find:{s1}_|{reg3?你:{s1}}找到下列物品：^{s3}
+qstr_{s2}^{reg1}_{s1}_ear|{s2}^{reg1}个{s1}获得{reg0}点经验。
+qstr_{s2}^{s1}_earned_an_|{s2}^{s1}获得了{reg0}点额外的经验。
+qstr_^You_earned_{reg0}_e|^ 你获得了{reg0}点经验。{s2}
+qstr_The_training_didn_t_|训练进行得很糟糕。
+qstr_The_training_didn_t_g|训练进行得不太好。
+qstr_The_training_went_qu|训练进行得很好。
+qstr_The_training_went_ve|训练进行得非常好。
+qstr_The_training_went_pe|训练进行得很完美。
+qstr_You_fall_on_the_grou|你带着浑身的伤口，倒在地上— — 心脏越跳越慢，视线渐渐模糊。你在战斗中失败了，死亡正缓缓而来。^^在生命消逝之际，你只是希望有人会记得，曾经有一个叫做{playername}的人。
+qstr_After_losing_the_sea|海战失败之后，你趴在浮木上漂了好久，经过的渔民们将你带回了附近的村庄。你失去了你所有的船只和士兵。
+qstr_Your_enemies_take_yo|你被敌人俘虏了。
+qstr_{s13}_asked_you_to_r|{s13}要你带着至少{reg13}人去向他报告。
+qstr_{s13}_ordered_you_to|{s13}命令你参加对{s14}的攻击。
+qstr_Kingdom_Fails_to_Res|王国没有反应：{s1} 没有回应{s2} 的挑衅。并且{s3}将会丢面子。{reg4?她:他}更加好战....
+qstr_There_has_been_an_al|有涉嫌边境事件：{s9}
+qstr_There_has_been_an_all|发生了一起所谓的国境纷争，{s4}的人正考虑发动对{s3}的战争。
+qstr_Border_incident:_Wor|边境事件：消息送达到你{s9} 。虽然你不知道是否谣言是真的，你知道一件事— — 这个看似微小的事件引发了{s4} ，的人民之间的激情，让他们更容易去对抗{s3}...
+qstr_The_great_lords_of_y|你国的大领主，计划为{s15} 在{s10} 的大厅举办一场盛宴。
+qstr_^{s64}^|^{s64}^
+qstr_^^Note_that_as_long_|^^记住只要你还是元帅，领主们就会希望你能领导他们取得战役的胜利。所以，如果你期待一场宴会，不管是为了庆祝婚礼还是别的什么，你或许需要和你向君主请求辞去你的元帅职位。
+qstr_Strange..._You_ve_be|奇怪，你不是睡着了吗，但是你记不得你做了什么梦。你唯一记得清楚的是维京战士们登上了沃登里克号，把武器刺进了船长和水手们的身体……哦，还有博多，那个坎塔布里亚人，战斗起来就像一只走投无路的雄狮，你还清醒的时候他好像在说：“{playername} ！战斗！我与你共进退！”^^你记得死亡— — 你的死亡，当你在敌人的面前倒下的时候。在你向这个世界告别之前，你还能感觉到船上的木板狠狠地撞在你脸上的疼痛。你看见了你的母亲，就在一切终结之前，一个身形硕大的维京人，穿着铁甲— — 他会是斯温吗？— — 击碎了她的头，并把她的尸体抛到一边。^^你慢慢往前蠕动，身后留下一串血迹，宁可拿自己去喂鱼，但你什么都不记得了。^^你死了吗？但如果你死了，为什么你能感觉到身上肌肉的酸痛。或者火炉发出的温暖？为什么你能紧紧攥着拳头，张开双眼并且看到房顶上透出的光亮？^^如果你还活着，那么是谁救了你，为什么？
+qstr_It_is_night_and_the_|现在是晚上，修道院笼罩在平静的氛围里。
+qstr_The_monks_bless_you_|僧侣们为你祈祷，你继续踏上了你的旅途。
+qstr_You_don_t_have_enough_|你的钱不够，多么尴尬！
+qstr_You_need_to_have_more_m|想要做这个的话，你需要更多的人手。
+qstr_It_is_night_and_the_h|现在是晚上，霍夫看起来似乎挺安静。
+qstr_The_gothi_has_sacrif|gothi牺牲了动物为了你的利益来安抚众神。
+qstr_You_are_now_a_pagan_a|你现在是一名多神教徒，奥丁与诺尔斯众神的追随者。
+qstr_The_majority_of_your|你队伍中的大部分人是多神教徒，他们支持你的举动。
+qstr_The_majority_of_your_|你队伍中的大部分人是基督徒，他们憎恶你的行为。
+qstr_In_the_arms_of_the_d|在死去的修道院院长的怀抱里，你的人找到了“科伦希尔之经”。
+qstr_The_majority_of_your_t|大部分你的部队都是基督教并且支持你的行动。
+qstr_The_majority_of_your_tr|大部分你的部队都是多神教徒，讨厌你的行动。
+qstr_{s3}_is_in_danger._S|{s3}有危险！在这个村庄被摧毁之前，从牛颈斯温的袭击中拯救它！你需要足够多的士兵来抵挡维京人的攻击！
+qstr_Return_to_{s3}_and_i|回到{s3}审问犯人。
+qstr_Return_when_you_have|当你部队人数少于55人时再回来复命。
+qstr_You_have_saved_{s3}.|你拯救了{s3} ，或许现在是问问{s9}关于他和斯温的关系的好时机。
+qstr_{s9}_did_not_come_to|{s9}并没有前来援助{s3} 。索里克怀疑雅尔是牛颈斯温的同谋，是时候和他谈谈了，或者你也可以直接去找国王，告知他{s9}的背叛。
+qstr_Loot_Thiaderd_s_camp|洗劫泰德的营地。
+qstr_Ahead_in_a_small_cam|前方有一个小营地，那儿有女人和小孩— — 叛军的妻子和孩子。他们看起来很恐惧，不知道该往哪儿跑。^^这些人当中有泰德的妻子和孩子。这真是一个困难的选择，或许他们在将来会寻求复仇，但他们不是战士。
+qstr_A_small_camp_stands_|河边有一个小营地，你可以看见村舍间的女人和孩子。一伙男人— — 人数很少，但是十分咄咄逼人— — 前来和你面谈。一个个子很高的人领导着他们。
+qstr_Note_2:_You_chose_to|笔记2 ：你选择杀死泰德的妻子和孩子。
+qstr_Thiaderd_is_dead._Yo|泰德死了，你完成了任务。
+qstr_Note_2:_You_chose_to_|笔记2 ：你选择尊重泰德的妻子和儿子的生命。
+qstr_Note_2:_You_chose_to_l|笔记2 ：你选择留着泰德的妻子和儿子的性命。
+qstr_You_need_room_for_at|你的部队需要至少一个空格以容纳新成员。
+qstr_^^In_the_middle_of_t|^^在要塞的空地中，你看到一群奴隶正在被出售，你的母亲也在其中么？
+qstr_Note_2:_In_Sven_s_hi|笔记2 ：在斯温的藏身处，你找到了博多，沃登里克号上的旅行者之一。通过博多，你知道了维京人袭击之后，沃登里克号上幸存者的下落。你的母亲现在还活着，多亏了博多塞给她那个东西，那个东西使得她对于维京人来说非常重要。
+qstr_Return_when_you_have_|当你的部队人数少于25人时回来复命。
+qstr_You_think_of_Thora_w|你想起了索拉，那个每天晚上来找你的女人，这个漂亮的女孩或许可以给你生很多很多孩子。
+qstr_You_think_of_Thora_wh|你想起了索拉，那个每晚来找埃吉尔的女人。她是她父亲的掌上明珠，她无忧无虑，不需要担心任何事情。
+qstr_You_think_of_Thora_a|你想起了索拉。她是她父亲的掌上明珠，她无忧无虑，不需要担心任何事情。
+qstr_One_of_the_greatest_|西撒克逊和丹麦人之间最著名的几场战斗中的一场，就是在这里爆发的。你肯定记得那一天的事情，因为你参加过那次战斗。
+qstr_This_place_destroyed|这个地方已被你的人摧毁，除了碎石和灰尘之外，一无所遗。
+qstr_Garrison:_{reg5}__li|驻军：{reg5} ( 极限：{reg0})^^你的队伍在避难所里就如同在城堡和城市一样能够得到休息，远离行军路途中的危险，远离厮杀。他们的维护费用也会减少。
+qstr_You_need_to_hire_a_c|你需要先雇佣一个厨师。
+qstr_It_is_night_and_your|晚上了，你的避难所看起来一切安好，在其他人睡觉的时候也有人在警戒。
+qstr_Your_garrison_size_e|你的驻军规模超过了庇护所最大允许的数量，这会导致你的士兵不满及开小差！
+qstr_Garrison_limit:_{reg|驻军上限：{reg0}
+qstr_The_ramshackle_priso|避难所里面的破旧监狱很不安全。你的队长建议你不要把领主关押在这里。
+qstr_You_do_not_have_enoug|你付不起雇人拆毁避难所的钱。
+qstr_Refuge_demolished!|避难所被拆毁了！
+qstr_Your_men_think_you_v|你的手下对你以德报怨、花钱安排埃吉尔葬礼的行为表示赞许。
+qstr_Note_Egil:_Egil_turn|埃吉尔的笔记：在你决定把信件交给西撒克逊后，埃吉尔背叛了你。他攻击了你，你无奈之下只得杀了他。因为他深受大家的喜爱，所以你决定花钱安排他的葬礼。
+qstr_Your_men_think_you_ve|在埃吉尔这么背叛你后，你还能花钱安排他的葬礼。你的人对此表示赞许。
+qstr_Message|Message信息
+qstr_Your_men_cry_for_Egi|你的人为埃吉尔的背叛感到悲痛，他们悼念他的死亡。许多人爱戴他，有些人甚至把他当做领袖一样来爱戴。
+qstr_Note_Egil:_Egil_turne|埃吉尔的笔记：在你决定把信件交给西撒克逊后，埃吉尔背叛了你。他攻击了你，你无奈之下只得杀了他。你让你的人把他埋了。
+qstr_Your_men_cry_for_Egil|你的人为埃吉尔的死感到悲痛，但是他们遵循了你的命令。现在他们开始把你看作是不轻饶叛徒的铁腕领袖了。
+qstr_Note_Egil:_Egil_turned|埃吉尔的笔记：在你决定把信件交给西撒克逊后，埃吉尔背叛了你。他攻击了你，你无奈之下只得杀了他。你甚至不准你的人埋葬他。
+qstr_Shortly_after_landin|在登陆不久后，一个盯了你很久的信使骑马向你走来。你注意到了他的黑眼圈，就像是好几天没睡了一样，他的马看起来就要撑不住了。终于，他吸了一口气并大声说：^^
+qstr_{s4}_{playername}_my|{s4} “{playername} ，我的主人拉弗伯斯· 拉格纳逊在听商人说你离开法兰克前往英国后，就派出信使来找你了。他想让你加入他弟兄哈弗丹在雷丁镇的部队，他正在那里指挥对西撒克逊的最后突击。我们从东盎格鲁带着一支大军前进，在雷丁镇建立了强化营地，我们洗劫了那块区域。但是阿尔弗雷德和艾弗德调集了维坦要塞的民兵来攻打我们。幸运的是他们被击退了。^^现在西撒克逊的国王在他弟弟艾弗德的帮助下西撤到了阿先顿，他们在那里又聚集了一支大军准备打我们。因为哈弗丹想在他们聚集到更多人之前和他们交战，所以我们需要你的帮助。恐怕这只是一系列战斗的开始！只要我们赢了，西撒克逊就是我们的了！^^拉弗伯斯主人告诉我要特别提醒你一下，牛颈斯温就在艾弗德的部队里头。”
+qstr_{s4}_{playername}_my_|{s4} “{playername} ，我的郡长艾弗德· 埃塞尔沃夫在听商人说你离开法兰克前往英国后，就派出信使来找你了。他想让你尽快加入他的队伍。因为丹麦人在向西撒克逊进军，所以他在王国周围召集军队。^^他们从西盎格鲁带着一支大军前进，在雷丁镇建立了强化营地，并且洗劫了那里。我们的国王阿尔弗雷德和艾弗德调集了维坦要塞的民兵去攻打在雷丁镇的丹麦人，但是他们击退了我们。现在他们在阿先顿聚集军队准备再去打丹麦人！愿上帝保佑我们，我们会动用所有民兵去对抗丹麦人！如果我们输了，西撒克逊就会和英格兰剩下的地方一样失陷了！^^郡长艾弗德告诉我要特别提醒你一下，牛颈斯温就在哈弗丹的队伍里头。”
+qstr_You_met_Orm_the_Blac|你与黑人奥姆决斗并且杀了他。
+qstr_Your_party_has_gaine|你的部队士气增加了。
+qstr_You_met_{s1}_in_sing|你与{s1}决斗并且赢了。
+qstr_This_warrior|这个战士
+qstr_The_enemy_party_has_|敌人的部队丧失了士气。
+qstr_You_met_{s1}_in_singl|你与{s1}决斗，但是输了。
+qstr_Your_party_has_lost_|你的部队士气低落。
+qstr_The_low_morale_of_yo|由于你的部队士气低落，一些人企图推翻你的领导。其中一名战士不小心说漏了嘴，你听到了这些。事情暴露以后，战士们公开辱骂你，向你提出决斗挑战，希望借此夺权……一场关乎生死的决斗。
+qstr_The_problems_of_mora|你部队中的士气问题导致一名战士准备自己取代你的位置。他向你提出死亡决斗挑战。
+qstr_Morale_is_so_low_a_w|士气过于低下，一个战士在你走近他的时候侮辱了你，指责你不是个称职的领袖。然后他向你发起决斗。胜者将取代你现在的位置。
+qstr_The_Assembly_has_tak|议事会接受了你的案件。你必须尽快赶去{s3}附近的议事会，以免他们决定对抗你。
+qstr_Note_Reginhard:_Regin|雷因哈德的笔记：雷因哈德在议事会上背叛了你，因此你不得不在一场由议事会主持的决斗中杀了他。最后你将埃吉尔赶走了，因为他的他的傲慢和不敬冒犯了你。
+qstr_Note_Egil:_Reginhard_be|埃吉尔的笔记：雷因哈德在议事会上背叛了你，但你饶了他一命。不管怎样，埃吉尔并不认同你的做法。因此你不得不在一场你死我活的决斗中杀死了他。^你原谅了雷因哈德的背叛行为，并让他继续留在你的团队。
+qstr_The_holmgang_is_over|决斗结束了。是时候去{s3}见见阿斯比恩了。
+qstr_You_remember_that_yo|你记得要带着拉格纳的刀子才能进行任务。
+qstr_Before_you_left_for_|在你离去前往法兰克之前，有人派信使告诉你他会在一个叫野猪林的地方与你会面，就在{s3}的修道院附近。你得在那里找到伐木工的屋子。
+qstr_Through_the_trees_yo|树林之中你勉强看到了一间小屋。树林在风的吹动下发出平柔的飒飒声，鸟儿也在吟唱，但你不见一人。
+qstr_Through_the_trees_you|树林之中你勉强看到了一间小屋，这是你和贝达会面的地方，现在这里空无一人。
+qstr_You_arrive_at_a_deep|你到了森林深处。
+qstr_Through_the_trees_you_|树林之中你勉强看到了一间小屋。在你杀了住在这里的老英雄之后，这里成为无主之地了。
+qstr_You_stay_hidden_watc|你保持隐蔽，观察着远处的营地，躲避撒克逊人的警戒和巡逻。
+qstr_You_stay_hidden_watch|你保持隐蔽，观察着远处的营地，躲避丹麦人的警戒和巡逻。
+qstr_Aelfred_gives_the_or|艾弗德发出了命令，号角声召集了营地外的人们。你在外面跟着西撒克逊国王的兄弟，他的兵士组成了线阵。军官领着他们就位。^^这儿如死一般的寂静，沉寂之中弥漫着紧张和担忧。撒克逊战士知道西撒克逊的命运悬于一线。一旦他们失败了，丹麦人就会势如破竹，洗劫他们的家园，奴役他们的家人。
+qstr_Halfdan_gives_the_or|哈弗丹发出了命令，号角声召集了营地外的人们。你在外面跟着拉格纳之子，他的兵士组成了线阵。军官领着他们就位。^^丹麦战士一个个生龙活虎，有的甚至开起了玩笑，他们为近期的胜利所激励。但是当哈弗丹到了他们面前时，一切归于沉寂。
+qstr_West_Seaxe|西撒克逊人
+qstr_Danish|丹麦人
+qstr_You_notice_that_Aelf|你注意到艾弗德朝你走来。当丹麦人企图占领山丘时，是他的冲锋挽回了局势。如果不是这点，恐怕你现在已经是一具死尸了……
+qstr_Halfdan_walks_toward|哈弗丹朝你走来。你看到他全身都是血，但他仍笑着。他知道如果没有你和你的军队，他可能会输了那场战斗。
+qstr_Your_followers_decid|你的追随者决定离开你。
+qstr_You_chose_to_dispers|你决定解散你的追随者。
+qstr_You_notice_that_a_gr|你注意到一群人朝你走来。为首的是一个高个子。那一定就是艾弗德提到过的艾德里克了。
+qstr_You_notice_that_a_gro|你注意到一群人朝你走来。为首的是一个高个子。那一定就是哈弗丹提到过的安维德了。
+qstr_You_aren_t_ready_to_|你没有准备好面对斯温。撤退时，有超过一百人在你的盾墙中。
+qstr_The_abbot_of_Finian_n|菲尼安修道院的神父，埃里尤附近的{s3}，请求你的会面。很显然，他有一个重要的任务需要你帮忙。只要你出现在他面前，就会给你1000先令。
+qstr_The_other_two_champi|另外两个护卫跟随莫莉卡到她的巢穴并且派信使告诉你他们在哪里。他们在攻击前等待你的到来。马上去莫莉卡的巢穴。
+qstr_Near_the_end_of_the_|在世界的尽头，海浪拍打着峭壁和信天翁的巢，有一个小山谷，从远处隐约可见。有一个隐藏的山洞，你找不到它;莫莉卡的歌在你的脑海中产生了共鸣，你觉得你的嘴唇在张开。它在呼吸魔法…^^在洞穴不远处有一半被岩石挡住，你可以区分出两个护卫和一些士兵，他们似乎已经离开他们的军队隐藏在别的地方，以免吸引注意力。他们在等待。^^但当你靠近他们的时候，歌声更加嘹亮，不是在你的脑海里....莫莉卡的野兽开始攻击你了！
+qstr_The_battle_was_tough|这场战斗是艰难的，把你逼向附近的山谷。你的士兵留下来作为掩护。因为他们意识到在狭窄的山谷里是发挥不了人数优势的。在莫莉卡部队重组之前，是时候寻求另一个领主的支持了。
+qstr_The_mystery_of_Morri|神秘的莫莉卡已经被解决了，雾看起来开始消散了，世界又恢复了原来的样貌。你离开了洞穴。
+qstr_Mael_Bresail_s_farm_|普雷西尔王子的农场主要是典型的爱尔兰农舍— — 一个大房子周围有很多小的建筑，所有建筑都用栅栏包围。
+qstr_You_settle_into_the_|你坐在大厅的最荣耀之处。来自弗朗基最好的蜜酒和葡萄酒，美味的菜肴，让房间充满香味，取悦你的味蕾。这是你此生最享受的时刻，你的士兵也很享受，他们看起来很快乐。^^忽然，你意识到所有的女人都离开了房间，发生了什么？强烈的烟味刺激着你的鼻子，你在房子的墙上看到了火。有人大喊，“着火了！”。警报已经响起，但当你的一个士兵跑向门口时却发现门被反锁了。^^普雷西尔王子已经出卖了你，他要烧死你。如果你不马上找到出路，大家都得完蛋，令人窒息的烟雾和熊熊燃烧的大火。
+qstr_You_have_managed_to_|你虽逃过普雷西尔王子设的火陷阱，但你仍然不够安全…
+qstr_Mael_Bresail_had_bet|普雷西尔王子背叛了你，但你逃离了他的火焰大厅，击败了想要杀你的人。现在，这个地方只会带来不好的回忆。
+qstr_Part_of_your_food_wa|你的部分食物坏掉了。
+qstr_Your_men_think_that_you_are_a_s|你的手下认为你是个强力的领导者。
+qstr_While_your_messenger|当你的信使试图和敌人的突袭队交涉时，你的一队人马碰巧出现了，一场战斗开始了。你的士兵试图消灭突袭者从而解决问题，但代价是失去了一些战士。
+qstr_The_enemy_raiders_ac|敌人的突袭队接受了交易，拿走了钱并承诺在接下来几周内不会攻击你的补给队。
+qstr_The_raiders_take_the|敌人的突袭队收下了钱，却杀死了信使，继续骚扰你的补给线。
+qstr_You_don_t_have_enough_s|你没有足够的钱。你命令定量配给水，同时挖井。
+qstr_the_enemy_thinks_rei|敌人认为增援马上就要到了。
+qstr_fear_and_discontent_|里面弥漫着恐惧和不满。
+qstr_he_likes_the_wife_of|他喜欢他前任主人的妻子，如果你承诺在战胜后把她交给他，他就会为你作战。
+qstr_the_enemy_s_morale_i|敌人士气低落，我们应该进攻了。
+qstr_wergild_is_paid.|赎金已付。
+qstr_The_wergild_is_paid_|赎金已付，你的战士精神焕发。
+qstr_Your_men_think_you_r|你的人觉得你没有良心，并感到害怕。
+qstr_You_feel_happy.|你感到快乐。
+qstr_You_feel_good_for_he|帮助别人让你感觉良好。
+qstr_New_troops_join_your|新的士兵加入了你的队伍。
+qstr_The_bandits_leave_an|土匪气愤地离开了。
+qstr_Your_men_kill_all_th|你的士兵杀了所有匪徒。
+qstr_At_night_some_of_you|你的一些士兵在晚上和妓女一起私奔了。
+qstr_Your_enemies_appreci|你的敌人欣赏你的怜悯之举。也许这会对你协商他们的投降事宜会有帮助。
+qstr_You_know_that_in_the|你知道接下来的日子无数孩子、女人、老人都会因饥饿而死在你面前。
+qstr_Your_officer_seems_u|你的官员看起来有些沮丧。
+qstr_Your_men_think_that_you_are_a_v|你的人认为你是个强力的领导者。
+qstr_Your_officer_seems_h|你的官员看起来挺高兴。
+qstr_The_wife_is_pregnant|这个女人是个孕妇，官员请求高额赔偿，这样就可以免除谣言和麻烦，你照做了。
+qstr_{s1}_of_the_{s2}.|{s2}的{s1} 
+qstr_A_messenger_approach|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。你的建议被{s11}接受了，而且{s10}已经被释放了。”
+qstr_A_messenger_approache|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。你的建议没有被{s11}接受，而{s10}依然在俘虏中。你的赎金被退还了。”
+qstr_A_messenger_approaches|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}将会尽快与你会合并跟随你的队伍。”
+qstr_A_messenger_approaches_|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}说你不是对他发号施令的人。”
+qstr_A_messenger_approaches_g|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}说此事不妥，你无权发号施令。”
+qstr_A_messenger_approaches_ga|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}有要事在身，不能听从你的命令。”
+qstr_A_messenger_approaches_gal|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}有要事在身，不能听从你的命令。”
+qstr_A_messenger_approaches_gall|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}会尽快赶到{s10}驻扎。”
+qstr_A_messenger_approaches_gallo|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}会尽快赶到{s10}附近巡逻。”
+qstr_A_messenger_approaches_gallop|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}会尽快赶到{s10}附近巡逻。”
+qstr_A_messenger_approaches_gallopi|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}会尽快包围{s10} 。”
+qstr_A_messenger_approaches_gallopin|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}说你不是对他发号施令的人。”
+qstr_A_messenger_approaches_galloping|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}说此事不妥，你无权发号施令。”
+qstr_A_messenger_approaches_galloping.|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}正在忙碌没有回复我。他的手下拿着武器赶我离开。”
+qstr_A_messenger_approaches_galloping._|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}因你的侮辱而吃惊，特别是你们两人之间并无龃龉。他说这次可以忽略不计，请勿再犯。”
+qstr_A_messenger_approaches_galloping._H|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}被你的侮辱所震惊，正火冒三丈。他在集结人马，我想他很快就会朝你进军。”
+qstr_A_messenger_approaches_galloping._He|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}对你的挑衅不为所动。他不希望浪费自己的时间在你身上。”
+qstr_A_messenger_approaches_galloping._He_|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}对你的挑衅不为所动，但他向你回敬了一段文绉绉的言辞。他还说如果你缺乏直接面对他的勇气，他很乐意给你一点帮助。”
+qstr_A_messenger_approaches_galloping._He_s|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}正在忙碌没有回复我。然而，他的手下瓜分了你送去的礼物，并威胁说如果我坚持传达信息，就要取我性命。”
+qstr_A_messenger_approaches_galloping._He_st|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}对你的礼物十分感谢，并会以你名义举行下一次的盛宴。”
+qstr_A_messenger_approaches_galloping._He_sto|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}拿过你的礼物并交给了他的手下，说这是一个懦夫的贡品。他的回复是由于你们之间的过节，他将是你永远的敌人。”
+qstr_A_messenger_approaches_galloping._He_stop|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}对你有意改善关系的表现感到鼓舞。即使还有许多尚待解决的问题，但这是一个好开始，他接受了你的礼物。”
+qstr_A_messenger_approaches_galloping._He_stops|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}并没有接受礼物，但他的手下在我回来时截住我了。抱歉，我丢了那些礼物。”
+qstr_A_messenger_approaches_galloping._He_stops_|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}没有接见我，并说他很忙，也不愿意跟我这样的卑微信使见面。”
+qstr_A_messenger_approaches_galloping._He_stops_i|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}接受了你的结盟提议。从现在开始，{s2}就是你的盟友了。”
+qstr_A_messenger_approaches_galloping._He_stops_in|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}接受了你的停战协议。从现在开始，{s2}与你暂时保持和平。”
+qstr_A_messenger_approaches_galloping._He_stops_in_|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}对你的宣战并不感到意外，说这是因为你是一个不可相信的渣滓。^^从现在开始，{s2}与你处于敌对状态。”
+qstr_A_messenger_approaches_galloping._He_stops_in_f|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}被你挑起战争的意欲激怒了，并发誓要将你的恶行广而告之。^^从现在开始，{s2}与你处于敌对状态。”
+qstr_A_messenger_approaches_galloping._He_stops_in_fr|一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^ “给你的回信来了。{s9}被你的宣战激怒了。他称你为无耻小人，并说你将恶有恶报。^^从现在开始，{s2}与你处于敌对状态。”
+qstr_The_other_man_is_not|另一个人很不高兴，并在你离开后大发牢骚，散布对你不利的谣言。
+qstr_Neither_man_is_happy|没有人显得高兴或不高兴。你好像达到了一种平衡。
+qstr_The_two_men_are_not_|这两个人很不高兴，并在你离开后大发牢骚，散布对你不利的谣言。
+qstr_People_in_{s4}_think|在{s4}的人们认为你难以履行保护他们家人免遭暴力威胁的承诺。传言说你是一个不合格的{reg59?女士:领主} 。
+qstr_People_in_{s4}_think_|在{s4}的人们认为你难以履行保护他们家人的承诺，因为那名信使未被惩罚。传言说你是不义之人。
+qstr_People_in_{s4}_think_t|在{s4}的人们认为你难以履行保护他们家人的承诺，因为那名信使未被惩罚，但至少他们自己的同胞也没有被惩罚。尽管如此，你的手下对你的慷概大度并不理解。
+qstr_People_in_{s4}_think_th|在{s4}的人们认为你能够履行保护他们家人的承诺，他们看来很高兴。尽管如此，你的手下对你即将杀死自己同伴的决定并不高兴。
+qstr_The_local_leader_is_|当地的首领对你感到失望，并向{s4}的上层人物说你的坏话。
+qstr_People_in_{s4}_are_s|在{s4}的人们对你的严厉措施感到意外，而且每个人看来都更愿意听从你的规则。
+qstr_Farmers_in_{s4}_are_|在{s4}的农民们对自己的女儿更加着紧，因为你恃强凌弱的表现。
+qstr_Farmers_in_{s4}_are_r|在{s4}的农民们在你付账之后消除了疑虑，通识当地首领对自己不被惩罚感到高兴。
+qstr_The_outcome_of_the_t|在{s4}的人们被审判的结果极大的震惊了，而且他们开始质疑你的权力。
+qstr_Your_men_think_you_re|你的手下认为你是一个软弱的领导，容易受人操纵。
+qstr_Your_men_seem_uncomf|你的手下看来很不舒服，有一些人离开了你。你应该尽快提升余下部队的士气。
+qstr_Your_men_seem_uncomfo|你的手下看来很不舒服，但没有人口出怨言。看来你拥有相当的威望，但应该尽力提升士气。
+qstr_Your_men_seem_uncomfor|你的手下看起来不太舒服，你应该在下次休息时尽快提高士气。
+qstr_Eventually_the_man_d|你的士兵为了逼迫这个人缴税，最终将他折磨致死。他的遗言是：“我在天国的孩子啊，你们在哪里，我要来了。”整个城市因他的死亡而震动，许多在{s4}的人们对你大发牢骚。
+qstr_The_man_seems_calmed|这个男人被你的言辞所说服。你在他的眼中看到了无尽的悲哀，但他承诺会为了自己逝去的孩子们缴纳税款。
+qstr_Your_renown_with_you|你在手下中的威望以及自己的钱包大大受损，但是在{s4}的人们看来对你的赐予非常高兴。
+qstr_Your_men_push_the_cr|你的手下推开聚拢的人群，并伤害了其中的一些人。突然之间，人们奋起反抗，并在被驱散前对你的队伍造成了伤亡。
+qstr_You_run_through_the_|人群还在继续乞求钱财，即使他们也在痛骂你为懦夫和守财奴，这时你从后门溜走了。
+qstr_People_think_the_mea|人们认为这一措施是合理的． 
+qstr_The_tree_owner_is_no|树的主人很不高兴，并在你离开后大发牢骚，散布对你不利的谣言。
+qstr_The_man_who_cut_the_|砍树的人很不高兴，并在你离开后大发牢骚，散布对你不利的谣言。
+qstr_People_in_{s4}_are_h|在{s4}的人们对你的有求必应而倍感振奋。
+qstr_People_in_{s4}_are_u|在{s4}的人们很不高兴，因为你没有回应他们的诉求。
+qstr_People_in_{s4}_appre|在{s4}的人们感谢你的帮助，他们还希望得到更多。
+qstr_Although_the_local_l|尽管你在{s4}得到了当地的首领的支持，你的手下还是认为让那个男孩留下是一件不光彩的事情。
+qstr_Although_the_local_le|尽管当地首领向你付了一个好价钱，你的手下还是认为让那个男孩留下是一件不光彩的事情。
+qstr_The_local_leader_lev|当地首领利用自己的地位减损了你的影响力，作为对你不接纳他儿子的一种惩罚。
+qstr_During_the_night_at_|在晚上欢歌热舞的仪式中，那个女孩被作为对众神的祭品而活活烧死。
+qstr_People_superstitious|迷信的人们对你非常愤怒。一段时间后你发现另一个女孩被献祭了。
+qstr_The_physician_you_se|你送去的医师设法挽救了一些人的性命，成功阻止了瘟疫的传播。
+qstr_The_epidemic_wipes_o|这场瘟疫吞噬了这座村庄的所有性命。尽管你的措施阻止了瘟疫的向外传播，但是许多人失去了住在当地的亲人。传言说你是一个杀人凶手。
+qstr_{s4}_is_a_Christian_|{s4}是一个信奉基督教的地方，所有人都很快服从了你的命令。不知怎地，你的祈祷看来奏效了，那个女孩和那个孩子都存活下来了。
+qstr_{s4}_is_a_pagan_sett|{s4}是一个信奉多神教的地方，没有人服从你的命令。看来你的祈祷是多此一举，因为那个女孩和那个孩子都存活下来了。
+qstr_{s4}_is_a_Christian_s|{s4}是一个信奉基督教的地方，没有人服从你的命令。看来向女神的祈祷多此一举，因为那个女孩和那个孩子都存活下来了。
+qstr_{s4}_is_a_pagan_settl|{s4}是一个信奉多神教的地方，所有人都很快服从了你的命令。不知怎地，看来女神的眷顾让那个女孩和那个孩子都存活下来了。
+qstr_Your_men_are_happy_t|你对你的手下的福利表现出关注，因此他们都显得高兴，特别是当他们愿意为你而牺牲自己的时候。
+qstr_The_sum_is_enough_fo|这笔钱足够让当地的领主履行自己的职责，但是称不上慷慨。他对你表示感谢，但并不十分高兴。
+qstr_Your_men_are_angry_t|因为你没有支持一个花费自己钱财服务于你的人，你的手下显得愤怒。他们担心你的吝啬将会对自己造成影响。
+qstr_The_rumor_that_you_r|传言说因为你拒绝购买那件遗物，所以那些信徒在诅咒你的名字。
+qstr_The_monk_is_removed_|这个僧侣在被赶走时面带愤懑。在{s4}的居民因为你尊重了他们的信仰而感到高兴。
+qstr_The_relic_causes_a_s|这件遗物在信徒之中引起一阵骚动，他们纷纷前来围观，并赞颂你的慷慨。
+qstr_The_monk_is_happy_to|这个僧侣高兴地利用这件遗物，向{s4}的异教徒传教布道。而在另一边，那些信仰多神教的人在诅咒你的名字。
+qstr_The_rich_woman_s_hus|这个贵妇人的丈夫，刚好是{s4}的一名贵族，他对你非常愤怒，并在破坏你的名声。
+qstr_The_poor_people_in_{|在{s4}的人们对你表示愤懑，因为你将孩子判给贵妇人的决定并非出于公正。
+qstr_Everyone_in_{s4}_thi|在{s4}的所有人都认为你找到了孩子的真正母亲这一举动是明智而正义的，而且你惩罚了那个妄图收买你的骗子。
+qstr_The_crowd_kills_the_|围观的人群杀死了贵妇人。这个贵妇人的丈夫，刚好是{s4}的一名贵族，他对你非常愤怒，并在破坏你的名声。
+qstr_The_poor_people_in_{s|在{s4}的穷人们对你表示愤懑，因为你将孩子判给贵妇人的决定并非出于公正。骚乱演变成暴力冲突，许多市民在战斗中被杀死，而你也损失了一些人手。
+qstr_The_people_of_{s4}_d|在{s4}的人们不愿意让自己的孩子因为你的苛捐重税而挨饿，决定公开反对你。
+qstr_The_people_of_{s4}_a|在{s4}的人们对你的雪中送炭非常感激。
+qstr_The_people_of_{s4}_ar|在{s4}的人们因为你的铁石心肠而表示愤怒。
+qstr_The_people_of_{s4}_t|在{s4}的人们认为这不过是今天吃饱明天挨饿，但他们觉得这是不可避免的。
+qstr_The_witch_leaves_the|女巫离开了，让这座城镇面对未知的命运。
+qstr_The_witch_appreciate|女巫欣赏你的自信，并让她礼拜旧神的工作公之于众。
+qstr_The_witch_hunt_costs|追捕女巫的行动导致一些无辜的人丧命，让人们感到不安。
+qstr_{s4}_is_a_Christian_se|{s4}是一个信奉基督教的地方，所以最终你的命令得到了服从。
+qstr_{s4}_is_a_pagan_settle|{s4}是一个信奉多神教的地方，所以当这棵树被砍到时你引起了人们的愤怒。
+qstr_{s4}_is_a_Christian_set|{s4}是一个信奉基督教的地方，杀害传教士和他的随从的行为震动了当地的人们。他们非常惧怕你。
+qstr_{s4}_is_a_pagan_settlem|{s4}是一个信奉多神教的地方，杀害传教士和他的随从的行为得到了当地人的支持。不久之后，你听说那名传教士被追封为圣肯德贝尔。
+qstr_The_missionary_and_h|传教士和他的随从在你的队伍护卫下离开了{s4} ，他们并没有大惊小怪。
+qstr_Your_men_appreciate_|你的手下很感激你对他们家人的照顾。
+qstr_Your_men_are_unhappy|你的手下并不高兴，因为你对他们的家人毫不关心。
+qstr_Your_men_are_unhappy_|你的士兵不高兴因为你不照顾他们的寡妇，但马上他们理解你身无分文。
+qstr_Your_men_are_upset_t|你的手下十分沮丧，因为你将不会在他们牺牲后照顾他们的家人。
+qstr_Your_men_are_happy_to|你的手下倍感安慰，因为你对他们的家人表示关心。
+qstr_Your_men_are_very_ha|你的手下倍感安慰，因为你保护了他们的家人。
+qstr_Your_followers_feel_|你的手下认为你将不惜代价保护他们，但在{s4}的人们对你的决定并不高兴。他们在你离开后大发牢骚，散布不利于你的谣言。
+qstr_Your_followers_feel_t|你的手下认为你难以完全保护他们，但在{s4}的人们对你的决定感到满意。传言说你是一个公正的人。
+qstr_Your_followers_feel_th|你的手下认为你难以完全保护他们，在{s4}的人们对你的决定并不高兴。他们在你离开后大发牢骚，散布不利于你的谣言。
+qstr_To_arms!_Some_citize|拿起武器！一些市民正要反抗并尝试杀死你！
+qstr_Your_men_charge_down|你的士兵冲向街头，使用最小程度的暴力，为他们倒下的同伴报复。当{s4}的市民们纷纷逃回家中躲藏起来后，一场大屠杀接踵而至。
+qstr_Your_men_are_very_an|因为你对杀死自己手下的凶手没有采取行动，所以同伴们都非常愤怒。在{s4}的当地首领试图平复人们对你的仇恨。
+qstr_Mercilessly_your_men|你的士兵无情地杀死所有拦在面前的人，然后闯进民居里，处决所有十四岁以上的男人。你残酷的名声风一般传遍了各地，人们对你噤若寒蝉。现在{s4}成为了一座空城，付出的代价空前高昂。
+qstr_Your_men_return_with|你的士兵带着300 先令和两个幸存者回来了。
+qstr_A_messenger_sent_fro|一名来自{s12}的使者携着银子和珠宝而来，这是对你的友谊的馈赠。
+qstr_A_messenger_sent_from|一名来自{s12}的信使带着各种侮辱和亵渎而来，请你壮起胆子前来{s12}探访。但{s12}相信你不敢，因为你是一个臭名昭著的懦夫。
+qstr_Your_fame_grows_with|你的名声随着吟游诗人的颂唱而远扬，但很快他就把你的名字换成另一个出价更高的领主。
+qstr_Your_fame_grows_high|你的名声随着吟游诗人的颂唱而远扬。
+qstr_Beggars_everywhere_b|各地的乞丐在你路过时欢呼着你的名字，并赞颂你的慷慨大方。
+qstr_Beggars_soon_tire_of|乞丐们很快就厌倦了跟随你的队伍。
+qstr_You_laugh_to_see_how|当看见这些老不死的家伙能跑得多快时，你捧腹大笑。
+qstr_The_young_noble_pref|年轻的贵族们宁可速速逃离，而不敢与你决斗！
+qstr_The_word_spreads_tha|传闻说侮辱你和你的名声简直易如反掌！
+qstr_The_woman_and_her_hu|这对夫妻对你的慷慨十分感激！
+qstr_Other_men_join_in_an|其他人加入进来，开始帮助他们的家人。
+qstr_The_rumors_hurt_your|这些传闻对你的名声略微有损，但很快这个商人已经对此厌倦了。
+qstr_The_man_accepts_the_|这个人收了你的钱财，不再传播谣言了。
+qstr_A_new_rumor_that_you|当这个商人死后，有新的传闻说你是一名杀人凶手和暴君。
+qstr_The_animal_runs_free|这头动物头也不回地逃跑了。
+qstr_You_increase_your_me|你改善了队伍的伙食。
+qstr_Three_veterans_join_|三名老兵加入了你的队伍。
+qstr_The_veterans_leave_d|这些老兵离开了，并在背后中伤你。
+qstr_Among_the_bodies_you|在这些尸体身上，你的手下找到了1000 先令。
+qstr_A_group_of_six_women|这六个女人加入了你的队伍。
+qstr_The_crane_was_a_symb|鹤是古代凯尔特人的战争标志。你的手下对你的博学印象深刻，并因为众神的眷顾而倍感振奋。
+qstr_Your_men_pass_by_the|你的手下路过了这只鸟儿，根本没有注意到它。
+qstr_The_crane_was_a_symbo|鹤是古代凯尔特人的战争标志。士兵们被你的无知而感到担忧，开始怀疑你是否一名合格的领导者。
+qstr_Your_men_resent_the_|你的士兵对你的惩罚感到不满，但他们认可了你的权威。此举成为了纪律的训诫。
+qstr_Offended_by_your_con|因为你对这名农夫的请求不屑一顾，他在离开后四处散布传言说你是一个恶霸。
+qstr_You_spend_time_with_|你与牧师的妻子共度良宵，当她的丈夫回来时，你安全地藏到了马厩！
+qstr_Three_Hirdmenn_join_|三名佣兵加入了你的队伍！
+qstr_The_man_s_eyes_sadly|当你扬长而去时，这个人一直悲哀地看着你。
+qstr_You_feel_good_for_hel|你在帮助了他后感觉良好。
+qstr_When_you_give_him_ar|当你给他提供了装备和食物后，他向你证明了自己是一名强大的武士。
+qstr_The_bandits_turn_awa|这些土匪转头离开，满带失望。
+qstr_After_two_hours_the_|两个小时后，这些土匪带着某人的头颅和战利品回来了… 
+qstr_On_the_remains_of_a_|除了这具骨骸，剩下的是一位国王的佩剑和护甲。一旦除去表面的锈蚀，这些都是极佳的装备— — 只要你不介意背负盗墓贼的坏运气。
+qstr_Someday_perhaps_you_|可能在某一天，你也会像一位国王那样风光大葬。
+qstr_Meat_is_a_welcome_ad|你的士兵总是对增加伙食里的荤菜表示欢迎。
+qstr_Two_berserkir_join_y|两个熊皮狂战士加入你的军队！
+qstr_Two_ulfhednar_join_y|两个狼皮狂战士加入你的军队！
+qstr_Your_men_gather_arou|你的士兵聚在一起欢呼和赌博。突然你周围的士兵开始更加普遍的起了争执，一些人拿起了武器，并且开始了战斗。在你喝令他们之前，有一些人死了。
+qstr_Your_reputation_incr|你的声誉会增加你的士兵当你回到路上，留下两个尸体挂在树上。
+qstr_Your_men_complain_of|你的士兵抱怨无法享受良好的战斗，有些喝醉的在互相攻击。
+qstr_The_merchant_takes_t|商人给了你钱和一个裹着长布的包裹。当你打开它，发现他已经卖给你一把普通的剑，商人已经走得远远的了。
+qstr_The_merchant_takes_h|商人带着货物离开并且回到了他来时的路。
+qstr_Your_men_attack_the_|你的士兵袭击了农场，杀死农夫和他的奴隶，并且带回了丰富的食物。
+qstr_Your_men_think_you_re_|你的士兵认为你是一个软弱的领导人无法对侮辱他的人采取行动。
+qstr_The_men_take_the_mon|男人给你钱，让你走。
+qstr_Without_warning_you_|没有警告，你命令你的人攻击。两个陌生人试图逃跑，但被你的战士杀死。没有人来保护他们。
+qstr_The_two_men_move_asi|两个人被除去当你忽视他们并且继续你的旅途的时候，没人攻击你的军队。这一切都是谎言。
+qstr_The_scout_who_has_st|侦察员，一个偷钱的家伙，在传播谣言你是贪婪的。
+qstr_The_scout_hides_his_|没有任何人知道童子军隐藏的宝藏。
+qstr_The_distribution_of_|派发钱给士兵让他们感到幸福，他们认为你是个公平的领导者
+qstr_The_men_head_home_di|士兵失望的回家了。
+qstr_The_farmers_give_you|农民感谢你，并承诺之后下一个孩子的名字将会有你。
+qstr_The_farmers_give_you_|农民感谢你，他们似乎松了一口气，非常高兴。
+qstr_The_farmers_thank_yo|农民们谢谢你。也许他们的主会了解情况。
+qstr_The_farmers_thank_you|农民们谢谢你，虽然他们不满意你的顾问。它将花费很多东西为孩子过下一个冬天的生活。
+qstr_She_thanks_you_and_h|她感谢你，并且向最近的城镇出发。
+qstr_She_thanks_you_profu|她再三感谢你并且返回自己的村庄，从折磨中脱离她看起来有点虚弱。
+qstr_The_days_get_longer_|白天逐渐增长，寒冬慢慢褪去。绿叶正在重新覆盖树冠。
+qstr_The_sun_greets_you_e|清晨时，阳光向你问候；深夜里，月亮伴你入眠。
+qstr_As_nature_becomes_a_|当自然界的色彩日渐丰富，人们开始为过冬囤积物资。
+qstr_The_night_steals_fro|夜晚窃取了白天的时光，逐渐增长，此时寒霜开始让老弱者感到不安。
+qstr_Temporary_quarters_a|临时宿舍不是一个好地方来关押囚犯。{reg1}犯人逃脱了。
+qstr_You_have_become_a_be|你成为了狂战士。在战场上进入狂暴状态后，你的速度和力量将大幅增加，同时你的视线将变得通红。（按T来增加你的强击）
+qstr_Your_studies_in_poet|你在诗歌和文学方面的学习卓有成效。这项新习得的技能将在战斗中提高你的领导力，而你的战吼会提高士兵们的士气。（按T发起战吼）
+qstr_The_exhausting_athle|你对士兵们筋疲力竭的体能训练让他们变得强壮了，他们将在战场上更加灵活。现在盾嘲这个技能将展现出他们出色的灵敏性。（按T发起盾嘲）
+qstr_Your_incessant_conce|你对士兵们在使用盾牌这方面的训练让他们的防御更加出色，敌人难以伤害他们。盾嘲将展现他们铁骨技能的提升。（按T发起盾嘲）
+qstr_On_this_day_the_fore|今天，工头甚至支付不起工资，所以他用部分货物抵押了工资。
+qstr_However_on_this_day_|但是，你从今天的工作中学到了些新知识。
+qstr_However_on_this_day_y|但是，你这天做了很多工作，得到了双倍的报酬。
+qstr_However_you_befriend|但是，你帮助了一些来自{s2} 的工人。
+qstr_One_lord_can_disemba|一位领主可以与你在这里一起下船。
+qstr_{reg1}_lords_can_dis|有{reg1} 个首领能和你一起登陆。
+qstr_One_lord_will_lose_t|一个首领会在下个港口登陆并跟随你的踪迹与你会合。
+qstr_{reg1}_lords_will_lo|有{reg1} 个首领会在下个港口登陆并跟随你的踪迹与你会合。
+qstr_One_lord_can_embark_|在你旁边有个首领能和你一起登陆。
+qstr_{reg1}_lords_can_emb|有{reg1} 个首领能和你一起登陆。
+qstr_One_lord_will_lose_tr|一个首领会在下个港口登陆并跟随你的踪迹与你会合。
+qstr_{reg1}_lords_will_los|有{reg1} 个首领会在下个港口登陆并跟随你的踪迹与你会合。
+qstr_You_need_to_get_the_p|当你获得村长的许可后才能在这里招募。
+qstr_a_lone_boar|落单的野猪
+qstr_a_herd_of_{reg6}_boa|{reg6} 只野猪
+qstr_a_herd_of_{reg6}_wil|{reg6} 只野生动物
+qstr_You_successfully_hun|你成功猎到了{reg6} 头野猪。
+qstr_You_have_lost_track_|你跟丢了那些动物。
+qstr_Choose_a_Goal^^^^{s1|选择一个目标^^^^{s1}
+qstr_Congratulations!^^^^|恭喜！^^^^{s1}
+qstr_You_have_obtained_th|你得到监狱的钥匙。
+qstr_You_killed_the_ghost|你杀死了幽灵。
+qstr_You_are_so_tired_you|你实在是太累了，简直无法挪动你的步子。你造成的伤害减半，并且无法奔跑。
+qstr_You_take_1_damage_fr|由于流血受到1点伤害。
+qstr_You_have_received_{reg|你的头部受到了{reg5}点暴击伤害并且暂时失去了视力！
+qstr_You_have_received_{reg5|你的身体受到了{reg5}点暴击伤害！
+qstr_You_have_caused_{reg|你造成了额外的{reg5}点暴击伤害！
+qstr_You_have_caused_{reg5|你从敌人的背后袭击，造成了额外的{reg5}点暴击伤害！
+qstr_You_have_received_{reg5}|背部受袭，受到{reg5}点暴击伤害！
+qstr_You_suffer_a_serious|你的脸上留了一道疤。（-1 魅力）
+qstr_You_suffer_a_serious_|你的腿受了很严重的伤。（-1 敏捷）
+qstr_You_suffer_a_serious_i|你的身体受了很严重的伤。（-1 力量）
+qstr_Your_weapon_was_dama|你的武器损坏了。
+qstr_Your_weapon_broke!|你的武器断了！
+qstr_Your_{s1}_was_damage|你的{s1} 受到了伤害！
+qstr_{s33}_changes_weapon|{s33} 更换了武器。
+qstr_You_call_your_horse.|唤马...
+qstr_We_lost_a_quarter_of|我们很快就损失了四分之一的人手，士兵们的心中充满了恐惧！
+qstr_Half_of_our_army_has|我们很快就损失了一半的人马，士兵们陷入了恐慌之中！
+qstr_The_enemy_lost_a_qua|敌人四分之一的兵力很快就被我方歼灭！敌人的士兵现在十分恐惧！
+qstr_Half_of_the_enemy_ar|我方很快就杀掉了一半的敌军！敌人陷入了恐慌！
+qstr_You_fall_and_your_tr|你倒下了，你的队伍陷入了恐慌！
+qstr_Our_side_lost_a_lead|我们失去了一位首领，士兵陷入了慌乱！
+qstr_The_enemy_lost_a_lea|敌人失去了首领，他们现在乱作一团！
+qstr__{reg3}| {reg3}
+qstr_You_have_fallen.__Pr|你被击倒了。（按Tab键离开）
+qstr_Scout_report:_We_ve_|侦察兵报告：我们到达了一处古代遗迹— — 一排排的巨石— — 不过真正的障碍是在小溪另一侧列阵的敌军。^^你的回复：一排排的石头？那么正好，就用这些石头来当敌人的墓碑吧！
+qstr_Scout_report:_A_bog_|侦察兵报告：前方路上躺着一只狗，我们得保持谨慎。不要离开道路！^^一个士兵紧紧抓住你的袖子：前方树林里的东西是什么？这里暗藏着邪恶。
+qstr_While_exploring_an_a|当你们探索一处古罗马时期的要塞时，侦察兵提醒你说：指挥官，我们不能在此逗留了，敌人出现于小山的后方。您的命令是？
+qstr_Stretched_out_before|你目光所及之处伫立着曾经一度辉煌的城墙遗迹，敌人占据了它的另外一边。^^一个人在你身边小声嘀咕道：希望它们能保护我们而不是重蹈罗马人的覆辙。
+qstr_The_scout_returns_an|侦察兵返回并提醒你道：“侦察到敌军在村庄后方。村民们已经逃离了这里并且躲到了安全的地方— — 他们实在是深谙战争的恐怖。”^^ “我们也是啊，我们也是… ”，你喃喃道。
+qstr_Camera_follow_terrai|视角跟随地形模式打开。
+qstr_Camera_follow_terrain|视角跟随地形模式关闭。
+qstr_Camera_rotate_before|视角旋转打开。
+qstr_Camera_rotate_before_|视角旋转关闭。
+qstr_{s0}^^A_Battle_Comma|{s0}^^作战指挥通常是按{s1} 键。
+qstr_Strategy_Camera|战略视角
+qstr_Tactical_Controls|战术控制
+qstr_Death_Camera|死亡视角
+qstr_Division_Placement|部队编整
+qstr_Complex_Formations|复杂编队
+qstr_Formations_turned_OF|选项菜单的阵型关闭。
+qstr_Division_{reg1}_{s2}_g|队列{reg1} 的{s2} 去它的保存位置...
+qstr_Division_{reg1}_{s2}_f|队列{reg1} 的{s2} 排成一列( 保存) 。
+qstr_Division_{reg1}_{s2}_fo|队列{reg1} 的{s2} 排成{reg0} 列( 保存) 。
+qstr_ENEMY_LORD_FOUND!|发现敌方首领！
+qstr_{s1}_is_shouting_out|{s1}喊出他的战号！
+qstr_{s1}_is_starting_a_s|{s1}正在盾击！
+qstr_ENEMY_LORD_TRAIT_ACT|敌方首领开启了他的主技能。
+qstr_Spawned_{s13}|引起{s13}
+qstr_You_must_stay_behind|你必须原地站在线的后方！该点不算。
+qstr_All_around_you_unfol|神的世界在你的面前展开，祈祷和工作，那里的人们都穿着修道服，他们都忙着干活，有时候停下来仅仅是为了进餐，睡觉或祈祷。
+qstr_This_is_the_home_of_|这是北欧神的家，你可以背诵古老的诗词，作曲或者献祭神。如果你够幸运，神会聆听你的愿望并且实现它。
+qstr_{s0}^^{s1}|{s0}^^{s1}
+qstr_The_old_captain_is_t|你不是老船长的对手。你倒在了血泊之中，视线渐渐地模糊……
+qstr_The_old_captain_is_to|你不是老船长的对手。你躺倒在他的脚边，浑身伤痕— — 你之所以没有被杀，仅仅是因为他的怜悯。
+qstr_You_have_beaten_the_|你击败了老英雄，你的名字正要成为传奇。
+qstr_Today_is_a_good_day_|视死如归，就在今日。
+qstr_The_battle_against_t|对抗土匪的战斗是艰苦的，但是你们取得了胜利！通过搜寻他们在岩石之间挖出的洞，你找到了一些钱。
+qstr_You_have_killed_all_|你杀死了所有的维京人并且释放了所有的奴隶，这将给你带来荣耀和声望！
+qstr_You_look_up_and_see_|你发现这个村庄已经被维京人洗劫了，现在你是我们的新猎物了。
+qstr_After_a_hard_battle_|经过一场苦战，你击败了试图伏击你的维京人，现在他们的财物是你的了，但使你尤其高兴的是一些锁子甲。
+qstr_If_you_want_to_cross|如果你想过桥，必须付钱给巨人！
+qstr_The_troll_is_dead_at|巨人倒在了你的脚下，你可以将他从其他旅行者那儿敲诈的财物取走，还有他硕大的棒子。
+qstr_Come_closer_closer_c|靠近些，靠近些！我在这里，就在这里！这么久了我一直是孤身一人！来吧，赢得你的奖赏！
+qstr_The_voice_continues_|这把声音继续道：“噢，我不能无礼。终于有人来见我了，某个希望玩游戏赢奖品的人。”
+qstr_The_voice_seems_to_b|这把声音更近了：“你是谁？为什么来这里？你来这里拜访我这个为了逃避恐惧和侮辱而隐居于此的人吗？”
+qstr_A_voice_is_coming_fr|一个声音从废墟中的某处传来：“某个参观昔日废墟的游客吗？你肯定非常勇敢，因为其他人都害怕这里的幽灵。”
+qstr_Do_you_want_to_stop_|你想停止你的工作并且放弃你的付款？
+qstr_Your_own_life_seems_|你过得似乎没有那么糟糕— — 当你看到这些不幸的人正冒着死亡的危险工作着，目的仅仅是为了得到一小片仅够维持生存的面包。
+qstr_The_rattle_of_spikes|凿石声震耳欲聋。在下面，你可以看到人们在领班的监督下辛苦地劳作着。
+qstr_Bodo_has_received_to|博多数次受创，意识模糊。
+qstr_Bodo_spots_you_shake|博多摇摇头，默默地表明，还有敌人。
+qstr_Bandits_strike_at_yo|强盗狠狠地击昏你，你倒在了血泊之中，他们认为你已经死了……
+qstr_The_bandits_and_slav|强盗和奴隶商人都被干掉了，把这些囚犯放走吧。^^当你想要离开的时候，按Tab键。
+qstr_You_can_t_leave_the_|在那里仍然有敌人，你不能离开山洞！
+qstr_You_have_just_killed|你杀死了强盗王的贴身护卫，搜寻他的尸体，你找到了一些财物。你还需要击败其他的强盗才可以得到奖励。
+qstr_You_have_killed_the_c|你杀掉了队长，那个丑陋的家伙，硕大的身躯在地上蜷缩成一团。搜寻他的尸体，你找到了几样有用的东西。你还需要击败其他的强盗才可以得到奖励。
+qstr_Rising_victorious_ov|脚踏强盗王的尸体，武器上沾满鲜血— — 因为你，长期以来笼罩在此的恐怖的幽云，都随着强盗的覆灭而烟消云散。曾经不可一世的强盗王的遗物有：
+qstr_The_body_of_Atli_Eir|阿提利· 埃里克逊，西格德· 拉格纳逊的二号人物，躺倒在你的面前。你搜索了他的衣服并且发现了一封沾着血迹的信，密封处都已经破碎了— — 这是博多写的。
+qstr_The_Danish_and_Atli_|丹麦人和阿提利都已经解决，博多的信中说。
+qstr_As_you_advance_you_f|你慢慢往前走，发现里面有一道亮光透出— — 这地方似乎并没有你想象的那么荒凉。
+qstr_You_feel_the_tension|你小心翼翼地迈出你的每一步。
+qstr_The_mouth_of_a_rock_|巨石在你面前缓缓打开，周围的一切都是冰冷的岩石，镌刻着你不认识的语言，这里藏匿着怎样的惊奇与财富？
+qstr_You_are_overwhelmed_|你被时间的冷酷无情所震慑— — 建造它的人们早已逝去— — 人生五十载，去事恍如梦幻，天下之内，岂有长生不灭者？
+qstr_On_the_right_you_see|在右边，你看到一条标语：Livia pulchra est, Marcus dixit（拉丁文：利维娅非常漂亮，马库斯留）。
+qstr_It_s_cold_and_smells|它冷冰冰的，看起来很古老了，将你带回了另一段时光— — 罗马人统治世界的那段岁月，只有他们懂得如何用巨石建造如此庞大的建筑。^^水池，康乐室，换衣间……所有的一切都覆盖着尘土和荆棘，荒废已久。
+qstr_Refugees_and_deserte|难民和逃兵将这儿当做了他们的家，他们依靠着德鲁伊的庇护和他们自己的鲜血在这里顽强生存。
+qstr_Not_far_away_on_top_|不远处，在山顶上，你看到了几个古老的巨石环。在这个地方，你幻想自己接触到魔法的气息，还有一些古塞尔特人留下的习俗在挣扎求存。
+qstr_The_magnificence_of_|这儿的宏伟依旧使你感到震惊：人们什么时候才能再次建筑起如此宏伟的防御工程？
+qstr_Time_and_neglect_has|时间摧毁了往昔的一切。在罗马时代，这堵城墙是保卫南方城镇免于喀里多尼亚人侵略的最主要的屏障。它在很久之前就陷落了，但是在碎石堆中依然可见当年人们的生活遗迹。
+qstr_Your_mission_is_to_a|你的任务是当敌人补给水源的时候伏击他们。如果你失去目标，按K键来标记目标。
+qstr_Someone_wants_to_tal|有人想和你谈谈，在营地找到{s4} 。
+qstr_Camp_Conversation|营地对话
+qstr_Everybody_back_on_th|所有人回到船上！赶快！
+qstr_Sea_Info_Tutorial|海战教程
+qstr_A_huskarl_shouts__Me|一名亲卫军喊道：“听着，士兵们！守住防线，我们就能胜利！我们是丹麦的勇士！”
+qstr_A_huskarl_shouts__Th|一名亲卫军喊道：“索尔！请听听我们的战嚎！今晚我们就要在您的大厅之中畅饮！”
+qstr_Harald_calls_out__Co|哈罗德大叫：来吧！快点！我们没有一整天时间。看好奴隶，然后来见我！
+qstr_The_stranger_shouts_|陌生人说道：“你好！我的名字是奥利维，人们都称我为白发奥利维。那么你就是那个正在寻找我兄弟斯温的人咯？人们也叫他牛颈斯温，不过我不在乎，我仅仅代表西格德· 拉格纳逊单独前来，用你的母亲交换那个叫做博多的人。”
+qstr_The_stranger_shouts__|陌生人说道：“你好！我的名字是奥利维，人们都称我为白发奥利维。那么你就是那个正在寻找我兄弟斯温的人咯？人们也叫他牛颈斯温，不过我不在乎，我仅仅代表西格德· 拉格纳逊单独前来，将你的母亲交还给你。”
+qstr_Egil_yells__Heill_Ol|埃吉尔说道：“你好，白发奥利维！我听说过你，还有你同洛基达成的协议。不过在我们继续谈话之前，最好还是让我的朋友先见到{reg59?她:他}的母亲吧！
+qstr_Olvir_shouts:__Sure_|奥利维说道：“当然了，埃吉尔，国王的私生子，我也听说过你的大名呢，你看起来就像是{playername}的喉舌，这个肯尼莫的叛国贼。他可以随便和我们的囚犯交谈，我将把她带来见你。”
+qstr_Mission:_Speak_to_yo|任务：和你的母亲对话。
+qstr_Suddenly_Olvir_shout|突然，奥利维喊道：“士兵们！列成盾墙！就是现在！以拉格纳之名！以西格德之名！以奥丁之名！杀死我们的敌人！”
+qstr_The_old_hero_is_too_|你不是老英雄的敌手。你倒在了血泊之中，视线渐渐地模糊……
+qstr_The_old_hero_is_too_m|你不是老英雄的敌手。你躺倒在他的脚边，浑身伤痕— — 你之所以没有被杀，仅仅是因为他的怜悯。
+qstr_You_have_beaten_the_o|你击败了老船长，开始让你成为传奇的传奇吧！
+qstr_Beda_cries_out__Oh_m|贝达哭喊道：“我的神啊！我的神啊！我听到了！他们在跟着我！斯温的人正跟着我！神啊，救救我们吧！”
+qstr_Something_is_moving_|在灌木丛中有些什么东西在动… 
+qstr_Reginhard_shouts__Al|雷因哈德吼道：“我想要的只不过是土地、妻子和孩子，我并不想要你的命，但我自己也不想死。抱歉，{playername} ，我不得不杀死你。”
+qstr_Egil_shouts__You_ll_|埃吉尔喊道：“你在与雷因哈德这个该死的叛徒交手时，肯定会被杀死的。你自己选择了这条路，在你死后，我将领导你的人，领导他们通向你无法带给他们的荣耀！”
+qstr_Sigurd_shouts__I_hav|西格德喊道：“我有超过800名士兵随时准备去往英格兰支援我的兄弟们，但我听说有人在阻挠这些维京人登船。”
+qstr_King_Horik_yells__Si|霍里克国王说道：”西格德，我们不会妨碍这些人登船。事实上，他们现在还没离开，这使得我们很不高兴。”
+qstr_Sven_Bull_Neck_shout|斯温大声吼道：“这些人如果没有一个像样的领袖来领导，他们是不可能会服从命令的。古霍根本不是他们真正的领袖。他们的领袖本该是我的兄弟奥利维，但是他已经永远离开了我们。现在是时候好好的处理这个问题了。”
+qstr_Mission:_The_Thing_h|任务：议事会已经开始，去找霍里克国王。
+qstr_Harald_s_orders_arri|哈罗德的命令随风散播：“我们挡不住了，他们人多势众，让所有人逃命吧！我们在约维克会合。逃吧！”
+qstr_Try_to_flee!_|逃命吧！
+qstr_A_stranger_shouts__Q|一个陌生人喊道：“快回到你的营地去！你在这里太危险了！”
+qstr_An_attacker_yells__W|袭击者叫道：“你是谁？一个女人？无论如何，你来晚了！{playername} ，肯尼莫的雅尔想要你的脑袋。你居然离开自己的营地，真是太愚蠢了。那么现在，你将离开这个世界！替我向地狱问好吧！”
+qstr_Not_far_in_the_dista|不远处就是诺丁汉的城墙。走出森林，接近那里。
+qstr_You_run_into_the_for|你进入森林并设法逃离。
+qstr_Your_mission_is_to_f|你的任务是沿着去诺丁汉的道路到森林的另一边去，记得避开麦西亚人的巡逻队^^如果你忘记目标，按K键来标记。
+qstr_On_a_hill_taking_adv|丹麦在山上利用自然的防御建立营地。你注意到有能容纳超过200 人的帐篷。
+qstr_Aescendun_is_the_pla|阿先顿是撒克逊人重新集结的地方，这是可以截断丹麦人通往的西撒克逊的唯一一条路。
+qstr_Readingum_previously|雷丁镇，从前是一座撒克逊的村庄，现为丹麦人所有。他们在这里修筑工事，建造了一个避难所。
+qstr_Aelfred_shouts__Men_|艾弗德大喊，“西撒克逊的人民，这里是你们的祖辈父辈传给你们的土地，这里是我们和家人共同生活的地方，这里是属于我们的土地，是唯一的神和唯一的国王统治的土地。”
+qstr_Aelfred_shouts__Dane|艾弗德喊道：“丹麦人带来了暴力，恐惧，以及他们的异教神灵。他们来洗劫这片土地— — 你们的土地— — 如果我们束手就擒，他们将毫不犹豫地杀光我们的家人。”
+qstr_Aelfred_shouts__You_|艾弗德大喊：“现在只有你们能阻挡他们的军队，你们现在就是西撒克逊的城墙，如果你们倒下了，西撒克逊就完了。西撒克逊的人民，愿上帝保佑我们！上帝会保护我们！上帝会看着我们倒下吗？为了亲人们，我们能倒下吗？”
+qstr_Ut_Ut_Ut!_Ut_Ut_Ut!_|Ut Ut Ut! Ut Ut Ut! Ut Ut Ut! Ut Ut Ut! Ut Ut Ut! Ut Ut Ut!
+qstr_Aelfred_shouts__Ut_U|艾弗德大喊，“Ut Ut Ut ！”
+qstr_Halfdan_shouts__Brot|哈弗丹大喊：“兄弟们！勇士们！奥丁看着你们呢，索尔与我们同在，洛基在迷惑敌人！他们这群撒克逊人害怕了，他们知道我们穷追不舍，把他们杀个片甲不留，就像我们在雷丁镇的胜利一样！”
+qstr_Halfdan_shouts__You_|哈弗丹大喊：“你们知道我是谁，我也领教过你们的本事。我们并肩作战，一如既往。今天我们前往阿先顿攻击撒克逊人，如果你们像往常一样战斗，只要我们抓住这个机会，那么撒克逊人就会毫无胜算，而西撒克逊的土地就是我们的了。”
+qstr_Halfdan_shouts__Thin|哈弗丹大喊：“想想那些任由你们处置的财富，以及不朽的名声，正在翘首以盼。我的父亲拉格纳将以你们为荣，我也是。我们是丹麦人，我们是神之子民。今天，同胞们，我们将要书写辉煌的新一页！你们跟我一起来吗？你们准备好迎接荣耀了吗？”
+qstr_Knyjum_knyjum_konung|Knyjum, knyjum, konungs lidar, hardla, hardla boanda menn! Knyjum! Knyjum! Knyjum!
+qstr_Halfdan_shouts__Knyj|哈弗丹大喊：“Knyjum! knyjum! knyjum! ”
+qstr_The_Asturians_have_t|阿斯图里亚斯的军队已经拿下了村庄，你也看到了很多他们的人在附近。当纳莱斯就在悬崖上，你猜你要找的人就在那里。
+qstr_Aelfred_says__{playe|艾弗德说：“{playername} ，听我说，我们有个麻烦，我的信使总是带回同一个消息，我的兄弟还是在不停祈祷，而且命令他的护卫不让任何人打扰他。”
+qstr_Aelfred_continues__I|艾弗德继续说，“我认为他还不知道丹麦人正要占领高地优势。如果他们成功了，我们就会被杀光。他吩咐侍卫不让任何人打扰他，但如果我们就这么干等着，就死定了。我将下令向丹麦人发起攻击… 我想我们别无选择了，你懂吗？你需要你跟我一起去。如果我们呆在原地，就会死在这里。”
+qstr___Aelfred_takes_a_de|— — 艾弗德深吸了一口气然后僵硬地呼了出来。你看到他现在非常紧张。他转向自己的部下。— — ^^ “西撒克逊的士兵们，跟我来！”
+qstr_Halfdan_takes_you_as|哈弗丹把你拉到一边，说：“{playername} ，我们把部队一分为二，我将率领其中一支突击阿尔弗雷德国王所在的山头，而我的兄弟将带领另一支攻击国王的兄弟，艾弗德。”
+qstr_Halfdan_continues__W|哈弗丹继续说：“我们要趁他们不备一举击破。我需要你和你的士兵随时准备增援撒克逊人激烈反抗的地方。我不清楚斯温在哪里，一旦我们找到他，就会马上交给你。”
+qstr___Halfdan_turns_to_h|— — 哈弗丹转向他的士兵— — ^^ “出发吧！战士们！为了奥丁！为了拉格纳！”
+qstr_From_the_boat_you_se|从船上，你可以看到在小山丘上战斗的人们。你从他们当中认出了博多，他正为敌人所困，正在奋战求生。
+qstr_Sven_shouts__Hah!_I_|斯温喊道：“我就知道你会来的。事实上，{playername} ，我们之间还有些事情没有解决。你的手上沾满了我的兄弟奥利维的血。但还是谢谢你，是你让我背叛了我的领主西格德，让我成为一个无主的人，并杀死了哈罗德。现在我感到很欣慰，因为有许多人愿意跟随我并为我而战。”
+qstr_You_say__You_and_you|你说：“你和你的孤独是你失败的原因。你从一开始就不该袭击沃登里克号。现在，我要求你放了我的母亲，让我们两个人来解决我们之间的恩怨。”
+qstr_Sven_shouts__I_think|斯温喊道：“我想我不会这么做，她现在是我的妻子和我的女巫。如果你想让我放了她，那就放马过来吧。但我最好事先提醒你，注意我的剑！”
+qstr_Your_mother_looks_ti|你的母亲看起来极度疲惫。她说：“我的小家伙，让我看着你的脸，让我记住它。对于你为我所做的一切，我很遗憾。找回你自己应有的生活吧，我快要离开这个世界了。斯温是一个疯子，也是一个杀人犯。不要让他杀了你，不要让他得逞… 我要你好好活着，我希望你为了我们活着。”
+qstr_Sven_says__Shut_up_w|斯温说：“闭嘴，你这个女人！你所谓的小家伙已经准备好来送死了。{playername} ，我在这等你，如果你敢过来，我就让你死无葬身之地。我想当我把你送到赫尔的大厅时，我的兄弟奥利维会很高兴的。”
+qstr_Ambush!_The_Sven_s_m|伏击！斯温的手下正从后方突袭我们！
+qstr_Sven_says__Is_this_w|斯温说：“难道这就是你想要的结果吗？你以为你会赢吗？我还活着！我也警告过你，你的母亲已经死了！”
+qstr_Your_mother_speaks__|你的母亲说：“我的小家伙，我爱你。请记住，你的母亲一直都爱着你，无论你身在何处，我都会陪伴着你… ”
+qstr_Sven_says__This_is_y|斯温说：“你这是自作自受！”
+qstr_Hint:_Drop_something|提示：把东西丢在船上！
+qstr_The_Snake_lies_dead_|蛇的尸体躺在你的脚边，他的货物是你的了。^你完成了你的使命。是时候去找菲尼安的修道院长领取奖励了。
+qstr_The_song_the_cries_o|歌声，野兽的叫声，雾，混乱和焦虑....你的士兵被杀死的时候都不知道是谁干的。过了一会，你想起了卡利卡斯说的话吗，并且你开始害怕接下来会发生什么。
+qstr_Horns_sound_in_the_d|号角的声音在远处传来，并且雾似乎开始消散了。有些人来援助你。莫莉卡和她的野兽停止了他们的攻击。
+qstr_Breaking_before_your|在你凶猛的攻击之前，你的敌人撤退到洞穴。他们人数并不多，但是他们仍很努力地战斗，没有任何伤亡。
+qstr_Explore_the_area_and|探索区域并且和莫莉卡见面。
+qstr_Fire_consumes_the_ha|大厅在燃烧着，你每一次呼吸都把烟雾吸进身体里。你必须找到一个出口不然过不了多久你便会死。快点！在燃烧的墙壁上找到一个薄弱点！
+qstr_You_take_5_damage_fr|在烟雾中受到5点伤害
+qstr_You_find_a_small_hol|你在一个墙上发现一个小洞，用你的手和武器打开它，逃离这个地狱。
+qstr_Chaos_and_war!_The_f|混乱和战斗！宴会变成了一个屠宰场，普雷西尔王子命令士兵杀了你。你现在不是很安全，即使是现在，死神随时会带走你。如果你想要活下去，普雷西尔王子会有许多方式给你一个答案。
+qstr_Mael_Bresail_has_bet|普雷西尔王子已经出卖了你，可能是因为他害怕你是唯一见证他的阴谋的人。费格斯企图烧毁蜜酒厅来杀死你，但你逃过了一劫。你的许多士兵死于这场大火，普雷西尔王子必须付出代价。也许现在是一个很好的时间来问菲尼安的修道院长，他的主人在哪里。
+qstr_{s2}|{s2}
+qstr_Mael_Bresail_has_fal|普雷西尔王子倒在你的剑下，你完成了你的复仇。你的士兵掠夺农场，收获了一箱子的黄金。
+qstr_Ambush!_There_were_m|伏击!有人埋伏在房子里！！
+qstr_You_can_give_the_com|你可以给舰队下指令：缓慢前进、快速前进、后退或是停留原地。使用上下光标键在这些命令当中切换。^你同样可以给舰队下这些指令：前进、右转舵、左转舵、抛锚或是起锚。使用左右光标键在这些命令当中切换。^当前的指令会在屏幕的右上角以箭头的形式表示。^按下回车键来升降船帆，按下退格键可以观看全局。
+qstr_Ship_Control|船只控制

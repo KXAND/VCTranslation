@@ -1,0 +1,179 @@
+﻿qst_deliver_message|送信给{s13}
+qst_deliver_message_text|{s9} 请你带个口信给{s13} ，当你接受这个任务的时候{s13} 正在{s4} 。
+qst_deliver_message_to_enemy_lord|送信给{s13}
+qst_deliver_message_to_enemy_lord_text|{s9} 请你带个口信给{s15} 的{s13} ，当你接受这个任务的时候{s13} 在{s4} 。
+qst_raise_troops|培养{reg1}名{s14}
+qst_raise_troops_text|{s9} 请你筹集{reg1} {s14} 并且把这些东西带给他。
+qst_escort_lady|护送{s13}去{s14}
+qst_deal_with_bandits_at_lords_village|从强盗手里解救{s15}村
+qst_deal_with_bandits_at_lords_village_text|{s13} 请你去对付那些躲在{s15} 里的强盗然后回去报告给他。
+qst_collect_taxes|到{s3}征税
+qst_collect_taxes_text|{s9} 请你征收{s3}的税，你可以拿走五分之一的钱。
+qst_hunt_down_fugitive|抓捕{s4}
+qst_hunt_down_fugitive_text|{s9} 请你去抓捕一个叫{s4}的囚犯，他现在正在{s3} 。
+qst_kill_local_merchant|杀掉{s3}的地方商人
+qst_kill_local_merchant_text|{s9} 请你暗杀一个当地的商人，他现在在{s3} 。
+qst_bring_back_runaway_serfs|追回逃跑的农奴
+qst_bring_back_runaway_serfs_text|{s9} 请你去抓捕逃跑的农民，把他们带回{s2} 。他说所有的农民正逃向{s3} 。
+qst_follow_spy|跟踪准备去碰头的间谍
+qst_follow_spy_text|{s11} 请你跟踪一个从{s12}出来的间谍。你必须小心的跟着他，不要在中途被他发现否则他可能会起疑心并且返回镇子里去，当他与同伙会面时，你要埋伏并且抓住他们，把他们都带回{s11} 。
+qst_capture_enemy_hero|抓捕在{s13}的一个领主
+qst_lend_companion|把你的同伴{s3}借给{s9}
+qst_lend_companion_text|{s9} 向你借{s3} 到他的队伍里一个星期
+qst_collect_debt|讨要{s3}欠{s9}的借款
+qst_collect_debt_text|{s9} 请你去收回债务{reg4} 先令{s3} 带给他。
+qst_incriminate_loyal_commander|控告{s13}的忠心指挥官{s16}
+qst_meet_spy_in_enemy_town|与在{s13}的间谍碰头
+qst_capture_prisoners|抓捕{reg1}个{s3}俘虏
+qst_capture_prisoners_text|{s9} 想让你带{reg1} {s3} 作为人质。
+qst_lend_surgeon|把你的外科医生{s3}借给{s1}
+qst_lend_surgeon_text|借你有经验的外科医生{s3} 到{s1} 。
+qst_follow_army|跟随{s9}的部队
+qst_report_to_army|向元帅{s13}报告情况
+qst_deliver_cattle_to_army|把{reg3}头牛赶到{s13}
+qst_join_siege_with_army|参加{s14}的围城战
+qst_screen_army|掩护{s13}的军队前进
+qst_scout_waypoints|侦察{s13}，{s14}和{s15}
+qst_rescue_lord_by_replace|从{s14}解救{s13}
+qst_deliver_message_to_prisoner_lord|送信给{s14}的{s13}
+qst_duel_for_lady|与{s13}决斗
+qst_duel_courtship_rival|与{s13}决斗（可选择）
+qst_duel_avenge_insult|与{s13}决斗
+qst_move_cattle_herd|赶牛到{s13}
+qst_move_cattle_herd_text| {s10} 的村长请你把牛群带到{s13} 。
+qst_escort_merchant_caravan|护送商队去{s8}
+qst_escort_merchant_caravan_text|护送商船队到{s8} 。
+qst_deliver_wine|捎带{reg5}单位的{s6}到{s4}
+qst_deliver_wine_text|{s3} 的{s9} 请你在7天内送{reg5} 个{s6} 到{s4} 的小酒馆。
+qst_troublesome_bandits|解决难对付的强盗
+qst_troublesome_bandits_text|{s4} 的{s9} 请你追捕在镇子附近麻烦的土匪。
+qst_kidnapped_girl|从强盗那儿赎回女孩
+qst_kidnapped_girl_text| {s4} 的村长给你{reg12} 先令去支付一个女孩的赎金，你在{s3} 附近遇见土匪并且付给他们赎金。之后你把女孩带回了{s4}.
+qst_persuade_lords_to_make_peace|确保两个领主不反对和平
+qst_persuade_lords_to_make_peace_text| {s4} 的村长答应给你{reg12} 先令如果你能确保{s12} 和{s13} 不再对{s15} 和{s14}之间和平解决问题构成威胁的话。为了做到这一点你必须说服他们或者确保他们有一个俘虏直到一个和平协议制定出来。
+qst_deal_with_looters|解决劫匪
+qst_deal_with_looters_text| {s4} 的村长请你对付在{s4} 附近的强盗，并且带回任何你找到的货物。
+qst_deal_with_night_bandits|解决暗夜强盗
+qst_deliver_grain|筹集小麦给{s3}
+qst_deliver_grain_text| {s3} 的村长请你带给他们{reg5} 包小麦。
+qst_deliver_cattle|筹集{reg5}头牛给{s3}
+qst_deliver_cattle_text| {s3} 的村长请你带{reg5} 头牛。
+qst_train_peasants_against_bandits|训练农民以对抗在{s13}的强盗
+qst_eliminate_bandits_infesting_village|从强盗手里解救{s7}村
+qst_eliminate_bandits_infesting_village_text|一个来自{s7} 的人请求你从强盗的手中拯救他的村庄。
+qst_visit_lady|拜访女士
+qst_formal_marriage_proposal|正式求婚提案
+qst_obtain_liege_blessing|正式求婚提案
+qst_wed_betrothed|和你的未婚妻成婚
+qst_wed_betrothed_female|和你的未婚妻成婚
+qst_join_faction|宣誓效忠于{s1}
+qst_join_faction_text|找到{s1} 并且宣誓效忠于他。
+qst_rebel_against_kingdom|帮助{s13}取得{s14}的王位
+qst_consult_with_minister|和首相商议
+qst_consult_with_minister_text|询问你的大臣{s11} ，目前在{s12}
+qst_organize_feast|组织宴会
+qst_organize_feast_text|在宴会上带一件礼物给你的配偶{s11} ，目前在{s12}
+qst_resolve_dispute|解决争端
+qst_resolve_dispute_text|解决{s11} 和{s12} 之间的矛盾。
+qst_offer_gift|获取礼物
+qst_offer_gift_text|给{s10} 一个礼物让他献给{reg4?她:他} {s11} ，{s12}
+qst_denounce_lord|指控领主
+qst_denounce_lord_text|公开指责{s11} 。
+qst_intrigue_against_lord|密谋反对领主
+qst_intrigue_against_lord_text|在私下批评{s11} 。
+qst_track_down_bandits|追捕强盗
+qst_track_down_bandits_text|{s4} 的{s9} 请你跟踪{s6} ，在附近城镇袭击旅行的人。
+qst_track_down_provocateurs|追捕奸细
+qst_track_down_provocateurs_text|{s4} 的{s9} 请你追踪一伙暴徒，雇佣他们在{s5} 和{s6}边境上制造事件。
+qst_retaliate_for_border_incident|报复边境事件
+qst_retaliate_for_border_incident_text|{s4} 的{s9} 让你在战场上击败{s7} 的{s5} ，消除{s8} 的紧张让他上战场。
+qst_raid_caravan_to_start_war|攻击中立国商队来挑起战争
+qst_cause_provocation|挑拔一个国家攻打别的国家
+qst_rescue_prisoner|营救或赎回一名俘虏
+qst_destroy_bandit_lair|摧毁强盗老巢
+qst_destroy_bandit_lair_text|{s4} 的{s9} 让你去找到{s6} 并且摧毁它。
+qst_kennemer_jarl|复仇之路：和肯尼莫的雅尔交谈
+qst_kennemer_jarl_missions|复仇之路：为一名雅尔工作
+qst_kennemer_mission_1|雅尔任务：修道院的审判
+qst_kennemer_mission_2|雅尔任务：泰德必须死
+qst_kennemer_mission_3|雅尔任务：弑君
+qst_reginhard_donations|雷因哈德的请求：为战争受害者捐款
+qst_recruit_an_army|雅尔任务：招募新兵
+qst_doccinga_assault|维京袭击：从斯温的突袭下拯救道琴嘉
+qst_doccinga_interrogation|维京袭击：审讯一名维京海盗
+qst_getting_ship|维京袭击：船与少女
+qst_notes_companions|关于同伴的笔记
+qst_notes_global|你的个人笔记
+qst_notes_frisa|你在弗里斯的笔记
+qst_notes_danmork|你在丹麦的笔记
+qst_notes_englaland|你在英格兰的笔记
+qst_sven_lair|复仇之路：深入狼穴
+qst_danmork_protection|复仇之路：寻求霍里克国王的保护
+qst_revenge_sigurd|复仇之路：与“蛇眼”西格德当面对质
+qst_collect_smen|西格德的任务：为西格德募集军队
+qst_bodo_letter|复仇之路：夺回密信
+qst_the_holmgang|生死对决：昔友今敌
+qst_the_fleet|复仇之路：入侵英格兰
+qst_sven_traitor|复仇之路：叛徒斯温
+qst_wessex_foragers|围城之战：西撒克逊征粮队
+qst_the_messengersn|围城之战：信使
+qst_the_alliance|复仇之路：联盟
+qst_welsh_and_pictish|征服者：复国大业
+qst_cathach_colum|化身维京海盗：“科伦西尔之经”
+qst_entregando_pieles|化身维京海盗：皮毛交易
+qst_revenge_exchange|复仇之路：农场
+qst_ulf_testigo|保住脑袋：讨好农夫和领主们
+qst_the_thing|复仇之路：议事会
+qst_douar_an_enez|复仇之路：当纳莱斯
+qst_aescesdun|战役：艾克丹
+qst_svenbn_final|复仇之路：牛颈斯温
+qst_old_roman|哈德良长城：拯救饥民
+qst_vc_menu|维京征服菜单系统
+qst_vc_wounds|维京征服伤害系统
+qst_sea_battle_spawn|复活系统
+qst_team_0_ships|复活系统
+qst_team_1_ships|复活系统
+qst_blank_quest_2|陪同主教去{s14} 。
+qst_blank_quest_2_text|{s11} 请你从{s22} 护送主教前往{s14} 。
+qst_blank_quest_3|洗劫{s14} 的修道院
+qst_blank_quest_3_text|{s11} 请你洗劫{s14} 的修道院，位于{s34} 附近，并带给他{reg33} 先令。
+qst_blank_quest_4|找到并击溃一帮无主士兵
+qst_blank_quest_4_text|{s8} 请你追踪一帮劫掠了他的村庄{s9} 的无主士兵。
+qst_blank_quest_6|俘虏{reg5}名女人并带给{s3}
+qst_blank_quest_6_text| {s3} 的村庄长老请你带{reg5} 个女人去村庄。（作为人质）
+qst_blank_quest_7|将逃跑的奴隶归还给{s3} 
+qst_blank_quest_7_text|{s3} 的村庄长老请你把一名逃跑的奴隶带回村庄。
+qst_blank_quest_9|将{reg33} 份蜜酒带到{s3} 
+qst_blank_quest_9_text|{s3} 的牧师请你带给他{reg33} 份蜂蜜酒。
+qst_blank_quest_10|为{s3} 的{s9} 取回一件被窃的{s13} 。
+qst_blank_quest_10_text|{s3} 的{s9} 请你取回一件被窃的{s13} 。^^查看：^{s10} 
+qst_blank_quest_11|将{reg33} 份{s33} 带到{s3} 
+qst_blank_quest_11_text|{s3} 的{s9} 请你将{reg33} 份{s33} 带给他。
+qst_blank_quest_12|将{reg33} 件木材带到{s3} 
+qst_blank_quest_12_text|{s3} 的修道院院长请你将{reg33} 件木材带给他。
+qst_blank_quest_13|往昔回响
+qst_blank_quest_13_text|{s11} 请你对付她过去的爱人的鬼魂，它应该在{s33} 
+qst_blank_quest_14|揭露刺杀阴谋
+qst_blank_quest_14_text|有人想谋杀你。你可以到{s3} 与杀手的联系人会面，试着找出想要买你一命的人。
+qst_blank_quest_15|揭露刺杀阴谋
+qst_blank_quest_15_text|联系人给出了那名下令刺杀你的领主的名字— — 他是{s9} 。是时候与这位领主当面对质了。
+qst_blank_quest_16|带{reg25} 块{s17} 给{s11} 。
+qst_blank_quest_16_text|{s11} 请你给她带{reg25} 块{s17} 。
+qst_blank_quest_17|带两块奶酪和{reg25} 瓶酒给{s11} 。
+qst_blank_quest_17_text|{s11} 请你带两块奶酪和{reg25} 瓶酒。
+qst_blank_quest_18|送信给{s3} 
+qst_blank_quest_18_text|{s11} 请你将一条消息带给她的爱人{s3} 。
+qst_blank_quest_19|成为全斯堪的纳维亚的统治者
+qst_blank_quest_20|成为全布立吞的统治者
+qst_blank_quest_21|成为全爱尔兰的统治者
+qst_blank_quest_22|成为全英格兰的统治者
+qst_blank_quest_23|最后的达努神族
+qst_blank_quest_24|蛇
+qst_blank_quest_25|弗莱厄蒂的子嗣
+qst_blank_quest_26|普雷西尔王子
+qst_blank_quest_27|爱尔兰的笔记
+qst_collect_men|复仇之路：参观道琴嘉
+qst_learn_where_merchant_brother_is|复仇之路：与肯尼莫的雅尔交谈
+qst_save_relative_of_merchant|攻打强盗老巢
+qst_save_town_from_bandits|从强盗手中拯救城镇
+qst_quests_end|Quests End
