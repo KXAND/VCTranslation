@@ -1547,7 +1547,7 @@ qstr_Customize_Ship|自定义船只
 qstr_Sell_Ship|出售船只
 qstr_Buy_Ship|购买船只
 qstr_Are_you_sure_you_wan|你确定你要做这笔交易？
-qstr_Leave_ship_at_the_sh|离开停在岸边的船
+qstr_Leave_ship_at_the_sh|把这艘船停靠在岸边
 qstr_Next_ship|下一艘船
 qstr_Fleet_Capacity:|舰队容量：
 qstr_{reg1}/{reg2}|{reg1} / {reg2}
@@ -1555,7 +1555,7 @@ qstr_You_cannot_buy_this_|你不能购买这艘船，因为你没有提督技能
 qstr_You_cannot_buy_this_b|你不能购买这艘船，因为你没有提督技能。
 qstr_You_cannot_buy_this_bo|你不能购买这艘船，因为你的提督技能不足。
 qstr_You_cannot_buy_this_boa|你不能购买这艘船，因为你的金钱不足。
-qstr_You_can_t_leave_your|你不能离开你停靠在岸边的最后一艘船
+qstr_You_can_t_leave_your|你不能把你的最后一艘船停在岸边
 qstr_You_can_t_leave_this|你不能把这艘船停在岸边，因为你其余船只已容纳不了这批船员。
 qstr_{s1}_s_Ships|{s1}'的船
 qstr_You_need_to_get_clos|你必须更靠近岸边才能上岸

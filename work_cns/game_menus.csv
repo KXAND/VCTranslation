@@ -1,4 +1,4 @@
-﻿menu_start_game_0|欢迎来到维京征服世界（游戏版本V2.036）。
+﻿menu_start_game_0|欢迎来到维京征服世界（游戏版本V2.064）。
 mno_continue_i|继续……
 mno_continue_cheat|跳过教程。
 mno_go_back_dot|后退。
@@ -57,8 +57,8 @@ mno_cattle_kill_5|五。
 mno_cattle_kill_20|二十。
 menu_arena_duel_fight|决斗是件非常严肃的事情，尤其是到一方死亡为止。两个人进入决斗场，但是只有一个可以走出来……^^身心要同时对压力和危机做出反应。你感觉你的腋下在出冷汗，那种出汗的感觉和冷热完全无关，那是战斗的汗水，同时预示着……你已经准备好了。
 menu_simple_encounter|{s2}你将以{reg10}人的部队迎战对手{reg11}人。^^{s7}
-mno_playerambush_attack|被伏击！
-mno_ambush_attack|伏击敌人！
+mno_playerambush_attack|伏击敌人！
+mno_ambush_attack|被伏击！
 mno_encounter_attack|{s7}向敌人发起冲锋！
 mno_encounter_deploy|战斗开始后坚守阵地。
 mno_encounter_order_attack|坐镇指挥，让你的部队进攻。
@@ -301,9 +301,9 @@ mno_village_loot|劫掠这个村子，然后把它夷为平地！
 mno_continue_not_enough_gold|我没有足够的钱。
 mno_recruit_them|招募他们。({reg6} 先令) 。
 menu_village_hunt_down_fugitive_defeated|逃犯的重重一击让你天旋地转，并昏倒在地上。时间飞逝，当你再次睁开眼睛时，发现自己伤痕累累，但幸好没有一处是致命伤。
-menu_village_confront_contact_defeated|来自村民的一个重拳把你打趴到了地上，而且你的视觉旋转着并变模糊了。时间飞去。当你再次张开眼睛，你认识到你被殴打了而且流着血，不过幸运的是没有一处伤口是致命的。
-menu_village_hunt_lover_defeated|来自幽灵的一个重拳把你打趴到了地上，而且你的视觉旋转着并变模糊了。时间飞去。当你再次张开眼睛，你认识到你被殴打了而且流着血，不过幸运的是没有一处伤口是致命的。
-menu_village_hunt_music_defeated|来自守卫的一个重拳把你打趴到了地上，而且你的视觉旋转着并变模糊了。时间飞去。当你再次张开眼睛，你认识到你被殴打了而且流着血，不过幸运的是没有一处伤口是致命的。
+menu_village_confront_contact_defeated|村民的一个重拳把你打趴到了地上，而且你的视觉旋转着并变模糊了。时间飞去，当你再次张开眼睛，你意识到你被殴打了而且流着血，不过幸运的是没有一处伤口是致命的。
+menu_village_hunt_lover_defeated|幽灵的一个重拳把你打趴到了地上，而且你的视觉旋转着并变模糊了。时间飞去，当你再次张开眼睛，你意识到你被殴打了而且流着血，不过幸运的是没有一处伤口是致命的。
+menu_village_hunt_music_defeated|守卫的一个重拳把你打趴到了地上，而且你的视觉旋转着并变模糊了。时间飞去，当你再次张开眼睛，你意识到你被殴打了而且流着血，不过幸运的是没有一处伤口是致命的。
 menu_village_infestation_removed|经过足以令人传诵的英勇的战斗，你和你的同伴打败了强盗。这个村子再次安全了。经过他们的抢劫以后，村民几乎没有什么东西剩下了，但他们还是拿出了任何他们有的东西。
 mno_village_bandits_defeated_accept|我接受你们的赠品。
 mno_village_bandits_defeated_cont|你们比我更需要这些东西。你们的感谢已经足够了。
@@ -551,7 +551,7 @@ menu_kingdom_army_follow_failed|你和{s8}走散了。元帅认为你可能另�
 menu_invite_player_to_faction_without_center|你收到了一份封臣的邀请！^^{s9}的{s8}派遣了一个王家信使来亲自递送这份邀请。你将成为{s9}的一位封臣，从此冠以{阁下/女士}的称呼，但是并没有给予你封地以及额外的头衔，当然作为回报{s8}要求你宣誓对他效忠并与他一起加入他的远征。虽然他没有许诺封地和头衔，但如果你拒绝这个请求的话，他无疑会感到冒犯的……
 mno_faction_accept|接受邀请！
 mno_faction_reject|拒绝邀请。
-menu_invite_player_to_faction|你收到了一份封臣的邀请！^^{s9}的{s8}派遣了一个皇家信使来亲自递送这份邀请。你将成为{s9}的一位诸侯，从此被人以{阁下/ 女士}称呼，但是并没有给予你封地以及额外的头衔，当然作为回报{s8}要求你宣誓对他效忠并与他一起加入他的远征。他许诺给你{s2}的封地和头衔，如果你不同意这个请求的话他一定会被激怒的……
+menu_invite_player_to_faction|你收到了一份封臣的邀请！^^{s9}的{s8}派遣了一个王家信使来亲自递送这份邀请。你将成为{s9}的一位诸侯，从此被人以{阁下/ 女士}称呼，但是并没有给予你封地以及额外的头衔，当然作为回报{s8}要求你宣誓对他效忠并与他一起加入他的远征。他许诺给你{s2}的封地和头衔，如果你不同意这个请求的话他一定会被激怒的……
 menu_invite_player_to_faction_accepted|为了成为一名封臣，你必须向{s3}宣誓效忠。你必须找到他并当面发誓。{s5}
 menu_question_peace_offer|你收到了一份停战的邀请^^{s1}发给你一份停战邀请。你将如何回复？
 mno_peace_offer_accept|接受
@@ -561,7 +561,7 @@ menu_notification_casus_belli_expired|王国没有回应^^{s1}没有回应{s2}�
 menu_notification_lord_defects|背叛：{s4}已经抛弃了{s5}并且加入了{s7} ，带着{reg4?她:他}的封地一起
 menu_notification_treason_indictment|叛国控告^^{s9}
 menu_notification_border_incident|边界冲突^^有消息传来，{s9} 。虽然传言真假未知，但有件事是确定的——这件看来很小的事件在{s4}内部已经掀起轩然大波，使得与{s3}的战争一触即发……
-menu_notification_player_faction_active|现在，这片土地被冠以你的名字，而不跟其他王国有任何关系。你成为了一位能独立行使权力的君王，你的宫廷暂时坐落在{s12} 。然而，在北地的其他国王的第一反应，就是把你当做一个威胁，因为，如果每一个强势的军阀都可以夺取王位，那么国王的权威肯定会受到质疑。^^你可能觉得这个时候宣誓效忠于一个现有的国家，是个非常不错的选择。如果你想继续当一个拥有主权的君王，那么首先你必须建立自己独立的统治权。这可以通过多个办法进行，比如与出身高贵的家族联姻，吸纳新的领主，管理你的领地，应付其他国王，以及派遣你的盟友去执行任务。^^无论如何，你首先要从你的同伴当中，任命一位首相，来处理各种事务。不同的同伴有不同的才能。^你可以不时地更换你的首相人选，还可以通过与首相对话，改变你的宫廷的所在地。
+menu_notification_player_faction_active|现在，这片土地被冠以你的名字，而不跟其他王国有任何关系。你成为了一位能独立行使权力的君王，你的宫廷暂时坐落在{s12} 。然而，在北地的其他国王的第一反应，就是把你当做一个威胁，因为，如果每一个强势的军阀都可以夺取王位，那么国王的权威肯定会受到质疑。^^你可能会觉得这个时候宣誓效忠于一个现有的国家，是个非常不错的选择。如果你想继续当一个拥有主权的君王，那么首先你必须建立自己独立的统治权。这可以通过多个办法进行，比如与出身高贵的家族联姻，吸纳新的领主，管理你的领地，应付其他国王，以及派遣你的盟友去执行任务。^^无论如何，你首先要从你的同伴当中，任命一位首相，来处理各种事务。不同的同伴有不同的才能。^你可以不时地更换你的首相人选，还可以通过与首相对话，改变你的宫廷的所在地。
 mno_appoint_spouse|任命你的夫人，{s10}……
 mno_appoint_npc1|任命{s10}
 mno_appoint_npc2|任命{s10}
@@ -613,7 +613,7 @@ menu_notification_lady_requests_visit|一位老妇人找到了你的部队，给
 mno_continuewo|让那个女人通知她的女主人，你很快就会来的。
 mno_continuewo2|让那个女人通知她的女主人，你不愿意。
 mno_nurse|在泉水边等待
-mno_nurse2|等到春天
+mno_nurse2|在泉水边等待
 menu_kill_local_merchant_begin|你发现了你的目标，他转弯走进了一条背街的巷子。这将是你发起袭击的最好时机。
 menu_debug_alert_from_s65|调试警报：{s65}
 menu_auto_return_to_map|树桩
@@ -670,7 +670,7 @@ menu_berserker_recruit_troop|这里有两个狂战士可以加入你的部队。
 mno_acept_thempa2|欢迎他！
 mno_back_to_town_menupa2|回去。
 menu_nonberserker_avaiable_troop|狂战士们并不愿意加入你的部队。
-menu_nonberserker_renown_low|你看起来像一个乞丐，并不像是一个值得追随的领主。你需要更多的声望( 大于150) 才能让狂战士加入你的部队。
+menu_nonberserker_renown_low|你看起来像一个乞丐，并不像是一个值得追随的领主。你需要更多的声望（大于150） 才能让狂战士加入你的部队。
 menu_panel_comandante|开始战斗前……
 mno_choice_1comm|用振奋人心的演讲来激励你的士兵。
 mno_choice_2comm|以荣誉之名，向敌人发起决斗。
@@ -690,7 +690,7 @@ mno_defendiendo_5e|后退。
 menu_lucha_2_v|你的武士走出队伍大摇大摆地晃到敌人军前，转身掀起衣服，对着敌人撅起屁股。敌人的冠军武士愤怒地冲向他，扔出一根标枪，落在了离你武士几步远的地方，随后敌人的武士拔剑怒吼着向你的武士冲来。^^你的武士迅速做好迎战准备，攥着长矛等待敌人。两个武士都用自己的盾牌相互撞击，想让对方先露出破绽。^^仔细看，你看到了决斗中的第一滴血，直到最后一滴，是你的武士把长矛捅进了敌人的嘴里。你的武士屏住呼吸然后转身大喊:“我可不是能一口吃下的！”^^你赢得了决斗。
 mno_defendiendo_6e|后退。
 menu_lucha_1_p|对方首领走出队列用手指着你，要你和他决斗。
-mno_defendiendo_7e|Accept.
+mno_defendiendo_7e|接受。
 mno_defendiendo_8e|后退。
 menu_sacrificio_off|神明仍然对你的祈祷和牺牲缄默不语。
 mno_sacri_1s|后退。
@@ -1284,7 +1284,7 @@ mno_choice_9_3nor|杀了他们，或许还能抢到一笔钱。
 menu_event_10_normal|你接到消息说一群妇女想参加随营队伍。
 mno_choice_10_1nor|欢迎她们。
 mno_choice_10_2nor|我不想要喂更多的嘴了。
-menu_event_11_normal|你接到消息说一群街道音乐家想以军乐手的身份加入你的队伍。
+menu_event_11_normal|你接到消息说一群街头乐手想以军乐手的身份加入你的队伍。
 mno_choice_11_1no|欢迎他们。
 mno_choice_11_2no|我不想再要人了。
 menu_event_12_normal|你看到一只鹳在空中盘旋。
