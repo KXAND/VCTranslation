@@ -100,7 +100,7 @@ dlga_port_chief_catach2:port_chief_catach32|真不巧，我把书丢了。你能
 dlga_port_chief_catach32:port_chief_catach4|我的委托人不会高兴的，人们会知道你不是个可靠的人。我的委托人会为这书付我10000先令，你有这么多钱吗？
 dlga_port_chief_catach4:port_chief_catach5|我有足够的钱。给，拿着，告诉我斯温在哪！
 dlga_port_chief_catach4:port_chief2|真不巧，没有。我一凑够就会回来。
-dlga_port_chief_catach5:port_chief_catach5_1|哦，老天爷…你真是有钱！巢穴在那，在丹麦，里伯的东北，顺流而上。再会。
+dlga_port_chief_catach5:port_chief_catach5_1|哦，老天爷……你真是有钱！巢穴在那，在丹麦，里伯的东北，顺流而上。再会。
 dlga_port_chief_catach5_1:port_chief2|谢谢你。
 dlga_port_chief_catach31:port_chief_catach31_1|嗯，谢谢你。巢穴在那，在丹麦，里伯的东北，顺流而上。再会。
 dlga_port_chief_catach31_1:port_chief2|谢谢你。
@@ -114,7 +114,7 @@ dlga_port_chief_svenlair32:close_window|那就买下那书。我不在乎你怎�
 dlga_port_chief_svenlair33:port_chief_svenlair4|那么，这难道不是个有趣的选择吗？我的委托人为这书出价10000先令，你有这么多钱吗？
 dlga_port_chief_svenlair4:port_chief_svenlair5|我有足够的钱。拿着，告诉我斯温藏在哪里。
 dlga_port_chief_svenlair4:port_chief_svenlair31|不巧的是，没有那么多钱。我会把书带来的，回头见。
-dlga_port_chief_svenlair5:port_chief_svenlair5_1|哦，老天爷…你真是有钱！巢穴在那，在丹麦，里伯的东北，顺流而上。再会。
+dlga_port_chief_svenlair5:port_chief_svenlair5_1|哦，老天爷……你真是有钱！巢穴在那，在丹麦，里伯的东北，顺流而上。再会。
 dlga_port_chief_svenlair5_1:port_chief2|谢谢你。
 dlga_port_chief_bodoletter1:port_chief_bodoletter2|{s2}^^你为什么总是那么大声？嗯，你知道我的，我是个好线人，但获取情报要付钱的。
 dlga_port_chief_bodoletter2:port_chief_bodoletter3|{s2}^^听好了。这情报可特别重要。我们在说的可是丹麦的二号人物，“蛇眼”西格德。12000先令怎么样？你有这么多钱吗？没有的话，也许你能帮我个小忙。我有个委托人需要运毛皮到爱尔兰的都柏林。如果你帮我的话，作为回报，我会给你情报。
@@ -124,13 +124,13 @@ dlga_port_chief_bodoletter3:port_chief_bodoletter7|但我们是老朋友啊，�
 dlga_port_chief_bodoletter3:port_chief_bodoletter3_1|不巧的是，没有。我会尽快带钱来的。
 dlga_port_chief_bodoletter_pieles:close_window|很高兴听你这么说。去都柏林把毛皮交给一个叫霍格尼的人，他是那儿的商人，你应该很容易就能找到他。我建议你带上其他在远处紧俏的货物。等你带着收据回来就能得到你的情报了。
 dlga_port_chief_bodoletter3_1:port_chief2|那就等你有钱了再来，我没空搭理乞丐。
-dlga_port_chief_bodoletter4:port_chief_bodoletter5|你真有钱啊！那好，阿提利·埃里克逊在挪威。至少他的一个手下是这么告诉这里的妓女的。很明显阿提利带了什么需要藏匿的重要事物…至少目前看来是的。他藏在挪威北岸的一个山洞，在霍达兰附近。再会。
+dlga_port_chief_bodoletter4:port_chief_bodoletter5|你真有钱啊！那好，阿提利·埃里克逊在挪威。至少他的一个手下是这么告诉这里的妓女的。很明显阿提利带了什么需要藏匿的重要事物……至少目前看来是的。他藏在挪威北岸的一个山洞，在霍达兰附近。再会。
 dlga_port_chief_bodoletter5:port_chief2|谢谢。
 dlga_port_chief_bodoletter7:port_chief_bodoletter8|呃，那好，仅此一次，不准告诉其他人，我还要在意名声呢。8000先令，这情报就是你的了。有钱吗？
 dlga_port_chief_bodoletter8:port_chief_bodoletter9|是的，我当然有。给你，他在哪？
 dlga_port_chief_bodoletter8:port_chief_bodoletter3_1|不巧的是，没有。我会尽快带钱来的。
-dlga_port_chief_bodoletter9:port_chief_bodoletter5|好吧，但记住了，不能再砍价了。那么，阿提利·埃里克逊在挪威。至少他的一个手下是这么跟这的妓女说的。很明显阿提利带了什么需要藏匿的重要事物…至少目前看来是的。他藏在挪威北岸的一个山洞，在霍达兰附近。再会。
-dlga_port_chief_pieles:port_chief_bodoletter5|我喜欢和你做生意。那么，阿提利·埃里克逊在挪威。至少他的一个手下是这么跟这的妓女说的。很明显阿提利带了什么需要藏匿的重要事物…至少目前看来是的。他藏在挪威北岸的一个山洞，在霍达兰附近。再会。
+dlga_port_chief_bodoletter9:port_chief_bodoletter5|好吧，但记住了，不能再砍价了。那么，阿提利·埃里克逊在挪威。至少他的一个手下是这么跟这的妓女说的。很明显阿提利带了什么需要藏匿的重要事物……至少目前看来是的。他藏在挪威北岸的一个山洞，在霍达兰附近。再会。
+dlga_port_chief_pieles:port_chief_bodoletter5|我喜欢和你做生意。那么，阿提利·埃里克逊在挪威。至少他的一个手下是这么跟这的妓女说的。很明显阿提利带了什么需要藏匿的重要事物……至少目前看来是的。他藏在挪威北岸的一个山洞，在霍达兰附近。再会。
 dlga_start:port_prisoners|你是谁？
 dlga_port_prisoners:port_prisoners_2|你是在找一个奴隶贩子吗？{s9} 没了我的奴隶就没法发展，所以你要是有战俘的话我很乐意买下他们。
 dlga_port_prisoners_2:port_prisoners_3|我带来了些俘虏。
@@ -145,7 +145,7 @@ dlga_port_recruitsl:port_crew_talk.1|我觉得不有人会感兴趣，{reg59?女
 dlga_port_recruitsl:port_recruits2|我想会有{reg5} 个人，如果你肯付每人40先令的装备费用，我猜他们会立刻答应。听起来如何？
 dlga_port_recruits2:port_crew_talk|告诉{reg7?他们:他}去准备好。
 dlga_port_recruits2:port_crew_talk.1|不，先不了。
-dlga_port_r_2:port_crew_fleetpr|我叫{playername} …
+dlga_port_r_2:port_crew_fleetpr|我叫{playername} ……
 dlga_port_crew_fleetpr:close_window|抱歉，我正忙着为船队准备船只和补给。你要是不需要水手，请别打搅我，回头再来。
 dlga_port_r_2:port_crew_fleet1|我叫{playername} 。阿弗宁·艾弗德派我来的。
 dlga_port_r_2:port_crew_fleet1.1|我叫{playername} 。是拉弗伯斯雅尔派我来的。
@@ -168,12 +168,12 @@ dlga_start:close_window.10|抱歉，现在不是谈话的好时候。
 dlga_start:close_window.11|你想要什么？我没空和你说话！赶紧出家吧。
 dlga_start:close_window.12|普雷西尔王子想和你说话。
 dlga_start:close_window.13|现在不是说话的时候。
-dlga_start:conversation_companioncamp|--你在营地里你伙伴常待的地方找到了他。--
+dlga_start:conversation_companioncamp|——你在营地里你伙伴常待的地方找到了他。——
 dlga_start:close_window.14|我正忙着呢，{playername} 。我们回头再说。
 dlga_start:close_window.15|{reg59?女士:先生} ，营地里一切正常。
-dlga_conversation_companioncamp:beda_conversationcamp1|我的{reg59?女士:先生},当我们在北方旅行时，有时我总想，我们生活在一个多么阴郁的世界中啊。我读过很多书，但没有一本提到了我们日常经历的那些暴行与危险。
+dlga_conversation_companioncamp:beda_conversationcamp1|我的{reg59?女士:先生}，当我们在北方旅行时，有时我总想，我们生活在一个多么阴郁的世界中啊。我读过很多书，但没有一本提到了我们日常经历的那些暴行与危险。
 dlga_beda_conversationcamp1:beda_conversationcamp2|啊，我觉得丹麦人是会在世界末日杀来的歌革和玛各的族裔，而西撒克逊王国则是在审判日到来前妄图逆天而行的最后的人类王国。
-dlga_beda_conversationcamp2:beda_conversationcamp3|呃…你能解释下歌革和玛各的事吗？
+dlga_beda_conversationcamp2:beda_conversationcamp3|呃……你能解释下歌革和玛各的事吗？
 dlga_beda_conversationcamp2:close_window|非常有意思，但我现在没时间讲这个。
 dlga_beda_conversationcamp3:beda_conversationcamp4|噢，好吧，圣经中说歌革是从极北之地玛各来的部族的领袖。在以西结书中，歌革率领着一支由不同国度久经沙场的武士组成的大军，他们会进攻主的选民的国家，将会有一场影响世界的大战。正如眼下异教徒横行英格兰，我觉得现在发生的就是预言中的事。
 dlga_beda_conversationcamp4:beda_conversationcamp6|我们要关注的是此时此地，当末日到来时，我确信你不会错过的。
@@ -221,20 +221,20 @@ dlga_dwywei_conversationcamp3:dwywei_conversationcamp4_2|谢谢你和我分享�
 dlga_dwywei_conversationcamp3:close_window|你导致了你家人的死亡，还不想被苛责？！别扯了！
 dlga_dwywei_conversationcamp4:close_window|——她看上去情绪低落怯懦——^^你对我也十分重要。噢，对了，我还有事要做。
 dlga_dwywei_conversationcamp4_2:close_window|谢谢你的理解。
-dlga_conversation_companioncamp:dwyweiromance_conversationcamp1|{playername} ，尽管你见我在战场上作战勇猛，身被战争图腾，吼叫着刺死敌人…
+dlga_conversation_companioncamp:dwyweiromance_conversationcamp1|{playername} ，尽管你见我在战场上作战勇猛，身被战争图腾，吼叫着刺死敌人……
 dlga_dwyweiromance_conversationcamp1:dwyweiromance_conversationcamp3|你知道我是个内向的人，是吗？
 dlga_dwyweiromance_conversationcamp3:dwyweiromance_conversationcamp4|我不知道。
 dlga_dwyweiromance_conversationcamp3:dwyweiromance_conversationcamp4_2|是的，我知道。
 dlga_dwyweiromance_conversationcamp3:close_window|我现在没时间说这个。我们回头再说。
-dlga_dwyweiromance_conversationcamp4:close_window|哦，我知道了，嗯，嗯，我…我们改天再说…
+dlga_dwyweiromance_conversationcamp4:close_window|哦，我知道了，嗯，嗯，我……我们改天再说……
 dlga_dwyweiromance_conversationcamp4_2:close_window|我的意思是我可以说些东西，但我希望你明白我十分仰慕，欣赏你。呃，我不想再多说了。实在是说不清。我们改日再说。
 dlga_conversation_companioncamp:dwyweiromance2_conversationcamp1|我希望同你谈谈，{playername} 。尽管对我来说这是很严肃的事，我只会提一次。
-dlga_dwyweiromance2_conversationcamp1:dwyweiromance2_conversationcamp3|你知道的，我对你有意思，欣赏爱慕你。我认为你望向我时也有同感，但我不确定。可能是…？
+dlga_dwyweiromance2_conversationcamp1:dwyweiromance2_conversationcamp3|你知道的，我对你有意思，欣赏爱慕你。我认为你望向我时也有同感，但我不确定。可能是……？
 dlga_dwyweiromance2_conversationcamp3:dwyweiromance2_conversationcamp4|是的，杜威，我很喜欢你。
 dlga_dwyweiromance2_conversationcamp3:dwyweiromance2_conversationcamp4_2|抱歉，我对你没兴趣。
 dlga_dwyweiromance2_conversationcamp4:dwyweiromance2_conversationcamp5|我很高兴听你这么说！我猜这意味着我们在一起了，对吗？
-dlga_dwyweiromance2_conversationcamp4_2:close_window|对不起，对不起，我感觉很难堪。我以为…我错了。对不起，我不会再打搅你了，我还有事要做。
-dlga_dwyweiromance2_conversationcamp5:dwyweiromance2_conversationcamp6|是的，杜威，你现在是我的女人了…
+dlga_dwyweiromance2_conversationcamp4_2:close_window|对不起，对不起，我感觉很难堪。我以为……我错了。对不起，我不会再打搅你了，我还有事要做。
+dlga_dwyweiromance2_conversationcamp5:dwyweiromance2_conversationcamp6|是的，杜威，你现在是我的女人了……
 dlga_dwyweiromance2_conversationcamp5:dwyweiromance2_conversationcamp7|不，这只是个玩笑。我对你一点兴趣都没有。
 dlga_dwyweiromance2_conversationcamp6:close_window|我实在太高兴了，我爱你。我现在就把东西搬到你的帐篷去！
 dlga_dwyweiromance2_conversationcamp7:close_window|玩笑？你是个混蛋！！！什么混账才会拿这种事开玩笑？滚开，我不想再看见你了。
@@ -328,7 +328,7 @@ dlga_asbjorn_conversationcamp6:asbjorn_conversationcamp7|嗯，{playername} 我�
 dlga_asbjorn_conversationcamp7:close_window|命运是不可阻挡的，阿斯比恩。
 dlga_asbjorn_conversationcamp7:close_window.1|我自己把握命运，阿斯比恩。
 dlga_conversation_companioncamp:helgi_conversationcamp1|{playername} ，如你所知的那样，很久以前我在东方的罗斯。我游历遍了遥远的斯拉维。我腿脚利落并逐渐富有，直到命运作弄改变了这些带我来到了西方。
-dlga_helgi_conversationcamp1:helgi_conversationcamp2|我没告诉你的是我曾经为爱饱受煎熬。我与一个雅尔的夫人陷入了爱河。我们严守秘密，但有人背叛了我们。雅尔杀了他的妻子并悬赏我的脑袋，但我没有逃走…
+dlga_helgi_conversationcamp1:helgi_conversationcamp2|我没告诉你的是我曾经为爱饱受煎熬。我与一个雅尔的夫人陷入了爱河。我们严守秘密，但有人背叛了我们。雅尔杀了他的妻子并悬赏我的脑袋，但我没有逃走……
 dlga_helgi_conversationcamp2:helgi_conversationcamp4|我在听。
 dlga_helgi_conversationcamp2:close_window|不要再说了。你不要动有夫之妇的念头。
 dlga_helgi_conversationcamp4:helgi_conversationcamp5|我把脸涂黑并身着黑衣。那晚，我闯入了他的庄园趁他睡时杀死了他。然后我逃向了西方，这里没人认识我。尽管我之前告诉你的都是真的，这才是我现在在这与你在一起的原因。然而，我发现你是个我想要追随的卓越领袖。
@@ -344,7 +344,7 @@ dlga_helgiromance2_conversationcamp1:helgiromance2_conversationcamp3|你知道�
 dlga_helgiromance2_conversationcamp3:helgiromance2_conversationcamp4|是的，海尔吉，我很喜欢你。
 dlga_helgiromance2_conversationcamp3:helgiromance2_conversationcamp4_2|抱歉，但我对你没兴趣。
 dlga_helgiromance2_conversationcamp4:helgiromance2_conversationcamp5|我很高兴听你这么说！在海尔加死后，我以为我不会再爱上别人了，但看看我们现在。我认为我们会相处得很好的。
-dlga_helgiromance2_conversationcamp4_2:close_window|对不起，对不起，我感觉很难堪。我以为…我错了。对不起，我不会再打搅你了，我还有事要做。
+dlga_helgiromance2_conversationcamp4_2:close_window|对不起，对不起，我感觉很难堪。我以为……我错了。对不起，我不会再打搅你了，我还有事要做。
 dlga_helgiromance2_conversationcamp5:helgiromance2_conversationcamp6|是的，我们可以在一起，但请不要再提海尔加了。
 dlga_helgiromance2_conversationcamp5:helgiromance2_conversationcamp7|不，这只是个玩笑。我对你一点兴趣都没有。
 dlga_helgiromance2_conversationcamp6:close_window|我实在太高兴了，我爱你。我我现在我的东西搬到你的帐篷去！
@@ -362,12 +362,12 @@ dlga_agathinos_conversationcamp6:agathinos_conversationcamp7|阿格霍斯是对�
 dlga_agathinos_conversationcamp6:agathinos_conversationcamp7.1|你是对的，我不过是个军阀。
 dlga_agathinos_conversationcamp7:close_window|——就在你眼前，阿格霍斯开始和他自己争论，改变自己的嗓音并没太注意你。——
 dlga_conversation_companioncamp:brunhildvsegil_conv1|你是认真的吗，埃吉尔？你真的上了一个随营妇女？我以为你是与众不同的，你是那么体贴我们，但看来是我错了。你在各种意义上都是个混蛋。
-dlga_brunhildvsegil_conv1:brunhildvsegil_conv2|伯伦希尔，亲爱的，你不过是个奴隶，而我是国王之子。我们不可能的。我们不过是找点乐子，仅此而已。我以为你明白的。你是白痴吗，以为这样就拥有了一个王子。你会一直是我最宠爱的，但我一直，也总是会和别人玩玩的…谁知道呢？也许什么时候我会找位高贵的女士结婚的。
+dlga_brunhildvsegil_conv1:brunhildvsegil_conv2|伯伦希尔，亲爱的，你不过是个奴隶，而我是国王之子。我们不可能的。我们不过是找点乐子，仅此而已。我以为你明白的。你是白痴吗，以为这样就拥有了一个王子。你会一直是我最宠爱的，但我一直，也总是会和别人玩玩的……谁知道呢？也许什么时候我会找位高贵的女士结婚的。
 dlga_brunhildvsegil_conv2:brunhildvsegil_conv3|冷静点！
 dlga_brunhildvsegil_conv2:brunhildvsegil_conv3.1|(什么也不说)
 dlga_brunhildvsegil_conv3:brunhildvsegil_conv4|你真是这么想的？你并没比我高贵到哪去。你的父亲也许是个国王，但你的母亲也不过是个奴隶，就像我一样。你永远不会找到比我更好的人，而如果你不改改你的态度，你就会失去我。
 dlga_brunhildvsegil_conv4:brunhildvsegil_conv5|我不必被正式承认为子嗣。人人知道我是丹麦王之子。这王国的每个女人都为我着迷。别搞错了，我爱你，也很享受我们的一切，但仅限于此。
-dlga_brunhildvsegil_conv5:close_window| …^^——没什么能做的了。你趁为时不晚跑开了。——
+dlga_brunhildvsegil_conv5:close_window| ……^^——没什么能做的了。你趁为时不晚跑开了。——
 dlga_conversation_companioncamp:clovisvshegil_conv1|你的族人认为能凭精良的武备赢得任何战役，但并不总是这样的。一个好的阵型或是巧妙的谋划都要比莽撞的武士重要得多。即是是在决斗中，士兵的强弱并不是决定胜败的关键。
 dlga_clovisvshegil_conv1:clovisvshegil_conv2|这就是为何你孱弱的族人总是想着，而我们，全斯维亚最勇敢的士兵，甚至是头脑简单的丹麦人都能劫掠你们的家园。如果你们多花些时间训练，成长为优秀的武士而非彼此对舞，你们是可以拥有真正的王国而非现在在法兰克的那点可怜的土地。
 dlga_clovisvshegil_conv2:clovisvshegil_conv3|堂堂正正地来吧，不要耍什么诡计，让我们瞧瞧会发生什么。我发誓你那散漫的乌合之众会被眨眼间砍到，你们将无人生还，因为你们不知道什么时候该撤退。
@@ -379,8 +379,8 @@ dlga_clovisvshegil_conv5:clovisvshegil_conv6|哈！大人和我不谋而合。
 dlga_clovisvshegil_conv6:close_window|我还有话说。
 dlga_clovisvshegil_conv5_2:clovisvshegil_conv6_2|正是，哈！
 dlga_clovisvshegil_conv6_2:close_window|谁在问？我以为这是密谈。
-dlga_conversation_companioncamp:bedavsagathinos_conv1|——阿格霍斯抱着浓厚的兴趣盯着营地里的一个女人…——
-dlga_bedavsagathinos_conv1:bedavsagathinos_conv2|——…伯伦希尔。——
+dlga_conversation_companioncamp:bedavsagathinos_conv1|——阿格霍斯抱着浓厚的兴趣盯着营地里的一个女人……——
+dlga_bedavsagathinos_conv1:bedavsagathinos_conv2|——……伯伦希尔。——
 dlga_bedavsagathinos_conv2:bedavsagathinos_conv3|——向地上啐了一口——^^希腊人真是淫荡好色。
 dlga_bedavsagathinos_conv3:bedavsagathinos_conv4|你怎么这么想？
 dlga_bedavsagathinos_conv4:bedavsagathinos_conv5|即使你们的教士也是背负着罪孽的。埃尔韦拉的教会禁止牧师与他们的妻子同居。要不他们怎么主持日常圣餐？要是他们都屈服于肉体的诱惑，你还指望他们的教众什么吗？
@@ -391,7 +391,7 @@ dlga_bedavsagathinos_conv7:bedavsagathinos_conv9|性有什么错？我可知道�
 dlga_bedavsagathinos_conv7:bedavsagathinos_conv10|我不想卷进来。这是你与阿格霍斯的争论。
 dlga_bedavsagathinos_conv8:close_window|说得好。你迈进了一大步，仍在天国之内。
 dlga_bedavsagathinos_conv9:bedavsagathinos_conv9_2|哈！这真妙！
-dlga_bedavsagathinos_conv9_2:close_window|我干嘛理这个…我被欲望包围着。
+dlga_bedavsagathinos_conv9_2:close_window|我干嘛理这个……我被欲望包围着。
 dlga_bedavsagathinos_conv10:close_window|我问你是因为我以为你是个勇敢的人，而不是回避直接回答的懦夫。再见。
 dlga_start:ragnarssons_1|我已经送信告知拉格纳之子你的到来。你和这些人一起还真是够大胆的。谁派你来的？
 dlga_start:alfredthegreat1|丹麦特使，我引你觐见西撒克逊的阿尔弗雷德，埃塞尔沃夫之子，阿弗宁，厄多曼，受神庇佑的，天命的大艾弗德的继承者，西撒克逊与不列颠之王。向你面前之人行礼。
@@ -498,7 +498,7 @@ dlga_drunk_response:drunk_fight_start.1|对不起，请接受我的道歉。
 dlga_drunk_fight_start:close_window|我会让你的傻笑从你脸上彻底消失！
 dlga_drunk_response:drunk_player_high_renown|你知道我是谁吗？
 dlga_drunk_player_high_renown:drunk_fight_start|我才不在乎呢！
-dlga_drunk_player_high_renown:drunk_player_high_renown|呃…实际上…是的，是的，我知道你是谁，{reg59?夫人:先生} 。请原谅我，大人——一定是喝多了的缘故，我马上就走，马上…
+dlga_drunk_player_high_renown:drunk_player_high_renown|呃……实际上……是的，是的，我知道你是谁，{reg59?夫人:先生} 。请原谅我，大人——一定是喝多了的缘故，我马上就走，马上……
 dlga_drunk_player_high_renown:drunk_fight_start.1|为什么？想打架就来吧！
 dlga_drunk_player_high_renown:close_window|我也这么觉得。现在，赶紧离开。
 dlga_start:fistfight_response|你看起来像个能挨几下的{reg59?女人:家伙}——来试试吧。我想和你提个生意。
@@ -520,7 +520,7 @@ dlga_ramun_introduce_4:ramun_introduce_5|差不多对了。我喜欢称自己是
 dlga_ramun_introduce_5:ramun_introduce_6|船上奴隶。
 dlga_ramun_introduce_6:ramun_introduce_7|这回你终于答对了！像这样的一个贸易港口可不能少了这些奴隶。每次出海总是会损失一些奴隶，因此奴隶的需求量总是很高。船长们都会付给我很多钱。
 dlga_ramun_introduce_7:ramun_introduce_8|这些奴隶是从哪里来？
-dlga_ramun_introduce_8:ramun_introduce_9|一般而言，我做的是从官方那买进已定罪的罪犯的生意。我也买从各国来的战俘，或是不能还债的人，他们被送来，是因为我出价最高。然而，偶尔我也会从私掠船和其他…“个人”那买进。干这行不能挑剔卖家。你手头没俘虏吧？是吗？
+dlga_ramun_introduce_8:ramun_introduce_9|一般而言，我做的是从官方那买进已定罪的罪犯的生意。我也买从各国来的战俘，或是不能还债的人，他们被送来，是因为我出价最高。然而，偶尔我也会从私掠船和其他……“个人”那买进。干这行不能挑剔卖家。你手头没俘虏吧？是吗？
 dlga_ramun_introduce_9:ramun_introduce_10|我这儿？
 dlga_ramun_introduce_10:ramun_introduce_11|为什么不？要是你想走出走镇子，你就迟早得和什么人交手。然后，愿主保佑，你会赢的。干嘛不借此赚点钱呢？饶他们一命，把他们带给我，我会付你每人50先令。别太在乎他们是谁来自何方？
 dlga_ramun_introduce_11:ramun_introduce_12|嗯，我会考虑一下的。
@@ -574,7 +574,7 @@ dlga_looters_2bribe:close_window|老子管你是谁，现在受死吧！
 dlga_looters_2bribe:looters_2bribeg|对，我听说过你。人们说在你手下油水最足。请原谅，我们很乐意成为您的士兵。
 dlga_looters_2bribe:looters_2bribere|对，我听说过你。人们说你的赏钱最多。如果你能提供{reg0} 先令的话，我们会认真考虑的。
 dlga_looters_2bribere:close_window|我从未想象过有如此勇士为我作战。欢迎加入我的队伍。
-dlga_looters_2bribere:looters_bribe12|我的钱不够…
+dlga_looters_2bribere:looters_bribe12|我的钱不够……
 dlga_looters_2bribere:looters_bribe12.1|噢嗬！我还以为你出得起这个价呢，现在算了吧！
 dlga_looters_2bribeg:close_window|为什么？你这样的队伍对我来说简直梦寐以求！
 dlga_looters_2bribeg:looters_bribe13|算了吧，这只是醉话。
@@ -606,7 +606,7 @@ dlga_start:wessex_patrol1|{s2}^^停下！
 dlga_wessex_patrol1:wessex_patrol2|让我们通过。我们是使者，要跟西撒克逊的阿尔弗雷德见面。
 dlga_wessex_patrol1:wessex_patrol3|(攻击撒克逊巡逻队)
 dlga_wessex_patrol1:wessex_patrol2.1|(继续你的路途，躲开撒克逊巡逻队)
-dlga_wessex_patrol2:close_window|--撒克逊人从路上移开，允许你的队伍通行。--
+dlga_wessex_patrol2:close_window|——撒克逊人从路上移开，允许你的队伍通行。——
 dlga_wessex_patrol2:close_window.1|我知道你是谁，{playername} 。我的兄弟就在你之前袭击的征粮队里。我才不管你是不是什么使者，你得为杀死我的兄弟付出代价。
 dlga_wessex_patrol3:close_window|准备武器，他们袭击了！
 dlga_start:foragers_mission_talk|停下！你是谁，你想干什么？
@@ -855,7 +855,7 @@ dlga_start:close_window.33|可耻啊，{playername} ！你简直就是个废物�
 dlga_start:bodo_carta1|{reg59?女士:先生} ，你已经找到了那封信！
 dlga_start:bodo_choiceside1|等等，{reg59?女士:先生} ，是时候告别丹麦人，向西撒克逊进发了。我们必须把这封来自阿斯图里亚斯国王的信送给西撒克逊的国王阿尔弗雷德·埃塞尔沃夫和他的兄弟艾弗德。我终于要完成我的任务了。
 dlga_start:bodo_danishcamp1|{reg59?女士:先生} ，请在进入丹麦人营地前给我一点时间！
-dlga_start:close_window.34|噢——感谢老天爷…感谢老天爷…我安全了吗？
+dlga_start:close_window.34|噢——感谢老天爷……感谢老天爷……我安全了吗？
 dlga_start:sigurd_quest_revenge10|你让我去送死，我的朋友，但是我不会怪你。我理解你急着救自己的母亲。我只是对两件事后悔：辜负了我的国王，让他的信落在敌人手里。而且还失去了获得你的信任的最好时机。
 dlga_start:close_window.35|你带路。
 dlga_start:close_window.36|去找比约恩的路上一路顺风。
@@ -909,7 +909,7 @@ dlga_companion_questions_asbjorn4:companion_questions_asbjorn5|{s2}^^议事会�
 dlga_companion_questions_asbjorn5:companion_questions_asbjorn6|让我们上路去加入维京舰队吧。
 dlga_companion_questions_asbjorn6:companion_recruit_signup|我肯定咱们会成为好朋友的。我们必须尽快前往里伯的码头，找到港口主管，然后加入舰队。
 dlga_companion_recruit_backstory_responsebodo:companion_questions_bodo1|你怎么去那里？
-dlga_companion_recruit_backstory_responsebodo:companion_questions_bodo2|博多…还有其他人在维京人的袭击后幸存吗？
+dlga_companion_recruit_backstory_responsebodo:companion_questions_bodo2|博多……还有其他人在维京人的袭击后幸存吗？
 dlga_companion_recruit_backstory_responsebrunhild:companion_recruit_signup|弗里斯王国不待见我，特别是肯尼莫的雅尔。我要离开这片土地，你要跟着我。
 dlga_companion_recruit_backstory_response2:companion_reginhard1|再喝一杯，然后告诉我为什么你不应该出现在这里吧，雷因哈德。
 dlga_sigurd_quest_revenge10:sigurd_quest_revenge11|你还没死呢，我会来救你的。
@@ -981,7 +981,7 @@ dlga_companion_brunhild_conv13:companion_brunhild_conv14|如果我必须在这�
 dlga_companion_brunhild_conv14:close_window|我需要认真考虑。谢谢你们所有人，我们必须继续上路。
 dlga_companion_questions_bodo1:companion_recruit_backstory_responsebodo|牛颈斯温在那次袭击后来到了这里。他在这儿留下了一些人手。我看见他正派出船只执行袭击弗里斯的任务。然后他往北出发了，我猜有什么东西或什么人正在那里等待他。他的手下透露了一些消息，但并非都是真话。
 dlga_companion_questions_bodo2:companion_responsebodostory|我知道你非常渴望得到你母亲的消息，她是否活着，又身在何处。好吧，其实我没有告诉你所有事情。我需要你保持冷静，然后仔细听我说。
-dlga_companion_responsebodostory2:companion_responsebodostory3|{s2}^^牛颈斯温在那里出现并非偶然。我们的船就是他的目标，而且在船上还有一个叛徒…
+dlga_companion_responsebodostory2:companion_responsebodostory3|{s2}^^牛颈斯温在那里出现并非偶然。我们的船就是他的目标，而且在船上还有一个叛徒……
 dlga_companion_responsebodostory3:companion_responsebodostory41|你在说什么？什么目标？什么叛徒？
 dlga_companion_responsebodostory3:companion_responsebodostory42|我不在乎你要说什么。我只想知道我的母亲发生了什么。
 dlga_companion_responsebodostory42:companion_responsebodostory41|{s2}^^我已经让你保持冷静了！我尽量长话短说，但你必须先知道这件事。
@@ -1044,7 +1044,7 @@ dlga_bodo_choiceside51:bodo_choiceside6|你的意见也相当关键，伯伦希�
 dlga_bodo_choiceside51:bodo_choiceside53|什么？如果我把信送给丹麦人的话你会怎么样？
 dlga_bodo_choiceside53:bodo_choiceside6|我依旧会留在你身边，但是我不支持你的决定。我欠了你太多，也在你身边花了太多时间。
 dlga_bodo_choiceside53:bodo_choiceside6.1|我会掉头离开，不会参与接下来的事情。
-dlga_bodo_choiceside6:bodo_choiceside7|好吧…我不知道应该说什么。无所谓，无论你选择如何，我都会跟着你。
+dlga_bodo_choiceside6:bodo_choiceside7|好吧……我不知道应该说什么。无所谓，无论你选择如何，我都会跟着你。
 dlga_bodo_choiceside6:bodo_choiceside61|我在这里并不开心。抱歉，我会离开你们，另找一个首领。
 dlga_bodo_choiceside61:bodo_choiceside62|你对于这个团队非常重要，阿格霍斯。我希望你留下。
 dlga_bodo_choiceside61:bodo_choiceside7|我明白，你最好离开我们。
@@ -1068,7 +1068,7 @@ dlga_bodo_choiceside132:bodo_choiceside15|你让我身处两难之地。但我�
 dlga_bodo_choiceside132:bodo_choiceside15.1|很抱歉，我不会与那些仅仅选择了成为维京人的敌人作战的。我说过这话，而且不会收回。是时候去找一个新主人了。我希望你在西撒克逊过得开心，{reg59?我的美人儿:帅哥} 。
 dlga_bodo_choiceside14:bodo_choiceside141|我不认为你是对的，但我会忠诚于你，而且继续追随你。
 dlga_bodo_choiceside14:bodo_choiceside141.1|我们要分道扬镳了，{playername} 。祝你好运。如果你有机会回到弗里斯，你可能会在我父亲的家里找到我……或者永远不会了。
-dlga_bodo_choiceside141:bodo_choiceside15|好吧…我会跟随你。
+dlga_bodo_choiceside141:bodo_choiceside15|好吧……我会跟随你。
 dlga_bodo_choiceside141:bodo_choiceside15.1|我在这里并不开心，你知道的。我会离开，我想自己会回到君士坦丁堡的。
 dlga_bodo_choiceside15:close_window|是时候回到正途了，我们还要执行任务。
 dlga_bodo_danishcamp1:bodo_danishcamp2|拉格纳之子正身处困境，被撒克逊人围攻，而且不堪一击了。我们需要谈谈这个。
@@ -1097,11 +1097,11 @@ dlga_companions_despuesduelo1:companions_despuesduelo2|这是不可避免的，�
 dlga_companions_despuesduelo2:companions_despuesduelo3|我理解你肩上的重担，因为在沃登里克号上的屠杀之后，我也经历过同样的情况。我不知道如何安慰你，但是没有人能够预料雷因哈德的背叛。你在这件事里没有过错。
 dlga_companions_despuesduelo3:companions_despuesduelo3_1|谢谢你跟我说这些话，但是不要担心，我很好。
 dlga_companions_despuesduelo3:companions_despuesduelo3_2|他是罪有应得，我一点也不内疚。
-dlga_companions_despuesduelo3:companions_despuesduelo3_3|我杀死了他…我无法原谅自己，我是一个可怕的人。
+dlga_companions_despuesduelo3:companions_despuesduelo3_3|我杀死了他……我无法原谅自己，我是一个可怕的人。
 dlga_companions_despuesduelo3_2:companions_despuesduelo3_1|看来我们不应该太担心你；你好像全无感情。
 dlga_companions_despuesduelo3_3:companions_despuesduelo3_4|这并不必要。我以为你是一个坚强的人。
 dlga_companions_despuesduelo3_4:companions_despuesduelo3_1|{s2}^^忘记他吧。他不知道这有多难受。
-dlga_companions_despuesduelo3_1:companions_despuesduelo4|{s2}^^老天爷啊，我…我有罪，而我不明白为何你会原谅我。我被西格德欺骗了。我以为自己遇上了成家立业的好运气，而且我还把泰德之死怪罪于你……但一切都是我的错。早在我向肯尼莫的雅尔出卖他时，所有的事情就注定了。我的所作所为都是错误，现在埃吉尔还因我而死。我才是该死的人，你杀了我吧。
+dlga_companions_despuesduelo3_1:companions_despuesduelo4|{s2}^^老天爷啊，我……我有罪，而我不明白为何你会原谅我。我被西格德欺骗了。我以为自己遇上了成家立业的好运气，而且我还把泰德之死怪罪于你……但一切都是我的错。早在我向肯尼莫的雅尔出卖他时，所有的事情就注定了。我的所作所为都是错误，现在埃吉尔还因我而死。我才是该死的人，你杀了我吧。
 dlga_companions_despuesduelo3_1:companions_despuesduelo5|{s2}^^我不明白你为何流泪。雷因哈德背叛了我们。我曾经相信他，所有人都曾经相信他。我以为他是一个好人，但他竟然为了一间房子和一个女人就向西格德出卖了我们。雷因哈德就是一泡狗屎，他死不足惜。
 dlga_companions_despuesduelo3_1:companions_despuesduelo5.1|雷因哈德背叛了我们。我曾经相信他，所有人都曾经相信他。我以为他是一个好人，但他竟然向西格德出卖了我们。
 dlga_companions_despuesduelo5:companions_despuesduelo5_1|没错，雷因哈德是一泡狗屎，他死不足惜。
@@ -1308,7 +1308,7 @@ dlga_reginhard_calm3:reginhard_calm4|什么是血鹰？
 dlga_reginhard_calm3:reginhard_calm42|他死得像一个勇士，到时间了，肯尼莫的雅尔还在等着我们。
 dlga_reginhard_calm3:reginhard_calm43|他死得像一名勇士，但你活得像老鼠。离开我的队伍，把这消息告诉雅尔吧。
 dlga_reginhard_calm4:reginhard_calm3|丹麦称之为波洛得奥恩。他们把受刑者所有的肋骨从脊柱一根根砍断拉开，然后扯出还鲜活的肺叶，样子像是展翅的鹰^这件事太可怕了！我希望你永远不会亲眼看见。
-dlga_reginhard_calm42:reginhard_calm_finalcon|{s4}^^那么你是在为肯尼莫的雅尔卖命…他最终得偿所愿。命运无常，无法抗拒，泰德已经死了，但你们现在是我的新家人。
+dlga_reginhard_calm42:reginhard_calm_finalcon|{s4}^^那么你是在为肯尼莫的雅尔卖命……他最终得偿所愿。命运无常，无法抗拒，泰德已经死了，但你们现在是我的新家人。
 dlga_reginhard_calm43:reginhard_calm_finalcon|{s4}^^是的，我是老鼠，但你也不见得更好。你利用我来找他。泰德是个好人。他唯一的罪恶是反抗丹麦并且争取自由^上帝原谅我吧！我接受我的命运！去跟你的雅尔说，然后，只要你愿意，我就会离开你的队伍。命运无常！
 dlga_reginhard_calm_finalcon:reginhard_calm_finalcon2|命运无常！
 dlga_reginhard_calm_finalcon2:close_window|命运无常！
@@ -1413,7 +1413,7 @@ dlga_player_hostage_surrender_accepted:player_hostage_surrender_accepted2|我释
 dlga_player_hostage_surrender_accepted2:close_window|非常好，现在我们离开了，这个地方归你了，今天算你赢了。
 dlga_player_hostage_surrender_accepted:player_hostage_surrender_accepted3|不，我还是要留在这里，与我们的领主并肩作战。
 dlga_player_hostage_surrender_accepted3:close_window|那么我们将拼死守卫这个堡垒，谈判结束，再见。
-dlga_player_siege_tributo:player_siege_tributo2|也许…我们可以在财务问题上达成一致。
+dlga_player_siege_tributo:player_siege_tributo2|也许……我们可以在财务问题上达成一致。
 dlga_player_siege_tributo:close_window|哈！看到你的脸就让我笑死了，你拿不走这里的任何东西！
 dlga_player_siege_tributo2:player_siege_tributo_reject|现在要么交钱，要么准备受死！
 dlga_player_siege_tributo_reject:close_window|混蛋，我们会战至最后一人！
@@ -1541,7 +1541,7 @@ dlga_eormenred_talk1:eormenred_historia1|好吧，我很感兴趣。
 dlga_eormenred_talk1:lord_pretalk|不，谢谢，我并不是那么想了解。
 dlga_eormenred_historia1:eormenred_historia2|皮克特人很古怪，非常古怪。（他低语道）有一些运气不太好的年轻武士，在将自己身上涂油彩后，落草为寇，成为极其危险强盗。皮克特人的村落肮脏不堪，他们藏身于群山和密林之中。我还记得，许多年前我领导着一支年轻的勇士，在那儿打家劫舍。
 dlga_eormenred_historia2:eormenred_historia3|经过几天的行军，我们看见一个村庄围绕着一个奇怪的建筑。现在，我知道这个可怕的建筑其实是古人建造的一个堡垒，一个石塔。那些皮克特人把自己的家园建在那片废墟的保护之下。但当时我们有一种突如其来的兴奋，钱财，牲畜和女人就在眼前了。（他微笑着继续说）大门敞开着。当时我们都以为他们掉以轻心，自己是瞎猫碰上死耗子了。我们开始像狼一样嚎叫，因为战利品近在眼前而无比兴奋。我们准备着长矛和剑，聚起盾阵向前冲去，狂喜不可压抑，因为看上去胜利唾手可得，即将到手的财富像在向我们招手。那时我们年轻，充满激情，都渴望展现自己的价值。如果是你，你会怎么做？
-dlga_eormenred_historia3:eormenred_historia4|嗯，太容易了…我可能会怀疑这其实一个陷阱…好吧，继续。
+dlga_eormenred_historia3:eormenred_historia4|嗯，太容易了……我可能会怀疑这其实一个陷阱……好吧，继续。
 dlga_eormenred_historia3:lord_pretalk|好一个无聊的故事，你们都是一伙菜鸟。
 dlga_eormenred_historia4:eormenred_historia5|是啊，你是对的，我知道，但我们当时可太浮躁了（他顿足捶胸）他们……从我们知道村庄的存在开始起，他们其实早就在等着我们来了，这就是一个大大的陷阱，他们有很多弓箭手，抱歉……天啊，无数支箭射来，箭如雨下。啊啊！我的人一个个中箭战死，一支又一支该死的箭！只有我活了下来。他们知道我是谁……我被俘，被迫成为他们女王的俘虏。当她厌倦了我，他们把我的左耳割下来，寄去向我父亲要了相当于一大笔罗马金币的财宝当赎金，我才最终得救。天啊，你一定得听我的，忘了皮克特吧！
 dlga_eormenred_historia5:lord_pretalk|谢谢你，大人，我在你的故事中学到很多。我会听你的，不去插手皮克特人的事务。
@@ -1609,7 +1609,7 @@ dlga_maelbresail_aftermorrigan2:maelbresail_aftermorrigan3|你很雄心勃勃，
 dlga_maelbresail_aftermorrigan2_1:maelbresail_aftermorrigan3|那对我很重要。在这个世界上，找到高效率的人不容易。
 dlga_maelbresail_aftermorrigan2_2:maelbresail_aftermorrigan3|我知道。不是所有的雇主都会好好地奖赏他的手下。不过有时候真的很难知道你是忠于我还是我的钱。
 dlga_maelbresail_aftermorrigan2_3:maelbresail_aftermorrigan3|你受委托去做事，你同意了。没人强迫你去做。现在来干什么，诉怨吗？我受不了这种反复无常和脆心肝了。
-dlga_maelbresail_aftermorrigan3:maelbresail_aftermorrigan4|--他轻声一笑--^^我听说莫莉卡试图用谎言来保命。她说的最后一句话是什么？
+dlga_maelbresail_aftermorrigan3:maelbresail_aftermorrigan4|——他轻声一笑——^^我听说莫莉卡试图用谎言来保命。她说的最后一句话是什么？
 dlga_maelbresail_aftermorrigan4:maelbresail_aftermorrigan5|她告诉我她是弗莱厄蒂血脉的最后一人了。
 dlga_maelbresail_aftermorrigan4:maelbresail_aftermorrigan5_2|她在我能和她说话前就死了。
 dlga_maelbresail_aftermorrigan5:maelbresail_aftermorrigan6|为爱尔兰的艾德·麦·尼尔大领主干活，你派我去杀死弗莱厄蒂家族的遗少，就是为了消除王位的潜在竞争对手。
@@ -1728,11 +1728,11 @@ dlga_start:close_window.54|再见。
 dlga_thora_dialog:thora_dialog_sigurd|索拉，幸会。我会去找你父亲谈谈，再见。
 dlga_thora_dialog:thora_dialog_romance|索拉，我宁可跟你聊天而不是你的父亲。你真是个漂亮的女孩儿呀。
 dlga_thora_dialog_sigurd:thora_dialog_sigurd2|索拉，你的名字跟你的脸蛋一样漂亮。我是埃吉尔·霍里克逊。我擅于使剑和矛，但是我臣服于你的美貌。
-dlga_thora_dialog_sigurd2:thora_dialog_sigurd2|噢，谢谢你…先生。我被你的奉承弄得不好意思了。你也…非常英俊。
+dlga_thora_dialog_sigurd2:thora_dialog_sigurd2|噢，谢谢你……先生。我被你的奉承弄得不好意思了。你也……非常英俊。
 dlga_thora_dialog_sigurd2:close_window|(允许他们继续聊天，去找乌尔夫)
 dlga_thora_dialog_sigurd2:thora_dialog_sigurd3|埃吉尔，不要缠着这女孩，我们走吧。
 dlga_thora_dialog_sigurd3:close_window|该死，你就看不得别人快活，对吧？没问题，我这就走，{reg59?女士:先生}。
-dlga_thora_dialog_romance:thora_dialog_romance2|噢，谢谢你…先生。我被你的奉承弄得不好意思了。你也…非常英俊。
+dlga_thora_dialog_romance:thora_dialog_romance2|噢，谢谢你……先生。我被你的奉承弄得不好意思了。你也……非常英俊。
 dlga_thora_dialog_romance:thora_dialog_sigurd|谢谢，但你应该去找我的父亲，乌尔夫。
 dlga_thora_dialog_romance2:thora_dialog_romance4|（利用你的说服力吸引索拉）
 dlga_thora_dialog_romance2:thora_dialog_romance3|你看来是一个聪明的女孩，跟我说说你自己吧。
@@ -1770,9 +1770,9 @@ dlga_ulf_dialog11:ulf_dialog123|埃吉尔和雷因哈德，我下命令，你们
 dlga_ulf_dialog123:ulf_dialog1231|{s2}^^好的，{reg59?我的女士:先生} 。我们谨遵命令。
 dlga_ulf_dialog1231:ulf_dialog121|把啤酒和食物分了。乌尔夫破坏了款待客人的法则，所以我们也不需要尊重他了。
 dlga_ulf_dialog122:ulf_dialog1221|为了保护像乌尔夫这样的鼠辈，他还当面嘲笑我们，你竟然向自己的朋友发出威胁。看在我们的关系份上，我不会违抗你的，但我不支持你的决定。
-dlga_ulf_dialog1221:ulf_dialog1232|干得好，雷因哈德。我也尊重你的决定，{playername} ，但是你应该要好好考虑一下与自己手下的关系了…
+dlga_ulf_dialog1221:ulf_dialog1232|干得好，雷因哈德。我也尊重你的决定，{playername} ，但是你应该要好好考虑一下与自己手下的关系了……
 dlga_ulf_dialog1231:ulf_dialog1232|不要碰那个仓库，那些东西不是我们的。
-dlga_ulf_dialog121:ulf_dialog122|{s2}^^但那是我的食物和酒水…你们就是一群劫匪和强盗。
+dlga_ulf_dialog121:ulf_dialog122|{s2}^^但那是我的食物和酒水……你们就是一群劫匪和强盗。
 dlga_ulf_dialog122:close_window|那些东西才不是你的呢。在等待牛颈斯温的人到来之前，我们就是这个农场的主人。
 dlga_ulf_dialog1232:ulf_dialog1233|谢谢，我相信众神会保佑你的。我只能告诉你一件事情，牛颈斯温从来就不是轻易折服的人，所以你们得保持警惕。
 dlga_ulf_dialog1233:close_window|那也是我的打算。我现在要好好安置士兵们直到牛颈斯温的人出现。
@@ -1907,7 +1907,7 @@ dlga_start:skald_talk|万福马利亚，我的{reg59?女士:大人} 。我是您
 dlga_start:skald_talk.1|万福马利亚，我的{reg59?女士:大人} 。我是您的吟游诗人，能够为您朗诵诗歌，也能够为您创作传播美名的诗歌。
 dlga_skald_pretalk:skald_talk|我的天才和技艺不会让您失望，我的大人。您还需要什么？
 dlga_skald_talk:skald_sing|我要你给我写一首诗歌，让人们知道我的名字和事迹。
-dlga_skald_sing:skald_sing2|{s2}^^我写的诗歌将会成为传奇，所有岛屿的人们都会听闻{playername}的伟大事迹。然而，我不得不请求您提供一笔小钱来支付墨水和…其他东西，大概是500先令。
+dlga_skald_sing:skald_sing2|{s2}^^我写的诗歌将会成为传奇，所有岛屿的人们都会听闻{playername}的伟大事迹。然而，我不得不请求您提供一笔小钱来支付墨水和……其他东西，大概是500先令。
 dlga_skald_sing2:skald_pretalk|把钱拿去，没有比我更伟大的英雄了。
 dlga_skald_sing2:close_window|你给的价码跟风流寡妇的一模一样，而且她能干的更好！所以，不，谢谢你。
 dlga_skald_talk:skald_cancion|你能为我和我的士兵作诗吗？
@@ -1994,7 +1994,7 @@ dlga_prisionero_interrogation1:prisionero_apoyoth1|来吧，索里克，你能�
 dlga_prisionero_apoyoth1:prisionero_apoyoth2|{s2}^^听好，奥拉夫。你袭击了我们的村庄，杀死了我们的人民，许多人因你而成为寡妇孤儿。尽管如此，只要你老实回答{playername}的问题，我们就会放了你。^你拥有选择权，要么开口回答就能活下去，要么失去持剑进入英灵殿的资格。在这里，我是你唯一的朋友，但要是你不肯回答问题，我就只好把你丢给这些杀人不眨眼的家伙。
 dlga_prisionero_interrogation1:prisionero_interrogation21|施刑者，这个囚犯想要被折磨，请你满足他吧。
 dlga_prisionero_interrogation1:close_window|我现在没有更多问题了。
-dlga_prisionero_interrogation21:prisionero_interrogation_torturer|{s2}^^…
+dlga_prisionero_interrogation21:prisionero_interrogation_torturer|{s2}^^……
 dlga_prisionero_interrogation_torturer:prisionero_interrogationth|{s2}^^当然，这是我的荣幸。请你退后一些，{playername} ，我需要一点空间，免得让你身上溅到血污。当你想让我停手的时候再过来吧。
 dlga_prisionero_interrogationth:pretalkdc|{s2}^^好了，好了，不要再折磨他了。我相信你们能够用其他办法得到所需的信息。
 dlga_prisionero_interrogation2:pretalkdc|我会知无不言的。
@@ -2120,7 +2120,7 @@ dlga_porta_presentacion:regular_member_talk.1|我？-他靠近并对你耳语- �
 dlga_regular_member_talk:porta1_presentacion|嘿，你能为我的士兵做些什么？
 dlga_porta1_presentacion:regular_member_talk|我？我对你很重要。我是你一个士兵的妻子。如果你在队伍里有足够的女性（30），你的士兵就能提高士气。（每隔48小时）
 dlga_regular_member_talk:follower_woman_action|我需要你的帮助来提升我们的士气。我会为此付给你450先令。
-dlga_follower_woman_action:regular_member_talk|男人？噢…好吧，我会帮你的。
+dlga_follower_woman_action:regular_member_talk|男人？噢……好吧，我会帮你的。
 dlga_start:sacerdotes_party_talk|我的{reg59?女士:大人} ，我们只是穷苦的传教士，试图为这片土地的人们带来些许光明。
 dlga_sacerdotes_party_talk:close_window|基督教传教士，嗯？是时候让你跟你的造物主团聚了！
 dlga_sacerdotes_party_talk:sacerdote_pary_action|神父，我要为了阵亡的战友捐献200先令。
@@ -2242,10 +2242,10 @@ dlga_lord_talk:jarldenunciado1|我们需要谈谈肯尼莫的雅尔。
 dlga_lord_talk:jarldenunciado1extra|我想谈谈肯尼莫的雅尔。
 dlga_lord_talk:jarldenunciado2extra|我想谈谈肯尼莫的雅尔。
 dlga_kinghorik_quest_revenge4:kinghorik_quest_revenge51|谢谢您，霍里克国王。我带着伯伦希尔和博多，他们都是信得过的人。
-dlga_kinghorik_quest_revenge4:kinghorik_quest_revenge52|让我说说我自己的故事…
+dlga_kinghorik_quest_revenge4:kinghorik_quest_revenge52|让我说说我自己的故事……
 dlga_kinghorik_quest_revenge51:kinghorik_quest_revenge52|行，行，很高兴认识他们。现在告诉我重点，我的时间有限。
 dlga_kinghorik_quest_revenge52:kinghorik_quest_revenge53|最近，我搭乘的船被牛颈斯温率领的维京海盗袭击，他是“蛇眼”西格德的手下。
-dlga_kinghorik_quest_revenge53:kinghorik_quest_revenge54|{s2}^^没什么特别的，许多丹麦领主的手下都是维京海盗，即使是我自己的领主也曾经当过。我希望你不要浪费我的时间…慎重地选择你的言辞，否则这场谈话就结束了。
+dlga_kinghorik_quest_revenge53:kinghorik_quest_revenge54|{s2}^^没什么特别的，许多丹麦领主的手下都是维京海盗，即使是我自己的领主也曾经当过。我希望你不要浪费我的时间……慎重地选择你的言辞，否则这场谈话就结束了。
 dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge61|牛颈斯温抓走了我的母亲，并带给了西格德。
 dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge62|西格德图谋将肯尼莫的雅尔扶植为弗里斯的国王，然后换取一支军队
 dlga_kinghorik_quest_revenge54:kinghorik_quest_revenge63|我的同伴博多有一些阿斯图里亚斯国王的重要东西，而那些东西正是西格德的想要的。
@@ -2311,7 +2311,7 @@ dlga_kinghorik_quest_danmarkprot9:kinghorik_quest_danmarkprot10|{s2}^^西格德�
 dlga_kinghorik_quest_danmarkprot10:kinghorik_quest_danmarkprot11|我们的命运在此交叉，{playername} 。占卜者们事先告知了你的来临，他们说将有一个比西格德的命途更加伟大的{reg59?女人:男人}出现，而且会挽救我的王位。你想得到牛颈斯温和自己的母亲，而我想要阻挠西格德的阴谋，我们可以互相帮助。从今开始，你在丹麦就处于我的正式保护之下了。
 dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot111|你能描述一下你的计划吗？
 dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot112|你过于理所当然了，我不会为你效劳的，我不认为自己需要你。
-dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot113|我们可以成为盟友…只是暂时的。在事情过去后，我不想再跟你们俩有任何瓜葛。
+dlga_kinghorik_quest_danmarkprot11:kinghorik_quest_danmarkprot113|我们可以成为盟友……只是暂时的。在事情过去后，我不想再跟你们俩有任何瓜葛。
 dlga_kinghorik_quest_danmarkprot111:kinghorik_quest_danmarkprot12|噢，很高兴你跟我站在同一阵线。现在听好了。
 dlga_kinghorik_quest_danmarkprot112:kinghorik_quest_danmarkprot12|看来你是笨得需要花光诸神欠你的好运气了。现在仔细听好，你必须在议事会中现身，在那里你不能没有我的保护。牛颈斯温也会出现，他要以自己兄弟被谋杀的罪名指控你。如果你不去参加议事会，将失去自保的机会，全盘皆输，议事会也会决定驱逐你。你将置身于法律之外，而任何一个丹麦人都有权杀死或者折磨你这样的罪犯。因此，与之相反，你亟需我的帮助以救回你的母亲，还有杀死斯温。现在，就听我的话。
 dlga_kinghorik_quest_danmarkprot113:kinghorik_quest_danmarkprot12|听起来不错，也很公正。只要还有利害关系，我们将保持同一阵线。在那以后，你要离开丹麦。
@@ -2330,7 +2330,7 @@ dlga_kinghorik_quest_danmarkprot182:kinghorik_quest_danmarkprot19|你说得对�
 dlga_kinghorik_quest_danmarkprot19:kinghorik_quest_danmarkprot20|{s2}^^{playername} ，我们还有一个任务要去完成。
 dlga_kinghorik_quest_danmarkprot20:kinghorik_quest_danmarkprot21|我不会忘记你的身份以及你的背叛，埃吉尔。
 dlga_kinghorik_quest_danmarkprot20:close_window|对，不要浪费时间了。
-dlga_kinghorik_quest_danmarkprot21:kinghorik_quest_danmarkprot22|{s2}^^你是个骗子，埃吉尔。你耍了我，而我曾经相信你。我还以为我们之间能够发生些什么，而你的目的只是为了从{playername}身上刺探情报。我…我们…我想…^^{s3}
+dlga_kinghorik_quest_danmarkprot21:kinghorik_quest_danmarkprot22|{s2}^^你是个骗子，埃吉尔。你耍了我，而我曾经相信你。我还以为我们之间能够发生些什么，而你的目的只是为了从{playername}身上刺探情报。我……我们……我想……^^{s3}
 dlga_kinghorik_quest_danmarkprot22:kinghorik_quest_danmarkprot23|{s2}^^霍里克国王是我的主人，也是我的父亲，我对他的忠诚高于一切。我不需要向任何人解释，我也没有利用伯伦希尔，我们只是度过了一段愉快的时光。如果她误会了，只是她自己的错。她应该知道像我这种人是永远不会谈婚论嫁的，而对象更加不可能是一个弗里斯奴隶。随你怎么想，但是要知道如果没有我，你也无法得到我父亲的支持。
 dlga_kinghorik_quest_danmarkprot23:close_window|当一切结束之后，你必须离开，滚回去你亲爱的父亲身边。
 dlga_kinghorik_quest_danmarkprot23:close_window.1|你将要为你对伯伦希尔所做的事情付出代价。当这一切结束的时候我会杀了你。
@@ -2386,7 +2386,7 @@ dlga_kinghorik_quest_thething15_6:kinghorik_quest_thething15_7|该来的都会�
 dlga_kinghorik_quest_thething15_7:kinghorik_quest_thething15_8|西格德·拉格纳逊，你的指控是非常严肃的，你有任何证据或者目击证人能证实你说的话吗？
 dlga_kinghorik_quest_thething15_8:kinghorik_quest_thething16|是的，有一个人一直跟着{playername}旅行，他现在就在我们之间，他准备好出庭作证。他的名字是雷因哈德，他是肯内梅尔领主的仆人。
 dlga_kinghorik_quest_thething16:kinghorik_quest_thething16_2|雷因哈德，上前来。你确定西格德·拉格纳逊所言属实吗？
-dlga_kinghorik_quest_thething16_2:kinghorik_quest_thething16_3|{s2}^^我…呃…是的，没错。我在弗里斯见到了{playername} ，当时{reg59?她:他}试图以杀死泰德来获得肯尼莫的雅尔的信任。然后{reg59?她:他}背叛了肯尼莫的雅尔并回到了丹麦，{reg59?她:他}在那里追踪牛颈斯温和西格德·拉格纳逊，{reg59?她:他}憎恨他们。所以奥利维和阿提利被杀了，而且霍里克国王是{reg59?她:他}的同党。我发誓这些都是事实。
+dlga_kinghorik_quest_thething16_2:kinghorik_quest_thething16_3|{s2}^^我……呃……是的，没错。我在弗里斯见到了{playername} ，当时{reg59?她:他}试图以杀死泰德来获得肯尼莫的雅尔的信任。然后{reg59?她:他}背叛了肯尼莫的雅尔并回到了丹麦，{reg59?她:他}在那里追踪牛颈斯温和西格德·拉格纳逊，{reg59?她:他}憎恨他们。所以奥利维和阿提利被杀了，而且霍里克国王是{reg59?她:他}的同党。我发誓这些都是事实。
 dlga_kinghorik_quest_thething16_3:kinghorik_quest_thething16_4|{s2}^^雷因哈德？为什么？
 dlga_kinghorik_quest_thething16_4:kinghorik_quest_thething16_5|{s2}^^{playername}是谋杀犯。泰德对于我而言就如同兄弟一般，而{playername}不仅杀了他，还杀了他的全家，甚至包括他的儿子！我发誓过有一天我会为泰德报仇的，而现在，这一天来到了。我只不过想要一座农场，一个妻子和一帮孩子，但是{playername}只会为{reg59?她:他}所经过之处带来不幸。我寻求保护，而西格德已经答应他能给我想要的一切。
 dlga_kinghorik_quest_thething16_4:kinghorik_quest_thething16_5.1|{s2}^^我不和你争论，埃吉尔。泰德对于我而言就如同兄弟一般，而{playername}为了杀掉他向我撒谎。我赢得了{playername}的信任并且发誓有一天我会为泰德的死复仇，而现在，这一天来到了。我只不过想要一座农场，一个妻子和一帮孩子，但是{playername}只会为{reg59?她:他}所经过之处带来不幸。我寻求保护，而西格德已经答应他能给我想要的一切。
@@ -2478,7 +2478,7 @@ dlga_ragnarssons_5:ragnarssons_6|够了，乌尔夫，带着你的人回去。�
 dlga_ragnarssons_6:ragnarssons_7|欢迎你，信使。我是哈弗丹，这是我的兄弟艾瓦和胡比。当我们接到消息说有一位信使突破了麦西亚人的阵线的时候，我们真的很高兴。你给我们带来了什么消息吗？
 dlga_ragnarssons_7:ragnarssons_8|你的兄弟比约恩派我来告知你，来自丹麦的援军因为牛颈斯温的倒戈而损耗殆尽。比约恩·艾恩赛德打算向撒克逊和麦西亚的领袖们提议把诺丁汉还给他们，以此来换取你们全身而退。^^这把刀子，属于拉格纳，以此证明我是你的兄弟的信使。
 dlga_ragnarssons_8:ragnarssons_9|该死的比约恩！他已经活够了，并且享受够了荣誉，现在开始嫉妒起我们年轻人来了。撒克逊和盎格鲁人都只是一群懦夫。如果是我的话，我就去直取他们的营地，把他们像老鼠一样干掉。
-dlga_ragnarssons_9:ragnarssons_10|别再胡扯了，胡比。撒克逊的人数是我们的五倍，在城墙外作战实在是无谋之举…^^你，信使，听好了。我是艾瓦·拉格纳逊。他们都叫我无骨者。如果牛颈斯温真如你所说背叛了我们并摧毁了我们的援军，那我迟早会抓到他，给他来个开膛剥腹献祭神灵。不过如果你的消息是假的话，那么祭给神灵的对象就是你了。
+dlga_ragnarssons_9:ragnarssons_10|别再胡扯了，胡比。撒克逊的人数是我们的五倍，在城墙外作战实在是无谋之举……^^你，信使，听好了。我是艾瓦·拉格纳逊。他们都叫我无骨者。如果牛颈斯温真如你所说背叛了我们并摧毁了我们的援军，那我迟早会抓到他，给他来个开膛剥腹献祭神灵。不过如果你的消息是假的话，那么祭给神灵的对象就是你了。
 dlga_ragnarssons_10:ragnarssons_11|请原谅我兄弟们的无礼，一直被困在这里，让我们都有些急躁。
 dlga_ragnarssons_11:ragnarssons_12_1|没关系，哈弗丹雅尔。我能理解这儿的困境。
 dlga_ragnarssons_11:ragnarssons_12_2|胡比说的没错，你应该突围并干掉那些肮脏的撒克逊人。
@@ -2497,7 +2497,7 @@ dlga_ragnarssons_13:ragnarssons_14|很好，我会告知比约恩的，祝你好
 dlga_ragnarssons_13:ragnarssons_15|额，我还期待着能领到些报酬呢。
 dlga_ragnarssons_14:close_window|也祝你好运！我担心出去会比进来更难。麦西亚人也看到你进来了，他们在树林中增加了兵力。
 dlga_ragnarssons_15:close_window|当然，收下这笔钱和我们的祝愿。我担心出去会比进来更难。麦西亚人也看到你进来了，他们在树林中增加了兵力。
-dlga_lord_talk:kennemerjarl_muy_angry|{s11} ，我从斯温手上救过道琴嘉…
+dlga_lord_talk:kennemerjarl_muy_angry|{s11} ，我从斯温手上救过道琴嘉……
 dlga_kennemerjarl_muy_angry:kennemerjarl_enemistad1|{s2}^^我交给你的任务是什么？你不应该专心去干掉国王吗？而你又做了些什么？明知会让我不满还跑去帮道琴嘉的忙。那个将力挺我登上王位的人，正被你激怒了。你背叛了我————你的雅尔。我以我的名字发誓，{s11} ，你会为此付出代价的！
 dlga_lord_talk:kennemerjarl_doccingacano|大人，道琴嘉要被牛颈斯温攻击了，他们需要更多人手。
 dlga_lord_talk:king_doccingacano|道琴嘉要被牛颈斯温攻击了，他们需要帮助！
@@ -2533,7 +2533,7 @@ dlga_lord_talk:sigurd_quest_revenge_horik0|西格德，是时候该谈谈了。�
 dlga_lord_talk:sigurd_quest_revenge_horik|西格德，是时候该谈谈了。我不是一般人，我有霍里克国王的支持。
 dlga_sigurd_quest_revenge1:lord_pretalk|我不管你是谁，你想干什么。在丹麦，你只是一个无名之辈。我只说一遍，赶紧从我面前滚开。
 dlga_sigurd_quest_revenge_horik0:sigurd_quest_revenge2|{s2}^^我明白了。我曾希望能避免这样，但我已经累了，你在我眼前出现就是对我莫大的冒犯。我知道你的名字，{playername} 。{s4}告诉了我关于你的事情，你就是那个会去杀掉罗里克·赫敏逊国王并帮助我们夺取弗里斯的{reg59?女:男}人。对此我曾很高兴，但是昨天我从{s4}那儿得到了更多的消息。“{playername}是一个叛徒”，信使这么说道，“小心，{reg59?她:他}的目标是牛颈斯温并会来找你。他已经摧毁了我们在道琴嘉的计划，并为了保护道琴嘉杀死了你的人。当你遇到{reg59?她:他} 的时候，杀了{reg59?她:他} 。”你还敢在这儿出现，实在是太胆大了。
-dlga_sigurd_quest_revenge_horik:sigurd_quest_revenge2|{s2}^^你真是固执呀！我曾希望能避免这样，但你的名字…恰恰是霍里克国王那边的。^^我知道你的名字，{playername} 。雅尔告诉了我关于你的事情，你就是那个会去杀掉罗里克·赫敏逊国王并帮助我们夺取弗里斯的{reg59?女:男}人。对此我曾很高兴，但是昨天我从{s4}那儿得到了更多的消息。“{playername}是一个叛徒”，信使这么说道，“小心，{reg59?她:他}的目标是牛颈斯温并会来找你。他已经摧毁了我们在道琴嘉的计划，并为了保护道琴嘉杀死了你的人。当你遇到他的时候，杀了他。”你还敢在这儿出现，实在是太胆大了。
+dlga_sigurd_quest_revenge_horik:sigurd_quest_revenge2|{s2}^^你真是固执呀！我曾希望能避免这样，但你的名字……恰恰是霍里克国王那边的。^^我知道你的名字，{playername} 。雅尔告诉了我关于你的事情，你就是那个会去杀掉罗里克·赫敏逊国王并帮助我们夺取弗里斯的{reg59?女:男}人。对此我曾很高兴，但是昨天我从{s4}那儿得到了更多的消息。“{playername}是一个叛徒”，信使这么说道，“小心，{reg59?她:他}的目标是牛颈斯温并会来找你。他已经摧毁了我们在道琴嘉的计划，并为了保护道琴嘉杀死了你的人。当你遇到他的时候，杀了他。”你还敢在这儿出现，实在是太胆大了。
 dlga_sigurd_quest_revenge2:sigurd_quest_revenge31|我的事情和你无关，我只想找到牛颈斯温和我的母亲。
 dlga_sigurd_quest_revenge2:sigurd_quest_revenge32|我并不知道雅尔的计划，所以我保卫了道琴嘉。我对你是忠诚的。
 dlga_sigurd_quest_revenge31:sigurd_quest_revenge4|你到底多蠢呀，牛颈斯温可不是一般人，他是我最得力的手下，有资格站在我的旗舰船头的人。我们没什么好说的了，在我还有耐心的时候，赶紧滚出去。
@@ -2551,7 +2551,7 @@ dlga_sigurd_quest_revenge52:sigurd_quest_revenge6|我知道，你母亲告诉了
 dlga_sigurd_quest_revenge6:sigurd_quest_revenge61|只要你告诉我牛颈斯温和我母亲在哪儿，博多就是你的了。
 dlga_sigurd_quest_revenge6:sigurd_quest_revenge62|我不知道博多在哪儿。
 dlga_sigurd_quest_revenge61:sigurd_quest_revenge71|那么我们成交。我想博多和你在一起，我会派两个人去找他。我有上百名战士随时待命，所以让你的人注意点儿，如果我的人顺利抓到博多的话那么就没问题。我希望事情就这么过去了，一场战斗对我俩来说都没有好处。
-dlga_sigurd_quest_revenge71:sigurd_quest_revenge8|{s4}^^至于我这边，在斯卡发附近有一处属于我的农场，牛颈斯温和你母亲会在那儿等你。{playername} ，记住在丹麦是有法律的，如果你对斯温出手，你会付出代价的。。。
+dlga_sigurd_quest_revenge71:sigurd_quest_revenge8|{s4}^^至于我这边，在斯卡发附近有一处属于我的农场，牛颈斯温和你母亲会在那儿等你。{playername} ，记住在丹麦是有法律的，如果你对斯温出手，你会付出代价的……
 dlga_sigurd_quest_revenge62:sigurd_quest_revenge72|你的谎言骗不了我。博多对我来说太重要了，我也知道，你知道他在哪儿，我只是不知道你把他和你的人藏在哪儿了。那么以这样来成交吧：
 dlga_sigurd_quest_revenge72:sigurd_quest_revenge82|{s4}^^至于我这边，在斯卡发附近有一处属于我的农场，牛颈斯温和你母亲会在那儿等你。如果博多不来的话，那么你的母亲会在你眼前死去，并且我会把斯温藏到一个你永远找不到的地方。
 dlga_sigurd_quest_revenge8:close_window|让你的人跟着我，我会去同博多道别，并把他交给你的人。
@@ -2567,14 +2567,14 @@ dlga_kennemerjarl_doccingacano:lord_pretalk|这既不是我的也不是你的问
 dlga_kennemerjarl_1:kennemerjarl_2|索里克是个好人，所以你也是个好朋友。你需要什么？
 dlga_kennemerjarl_1:kennemerjarl_2.1|索里克是个好人，也是为数不多的让我尊敬的弗里斯人。既然你是他派来的，那么我会听听你的话。
 dlga_kennemerjarl_2:kennemerjarl_3|你听说过沃登里克号吗，我和我母亲一起搭乘着这条船，遭到了牛颈斯温的袭击。
-dlga_kennemerjarl_3:kennemerjarl_4|嗜血的斯温在我们的海岸边袭击商船，每个春天都等着我们付贡金，但今年不会再这样了。别担心，我正在集结兵力去围剿他。现在我有其它事情要做。。。
+dlga_kennemerjarl_3:kennemerjarl_4|嗜血的斯温在我们的海岸边袭击商船，每个春天都等着我们付贡金，但今年不会再这样了。别担心，我正在集结兵力去围剿他。现在我有其它事情要做……
 dlga_kennemerjarl_4:kennemerjarl_51|我希望加入此战，我要为我的母亲复仇。
-dlga_kennemerjarl_51:kennemerjarl_6|{s1}^^是吗。。。你有多少兵力与船只？
+dlga_kennemerjarl_51:kennemerjarl_6|{s1}^^是吗……你有多少兵力与船只？
 dlga_kennemerjarl_6:kennemerjarl_71|我的双臂就是我的力量，我的勇气则是我的船只。我们将一起杀了牛颈斯温。
 dlga_kennemerjarl_6:kennemerjarl_72|说实话我已经失去了一切，不过我依旧有着复仇的勇气。
 dlga_kennemerjarl_6:kennemerjarl_73|我只有我自己一个人，大人，不过我愿意将我所有的忠诚献给您。
-dlga_kennemerjarl_71:kennemerjarl_8|好的，好的，我明白了…恩，你看我也很忙，你过一段时间再来找我吧，十年后怎么样？
-dlga_kennemerjarl_72:kennemerjarl_8|很好，我能理解你急于复仇的的心情，不过我帮不了你…我需要准备好人马和船只，而不是靠着一个装备不齐，服丧中的孤儿去战斗。
+dlga_kennemerjarl_71:kennemerjarl_8|好的，好的，我明白了……恩，你看我也很忙，你过一段时间再来找我吧，十年后怎么样？
+dlga_kennemerjarl_72:kennemerjarl_8|很好，我能理解你急于复仇的的心情，不过我帮不了你……我需要准备好人马和船只，而不是靠着一个装备不齐，服丧中的孤儿去战斗。
 dlga_kennemerjarl_73:kennemerjarl_8|我对你的忠诚没有兴趣。我跟你说呀，你看上去是个好{reg59?姑娘:男人} ，为什么不去让道琴嘉的索里克帮你找{reg59?个好男人嫁了:份好差事} ，并重新你的生活呢？
 dlga_kennemerjarl_8:kennemerjarl_92|我想你一定能理解，在像我这样的情况下对荣誉的执着。
 dlga_kennemerjarl_92:kennemerjarl_93|你真的是为了荣誉吗？好吧，如果你能证明你的能力的话，我就让你有机会同斯温作战。
@@ -2602,11 +2602,11 @@ dlga_kennemerjarl_juicio_7:kennemerjarl_juicio_71.1|我不喜欢这差事，不�
 dlga_kennemerjarl_juicio_71:kennemerjarl_juicio_71_fin|你还呆在这儿呀？快去把你的任务完成。祝你成功，{reg59?大小姐:先生} ！
 dlga_kennemerjarl_juicio_71_fin:lord_pretalk|——他抓了抓他的鼻子——
 dlga_kennemerjarl_thiaderdm1:kennemerjarl_thiaderdm2|我很高兴，在你回来之前，我就收到泰德的死讯了。^^我曾经怀疑你的能力，不过我必须承认你比我想的还聪明，并且你也证明了你是个让人信任的忠诚的人。拿上这笔钱作为你的报酬吧。你没有顺便把雷因哈德也杀掉可真是奇怪呀，不过我想你队伍里大概需要一只宠物吧。我不想看到他，总之来见我的时候把他支走。
-dlga_kennemerjarl_thiaderdm2:kennemerjarl_thiaderdm3|{s2}^^很好很好…我必须承认，长久以来我一直在等着像你这样的人。^你是个能找到方法并完美解决任务的人，这一点实在是太重要了。有时候我真觉得我身边的人都是笨蛋。^现在我有件好事想跟你谈谈——一件能让你发财的好事。
+dlga_kennemerjarl_thiaderdm2:kennemerjarl_thiaderdm3|{s2}^^很好很好……我必须承认，长久以来我一直在等着像你这样的人。^你是个能找到方法并完美解决任务的人，这一点实在是太重要了。有时候我真觉得我身边的人都是笨蛋。^现在我有件好事想跟你谈谈——一件能让你发财的好事。
 dlga_kennemerjarl_thiaderdm3:kennemerjarl_thiaderdm41|我不在乎财富，我要找到斯温。
 dlga_kennemerjarl_thiaderdm3:kennemerjarl_thiaderdm42|听起来不错，请继续说下去。
 dlga_kennemerjarl_thiaderdm41:kennemerjarl_thiaderdm42|我就知道你这么想，不过他们是有关联的，先听我把话说完。
-dlga_kennemerjarl_thiaderdm42:kennemerjarl_thiaderdm5|实话告诉你，我现在已经有足够的军力去追捕躲在道琴嘉附近的斯温了，我希望你能和我们一起去抓住他…^不过我们有个问题，那就是国王，我的叔叔，不愿意去攻击牛颈斯温。他对斯温的主人，拉格纳之子中的“蛇眼”西格德雅尔十分害怕。拉格纳在维京人中被称作罗德伯克，也就是诺尔斯语中的多毛屁股。
+dlga_kennemerjarl_thiaderdm42:kennemerjarl_thiaderdm5|实话告诉你，我现在已经有足够的军力去追捕躲在道琴嘉附近的斯温了，我希望你能和我们一起去抓住他……^不过我们有个问题，那就是国王，我的叔叔，不愿意去攻击牛颈斯温。他对斯温的主人，拉格纳之子中的“蛇眼”西格德雅尔十分害怕。拉格纳在维京人中被称作罗德伯克，也就是诺尔斯语中的多毛屁股。
 dlga_kennemerjarl_thiaderdm5:kennemerjarl_thiaderdm52|这些名字对我毫无意义。西格德和他的父亲都是谁呀，值得我去害怕他们吗？
 dlga_kennemerjarl_thiaderdm5:kennemerjarl_thiaderdm51|你一直藏着这些信息，直到现在？
 dlga_kennemerjarl_thiaderdm5:kennemerjarl_thiaderdm6|我正在听着，请继续说下去。
@@ -2632,7 +2632,7 @@ dlga_kennemerjarl_enemistad21:kennemerjarl_enemistad22|总有一天我们会再�
 dlga_kennemerjarl_enemistad21:kennemerjarl_enemistad22_f|我现在必须离开了。
 dlga_kennemerjarl_enemistad22:lord_pretalk|我很期待那一天，你这人渣！
 dlga_kennemerjarl_enemistad22_f:lord_pretalk|好的！
-dlga_frisaking_1:frisaking_2|真是好消息！看来我作为主人的名声正在提高…
+dlga_frisaking_1:frisaking_2|真是好消息！看来我作为主人的名声正在提高……
 dlga_frisaking_2:frisaking_3|我会参加这些特别的宴会并亲自到场。
 dlga_frisaking_2:frisaking_4|我来这里并非是为了你的宴会。肯尼莫的雅尔要你的命。
 dlga_frisaking_3:frisaking_41|你看起来并不像拥有这种资格的人。
@@ -2650,15 +2650,15 @@ dlga_jarldenunciado13:jarldenunciado4|我明白，但我们不要继续这话题
 dlga_jarldenunciado14:jarldenunciado15|牛颈斯温是“蛇眼”西格德雅尔的走狗，他是拉格纳·罗德伯克的长子，你说的就是这些是最让人恐惧的危险人物，{playername} 。我的侄子胆大鲁莽，而且弗里斯的叛乱让我们处境艰难。他认为我很虚弱并无法消灭弗里斯并攻击支持他们的法兰克人，实际上我们也没有以前那么强大了。但我不认为他是叛徒，你有证据证明吗？
 dlga_jarldenunciado15:jarldenunciado16|不，他想让我杀你。
 dlga_jarldenunciado16:lord_pretalk|这是你和他的争端，不要把我也牵扯进来。你们快点和好吧，也不要把阴谋诡计带到我的会议上来。
-dlga_jarldenunciado4:lord_pretalk|好吧…
+dlga_jarldenunciado4:lord_pretalk|好吧……
 dlga_jarldenunciado1extra:lord_pretalk|我知道你要和我说什么。我的侄子警告过我你会谗言攻击他，{playername} 。你是我家不受欢迎的客人，我不想再听你的谎言了。
 dlga_jarldenunciado2extra:lord_pretalk|我知道你要和我说什么。我的侄子警告过我你会谗言攻击他，{playername} 。你是我家不受欢迎的客人，我不想再听你的谎言了。我侄子告诉过我让你给几天时间离开这里，然后宣布你为弗里斯的敌人。
 dlga_kinghorik_quest_revenge1:kinghorik_quest_revenge2|你勾起我的好奇心了，说出来听听。
 dlga_kinghorik_quest_revenge2:kinghorik_quest_revenge21|我们应该谈谈西格德。
 dlga_kinghorik_quest_revenge2:kinghorik_quest_revenge22|很抱歉，我不想现在在你有任务的情况下转移你的注意。我们下次再说吧。
 dlga_kinghorik_quest_revenge22:lord_pretalk|我不喜欢别人浪费我的时间。
-dlga_kinghorik_quest_revenge21:kinghorik_quest_revengegrove|通常我不会讨论这种微妙的话题，但我还是听说过你，毕竟你威名远扬。我们附近隐蔽的地方慢慢谈吧…
-dlga_kinghorik_quest_revenge21:kinghorik_quest_revengegrove.1|通常我不会讨论这种微妙的话题，但我还是听说过你，毕竟你德高望重。我们附近隐蔽的地方慢慢谈吧…
+dlga_kinghorik_quest_revenge21:kinghorik_quest_revengegrove|通常我不会讨论这种微妙的话题，但我还是听说过你，毕竟你威名远扬。我们附近隐蔽的地方慢慢谈吧……
+dlga_kinghorik_quest_revenge21:kinghorik_quest_revengegrove.1|通常我不会讨论这种微妙的话题，但我还是听说过你，毕竟你德高望重。我们附近隐蔽的地方慢慢谈吧……
 dlga_kinghorik_quest_revenge21:lord_pretalk|小声点，这不是地方。等离开这个地方，路上再说吧。
 dlga_kinghorik_quest_revenge21:kinghorik_quest_revenge21_1|西格德·拉格纳逊是我们的一位重臣，我们也没什么好谈的，懂吗？
 dlga_kinghorik_quest_revenge21_1:lord_pretalk|我们完事了吗？或者你还需要什么？
@@ -2692,7 +2692,7 @@ dlga_jarlbjornneg_31:jarlbjornneg_4|艾弗德，或者我应该称之为阿弗�
 dlga_jarlbjornneg_32:jarlbjornneg_4|别骗自己了。撒克逊人在这里才有实权，麦西亚的盎格鲁人太软弱。如果没有西撒克逊人，麦西亚早就在我的脚下了。只有撒克逊人才能同意停战与否，而且现在艾弗德会站在我们这边。他比他兄弟更识大局。
 dlga_jarlbjornneg_33:jarlbjornneg_4|阿尔弗雷德是个战士，而我们需要的是外交。无论如何，这种事他都得听他兄弟艾弗德的意见。
 dlga_jarlbjornneg_4:jarlbjornneg_51|很好，我马上就回来。
-dlga_jarlbjornneg_4:jarlbjornneg_52|唔…我想从中得到点什么奖励补偿下我的辛劳。
+dlga_jarlbjornneg_4:jarlbjornneg_52|唔……我想从中得到点什么奖励补偿下我的辛劳。
 dlga_jarlbjornneg_51:lord_pretalk|记住：当你到诺丁汉时，就说你是拉格纳之子派来的议和使者，并请求会见艾弗德。告诉他我们以光荣而不见血的方式解除围攻，希望在诺丁汉的城门讨论这些事宜。^^注意！告诉他我们只是想要谈判，否则我们会向北方请求增援，让撒克逊人和麦西亚人付出更多代价。就这么多，祝你好运。
 dlga_jarlbjornneg_52:jarlbjornneg_51|是的，我差点忘了我是在和一个奸商说话。我通常会用银子来作为还债的象征，但我知道你不是那种人。好吧，给你想要的，如果你完成任务还有更多，现在……
 dlga_jarlbjorn_1:jarlbjorn_2|兄弟，西格德承诺过要支援一千人给我们。他们在哪？
@@ -2729,7 +2729,7 @@ dlga_raethbarthbodoletter_4:raethbarthbodoletter_51|谢谢你，还有其它事�
 dlga_raethbarthbodoletter_4:raethbarthbodoletter_52|我可以去法兰克，了解一下法兰克人的动向。
 dlga_raethbarthbodoletter_4:raethbarthbodoletter_53|我可以去打败阿斯图里亚斯的军队。
 dlga_raethbarthbodoletter_4:raethbarthbodoletter_54|我必须注意斯温，有什么关于他的新消息吗？
-dlga_raethbarthbodoletter_51:raethbarthbodoletter_6|{s2}^^你已经帮我们很大的忙了。我真的不知道如何感谢你。你知道我已经派人去搜寻牛颈斯温的下落了。他会付出代价的，现在我想问你其它事情…
+dlga_raethbarthbodoletter_51:raethbarthbodoletter_6|{s2}^^你已经帮我们很大的忙了。我真的不知道如何感谢你。你知道我已经派人去搜寻牛颈斯温的下落了。他会付出代价的，现在我想问你其它事情……
 dlga_raethbarthbodoletter_52:raethbarthbodoletter_6|我不知道我们能不能在弗里斯得到消息。最好的办法是直接去法兰克，但现在我们也无法决定。
 dlga_raethbarthbodoletter_53:raethbarthbodoletter_6|{s2}^^我的兄弟比约恩会告诉你关于阿斯图里亚斯战士的故事，甚至是阿尔安达卢斯，他在那里失去了大部分船只。我们谈论的是卷入了600人的战争，你应该放弃这件事。
 dlga_raethbarthbodoletter_54:raethbarthbodoletter_6|我已经派人在英格兰的每个角落搜寻牛颈斯温。我可以告诉你他在和哈罗德·哈罗德逊的战斗中活了下来，但还没有露面，我知道的就这么多了。有些人说他和他的人都往南走了。
@@ -3439,7 +3439,7 @@ dlga_lord_tell_mission:lord_mission_hunt_down_fugitive_told|有件事需要你�
 dlga_lord_mission_hunt_down_fugitive_told:lord_mission_hunt_down_fugitive_accepted|我马上去追捕他，将其正法。
 dlga_lord_mission_hunt_down_fugitive_told:lord_mission_hunt_down_fugitive_rejected|非常抱歉，我太忙了，没有时间去追捕他。
 dlga_lord_mission_hunt_down_fugitive_accepted:close_window|太棒了，{playername} 。我及被害者的家人会非常感激你的。当然如果你能抓到他，那个赏金也就归你了。好的，祝你好运。
-dlga_lord_mission_hunt_down_fugitive_rejected:lord_pretalk|随你乐意吧，{playername} 。我估计已经有很多赏金猎人在干了…
+dlga_lord_mission_hunt_down_fugitive_rejected:lord_pretalk|随你乐意吧，{playername} 。我估计已经有很多赏金猎人在干了……
 dlga_lord_tell_mission:lord_mission_told_kill_local_merchant|事情是这样的：我欠{s3}的一个商人不少钱。当然，我没有打算还钱的意思。但是那个讨厌的家伙老是为此大惊小怪。他竟然够胆来威胁我——我！——他扬言要写一封抗议信给所有的商会和钱庄老板。什么意思，他要毁我的名誉！我需要一个可靠的人，来帮我确保他不再说话。永远。
 dlga_lord_mission_told_kill_local_merchant:lord_mission_accepted_kill_local_merchant|放心，他将再也说不出一个字。
 dlga_lord_mission_told_kill_local_merchant:lord_mission_rejected|我不会做低级的杀手的。去另外找人干那卑鄙的工作。
@@ -3711,11 +3711,11 @@ dlga_lady_profess_admiration:close_window|{s11}希望我们以后能常常见面
 dlga_lady_profess_admiration:lady_pretalk|呵呵，你真是个有趣的人……天啊，居然已经这么晚了！很抱歉，我必须离开了。
 dlga_lady_talk:lady_recite_poetry|你喜欢诗歌吗，尊敬的女士？
 dlga_lady_recite_poetry:lady_recite_poetry|那要看是什么样的诗了，你想吟诵一首吗？
-dlga_lady_recite_poetry:lady_recite_poetry_response|歌唱女神卡莉欧碧为梦神墨菲斯生了个儿子，取名叫做奥菲斯…
-dlga_lady_recite_poetry:lady_recite_poetry_response.1|狮子睡着了，有只老鼠跳到了他的脸上…
-dlga_lady_recite_poetry:lady_recite_poetry_response.2|传说中有一座遥远的海岛…
-dlga_lady_recite_poetry:lady_recite_poetry_response.3|赞美勇敢无畏的国王…
-dlga_lady_recite_poetry:lady_recite_poetry_response.4|焦虑牢牢攥住了女王的内心…
+dlga_lady_recite_poetry:lady_recite_poetry_response|歌唱女神卡莉欧碧为梦神墨菲斯生了个儿子，取名叫做奥菲斯……
+dlga_lady_recite_poetry:lady_recite_poetry_response.1|狮子睡着了，有只老鼠跳到了他的脸上……
+dlga_lady_recite_poetry:lady_recite_poetry_response.2|传说中有一座遥远的海岛……
+dlga_lady_recite_poetry:lady_recite_poetry_response.3|赞美勇敢无畏的国王……
+dlga_lady_recite_poetry:lady_recite_poetry_response.4|焦虑牢牢攥住了女王的内心……
 dlga_lady_recite_poetry:lady_pretalk|实际上，我没想到什么适合背诵的……
 dlga_lady_private_conversation_end:lady_pretalk|时间过得真快！我们不能再在此逗留了。
 dlga_lady_talk:lady_marriage_discussion|尊敬的女士，我能得到再次拜访你的荣幸吗？
@@ -3848,7 +3848,7 @@ dlga_seneschal_ask_something:seneschal_ask_something_2|当然，我将尽力帮�
 dlga_seneschal_ask_something_2:seneschal_ask_location|也许你知道可以上哪儿找到某个人……
 dlga_seneschal_ask_location:seneschal_ask_location_2|没错，做我这份工作的人消息灵通。你想找谁？
 dlga_seneschal_ask_location_2:seneschal_pretalk|没事。
-dlga_start:close_window.72|好吧，{playername} -- 在与{s10}的决斗中，你输了。根据我们的传统习俗，我不应该再接纳你了，再会，{playername} 。
+dlga_start:close_window.72|好吧，{playername} —— 在与{s10}的决斗中，你输了。根据我们的传统习俗，我不应该再接纳你了，再会，{playername} 。
 dlga_start:talk_caravan_escort|我们已经走了这么远了……前方安全吗？
 dlga_talk_caravan_escort:talk_caravan_escort_2a|周围也许有强盗。跟紧我。
 dlga_talk_caravan_escort_2a:close_window|相信我，{playername} ，我们已经跟的够紧了。开路吧。
@@ -4147,7 +4147,7 @@ dlga_deserters_2bribe:close_window|我才不管你谁呢，去死吧。
 dlga_deserters_2bribe:deserters_2bribeg|是的，我听说过你。他们说你的人最会劫掠。原谅我们，我们会加入你们并尊你为至高无上的领袖。
 dlga_deserters_2bribe:deserters_2bribere|如果你给得出{reg0} 先令，我或许会答应。
 dlga_deserters_2bribere:close_window|不错的交易，看来你的脑子还不错。欢迎来到军团，小伙子。
-dlga_deserters_2bribere:deserters_bribe12|我没有足够的钱…...
+dlga_deserters_2bribere:deserters_bribe12|我没有足够的钱……
 dlga_deserters_2bribere:deserters_bribe12.1|哼，你把自己看太高了，算了。
 dlga_deserters_2bribeg:close_window|为啥？我还以为你是我认为的那种高贵的人。
 dlga_deserters_2bribeg:deserters_bribe13|算了。再考虑下，我有足够的人来分你的钱。
@@ -4243,7 +4243,7 @@ dlga_tavern_traveler_tell_kingdoms:tavern_traveler_tell_kingdoms_2|北地分为�
 dlga_tavern_traveler_tell_kingdoms_2:tavern_traveler_tell_kingdoms_3|再仔细跟我谈谈这些良机。
 dlga_tavern_traveler_tell_kingdoms_2:close_window|谢谢你，我想了解的东西都了解了。
 dlga_tavern_traveler_tell_kingdoms_3:tavern_traveler_tell_kingdoms_4|很好，似乎我告诉你的东西你都了解了。你干得不错。
-dlga_tavern_traveler_tell_kingdoms_3:tavern_traveler_tell_kingdoms_4a|交战中的国家会付给雇佣兵一个好价钱。。如果你干出点小成绩，跟这个国家的任何一个领主对话，他们也许会提供给你一份雇佣合同。然而获得可观的奖励还是当你设法成为国王手下的一个封臣之后才行。封臣可以拥有村子，城堡和城镇，而且能靠封地的税金和其他收入获得大量的财富。通常情况下，只有王国的贵族才拥有获得封地的权利，但是在战争年代，一个国王通常毫不犹豫地接受某个在战场上表现卓越的人做为自己的一个封臣，并授予{他/她}拥有土地的权利。
+dlga_tavern_traveler_tell_kingdoms_3:tavern_traveler_tell_kingdoms_4a|交战中的国家会付给雇佣兵一个好价钱……如果你干出点小成绩，跟这个国家的任何一个领主对话，他们也许会提供给你一份雇佣合同。然而获得可观的奖励还是当你设法成为国王手下的一个封臣之后才行。封臣可以拥有村子，城堡和城镇，而且能靠封地的税金和其他收入获得大量的财富。通常情况下，只有王国的贵族才拥有获得封地的权利，但是在战争年代，一个国王通常毫不犹豫地接受某个在战场上表现卓越的人做为自己的一个封臣，并授予{他/她}拥有土地的权利。
 dlga_tavern_traveler_tell_kingdoms_4a:tavern_traveler_tell_kingdoms_4|在北地，从未听说过有哪个冒险者宣布放弃效忠任何一个国王，选择自立为王，并以自己的名义占有领地。？这是一条艰难的道路。无论如何，那些家世显赫的贵族，不大可能愿意接受一个新兴的领主当他们的国王。这样的统治者必须在建立王权的过程中慎之又慎，否则，将会遭到各方势力的攻击。
 dlga_tavern_traveler_tell_kingdoms_4:tavern_traveler_tell_kingdoms_5|对你这样的冒险者来说，支持一个在位国王的反对者，也许更容易一些。北地有很多这样的王位觊觎者，他们都出身于正当的家族，终日四处奔走，煽动民众，说自己比在位的国王更有资格拥有王权。如果有势力支持这些人，他们就能挑起内战，甚至有机会代替现在的国王。
 dlga_tavern_traveler_tell_kingdoms_5:tavern_traveler_tell_kingdoms_6|很有趣。到哪里我能找到这些要求称王者？
@@ -4288,20 +4288,20 @@ dlga_bookseller_talk:bookseller_buy|好的。让我看看你有哪些书卖。
 dlga_bookseller_buy:book_trade_completed|当然，{reg59?女士:先生}。
 dlga_book_trade_completed:bookseller_talk|还有什么事吗？
 dlga_bookseller_talk:close_window|没什么，谢谢。
-dlga_town_merchant_talk:herrero_buy|我想要你的武器。但是我需要更…特殊的。
+dlga_town_merchant_talk:herrero_buy|我想要你的武器。但是我需要更……特殊的。
 dlga_herrero_buy:herrero_trade|当然，{reg59?女士:先生}。
 dlga_herrero_buy:close_window|抱歉，朋友，但是我的艺术品只配有威望的人拥有。当你提高了自己的声望后再回来吧。
-dlga_herrero_trade:herrero_choose|我可以锻造你在其它地方找不到的有名的物品。我可以锻造一把贵族的剑或者矛，或者我可以卖你法兰克进口的斧头，还有更多…它们的质量取决于你今天所带的金属量。那么你想要些什么呢？
+dlga_herrero_trade:herrero_choose|我可以锻造你在其它地方找不到的有名的物品。我可以锻造一把贵族的剑或者矛，或者我可以卖你法兰克进口的斧头，还有更多……它们的质量取决于你今天所带的金属量。那么你想要些什么呢？
 dlga_herrero_choose:herrero_window|我要一把剑。我将叫它：寡妇制造者（13000先令) 。
 dlga_herrero_choose:herrero_window.1|请给我一支长矛(8000先令) 。
 dlga_herrero_choose:herrero_window.2|法兰克之斧。它是财富的象征(11000先令) 。
 dlga_herrero_choose:herrero_window.3|我想要些其它的。我喜欢惊喜（4种可能性，10000先令）。
 dlga_herrero_choose:close_window|没什么，谢谢你。
 dlga_herrero_window:close_window|记住我的名字，如果你有需要的话可以来找我，祝你好运，再见。
-dlga_town_merchant_talk:armorer_buy|我想要你的铠甲。但是我需要更…特殊的。
+dlga_town_merchant_talk:armorer_buy|我想要你的铠甲。但是我需要更……特殊的。
 dlga_armorer_buy:armorer_trade|当然，{reg59?女士:先生}。
 dlga_armorer_buy:close_window|抱歉，朋友，但是我的艺术品只配有威望的人拥有。当你提高了自己的声望后再回来吧。
-dlga_armorer_trade:armorer_choose|我可以锻造你在其它地方找不到的有名的物品。我也可以出售从法兰克进口的法兰克麟甲。如果你需要头盔，我可以卖给你盎格鲁国王的头盔或丹麦贵族头盔，还有更多…它们的质量取决于你今天所带的金属量。那么你想要些什么呢？
+dlga_armorer_trade:armorer_choose|我可以锻造你在其它地方找不到的有名的物品。我也可以出售从法兰克进口的法兰克麟甲。如果你需要头盔，我可以卖给你盎格鲁国王的头盔或丹麦贵族头盔，还有更多……它们的质量取决于你今天所带的金属量。那么你想要些什么呢？
 dlga_armorer_choose:armorer_window|一件链甲，我想要它。(17000先令) 。
 dlga_armorer_choose:armorer_window.1|我想要贵族头盔。它是财富的象征(9000先令) 。
 dlga_armorer_choose:armorer_window.2|我想要领主头盔。我希望它能够突出我五官的样子(12000先令) 。
@@ -4326,23 +4326,23 @@ dlga_minstrel_1:minstrel_courtship_questions|我有一些关于求爱的问题�
 dlga_minstrel_1:minstrel_courtship_poem|你能教我些诗么？
 dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach|我可以为您讲述《埃涅阿斯纪》中埃涅阿斯和蒂朵的故事。这是一首极富含寓意的诗歌，讲述了迦太基女王蒂朵和受到众神指引的特洛伊英雄埃涅阿斯坠入爱河。但朱庇特点醒了热恋中的埃涅阿斯，他离开了自己的爱人，为了履行众神赋予他的责任，找到一个新的城市来安置自己的特洛伊族群，而蒂朵在爱人离开后，感到伤心绝望最终自杀，用自杀诅咒埃涅阿斯并祈求复仇，死前她得到启示，预见到了之后迦太基人和罗马人持续世纪之久的残酷战争。（译者注：埃涅阿斯后来在意大利一个小国建立了城市，发展而成之后的罗马）故事的主旨——强烈炙热的爱被命运分离最终以蒙受诅咒的自杀收场——这被不少贵族小姐所钟爱，不过也不是所有小姐都喜欢这个故事。
 dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.1|我可以为您讲述“布兰的远航”的故事。这个爱尔兰传说可以说是肉欲故事也可以说是预言故事。费德鲍之子布兰，他的远征探险过程中共有21位伙伴，他的目的地是一个极尽奢华，充满欢愉的遥远孤岛。回程的时候，他意识到时光已然离他而去，他的探险旅程已然成为传奇神话。但他再也无法回到家乡，触摸家乡的土地并再次出海远行。我很确信这个故事能引发很多小姐的浪漫幻想，不过也有可能会让其他小姐感到厌烦。
-dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.2|我可以为您讲述奥菲斯的悲伤故事。他是梦神墨菲斯和歌唱女神卡莉欧碧之子。--这是一个悲伤感人的故事。他历经艰辛来到冥府为了带他的亡妻欧律狄克离开冥府，重回人世，但他没能遵守冥王哈迪斯和冥后佩塞芬尼开出的条件。来，听我为你吟述。
+dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.2|我可以为您讲述奥菲斯的悲伤故事。他是梦神墨菲斯和歌唱女神卡莉欧碧之子。——这是一个悲伤感人的故事。他历经艰辛来到冥府为了带他的亡妻欧律狄克离开冥府，重回人世，但他没能遵守冥王哈迪斯和冥后佩塞芬尼开出的条件。来，听我为你吟述。
 dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.3|我可以为你讲述传奇英雄贝奥武甫的冒险故事。这是一段充满英雄气概的史诗，饱含了热血与战争。贝奥武夫，耶阿特的英雄（译者注：耶阿特人——瑞典南方的斯堪的纳维亚人，公元6世纪被瑞典人征服）一生中历经3个强大的敌人格伦德尔，一个可怖的半人？半兽的怪物，他每晚都会在丹麦国王赫洛特戈尔的城堡里杀人，格伦德尔的母亲尤为强大，是一条恐怖的巨龙。听我给你慢慢吟述：
-dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.4|我可以为你讲述《埃索波斯故事集》，也就是著名的伊索寓言。寓言中的奴隶和叙述者经常用诙谐滑稽的动物来象征替代，其寓意大多讽刺人和牲畜，讲述了生活中十分实用的道理。注意听了…
+dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.4|我可以为你讲述《埃索波斯故事集》，也就是著名的伊索寓言。寓言中的奴隶和叙述者经常用诙谐滑稽的动物来象征替代，其寓意大多讽刺人和牲畜，讲述了生活中十分实用的道理。注意听了……
 dlga_minstrel_courtship_poem_teach:minstrel_courtship_poem_teach_2|为了教会你这些诗歌和故事，我需要和你花几个小时的时间，当然，还有一些先令作为学费。我想300先令刚刚好。
 dlga_minstrel_courtship_poem:minstrel_pretalk|我想你已经对我最拿手的那些诗完全了解了。
 dlga_minstrel_courtship_poem_teach_2:minstrel_courtship_poem_teach_3|是——教我那个
 dlga_minstrel_courtship_poem_teach_2:minstrel_pretalk|没事
-dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4|很好，跟着我复述：^焦虑关心牢牢攥住了女王的内心^她的血液里流淌着无法察觉火焰般的热情^英雄的勇气，言行，还有那与生俱来的感召力^让女王的灵魂中充斥着爱恋，内心深处卷起了那神秘炙热的火焰…
-dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.1|很好，跟着我复述：^传说中有一座遥远的海岛^四周充斥着发光的海马^绵延的砖石耐受着白色激浪的冲击^有四英尺高^壮丽的景色让我们的双眼充满欣喜^这块平原难道是天生的圣灵们嬉戏的场所^在南部的麦格—范德格特^小舟全力和战车竞争着…
-dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.2|很好，跟着我复述：^歌唱女神卡莉欧碧为梦神墨菲斯生了个儿子，取名叫做奥菲斯^？他用歌声吟唱诗篇，响彻山林^？当他的妻子被毒蛇咬伤，不治身亡，他独自一人来到冥府，为了带她重回人世竭尽所能^？他竭力说服冥王让她妻子和他一起返回阳间^？冥王答应了，但奥菲斯必须答应他一个条件，那就是在他们到家之前，奥菲斯都不能回头去看自己的妻子^？但奥菲斯没能遵守这个约定，在快成功之前回头看了他的妻子，瞬间他的妻子被拉回了地底世界，他永远失去了她…
-dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.3|很好，跟着我复述：^嘿，赞美勇敢无畏的丹麦人皇^我们戈矛武装的丹麦国王，无论岁月流逝^我们已经听闻，王公赢得了什么样的荣誉啊那是！^来自斯昆伦德尔-福斯的齐尔德·谢冯^从无数个部落到一个王国，来撕开蜂蜜酒，为勇士干杯…
-dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.4|很好，跟着我复述：^有只老鼠跳到了一头狮子的脸上，使他从梦中惊醒^被吵醒的狮子很生气，把他抓住，准备吃掉。老鼠请求饶命，并说：^如果保住性命，必将报恩^狮子轻蔑地笑了笑，便把他放走了…
-dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue|焦虑牢牢攥住了女王的内心…
-dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue.1|传说中有一座遥远的海岛…
-dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue.2|歌唱女神卡莉欧碧为梦神墨菲斯生了个儿子，取名叫做奥菲斯…
-dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue.3|赞美勇敢无畏的国王…
-dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue.4|狮子睡着了，有只老鼠跳到了他的脸上…
+dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4|很好，跟着我复述：^焦虑关心牢牢攥住了女王的内心^她的血液里流淌着无法察觉火焰般的热情^英雄的勇气，言行，还有那与生俱来的感召力^让女王的灵魂中充斥着爱恋，内心深处卷起了那神秘炙热的火焰……
+dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.1|很好，跟着我复述：^传说中有一座遥远的海岛^四周充斥着发光的海马^绵延的砖石耐受着白色激浪的冲击^有四英尺高^壮丽的景色让我们的双眼充满欣喜^这块平原难道是天生的圣灵们嬉戏的场所^在南部的麦格—范德格特^小舟全力和战车竞争着……
+dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.2|很好，跟着我复述：^歌唱女神卡莉欧碧为梦神墨菲斯生了个儿子，取名叫做奥菲斯^？他用歌声吟唱诗篇，响彻山林^？当他的妻子被毒蛇咬伤，不治身亡，他独自一人来到冥府，为了带她重回人世竭尽所能^？他竭力说服冥王让她妻子和他一起返回阳间^？冥王答应了，但奥菲斯必须答应他一个条件，那就是在他们到家之前，奥菲斯都不能回头去看自己的妻子^？但奥菲斯没能遵守这个约定，在快成功之前回头看了他的妻子，瞬间他的妻子被拉回了地底世界，他永远失去了她……
+dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.3|很好，跟着我复述：^嘿，赞美勇敢无畏的丹麦人皇^我们戈矛武装的丹麦国王，无论岁月流逝^我们已经听闻，王公赢得了什么样的荣誉啊那是！^来自斯昆伦德尔-福斯的齐尔德·谢冯^从无数个部落到一个王国，来撕开蜂蜜酒，为勇士干杯……
+dlga_minstrel_courtship_poem_teach_3:minstrel_courtship_poem_teach_4.4|很好，跟着我复述：^有只老鼠跳到了一头狮子的脸上，使他从梦中惊醒^被吵醒的狮子很生气，把他抓住，准备吃掉。老鼠请求饶命，并说：^如果保住性命，必将报恩^狮子轻蔑地笑了笑，便把他放走了……
+dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue|焦虑牢牢攥住了女王的内心……
+dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue.1|传说中有一座遥远的海岛……
+dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue.2|歌唱女神卡莉欧碧为梦神墨菲斯生了个儿子，取名叫做奥菲斯……
+dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue.3|赞美勇敢无畏的国王……
+dlga_minstrel_courtship_poem_teach_4:minstrel_learn_poem_continue.4|狮子睡着了，有只老鼠跳到了他的脸上……
 dlga_minstrel_courtship_poem_teach_4:minstrel_courtship_poem_teach_reject|切……只不过是些打油诗而已。
 dlga_minstrel_courtship_poem_teach_reject:minstrel_pretalk|好吧，如果这首诗不合你的口味，那么就留着你的钱吧。不过请听我一言，对诗人和情人来说，重要的不是什么东西能让你开心，而是你能如何让你的听众开心。如果你希望学习诗歌的话，我仍然愿意把它教给你。
 dlga_minstrel_learn_poem_continue:close_window|很好，后面还有很长一段，仔细听好了……
@@ -4472,7 +4472,7 @@ dlga_bodo_merchant_3:bodo_merchant_4a|提醒我一下你是谁。老实说，我
 dlga_bodo_merchant_3:close_window|谢谢你！现在我必须去看看那些船怎么样了。再见吧。
 dlga_bodo_merchant_4a:bodo_merchant_5|噢，我是博多，我从阿斯图里亚斯王国北方的坎塔布里亚而来，罗马人曾经称之为希斯帕尼亚，我们在这次航行中已经有所了解了。
 dlga_bodo_merchant_5:bodo_merchant_6|我记得你跟我说过你自己的故事，但现在请你再复述一次。
-dlga_bodo_merchant_5:close_window|哦，那就对了…博多。好吧，现在我必须去看看那些船怎么样了。再见吧。
+dlga_bodo_merchant_5:close_window|哦，那就对了……博多。好吧，现在我必须去看看那些船怎么样了。再见吧。
 dlga_bodo_merchant_6:bodo_merchant_7|也许晚些时候吧。我应该要注意一下海平面的情况，因为我不认为船长决定在这里暂停是一个好主意。
 dlga_start:close_window.90|求求你，仁慈的{reg59?女士:先生} ，救救我们吧！我不想沦为奴隶！
 dlga_bodo_merchant_7:bodo_merchant_8|我也很担心，你的警戒让我感觉好些，朋友。
@@ -4484,9 +4484,9 @@ dlga_esposabarco_1:esposabarco_11|你记得我？太棒了！
 dlga_esposabarco_1:close_window|晚点再说，妈妈。
 dlga_esposabarco_12:esposabarco_13|{s2}^^不但感觉不错，我还兴高采烈呢！这趟旅行很有趣，但是我们不能忘记要赶回家做饭！你爸爸可盼着呢。
 dlga_esposabarco_11:esposabarco_13|{s2}^^你是我的宝贝，我是你的妈妈。我和你的父亲怎么会忘记你呢？
-dlga_esposabarco_13:esposabarco_14|但是…父亲已经去世了。
+dlga_esposabarco_13:esposabarco_14|但是……父亲已经去世了。
 dlga_esposabarco_13:close_window|妈妈，我们马上就回家。我爱你。
-dlga_esposabarco_14:esposabarco_15|{s2}^^但是…但是…我们这回出门离家不是很远，对吧？我的头太疼了，都记不起来家在哪儿了！我知道你是谁，但是我忘记了你的名字，是我疯了吗？
+dlga_esposabarco_14:esposabarco_15|{s2}^^但是……但是……我们这回出门离家不是很远，对吧？我的头太疼了，都记不起来家在哪儿了！我知道你是谁，但是我忘记了你的名字，是我疯了吗？
 dlga_esposabarco_15:esposabarco_16|不，你只是忘记了一些事情。
 dlga_esposabarco_15:esposabarco_17|不，你只是病了。但是你很快就会被治好的。
 dlga_esposabarco_15:close_window|对，但我在尝试帮你。回头见。
@@ -4496,7 +4496,7 @@ dlga_esposabarco_18:close_window|我们马上就到了！请你不要放弃。�
 dlga_start:close_window.91|求求你，仁慈的{reg59?女士:先生} ，救救我们吧！我不想沦为奴隶！
 dlga_start:sailors_merchant_1|你好，{playername} 。我喜欢聊天，但是我必须先完成手头的琐事。回头见。
 dlga_sailors_merchant_1:close_window|很好，等到今晚抛锚的时候我们再谈吧。
-dlga_start:close_window.92|我好像在一分钟前看到了什么东西，但是海面上的浓雾让我无法看清…也许什么都没有吧。我希望是这样。这艘船已经够快了，但还是比不上一艘战船。
+dlga_start:close_window.92|我好像在一分钟前看到了什么东西，但是海面上的浓雾让我无法看清……也许什么都没有吧。我希望是这样。这艘船已经够快了，但还是比不上一艘战船。
 dlga_start:arquerosb_merchant_1|去找老大吧，{playername} ，就是在船头的那个老兵，他是你最好的格斗教练。
 dlga_arquerosb_merchant_1:close_window|谢谢，我会去的。
 dlga_start:frisianship_merchant_1|早上好，{playername} ，你今天感觉还好吗？你之前在睡觉的时候躁动不安，还胡言乱语。我的水手都认为你被鬼魂缠身了。
@@ -4566,9 +4566,9 @@ dlga_petro_leader_40:petro_leader_50|你该做一个决定了。
 dlga_petro_leader_40_1:petro_leader_50|我曾经信任和敬仰你，但你欺骗了我，因此我不会饶恕你，总有一天你将死在我的手上。
 dlga_petro_leader_50:petro_leader_50_1|我已经表明了自己的态度，我的士兵将会加入拉格纳之子，并且为了阿斯图里亚斯的利益，我们会与丹麦人结盟。阿达方索国王会对此满意的。
 dlga_petro_leader_50_1:petro_leader_50_2|我不会为了一个注定覆灭的国家而流血。我与西诺一样，加入丹麦人，洗劫西撒克逊。
-dlga_petro_leader_50_1:petro_leader_50_2.1|我宁可干掉丹麦人，而不想伤害撒克逊人…对，这就是我的决定。
+dlga_petro_leader_50_1:petro_leader_50_2.1|我宁可干掉丹麦人，而不想伤害撒克逊人……对，这就是我的决定。
 dlga_petro_leader_50_2:petro_leader_51|阿达方索国王将我，他的公爵，任命为这支军队的统帅，目的是为了完成支援西撒克逊的任务。除了这件事，其他任何行为都应被视作叛国。
-dlga_petro_leader_51:petro_leader_52|你的人信不过，柏图斯公爵。我是来自马拉科纳的博多·维马兰尼兹。你了解我，我是王家派来的人，这是我的印章。我并不希望诉诸这个方式…^^但我在这里就是国王的代言人，我已经下令让西撒克逊的舰队攻击{playername} 。看那儿，享受这场表演吧！
+dlga_petro_leader_51:petro_leader_52|你的人信不过，柏图斯公爵。我是来自马拉科纳的博多·维马兰尼兹。你了解我，我是王家派来的人，这是我的印章。我并不希望诉诸这个方式……^^但我在这里就是国王的代言人，我已经下令让西撒克逊的舰队攻击{playername} 。看那儿，享受这场表演吧！
 dlga_petro_leader_52:petro_leader_52_2|西诺是一名叛徒，他将被处决。甘迪索瓦正要让他手下的坎塔布里亚人登陆然后集合起来。至于你柏图斯，要留下一部分士兵，在这里保护我们的粮草，然后把剩下的人马与甘迪索瓦一起登陆。{playername}将要回到{reg59?她:他}的船上与自己的爪牙一同受死。我们的计划是要从这里展开钳形攻势，一举结束战事，然后再如约前往支援西撒克逊。
 dlga_petro_leader_52_2:petro_leader_52_3|你不是国王，而且在没有取得我们的一致同意的情况下，竟然命令发起进攻，这已经破坏了所有规矩。我会跟随{playername} ，但我不会一起战斗。
 dlga_petro_leader_52_3:petro_leader_53|博多，你真是既蠢又疯！你正在让这些人送死。
@@ -4601,7 +4601,7 @@ dlga_petro_leaderwessex_41:petro_leaderwessex_42.1|抱歉，我不能去阿斯�
 dlga_petro_leaderwessex_42:petro_leaderwessex_43|我不认为任何人会离开这里。如果我没看错，在地平线那边的浓烟就来自我们的客人的船只，看来丹麦人已经到了，而现在你们大概能够弄清楚我的计划了。
 dlga_petro_leaderwessex_43:petro_leaderwessex_44|老天在上！抱歉，我指的是我的老天爷！所有船只移动至备战状态，那些浓烟准是来自火箭。
 dlga_petro_leaderwessex_44:petro_leaderwessex_45|你肯定有一双鹰眼，坎塔布里亚佬。我们必须在丹麦人摧毁我们的盟友前施以援手。西诺，我需要你的士兵的支持，他们是这支舰队里最好的水手。
-dlga_petro_leaderwessex_45:petro_leaderwessex_46|你在作出这些可怕的指责之前，应该好好考虑后果。我的士兵将为我而战…好吧，丹麦人带来的战船更多，而我只跟胜利者合作。
+dlga_petro_leaderwessex_45:petro_leaderwessex_46|你在作出这些可怕的指责之前，应该好好考虑后果。我的士兵将为我而战……好吧，丹麦人带来的战船更多，而我只跟胜利者合作。
 dlga_petro_leaderwessex_46:petro_leaderwessex_48|你这个无耻的人渣！我将要全权指挥。{playername} ，回到你的船上，试图牵制丹麦人。甘迪索瓦将指挥我们的船队并加入你们。我会留在后方，在陆地上建立一道防线，以便为你准备撤退的后手。^^行动！
 dlga_petro_leaderwessex_48:close_window|你疯了！你应该投降。我的士兵，全员集合！为了加雷西亚！
 dlga_start:trainer_intro_1|好日子呀，{reg59?姑娘:小伙子} 。看起来你是又一个冒险者，为了寻找自己的机会踏上这片土地。记住我的话，如果你不懂得如何突围解围，就无法在此拥有立足之地。
@@ -4683,7 +4683,7 @@ dlga_bardo_talk:bardo_sing_lady|我想让你为一位女士写诗。
 dlga_bardo_sing_lady:bardo_sing_lady2|这将花去您500先令。这位女士的名字是什么？
 dlga_bardo_sing_lady2:bardo_pretalk|算了吧。
 dlga_bardo_sing_lady3:bardo_pretalk|很好，我会写好一首诗，并向{s34}朗诵，这需要一周的时间。
-dlga_bardo_sing:bardo_sing2|大人，我写的诗歌将会成为史诗，整个北境都会听闻{playername}的伟大事迹。-- 他激动地雀跃起来，最后停下并深呼吸一口气-- 作为回报，我请求您提供一笔小钱来支付墨水和…保持我这天赋的创造力，这一共大概是500先令。
+dlga_bardo_sing:bardo_sing2|大人，我写的诗歌将会成为史诗，整个北境都会听闻{playername}的伟大事迹。—— 他激动地雀跃起来，最后停下并深呼吸一口气—— 作为回报，我请求您提供一笔小钱来支付墨水和……保持我这天赋的创造力，这一共大概是500先令。
 dlga_bardo_sing2:bardo_pretalk|把钱拿去，真正的英雄视钱财如粪土。
 dlga_bardo_sing2:close_window|你给的价码跟风流寡妇的一模一样，而且无疑我会更喜欢她的“文章”！
 dlga_bardo_talk:bardo_cancion|你能为我和我的士兵作诗吗？
@@ -4692,7 +4692,7 @@ dlga_bardo_cancion:bardo_cancion2|这将花费你100先令，我可以朗诵…�
 dlga_bardo_cancion2:close_window|你最拿手的一首诗。
 dlga_bardo_cancion2:bardo_pretalk|算了吧，我要问你别的。
 dlga_bardo_talk:bardo_bt|我想知道关于关于“不列颠宝藏”的事情。
-dlga_bardo_bt:bardo_bt2|好吧，如果你真想知道的话…仔细听好！不列颠宝藏一共有十三件：^第一：白色剑柄，莱德·希尔之剑，如果由一个出身高贵的人持有，它会从剑柄至剑尖燃烧起熊熊烈焰。莱德曾把这把剑赠给每一个希望拥有的人，但由于它的特性，所有人最后都望而却步了，因此他又被称为慷慨的莱德。^^第二：圭德诺·加兰希尔之篮，如果把仅够一人的食物放进去，当篮子被再次打开的时候，里面却变成了足够上百人享用的食物。
+dlga_bardo_bt:bardo_bt2|好吧，如果你真想知道的话……仔细听好！不列颠宝藏一共有十三件：^第一：白色剑柄，莱德·希尔之剑，如果由一个出身高贵的人持有，它会从剑柄至剑尖燃烧起熊熊烈焰。莱德曾把这把剑赠给每一个希望拥有的人，但由于它的特性，所有人最后都望而却步了，因此他又被称为慷慨的莱德。^^第二：圭德诺·加兰希尔之篮，如果把仅够一人的食物放进去，当篮子被再次打开的时候，里面却变成了足够上百人享用的食物。
 dlga_bardo_bt2:bardo_bt3|第三：来自北方的博兰·盖尔之角，只要你心里想着任何一种饮料，就能够从里面喝到。^第四：摩根·莫温佛尔的战车，骑手心之所向，这辆战车就能瞬间达到。^第五：克拉迪诺·艾典的缰绳，只要想骑上哪匹马，它就会出现在缰绳之下。^第六：娄佛戴德·法查德之刀，它能够提供二十四个男人所需的食物。^第七：巨人达温奇的锅，如果一名勇者将肉放到锅里，它将被瞬间烹熟。
 dlga_bardo_bt3:bardo_bt4|第八：戴德雷·塔哲雷德的磨刀石，任何一把剑只要经过了它的磨砺，被剑所伤之人必死无疑。^第九：潘达·巴斯拉德的大衣，如果一名出身高贵的人披上它，大衣就会变得无比合身。^第十和第十一：罗莱根茨牧师的瓦罐和盘子，无论心里想着什么食物，都能从中找到。^第十二：格伦德鲁·席伊迪欧的棋盘，只要把棋子放好，它们就会自己开始对弈。棋盘由金子打造，而棋子则是全银。^第十三：亚瑟在康沃尔的斗篷，藏在斗篷下的人能够隐身，但他还能看见外面的所有人。
 dlga_bardo_bt4:bardo_bt5|我希望找到这些宝藏。
@@ -4707,7 +4707,7 @@ dlga_bardo_talk:close_window.1|我现在不需要一个吟游诗人。
 dlga_start:sacerdote_talk|天父在上，我的{reg59?女士:大人} 。我是一名牧师，我能够看出来你拥有一颗虔诚的心灵。
 dlga_sacerdote_pretalk:sacerdote_talk|上帝保佑你，{playername} 。我这个卑微的仆人能够为您做些什么？
 dlga_sacerdote_talk:sacerdote_angry|我不是基督徒，你这个蠢货！我唾弃你，因为基督徒都像待宰羔羊……我膜拜的是古代众神，我爱的是战争、鲜血和混乱！
-dlga_sacerdote_angry:close_window|你…你…你就是魔鬼，{playername} 。——他的眼神如同被地狱之火炙烤——从我面前滚开，这片土地容不得你饱食和休憩，你这个异教徒的结局只会是被上帝的怒火所吞噬。
+dlga_sacerdote_angry:close_window|你……你……你就是魔鬼，{playername} 。——他的眼神如同被地狱之火炙烤——从我面前滚开，这片土地容不得你饱食和休憩，你这个异教徒的结局只会是被上帝的怒火所吞噬。
 dlga_sacerdote_talk:sacerdote_ayuda|我是一个基督徒，神父，——你尊敬地鞠了一躬——而我必须救赎过去的罪孽。
 dlga_sacerdote_talk:sacerdote_ayuda.1|我不是基督徒，但我希望皈依上帝（转化为基督徒）。
 dlga_sacerdote_talk:close_window|我现在不需要说教的人。
@@ -4720,7 +4720,7 @@ dlga_sacerdote_ayuda2:sacerdote_pretalk.1|算了，就当我什么都没说。
 dlga_start:pagano_talk|幸会，我的{reg59?女士:大人} 。我是奥丁的牧师，全能的死者渡送人，如果你是真正的勇士，就能得到长存于英灵殿的资格。他也是魔术师的主神，独眼者，狂猎的领导者。
 dlga_pagano_pretalk:pagano_talk|你好，{playername} 。你需要什么？
 dlga_pagano_talk:pagano_angry|我是基督徒，才不是什么异教徒！你也应该改变信仰。
-dlga_pagano_angry:close_window|奥丁啊！只是因为我们身处这个地方，我才没有把你的性命立刻献祭给众神…——牧师的眼神如同熔岩般灼热——从我面前滚开，这片土地容不得你饱食和休憩，你的结局只会是身陷诅咒之地。
+dlga_pagano_angry:close_window|奥丁啊！只是因为我们身处这个地方，我才没有把你的性命立刻献祭给众神……——牧师的眼神如同熔岩般灼热——从我面前滚开，这片土地容不得你饱食和休憩，你的结局只会是身陷诅咒之地。
 dlga_pagano_talk:pagano_ayuda|我依然忠于众神之道，因为我尊重并臣服于沃登，以及对战争的喜爱。——你充满敬意地低下头——
 dlga_pagano_talk:pagano_ayuda.1|我希望得到关于旧神的教诲，并尝试膜拜他们。（转化为多神教徒）
 dlga_pagano_talk:close_window|我现在不需要一个说教的人。
@@ -4735,7 +4735,7 @@ dlga_start:problema_juicio7|你准备好接受我的判决了吗？
 dlga_start:abad_talk|我能为你做些什么？
 dlga_abad_pretalk:abad_talk|是？
 dlga_abad_talk:problema_juicio1|{s4}收到了你的请愿，派我来到这儿。请解释一下发生了什么？
-dlga_problema_juicio1:problema_juicio2|{s2}^^我还以为…会是另一个人。雅尔本人，或者是他的某位亲近的伙伴。可以告诉我你是谁吗，{reg59?女士:大人} ？
+dlga_problema_juicio1:problema_juicio2|{s2}^^我还以为……会是另一个人。雅尔本人，或者是他的某位亲近的伙伴。可以告诉我你是谁吗，{reg59?女士:大人} ？
 dlga_problema_juicio2:problema_juicio3|我的名字是{playername} 。{s4}很忙，所以我来代表他做决定。
 dlga_problema_juicio2:problema_juicio3.1|我是{playername} ，一名忠诚的基督徒。我来这里是为了帮助你的，神父。
 dlga_problema_juicio2:problema_juicio3.2|{playername} 。记住我的名字，牧师，否则我的众神将烧掉你身上肮脏破陋的袍子。现在，告诉我发生了什么？
@@ -4754,9 +4754,9 @@ dlga_problema_juicio8:close_window|不，我还需要继续跟他们谈谈。
 dlga_problema_juicio9:close_window|我相信你作出了正确的决定，回去告诉雅尔，我们对这个结果非常满意，我们会告诉大家，雅尔是公正而虔诚的好人。噢，我们还有一点小礼物送给你。
 dlga_problema_juicio10:close_window|什么？这块土地应该是我们的！好吧，如果雅尔想制造麻烦，他就要自作自受。现在滚吧。
 dlga_abad_talk:abad_catach1|我来这里找一本书:科伦西尔之经。
-dlga_abad_talk:abad_catach2|关于这本书，“科伦西尔之经”…
+dlga_abad_talk:abad_catach2|关于这本书，“科伦西尔之经”……
 dlga_abad_talk:abad_catachbackbook|我来把这本“科伦西尔之经”还给你。
-dlga_abad_catach1:abad_catach2|但是…但是…这不可能，{reg59?女士:大人} 。“科伦西尔之经”是一件古物，它是一份古代经书的抄件，在一个奇迹般的夜晚，它由科伦西尔的圣科伦巴完成！况且，这本书并不属于我们，我们只是它的保管人，它的真正主人是来自欧莱克王国的奥当耐尔部落。在战场上，这部经书被视为凝聚士气的圣物，它具有佑护士兵的功效，保证了战役的胜利。你想成为欧莱克的公敌吗？
+dlga_abad_catach1:abad_catach2|但是……但是……这不可能，{reg59?女士:大人} 。“科伦西尔之经”是一件古物，它是一份古代经书的抄件，在一个奇迹般的夜晚，它由科伦西尔的圣科伦巴完成！况且，这本书并不属于我们，我们只是它的保管人，它的真正主人是来自欧莱克王国的奥当耐尔部落。在战场上，这部经书被视为凝聚士气的圣物，它具有佑护士兵的功效，保证了战役的胜利。你想成为欧莱克的公敌吗？
 dlga_abad_catach2:abad_catach3|我说，我要拿走这本书，不惜任何代价，即使要杀光所有挡路的人。
 dlga_abad_catach2:abad_catach4|神父，我是一名基督徒，而这本书对我非常重要。我会为此向修道院捐赠大笔金钱。
 dlga_abad_catach2:abad_catachpers|我要这本书来解救俘虏。难道这不是上帝的职责吗？这是在拯救生命啊？（说服）
@@ -4777,7 +4777,7 @@ dlga_abad_dalibro_ps:close_window|那么你就杀光我们，然后再从我们�
 dlga_abad_dalibro_ps:close_window.1|把书拿去，我不会眼睁睁看着你把这些无辜的人杀死，但是你将受到上帝的诅咒。现在滚吧，恶魔。
 dlga_abad_talk:addonstoryabad1|我收到了你的消息。你为什么要派我来？
 dlga_abad_talk:addonstoryabad1_re|我对你的提议很有兴趣。
-dlga_abad_talk:addonsthesnakedead|'蛇' 已经死了。
+dlga_abad_talk:addonsthesnakedead|“蛇”已经死了。
 dlga_abad_talk:abadmorrigan_end1|莫莉卡不会再是个麻烦了。
 dlga_abad_talk:abadmaelbresail_1|我们必须谈论下普雷西尔王子。
 dlga_abad_talk:addonsflaithbertach1|我知道弗莱厄蒂的小鬼在哪里。
@@ -4826,7 +4826,7 @@ dlga_addonsthesnakedead2:addonsthesnakedead3|我了解。
 dlga_addonsthesnakedead2:addonsthesnakedead2_2|那就是我在做的事。
 dlga_addonsthesnakedead2_1:addonsthesnakedead3|我是一个修道院院长，不是一个杀手。这是一个建议。做你想做的事。而且我还有另一些任务，你会得到更多报酬。
 dlga_addonsthesnakedead2_2:addonsthesnakedead3|这只是一个建议。这项工作你的报酬很好，拒绝它是很愚蠢的。^^如果你做的好，我还有另一个任务，你得到更多报酬。
-dlga_addonsthesnakedead3:addonsthesnakedead4|还有一个危险威胁着埃里尤…
+dlga_addonsthesnakedead3:addonsthesnakedead4|还有一个危险威胁着埃里尤……
 dlga_addonsthesnakedead4:addonsthesnakedead4_1|我希望这不是另一个谋杀任务。我不是一个杀手。
 dlga_addonsthesnakedead4:addonsthesnakedead5|[什么都不说]
 dlga_addonsthesnakedead4_1:addonsthesnakedead5|不，感谢上帝，其实，这只是一个信息，听着。
@@ -4844,7 +4844,7 @@ dlga_addonstoryabad8:addonstoryabad9_2|你能告诉我什么邪恶在攻击他�
 dlga_addonstoryabad8:addonstoryabad9_3|一万先令？听起来不错呦，但我现在就要2000个先令额外费用。
 dlga_addonstoryabad8:addonstoryabad9_4|如果这些人需要帮助，我当然会去。毫无疑问，我是你的英雄。
 dlga_addonstoryabad8:addonstoryabad9_5|不，我不感兴趣，抱歉。
-dlga_addonstoryabad9_1:addonstoryabad10_2|在埃里尤领主忙着互相攻伐，而对于比较近的巴尔伦这里又无关紧要。我希望我的赞助者选择你不是个错误…
+dlga_addonstoryabad9_1:addonstoryabad10_2|在埃里尤领主忙着互相攻伐，而对于比较近的巴尔伦这里又无关紧要。我希望我的赞助者选择你不是个错误……
 dlga_addonstoryabad9_2:addonstoryabad10_1|我没有什么可以补充的。新消息缺乏细节，渔民们都很害怕。我认为你能从巴尔伦地区管理者那里活动更多细节。
 dlga_addonstoryabad9_3:addonstoryabad11|钱不是问题，你懂的，我低估了你的需求，抱歉。再拿2000先令吧。现在我们成交了。
 dlga_addonstoryabad9_4:addonstoryabad11|这正是我所期待的。我的主顾果然没有看走眼。
@@ -4925,9 +4925,9 @@ dlga_troll_treasure2:close_window|嗬嗬嗬，当我还是个孩子的时候，�
 dlga_start:elf_treasure1|{s2}^^我不知道你的身份，也不知道你的名字。我也不在乎你来这里的目的或者动机，我只是想找点乐子。
 dlga_elf_treasure1:elf_treasure2|我喜欢那东西的声音，我也想找点乐子！但你是谁？
 dlga_elf_treasure1:close_window|你的出现实在倒人胃口，滚吧，再见。
-dlga_elf_treasure2:close_window|噢不，你想找乐子，却没有足够的银子！当你有了两万先令再来找我，然后才会有乐子。银子，金子，钱币，珠宝——这些我都喜欢…
+dlga_elf_treasure2:close_window|噢不，你想找乐子，却没有足够的银子！当你有了两万先令再来找我，然后才会有乐子。银子，金子，钱币，珠宝——这些我都喜欢……
 dlga_elf_treasure2:close_window.1|噢不，你想找乐子，身上却放不下我的奖励了？去卖掉一点东西留出空间再来找我，然后才会有乐子。
-dlga_elf_treasure2:elf_treasure3|没问题！乐子这就开始了！游戏开始了，这是一个猜谜的游戏…每个问题都是一个谜语。如果你输了，我会拿走你的银子，如果你赢了，就能得到一份奖品！也许吧。
+dlga_elf_treasure2:elf_treasure3|没问题！乐子这就开始了！游戏开始了，这是一个猜谜的游戏……每个问题都是一个谜语。如果你输了，我会拿走你的银子，如果你赢了，就能得到一份奖品！也许吧。
 dlga_elf_treasure3:elf_treasure4|这是对你问题的回答：我从附近的村子而来，那里的人们都讨厌我，因为我被认为是一个精灵的儿子，将会带来厄运。我不得不逃离那儿，抛下了我的母亲，在这儿找到了庇护所。^^现在轮到我问你了，仔细听好，如果你输了，我会拿走你的银子，如果你赢了，就能得到一份奖品！我要你的钱，我要你的金子，我爱银子和金子。
 dlga_elf_treasure4:elf_treasure5|什么在尖叫，^踏在坚硬的路上，^总是周而复始。^他狠狠地接吻，^拥有两张嘴巴，^而且只爱金子。
 dlga_elf_treasure5:elf_treasure6|车
@@ -4981,10 +4981,10 @@ dlga_battlestones_treasure5:close_window|跟你做生意不错，如果你还有
 dlga_start:bandit_treasure1|{s2}^^嘿，嘿，你是谁，你在我的地盘干什么？
 dlga_bandit_treasure1:bandit_treasure2|我是{playername} ，你在这里藏了什么？
 dlga_bandit_treasure1:close_window|很抱歉打扰你，再见。
-dlga_bandit_treasure2:bandit_treasure3|好吧，好吧，你是一个有趣的{reg59?女士:男人} ，无疑对别人的私事有着十足的好奇心。要知道，我曾经碰见过一个像你这样的人，一个真正的好奇者…正如一位旧神所言，如果你解开了我的一个谜语，我就会回答你的所有问题。但如果失败，你的性命就不保了。
+dlga_bandit_treasure2:bandit_treasure3|好吧，好吧，你是一个有趣的{reg59?女士:男人} ，无疑对别人的私事有着十足的好奇心。要知道，我曾经碰见过一个像你这样的人，一个真正的好奇者……正如一位旧神所言，如果你解开了我的一个谜语，我就会回答你的所有问题。但如果失败，你的性命就不保了。
 dlga_bandit_treasure3:bandit_treasure4|那个人发生了什么？
 dlga_bandit_treasure3:close_window|我没有这个时间，再见。
-dlga_bandit_treasure4:bandit_treasure5|那个人只需要回答一个问题…你能想象吗，仅仅一个问题！然后这位旧神就会解答他的所有疑问。但他失败了，然后丢了性命。我们来开始游戏吧，如果你解开了我的一个谜语，我就会回答你的所有问题。但如果失败，我就干掉你。
+dlga_bandit_treasure4:bandit_treasure5|那个人只需要回答一个问题……你能想象吗，仅仅一个问题！然后这位旧神就会解答他的所有疑问。但他失败了，然后丢了性命。我们来开始游戏吧，如果你解开了我的一个谜语，我就会回答你的所有问题。但如果失败，我就干掉你。
 dlga_bandit_treasure5:bandit_treasure6.1|我喜欢谜语，开始吧。
 dlga_bandit_treasure5:bandit_treasure6.2|我没有这个时间，再见。
 dlga_bandit_treasure6:bandit_treasure7|实际上，你并没有选择。只有一个选项，就是开始游戏。仔细听好，你的性命就取决于它了，哈哈。谜语是这样的：^^我不能被看见，不能被感知，^不能被听见，不能被嗅出。^我藏在群星之后，以及众山之下，^我还能填满坑洞。^我总是来得最早，总是跟在最后，^我终结生命，扼杀笑声。
@@ -5001,7 +5001,7 @@ dlga_start:druid_refugee|幸会，{reg59?女士:先生} 。欢迎来到我们最
 dlga_start:druid_refugee.1|幸会，{reg59?女士:先生} 。欢迎来到我们最后的庇护所。我们都是无家可归的难民，被年迈的德鲁伊所保护。你应该跟他谈谈。
 dlga_druid_refugee:close_window|谢谢你，再见。
 dlga_start:druid_refugee2|(他一脸憎恶地望着你)你喜欢这个献祭仪式吗？你想看着这些混蛋杀死一个撒克逊人吗？哼！滚吧！
-dlga_druid_refugee2:close_window|呃…好吧，再见。
+dlga_druid_refugee2:close_window|呃……好吧，再见。
 dlga_start:druid_talk|欢迎，我的{reg59?女士:大人} 。我是一名信奉旧神的牧师，你知道他们吗？当然不。人们正在遗忘众神，改信基督教。在基督徒出现之前，这片土地由其他神祇主宰，我从长老们那听来了许多传说，并在这里重现他们的仪式。
 dlga_druid_pretalk:druid_talk|欢迎，{playername} 。我是最后的德鲁伊。
 dlga_druid_talk:druid_angry|我懂了，这是一个自创宗教的好借口。
@@ -5012,12 +5012,12 @@ dlga_druid_talk:close_window.1|我现在不需要一个说教的人。
 dlga_druid_ayuda:druid_ayu|我们的神灵主要来自两个族系：当恩之子与丽娅之子，当恩是天空女神，而丽娅是海洋女神，当恩也被称为老母亲。在她的孩子当中，有男神格威迪恩和女神艾利安罗德。格威迪恩是众神中的德鲁伊，幻觉和幻想的主宰，他是人类的好朋友和好帮手，也是一位坚定地与地下世界安温王国对抗的战士。
 dlga_druid_ayu:druid_ayuda2|艾利安罗德，被称为“银之环”，她生了两个儿子，分别是狄伦和乌鲁。狄伦与海洋有着不解之缘，他能跟海洋里最好的鱼游得一样快。据说不列颠的海浪就是海洋为了哀悼他的死亡而哭泣。艾利安罗德跟她另一个儿子乌鲁的关系少得可怜，相反乌鲁与格威迪恩则有着深挚的感情。马修，女神当恩的兄弟，他是魔法的主宰，也是格威迪恩的法术老师。你想为众神们献祭吗？但我要警告你，他们是善变不定的。
 dlga_druid_ayuda2:druid_sins|我会为这个地方和你的难民捐出300先令。
-dlga_druid_sins:druid_pretalk|谢谢你，你的帮助意义重大。我们的神灵们正在消亡，而且只有最后一个德鲁伊，也就是我，还记得他们。我们总是欢迎更多的资助…当然还有漂亮的处女。
+dlga_druid_sins:druid_pretalk|谢谢你，你的帮助意义重大。我们的神灵们正在消亡，而且只有最后一个德鲁伊，也就是我，还记得他们。我们总是欢迎更多的资助……当然还有漂亮的处女。
 dlga_druid_ayuda2:druid_info2|拿去这100先令，告诉我更多他们的故事。
 dlga_druid_info2:druid_pretalk|我实在不知道其它事情了，众神通过报梦向我传达消息，让我献祭奴隶。他们喜欢鲜血，就跟我一样！
 dlga_druid_ayuda2:druid_sacrifice_1|我想以自己的名义献祭。我会为此付你4000先令。
-dlga_druid_sacrifice_1:druid_sacrifice_2|对，对，把钱拿来吧！好吧，让我想想…至今为止我还没有这样严谨地进行仪式，通常就是割开这些可悲的乞丐的喉咙，然后享受他们的惨叫。^^-德鲁伊召来他的随从，他们把你围绕起来，然后用一种你不懂的语言交谈。德鲁伊手持一柄巨大的刀子，带着骇人的微笑，来回地走动。-
-dlga_druid_sacrifice_2:close_window|-德鲁伊一边高呼着你的名字，一边割开了一名囚犯的喉咙。^^你闭上了眼睛…-
+dlga_druid_sacrifice_1:druid_sacrifice_2|对，对，把钱拿来吧！好吧，让我想想……至今为止我还没有这样严谨地进行仪式，通常就是割开这些可悲的乞丐的喉咙，然后享受他们的惨叫。^^-德鲁伊召来他的随从，他们把你围绕起来，然后用一种你不懂的语言交谈。德鲁伊手持一柄巨大的刀子，带着骇人的微笑，来回地走动。-
+dlga_druid_sacrifice_2:close_window|-德鲁伊一边高呼着你的名字，一边割开了一名囚犯的喉咙。^^你闭上了眼睛……-
 dlga_druid_ayuda2:druid_venta|我想把带来的俘虏都卖给你。
 dlga_druid_venta:druid_venta2|你手头上有漂亮的处女吗？不管如何，我会按照奴隶的质量付你钱的。
 dlga_druid_venta2:druid_venta3|如果用我带来的奴隶进行献祭，你的神灵们会非常满意的。
@@ -5044,7 +5044,7 @@ dlga_old_sins2:old_continue.1|罗马是伟大的，老头。
 dlga_old_sins2:old_continue2|这些罗马故事让我反胃，老头子。
 dlga_old_continue:old_ayuda_2|噢，这很好，你知道罗马人的事情，或者至少听说过他们。你看起来是一个值得信赖的人，而我不得不向你求助。
 dlga_old_continue2:old_ayuda_2|我明白，对我而言，罗马只是一个传说。它是我的一部分，但也仅仅是一部分而已，因为实际上我更加像布立吞人和盎格鲁人。你看起来是一个值得信赖的人，而我不得不向你求助。
-dlga_old_ayuda_2:old_ayuda_3|最近的入侵者让北地的局势更加复杂了，我们在东边的洞穴里活得好好的，只在需要食物的时候来到这个地方，因为行旅商人偶尔会在这里扎营休息。但是现在我们都已经等了好几个星期，依然没有商人出现…我们之前的收成不好，急需食物，你能为我们找来八袋小麦吗？我会事先给你钱的。
+dlga_old_ayuda_2:old_ayuda_3|最近的入侵者让北地的局势更加复杂了，我们在东边的洞穴里活得好好的，只在需要食物的时候来到这个地方，因为行旅商人偶尔会在这里扎营休息。但是现在我们都已经等了好几个星期，依然没有商人出现……我们之前的收成不好，急需食物，你能为我们找来八袋小麦吗？我会事先给你钱的。
 dlga_old_ayuda_3:old_ayuda_4|我很乐意帮助你。
 dlga_old_ayuda_3:close_window|我没有时间。
 dlga_old_ayuda_4:close_window|谢谢你，把钱拿去，请尽快回来，我们的孩子都饿哭了。
@@ -5055,7 +5055,7 @@ dlga_capataz_pretalk:capataz_talk|是？
 dlga_capataz_talk:capataz_angry|注意自己的嘴巴，你这家伙，不然我就让你尝尝苦头。
 dlga_capataz_angry:close_window|哼！我没有侮辱你，而法律是保护我们的。我还有别的事要忙。
 dlga_capataz_talk:capataz_ayuda|我想让我的奴隶在这里工作。
-dlga_start:close_window.102|你…你偷了我们的钱，还让我们陷入饥荒。我不想再见到你。
+dlga_start:close_window.102|你……你偷了我们的钱，还让我们陷入饥荒。我不想再见到你。
 dlga_capataz_talk:quarry_work_0|我想在这里工作。
 dlga_quarry_work_0:quarry_work_1|我们需要一个日工，每天5先令。
 dlga_quarry_work_1:quarry_work_2|很好，我就在这里工作一天。
@@ -5104,7 +5104,7 @@ dlga_lumber_work_1:lumber_work_2|很好，我就在这里工作一天。
 dlga_lumber_work_1:capataz_pretalk3|我没兴趣。
 dlga_lumber_work_2:close_window|我旁边的木头必须砍成小块，还有房子后面的树木也要砍倒。这是斧头。
 dlga_capataz_talk3:lumbercamp_angry|这么好的树，也会一下子就烧光了。我可以保证它们的安全——只要你付一点点费用。
-dlga_lumbercamp_angry:lumbercamp_extortion|哦？好吧，我确实不想发生火灾。我会付你的…费用。
+dlga_lumbercamp_angry:lumbercamp_extortion|哦？好吧，我确实不想发生火灾。我会付你的……费用。
 dlga_lumbercamp_extortion:close_window|你做得很好，我的朋友。我们会确保你或你的营地平安无事。
 dlga_lumbercamp_angry:close_window|这是某种笑话吗？我没有时间听你的废话。
 dlga_capataz_talk3:capataz_sins3|我想买些木材。
@@ -5117,7 +5117,7 @@ dlga_start:close_window.106|我们不会交出一个先令！
 dlga_start:farmstead_boss_talk|欢迎来到我们的农场，请享用一下我们的面包和麦酒，我能为你做些什么吗？
 dlga_farmstead_boss_pretalk:farmstead_boss_talk|还有别的事情吗？
 dlga_farmstead_boss_talk:farmstead_boss_angry|你的农场很棒，但我听说附近有些麻烦。我能为你保护这里——只要你给一点费用。
-dlga_farmstead_boss_angry:farmstead_boss_extortion|麻烦？这里没有麻烦…噢，我懂了，对，我们不想找麻烦，这是你的费用。
+dlga_farmstead_boss_angry:farmstead_boss_extortion|麻烦？这里没有麻烦……噢，我懂了，对，我们不想找麻烦，这是你的费用。
 dlga_farmstead_boss_extortion:farmstead_boss_pretalk|干得好，我的朋友，我保证你的农场将远离麻烦。
 dlga_farmstead_boss_angry:close_window|麻烦？如果你再烦着我，我就让你看看真正的麻烦！
 dlga_start:close_window.107|你还没干完活呢。如我所说，我旁边的木头必须砍成小块，还有房子后面的树木也要砍倒。
@@ -5205,7 +5205,7 @@ dlga_mayor_begin:merchant_ask_for_debts|根据我的账目，你欠了商人行�
 dlga_merchant_ask_for_debts:merchant_debts_paid|好的。我会付你钱的。
 dlga_merchant_debts_paid:mayor_pretalk|很好，我会让其他商会成员知道你已经付清欠款了。
 dlga_merchant_ask_for_debts:merchant_debts_not_paid|恐怕我现在还付不起。
-dlga_merchant_debts_not_paid:close_window|在这种情况下，恐怕我无法跟你交易，这是行会的规矩…当你付清了这{reg1} 先令的债后再过来。要知道我们会给你的债计算利息，所以你越早还钱越有利。
+dlga_merchant_debts_not_paid:close_window|在这种情况下，恐怕我无法跟你交易，这是行会的规矩……当你付清了这{reg1} 先令的债后再过来。要知道我们会给你的债计算利息，所以你越早还钱越有利。
 dlga_mayor_begin:mayor_talk|你想要什么？
 dlga_mayor_friendly_pretalk:mayor_talk|现在还有什么我能效劳的吗？
 dlga_mayor_pretalk:mayor_talk|什么？
@@ -5267,7 +5267,7 @@ dlga_mayor_talk_cattle3:mayor_pretalk|不，这太少了。
 dlga_mayor_talk_cattle3:mayor_pretalk.1|好的。牛群就在那边，缺个人去牵走
 dlga_mayor_investment_possible:mayor_pretalk|你已经在这里开办了{s4} ，而且现在没有其他人要转售自己的农场了。
 dlga_mayor_investment_possible:mayor_investment_advice.1|当然，我的{reg59?女士:先生} 。你是这个城镇的主人，没有人胆敢阻止你。
-dlga_mayor_investment_possible:mayor_investment|好吧…考虑到你与我们的领主{s4}之间的关系，我想没有人会胆敢把农场卖给你。
+dlga_mayor_investment_possible:mayor_investment|好吧……考虑到你与我们的领主{s4}之间的关系，我想没有人会胆敢把农场卖给你。
 dlga_mayor_investment_possible:mayor_pretalk.2|好吧，说实话，这个城镇的居民需要更加了解你，我们不习惯陌生人来这里开办农场。
 dlga_mayor_investment_possible:mayor_investment_advice.2|很好，我的{reg59?女士:先生} 。这个城镇的居民了解并信赖你，我可以为你找到愿意出售土地的人。
 dlga_mayor_investment_advice:investment_choose_enterprise|你需要记住几件事情。有经验的监工总是非常抢手，所以我不认为你还有再买一处地产的能力。为了达到最大的利润，你应该选择原材料价格低廉而产品相对稀缺的行业。一处农场可以影响到各方面的经济活动，特别是提高当地产品的供货量。
@@ -5290,13 +5290,13 @@ dlga_mayor_political_talk:mayor_political_questions|政治？我的天啊，我�
 dlga_mayor_prepolitics:mayor_political_questions|我没有说起我们都是{s9}吗？也许是我强调的还不够？你还有什么问题？
 dlga_mayor_political_questions:mayor_war_description_1|引发北地战乱的原因是什么？
 dlga_mayor_war_description_1:mayor_war_description_2|从总体上来说，每一位君主都声称自己才是不列颠统治者这个头衔的合法继承人，某些宣称的基础是早已被遗忘的世族联姻，另一些是基于模棱两可的承诺，还有一些完全是凭借强大的武力试图夺权。因此，在理论上来看，任何一个王国都有权互相宣战。
-dlga_mayor_war_description_2:mayor_war_description_3|实际上，开战是一件让人筋疲力尽的活儿。破坏敌人的村庄易如反掌，但是庄稼仍会长回来，而且与攻打并实际占领敌国的堡垒有着天壤之别。因此，北地的君主们往往小打小闹一下，然后签定和约，接着再小打小闹，如此循环往复。通常，只要其他国家稍为挑衅一下，一国之君就会马上宣战。在这种时候，有些不安份的家伙，指望通过赎金和掠夺来发一笔横财，总是嚷嚷着要予以报复。所以，如果一个君主宣战，对他自己的金库来说只有小小的损失；而一旦对敌人的挑衅保持沉默，对君主的权威将有极大的影响…我当然不是指{s10} ，因为没人胆敢质疑{reg4?她的:他的}统治。
-dlga_mayor_war_description_3:mayor_war_description_4|再次强调，我们这些商人是不会插足政治的。但要是{s10}为此询问我的建议，我作为一名忠诚的臣民，将告诉{reg4?她:他}一个道理，就是无论{reg4?她:他}对整个北地的合法统治权再怎么正当，也必须依靠武力的支持，而维持军队需要的是经济，经济则源于贸易，但是战争会摧毁贸易。因此，取得统治权的最好办法就是不急于处处宣战，如果你知道我的意思是什么的话…
+dlga_mayor_war_description_2:mayor_war_description_3|实际上，开战是一件让人筋疲力尽的活儿。破坏敌人的村庄易如反掌，但是庄稼仍会长回来，而且与攻打并实际占领敌国的堡垒有着天壤之别。因此，北地的君主们往往小打小闹一下，然后签定和约，接着再小打小闹，如此循环往复。通常，只要其他国家稍为挑衅一下，一国之君就会马上宣战。在这种时候，有些不安份的家伙，指望通过赎金和掠夺来发一笔横财，总是嚷嚷着要予以报复。所以，如果一个君主宣战，对他自己的金库来说只有小小的损失；而一旦对敌人的挑衅保持沉默，对君主的权威将有极大的影响……我当然不是指{s10} ，因为没人胆敢质疑{reg4?她的:他的}统治。
+dlga_mayor_war_description_3:mayor_war_description_4|再次强调，我们这些商人是不会插足政治的。但要是{s10}为此询问我的建议，我作为一名忠诚的臣民，将告诉{reg4?她:他}一个道理，就是无论{reg4?她:他}对整个北地的合法统治权再怎么正当，也必须依靠武力的支持，而维持军队需要的是经济，经济则源于贸易，但是战争会摧毁贸易。因此，取得统治权的最好办法就是不急于处处宣战，如果你知道我的意思是什么的话……
 dlga_mayor_war_description_4:mayor_prepolitics|如果你有幸见到{s10}的话，别在{reg4?她:他}面前提到我的名字，只要说是{s4}的人民这样告诉你的就可以了，在我们看来，这样确实对{s10}最有利，但即使如此，我们中也没有一个人想过质疑一位帝王追求霸业的权利。
 dlga_mayor_political_questions:mayor_politics_assess|与北地的其他国家相比，{s10}的政策如何？
 dlga_mayor_politics_assess:mayor_politics_assess_realm|你想知道对哪个国家的政策？
 dlga_mayor_political_questions:mayor_internal_politics|你对王国的政策有什么见解？
-dlga_mayor_internal_politics:mayor_internal_politics_2|噢，在{s4}这里，我们因爱戴于{s5}以及对{reg59?她:他}的在整个北地的合法统治权而紧密地团结起来，但是我从在其他国家听说这里也存在着内部的分歧…
+dlga_mayor_internal_politics:mayor_internal_politics_2|噢，在{s4}这里，我们因爱戴于{s5}以及对{reg59?她:他}的在整个北地的合法统治权而紧密地团结起来，但是我从在其他国家听说这里也存在着内部的分歧……
 dlga_mayor_internal_politics_2:mayor_internal_politics_3|同一个国家的领主们常常在荣誉观念，战略以及贵族应有的行为上产生巨大的分歧，除此以外，他们也彼此竞争，不仅通过自己的良好表现获得他们主君的青睐，还在不断地审视盘算所有人的立场——包括他们自己的立场，他们的朋友和家人的立场，还有他们敌人的立场。
 dlga_mayor_internal_politics_3:mayor_internal_politics_4|在这些压力之下，一个领主很可能会离弃他的主君并向另一位国王宣誓效忠，理论上说，每位领主都立下过对主君忠实的誓言，但实际上他们总能找到理由来为自己的改换门庭开脱。他可能宣称自己的主君没有按约定给予他保护或公平地对待他。更有甚者，他们宣称自己的主君是一个可耻的篡位者，王冠应该戴在它真正的主人头上。
 dlga_mayor_internal_politics_4:mayor_internal_politics_5|国王和领主们始终对彼此抱有戒心。当一位国王确信他的某位封臣将要投敌或者叛乱的时候，他会以叛国罪指控这位领主并剥夺他的所有财产。同样，当一位领主有足够的理由担忧他将被国王提出指控的时候，他将会叛乱以保全自己。一般来说，先下手为强，后下手遭殃啊。
@@ -5326,7 +5326,7 @@ dlga_merchant_quest_looters_choice:merchant_quest_stall|恐怕我现在不能帮
 dlga_merchant_quest_looters_brief:close_window|干得好！你能够在郊外找到徘徊着的掠夺者，也许他们还在试图打劫更多好人。杀死或者活捉这些杂种，我都不在乎。你每摧毁一伙劫匪，我就付你40先令的赏金，直到他们被彻底清除。
 dlga_merchant_quest_requested:merchant_quest_explain_2|请问，你能否帮我们一个忙，我们会非常感激的。不知你是否已经听说过，一些{s10}在不久前越过了国境并攻击了我们的人民。而{s5}已经承受了国内那些屡次要求开战的好战领主们非常大的压力，局势已一触即发。最不幸的是一旦开战，这片土地上的大领主们将会通过鲜血和杀戮获取财富，而我们这些平民却要被夹在中间，承受所有的痛苦和损失。
 dlga_merchant_quest_explain_2:merchant_quest_brief|我们并不是说{s5}会忽视这次的攻击，实际上远非如此！但是，如果他指控他自己的领主来承担全部的责任，一连串的冲突很可能会变成全面对峙。如果是由一个外来人在战斗中打败了{s10}的领主，那么有关荣誉的面子问题就已经解决了，同时也能减弱国内要求开战的呼声，更别提那个被打败的领主是一个出名的麻烦鬼——{s7}的时候——这么一来，{s10}就很可能会对这场战斗睁一只眼闭一只眼。
-dlga_merchant_quest_brief:merchant_quest_retaliate_confirm|我们需要你去袭击并打败{s7} 。这个任务并不轻松，而且你作为局外人将因此与{s10}交恶，但我们将无比感激。我们将否认一切与这个局外人的关系，但{reg59?她:他}无疑会得到优厚的回报…你办得到吗？
+dlga_merchant_quest_brief:merchant_quest_retaliate_confirm|我们需要你去袭击并打败{s7} 。这个任务并不轻松，而且你作为局外人将因此与{s10}交恶，但我们将无比感激。我们将否认一切与这个局外人的关系，但{reg59?她:他}无疑会得到优厚的回报……你办得到吗？
 dlga_merchant_quest_retaliate_confirm:merchant_quest_track_bandits_brief|是，我可以做。
 dlga_merchant_quest_retaliate_confirm:merchant_pretalk|抱歉，我不想趟这趟浑水。
 dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice|这些挪威的维京人可能把他们的船只藏在了某个隐蔽的小海湾，就在这一带的海岸线，特别是能够容易取得水源的河流附近。发现这个藏身处的最佳办法，就是找到一伙正要带着补给回去的掠夺者，然后一路跟踪。
@@ -5371,7 +5371,7 @@ dlga_troublesome_bandits_quest_brief:merchant_quest_stall|对不起，我现在�
 dlga_merchant_quest_requested:merchant_quest_brief.5|实际上，我正在寻找一个可靠的{reg59?好心人:男人}来完成一项重要的任务。一伙强盗绑架了我一位朋友的女儿并要求赎金，我的朋友正准备交付这笔钱，但我们还需要某人与这些无赖交涉，并把那个女孩安全地带回来。
 dlga_merchant_quest_brief:kidnapped_girl_quest_brief|这伙强盗要求的赎金是{reg12} 先令，一旦你接受这项任务，我就会把钱交给你。你有15天时间将赎金带给绑匪，他们会在{s4}附近等待。那些杂种威胁我们如果不能按时交付赎金，这个女孩就会被杀。当你把女孩安全地护送回来之后，我们将付给你{reg8} 先令的报酬。
 dlga_kidnapped_girl_quest_brief:kidnapped_girl_quest_taken|好的。我会把赎金带给那伙强盗，然后赎回那个女孩的。
-dlga_kidnapped_girl_quest_taken:close_window|很好，我就知道你是值得信赖的。这就是赎金，{reg12} 先令，请再核对一下。我们祈求你千万不要鲁莽行事，只要记住这个女孩的安危要比任何东西都更加重要…
+dlga_kidnapped_girl_quest_taken:close_window|很好，我就知道你是值得信赖的。这就是赎金，{reg12} 先令，请再核对一下。我们祈求你千万不要鲁莽行事，只要记住这个女孩的安危要比任何东西都更加重要……
 dlga_kidnapped_girl_quest_brief:merchant_quest_stall|对不起，我现在没时间。
 dlga_start:close_window.110|我们能自己走完剩下的路了，谢谢。
 dlga_kidnapped_girl_liberated_map:kidnapped_girl_liberated_map_2a|是啊，跟我来，我们回家。
@@ -5460,19 +5460,19 @@ dlga_start:village_elder_pretalk|好心的{reg59?女士:先生} 。你尽力了�
 dlga_village_elder_deliver_cattle_thank:village_elder_talk|我的好{reg59?女士:大人} ，请问我能为你做些什么吗？
 dlga_start:doccinga_interrogation_1|我想我们不能得到更多情报了。看来命运女神要把你引向丹麦，我的朋友。
 dlga_start:village_elder_talk_p|{playername} ，这个囚犯正在等待接受审讯，他也许知道些什么。
-dlga_start:close_window.111|好吧，差不多就到{s21}了，我们能自己走完剩下的路。这是付给你的…{reg14} 先令。感谢你的护送，祝你好运。
+dlga_start:close_window.111|好吧，差不多就到{s21}了，我们能自己走完剩下的路。这是付给你的……{reg14} 先令。感谢你的护送，祝你好运。
 dlga_start:doccinga_thonkrikca|{playername} ，你来了！感谢上帝！维京战船正要袭击我们！那是牛颈斯温！他要把我们统统杀光。
 dlga_start:close_window.112|谢谢你把我送回来！我简直等不及要看见家人了，再见。
-dlga_start:village_elder_thonkrik1|欢迎来到{s9} …噢，等等！你正是我们在海里找到的那个{reg59?女士:男人} ！幸会，这不是客套话！我不敢奢望能够再次看见你，大概那个医师还是继承了他父亲的一些技艺，愿他安息！
+dlga_start:village_elder_thonkrik1|欢迎来到{s9} ……噢，等等！你正是我们在海里找到的那个{reg59?女士:男人} ！幸会，这不是客套话！我不敢奢望能够再次看见你，大概那个医师还是继承了他父亲的一些技艺，愿他安息！
 dlga_village_elder_thonkrik1:village_elder_thonkrik2a|你是索里克吗？我的名字是{playername} ，我欠了道琴嘉一条命。
 dlga_village_elder_thonkrik1:village_elder_thonkrik2b|你是来自道琴嘉的索里克吗？我是{playername} 。我有一些问题要问你。
 dlga_village_elder_thonkrik2a:village_elder_thonkrik3|你太客气了，你不欠我们什么，朋友！在海上救人是每一名渔民的职责！^我们当时发现你抓紧着一块木板，已经失去意识并在随波逐流。走运的是，你离海岸不远。
 dlga_village_elder_thonkrik2b:village_elder_thonkrik3|好吧，{playername} ，尽管问。
 dlga_village_elder_thonkrik3:village_elder_thonkrik4|我们正在一条船上航行，沃登里克号，然后被维京人袭击了！这就是你在海里发现我的缘故。
-dlga_village_elder_thonkrik4:village_elder_thonkrik5|我知道沃登里克号！它曾经多次在道琴嘉靠岸，因为总有旅客来这里寻求治疗绝症的奇迹。^那位救了你的医生的父亲，正是远近闻名的神医，无数人曾经抛下一切来到这里。但现在他已经去世了，而不幸的是他的儿子没有继承这一神力。^我对于沃登里克号被维京人袭击的消息非常遗憾…
-dlga_village_elder_thonkrik5:village_elder_thonkrik7|我就是那些人之中的一个，我的母亲病了，而此时此刻，她大概…死了。
-dlga_village_elder_thonkrik5:village_elder_thonkrik7.1|我的母亲和我一同前来。你当时有没有发现其他人，或者…任何尸体？
-dlga_village_elder_thonkrik7:village_elder_thonkrik8|大海不时会将尸体或者残骸冲到我们岸边，但最近并没有任何情况。通常，维京人会带走俘虏并卖掉…
+dlga_village_elder_thonkrik4:village_elder_thonkrik5|我知道沃登里克号！它曾经多次在道琴嘉靠岸，因为总有旅客来这里寻求治疗绝症的奇迹。^那位救了你的医生的父亲，正是远近闻名的神医，无数人曾经抛下一切来到这里。但现在他已经去世了，而不幸的是他的儿子没有继承这一神力。^我对于沃登里克号被维京人袭击的消息非常遗憾……
+dlga_village_elder_thonkrik5:village_elder_thonkrik7|我就是那些人之中的一个，我的母亲病了，而此时此刻，她大概……死了。
+dlga_village_elder_thonkrik5:village_elder_thonkrik7.1|我的母亲和我一同前来。你当时有没有发现其他人，或者……任何尸体？
+dlga_village_elder_thonkrik7:village_elder_thonkrik8|大海不时会将尸体或者残骸冲到我们岸边，但最近并没有任何情况。通常，维京人会带走俘虏并卖掉……
 dlga_village_elder_thonkrik8:village_elder_thonkrik9|索里克，我们的船是被牛颈斯温袭击的，你听说过这个名字吗？
 dlga_village_elder_thonkrik9:village_elder_thonkrik10|{s1}^^牛颈斯温？我的上帝！你能活下来真是奇迹。斯温是一个杀人如麻的海盗，他的手下都是魔鬼。他从不留下活口，总是把所有船员灭口，然后把船只和尸体一起烧掉。^斯温的野心远不止钱财，我们每年都给他贡纳一大笔钱才能保证这里的安全。
 dlga_village_elder_thonkrik10:village_elder_thonkrik11.1|他杀了我的母亲，而我将亲手杀死他！告诉我，哪里能找到斯温？
@@ -5547,22 +5547,22 @@ dlga_village_elder_caliacas4:village_elder_caliacas5_1|你烧死了那些可怜�
 dlga_village_elder_caliacas4:village_elder_caliacas5_2|毫无疑问，那个老人和这件事有关。没有他能更好的解决这件事。
 dlga_village_elder_caliacas4:village_elder_caliacas5_3|这个老人还说了什么？
 dlga_village_elder_caliacas5_1:village_elder_caliacas6|那么那些妇女和孩子们也应该付出代价吗？并且那个老人并不可怜。他向恶魔祈祷、并且拿动物做祭品去执行仪式。他住在一个小屋并且售卖药剂。许多人相信是这个老人召唤的东西导致不幸的事发生在我们身上。所以，当我们的牧师命令我们去烧死那个老人的时候，我们把他关进他的小屋里，并且在周围点火，听着他在大火中的尖叫和诅骂。
-dlga_village_elder_caliacas5_2:village_elder_caliacas6|我们不应该把他烧死。那个老人十分强大。他向恶魔祈祷，并且拿动物作为祭品去执行仪式。他住在他卖药水和药膏的小屋里。许多人认为在我们身上发生的所有糟糕的事情都是因为他。因为他召唤了一些东西…因此，当我们的牧师命令我们把这个老人烧死的时候，我们把他关在他的小屋里，就地放火烧了这间木屋，并且听着他在大火中的尖叫和诅咒。他留给我们的唯一的建议是，我们应该带着三个英雄，否则潜伏在我们周围的恶魔最终将毁灭我们。
-dlga_village_elder_caliacas5_3:village_elder_caliacas6|那个老人十分强大。他向恶魔祈祷，并且拿动物作为祭品去执行仪式。他住在他卖药水和药膏的小屋里。许多人认为在我们身上发生的所有糟糕的事情都是因为他。因为他召唤了一些东西…因此，当我们的牧师命令我们把这个老人烧死的时候，我们把他关在他的小屋里，就地放火烧了这间木屋，并且听着他在大火中的尖叫和诅咒。他留给我们的唯一的建议是，我们应该带着三个英雄，否则潜伏在我们周围的恶魔最终将毁灭我们。
+dlga_village_elder_caliacas5_2:village_elder_caliacas6|我们不应该把他烧死。那个老人十分强大。他向恶魔祈祷，并且拿动物作为祭品去执行仪式。他住在他卖药水和药膏的小屋里。许多人认为在我们身上发生的所有糟糕的事情都是因为他。因为他召唤了一些东西……因此，当我们的牧师命令我们把这个老人烧死的时候，我们把他关在他的小屋里，就地放火烧了这间木屋，并且听着他在大火中的尖叫和诅咒。他留给我们的唯一的建议是，我们应该带着三个英雄，否则潜伏在我们周围的恶魔最终将毁灭我们。
+dlga_village_elder_caliacas5_3:village_elder_caliacas6|那个老人十分强大。他向恶魔祈祷，并且拿动物作为祭品去执行仪式。他住在他卖药水和药膏的小屋里。许多人认为在我们身上发生的所有糟糕的事情都是因为他。因为他召唤了一些东西……因此，当我们的牧师命令我们把这个老人烧死的时候，我们把他关在他的小屋里，就地放火烧了这间木屋，并且听着他在大火中的尖叫和诅咒。他留给我们的唯一的建议是，我们应该带着三个英雄，否则潜伏在我们周围的恶魔最终将毁灭我们。
 dlga_village_elder_caliacas6:village_elder_caliacas6_1|你是对的，然后去告诉那三位英雄。
 dlga_village_elder_caliacas6:village_elder_caliacas7|什么恶魔在攻击你？
 dlga_village_elder_caliacas6_1:village_elder_caliacas7|是的，我认为这是正确的做法。我也很高兴院长尊重我的劝说，因为任何人都有可能认为我们是异教徒。
 dlga_village_elder_caliacas7:village_elder_caliacas8|一个月之前，一个牧羊人不见了。几天之后我们在附近的一颗树下发现了他被肢解的尸体。这让我们都很害怕，因为动物不可能会对人类那么做。自从那之后所有人都会结伴出村子，但那并没有什么用。几天之后有一群人被攻击了，孩子和妇女都消失了直到后来我们才发现他们被肢解的尸体。
-dlga_village_elder_caliacas8:village_elder_caliacas9|--当他说话的时候他的手在颤抖--^^然后我们花了很多钱雇佣一群北欧人，但是恶魔对他们做了和对我们一样的事，他们被肢解的尸体不久就成为了乌鸦的食物^^那个老人叫我们去邀请三位英雄，然后我们烧死了他。
+dlga_village_elder_caliacas8:village_elder_caliacas9|——当他说话的时候他的手在颤抖——^^然后我们花了很多钱雇佣一群北欧人，但是恶魔对他们做了和对我们一样的事，他们被肢解的尸体不久就成为了乌鸦的食物^^那个老人叫我们去邀请三位英雄，然后我们烧死了他。
 dlga_village_elder_caliacas9:village_elder_caliacas10_1|你们会找你们的主来帮助你们吗？
 dlga_village_elder_caliacas9:village_elder_caliacas10_2|你们讨论恶魔，为什么要怀疑不可思议的事情呢？
-dlga_village_elder_caliacas10_1:village_elder_caliacas10_2|--他重重地叹了口气--^^是的这是我们做的第一件事。他派了二十个战士，几天后他们被发现已经死亡并且被肢解了。现在我们的主说他不能派遣更多的人。为了他的战争他需要他们。自从他不再对我们的事情加以干涉之后，我们都只能依靠院长。
+dlga_village_elder_caliacas10_1:village_elder_caliacas10_2|——他重重地叹了口气——^^是的这是我们做的第一件事。他派了二十个战士，几天后他们被发现已经死亡并且被肢解了。现在我们的主说他不能派遣更多的人。为了他的战争他需要他们。自从他不再对我们的事情加以干涉之后，我们都只能依靠院长。
 dlga_village_elder_caliacas10_2:village_elder_caliacas11|旧神已经回来了，在之后的几个世纪他渴望鲜血^^他们不仅仅杀死平民和战士，但我们已经察觉到他们正在远处看着这个村庄。他们宣布他们将会为我们的鲜血而来。也许在某一天，大雾将至，我们都会死去。
 dlga_village_elder_caliacas12:village_elder_caliacas13|当大雾降临的时候，我们能听见他们的歌声和他们的狼的嚎叫声。我们甚至可以在缕缕的黑雾之间看到他们的身影。他们是巨大的。当然，除了她。
 dlga_village_elder_caliacas13:village_elder_caliacas14_1|她？一个女人？
 dlga_village_elder_caliacas13:village_elder_caliacas14_2|(沉默不语)
 dlga_village_elder_caliacas14_1:village_elder_caliacas14_2|不，不是一个女人，她像是某种其他生物……古老的神已经把她派来来杀死我们所有人
-dlga_village_elder_caliacas14_2:village_elder_caliacas14_2|--他降低了声音细细低语着--^^她是莫莉卡，幽灵女王，异教徒的战争女神和……性欲的肆虐处。之前她崇拜圣帕特里克带给我们的救世主。
+dlga_village_elder_caliacas14_2:village_elder_caliacas14_2|——他降低了声音细细低语着——^^她是莫莉卡，幽灵女王，异教徒的战争女神和……性欲的肆虐处。之前她崇拜圣帕特里克带给我们的救世主。
 dlga_village_elder_caliacas14_2:village_elder_caliacas15_1|是盾女？
 dlga_village_elder_caliacas14_2:village_elder_caliacas15_2|(沉默不语)
 dlga_village_elder_caliacas15_1:village_elder_caliacas15_2|什么！请说话小声点。莫莉卡可能会听到我们的谈话。不，她通过强大的魔法监视到我们而不是强大的力量。
@@ -5586,7 +5586,7 @@ dlga_village_elder_caliacasdesp5_1:village_elder_caliacasdesp11|在这种情况�
 dlga_village_elder_caliacasdesp5_2:village_elder_caliacasdesp6|我的{reg59?女士:先生} ，许多年轻人因为最近发生的事情想要去复仇去战斗。我不想让他们去白白送死，但我可以让他们加入你。只要答应我好好照顾他们，因为他们都太鲁莽和冲动了。
 dlga_village_elder_caliacasdesp5_2:village_elder_caliacasdesp10|我的{reg59?女士:先生} ，许多年轻人因为最近发生的事情想要去复仇去战斗。我不能让他们白白去送死，因为他们太鲁莽和冲动了，抱歉。
 dlga_village_elder_caliacasdesp5_3:village_elder_caliacasdesp11|马上就好，我的{reg59?女士:先生} 。我们已经为你和你的士兵准备好的大房子，可能它以前的住户已经永远的安息了。我将会送上我们最好的食物和蜂蜜酒。我们的年轻姑娘将会服侍你并且让你感觉愉快。这是我们最后能为我们的救世主所做的了。你可以自由的在村庄里走动。在这里休息或者去附近打猎，但要小心那些雾。
-dlga_village_elder_caliacasdesp5_3:village_elder_caliacasdesp11.1|我们已经为你和你的士兵准备好的大房子，可能它以前的住户已经永远的安息了。我将会送上我们最好的食物和蜂蜜酒，但是抱歉，我的{reg59?女士:先生} -- 我们更愿意让年轻姑娘远离你的人，这是比较合适的。你可以自由的在村庄里走动。在这里休息或者去附近打猎，但要小心那些雾。
+dlga_village_elder_caliacasdesp5_3:village_elder_caliacasdesp11.1|我们已经为你和你的士兵准备好的大房子，可能它以前的住户已经永远的安息了。我将会送上我们最好的食物和蜂蜜酒，但是抱歉，我的{reg59?女士:先生} —— 我们更愿意让年轻姑娘远离你的人，这是比较合适的。你可以自由的在村庄里走动。在这里休息或者去附近打猎，但要小心那些雾。
 dlga_village_elder_caliacasdesp6:village_elder_caliacasdesp7|当然，我会照顾好他们的。
 dlga_village_elder_caliacasdesp6:village_elder_caliacasdesp5_1|让这些男孩离开母亲的怀抱才是最好的。
 dlga_village_elder_caliacasdesp7:village_elder_caliacasdesp8|我能想到{reg5}我怀疑年轻人将会加入你。这适合你吗？
@@ -5594,7 +5594,7 @@ dlga_village_elder_caliacasdesp8:village_elder_caliacasdesp10|感谢你所做的
 dlga_village_elder_caliacasdesp8:village_elder_caliacasdesp10.1|不，他们并不给我面子。
 dlga_village_elder_caliacasdesp10:village_elder_caliacasdesp11|在这种情况下{playername} ，你可以自由的在村庄里走动。在这里休息或者去附近打猎，但要小心那些雾。我们已经为你和你的士兵准备好的大房子，可能它以前的住户已经永远的安息了。
 dlga_village_elder_caliacasdesp11:village_elder_pretalk|谢谢你的款待，卡利卡斯。我们会在这里等待，直到我们收到信息莫莉卡的老巢在哪里。然后我们将制裁她并且给你的人民重新带来和平。
-dlga_village_elder_caliacassuccess1:village_elder_caliacassuccess2|--他的脸上几乎无法掩饰自己内心的快乐，他几乎无法阻止自己拥抱你。--^^你……你是一个英雄！我的朋友！你拯救了这个村子，并且我们将永远感激你！^这个村里每个人都知道你为我们做了什么。在这里你将会被作为一个英雄永远受到欢迎。我也让我最小的一个孩子加入你的军队并且为你服务。他的名字是布兰，并且是我最珍爱的一个孩子。
+dlga_village_elder_caliacassuccess1:village_elder_caliacassuccess2|——他的脸上几乎无法掩饰自己内心的快乐，他几乎无法阻止自己拥抱你。——^^你……你是一个英雄！我的朋友！你拯救了这个村子，并且我们将永远感激你！^这个村里每个人都知道你为我们做了什么。在这里你将会被作为一个英雄永远受到欢迎。我也让我最小的一个孩子加入你的军队并且为你服务。他的名字是布兰，并且是我最珍爱的一个孩子。
 dlga_village_elder_caliacassuccess2:village_elder_caliacassuccess3|谢谢卡利卡斯，我会照顾好她的。
 dlga_village_elder_caliacassuccess2:village_elder_caliacassuccess4|这是不必要的，我不能保证他的安全。
 dlga_village_elder_caliacassuccess3:village_elder_pretalk|你拯救了这里的许多人，谢谢{playername} ！回到菲尼安修道院去找院长。我相信他已经准备好奖励你，并且想听到这个好消息。祝你好运，我的朋友。
@@ -5762,14 +5762,14 @@ dlga_village_elder_tell_mission:village_elder_tell_capture_mission|我的好{reg
 dlga_village_elder_tell_capture_mission:village_elder_capture_mission_reject|我不是一个绑架犯，去找别的人吧。
 dlga_village_elder_capture_mission_reject:close_window|好的，我的{reg59?女士:大人} ，当然。很抱歉叨扰你了。
 dlga_village_elder_tell_capture_mission_3b:village_elder_capture_mission_4b|我不知道这种事情有多么普遍，你曾找过自己的领主帮忙吗？
-dlga_village_elder_tell_capture_mission_3b:village_elder_capture_mission_4b.1|听起来很有趣，也许我能帮你，如果可能的话…
+dlga_village_elder_tell_capture_mission_3b:village_elder_capture_mission_4b.1|听起来很有趣，也许我能帮你，如果可能的话……
 dlga_village_elder_tell_capture_mission_3b:village_elder_capture_mission_4b.2|你看起来很懂女人，好心人。现在一切都顺理成章了。
 dlga_village_elder_tell_capture_mission_3b:village_elder_capture_mission_4b.3|我必须承认我对这个任务非常期待。
 dlga_village_elder_tell_capture_mission_3b:village_elder_capture_mission_4b.4|也许吧，我能嗅到赏金的味道。
 dlga_village_elder_tell_capture_mission_3a:village_elder_capture_mission_4a|不如你考虑一下我们队伍中的女战士？
 dlga_village_elder_tell_capture_mission_3a:village_elder_capture_mission_4a.1|有赏金吗？
 dlga_village_elder_tell_capture_mission_3a:village_elder_capture_mission_4a.2|我不得不承认你说得很有道理。
-dlga_village_elder_tell_capture_mission_3a:village_elder_capture_mission_4a.3|你的人缺乏意志力，但毕竟他们只是卑微的农民…
+dlga_village_elder_tell_capture_mission_3a:village_elder_capture_mission_4a.3|你的人缺乏意志力，但毕竟他们只是卑微的农民……
 dlga_village_elder_tell_capture_mission_3a:village_elder_capture_mission_reject|抱歉，但你没有说服我。
 dlga_village_elder_capture_mission_4a:village_elder_tell_capture_mission_4c|好吧，我们非常感激您的帮助，您想要什么样的奖赏呢？
 dlga_village_elder_capture_mission_4a:village_elder_tell_capture_mission_4c.1|很高兴你能够明白事理。我们对您的援助无比感激。
@@ -5909,7 +5909,7 @@ dlga_bandit_meet1:close_window|我管你是谁呢，去死吧！
 dlga_bandit_meet1:bandit_meet1g|是的，你的名字如雷贯耳。他们说你的部队有上等的战利品。原谅我，我们会很乐意跟随这样一个凶猛的领袖。
 dlga_bandit_meet1:bandit_meet1e|如果你能多给{reg0} 先令，那我就考虑接受你的提议。
 dlga_bandit_meet1e:close_window|钱财易得，精兵难求，欢迎加入。
-dlga_bandit_meet1e:bandit_meet12|我的钱不够…
+dlga_bandit_meet1e:bandit_meet12|我的钱不够……
 dlga_bandit_meet1e:bandit_meet12.1|算了，我现在知道为什么他们叫你们强盗了。
 dlga_bandit_meet1g:close_window|那我的话，欢迎这些猛士的加入！
 dlga_bandit_meet1g:bandit_meet13|算了，我改主意了，我想要忠诚于我的战士而不是墙头草。
@@ -6108,7 +6108,7 @@ dlga_raiders_bribe1:close_window.1|我管你是谁呢，去死吧。
 dlga_raiders_bribe1:raiders_bribe1g|是的，我听说过你。他们说你的部队有一大堆战利品。原谅我，我们会很高兴能够追随这样一名凶猛的领袖。
 dlga_raiders_bribe1:raiders_bribe1e|如果你再加上{reg0} 先令，我会考虑你的建议。
 dlga_raiders_bribe1e:close_window|什么？我怎么可能让小事情破坏我们之间的友谊？欢迎加入我的部队。
-dlga_raiders_bribe1e:raiders_bribe12|我的钱不够…
+dlga_raiders_bribe1e:raiders_bribe12|我的钱不够……
 dlga_raiders_bribe1e:raiders_bribe12.1|算了。你们全都是疯子。
 dlga_raiders_bribe1g:close_window|你们的到来不会有损我们队伍的形象。欢迎！
 dlga_raiders_bribe1g:raiders_bribe13|算了。我得为我的名声考虑。
