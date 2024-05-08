@@ -5,10 +5,11 @@ import io
 import csv
 
 work_path = 'work_cns/'
-out_path = 'result_cns'
+out_path = 'result'
 
 
 def add_space_after_chinese(cell):
+    # 在所有的汉字后面删去空格，但是忽略"__NULL__"
     if cell != '__NULL__':
         return re.sub(r'([\u4e00-\u9fa5。；，：“”（）、？《》！·…—])', r'\1 ', str(cell))
     else:
