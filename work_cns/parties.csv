@@ -355,8 +355,8 @@ p_destroy1|泰德的藏身处( 已破坏)
 p_destroy2|斯温的藏身处( 已破坏) 
 p_destroy3|艾克丹战场
 p_followers_camp|追随者营地
-p_ferry_1a| 渡口
-p_ferry_2a| 渡口
+p_ferry_1a|渡口
+p_ferry_2a|渡口
 p_ferry_3a|渡口
 p_ferry_4a|渡口
 p_ferry_1b|渡口
@@ -397,6 +397,6 @@ p_troop_camp_2|军营
 p_paganholysites1|奥丁神庙
 p_paganholysites2|索尔神庙
 p_oldpagan_hut|破旧的多神教徒小屋
-p_morrigan_lair|莫莉卡的巢穴
+p_morrigan_lair|莫莉卡的藏身处
 p_bresail_farm|普雷西尔王子的农场
 p_bresail_fort|普雷西尔王子的堡垒

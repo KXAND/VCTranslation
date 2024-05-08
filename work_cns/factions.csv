@@ -11,7 +11,7 @@ fac_culture_welsh|布立吞
 fac_culture_irish|戈伊德尔
 fac_culture_scotch|皮克特
 fac_player_faction|玩家阵营
-fac_player_supporters_faction|某个意淫王国
+fac_player_supporters_faction|{playername}王国
 fac_kingdom_1|丹麦王国
 fac_kingdom_2|挪威王国
 fac_kingdom_3|雷弗莱王国
@@ -26,12 +26,12 @@ fac_kingdom_11|奥卡勒王国
 fac_kingdom_12|康比亚王国
 fac_kingdom_13|格莱永王国
 fac_kingdom_14|阿尔斯特王国
-fac_kingdom_15|雷金王国
+fac_kingdom_15|里金王国
 fac_kingdom_16|穆梅殷王国
-fac_kingdom_17|卡内塔王国
+fac_kingdom_17|康纳赫塔王国
 fac_kingdom_18|欧莱克王国
 fac_kingdom_19|迈德王国
-fac_kingdom_20|奥尔本王国
+fac_kingdom_20|阿尔班王国
 fac_kingdom_21|奥斯里部落
 fac_christians|基督徒
 fac_pagans|多神教徒

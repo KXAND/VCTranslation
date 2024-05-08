@@ -331,7 +331,7 @@ ui_no_more_bolts|没有弩箭了……
 ui_you_are_not_carrying_any_bolts|你没有带弩箭。
 ui_no_more_arrows|没有箭了……
 ui_you_are_not_carrying_any_arrows|你没有带箭。
-ui_head_shot|射中头部！
+ui_head_shot|爆头！
 ui_delivered_number_damage|给对方%d点伤害。
 ui_delivered_number_damage_to_horse|给对方的马%d点伤害。
 ui_horse_charged_for_number_damage|马冲撞对方%d点伤害。
@@ -420,7 +420,7 @@ ui_on|打开
 ui_off|关闭
 ui_near_player_only|只显示玩家附近
 ui_default|默认值
-ui_3d_grass|3D 草丛：
+ui_3d_grass|3D草丛：
 ui_number_of_ragdolls|布娃娃数目：
 ui_number_of_corpses|尸体数目：
 ui_unlimited|无限
@@ -588,7 +588,7 @@ ui_quick|快速
 ui_none|无
 ui_change|改变
 ui_how_to_change|怎样改变这个？
-ui_change_directx_explanation|要切换DirectX 7及DirectX 9的选择，请点击启动菜单（一打开游戏弹出的那个）上的配置按钮。
+ui_change_directx_explanation|要切换DirectX 7及DirectX 9的选择，请点击启动菜单（打开游戏时弹出的窗口）上的配置按钮。
 ui_dropping_picking_up|丢掉%s；捡起%s。
 ui_dropping|丢掉%s。
 ui_picking_up|捡起%s。
