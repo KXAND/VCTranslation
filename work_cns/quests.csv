@@ -48,7 +48,7 @@ qst_deliver_wine_text|{s3} 的{s9} 请你在7天内送{reg5} 个{s6} 到{s4} 的
 qst_troublesome_bandits|解决难对付的强盗
 qst_troublesome_bandits_text|{s4} 的{s9} 请你追捕在镇子附近麻烦的土匪。
 qst_kidnapped_girl|从强盗那儿赎回女孩
-qst_kidnapped_girl_text| {s4} 的村长给你{reg12} 先令去支付一个女孩的赎金，你在{s3} 附近遇见土匪并且付给他们赎金。之后你把女孩带回了{s4}.
+qst_kidnapped_girl_text| {s4} 的村长给你{reg12} 先令去支付一个女孩的赎金，你在{s3} 附近遇见土匪并且付给他们赎金。之后你把女孩带回了{s4}。
 qst_persuade_lords_to_make_peace|确保两个领主不反对和平
 qst_persuade_lords_to_make_peace_text| {s4} 的村长答应给你{reg12} 先令如果你能确保{s12} 和{s13} 不再对{s15} 和{s14}之间和平解决问题构成威胁的话。为了做到这一点你必须说服他们或者确保他们有一个俘虏直到一个和平协议制定出来。
 qst_deal_with_looters|解决劫匪

@@ -1,4 +1,4 @@
-﻿menu_start_game_0|欢迎来到维京征服世界（游戏版本V2.064）。
+﻿menu_start_game_0|欢迎来到维京征服世界。
 mno_continue_i|继续……
 mno_continue_cheat|跳过教程。
 mno_go_back_dot|后退。
@@ -395,7 +395,7 @@ mno_banquete_mead|为我的手下在{reg0?城镇:城堡}举行庆功宴，购买
 mno_banquete_mead_door|扬帆起航。
 mno_set_sail|从港口起航。
 mno_set_sail_door|扬帆起航。
-mno_town_leave|离开……
+mno_town_leave|离开。
 mno_town_leave_door|离开此地。
 menu_cannot_enter_court|领主的大厅里正在举行一场宴会，但是你还没有足够资格进入。或者想办法增加声望来赢得入场劵，或者在竞技大会上胜出也是个捷径。
 menu_lady_visit|你想要拜访谁呢？
@@ -811,7 +811,7 @@ mno_banquete_refugemead|为我的士兵举办一场盛宴。
 mno_guarida_rename|重命名你的避难所。
 mno_lair_interior|前往避难所大厅。
 mno_lair_interior_door|前往避难所。
-mno_visit_tavern_lair|前往蜜酒厅
+mno_visit_tavern_lair|前往蜜酒厅。
 mno_visit_tavern_lair_door|出门前往会议厅。
 mno_lair_buildings_improve|和你的队长谈话。
 mno_lair_buildings_improve_door|前往避难所。
@@ -821,7 +821,7 @@ mno_lair_inspect_door|出门前往广场。
 mno_mylair_station_troops|管理驻兵。
 mno_demoler_lair|拆除你的避难所(500先令) 。
 mno_lair_wait|在这里休息一会儿。
-mno_see_ships|看看你的船。( 建造中)
+mno_see_ships|看看你的船。
 mno_embarkre|上船。
 mno_lair_leave|离开……
 mno_lair_leave_door|离开此地。
