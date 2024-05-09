@@ -325,7 +325,7 @@ p_monasterio2|卫利波洛修道院
 p_monasterio3|多默克修道院
 p_monasterio4|林第斯法纳修道院
 p_monasterio5|埃克杉修道院
-p_monasterio6|佩特勒斯
+p_monasterio6|佩特勒斯修道院
 p_monasterio7|佩尔斯格修道院
 p_monasterio8|朗特鲁道格修道院
 p_monasterio9|安格尔艾利修道院
@@ -351,8 +351,8 @@ p_monasterio28|斯乐科海慈修道院
 p_monasterio29|格伦达洛谷修道院
 p_yourlair|庇护所
 p_thiaderd_lair|泰德的藏身处
-p_destroy1|泰德的藏身处( 已破坏) 
-p_destroy2|斯温的藏身处( 已破坏) 
+p_destroy1|泰德的藏身处(已破坏) 
+p_destroy2|斯温的藏身处(已破坏) 
 p_destroy3|艾克丹战场
 p_followers_camp|追随者营地
 p_ferry_1a|渡口

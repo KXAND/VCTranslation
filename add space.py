@@ -2,10 +2,9 @@ import os
 import pandas as pd
 import re
 import io
-import csv
 
 work_path = 'work_cns/'
-out_path = 'result'
+out_path = 'E:\SteamLibrary\steamapps\common\MountBlade Warband\Modules\Viking Conquest\languages\cns'
 
 
 def add_space_after_chinese(cell):

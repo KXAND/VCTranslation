@@ -617,7 +617,7 @@ str_npc2_morality_speech|我不关心{s21} 。士兵看不起懦夫，更不会�
 str_npc3_morality_speech|或许我不该这么说，{reg59?女士:先生} ，但我不得不承认我们{s21}还是令我感到几分惊讶。当然了，战争是残酷的，但何必让它更加残酷呢？
 str_npc4_morality_speech|苏格兰人才不关心{s21} 。如果您继续这么干的话，请别怪我心怀不满。
 str_npc5_morality_speech|阁下，请原谅我的直言。{s21}是不对的。您的首要职责是爱护您的战士。他们的要求很简单：有充足的食物，不拖欠军饷，有机会劫掠，以及您别让他们白白送命。
-str_npc6_morality_speech|听我说，{playername} 。如您所知，我是个贵族，是个极富才干的贵族。我想得到救赎，我不想{s21} 。
+str_npc6_morality_speech|听我说，{playername}。如您所知，我是个贵族，是个极富才干的贵族。我想得到救赎，我不想{s21} 。
 str_npc7_morality_speech|阁下——我不愿看到我们{s21} 。您一点都不尊重您的战士，您这么做与匪首何异？
 str_npc8_morality_speech|看到您决定{s21}我觉得悲哀。冲锋陷阵是无上的荣光，但为懦夫冲锋陷阵则是奇耻大辱。
 str_npc9_morality_speech|{reg59?女士:先生}——{s21}不是我的作风。我家族的人宁为玉碎，不为瓦全。请别让我觉得为你而战是可耻之事。
@@ -649,7 +649,7 @@ str_npc2_personalityclash_speech|{reg59?女士:先生}——正如你所记得�
 str_npc3_personalityclash_speech|阁下——听我说，{s11}是一个令人讨厌的人。他好几次想引诱我和他上床。他甚至在晚上悄悄跟踪我。阁下，我真的很害怕他。
 str_npc4_personalityclash_speech|{s11}竟胆敢公然对我不恭，如果他再敢如此，我会杀了他的。而你最好不要插手此事。
 str_npc5_personalityclash_speech|抱歉占用你一点时间，阁下。{s11}似乎认为我是一个土匪，就因为我在战争中曾受命洗劫了一支经过我家乡的商队。那些战利品本应归我啊！
-str_npc6_personalityclash_speech|抱歉，{playername} ，但我不能保持沉默了。那个妓女，{s11}——每次她看到我就用乡下人辟退恶魔的一种手势——用她的五个手指指着我。
+str_npc6_personalityclash_speech|抱歉，{playername}，但我不能保持沉默了。那个妓女，{s11}——每次她看到我就用乡下人辟退恶魔的一种手势——用她的五个手指指着我。
 str_npc7_personalityclash_speech|阁下，我已经很努力的去忍受你同伴的粗鲁谈话和肮脏的习惯了。但是有个自称是{s11}的家伙已经超出我的忍耐限度了。
 str_npc8_personalityclash_speech|我想让你知道，我再也不能忍受{s11}那个自称“哲学家”的无礼家伙了。那个南方耗子总爱叽叽喳喳的说那些他自称是“拉丁”的语言。呸！那混蛋还总爱在背后嘲笑我，因为我听不懂他那些狗屁话！
 str_npc9_personalityclash_speech|{reg59?女士:先生}——{s11}真是个牛皮精，虽然像他一样钦佩他人勇武的人实为少见。但他老是仗着自己精于行伍之事而四处吹嘘他和他的伙计们战无不胜，让我耳朵都听出茧了。
@@ -712,7 +712,7 @@ str_npc1_personalitymatch_speech|阁下。{s11}上场战斗中表现的真不赖
 str_npc2_personalitymatch_speech|{reg59?女士:先生} 。我只想告诉你{s11}也许是个粗人，那我估计他也是个十足的酒鬼，但我还是很骄傲称他为我的同伴的。
 str_npc3_personalitymatch_speech|{reg59?女士:先生} ，你好！我只想对你说{s11}是最勇敢的战士。你看到上场战斗里他的表现了吗？
 str_npc4_personalitymatch_speech|对于{s11}我只说一句表扬的话。他上场战斗中做得很不错。
-str_npc5_personalitymatch_speech|{playername} ，那真是场精彩的战斗！战斗的时候，{s11}是个在身边的好同伴。
+str_npc5_personalitymatch_speech|{playername}，那真是场精彩的战斗！战斗的时候，{s11}是个在身边的好同伴。
 str_npc6_personalitymatch_speech|有时候我会被血腥的场面困扰，尽管我知道如果想要恢复和平的话，得让那些骄傲的领主低下头，并驯服那些残酷的土匪。
 str_npc7_personalitymatch_speech|阁下，我刚想说{s11}呢。他虽然性子太直了，但他没有因为我是个女人或者皮克特人而对我产生偏见。
 str_npc8_personalitymatch_speech|阁下，真是场精彩的战斗。我得说，我很高兴能有{s11}陪伴，他是个优秀的指挥官。
@@ -763,7 +763,7 @@ str_npc4_rehire_speech|嘿，你好，阁下。真是过了好久啊。我听说
 str_npc5_rehire_speech|{playername}阁下！你的名声更加响亮了，即使远如在高山另一侧的我的家乡也能听到你的事迹。我回到家乡，希望我的流放结束了。不过，还没有，在我踏上我的山谷之前我就从我的家人那里得到消息，国王和他的人都在找我。所以之后我又回来了，希望你能忘记我之前所说的过分的话，我希望还能再次与你并肩作战。
 str_npc6_rehire_speech|很高兴见到你，{reg59?女士:先生} 。我所经之地，人们都敬畏于你的所做所为。而我在分别后却过得不怎么样。无论我到哪里，我心中的恶魔都会回来。我的灵魂在受煎熬。不知道为什么，在你的队伍中我能感受到安宁，虽然我对你的领导能力还是抱有疑问。请允许我再次为你服务。
 str_npc7_rehire_speech|阁下！很高兴见到你。很不幸，尽管我的钱都是和你在一起时分的战利品所得的，但是他们仍荒唐地指控我是个叛国者，如影随行。没有皮克特战士愿意在我的指挥下作战。该死的，我猜，那种方式的生活已经过去了。你愿意我再回来么？
-str_npc8_rehire_speech|你好，{playername} 。我希望你不再介意我离开时说的那些伤人的话。我一直在撒克逊人中招兵，看看是不是能找到足够的人手征服弗里西亚的土地。但到现在还找不到足够的人装满一长船。就算我招来的人也很快就开小差了——我还得说一句，他们开溜之前喝光了我攒的金子。所以我想要回到我们一起战斗的日子。那是些美好的日子，也是有意义的日子。
+str_npc8_rehire_speech|你好，{playername}。我希望你不再介意我离开时说的那些伤人的话。我一直在撒克逊人中招兵，看看是不是能找到足够的人手征服弗里西亚的土地。但到现在还找不到足够的人装满一长船。就算我招来的人也很快就开小差了——我还得说一句，他们开溜之前喝光了我攒的金子。所以我想要回到我们一起战斗的日子。那是些美好的日子，也是有意义的日子。
 str_npc9_rehire_speech|噢，亲爱的{reg59?女士:先生} ！见到你太好了！我为这块大陆的许多领主服务过了，但是他们让我失望透顶了。他们中有一半人让我去向其他领主收债，就好像我是银行的跑腿的似的；另外一些领主叫我去追回他的农奴，就好像我是个看农场的似的。还有一个居然叫我去谋杀一个他的债主！我一直在找你，希望能再次加入你的队伍。
 str_npc10_rehire_speech|阁下！很高兴见到你。显然，我不是个合格的农场主。我对那些雇佣工太手软了，而且还稀里糊涂的被他们抢劫了。我想我最擅长的还是战斗了，即使是与布立吞人和莫西亚人在一起。告诉我，你还在找合适的人吗？
 str_npc11_rehire_speech|{reg59?女士:先生}，我们分开后我想了好久。我现在知道，即便是有时希望渺茫，但也比离它越来越远要强。在这之后，我总觉得还有点希望。所以，{reg59?女士:先生} ，能把我带走么？
@@ -987,15 +987,15 @@ str_npc1_turn_against|抱歉，阁下，我们只能如此见面。毫无疑问�
 str_npc2_turn_against|这真是个伤心的日子。我从未设想过自己将在战场上与昔日的领主遭遇。即使我大获全胜，也难以感到喜悦吧。
 str_npc3_turn_against|尊敬的女士，如果你不介意的话——我认为你现在已经证明了你是这个国度最伟大的战士。但很奇怪，还没有国王打算赐给你一片封地。也许因为你是个女子。没关系——我坚信你必将成为这个国度的伟大领主之一，即使你必须付出双倍的时间和努力才能获得你应有的东西！
 str_npc4_turn_against|是的，很好……我不知道该说什么。如果我们必须战斗，让我们结束它。
-str_npc5_turn_against|{playername} ！在我们一同取得了无数次伟大的胜利之后，可惜只能如此兵戎相见。无论如何，今天我们惟有举剑相对、一争高下，只盼日后我们能够举杯相碰、同贺新谊。
-str_npc6_turn_against|再没有什么能比和你如此重逢更让我悲痛的了，{playername} 。我不会把这种场面放在心上。我只希望有一天我们能重归于好。
+str_npc5_turn_against|{playername}！在我们一同取得了无数次伟大的胜利之后，可惜只能如此兵戎相见。无论如何，今天我们惟有举剑相对、一争高下，只盼日后我们能够举杯相碰、同贺新谊。
+str_npc6_turn_against|再没有什么能比和你如此重逢更让我悲痛的了，{playername}。我不会把这种场面放在心上。我只希望有一天我们能重归于好。
 str_npc7_turn_against|好吧，队长。你让我成为了一名了不起的女战士，我对此非常感激。然而，你不曾留下我，而如今的境况使我们之间产生了利害冲突，因此我不会在战场上手下留情。话虽如此，我还是希望即使你成为了我的手下败将，我们在时移世易之后还是能够以朋友相称。
 str_npc8_turn_against|那么，你我马上就会在各自的盾墙后见面，将对方视作死敌了。多么残酷的一天啊。有时候，我们的命运女神还真是有一种可怕的幽默感。
 str_npc9_turn_against|我们虽然反目成仇，但时势所迫，非我之过。我希望你明白我的良心是清白的，虽然我你心无比沉重。
 str_npc10_turn_against|好吧，看上去命运的潮汐让我不得不和自己的老长官为敌了。也许在你我成为君臣的那一刻起，事情就已经走上了错误的道路——我想大概我从来就不适合臣服于人。无论如何，你做好被击败的准备吧。
 str_npc11_turn_against|索尔在上，我的心这回可是彻底碎了。看来我们就此成为了敌人。我不是总在唱那些感叹世事无常的歌吗？命运女神喜欢玩弄世人，竟然如此轻易即由爱转恨了。但是你可别掉以轻心，{reg59?我的美人儿:帅哥} ，因为我是不会手下留情的！
 str_npc12_turn_against|那么，看来我们必须兵戎相见了。我希望你知道这一点，{reg59?我的小姐:先生} ，就是我不曾背叛你。我从来没有服从于你，而是服从于我认为你所坚持的原则。一旦你不再坚持这些原则，我就必须尽我所能来挫败你了。但我对你并无恶意，而且希望将来某天我们还能成为挚友。
-str_npc13_turn_against|好吧，{playername} ，我承认在与你短兵相接时，自己的情绪有些复杂。和你开战是一件悲哀的事情，但如果我在战场上取胜了，我就算击败了自己最重要的敌人，那么我在战争上的造诣将大功告成！
+str_npc13_turn_against|好吧，{playername}，我承认在与你短兵相接时，自己的情绪有些复杂。和你开战是一件悲哀的事情，但如果我在战场上取胜了，我就算击败了自己最重要的敌人，那么我在战争上的造诣将大功告成！
 str_npc14_turn_against|与你为敌是一件悲哀的事情——但从另一面来说，能够与你这位战场上的巨人战个痛快，实在是无上的光荣。说真的，我们今天的战斗将在吟游诗人们之间传诵不衰，也让他们财源滚滚，你说对吗？
 str_npc15_turn_against|啊……我从未期望过这一天的来临。只是在我看来，如果你能一直信任我的话，事情是不会走到这一步的。但毫无疑问，你并不这样看。
 str_npc16_turn_against|我现在看穿了你一直以来对我的利用和欺骗。你的灵魂属于魔鬼，你的心中只有对于旧神的邪恶热情。以基督之名，我必须在战场上打败你。无疑上帝正与我并肩作战，留给你的惟有彻底的失败。
@@ -1129,9 +1129,9 @@ str_comment_you_defeated_a_lord_allied_unfriendly_chivalrous|我听说你击败�
 str_comment_you_defeated_a_lord_allied||我听说你击败了{s54} 。我希望你对胜利感到高兴
 str_comment_you_defeated_me_enemy_chivalrous|我不会愤恨上次你击败了我，但是我渴望下一次交手！
 str_comment_you_defeated_me_enemy_spiteful|我正期待与你再次交手。你的小诡计不会再让我上当了，我将很享受你求饶的哭喊！
-str_comment_you_defeated_me_enemy|当我们上次遇到的时候，{playername} ，你比我强。但是我保证再也不会出现那种事了！
+str_comment_you_defeated_me_enemy|当我们上次遇到的时候，{playername}，你比我强。但是我保证再也不会出现那种事了！
 str_comment_i_defeated_you_enemy_spiteful|还没打够？那让我们再干一仗，我会用你的肠子喂狗。
-str_comment_i_defeated_you_enemy_chivalrous|让我再试试你有多勇猛，{playername} ？
+str_comment_i_defeated_you_enemy_chivalrous|让我再试试你有多勇猛，{playername}？
 str_comment_i_defeated_you_enemy_benevolent|你这么快又来了？你在家练习了么？
 str_comment_i_defeated_you_enemy_coldblooded|你很坚持不懈，但是很讨厌。
 str_comment_i_defeated_you_enemy|要我教训你多少次你才能学会走远点？
@@ -1168,7 +1168,7 @@ str_comment_you_ran_from_foe_allied_upstanding|他们说你从{s54}那里逃跑�
 str_comment_you_ran_from_foe_allied_spiteful|顺便说一下，他们说你从{s54}那里象受惊的小兔子一样逃走了，丢下你的部下被屠宰。哈！多么壮观的场面！
 str_comment_you_defeated_my_friend_enemy_pragmatic|你也许可以打败{s54} ，但是你不可能打败我们所有人。
 str_comment_you_defeated_my_friend_enemy_chivalrous|我听说你打败了{s54} ，从那时候起他就渴望与你再次交锋。
-str_comment_you_defeated_my_friend_enemy_spiteful|你有点名过其实，{playername} 。{s54}也许败在你的花招之下，但是如果你跟我打，你将发现我是一个更加难对付的对手。
+str_comment_you_defeated_my_friend_enemy_spiteful|你有点名过其实，{playername}。{s54}也许败在你的花招之下，但是如果你跟我打，你将发现我是一个更加难对付的对手。
 str_comment_you_defeated_my_friend_enemy|听说你打败了{s54} 。而我将会真正测试你的能力。
 str_comment_you_captured_a_lord_allied_friendly_spiteful|我听说你抓住{s54}了。我希望你能从他身上挤出每一个子儿。
 str_comment_you_captured_a_lord_allied_unfriendly_spiteful|我听说你抓住{s54}了。你的箱子里现在一定装满了赎金。但是很可惜钱不能使你从一个低贱的野狗变成绅士的！
@@ -1292,12 +1292,12 @@ str_battle_won_sadistic|现在让我们剥光这些尸体丢去喂乌鸦，好�
 str_battle_won_goodnatured|这一仗打得不错！没有什么比打了胜仗更加令人高兴，是吧？
 str_battle_won_upstanding|现在，让我们感谢上帝让我们获胜，同时让我们也沉痛悼念那些今天在战场上牺牲的战友。
 str_battle_won_grudging_default|今天，你在战场上帮忙扭转了局势。不管我怎么样看你，不过你的勇武是无可挑剔的。
-str_battle_won_grudging_martial|{playername} ，不管你以前做得怎样，但是今天你证明了你是一个有价值的人。
+str_battle_won_grudging_martial|{playername}，不管你以前做得怎样，但是今天你证明了你是一个有价值的人。
 str_battle_won_grudging_quarrelsome|哼，我通常都不想看到你的那张脸，但是我今天还是得感谢你的帮忙。
 str_battle_won_grudging_pitiless|你今天的帮忙很受用。我完全没有想到你会这么好心地来帮我，但是我还是得谢谢你。
 str_battle_won_grudging_cunning|你在我最需要帮忙的时候来帮了我，如果我不感谢你，我就显的太不厚道了。所以……我很感激你。
 str_battle_won_grudging_sadistic|啊！多么令人感动啊！{playername}居然来救我了。
-str_battle_won_grudging_goodnatured|{playername} ！我不想说过去我们相处得如何，但是你今天在战场上的表现不错。非常感谢你！
+str_battle_won_grudging_goodnatured|{playername}！我不想说过去我们相处得如何，但是你今天在战场上的表现不错。非常感谢你！
 str_battle_won_grudging_upstanding|也许过去我对你有些误解。你的到来非常及时。我很感激你。
 str_battle_won_unfriendly_default|你来了。好吧，我认为晚点来总比不来的好。
 str_battle_won_unfriendly_martial|我以前对你说了很多难听且尖锐的话，但是现在，就让我们享受胜利的喜悦吧。
@@ -1657,7 +1657,7 @@ str_this_is_your_last_respawn|（这是你的最后一条命）
 str_wait_next_round|（等候下一回合）
 str_yes_wo_dot|可
 str_no_wo_dot|否
-str_we_resign|我们没有足够的兵力继续作战。我们向你投降，{playername} 。
+str_we_resign|我们没有足够的兵力继续作战。我们向你投降，{playername}。
 str_i_resign|我还想活下去。我投降。
 str_s1_returned_flag|{s1}将丢失的旗帜重新夺回！
 str_s1_auto_returned_flag|{s1}旗帜自动回到了他们的基地！
@@ -2374,7 +2374,7 @@ str_surely_we_can_discuss_whatever_you_want_to_discuss_out_here_in_the_open_cant
 str_im_a_simple__man_not_one_for_intrigue_but_id_guess_that_you_have_something_worthwhile_to_say_what_is_it|我是一个直性子，不擅长什么计谋。但是我确定你有一些非常有价值的事情要和我谈，不是吗？
 str_forgive_me_but_im_not_one_for_going_off_in_corners_to_plot|请你原谅，但我可不是一个愿意躲在角落里做什么密谋的人。
 str_please_do_not_take_this_amiss_but_i_do_not_trust_you|别犯这种错误，但我还不信任你。
-str_certainly_playername_what_is_it|当然，{playername} 。你想说些什么？
+str_certainly_playername_what_is_it|当然，{playername}。你想说些什么？
 str_forgive_me_but_id_prefer_to_keep_our_conversations_in_the_open|请你原谅，我不会公开我们刚才的谈话的。
 str_please_do_not_take_this_amiss_but_im_not_sure_you_and_i_are_still_on_those_terms|别犯这种错误，否则我不确定你我之间是否还能保持这样的友谊。
 str_really_well_this_is_the_first_i_have_heard_of_it_unless_you_build_up_support_for_that_claim_you_may_find_it_difficult_to_find_allies_however_whenever_you_see_fit_to_declare_yourself_publically_as_queen_i_should_be_honored_to_be_your_consort|真的吗？好吧，这是我第一次听到这件事。除非你为称王做好了足够的准备并得到足够的支持，否则你将会发现你很难找到同盟。不过，当你准备好公开宣告自己为女王时，我会很荣幸成为你的配偶。
@@ -2447,7 +2447,7 @@ str_however_i_have_decided_that_i_must_remain_loyal_to_s14_i_am_sorry|无论怎�
 str_however_i_will_not_let_you_lead_me_into_treason_do_not_talk_to_me_of_this_again|无论怎样，我不愿听从你的怂恿而去叛国。别再跟我说这个事了。
 str_its_not_good_to_get_a_reputation_as_one_who_abandons_his_liege_that_is_my_decision_let_us_speak_no_more_of_this_matter|一个背叛自己君主的人，很难有个好名声。这就是我最后的决定。我们别再谈论这个了。
 str_ive_decided_to_stick_with_s14_i_dont_want_to_talk_about_this_matter_any_more|我已经决定继续跟随{s14}了。我不想再讨论这种事情了。
-str_you_are_challenging_me_to_a_duel_how_droll_as_you_wish_playername_it_will_be_good_sport_to_bash_your_head_in|你准备向我发起决斗？开什么玩笑！如你所愿，{playername} ，打爆你的头将会是非常有意思的事情。
+str_you_are_challenging_me_to_a_duel_how_droll_as_you_wish_playername_it_will_be_good_sport_to_bash_your_head_in|你准备向我发起决斗？开什么玩笑！如你所愿，{playername}，打爆你的头将会是非常有意思的事情。
 str_call_me_coward_very_well_you_leave_me_no_choice|说我是懦夫？很好，你让我别无选择。
 str_reg3_hours|{reg3}小时。
 str_hour|小时。
@@ -2525,7 +2525,7 @@ str_go_then__we_shall_see_which_of_you_triumphs|去吧，那么，让我们看�
 str_sigh_i_will_never_truly_understand_men_and_their_rash_actions|唉……我永远不能真正理解男人，以及他们鲁莽的行为……
 str_you_intend_to_challenge_s13_to_force_him_to_relinquish_his_suit_of_s11|你打算挑战{s13} ，强迫他放弃对{s11}的求婚。
 str_farewell|再会。
-str_farewell_playername|再见，{playername} 。
+str_farewell_playername|再见，{playername}。
 str___we_believe_that_there_is_money_to_be_made_selling_|我们认为，钱能生钱。
 str__we_carry_a_selection_of_goods_although_the_difference_in_prices_for_each_is_not_so_great_we_hope_to_make_a_profit_off_of_the_whole|我们有选择性地运送货物。尽管单件货物的差价并不是很大，但我们期望从全部货物里谋取利润。
 str_s14and_other_goods|{s14}和其它商品。
@@ -2805,7 +2805,7 @@ str_merchant_and_you_call_some_townsmen_and_guards_to_get_ready_and_you_get_out_
 str_town_fight_ended_you_and_citizens_cleaned_town_from_bandits|残余的匪徒四散逃亡，躲进了城镇里那些狭窄的巷子，结果只能是被愤怒的居民们一个一个地捉住。你已经取得了完全的胜利，而受伤的人也都得到了治疗。确认完这些事之后，你和商人回到他的房子里，回顾起发生的所有事情。
 str_town_fight_ended_you_and_citizens_cleaned_town_from_bandits_you_wounded|你被一击击倒了，动弹不得，你挣扎着不让自己晕过去。很快打斗声消失了，取而代之的是市民们的欢呼声，你意识到是你们获胜了。很快，你感觉到你被同伴们抬了起来，你放下心来，终于支撑不住昏睡了过去。数小时后你在商人的房间醒了过来。
 str_seabattle_tutorial|你现在是船长了！你需要下达命令:^> 'Up'和'Down'键改变行驶速度。^> 'Right'和'Left'键来改变方向。^> 'Enter'来升帆或者降帆。^> 'Backspace'来改变你的视角。^^下达命令只需要按下按键即可，不用按住不放。在右上角你可以看到当前船只的命令。
-str_bodo_animos|博多大喊，“{playername} ！战斗吧！我与你共进退！”
+str_bodo_animos|博多大喊，“{playername}！战斗吧！我与你共进退！”
 str_journey_to_reyvadin|你到达了位于东盎格里亚的剑桥。当你到达时，你发现当地居民都面带恐惧地看着你，并且不由自主伸手摸向自己的武器。^^这里居住着安南·恩宁统治下的盎格鲁人。来自麦西亚的盎格鲁人入侵了这里，杀死了这里的居民和国王，声称这是他们的领土，以至于这里的战乱从来就没有平息过。安南·恩宁是一个基督徒，一个正直善良的基督徒，但是当他亲眼目睹自己的兄弟和国王被麦西亚国王潘达杀死之后，他变成了一头寻求复仇的野兽。
 str_journey_to_praven|你的脚步把你带往寒冷的北方。这个名为奥卡勒的国家，国土广袤，气候寒冷，大部分国土被森林覆盖。布立吞人建立了奥卡勒，强壮而又坚韧的布立吞人擅长使用犁来耕种，使用矛来战斗。^^这里的统治者是比利·爱普·尼松，相传他拥有古老高贵的血统。比利已经接近50岁了，但是他依然强壮，宝刀未老。
 str_journey_to_jelkala|欢迎来到拉克车尔，爱尔兰的明珠。眼下你在一个年轻的国家——艾尔吉拉，当初建立这个国家的三个王子非常好战，他们通常被称为三剑客，征服了乌莱的大片土地。由于长期与乌莱作战，艾尔吉拉的一切都以战争为中心。^^现在的统治者是傲慢而又好战的奥德哈尔·蔡斯王子，现在他的声势还能镇得住敌人，但是等他死了就说不准了。

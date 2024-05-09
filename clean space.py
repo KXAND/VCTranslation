@@ -2,7 +2,6 @@ import os
 import pandas as pd
 import re
 import io
-import csv
 
 input_path = 'cns/'
 work_path = 'work_cns/'
