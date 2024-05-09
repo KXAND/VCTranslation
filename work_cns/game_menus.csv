@@ -308,12 +308,12 @@ menu_village_infestation_removed|经过足以令人传诵的英勇的战斗，�
 mno_village_bandits_defeated_accept|我接受你们的赠品。
 mno_village_bandits_defeated_cont|你们比我更需要这些东西。你们的感谢已经足够了。
 menu_center_manage|{s19}^{reg6?^^你现在正在建造{s7} 。这个建筑将于{reg8}{reg9?日:日}后完成。:}
-mno_center_build_manor|建造一个庄园。
-mno_center_build_fish_pond|建造一个磨坊。
-mno_center_build_watch_tower|建造一个了望塔。
-mno_center_build_school|建造一个学校。
-mno_center_build_messenger_post|建造一个驿站。
-mno_center_build_prisoner_tower|建造一个哨塔。
+mno_center_build_manor|建造一个庄园
+mno_center_build_fish_pond|建造一个磨坊
+mno_center_build_watch_tower|建造一个瞭望塔
+mno_center_build_school|建造一个学校
+mno_center_build_messenger_post|建造一个驿站
+mno_center_build_prisoner_tower|建造一个哨塔
 mno_center_build_religion1|修建一座基督教修道院（转换信仰）
 mno_center_build_religion2|修筑一座奥丁神庙（转换信仰）
 mno_center_build_religion3|修建一座基督教堂（转换信仰）
@@ -321,10 +321,10 @@ mno_center_build_religion4|修建一个诺尔斯神龛（转换信仰）
 mno_center_build_herreria|修建一间铁匠铺
 mno_center_build_guilds|修建一个商业行会
 mno_center_build_library|修建一座缮写室
-mno_center_build_slavemarket|建立一个奴隶市场。
-mno_center_kill_slavemarket|拆除奴隶市场。
+mno_center_build_slavemarket|建立一个奴隶市场
+mno_center_kill_slavemarket|拆除奴隶市场
 mno_center_build_brewery|建造一个酒馆。
-menu_remove_slaves|你真的希望把奴隶贩子以他们不神圣的行为为由从你的城镇里赶出去吗？请注意这会在一定时间内减少你的城镇收入。
+menu_remove_slaves|你真的希望把奴隶贩子以他们亵渎的行为为由从你的城镇里赶出去吗？请注意这会在一定时间内减少你的城镇收入。
 mno_remove_slaves|离开。
 menu_center_improve|{s19}队员中最高工程技能为{reg2}级，由此{reg3?你预期:{s3}预期}建造{s4}要花费{reg5} 先令，升级需要{reg6}日。
 mno_improve_cont|去{s15} ……
@@ -628,7 +628,7 @@ mno_accept|接受任命
 mno_decline|拒绝任命
 menu_establish_court|如果你要将{s4}建为自己的都城，就需要把它翻修一番。具体来说，你需要一套工具以及一些银子，也许你的追随者还需要花点时间来重新部署。你要继续吗？
 mno_establish|将{s4}建为你的都城
-mno_hold_off|等等…… 
+mno_hold_off|再等等 
 menu_notification_relieved_as_marshal|{s4}想要通知你不再需要继续担当元帅之职了。不过，在过去的{reg4}天里，你勇于维护国家的利益，为了表示对你的敬意，{reg8?她:他}赏赐给你{reg5} 先令。
 menu_monasterio_visit|你来到了一所修道院。这里占地广阔，附有一个教堂，供给修道士和他们仆人的房间，以及一个带牲畜圈的园地，这个地方富得流油！^^{s13}
 mno_enter_interiorm|拜访院长。
@@ -807,25 +807,25 @@ mno_banquete_okr|你边喝边大声笑，他们来了。
 mno_banquete_ok2r|你保持清醒，酒虽好，但没有必要过量。
 mno_banquete_ok3r|你向手下分发指环和手镯（2000先令）。
 menu_player_lair_menus|{s10}这是属于你的据点，让你在逃离敌人后藏身于此，或者在运气不佳时等待东山再起，长途奔波后在这里歇脚，还能把你个人的财富藏在这儿。^^{s11}^^{s13}
-mno_banquete_refugemead|为我的士兵举办一场盛宴。
-mno_guarida_rename|重命名你的避难所。
+mno_banquete_refugemead|给你的士兵举办一场盛宴。
+mno_guarida_rename|重命名避难所。
 mno_lair_interior|前往避难所大厅。
 mno_lair_interior_door|前往避难所。
 mno_visit_tavern_lair|前往蜜酒厅。
-mno_visit_tavern_lair_door|出门前往会议厅。
-mno_lair_buildings_improve|和你的队长谈话。
+mno_visit_tavern_lair_door|前往会议厅。
+mno_lair_buildings_improve|和队长谈话。
 mno_lair_buildings_improve_door|前往避难所。
 mno_hirelair_staff|招募员工。
-mno_lair_inspect|在你的避难所转转。
-mno_lair_inspect_door|出门前往广场。
+mno_lair_inspect|在避难所转转。
+mno_lair_inspect_door|前往广场。
 mno_mylair_station_troops|管理驻兵。
-mno_demoler_lair|拆除你的避难所(500先令) 。
-mno_lair_wait|在这里休息一会儿。
+mno_demoler_lair|拆除避难所(500先令)。
+mno_lair_wait|在这里驻扎。
 mno_see_ships|看看你的船。
 mno_embarkre|上船。
-mno_lair_leave|离开……
+mno_lair_leave|离开。
 mno_lair_leave_door|离开此地。
-menu_demoler_lairm|你确定你要拆除避难所吗？
+menu_demoler_lairm|你确定要拆除避难所吗？
 mno_demoler_yes|是的(1000先令) 。
 mno_demoler_no|返回。
 menu_conversacion_companions1|在半路上停下休息的时候，伯伦希尔带领着伙伴们来到你面前，她有什么话要说。
