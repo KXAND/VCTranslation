@@ -1,3 +1,5 @@
 result/*
 cns/*
 *.zip
+key.py
+*.pyc
