@@ -7,17 +7,37 @@ import aiofiles
 import sys_prompt
 
 # === 1. 配置 ===
-API_KEY = "sk-velwkjvebxgxiqxjijitamirmmbagachcklcrygbeifujxnz"
-BASE_URL = "https://api.siliconflow.cn/v1"
-MODEL_NAME = "Qwen/Qwen2.5-72B-Instruct-128K"  # 模型名
 SOURCE_FILE = "eng/parties.txt"
 RESULT_FILE = "Qwen2.5-72B-Instruct-128K/parties.csv"
 CACHE_FILE = "translation_cache.json"  # 缓存文件
 GLOSSARY_FILE = "GLOSSARY.json"  # 缓存文件
-SOURCE_LANGUAGE = "English"
-TARGET_LANGUAGE = "Chinese"
-BATCH_SIZE = 200  # 每批处理行数
-CONCURRENCY = 5  # 并发请求数
+
+dump_dir = "dumptxt/"
+old_trans_dir = "work_cns/"
+out = "comparation/"
+
+
+def combine():
+
+    for json_file in os.listdir(dump_dir):
+        path = dump_dir + json_file
+        com = []
+        with open(path, "r", encoding="utf-8") as f:
+            content = json.load(f)
+            filename = json_file.split(".")[0]
+        path = old_trans_dir + filename + ".csv"
+        with open(path, "r", encoding="utf-8-sig") as f:
+            trans = {}
+            for line in f:
+                a, b = line.split("|", 1)
+                trans[a.strip()] = b.strip()
+        for key, val in content.items():
+            tran = trans.get(key)
+            if tran is None:
+                tran = ""
+            com.append([key, val, tran])
+        with open(out + filename + ".json", "w", encoding="utf-8") as f:
+            json.dump(com, f, ensure_ascii=False, indent=2)
 
 
 async def main():
@@ -48,10 +68,12 @@ async def main():
         id = source_pairs[e]
         if id in old:
             tuples.append((id, e, cache[e], old[id].strip()))
-    
+
     with open("work_cns\\compare.json", "w", encoding="utf-8") as f:
         json.dump(tuples, f, ensure_ascii=False, indent=2)
 
+
 # === 4. 示例使用 ===
 if __name__ == "__main__":
-    asyncio.run(main())
+    # asyncio.run(main())
+    combine()

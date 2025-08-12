@@ -3,3 +3,5 @@ cns/*
 *.zip
 key.py
 *.pyc
+proofread_cache.json
+translation_cache.json
