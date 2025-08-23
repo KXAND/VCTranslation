@@ -12,6 +12,9 @@ Máel Gualae - 维基百科 --- Máel Gualae - Wikipedia: https://en.wikipedia.o
 
 fraction
 parties
+troops
+party templates
+quicks trings
 
 ---
 dialogs
@@ -19,8 +22,5 @@ game_menu
 game_string
 info pages
 item kinds
-party templates
 quests
-quicks trings
 skills
-troops
