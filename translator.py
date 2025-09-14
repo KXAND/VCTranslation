@@ -18,8 +18,6 @@ BATCH_UNIT = 20  # 每次请求包含的行数
 # 翻译
 TRANSLATE_MODEL = "moonshotai/Kimi-K2-Instruct"  # 翻译模型名
 SOURCE_DIR = "comparation/"
-MIDDLE_RESULT_DIR = "Qwen2.5-72B-Instruct-128K/"  # 没有添加空格，停留在翻译工作区
-FINAL_RESULT_DIR = "E:\\SteamLibrary\\steamapps\\common\\MountBlade Warband\\Modules\\Viking Conquest\\languages\\cnt"  # 游戏读取文件夹
 CACHE_FILE = "translation_cache.json"  # 缓存文件
 GLOSSARY_FILE = "GLOSSARY.json"  # 术语文件
 TARGET_FILES = [
@@ -259,7 +257,7 @@ def get_added_space_text(text: str):
 async def main():
     for target_file in TARGET_FILES:
         print(f"Processing {target_file}...")
-        # 从文件读取（你也可以改成直接传字符串）
+        # 从文件读取
         with open(SOURCE_DIR + target_file + ".json", "r", encoding="utf-8") as f:
             source_pairs = json.load(f)
 
@@ -278,19 +276,6 @@ async def main():
                 json.dump(translation_cache, f, ensure_ascii=False, indent=2)
             with open(CACHE_PRF_FILE, "w", encoding="utf-8") as f:
                 json.dump(proofread_cache, f, ensure_ascii=False, indent=2)
-
-            # 保存中间结果为 csv(无空格)
-            async with aiofiles.open(
-                MIDDLE_RESULT_DIR + target_file + ".csv", "w", encoding="utf-8"
-            ) as f:
-                for key, _, _, text in translated_batch:
-                    await f.write(f"{key}|{text}\n")
-            # 输出最终结果为 csv（有空格）
-            async with aiofiles.open(
-                FINAL_RESULT_DIR + target_file + ".csv", "w", encoding="utf-8"
-            ) as f:
-                for key, _, _, text in translated_batch:
-                    await f.write(f"{key}|{get_added_space_text(text)}\n")
 
         # 输出对比文件，与前一版本对比
         async with aiofiles.open(

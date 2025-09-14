@@ -5,3 +5,4 @@ key.py
 *.pyc
 proofread_cache.json
 translation_cache.json
+errorlog.json
