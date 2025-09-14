@@ -2,6 +2,7 @@
 import asyncio
 import json
 import os
+import re
 import time
 from openai import AsyncOpenAI
 import aiofiles
@@ -11,26 +12,76 @@ from key import _API_KEY
 # === 1. 配置 ===
 API_KEY = _API_KEY
 BASE_URL = "https://api.siliconflow.cn/v1"
-TRANSLATE_MODEL = "moonshotai/Kimi-K2-Instruct"  # 模型名
-PROOFREAD_MODEL = "Qwen/Qwen3-8B"  # 模型名
-SOURCE_DIR = "comparation/"
-RESULT_DIR = "Qwen2.5-72B-Instruct-128K/"
-CACHE_FILE = "translation_cache.json"  # 缓存文件
-CACHE_PRF_FILE = "proofread_cache.json"  # 校对缓存文件
-GLOSSARY_FILE = "GLOSSARY.json"  # 缓存文件
-SOURCE_LANGUAGE = "English"
-TARGET_LANGUAGE = "Chinese"
-TARGET_FILES = ["quick_strings"]  # without extension name
 BATCH_SIZE = 10  # 每批处理的 Unit 个数
 BATCH_UNIT = 20  # 每次请求包含的行数
 
-# 术语表
-with open(GLOSSARY_FILE, "r", encoding="utf-8") as f:
-    GLOSSARY = json.load(f)
+# 翻译
+TRANSLATE_MODEL = "moonshotai/Kimi-K2-Instruct"  # 翻译模型名
+SOURCE_DIR = "comparation/"
+MIDDLE_RESULT_DIR = "Qwen2.5-72B-Instruct-128K/"  # 没有添加空格，停留在翻译工作区
+FINAL_RESULT_DIR = "E:\\SteamLibrary\\steamapps\\common\\MountBlade Warband\\Modules\\Viking Conquest\\languages\\cnt"  # 游戏读取文件夹
+CACHE_FILE = "translation_cache.json"  # 缓存文件
+GLOSSARY_FILE = "GLOSSARY.json"  # 术语文件
+TARGET_FILES = [
+    "dialogs",
+    "game_menus",
+    "game_strings",
+    "info_pages",
+    "quests",
+    "quick_strings",
+    "skills",
+]  # 无扩展名
+
+# 校对
+ENABLE_PROOFREAD = False  # 启用校对
+PROOFREAD_MODEL = "Qwen/Qwen3-8B"  # 校验模型名
+CACHE_PRF_FILE = "proofread_cache.json"  # 校对缓存文件
+ERROR_LOG_FILE = "errorlog.json"
+ERROR_LOG = []
+
+
+# 载入术语表，并将Troops和Fractions
+def get_global_GLOSSAARY():
+    with open(GLOSSARY_FILE, "r", encoding="utf-8") as f:
+        glossary = json.load(f)
+    for file in ["troops", "factions", "parties"]:
+        with open("comparation\\" + file + ".json", "r", encoding="utf-8") as f:
+            data = json.load(f)
+        for _, eng, *_, translation in data:
+            eng: str
+            eng = eng.replace("_", " ")
+            if glossary.get(eng) is None:
+                glossary[eng] = translation
+    return glossary
+
+
+GLOSSARY: dict = get_global_GLOSSAARY()
+
+
 CURRET_SYS_PROMPT = sys_prompt.sentence_system_prompt
 CURRET_PROOFREAD_SYS_PROMPT = sys_prompt.sentence_proofread_prompt
-# 翻译风格
-STYLE_GUIDE = "formal and concise"
+
+CONTENT_DESCRIPTION = {
+    "dialogs": "对话文本",
+    "game_menus": "菜单显示文本",
+    "game_strings": "对话文本",
+    "hints": "提示文本",
+    "info_pages": "百科文本",
+    "skills": "技能文本",
+    "quests": "任务信息",
+    "quick_strings": "对话文本",
+    # 词汇
+    "party_templates": "地名和组织名",
+    "parties": "地点名称",
+    "factions": "阵营名称",
+    "item_kinds": "物品名称",
+    "troops": "人名或身份名",
+    # 不翻译
+    "skins": "皮肤描述词",
+    "item_modifiers": "物品修饰词",
+    "ui": "UI信息",
+    "uimain": "UI信息",
+}
 
 # === 2. 初始化客户端 & 缓存 ===
 client = AsyncOpenAI(api_key=API_KEY, base_url=BASE_URL)
@@ -48,19 +99,32 @@ else:
 
 
 def get_local_glossary(text_bundle):
+    def build_glossary_pattern(glossary):
+        # 按长度排序，长的优先，避免 "AI" 先匹配了 "Artificial Intelligence"
+        terms = sorted(glossary.keys(), key=len, reverse=True)
+        escaped = [re.escape(term) for term in terms]
+        pattern = re.compile(r"\b(?:" + "|".join(escaped) + r")\b", flags=re.IGNORECASE)
+        return pattern
+
     glossary = {}
+    pattern = build_glossary_pattern(GLOSSARY)
     keys = set(GLOSSARY.keys())
 
     for key, text, reference, *_ in text_bundle:
-        pieces = set(p.strip() for p in text.replace("_", " ").split() if p.strip())
-        matched = pieces & keys
-        for term in matched:
+        for match in pattern.findall(text.replace("_", " ")):
+            term = next(k for k in GLOSSARY if k.lower() == match.lower())
             glossary[term] = GLOSSARY[term]
     return glossary
 
 
 # === 3. 翻译函数（带缓存） ===
-async def translate_text(text_bundle, system_prompt, model, cache, glossary=GLOSSARY):
+async def translate_text(
+    text_bundle,
+    system_prompt,
+    model,
+    cache,
+    use_reference_trans=True,
+):
     user_prompt = ""
     cnt_sent = 0
     # 剔除已经在缓存中的结果
@@ -68,7 +132,8 @@ async def translate_text(text_bundle, system_prompt, model, cache, glossary=GLOS
         cleaned_text = text.replace("_", " ").strip()
         if cleaned_text not in cache and cleaned_text != "":
             user_prompt += cleaned_text
-            user_prompt += ("，参考翻译: " + reference) if reference else ""
+            if use_reference_trans == True:
+                user_prompt += ("，参考翻译: " + reference) if reference else ""
             user_prompt += "\n"
             cnt_sent += 1
 
@@ -93,9 +158,7 @@ async def translate_text(text_bundle, system_prompt, model, cache, glossary=GLOS
         # 错误情况：结果为空
         content = response.choices[0].message.content
         if content is None:
-            return await translate_text(
-                text_bundle, system_prompt, model, cache, glossary
-            )
+            return await translate_text(text_bundle, system_prompt, model, cache)
 
         # 错误情况：结果数量不匹配
         translation_pairs = content.replace("\n\n", "\n").strip().split("\n")
@@ -105,8 +168,17 @@ async def translate_text(text_bundle, system_prompt, model, cache, glossary=GLOS
             )
             print(translation_pairs)
             print(text_bundle)
+            if use_reference_trans == False:
+                ERROR_LOG.append(
+                    {"input": str(text_bundle), "output": str(translation_pairs)}
+                )
+                return {}
             return await translate_text(
-                text_bundle, system_prompt, model, cache, glossary
+                text_bundle,
+                system_prompt,
+                model,
+                cache,
+                use_reference_trans=False,
             )
 
         # 新翻译塞入 cache
@@ -132,45 +204,44 @@ async def translate_text(text_bundle, system_prompt, model, cache, glossary=GLOS
     return translated
 
 
-async def process_unit(unit):
+async def process_unit(unit, content_section, glossary):
     unit_start = time.time()
-    glossary = get_local_glossary(unit)
-
     start = time.time()
+
     translated = await translate_text(
         unit,
-        CURRET_SYS_PROMPT(glossary),
+        CURRET_SYS_PROMPT(content_section, glossary),
         TRANSLATE_MODEL,
         translation_cache,
-        glossary,
     )
     total_time = time.time() - start
-    print(f"translate_text completed in {total_time:.2f}s")
+    print(f"    translate_text completed in {total_time:.2f}s")
 
     proofreaded = translated
-    # start = time.time()
-    # proofreaded = await translate_text(
-    #     translated,
-    #     CURRET_PROOFREAD_SYS_PROMPT(glossary),
-    #     PROOFREAD_MODEL,
-    #     proofread_cache,
-    #     glossary,
-    # )
-    # total_time = time.time() - start
-    # print(f"translate_text completed in {total_time:.2f}s")
+    if ENABLE_PROOFREAD:
+        start = time.time()
+        proofreaded = await translate_text(
+            translated,
+            CURRET_PROOFREAD_SYS_PROMPT(glossary),
+            PROOFREAD_MODEL,
+            proofread_cache,
+        )
+        total_time = time.time() - start
+        print(f"     proofread completed in {total_time:.2f}s")
 
     unit_total_time = time.time() - unit_start
-    print(f"process_unit completed in {unit_total_time:.2f}s")
+    print(f"    process_unit completed in {unit_total_time:.2f}s")
     return proofreaded
 
 
 # === 批量处理 ===
-async def process_batch(batch):
+async def process_batch(batch, content_section):
     units = [batch[i : i + BATCH_UNIT] for i in range(0, len(batch), BATCH_UNIT)]
+    tasks = [
+        process_unit(unit, content_section, get_local_glossary(unit)) for unit in units
+    ]
 
-    tasks = [process_unit(unit) for unit in units]
-    # gather 是原始序列的顺序，保证下面 glossary 顺序正确
-
+    # gather 是原始序列的顺序
     results = await asyncio.gather(*tasks)
     returns = []
     for unit, translated_unit in zip(units, results):
@@ -181,8 +252,13 @@ async def process_batch(batch):
     return returns
 
 
+def get_added_space_text(text: str):
+    return re.sub(r"([\u4e00-\u9fa5。；，：“”（）、？《》！·…—])", r"\1 ", str(text))
+
+
 async def main():
     for target_file in TARGET_FILES:
+        print(f"Processing {target_file}...")
         # 从文件读取（你也可以改成直接传字符串）
         with open(SOURCE_DIR + target_file + ".json", "r", encoding="utf-8") as f:
             source_pairs = json.load(f)
@@ -191,29 +267,41 @@ async def main():
         results = []
         for i in range(0, len(source_pairs), BATCH_SIZE * BATCH_UNIT):
             batch = source_pairs[i : i + BATCH_SIZE * BATCH_UNIT]
-            print(f"Processing lines {i+1} - {i+len(batch)}")
-            translated_batch = await process_batch(batch)
+            print(f"  Processing lines {i+1} - {i+len(batch)}")
+            translated_batch = await process_batch(
+                batch, CONTENT_DESCRIPTION.get(target_file, "内容")
+            )
             results.extend(translated_batch)
 
-            # 保存缓存
+            # 写入缓存
             with open(CACHE_FILE, "w", encoding="utf-8") as f:
                 json.dump(translation_cache, f, ensure_ascii=False, indent=2)
             with open(CACHE_PRF_FILE, "w", encoding="utf-8") as f:
                 json.dump(proofread_cache, f, ensure_ascii=False, indent=2)
 
-            # 保存翻译结果为 csv
+            # 保存中间结果为 csv(无空格)
             async with aiofiles.open(
-                RESULT_DIR + target_file + ".csv", "a", encoding="utf-8"
+                MIDDLE_RESULT_DIR + target_file + ".csv", "w", encoding="utf-8"
             ) as f:
                 for key, _, _, text in translated_batch:
                     await f.write(f"{key}|{text}\n")
-                    # 保存翻译结果为 csv
+            # 输出最终结果为 csv（有空格）
+            async with aiofiles.open(
+                FINAL_RESULT_DIR + target_file + ".csv", "w", encoding="utf-8"
+            ) as f:
+                for key, _, _, text in translated_batch:
+                    await f.write(f"{key}|{get_added_space_text(text)}\n")
 
+        # 输出对比文件，与前一版本对比
         async with aiofiles.open(
-            RESULT_DIR + target_file + "_new" + ".json", "w", encoding="utf-8"
+            SOURCE_DIR + target_file + "" + ".json", "w", encoding="utf-8"
         ) as f:
             json_content = json.dumps(results, ensure_ascii=False, indent=2)
             await f.write(json_content)
+
+        print(f"{target_file} is done")
+    with open(ERROR_LOG_FILE, "w", encoding="utf-8") as f:
+        json.dump(ERROR_LOG, f, ensure_ascii=False, indent=2)
 
 
 # === 4. 示例使用 ===

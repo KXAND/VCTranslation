@@ -38,7 +38,7 @@ def game_string(f):
             print("game string len is not 2")
             print(len(texts))
             continue
-        if  texts[1].strip().startswith('{!}'):
+        if texts[1].strip().startswith("{!}"):
             continue
         res[texts[0].strip()] = texts[1].strip()
 
@@ -95,6 +95,32 @@ def item_kinds(f):
         res[key + "_pl"] = plural.strip()
 
 
+def parties(f):
+    for line in f:
+        line: str
+        splits = line.strip().split()
+        if len(splits) < 5:
+            continue
+        _, _, _, key, name, *_ = line.strip().split()
+        name: str
+        if name.startswith("{!}"):
+            continue
+        res[key] = name.strip()
+
+
+def factions(f):
+    for line in f:
+        line: str
+        splits = line.strip().split()
+        if len(splits) > 5:
+            continue
+        _, key, name, *_ = line.strip().split()
+        name: str
+        if name.startswith("{!}"):
+            continue
+        res[key] = name.strip()
+
+
 def party_templates(f):
     next(f)
     next(f)
@@ -145,7 +171,7 @@ def troop(f):
         key, name, plural, _ = line.strip().split(maxsplit=3)
         if name.startswith("{!}") == False:
             res[key] = name.strip()
-        if plural.startswith("{!}") == False and  plural!="_":
+        if plural.startswith("{!}") == False and plural != "_":
             res[key + "_pl"] = plural.strip()
         next(f)
         next(f)
@@ -158,6 +184,19 @@ def troop(f):
 in_dir = "eng/"
 out_dir = "dumptxt/"
 res = {}
+
+with open(in_dir + "factions" + ".txt", "r", encoding="utf-8") as f:
+    factions(f)
+    with open(out_dir + "factions" + ".json", "w", encoding="utf-8") as f:
+        json.dump(res, f, ensure_ascii=False, indent=2)
+    res.clear()
+
+with open(in_dir + "parties" + ".txt", "r", encoding="utf-8") as f:
+    parties(f)
+    with open(out_dir + "parties" + ".json", "w", encoding="utf-8") as f:
+        json.dump(res, f, ensure_ascii=False, indent=2)
+    res.clear()
+
 with open(in_dir + "conversation" + ".txt", "r", encoding="utf-8") as f:
     conversation(f)
     with open(out_dir + "dialogs" + ".json", "w", encoding="utf-8") as f:
