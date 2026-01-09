@@ -15,7 +15,6 @@
 7. 不贴合实际发音的音译
 8. 容易引起误解的音译和意译
 
-
 ## 这个项目现在需要什么
 
 1. 校验：目前部分文本存在错位现象，以及 AI 翻译偶发性的不遵守翻译规范（请检查 `GLOSSARY.json`和`sys_prompt.py`）等，都有待校验检查。
@@ -26,14 +25,12 @@
 ## 如何使用
 
 - **普通用户**：拷贝`result\`目录下的所有文件，替换`\MountBlade Warband\Modules\Viking Conquest\languages\cns\`下的文件。打开`comparation2csv.py`，将`csv_dir`替换为 Mod 汉化文件所在目录（需要 python ）。
-- **贡献者**：本项目python文件使用python 3.11.3，翻译代码在`translator.py`,需要自己补充API_KEY值。下面是一些文件和文件夹介绍
-    - `comparation`:翻译器读取并写回该文件夹，内部分别是`id`、`原文`、`上次翻译结果`、`本次翻译结果`，以便于对比。
-    - `human_check`和`comparation2proofread.py`、`proofread2comparation.py`：人名、地名、阵营名涉及文化历史又多又杂，AI 翻译结果相当不可靠。这种情况下`comparation`提供的信息过多，还有类似`村庄长老`这样的大量重名条目存在，不利于审校。故设计此文件夹。
-    - `errolog`：防止翻译 AI 翻译始终得不到正确结果，如果两次翻译不通过，将写入本文件。
-    - `eng`和`dumptxt`：维京征服 txt 文件和从中抽取的 json 条目
-
-
-
-
-
-
+- **贡献者**：本项目python文件使用python 3，翻译代码在`translator.py`,需要自己补充API_KEY值。下面是一些文件和文件夹介绍
+  - `comparation`:翻译器读取并写回该文件夹，内部分别是`id`、`原文`、`上次翻译结果`、`本次翻译结果`，以便于对比。
+  - `human_check`和`comparation2proofread.py`、`proofread2comparation.py`：人名、地名、阵营名涉及文化历史又多又杂，AI 翻译结果相当不可靠。这种情况下`comparation`提供的信息过多，还有类似`村庄长老`这样的大量重名条目存在，不利于审校。故设计此文件夹。
+  - `errolog`：防止翻译 AI 翻译始终得不到正确结果，如果两次翻译不通过，将写入本文件。
+  - `eng`：维京征服 txt 文件，这是翻译条目的原始来源
+- 一些代码文件介绍（按运行顺序）
+  - `txt2json.py`：从原始txt中提取英语文本，从中文站汉化中提取参考翻译
+  - `translator.py`： 发送给AI 翻译
+  - `comparation2csv.py`：将翻译结果转换为规范游戏文本
