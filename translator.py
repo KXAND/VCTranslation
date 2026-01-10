@@ -13,7 +13,7 @@ from key import _API_KEY
 API_KEY = _API_KEY
 BASE_URL = "https://api.siliconflow.cn/v1"
 BATCH_SIZE = 10  # 每批处理的 Unit 个数
-BATCH_UNIT = 20  # 每次请求包含的行数
+BATCH_UNIT = 25  # 每次请求包含的行数
 
 # 翻译
 TRANSLATE_MODEL = "moonshotai/Kimi-K2-Instruct"  # 翻译模型名
@@ -21,14 +21,27 @@ SOURCE_DIR = "comparation/"
 CACHE_FILE = "translation_cache.json"  # 缓存文件
 GLOSSARY_FILE = "GLOSSARY.json"  # 术语文件
 TARGET_FILES = [
-    "dialogs",
-    "game_menus",
-    "game_strings",
-    "info_pages",
-    "quests",
-    "quick_strings",
-    "skills",
+    "dialogs.1",
+    "dialogs.2",
+    "dialogs.3",
+    "dialogs.4",
+    "dialogs.5",
+    "dialogs.6",
+    "dialogs.7",
+    "dialogs.8",
+    "dialogs.9",
+    "dialogs.10",
+    "dialogs.11",
 ]  # 无扩展名
+HUMAN_TRANSLATED_FILES = [
+    "troops.0",
+    "troops.1",
+    "troops.2",
+    "factions.0",
+    "parties.0",
+    # 已翻译
+    "dialogs.0",
+]  # 已有人类翻译的文件列表，无扩展名
 
 # 校对
 ENABLE_PROOFREAD = False  # 启用校对
@@ -38,14 +51,14 @@ ERROR_LOG_FILE = "errorlog.json"
 ERROR_LOG = []
 
 
-# 载入术语表，并将Troops和Fractions
+# 载入术语表，并将Troops和Fractions视为Glossary
 def get_global_GLOSSAARY():
     with open(GLOSSARY_FILE, "r", encoding="utf-8") as f:
         glossary = json.load(f)
-    for file in ["troops", "factions", "parties"]:
+    for file in HUMAN_TRANSLATED_FILES:
         with open("comparation\\" + file + ".json", "r", encoding="utf-8") as f:
             data = json.load(f)
-        for _, eng, *_, translation in data:
+        for eng, *_, translation in data:
             eng: str
             eng = eng.replace("_", " ")
             if glossary.get(eng) is None:
@@ -108,8 +121,9 @@ def get_local_glossary(text_bundle):
     pattern = build_glossary_pattern(GLOSSARY)
     keys = set(GLOSSARY.keys())
 
-    for key, text, reference, *_ in text_bundle:
-        for match in pattern.findall(text.replace("_", " ")):
+    for entry in text_bundle:
+        text = entry["text"].replace("_", " ")
+        for match in pattern.findall(text):
             term = next(k for k in GLOSSARY if k.lower() == match.lower())
             glossary[term] = GLOSSARY[term]
     return glossary
@@ -120,88 +134,109 @@ async def translate_text(
     text_bundle,
     system_prompt,
     model,
-    cache,
     use_reference_trans=True,
+    max_retries=3,
 ):
-    user_prompt = ""
-    cnt_sent = 0
-    # 剔除已经在缓存中的结果
-    for key, text, reference, *_ in text_bundle:
-        cleaned_text = text.replace("_", " ").strip()
-        if cleaned_text not in cache and cleaned_text != "":
-            user_prompt += cleaned_text
-            if use_reference_trans == True:
-                user_prompt += ("，参考翻译: " + reference) if reference else ""
-            user_prompt += "\n"
-            cnt_sent += 1
+    payload = []
+    for idx, item in enumerate(text_bundle):
+        original_text = item.get("text", "").replace("_", " ").strip()
+        reference = item.get("translation", "")
 
-    # 如果并非都在缓存中，调用AI翻译并写入到 cache 中
-    translated = []
-    if user_prompt.strip() != "":
-        # 获取结果
+        entry = {"id": idx, "src": original_text}
+        if use_reference_trans and reference:
+            entry["ref"] = reference  # 作为参考翻译给出
+        payload.append(entry)
 
-        response = await client.chat.completions.create(
-            model=model,
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {
-                    "role": "user",
-                    "content": f"\n{user_prompt}",
-                },
-            ],
-            temperature=0,
-            # extra_body={"enable_thinking": False},
-        )
+    # 如果输入为空，直接返回
+    if not payload:
+        return []
 
-        # 错误情况：结果为空
-        content = response.choices[0].message.content
-        if content is None:
-            return await translate_text(text_bundle, system_prompt, model, cache)
-
-        # 错误情况：结果数量不匹配
-        translation_pairs = content.replace("\n\n", "\n").strip().split("\n")
-        if len(translation_pairs) != cnt_sent:
-            print(
-                f"翻译数目不匹配。输入： {len(translation_pairs)}   {len(text_bundle)}  {cnt_sent}"
+    user_prompt = json.dumps(payload, ensure_ascii=False)
+    for trying in range(max_retries):
+        try:
+            # 调用 AI 翻译
+            response = await client.chat.completions.create(
+                model=model,
+                messages=[
+                    {
+                        "role": "system",
+                        "content": system_prompt,
+                    },
+                    {
+                        "role": "user",
+                        "content": user_prompt,
+                    },
+                ],
+                temperature=0,
+                response_format={"type": "json_object"},
             )
-            print(translation_pairs)
-            print(text_bundle)
-            if use_reference_trans == False:
-                ERROR_LOG.append(
-                    {"input": str(text_bundle), "output": str(translation_pairs)}
-                )
-                return {}
-            return await translate_text(
-                text_bundle,
-                system_prompt,
-                model,
-                cache,
-                use_reference_trans=False,
-            )
-
-        # 新翻译塞入 cache
-        i = 0
-        for key, text, _ in text_bundle:
-            cleaned_text = text.replace("_", " ").strip()
-            if cleaned_text in cache or cleaned_text == "":
+            content = response.choices[0].message.content
+            if content is None:
                 continue
+
+            # 解析返回的 JSON
             try:
-                trans = translation_pairs[i]
-                cache[cleaned_text] = trans
-                i += 1
-            except:
-                i += 1
-                print(
-                    f"已忽略不正确的返回格式对，内容为：{ trans} i={i} cleaned_text={cleaned_text}"
+                # 清理markdown语法
+                clean_content = re.sub(r"```json\s*|\s*```", "", content).strip()
+                raw_data = json.loads(clean_content)
+
+                # 数据返回格式：{result: [{id: 0, trans: "..."}, {}] }
+                translated_list = []
+                if isinstance(raw_data, list):  # case 1: 直接是列表
+                    translated_list = raw_data
+                elif isinstance(raw_data, dict):
+                    translated_list = raw_data.get(
+                        "result", []
+                    )  # case 2: 返回标准格式，在dict 的 result字段
+                    if not translated_list:
+                        # 尝试寻找字典里的列表字段
+                        for (
+                            val
+                        ) in raw_data.values():  # case 3: 返回 dict 但不是标准格式
+                            if isinstance(val, list):
+                                translated_list = val
+                                break
+            # 解析失败
+            except json.JSONDecodeError:
+                print(f"JSON 解析失败，正在重试... 返回内容: {content[:100]}")
+                continue
+
+            # 建立 ID 映射表 (ID -> 翻译结果)
+            translated_data = {
+                item["id"]: item.get("trans", "")
+                for item in translated_list
+                if "id" in item
+            }
+
+            # 错误情况：结果数量不匹配
+            if len(translated_data) != len(payload):
+                # print(
+                #     f"翻译数目不匹配。预期: {len(payload)} 收到: {len(translated_data)}"
+                # )
+                # 如果重试多次失败，可以在此处增加降级逻辑（如拆分 batch）
+                if trying == max_retries - 1:
+                    ERROR_LOG.append({"input": user_prompt, "output": content})
+                    return []
+                continue
+
+            # 匹配结果并返回与 text_bundle 一致的结构
+            results = []
+            for i, original_item in enumerate(text_bundle):
+                results.append(
+                    {
+                        "text": original_item["text"],
+                        "translation": translated_data.get(i, ""),
+                    }
                 )
 
-    # 从 cache 中取出所有的翻译
-    for key, text, reference, *_ in text_bundle:
-        cleaned_text = text.replace("_", " ").strip()
-        translated.append([key, text, cache.get(cleaned_text)])
-    return translated
+            return results
+
+        except Exception as e:
+            print(f"请求发生异常: {e}")
+            return []
 
 
+# 翻译并校验一个单元
 async def process_unit(unit, content_section, glossary):
     unit_start = time.time()
     start = time.time()
@@ -210,11 +245,11 @@ async def process_unit(unit, content_section, glossary):
         unit,
         CURRET_SYS_PROMPT(content_section, glossary),
         TRANSLATE_MODEL,
-        translation_cache,
     )
     total_time = time.time() - start
     print(f"    translate_text completed in {total_time:.2f}s")
 
+    # @todo：修改校对逻辑
     proofreaded = translated
     if ENABLE_PROOFREAD:
         start = time.time()
@@ -232,7 +267,7 @@ async def process_unit(unit, content_section, glossary):
     return proofreaded
 
 
-# === 批量处理 ===
+# 并行翻译一个批次中的单元
 async def process_batch(batch, content_section):
     units = [batch[i : i + BATCH_UNIT] for i in range(0, len(batch), BATCH_UNIT)]
     tasks = [
@@ -243,19 +278,45 @@ async def process_batch(batch, content_section):
     results = await asyncio.gather(*tasks)
     returns = []
     for unit, translated_unit in zip(units, results):
-        for (key, text, reference, *_), (_, _, translated) in zip(
-            unit, translated_unit
-        ):
-            returns.append((key, text, reference, translated))
+        if not translated_unit:
+            # 如果翻译失败返回了空列表，则保留原样（翻译设为空或保持旧版）
+            for item in unit:
+                returns.append(
+                    {
+                        "text": item.get("text"),
+                        "old_translation": item.get("translation"),
+                        "translation": "",  # 标记失败
+                    }
+                )
+            continue
+
+        # 进一步配对 unit 中的每一条数据与其翻译结果
+        for original_item, new_item in zip(unit, translated_unit):
+            returns.append(
+                {
+                    "text": original_item.get("text"),  # 原文
+                    "old_translation": original_item.get(
+                        "translation"
+                    ),  # 这里的 trans 是输入的旧翻译
+                    "translation": new_item.get(
+                        "translation"
+                    ),  # 这里的 trans 是 LLM 返回的新翻译
+                }
+            )
+
     return returns
 
 
-def get_added_space_text(text: str):
-    return re.sub(r"([\u4e00-\u9fa5。；，：“”（）、？《》！·…—])", r"\1 ", str(text))
-
-
 async def main():
-    for target_file in TARGET_FILES:
+    # 如果没有值，则全量翻译（除已有人类翻译的文件），否则翻译指定文件
+    if TARGET_FILES is None or len(TARGET_FILES) == 0:
+        target_files = set(item.split(".")[0] for item in os.listdir(SOURCE_DIR)) - set(
+            HUMAN_TRANSLATED_FILES
+        )
+    else:
+        target_files = TARGET_FILES
+
+    for target_file in target_files:
         print(f"Processing {target_file}...")
         # 从文件读取
         with open(SOURCE_DIR + target_file + ".json", "r", encoding="utf-8") as f:
@@ -267,15 +328,9 @@ async def main():
             batch = source_pairs[i : i + BATCH_SIZE * BATCH_UNIT]
             print(f"  Processing lines {i+1} - {i+len(batch)}")
             translated_batch = await process_batch(
-                batch, CONTENT_DESCRIPTION.get(target_file, "内容")
+                batch, CONTENT_DESCRIPTION.get(target_file.split(".")[0], "内容")
             )
             results.extend(translated_batch)
-
-            # 写入缓存
-            with open(CACHE_FILE, "w", encoding="utf-8") as f:
-                json.dump(translation_cache, f, ensure_ascii=False, indent=2)
-            with open(CACHE_PRF_FILE, "w", encoding="utf-8") as f:
-                json.dump(proofread_cache, f, ensure_ascii=False, indent=2)
 
         # 输出对比文件，与前一版本对比
         async with aiofiles.open(

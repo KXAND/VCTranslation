@@ -267,12 +267,12 @@ for filename in os.listdir(in_dir):
    
     # 去重
     dict = {row[1]: row[2] for row in combine}
-    items = list(dict.items())
+    items = list({"text": key, "translation": val} for key, val in dict.items())
 
     # 分块保存
-    for i in range(0, len(items) // 500 + 1):
+    for i in range(0, len(items), 500):
         with open(
-            f"{out_dir}{filename.split('.')[0]}_{i}.json",
+            f"{out_dir}{filename.split('.')[0]}.{i//500}.json",
             "w",
             encoding="utf-8",
         ) as f:
