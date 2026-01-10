@@ -1,0 +1,2002 @@
+[
+    {
+        "text": "{s1}_or_{s2}",
+        "translation": "{s1}或{s2}"
+    },
+    {
+        "text": "(Click_on_a_unit_for_details)",
+        "translation": "(点击查看详情)"
+    },
+    {
+        "text": "{reg2}",
+        "translation": "{reg2}"
+    },
+    {
+        "text": "On_several_occasions_throughout_your_life,_you_have_seen_the_strange_Latin_letters._You_quickly_learn_to_read._Perhaps,_in_time,_you_will_also_learn_to_write!^^This_will_require_you_to_stay_a_week_at_the_monastery._Do_you_still_want_to_learn_to_read?",
+        "translation": "在你的人生中，你已经多次见过这些奇怪的拉丁字母了，因此你很快便学会了如何阅读。也许你将在短时间内也学懂写字！^^这会让你在修道院停留一周。你想学习阅读吗？"
+    },
+    {
+        "text": "Yes.",
+        "translation": "是。"
+    },
+    {
+        "text": "No.",
+        "translation": "否。"
+    },
+    {
+        "text": "No_one_here_wants_to_join_your_party.",
+        "translation": "这里没人想加入你的部队。"
+    },
+    {
+        "text": "One_{s3}_is_willing_to_follow_you.",
+        "translation": "一个{s3}愿意跟随你。"
+    },
+    {
+        "text": "{reg5}_{s3}_are_willing_to_follow_you.",
+        "translation": "{reg5}个{s3}愿意跟随你。"
+    },
+    {
+        "text": "Recruit_them_({reg6}_peningas).",
+        "translation": "招募他们（{reg6}先令）。"
+    },
+    {
+        "text": "One_{s3}_volunteers_to_follow_you.",
+        "translation": "一个{s3}自愿跟随你。"
+    },
+    {
+        "text": "{reg5}_{s3}_volunteer_to_follow_you.",
+        "translation": "{reg5}个{s3}自愿跟随你。"
+    },
+    {
+        "text": "You_need_to_get_the_permission_of_the_village_leader_to_recruit_here.",
+        "translation": "当你获得本地领主的许可后才能在这里招募。"
+    },
+    {
+        "text": "My_Boats",
+        "translation": "我的船。"
+    },
+    {
+        "text": "Boats_for_Sale",
+        "translation": "待售船只。"
+    },
+    {
+        "text": "No_ships_for_sale^in_this_town.",
+        "translation": "这个城市^没有待售船只。"
+    },
+    {
+        "text": "No_Name",
+        "translation": "没有名称"
+    },
+    {
+        "text": "{reg7}._Ship",
+        "translation": "第{reg7}艘船"
+    },
+    {
+        "text": "Flagship",
+        "translation": "旗舰"
+    },
+    {
+        "text": "Very_Good",
+        "translation": "非常好"
+    },
+    {
+        "text": "Good",
+        "translation": "良好"
+    },
+    {
+        "text": "Acceptable",
+        "translation": "可以接受"
+    },
+    {
+        "text": "Bad",
+        "translation": "差"
+    },
+    {
+        "text": "Very_Bad",
+        "translation": "非常差"
+    },
+    {
+        "text": "Dangerous",
+        "translation": "危险"
+    },
+    {
+        "text": "Repair:_{reg8}_peningas",
+        "translation": "修理：{reg8}先令"
+    },
+    {
+        "text": "Type:_{s7}^Wood:_{s6}^Condition:_{s1}^Speed:_{reg1}_knots^Crew:_{reg6}_men^Price:_{reg7}_peningas^{s2}",
+        "translation": "种类：{s7}^材质：{s6}^状况：{s1}^速度：{reg1}节^可载船员：{reg6}人^价格：{reg7}先令^{s2}"
+    },
+    {
+        "text": "Repair_Ship",
+        "translation": "修理船只"
+    },
+    {
+        "text": "Customize_Ship",
+        "translation": "自定义船只"
+    },
+    {
+        "text": "Sell_Ship",
+        "translation": "出售船只"
+    },
+    {
+        "text": "Buy_Ship",
+        "translation": "购买船只"
+    },
+    {
+        "text": "Are_you_sure_you_want_to_do_this_transaction?",
+        "translation": "你确定你要做这笔交易？"
+    },
+    {
+        "text": "Leave_ship_at_the_shore",
+        "translation": "离开停在岸边的船"
+    },
+    {
+        "text": "Next_ship",
+        "translation": "下一艘船"
+    },
+    {
+        "text": "Fleet_Capacity:",
+        "translation": "舰队容量："
+    },
+    {
+        "text": "{reg1}/{reg2}",
+        "translation": "{reg1}/{reg2}"
+    },
+    {
+        "text": "You_cannot_buy_this_boat,_as_it_requires_a_Sea-King_skill_to_manage_boats.",
+        "translation": "你不能购买这艘船，因为你没有提督技能。"
+    },
+    {
+        "text": "You_cannot_buy_this_boat,_because_you_don't_have_the_Sea-King_skill.",
+        "translation": "你不能购买这艘船，因为你没有提督技能。"
+    },
+    {
+        "text": "You_cannot_buy_this_boat,_as_it_requires_a_higher_Sea-King_skill_to_manage_more_boats.",
+        "translation": "你不能购买这艘船，因为你的提督技能不足。"
+    },
+    {
+        "text": "You_cannot_buy_this_boat,_because_you_don't_have_enough_money.",
+        "translation": "你不能购买这艘船，因为你的金钱不足。"
+    },
+    {
+        "text": "You_can't_leave_your_last_ship_at_the_shore.",
+        "translation": "你不能离开你停靠在岸边的最后一艘船"
+    },
+    {
+        "text": "You_can't_leave_this_ship_at_the_shore,_because_otherwise_your_crew_wouldn't_fit_any_more_in_the_rest_of_the_ships.",
+        "translation": "你不能把这艘船停在岸边，因为你其余船只已容纳不了这批船员。"
+    },
+    {
+        "text": "{s1}'s_Ships",
+        "translation": "{s1}'的船"
+    },
+    {
+        "text": "You_need_to_get_closer_to_the_shore_if_you_want_to_leave_ships_there.",
+        "translation": "你必须更靠近岸边才能上岸"
+    },
+    {
+        "text": "You_cannot_repair_this_boat,_because_you_don't_have_enough_money.",
+        "translation": "你不能修理这艘船，因为你的金钱不足。"
+    },
+    {
+        "text": "No_ships_for_sell^in_this_Town.",
+        "translation": "这个城市^没有待售船只。"
+    },
+    {
+        "text": "Wood:_{s0}^",
+        "translation": "木材：{s0}^"
+    },
+    {
+        "text": "custom",
+        "translation": "自定义"
+    },
+    {
+        "text": "blue_and_white",
+        "translation": "蓝，白色"
+    },
+    {
+        "text": "red_and_white",
+        "translation": "红，白色"
+    },
+    {
+        "text": "rich_striped",
+        "translation": "条纹"
+    },
+    {
+        "text": "green_and_yellow",
+        "translation": "黄，绿色"
+    },
+    {
+        "text": "red",
+        "translation": "红色"
+    },
+    {
+        "text": "blue_and_red",
+        "translation": "红，蓝色"
+    },
+    {
+        "text": "green",
+        "translation": "绿色"
+    },
+    {
+        "text": "blue_and_yellow",
+        "translation": "黄，蓝色"
+    },
+    {
+        "text": "Sail:_{s0}^",
+        "translation": "帆布：{s0}^"
+    },
+    {
+        "text": "tarred",
+        "translation": "涂柏油"
+    },
+    {
+        "text": "tarred_and_red",
+        "translation": "红色并涂柏油"
+    },
+    {
+        "text": "varnished",
+        "translation": "涂漆"
+    },
+    {
+        "text": "varnished_and_purple",
+        "translation": "紫色并涂漆"
+    },
+    {
+        "text": "blue",
+        "translation": "蓝色"
+    },
+    {
+        "text": "blue,_red_and_green",
+        "translation": "蓝，红，绿色"
+    },
+    {
+        "text": "plain",
+        "translation": "素色"
+    },
+    {
+        "text": "Finish:_{s0}^",
+        "translation": "船体：{s0}^"
+    },
+    {
+        "text": "Price:_{reg7}_peningas",
+        "translation": "价格：{reg7}先令"
+    },
+    {
+        "text": "{s1}{s2}{s3}{s4}",
+        "translation": "{s1}{s2}{s3}{s4}"
+    },
+    {
+        "text": "Change_Finish",
+        "translation": "改变船体"
+    },
+    {
+        "text": "Change_Sail",
+        "translation": "改变帆布"
+    },
+    {
+        "text": "Apply",
+        "translation": "接受"
+    },
+    {
+        "text": "Only_ships_made_of_oak_are_considered_to_deserve_a_special_finish.",
+        "translation": "只有橡木船才能处理船体。"
+    },
+    {
+        "text": "You_don't_have_enough_money.",
+        "translation": "你钱不够。"
+    },
+    {
+        "text": "Accept",
+        "translation": "接受"
+    },
+    {
+        "text": "Dismiss_Staff",
+        "translation": "解雇职员"
+    },
+    {
+        "text": "Recruit_staff_for_your_refuge:",
+        "translation": "为你的庇护所招募职员。"
+    },
+    {
+        "text": "^Hiring_staff_has_both_initial_and_continuing_costs._A_good_reputation_and_an_impressive_refuge_will_attract_a_greater_variety_of_candidates.",
+        "translation": "^除了首付，你将持续支付职员工资。好名声和让人印象深刻的庇护所能够吸引大量各色人选。"
+    },
+    {
+        "text": "Description:",
+        "translation": "描述："
+    },
+    {
+        "text": "Captain:",
+        "translation": "队长："
+    },
+    {
+        "text": "Priest:",
+        "translation": "神职人员："
+    },
+    {
+        "text": "Bard:",
+        "translation": "吟游诗人："
+    },
+    {
+        "text": "Bottler:",
+        "translation": "斟酒人："
+    },
+    {
+        "text": "Happy_Widow:",
+        "translation": "妓女："
+    },
+    {
+        "text": "Trainer:",
+        "translation": "教练："
+    },
+    {
+        "text": "Smith:",
+        "translation": "铁匠："
+    },
+    {
+        "text": "Armorer:",
+        "translation": "军需官："
+    },
+    {
+        "text": "Physician:",
+        "translation": "医师："
+    },
+    {
+        "text": "Cook:",
+        "translation": "厨师："
+    },
+    {
+        "text": "Captain_Marcus",
+        "translation": "马库斯队长"
+    },
+    {
+        "text": "Dismiss/No_Captain",
+        "translation": "解雇/无队长"
+    },
+    {
+        "text": "Priest_Beda",
+        "translation": "贝达牧师"
+    },
+    {
+        "text": "Godi_Olafr",
+        "translation": "戈迪·奥拉夫"
+    },
+    {
+        "text": "Dismiss/No_Priest",
+        "translation": "解雇/无神职人员"
+    },
+    {
+        "text": "No_bard_wants_to_serve_you.",
+        "translation": "没有吟游诗人愿意加入你。"
+    },
+    {
+        "text": "Skald_Bragi",
+        "translation": "诗人布拉吉"
+    },
+    {
+        "text": "Bard_Siwi",
+        "translation": "诗人斯维"
+    },
+    {
+        "text": "Dismiss/No_Bard",
+        "translation": "解雇/无吟游诗人"
+    },
+    {
+        "text": "Casius",
+        "translation": "斟酒人"
+    },
+    {
+        "text": "Dismiss/No_Bottler",
+        "translation": "解雇/无斟酒人"
+    },
+    {
+        "text": "No_happy_widow_is_available.",
+        "translation": "没有妓女愿意加入你。"
+    },
+    {
+        "text": "Suaibsech",
+        "translation": "苏埃塞"
+    },
+    {
+        "text": "Tancoystl",
+        "translation": "坦柯斯提"
+    },
+    {
+        "text": "Gulla",
+        "translation": "古拉"
+    },
+    {
+        "text": "Eadgyd",
+        "translation": "艾德济"
+    },
+    {
+        "text": "Dismiss/No_Whore",
+        "translation": "解雇/无妓女"
+    },
+    {
+        "text": "Trainer_Harald",
+        "translation": "哈罗德教练"
+    },
+    {
+        "text": "Dismiss/No_Trainer",
+        "translation": "解雇/无教练"
+    },
+    {
+        "text": "Ulfberht",
+        "translation": "乌夫贝特"
+    },
+    {
+        "text": "Dismiss/No_Smith",
+        "translation": "解雇/无铁匠"
+    },
+    {
+        "text": "Armorer_'The_Hungry_Hammer'",
+        "translation": "军需官“饥渴之锤”"
+    },
+    {
+        "text": "Dismiss/No_Armorer",
+        "translation": "解雇/无军需官"
+    },
+    {
+        "text": "No_physicians_are_available.",
+        "translation": "没有医师愿意加入你。"
+    },
+    {
+        "text": "Aurelius",
+        "translation": "奥勒留"
+    },
+    {
+        "text": "Morgan",
+        "translation": "摩根"
+    },
+    {
+        "text": "Alexander",
+        "translation": "亚历山大"
+    },
+    {
+        "text": "Ailill",
+        "translation": "阿希尔"
+    },
+    {
+        "text": "Dismiss/No_Physician",
+        "translation": "解雇/无医师"
+    },
+    {
+        "text": "Wamba",
+        "translation": "万巴"
+    },
+    {
+        "text": "Dismiss/No_Cook",
+        "translation": "解雇/无厨师"
+    },
+    {
+        "text": "{s10}",
+        "translation": "{s10}"
+    },
+    {
+        "text": "You_do_not_have_enough_money_to_increase_your_staff_this_much._Please_reduce_the_number_of_people_to_hire!",
+        "translation": "你没有足够的钱来付给这么多的职员，请减少雇员的数量！"
+    },
+    {
+        "text": "The_abbot_sends_for_all_parties_to_come_to_the_chapel,_so_that_you_can_hear_all_sides_of_the_story.^^For_your_part,_you_take_advantage_of_the_waiting_time_to_observe_the_work_of_the_scribes,_texts_ornate_with_gold.",
+        "translation": "修道院长派人去请各方来修道院，这样你就可以听到他们各自的陈述了。^^对你来说，你可以趁等待的时间看看抄写员写的那些金边装饰的文本了。"
+    },
+    {
+        "text": "fort",
+        "translation": "要塞"
+    },
+    {
+        "text": "Infiltration",
+        "translation": "渗透"
+    },
+    {
+        "text": "A_good_way_to_hasten_the_fall_of_the_{s2}_is_to_infiltrate_it_with_a_group_of_men_to_damage_the_defences,_food_stores,_water_supplies_or_loyalty_of_the_defenders._It_is_a_difficult_and_risky_maneuver,_almost_suicidal._Those_you_send_in_have_low_chances_of_returning,_but_if_successful,_they_could_cause_great_damage_to_the_enemy._They_need_600_peningas_for_their_troubles._What_type_of_sabotage_would_you_like_them_to_cause?",
+        "translation": "一个快速促使{s2}陷落的好办法是派一小队人渗透进去，破坏防御设施，粮食储备，水源或者守军的忠诚。这是一个困难且冒险的策略，几乎是自杀。你派去的人生还的几率很小，但是如果成功了，他们会对敌人造成巨大破坏。为此，你需要为他们准备600先令。你希望他们去实施那种破坏吗？"
+    },
+    {
+        "text": "Poison_the_{s2}'s_water.",
+        "translation": "在{s2}的水源下毒。"
+    },
+    {
+        "text": "Kill_the_{s2}'s_livestock.",
+        "translation": "杀死{s2}的牲畜。"
+    },
+    {
+        "text": "Burn_the_{s2}'s_food.",
+        "translation": "烧了{s2}的粮仓。"
+    },
+    {
+        "text": "Subvert_the_defenders.",
+        "translation": "策反守卫者"
+    },
+    {
+        "text": "____",
+        "translation": "？？"
+    },
+    {
+        "text": "A_group_of_chosen_men_will_be_sent_to_poison_the_water_supplies.",
+        "translation": "选出的人会被派到水源的位置。"
+    },
+    {
+        "text": "A_group_of_chosen_men_will_be_sent_to_kill_the_cattle.",
+        "translation": "选出的人会被派去杀牛。"
+    },
+    {
+        "text": "A_group_of_chosen_men_will_be_sent_to_burn_the_granaries.",
+        "translation": "选出的人会被派去烧粮仓。"
+    },
+    {
+        "text": "A_group_of_chosen_men_will_be_sent_to_subvert_the_defenders.",
+        "translation": "选出的人会被派去策反守军。"
+    },
+    {
+        "text": "You_do_not_have_the_600_peningas_to_pay_for_this_mission.",
+        "translation": "你没有600先令来实施这项任务。"
+    },
+    {
+        "text": "{s1}_of_the_{s2}",
+        "translation": "{s2}的{s1}"
+    },
+    {
+        "text": "Send",
+        "translation": "派出"
+    },
+    {
+        "text": "You_are_hiring_a_messenger.^You_can_do_three_kinds_of_things_with_a_message:_give_Orders,_change_Relations_and_make_Diplomacy.",
+        "translation": "你在招募信使。^你可以发出三种信件：发布命令，改善关系和实施外交。"
+    },
+    {
+        "text": "Message_Type:",
+        "translation": "信件类型："
+    },
+    {
+        "text": "Select_a_Place_for_your_orders:",
+        "translation": "选择你的命令："
+    },
+    {
+        "text": ">>_Orders:^_You_cannot_give_orders_to_a_lord_who_doesn't_belong_to_your_kingdom.",
+        "translation": ">>命令：^你不能对他国领主发布命令。"
+    },
+    {
+        "text": "Orders:_None.",
+        "translation": "命令：无。"
+    },
+    {
+        "text": "Orders:_Meet_and_Follow_You.",
+        "translation": "命令：与你会合并跟随你。"
+    },
+    {
+        "text": "Orders:_Go_to_a_Place.",
+        "translation": "命令：去一个地方。"
+    },
+    {
+        "text": "Orders:_Patrol_an_Area.",
+        "translation": "命令：巡逻一片区域。"
+    },
+    {
+        "text": "Orders:_Besiege_a_Place.",
+        "translation": "命令：围攻一个地方。"
+    },
+    {
+        "text": ">>_Relations:^This_lord_belongs_to_your_kingdom.",
+        "translation": ">>关系：^这个领主属于你的王国。"
+    },
+    {
+        "text": "Relations:_None.",
+        "translation": "关系：无。"
+    },
+    {
+        "text": "Relations:_Insult_and_Provoke.",
+        "translation": "关系：侮辱，激怒。"
+    },
+    {
+        "text": "Relations:_Send_a_Gift.",
+        "translation": "关系：送出礼物。"
+    },
+    {
+        "text": ">>Diplomacy:^It_is_only_possible_to_negotiate_between_faction_leaders.^You_aren't_a_king.",
+        "translation": ">>^^外交：^只能与阵营领袖谈判^——你不是国王。"
+    },
+    {
+        "text": ">>Diplomacy:^It_is_only_possible_to_negotiate_between_faction_leaders.^{s1}_isn't_a_king.",
+        "translation": ">>外交：^只有阵营领导者之间才能谈判，^{s1}并不是一位国王。"
+    },
+    {
+        "text": "Diplomacy:_None.",
+        "translation": "外交：无。"
+    },
+    {
+        "text": "Diplomacy:_Suggest_an_Alliance.",
+        "translation": "外交：提议联盟。"
+    },
+    {
+        "text": "Diplomacy:_Suggest_Peace.",
+        "translation": "外交：议和。"
+    },
+    {
+        "text": "Diplomacy:_Declare_War.",
+        "translation": "外交：宣战。"
+    },
+    {
+        "text": "You_want_to_order_{s9}_to_meet_and_follow_you.",
+        "translation": "你想命令{s9}与你会合并跟随你。"
+    },
+    {
+        "text": "You_want_to_order_{s9}_to_go_to...",
+        "translation": "你想命令{s9}去…"
+    },
+    {
+        "text": "You_want_to_order_{s9}_to_patrol_around....",
+        "translation": "你想命令{s9}去巡逻…"
+    },
+    {
+        "text": "You_want_to_order_{s9}_to_besiege...",
+        "translation": "你想命令{s9}去围攻…"
+    },
+    {
+        "text": "You_want_to_send_a_message_to_insult_and_provoke_{s9}._Perhaps_this_will_make_him_attack_you.",
+        "translation": "你想送出信件去侮辱，激怒{s9}。这或许会使得他攻击你。"
+    },
+    {
+        "text": "You_want_to_send_a_gift_of_rings,_bracelets_and_other_jewelry_valued_at_2000_peningas_to_{s9},_with_the_intention_of_improving_your_relationship.",
+        "translation": "你想送出价值2000先令的戒指，手镯和其他首饰当做礼物给{s9}，以增进你们之间的关系。"
+    },
+    {
+        "text": "You_want_to_invite_{s9}_to_make_an_alliance_with_you.",
+        "translation": "你想邀请{s9}与你结成同盟。"
+    },
+    {
+        "text": "You_want_to_make_peace_with_{s9}.",
+        "translation": "你想与{s9}停战。"
+    },
+    {
+        "text": "You_want_to_declare_war_on_{s9}._Remember_that_declaring_a_war_without_bad_relations_can_cause_other_realms_discomfort_with_and_mistrust_of_you,_especially_if_your_kingdom_has_a_truce_or_alliance_with_the_other_kingdom.",
+        "translation": "你想与{s9}宣战。切记，如果不是与一个关系很差的阵营宣战，就会造成其他阵营的不满与不信任，尤其是当你刚停战或是拥有同盟时。"
+    },
+    {
+        "text": "No_message_chosen.",
+        "translation": "无选中信件。"
+    },
+    {
+        "text": ">_You_are_sending_a_message_to_{s9}^^>_Distance:_{reg2}_km.^^>_Messenger_services_will_cost_{reg3}_peningas.^^^>_{s10}",
+        "translation": ">你向{s9}送出了信件。^^>距离：{reg2}公里。^^>信使服务将会花费{reg3}先令。^^^>{s10}"
+    },
+    {
+        "text": "You_have_not_chosen_a_message_to_send.",
+        "translation": "你没有选择信件发送。"
+    },
+    {
+        "text": "This_place_is_already_besieged_by_another_realm.",
+        "translation": "这个地方已经被他国围攻了。"
+    },
+    {
+        "text": "You_have_good_relations_with_this_kingdom._Your_lord_won't_attack_it.",
+        "translation": "你与这个国家的关系很好，你的领主不会攻击它。"
+    },
+    {
+        "text": "You're_already_at_peace_with_this_kingdom._It_isn't_necessary_to_send_a_messenger.",
+        "translation": "你已经与这个国家处于和平了，没必要派出信使了。"
+    },
+    {
+        "text": "You_need_to_improve_your_relationship_with_this_kingdom_before_proposing_an_alliance.",
+        "translation": "在你提议结盟前，你应与这个国家增进关系。"
+    },
+    {
+        "text": "You_already_have_an_alliance_with_this_kingdom._Wait_until_the_current_alliance_finishes_before_you_send_your_petition.",
+        "translation": "你已经与这个国家结盟了，只有等目前的盟约结束了才能送出你的请愿。"
+    },
+    {
+        "text": "You_are_already_at_war_with_this_kingdom.",
+        "translation": "你已经与这个国家开战了。"
+    },
+    {
+        "text": "You_do_not_have_the_needed_peningas_to_pay_to_messenger.",
+        "translation": "你没有足够的金钱支付给信使。"
+    },
+    {
+        "text": "This_is_a_hardcore_mode_of_Invasion.^^Respawn_is_possible_only_at_the_start_of_the_round.",
+        "translation": "这是入侵的专家模式。^^只有回合开始时才能复活。"
+    },
+    {
+        "text": "Please_wait.^Player_respawn_will_be_possible_{reg11?after_{reg10}_rounds:next_round}.",
+        "translation": "请等待。^玩家将在{reg11?第{reg10}回合后:下回合}复活。"
+    },
+    {
+        "text": "Send_message_to_other_ADMINS:",
+        "translation": "向其他管理员发送消息："
+    },
+    {
+        "text": "Broadcast_message_to_all_players:",
+        "translation": "向所有玩家广播消息："
+    },
+    {
+        "text": "*ADMIN*:_{s0}",
+        "translation": "*ADMIN*：{s0}"
+    },
+    {
+        "text": "*ADMIN*:",
+        "translation": "*ADMIN*:"
+    },
+    {
+        "text": "Reset_map",
+        "translation": "重置地图"
+    },
+    {
+        "text": "Slay_all_horses",
+        "translation": "杀死所有的马"
+    },
+    {
+        "text": "Slay_all_bots",
+        "translation": "杀死所有机器人"
+    },
+    {
+        "text": "Slay_player",
+        "translation": "杀死玩家"
+    },
+    {
+        "text": "Heal_player",
+        "translation": "治疗玩家"
+    },
+    {
+        "text": "Refill_player's_ammo",
+        "translation": "补充玩家的弹药"
+    },
+    {
+        "text": "Fix_player's_shield",
+        "translation": "修复玩家的盾牌"
+    },
+    {
+        "text": "Change_player's_team",
+        "translation": "改变玩家的团队"
+    },
+    {
+        "text": "Make_player_a_spectator",
+        "translation": "让玩家成为旁观者"
+    },
+    {
+        "text": "Give_player_Thor's_Hammer",
+        "translation": "将索尔之锤交给玩家"
+    },
+    {
+        "text": "Beacon_a_player",
+        "translation": "标记一个玩家"
+    },
+    {
+        "text": "Teleport_to_player",
+        "translation": "传送到玩家"
+    },
+    {
+        "text": "Teleport_a_player_to_me",
+        "translation": "把玩家传送到我"
+    },
+    {
+        "text": "Make_player_immortal",
+        "translation": "把玩家设为不死"
+    },
+    {
+        "text": "Make_player_mortal_again",
+        "translation": "把玩家设为可以被杀死"
+    },
+    {
+        "text": "Force_Master_of_the_Field",
+        "translation": "这块土地上强有力的统治者"
+    },
+    {
+        "text": "Only_available_in_Battle_game_mode!",
+        "translation": "只在战场模式可用！"
+    },
+    {
+        "text": "You_are_the_Thor's_Champion",
+        "translation": "你是索尔的冠军"
+    },
+    {
+        "text": "Kill_as_many_opponents_as_you_can",
+        "translation": "尽可能多的杀死对手"
+    },
+    {
+        "text": "Kill",
+        "translation": "杀"
+    },
+    {
+        "text": "You_are_Thor's_champion",
+        "translation": "你是索尔的拥护者！"
+    },
+    {
+        "text": "You_are_the_captain_of_this_ship",
+        "translation": "你掌控这艘船了"
+    },
+    {
+        "text": "Controls:_arrow_keys,_Enter",
+        "translation": "操纵：箭头键，回车"
+    },
+    {
+        "text": "Ship_Captain",
+        "translation": "船长"
+    },
+    {
+        "text": "Change_game_type_to:",
+        "translation": "更换你的游戏模式为："
+    },
+    {
+        "text": "Send_Poll",
+        "translation": "发送投票"
+    },
+    {
+        "text": "Choose_a_colour_for_your_kingdom!",
+        "translation": "为你的王国选择一个颜色！"
+    },
+    {
+        "text": "Red",
+        "translation": "红色"
+    },
+    {
+        "text": "Green",
+        "translation": "绿色"
+    },
+    {
+        "text": "Blue",
+        "translation": "蓝色"
+    },
+    {
+        "text": "{reg11},_{reg12},_{reg13}",
+        "translation": "{reg11}，{reg12}，{reg13}"
+    },
+    {
+        "text": "Head_of_cattle_to_take_(max_{reg22}):",
+        "translation": "带牛(最大{reg22}):"
+    },
+    {
+        "text": "Create_a_new_goal:",
+        "translation": "创建新的目标："
+    },
+    {
+        "text": "(You_can_select_a_custom_goal_or_one_of^the_templates_below_for_a_reward!)",
+        "translation": "(你可以选择一个自定目标或下面的其中一个，完成后会有奖励)"
+    },
+    {
+        "text": "Let_me_choose!",
+        "translation": "让我选择！"
+    },
+    {
+        "text": "{s0}:",
+        "translation": "{s0}："
+    },
+    {
+        "text": "Army_size:",
+        "translation": "军队规模："
+    },
+    {
+        "text": "Marry_a_{reg59?lord:lady}:",
+        "translation": "与{reg59?先生:女士}结婚："
+    },
+    {
+        "text": "Right_to_rule:",
+        "translation": "统治权："
+    },
+    {
+        "text": "Wealth:",
+        "translation": "财富："
+    },
+    {
+        "text": "(You_need_to_choose^a_goal_first!)",
+        "translation": "(你需要先设置一个目标！)"
+    },
+    {
+        "text": "Yes",
+        "translation": "是"
+    },
+    {
+        "text": "No",
+        "translation": "否"
+    },
+    {
+        "text": "Custom_Goal_(no_reward)",
+        "translation": "自定目标(没有回报)"
+    },
+    {
+        "text": "(You_are_a_king_already!)",
+        "translation": "(你已经是一名国王了！)"
+    },
+    {
+        "text": "(You_need_to_be_the_ruler^of_your_faction_first!)",
+        "translation": "(你需要先成为你的阵营的统治者！)"
+    },
+    {
+        "text": "{reg1},_{reg2}",
+        "translation": "{reg1}，{reg2}"
+    },
+    {
+        "text": "New_Goal",
+        "translation": "新目标"
+    },
+    {
+        "text": "Current_Goal:_{s1}",
+        "translation": "当前目标：{s1}"
+    },
+    {
+        "text": "Troops:",
+        "translation": "士兵："
+    },
+    {
+        "text": "Marry:",
+        "translation": "婚姻："
+    },
+    {
+        "text": "{s3}^-------------------------------^",
+        "translation": "{s3}^-------------------------------^"
+    },
+    {
+        "text": "{s1}^{s2}^",
+        "translation": "{s1}^{s2}^"
+    },
+    {
+        "text": "^{s1}",
+        "translation": "^{s1}"
+    },
+    {
+        "text": "Port_of_{s1}",
+        "translation": "{s1}港"
+    },
+    {
+        "text": "vWindDirection",
+        "translation": ""
+    },
+    {
+        "text": "Refill_Supplies",
+        "translation": "补充给养"
+    },
+    {
+        "text": "Refill_Stones",
+        "translation": "补充石头。"
+    },
+    {
+        "text": "{s1}_of_the_{s3}_was_defeated_in_battle_but_managed_to_escape.",
+        "translation": "{s3}的{s1}被击败但设法逃离了。"
+    },
+    {
+        "text": "{s49}{s12}",
+        "translation": "{s49}{s12}"
+    },
+    {
+        "text": "Trying_to_improve_your_relations_with_{s44}",
+        "translation": "努力提升与{s44}的关系"
+    },
+    {
+        "text": "Is_imprisoned_in_the_dungeon_of_{s44}",
+        "translation": "被关在　{s44}的监狱里"
+    },
+    {
+        "text": "{s54}_is_a_claimant_to_the_throne_of_the_{s56}.",
+        "translation": "{s54}是{s56}的篡位者。"
+    },
+    {
+        "text": "nowhere",
+        "translation": "无"
+    },
+    {
+        "text": "{s57}_and_{s58}",
+        "translation": "{s57}和{s58}"
+    },
+    {
+        "text": "{reg3?She:He}",
+        "translation": "{reg3?她:他}"
+    },
+    {
+        "text": "The_town_of_{s50}",
+        "translation": "{s50}镇"
+    },
+    {
+        "text": "The_village_of_{s50}_near_{s52}",
+        "translation": "{s52}附近的{s50}村"
+    },
+    {
+        "text": "{s51}_belongs_to_{s1}_of_the_{s2}.^",
+        "translation": "{s51}属于{s2}的{s1}。"
+    },
+    {
+        "text": "{s2}It_has_no_villages.^",
+        "translation": "{s2}它没有下属的村庄。^"
+    },
+    {
+        "text": "{s2}{reg0?Its_villages_are:Its_village_is}_{s8}.^",
+        "translation": "{s2}它{reg0?的下属的村庄是:的下属的村庄是}{s8}。^"
+    },
+    {
+        "text": "{s2}Its_prosperity_is:_{s50}.",
+        "translation": "{s2}它的繁荣度为：{s50}"
+    },
+    {
+        "text": "{s9}_and_{s10}",
+        "translation": "{s9}和{s10}"
+    },
+    {
+        "text": "{s12}{s14}",
+        "translation": "{s12}{s14}"
+    },
+    {
+        "text": "{s12},_{s14}",
+        "translation": "{s12}，{s14}"
+    },
+    {
+        "text": "{s11}{s14}",
+        "translation": "{s11}{s14}"
+    },
+    {
+        "text": "{s11},_{s14}",
+        "translation": "{s11}，{s14}"
+    },
+    {
+        "text": "{s13}{s14}",
+        "translation": "{s13}{s14}"
+    },
+    {
+        "text": "{s13},_{s14}",
+        "translation": "{s13}，{s14}"
+    },
+    {
+        "text": "{s21}._The_{s8}_declared_war_to_fulfil_an_alliance.",
+        "translation": "为了履行盟约，{s21}对{s8}宣战了"
+    },
+    {
+        "text": "No_wars!",
+        "translation": "没有战争！"
+    },
+    {
+        "text": "At_war_with_({reg1}):_{s12}",
+        "translation": "与({reg1})交战中：{s12}"
+    },
+    {
+        "text": "No_allies!",
+        "translation": "没有盟友！"
+    },
+    {
+        "text": "Alliances_({reg2})__:_{s11}",
+        "translation": "同盟({reg2})：{s11}"
+    },
+    {
+        "text": "No_casus_belli!",
+        "translation": "没有开战理由！"
+    },
+    {
+        "text": "Casus_belli___({reg3}):_{s13}",
+        "translation": "开战理由({reg3})：{s13}"
+    },
+    {
+        "text": "{s12}^{s11}^{s13}^^{s21}",
+        "translation": "{s12}^{s11}^{s13}^^{s21}"
+    },
+    {
+        "text": "^-------------------------------------------------------------------------------^{s1}^{s21}",
+        "translation": "^-------------------------------------------------------------------------------^{s1}^{s21}"
+    },
+    {
+        "text": "The_{s5}_has_been_defeated!",
+        "translation": "{s5}被击败了！"
+    },
+    {
+        "text": "{s7}_opened_the_gate.",
+        "translation": "{s7}将门打开。"
+    },
+    {
+        "text": "{s7}_closed_the_gate.",
+        "translation": "{s7}将门关上。"
+    },
+    {
+        "text": "You_have_received_{reg5}_critical_damage!",
+        "translation": "你受到了{reg5}致命一击！"
+    },
+    {
+        "text": "You_have_dealt_{reg5}_critical_damage!",
+        "translation": "你发动了{reg5}致命一击！"
+    },
+    {
+        "text": "You_have_received_{reg5}_critical_damage_to_your_head_and_lose_vision_for_a_second!",
+        "translation": "你的头遭到了{reg5}致命一击，你在一秒钟内将看不清东西！"
+    },
+    {
+        "text": "You_unleash_your_battle_rage!",
+        "translation": "你发起狂暴了！！！"
+    },
+    {
+        "text": "You_feel_exhausted_after_the_rage.",
+        "translation": "狂暴后你筋疲力尽了！！！"
+    },
+    {
+        "text": "Your_strength_is_back.",
+        "translation": "你的力量恢复了。"
+    },
+    {
+        "text": "You_are_too_exhausted_to_go_into_a_battle_rage.",
+        "translation": "你现在筋疲力尽了，不能进入狂暴状态。"
+    },
+    {
+        "text": "The_sound_of_your_side's_horn_makes_you_feel_stronger!",
+        "translation": "我方的号角声使你更加有力！"
+    },
+    {
+        "text": "The_sound_of_the_enemy's_horn_makes_you_feel_doubtful.",
+        "translation": "敌方的号角声使你逡巡不前！"
+    },
+    {
+        "text": "You_are_no_longer_affected_by_having_heard_the_horn.",
+        "translation": "你不再受到号角声的影响！"
+    },
+    {
+        "text": "{reg1}_ally_troops_were_affected_by_your_horn!",
+        "translation": "{reg1}盟军为我方的号角声所激励！"
+    },
+    {
+        "text": "No_ally_troops_were_affected_by_your_horn.",
+        "translation": "盟军不再受到我方的号角声的影响。"
+    },
+    {
+        "text": "You_need_to_catch_your_breath_before_blowing_the_horn_again.",
+        "translation": "你在再次吹响号角前需要歇口气。"
+    },
+    {
+        "text": "Your_supplies_are_replenished.",
+        "translation": "你的给养已补充完毕。"
+    },
+    {
+        "text": "All_stray_horses_were_slain_by_an_admin",
+        "translation": "所有无人骑乘的马被管理员杀死了。"
+    },
+    {
+        "text": "AI_warriors_were_slain_by_an_admin",
+        "translation": "AI战士被管理员杀死"
+    },
+    {
+        "text": "All_players_were_slain_by_an_admin",
+        "translation": "所有玩家被一名管理员杀死"
+    },
+    {
+        "text": "Player_'{s1}'_was_slain_by_an_admin",
+        "translation": "玩家“{s1}”被一名管理员杀死"
+    },
+    {
+        "text": "Admin_made_all_players_immortal",
+        "translation": "所有人都被管理员设置为不死模式。"
+    },
+    {
+        "text": "Admin_made_all_players_mortal",
+        "translation": "所有人都被管理员设置为可被死模式。"
+    },
+    {
+        "text": "All_players_were_healed_by_an_admin",
+        "translation": "所有玩家被一名管理员治疗"
+    },
+    {
+        "text": "Admin_refilled_ammo_of_all_players",
+        "translation": "管理员为所有玩家补充了弹药。"
+    },
+    {
+        "text": "Admin_fixed_shields_of_all_players",
+        "translation": "管理员为所有玩家修复了盾牌。"
+    },
+    {
+        "text": "Player_'{s1}'_was_healed_by_an_admin",
+        "translation": "玩家“{s1}”被一名管理员治疗"
+    },
+    {
+        "text": "Admin_refilled_ammo_of_player_'{s1}'",
+        "translation": "管理员为玩家'{s1}'补充了弹药。"
+    },
+    {
+        "text": "Admin_fixed_shield_of_player_'{s1}'",
+        "translation": "管理员为玩家'{s1}'修复了盾牌。"
+    },
+    {
+        "text": "Admin_made_player_'{s1}'_{reg1?im:}mortal",
+        "translation": "管理员设定玩家'{s1}'{reg1?不:}可以被杀死"
+    },
+    {
+        "text": "Teams_have_been_switched_by_an_admin",
+        "translation": "队伍被管理员交换了"
+    },
+    {
+        "text": "Player_'{s1}'_was_switched_to_the_other_team_by_an_admin",
+        "translation": "玩家“{s1}”被一名管理员切换到对方队伍"
+    },
+    {
+        "text": "All_players_were_turned_into_spectators_by_an_admin",
+        "translation": "所有玩家被一名管理员切换到旁观者"
+    },
+    {
+        "text": "Player_'{s1}'_was_turned_into_spectator_by_an_admin",
+        "translation": "玩家“{s1}”被一名管理员切换到旁观者"
+    },
+    {
+        "text": "{s1}_received_a_Thor's_Hammer_from_an_admin",
+        "translation": "{s1}从一名管理员处得到索尔之锤"
+    },
+    {
+        "text": "*ADMIN_CHAT*_[{s1}]:_{s0}",
+        "translation": "*ADMINCHAT*[{s1}]：{s0}"
+    },
+    {
+        "text": "Grants_+{reg1}_to_party_morale",
+        "translation": "部队士气增加{reg1}"
+    },
+    {
+        "text": "Increases_morale_during_battle",
+        "translation": "在战斗中增加士气"
+    },
+    {
+        "text": "Heavy_Armour:_you_suffer_high_penalties_for_certain_skills.",
+        "translation": "重甲：你的一些技能将被削弱"
+    },
+    {
+        "text": "Medium_Armour:_you_suffer_penalties_for_certain_skills.",
+        "translation": "中甲：你的一些技能将被削弱"
+    },
+    {
+        "text": "Heavy_Equipment:_you_suffer_penalties_for_certain_skills.",
+        "translation": "重装备：你的一些技能将被削弱"
+    },
+    {
+        "text": "Ritual_Equipment:_Advantages_in_certain_skills",
+        "translation": "仪仗装备：你的某些技能将被削弱"
+    },
+    {
+        "text": "Improves_leadership_and_persuasion.",
+        "translation": "提高你的领导力和说服力"
+    },
+    {
+        "text": "Requires_{reg1}_intelligence_to_read",
+        "translation": "需要{reg1}点智慧才能读"
+    },
+    {
+        "text": "Reading_Progress:_{reg1}%",
+        "translation": "阅读进度：{reg1}%"
+    },
+    {
+        "text": "wound_treatment",
+        "translation": "治疗伤口"
+    },
+    {
+        "text": "trainer",
+        "translation": "教练"
+    },
+    {
+        "text": "surgery",
+        "translation": "手术"
+    },
+    {
+        "text": "persuasion",
+        "translation": "说服"
+    },
+    {
+        "text": "Gives_+1_to_{s1}_while_in_inventory",
+        "translation": "在物品栏中增加1点{s1}"
+    },
+    {
+        "text": "Special_Attire:_Bonus_in_certain_skills",
+        "translation": "特殊装备：个别技能得到加成"
+    },
+    {
+        "text": "Bonus_to_movement_speed",
+        "translation": "运动速度加成"
+    },
+    {
+        "text": "Move_here",
+        "translation": "移动到这里"
+    },
+    {
+        "text": "View_notes",
+        "translation": "查看记录"
+    },
+    {
+        "text": "Accompany",
+        "translation": "同伴"
+    },
+    {
+        "text": "Find_landing_point",
+        "translation": "找到登陆点"
+    },
+    {
+        "text": "killed",
+        "translation": "死亡"
+    },
+    {
+        "text": "wounded",
+        "translation": "受伤"
+    },
+    {
+        "text": "{s0}^TOTAL:_{reg3}_({s2})",
+        "translation": "{s0}^总计：{reg3}({s2})"
+    },
+    {
+        "text": "^{s0}",
+        "translation": "^{s0}"
+    },
+    {
+        "text": "nothing",
+        "translation": "无"
+    },
+    {
+        "text": "{reg0}_village{reg1?s:}",
+        "translation": "{reg0}村庄{reg1?:}"
+    },
+    {
+        "text": "{reg0}_fort{reg1?s:}",
+        "translation": "{reg0}城堡{reg1?:}"
+    },
+    {
+        "text": "{reg0}_fort{reg1?s:}_and_{s0}",
+        "translation": "{reg0}城堡{reg1?:}以及{s0}"
+    },
+    {
+        "text": "{reg0}_town{reg1?s:}",
+        "translation": "{reg0}城镇{reg1?:}"
+    },
+    {
+        "text": "{reg0}_town{reg1?s:}_and_{s0}",
+        "translation": "{reg0}城镇{reg1?:}以及{s0}"
+    },
+    {
+        "text": "{reg0}_town{reg1?s:},_{s0}",
+        "translation": "{reg0}城镇{reg1?:}，{s0}"
+    },
+    {
+        "text": "Your_opponents_are_ready_for_the_fight.",
+        "translation": "你的对手已经准备好了。"
+    },
+    {
+        "text": "Try_to_destroy_as_many_targets_as_you_can._You_have_two_and_a_half_minutes_to_clear_the_track.",
+        "translation": "你需要在两分半钟的时间内尽可能多的摧毁目标。"
+    },
+    {
+        "text": "Stay_behind_the_line_on_the_ground_and_shoot_the_targets._Try_not_to_waste_any_shots.",
+        "translation": "站在线后射击目标。尽量不要浪费任何一发弹药。"
+    },
+    {
+        "text": "trying_quest_{reg1}",
+        "translation": "试图探索{reg1}"
+    },
+    {
+        "text": "Garrison_Troops",
+        "translation": "守备部队"
+    },
+    {
+        "text": "Camp_Troops",
+        "translation": "营地部队"
+    },
+    {
+        "text": "Refuge_Troops",
+        "translation": "避难所部队"
+    },
+    {
+        "text": "Even_though_nearby,_{s1}_does_not_come_to_your_aid.",
+        "translation": "即使就在附近，{s1}也不会来帮你。"
+    },
+    {
+        "text": "Battle_Advantage_=_{reg0}.",
+        "translation": "战场优势为{reg0}。"
+    },
+    {
+        "text": "{s9}_wants_you_to_resume_following_his_army_until_further_notice.",
+        "translation": "{s9}希望你能够在接到进一步的指令以前跟着他的部队前进。"
+    },
+    {
+        "text": "(Being_Raided)",
+        "translation": "（被掠夺中）"
+    },
+    {
+        "text": "(Looted)",
+        "translation": "（已被洗劫）"
+    },
+    {
+        "text": "(Under_Siege)",
+        "translation": "（陷入包围）"
+    },
+    {
+        "text": "The_village_of_{s1}_has_been_looted_by_{s2}.",
+        "translation": "{s1}村遭受了{s2}的掠夺。"
+    },
+    {
+        "text": "{s3}_is_no_longer_under_siege.",
+        "translation": "{s3}不再陷入包围了。"
+    },
+    {
+        "text": "Small_bands_of_enemies_have_been_spotted_near_{s1}.",
+        "translation": "在{s1}附近发现小队敌军。"
+    },
+    {
+        "text": "Enemy_patrols_have_been_spotted_near_{s1}.",
+        "translation": "在{s1}附近发现敌军巡逻队。"
+    },
+    {
+        "text": "A_medium-sized_group_of_enemies_has_been_spotted_near_{s1}.",
+        "translation": "在{s1}附近发现中等规模的敌军。"
+    },
+    {
+        "text": "A_significant_group_of_enemies_has_been_spotted_near_{s1}.",
+        "translation": "在{s1}附近发现敌军集团。"
+    },
+    {
+        "text": "An_army_of_enemies_has_been_spotted_near_{s1}.",
+        "translation": "在{s1}附近发现一支敌军。"
+    },
+    {
+        "text": "A_large_army_of_enemies_has_been_spotted_near_{s1}.",
+        "translation": "在{s1}附近发现大规模敌军。"
+    },
+    {
+        "text": "A_great_host_of_enemies_has_been_spotted_near_{s1}.",
+        "translation": "在{s1}附近发现大群敌军。"
+    },
+    {
+        "text": "{s1}_has_been_besieged_by_{s2}_of_the_{s3}.",
+        "translation": "{s3}的{s2}包围了{s1}。"
+    },
+    {
+        "text": "({s1})_{s11}:_{s14}",
+        "translation": "（{s1}）{s11}：{s14}"
+    },
+    {
+        "text": "{s14}_({s21})",
+        "translation": "{s14}（{s21}）"
+    },
+    {
+        "text": "Feast_concludes",
+        "translation": "宴会结束"
+    },
+    {
+        "text": "{s1}_is_the_new_marshal_of_the_{s2}.",
+        "translation": "{s1}成了{s2}的新元帅。"
+    },
+    {
+        "text": "You_gain_{reg12}_renown.",
+        "translation": "你得到{reg12}声望。"
+    },
+    {
+        "text": "You_lose_{reg12}_renown.",
+        "translation": "你失去了{reg12}点声望。"
+    },
+    {
+        "text": "Your_relation_with_{s1}_has_improved.",
+        "translation": "你与{s1}的关系提升了。"
+    },
+    {
+        "text": "Your_relation_with_{s1}_has_deteriorated.",
+        "translation": "你与{s1}的关系恶化了。"
+    },
+    {
+        "text": "You_have_angered_them.",
+        "translation": "你激怒了他们"
+    },
+    {
+        "text": "You_have_appeased_them.",
+        "translation": "你安抚了他们"
+    },
+    {
+        "text": "You_gain_reputation.",
+        "translation": "你得到荣誉"
+    },
+    {
+        "text": "You_lose_reputation.",
+        "translation": "你失去荣誉"
+    },
+    {
+        "text": "Now_your_reputation_is_{reg1}",
+        "translation": "现在你有{reg1}荣誉。"
+    },
+    {
+        "text": "The_{s1}_has_declared_war_against_the_{s2}.",
+        "translation": "{s1}对{s2}宣战。"
+    },
+    {
+        "text": "The_{s15}_complies_with_its_alliance_with_the_{s17}_by_attacking_the_{s16}.",
+        "translation": "{s15}为遵守与{s17}的盟约，对{s16}宣战。"
+    },
+    {
+        "text": "The_{s1}_and_the_{s2}_have_made_peace_with_each_other.",
+        "translation": "{s1}已与{s2}议和。"
+    },
+    {
+        "text": "{s2}_{reg3?was:is_currently}_at_{s3}.",
+        "translation": "{s2}{reg3?曾:正}在{s3}。"
+    },
+    {
+        "text": "{s2}_{reg3?was:is}_travelling_to_{s3},_and_{reg4?she:he}_{reg3?was:should_be}_close_to_{s4}{reg3?:_at_the_moment}.",
+        "translation": "{s2}{reg3?已经:正在}赶去{s3}，而{reg4?她:他}{reg3?之前:也许}在{s4}{reg3?:附近}。"
+    },
+    {
+        "text": "{s2}_{reg3?was:is}_in_the_field,_and_{reg4?she:he}_{reg3?was:should_be}_close_to_{s3}{reg3?:_at_the_moment}.",
+        "translation": "{s2}{reg3?:正}在野外某地，而{reg4?她:他}{reg3?之前:也许}在{s3}{reg3?:附近}。"
+    },
+    {
+        "text": "{s2}_{reg3?was:is}_being_held_captive_at_{s3}.",
+        "translation": "{s2}{reg3?曾:正}被囚禁在{s3}。"
+    },
+    {
+        "text": "{s2}_{reg3?was:has_been}_taken_captive_by_{reg4?her:his}_enemies.",
+        "translation": "{s2}{reg3?已:已经}被{reg4?她的:他的}敌人俘虏。"
+    },
+    {
+        "text": "I_don't_know_where_{s2}_{reg3?was:is}.",
+        "translation": "我不知道{s2}在哪里。"
+    },
+    {
+        "text": "{s2}_is_attacking_the_Saxons.",
+        "translation": "{s2}正在攻击撒克逊人。"
+    },
+    {
+        "text": "{s2}_is_defending_the_kingdom_of_Ragnar's_sons.",
+        "translation": "{s2}正在保卫拉格纳之子的国度。"
+    },
+    {
+        "text": "You_now_owe_{reg2}_peningas_to_{s1}.",
+        "translation": "你现在欠{s1}{reg2}先令。"
+    },
+    {
+        "text": "Royal_guardian",
+        "translation": "皇家卫士"
+    },
+    {
+        "text": "You_stand_to_gain_{reg8}_renown_if_you_win_this_battle.",
+        "translation": "如果你赢得战斗，你将得到{reg8}声望"
+    },
+    {
+        "text": "You_have_run_into_a_trap!",
+        "translation": "你陷入了圈套之中！"
+    },
+    {
+        "text": "You_are_attacked_by_a_group_of_bandits!",
+        "translation": "你被一群强盗打劫了！"
+    },
+    {
+        "text": "Following",
+        "translation": "随行中"
+    },
+    {
+        "text": "Holding",
+        "translation": "坚守中"
+    },
+    {
+        "text": "Charging",
+        "translation": "冲锋中"
+    },
+    {
+        "text": "Advancing",
+        "translation": "前进中"
+    },
+    {
+        "text": "Falling_Back",
+        "translation": "后退中"
+    },
+    {
+        "text": "Standing_Closer",
+        "translation": "聚拢中"
+    },
+    {
+        "text": "Spreading_Out",
+        "translation": "散开中"
+    },
+    {
+        "text": "Standing",
+        "translation": "站立中"
+    },
+    {
+        "text": "Retreating",
+        "translation": "撤退中"
+    },
+    {
+        "text": "N/A",
+        "translation": "无效"
+    },
+    {
+        "text": "Free",
+        "translation": "自由行动中"
+    },
+    {
+        "text": "Any_Weapon",
+        "translation": "任意武器"
+    },
+    {
+        "text": "Blunt_Weapons",
+        "translation": "钝击武器"
+    },
+    {
+        "text": "Given_by:_{s62}",
+        "translation": "给予人：{s62}"
+    },
+    {
+        "text": "Given_on:_{s60}",
+        "translation": "开始于：{s60}"
+    },
+    {
+        "text": "This_quest_has_been_concluded._Give_{s59}_the_news.",
+        "translation": "任务已经完成，把消息告诉{s59}"
+    },
+    {
+        "text": "This_quest_has_been_concluded.",
+        "translation": "这个任务已经结束"
+    },
+    {
+        "text": "This_quest_has_been_successfully_completed._Talk_to_{s59}.",
+        "translation": "任务已经成功完成，回去告知{s59}."
+    },
+    {
+        "text": "This_quest_has_been_successfully_completed.",
+        "translation": "任务已经成功完成。"
+    },
+    {
+        "text": "This_quest_has_failed._Talk_to_{s59}_to_explain_the_situation.",
+        "translation": "你没能成功完成任务，跟{s59}解释一下吧。"
+    },
+    {
+        "text": "This_quest_has_failed.",
+        "translation": "任务失败。"
+    },
+    {
+        "text": "At_the_time_quest_was_given:^{s1}",
+        "translation": "接受任务时：^{s1}"
+    },
+    {
+        "text": "The_{s5}_has_a_strength_of_{reg1}_men_in_total.",
+        "translation": "{s5}总共有{reg1}个士兵。"
+    },
+    {
+        "text": "According_to_the_last_time_you_saw_{reg1?her:him},_{s1}",
+        "translation": "上一次你见到{reg1?她:他}，{s1}"
+    },
+    {
+        "text": "According_to_the_last_time_you_heard_about_{reg1?her:him},_{s1}",
+        "translation": "上一次你听说到{reg1?她:他}，{s1}"
+    },
+    {
+        "text": "The_current_garrison_consists_of_{reg5}_men.^It_should_have_food_stocks_for_{reg6}_days.",
+        "translation": "这个要塞有{reg5}人驻守，还能支撑{reg6}天。"
+    },
+    {
+        "text": "Very_Poor",
+        "translation": "非常贫穷"
+    },
+    {
+        "text": "Poor",
+        "translation": "贫穷"
+    },
+    {
+        "text": "Average",
+        "translation": "一般"
+    },
+    {
+        "text": "Rich",
+        "translation": "富有"
+    },
+    {
+        "text": "Very_Rich",
+        "translation": "非常富有"
+    },
+    {
+        "text": "Mead_Hall",
+        "translation": "蜜酒厅"
+    },
+    {
+        "text": "A_manor_lets_you_rest_at_the_village_and_pay_your_troops_half_wages_while_you_rest.",
+        "translation": "有了一个庄园，你就可以在村子中休息，而且在此期间你只用付相当于平时一半的工资给你的部队。"
+    },
+    {
+        "text": "Mill",
+        "translation": "磨坊"
+    },
+    {
+        "text": "A_mill_increases_village_prosperity_by_5%.",
+        "translation": "有了一个磨坊，就可以使村子的繁荣度提升5%。"
+    },
+    {
+        "text": "Watchtower",
+        "translation": "了望塔"
+    },
+    {
+        "text": "A_watchtower_lets_the_villagers_raise_the_alarm_earlier._The_time_it_takes_for_enemies_to_loot_the_village_increases_by_50%.",
+        "translation": "有了一个了望塔，就可以使村民更早的发出警报，并延长敌人掠夺这村子的时间50%。"
+    },
+    {
+        "text": "School",
+        "translation": "学校"
+    },
+    {
+        "text": "A_school_increases_the_loyalty_of_the_villagers_by_+1_every_month.",
+        "translation": "有了一个学校，就可以使村民对你的忠诚度每月提升1点。"
+    },
+    {
+        "text": "Messenger_Post",
+        "translation": "驿站"
+    },
+    {
+        "text": "A_messenger_post_lets_the_inhabitants_send_you_a_message_whenever_enemies_are_nearby,_even_if_you_are_far_away.",
+        "translation": "有了一个驿站，就可以使村民在村子旁发现敌军时向你汇报，不论你离村子有多远。"
+    },
+    {
+        "text": "Prison_Tower",
+        "translation": "哨塔"
+    },
+    {
+        "text": "A_prison_tower_reduces_the_chance_that_captives_here_will_run_away._It_includes_a_torturer.",
+        "translation": "监狱能降低俘虏成功逃跑的几率。"
+    },
+    {
+        "text": "Christian_Monastery",
+        "translation": "基督教修道院"
+    },
+    {
+        "text": "A_monastery_promotes_Christianity.",
+        "translation": "基督教修士传播基督教义"
+    },
+    {
+        "text": "Temple_to_god_Odin",
+        "translation": "奥丁神的神庙"
+    },
+    {
+        "text": "A_temple_promotes_pagan_practices.",
+        "translation": "传播多神教习俗的神庙"
+    },
+    {
+        "text": "Christian_Church",
+        "translation": "基督教堂"
+    },
+    {
+        "text": "A_church_promotes_Christianity.",
+        "translation": "传播基督教义的神庙"
+    },
+    {
+        "text": "Shrine_to_Norse_Gods",
+        "translation": "北欧神的神殿"
+    },
+    {
+        "text": "A_shrine_promotes_pagan_practices.",
+        "translation": "传播多神教习俗的神庙"
+    },
+    {
+        "text": "Blacksmith",
+        "translation": "铁匠"
+    },
+    {
+        "text": "A_blacksmith_manufactures_and_sells_tools_and_weapons.",
+        "translation": "铁匠制造并出售武器"
+    },
+    {
+        "text": "Merchants'_Rest_Hall",
+        "translation": "商人的休息室"
+    },
+    {
+        "text": "A_rest_hall_supports_the_merchant_community,_adding_prosperity.",
+        "translation": "商人的休息室：增加商人数量，推动商业繁荣"
+    },
+    {
+        "text": "Scriptorium",
+        "translation": "缮写室"
+    },
+    {
+        "text": "A_scriptorium_increases_your_renown_as_a_patron_of_knowledge.",
+        "translation": "缮写室可提高你作为学术赞助人的名声"
+    },
+    {
+        "text": "Slave_Market",
+        "translation": "奴隶市场"
+    },
+    {
+        "text": "A_slave_market_increases_the_prosperity_and_tariffs_of_the_port_town,_but_reduces_your_reputation.",
+        "translation": "奴隶市场能增加港口城市的繁荣和关税，但会减少了你的荣誉。"
+    },
+    {
+        "text": "Brewery",
+        "translation": "啤酒厂"
+    },
+    {
+        "text": "A_brewery_increases_the_prosperity_and_loyalty_of_the_fort.",
+        "translation": "啤酒厂能增加城堡的繁荣和忠诚度"
+    },
+    {
+        "text": "The_prosperity_of_{s2}_has_changed_from_{s3}_to_{s4}.",
+        "translation": "{s2}的繁荣度已由{s3}变至{s4}"
+    },
+    {
+        "text": "{s4}_looks_upset.",
+        "translation": "{s4}看起来很失落。"
+    },
+    {
+        "text": "your_party",
+        "translation": "你的部队"
+    },
+    {
+        "text": "{reg0?One_of_your_prisoners,_:}{s1}_of_the_{s3}_has_escaped_from_captivity!",
+        "translation": "{reg0?你的囚犯之一，:}{s3}的{s1}逃跑了！"
+    },
+    {
+        "text": "You_have_delivered_{reg3}_head_of_cattle_to_{s1}.",
+        "translation": "你已经把{reg3}头牛送到了{s1}手中。"
+    },
+    {
+        "text": "I_hear_that_there_will_be_a_tournament_in_{s62}_soon.",
+        "translation": "我听说在{s62}将会举办一场竞技大会。"
+    },
+    {
+        "text": "I_heard_that_one_can_buy_{s62}_very_cheap_at_{s63}.",
+        "translation": "我听说{s62}在{s63}卖得很便宜。"
+    },
+    {
+        "text": "I_heard_that_they_pay_a_very_high_price_for_{s62}_at_{s63}.",
+        "translation": "我听说{s62}在{s63}卖的很贵。"
+    },
+    {
+        "text": "I_heard_that_the_Danish_promise_to_conquer_West_Seaxe_before_next_spring.",
+        "translation": "我听说丹麦人要在明年春天之前征服西撒克逊。"
+    },
+    {
+        "text": "Currently,_the_most_requested_song_the_bards_perform_is_the_one_of_King_Cadwallon_of_Gwynedd_and_King_Penda_of_Mierce_invading_Northhymbre_and_penetrating_deep_into_the_heart_of_the_old_Kingdom_of_Deira._There_King_Eadwine_amassed_his_warriors_and_rode_south_to_meet_them_in_battle._The_two_armies_met_at_Haedfeldland_and_engaged_in_the_bloodiest_and_most_brutal_battle_of_the_time._Perhaps_it_is_popular_because_of_the_recent_invasion.",
+        "translation": "大概是由于这次入侵，近来有首歌在吟游诗人之中风行，这首歌讲的是格温特国王卡德沃隆和麦西亚国王潘达入侵诺森布里亚的故事，他们深入古老的迪拉王国的心脏地带。埃德温国王召集士兵，与南方的敌人决一死战。两军在赫夫兰相遇，战场上血流漂杵，尸横遍野，战士遗骸的惨状令人终生难忘。"
+    },
+    {
+        "text": "I_heard_the_Pope_in_Rome_sent_missionaries_to_convert_the_Danish!",
+        "translation": "我听说罗马教皇将传教士派到丹麦人那里去了！"
+    },
+    {
+        "text": "Ragnar's_sons_are_the_most_dangerous_men_in_the_world._I_hear_they_are_relentless,_and_nobody_dares_to_face_up_to_them.",
+        "translation": "拉格纳之子是世上最危险的人物。我听说他们冷酷无情，没有人敢正视他们。"
+    },
+    {
+        "text": "I_think_the_wife_of_my_friend_is_cheating_on_him_with_a_bard.",
+        "translation": "我觉得我朋友的妻子跟一个吟游诗人私通，他们合起伙来骗我朋友。"
+    },
+    {
+        "text": "I_hate_bandits!_Somebody_should_kill_them_all.",
+        "translation": "我憎恶土匪！怎么没有人把他们杀个精光！"
+    },
+    {
+        "text": "I_would_like_to_know_about_the_Roman_times.",
+        "translation": "我想知道罗马时代是怎么一回事。"
+    },
+    {
+        "text": "Many_of_the_nobles_of_Englaland_are_very_impressed_by_young_princess_Hild._She_is_so_beautiful._Too_bad_she_has_religious_leanings!",
+        "translation": "年轻的海德公主令不列颠的许多贵族瞠目结舌。她真是美若天仙。但可惜的是，她竟然想遁入教门！"
+    },
+    {
+        "text": "A_traveller_told_me_the_Franks_are_recruiting_men_for_attacking_the_Frisians.",
+        "translation": "一个旅行者告诉我，法兰克为正为了进攻弗里斯而招兵买马。"
+    },
+    {
+        "text": "The_Danish_have_brought_all_kinds_of_foreigners_with_them._It's_like_the_whole_world_has_come_to_old_Englaland.",
+        "translation": "丹麦人几乎把各种各样的外国人都带来了。看起来全世界的人都来到了古老的不列颠。"
+    },
+    {
+        "text": "West_Seaxe_was_never_as_powerful_as_now._It_is_logical_that_their_king_is_considered_to_be_a_Brytenwalda.",
+        "translation": "西撒克逊从未如今日这般强盛。他们的国王自然被视为不列颠的统治者。"
+    },
+    {
+        "text": "I_wish_the_world_were_less_dangerous._Few_men_grow_old.",
+        "translation": "我希望世道太平些。现在几乎没人可以活到老年。"
+    },
+    {
+        "text": "I've_been_told_the_army_of_the_Ui_Neill_maintains_strict_discipline_and_training._For_that_reason,_they_are_the_most_powerful_in_Hibernia!",
+        "translation": "我听说乌内尔正在秣兵历马，养精蓄锐。他们将无敌于爱尔兰！"
+    },
+    {
+        "text": "two_days_ago",
+        "translation": "两天之前"
+    },
+    {
+        "text": "{s24}_increased_renown_by_attending_a_feast_at_{s25}",
+        "translation": "{s24}在{s25}参加了宴会并因此提高了声望"
+    },
+    {
+        "text": "You_asked_me_to_come_and_meet_you_here_at_{s33}._So,_here_I_am,_waiting_for_you_to_show_up.",
+        "translation": "你命令我在{s33}与你见面。所以我在这里等待你的出现。"
+    },
+    {
+        "text": "You_asked_me_to_come_and_patrol_around_{s33}._So,_here_I_am,_looking_for_enemies.",
+        "translation": "你命令我来{s33}附近巡逻。所以我在这里找寻敌人的踪迹。"
+    },
+    {
+        "text": "Marshal_has_chosen_{s13}_to_levy_troops.",
+        "translation": "元帅选定{s13}去征收士兵。"
+    },
+    {
+        "text": "Marshal_Levying_Troops",
+        "translation": "元帅征收士兵"
+    },
+    {
+        "text": "The_marshal_is_levying_{reg0}_troops_from_your_center_{s10}.",
+        "translation": "元帅正从你的{s10}领地征收{reg0}兵士。"
+    },
+    {
+        "text": "{s35}_of_the_{s34}",
+        "translation": "{s34}的{s35}"
+    },
+    {
+        "text": "{s37}_of_the_{s36}",
+        "translation": "{s36}的{s37}"
+    },
+    {
+        "text": "The_brewery_in_{s1}_adds_to_its_prosperity.",
+        "translation": "{s1}的啤酒厂促进了经济繁荣。"
+    },
+    {
+        "text": "You_gain_right_to_rule.",
+        "translation": "你获得统治权。"
+    },
+    {
+        "text": "You_lose_right_to_rule.",
+        "translation": "你失去统治权。"
+    },
+    {
+        "text": "Content_update_applied_to_the_save_game.",
+        "translation": "新的内容已经保存到存档里面。"
+    },
+    {
+        "text": "{s1}_has_entered_trance!",
+        "translation": "{s1}进入了挂机状态！"
+    },
+    {
+        "text": "{s1}_has_become_uncontrollable!",
+        "translation": "{s1}变得无法控制！"
+    },
+    {
+        "text": "{s1}_is_getting_exhausted_after_the_rage.",
+        "translation": "{s1}在大发雷霆之后变得精疲力竭。"
+    },
+    {
+        "text": "{s1}_back_to_normal!",
+        "translation": "{s1}回复到普通！"
+    },
+    {
+        "text": "Manage_this_village.",
+        "translation": "管理这个村庄。"
+    },
+    {
+        "text": "Recruit_volunteers.",
+        "translation": "招募志愿者。"
+    },
+    {
+        "text": "Go_to_the_village_center.",
+        "translation": "前往村庄。"
+    },
+    {
+        "text": "Meet_the_leader.",
+        "translation": "与领导者会面。"
+    },
+    {
+        "text": "Buy_supplies.",
+        "translation": "购买补给品。"
+    },
+    {
+        "text": "Attack_the_bandits.",
+        "translation": "攻击强盗。"
+    },
+    {
+        "text": "Wait_here_for_some_time.",
+        "translation": "在这里呆一段时间。"
+    },
+    {
+        "text": "{reg5?Continue_collecting_taxes:Collect_taxes}.",
+        "translation": "{reg5?继续收税:收税}。"
+    },
+    {
+        "text": "Train_the_peasants.",
+        "translation": "训练农民。"
+    },
+    {
+        "text": "Take_an_action.",
+        "translation": "采取行动。"
+    },
+    {
+        "text": "Leave...",
+        "translation": "离开…"
+    },
+    {
+        "text": "You_need_to_obtain_permission_from_the_leader_in_this_village_to_recruit_here.",
+        "translation": "你需要获得村庄长老的许可才能在此招募。"
+    },
+    {
+        "text": "_(Symbel)",
+        "translation": "(宴会)"
+    },
+    {
+        "text": "Join_the_competitions.",
+        "translation": "加入比赛。"
+    }
+]

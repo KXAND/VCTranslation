@@ -1,0 +1,2002 @@
+[
+    {
+        "text": "Hersir_Guthred_Knutr",
+        "translation": "古斯鲁姆·卡鲁特领主"
+    },
+    {
+        "text": "Guthred_Knutr",
+        "translation": "古斯鲁姆·卡鲁特领主"
+    },
+    {
+        "text": "Hersir_Rognvald",
+        "translation": "罗格沃德领主"
+    },
+    {
+        "text": "Rognvald",
+        "translation": "罗格沃德"
+    },
+    {
+        "text": "Hersir_Harald",
+        "translation": "哈拉尔领主"
+    },
+    {
+        "text": "Hersir_Sidroc_the_Young",
+        "translation": "小希德罗领主"
+    },
+    {
+        "text": "Sidroc_the_Young",
+        "translation": "小希德罗领主"
+    },
+    {
+        "text": "Hersir_Fraena",
+        "translation": "费耶那领主"
+    },
+    {
+        "text": "Fraena",
+        "translation": "费耶那"
+    },
+    {
+        "text": "Jarl_Ivarr_Inn_Beinlaussi",
+        "translation": "无骨者伊瓦尔"
+    },
+    {
+        "text": "Ivarr_Inn_Beinlaussi",
+        "translation": "无骨者伊瓦尔"
+    },
+    {
+        "text": "Jarl_Hubbi_Ragnarsson",
+        "translation": "胡比·拉格纳逊雅尔"
+    },
+    {
+        "text": "Hubbi_Ragnarsson",
+        "translation": "胡比·拉格纳逊"
+    },
+    {
+        "text": "Konungr_Bagsecg",
+        "translation": "巴赛克国王"
+    },
+    {
+        "text": "Mael_Anarawd_map_Rhodri",
+        "translation": "安纳瓦德·马普·罗德里王子"
+    },
+    {
+        "text": "Anarawd_map_Rhodri",
+        "translation": "安纳瓦德·马普·罗德里"
+    },
+    {
+        "text": "Mael_Cadell_map_Rhodri",
+        "translation": "卡戴尔·马普·罗德里王子"
+    },
+    {
+        "text": "Cadell_map_Rhodri",
+        "translation": "卡戴尔·马普·罗德里"
+    },
+    {
+        "text": "Mael_Merfyn_map_Rhodri",
+        "translation": "玛菲·马普·罗德里王子"
+    },
+    {
+        "text": "Merfyn_map_Rhodri",
+        "translation": "玛菲·马普·罗德里"
+    },
+    {
+        "text": "Ri_Gwgon_map_Meurig",
+        "translation": "戈昂·马普·穆里克首领"
+    },
+    {
+        "text": "Gwgon_map_Meurig",
+        "translation": "戈昂·马普·穆里克"
+    },
+    {
+        "text": "Guledic_Gwriad_map_Merfyn",
+        "translation": "戈里亚·马普·马福尔王子"
+    },
+    {
+        "text": "Gwriad_map_Merfyn",
+        "translation": "戈里亚·马普·马福尔"
+    },
+    {
+        "text": "Mael_Tudwal_map_Rhodri",
+        "translation": "图瓦尔·马普·罗德里王子"
+    },
+    {
+        "text": "Tudwal_map_Rhodri",
+        "translation": "图瓦尔·马普·罗德里"
+    },
+    {
+        "text": "Guledic_Hyfaidd_map_Bleddri",
+        "translation": "海费德·马普·布兰德里王子"
+    },
+    {
+        "text": "Hyfaidd_map_Bleddri",
+        "translation": "海费德·马普·布兰德里"
+    },
+    {
+        "text": "Tiern_Ffernfael_ab_Meurig",
+        "translation": "奥万·马普·海威领主"
+    },
+    {
+        "text": "Ffernfael_ab_Meurig",
+        "translation": "奥万·马普·海威"
+    },
+    {
+        "text": "Tiern_Llofan_map_Cilmin_Broetu",
+        "translation": "洛凡·马普·西敏·布鲁图领主"
+    },
+    {
+        "text": "Llofan_map_Cilmin_Broetu",
+        "translation": "洛凡·马普·西敏·布鲁图"
+    },
+    {
+        "text": "Mael_Guledic",
+        "translation": "古勒迪克王子"
+    },
+    {
+        "text": "Guledic",
+        "translation": "古勒迪克"
+    },
+    {
+        "text": "Mael_Rhun_map_Arthgal",
+        "translation": "亚亨·马普·阿斯加王子"
+    },
+    {
+        "text": "Rhun_map_Arthgal",
+        "translation": "亚亨·马普·阿斯加"
+    },
+    {
+        "text": "Mael_Echou_map_Rhun",
+        "translation": "恩楚·马普·亚亨王子"
+    },
+    {
+        "text": "Echou_map_Rhun",
+        "translation": "恩楚·马普·亚亨"
+    },
+    {
+        "text": "Guledic_Dyfnwal_map_Rhun",
+        "translation": "戴夫沃·马普·亚亨王子"
+    },
+    {
+        "text": "Dyfnwal_map_Rhun",
+        "translation": "戴夫沃·马普·亚亨"
+    },
+    {
+        "text": "Guledic_Giric_Map_Rath",
+        "translation": "格里克·马普·拉弗王子"
+    },
+    {
+        "text": "Giric_map_Rath",
+        "translation": "格里克·马普·拉弗"
+    },
+    {
+        "text": "Mael_Cynon_map_Cyndrwyn",
+        "translation": "西农·马普·赛德温"
+    },
+    {
+        "text": "Cynon_map_Cyndrwyn",
+        "translation": "西农·马普·赛德温"
+    },
+    {
+        "text": "Mael_Gwion_map_Cyndrwyn",
+        "translation": "格温·马普·赛德温"
+    },
+    {
+        "text": "Gwion_map_Cyndrwyn",
+        "translation": "格温·马普·赛德温"
+    },
+    {
+        "text": "Mael_Madoc_map_Cadell",
+        "translation": "玛多克·马普·卡戴尔"
+    },
+    {
+        "text": "Madoc_map_Cadell",
+        "translation": "玛多克·马普·卡戴尔"
+    },
+    {
+        "text": "Mael_Caradoc_map_Riwall",
+        "translation": "卡拉多克·马普·莱沃"
+    },
+    {
+        "text": "Caradoc_map_Riwall",
+        "translation": "卡拉多克·马普·莱沃"
+    },
+    {
+        "text": "Guledic_Eliud_map_Eferferdyn",
+        "translation": "欧里德·马普·艾弗丁王子"
+    },
+    {
+        "text": "Eliud_map_Eferferdyn",
+        "translation": "欧里德·马普·艾弗丁"
+    },
+    {
+        "text": "Guledic_Alanorus_map_Eliud",
+        "translation": "阿拉诺斯·马普·欧里德王子"
+    },
+    {
+        "text": "Alanorus_map_Eliud",
+        "translation": "阿拉诺斯·马普·欧里德"
+    },
+    {
+        "text": "Mael_Ricatus_map_Dunyart",
+        "translation": "利卡图斯·马普·杜亚特王子"
+    },
+    {
+        "text": "Ricatus_map_Dunyart",
+        "translation": "利卡图斯·马普·杜亚特"
+    },
+    {
+        "text": "Guledic_Meurig_map_Arthfael",
+        "translation": "穆里克·马普·阿弗尔王子"
+    },
+    {
+        "text": "Meurig_map_Arthfael",
+        "translation": "穆里克·马普·阿弗尔"
+    },
+    {
+        "text": "Mael_Owain_map_Hywel",
+        "translation": "奥万·马普·海威王子"
+    },
+    {
+        "text": "Owain_map_Hywel",
+        "translation": "奥万·马普·海威"
+    },
+    {
+        "text": "Tiern_Brochwael_map_Meurig",
+        "translation": "伯赛威·马普·穆里克领主"
+    },
+    {
+        "text": "Brochwael_map_Meurig",
+        "translation": "伯赛威·马普·穆里克"
+    },
+    {
+        "text": "Mael_Cathalan_mac_Indrechtaig",
+        "translation": "卡斐兰·麦·因里泰王子"
+    },
+    {
+        "text": "Cathalan_mac_Indrechtaig",
+        "translation": "卡斐兰·麦·因里泰"
+    },
+    {
+        "text": "Mael_Conallan_mac_Duin",
+        "translation": "柯纳兰·麦·杜恩王子"
+    },
+    {
+        "text": "Conallan_mac_Duin",
+        "translation": "柯纳兰·麦·杜恩"
+    },
+    {
+        "text": "Ard_Tiarna_Mocheirge_mac_Indrechtaig",
+        "translation": "默卓格·麦·因德泰格大领主"
+    },
+    {
+        "text": "Mocheirge_mac_Indrechtaig",
+        "translation": "默卓格·麦·因德泰格"
+    },
+    {
+        "text": "Tiarna_Ainbith_mac_Aedo",
+        "translation": "艾拜斯·麦·爱多领主"
+    },
+    {
+        "text": "Ainbith_mac_Aedo",
+        "translation": "艾拜斯·麦·爱多"
+    },
+    {
+        "text": "Tiarna_Cummascach_mac_Cathalan",
+        "translation": "琴马萨·麦·卡夫兰领主"
+    },
+    {
+        "text": "Cummascach_mac_Cathalan",
+        "translation": "琴马萨·麦·卡夫兰"
+    },
+    {
+        "text": "Ard_Tiarna_Ailill_mac_Dunlainge",
+        "translation": "艾利尔·麦·杜莱格大领主"
+    },
+    {
+        "text": "Ailill_mac_Dunlainge",
+        "translation": "艾利尔·麦·杜莱格"
+    },
+    {
+        "text": "Ard_Tiarna_Cairpre_mac_Dunlainge",
+        "translation": "柴泊·麦·杜莱格大领主"
+    },
+    {
+        "text": "Cairpre_mac_Dunlainge",
+        "translation": "柴泊·麦·杜莱格"
+    },
+    {
+        "text": "Tiarna_Muiredach_mac_Brain",
+        "translation": "缪雷达·麦·柏林领主"
+    },
+    {
+        "text": "Muiredach_mac_Brain",
+        "translation": "缪雷达·麦·柏林"
+    },
+    {
+        "text": "Tiarna_Domnall_mac_Muirecain",
+        "translation": "当奈尔·麦·穆尔凯领主"
+    },
+    {
+        "text": "Domnall_mac_Muirecain",
+        "translation": "当奈尔·麦·穆尔凯"
+    },
+    {
+        "text": "Tiarna_Cerball_mac_Muirecain",
+        "translation": "赛博·麦·穆尔凯领主"
+    },
+    {
+        "text": "Cerball_mac_Muirecain",
+        "translation": "赛博·麦·穆尔凯"
+    },
+    {
+        "text": "Tiarna_Augaire_mac_Ailella",
+        "translation": "奥格尔·麦·艾利那领主"
+    },
+    {
+        "text": "Augaire_mac_Ailella",
+        "translation": "奥格尔·麦·艾利那"
+    },
+    {
+        "text": "Ard_Tiarna_Dunchad_mac_Dub_da_Bairenn",
+        "translation": "顿察德·麦·杜·达·巴伦大领主"
+    },
+    {
+        "text": "Dunchad_mac_Dub_da_Bairenn",
+        "translation": "顿察德·麦·杜·达·巴伦"
+    },
+    {
+        "text": "Ard_Tiarna_Dub_Lachtnai_mac_Gualu",
+        "translation": "杜·拉克耐·麦·瓜鲁大领主"
+    },
+    {
+        "text": "Dub_Lachtnai_mac_Gualu",
+        "translation": "杜·拉克耐·麦·瓜鲁"
+    },
+    {
+        "text": "Tiarna_Foghartach_mac_Suibhne",
+        "translation": "霍哈塔·麦·苏尼领主"
+    },
+    {
+        "text": "Foghartach_mac_Suibhne",
+        "translation": "霍哈塔·麦·苏尼"
+    },
+    {
+        "text": "Tiarna_Longbortan_mac_Finnachta",
+        "translation": "隆伯坦·麦·芬纳塔领主"
+    },
+    {
+        "text": "Longbortan_mac_Finnachta",
+        "translation": "隆伯坦·麦·芬纳塔"
+    },
+    {
+        "text": "Tiarna_Reachtabhra_macBran_Finn",
+        "translation": "里奇泰兰·麦布兰·费恩领主"
+    },
+    {
+        "text": "Reachtabhra_macBran_Finn",
+        "translation": "里奇泰兰·麦布兰·费恩"
+    },
+    {
+        "text": "Tiarna_Colman_mac_Cionaith",
+        "translation": "柯曼·麦·西奥奈领主"
+    },
+    {
+        "text": "Colman_mac_Cionaith",
+        "translation": "柯曼·麦·西奥奈"
+    },
+    {
+        "text": "Mael_Conchobar_mac_Taidg_Mor",
+        "translation": "康楚伯·麦·泰德·莫尔王子"
+    },
+    {
+        "text": "Conchobar_mac_Taidg_Mor",
+        "translation": "康楚伯·麦·泰德·莫尔"
+    },
+    {
+        "text": "Tiarna_Aedh_mac_Conchobar",
+        "translation": "艾德·麦·康楚伯领主"
+    },
+    {
+        "text": "Aedh_mac_Conchobar",
+        "translation": "艾德·麦·康楚伯"
+    },
+    {
+        "text": "Tiarna_Tadg_mac_Conchobar",
+        "translation": "塔吉·麦·康楚伯领主"
+    },
+    {
+        "text": "Tadg_mac_Conchobar",
+        "translation": "塔吉·麦·康楚伯"
+    },
+    {
+        "text": "Tiarna_Finshnechta_mac_Corcrai",
+        "translation": "芬彻塔·麦·柯克莱领主"
+    },
+    {
+        "text": "Finshnechta_mac_Corcrai",
+        "translation": "芬彻塔·麦·柯克莱"
+    },
+    {
+        "text": "Tiarna_Dobhailen_mac_Gormghus",
+        "translation": "多海伦·麦·戈胡斯领主"
+    },
+    {
+        "text": "Dobhailen_mac_Gormghus",
+        "translation": "多海伦·麦·戈胡斯"
+    },
+    {
+        "text": "Tiarna_Cathal_mac_Conchobar",
+        "translation": "卡萨尔·麦·康楚伯领主"
+    },
+    {
+        "text": "Cathal_mac_Conchobar",
+        "translation": "卡萨尔·麦·康楚伯"
+    },
+    {
+        "text": "Mael_Domnall_mac_Aeda",
+        "translation": "当奈尔·麦·艾达王子"
+    },
+    {
+        "text": "Domnall_mac_Aeda",
+        "translation": "当奈尔·麦·艾达"
+    },
+    {
+        "text": "Mael_Dabaill",
+        "translation": "达拜尔王子"
+    },
+    {
+        "text": "Dabaill",
+        "translation": "达拜尔"
+    },
+    {
+        "text": "Mael_Dub_mac_Aeda",
+        "translation": "杜·麦·埃达王子"
+    },
+    {
+        "text": "Dub_mac_Aeda",
+        "translation": "杜·麦·埃达"
+    },
+    {
+        "text": "Ruire_Congalach_mac_Finnachta",
+        "translation": "康加莱·麦·芬纳塔首领"
+    },
+    {
+        "text": "Congalach_mac_Finnachta",
+        "translation": "康加莱·麦·芬纳塔"
+    },
+    {
+        "text": "Tiarna_Cummascach_mac_Muiredaig",
+        "translation": "琴马萨·麦·穆尔达领主"
+    },
+    {
+        "text": "Cummascach_mac_Muiredaig",
+        "translation": "琴马萨·麦·穆尔达"
+    },
+    {
+        "text": "Mael_Padraig_mac_Curarada",
+        "translation": "帕拉奇·麦·库拉达王子"
+    },
+    {
+        "text": "Padraig_mac_Curarada",
+        "translation": "帕拉奇·麦·库拉达"
+    },
+    {
+        "text": "Tiarna_Laidhgnen_mac_Donnagain",
+        "translation": "莱德宁·麦·丹纳根领主"
+    },
+    {
+        "text": "Laidhgnen_mac_Donnagain",
+        "translation": "莱德宁·麦·丹纳根"
+    },
+    {
+        "text": "Mael_Sechnaill_mac_Niall",
+        "translation": "赛纳尔·麦·奈尔王子"
+    },
+    {
+        "text": "Sechnaill_mac_Niall",
+        "translation": "赛纳尔·麦·奈尔"
+    },
+    {
+        "text": "Mael_Diarmait_mac_Etersceili",
+        "translation": "迪亚梅·麦·厄特赛利王子"
+    },
+    {
+        "text": "Diarmait_mac_Etersceili",
+        "translation": "迪亚梅·麦·厄特赛利"
+    },
+    {
+        "text": "Mael_Flann_Sinna_mac_Sechnaill",
+        "translation": "弗兰·辛纳·麦·赛奈尔王子"
+    },
+    {
+        "text": "Flann_Sinna_mac_Sechnaill",
+        "translation": "弗兰·辛纳·麦·赛奈尔"
+    },
+    {
+        "text": "Tiarna_Flann_mac_Conaing",
+        "translation": "弗兰·麦·柯纳宁领主"
+    },
+    {
+        "text": "Flann_mac_Conaing",
+        "translation": "弗兰·麦·柯纳宁"
+    },
+    {
+        "text": "Mael_Conall_mac_Echach",
+        "translation": "康纳尔·麦·艾哈克"
+    },
+    {
+        "text": "Conall_mac_Echach",
+        "translation": "康纳尔·麦·艾哈克"
+    },
+    {
+        "text": "Mael_Domnall_dasachtach_mac_Causantin",
+        "translation": "当奈尔·达撒塔·麦·科萨丁王子"
+    },
+    {
+        "text": "Domnall_dasachtach_mac_Causantin",
+        "translation": "当奈尔·达撒塔·麦·科萨丁"
+    },
+    {
+        "text": "Ard_Tiarna_Aed_mac_Cinaeda",
+        "translation": "艾德·麦·辛奈德大领主"
+    },
+    {
+        "text": "Aed_mac_Cinaeda",
+        "translation": "艾德·麦·辛奈德大"
+    },
+    {
+        "text": "Tiarna_Causantin_mac_Aeda",
+        "translation": "科萨丁·麦·艾德领主"
+    },
+    {
+        "text": "Causantin_mac_Aeda",
+        "translation": "科萨丁·麦·艾德"
+    },
+    {
+        "text": "Tiarna_Domhall_mac_Aeda",
+        "translation": "唐哈尔·麦·埃达领主"
+    },
+    {
+        "text": "Domhall_mac_Aeda",
+        "translation": "唐哈尔·麦·埃达"
+    },
+    {
+        "text": "Mael_Coluim_mac_Domnall",
+        "translation": "科伦·麦·当奈尔王子"
+    },
+    {
+        "text": "Coluim_mac_Domnall",
+        "translation": "科伦·麦·当奈尔"
+    },
+    {
+        "text": "Domlech",
+        "translation": "当莱克"
+    },
+    {
+        "text": "Entifidach",
+        "translation": "安提费达克"
+    },
+    {
+        "text": "Lugthreni",
+        "translation": "卢戈弗尼"
+    },
+    {
+        "text": "Mael_Diarmait_mac_Cerbaill",
+        "translation": "迪亚梅·麦·赛巴尔王子"
+    },
+    {
+        "text": "Diarmait_mac_Cerbaill",
+        "translation": "当奈尔·达撒塔·麦·科萨丁"
+    },
+    {
+        "text": "Mael_Cellach_mac_Cerbaill",
+        "translation": "赛纳·麦·赛巴尔王子"
+    },
+    {
+        "text": "Cellach_mac_Cerbaill",
+        "translation": "艾德·麦·辛奈德"
+    },
+    {
+        "text": "Ard_Tiarna_Riacan_mac_Dunlainge",
+        "translation": "里亚肯·麦·杜莱格大领主"
+    },
+    {
+        "text": "Riacan_mac_Dunlainge",
+        "translation": "科撒丁·麦·埃达"
+    },
+    {
+        "text": "Jarl_Thorgil",
+        "translation": "索尔吉雅尔"
+    },
+    {
+        "text": "Thorgil",
+        "translation": "索尔吉"
+    },
+    {
+        "text": "Ard_Tiarna_Dungal",
+        "translation": "顿嘉尔大领主"
+    },
+    {
+        "text": "Dungal",
+        "translation": "顿嘉尔"
+    },
+    {
+        "text": "Aetheling_Oswine",
+        "translation": "奥斯怀王子"
+    },
+    {
+        "text": "Oswine",
+        "translation": "奥斯怀王子"
+    },
+    {
+        "text": "Aetheling_Ceorl",
+        "translation": "西奥罗王子"
+    },
+    {
+        "text": "Ceorl",
+        "translation": "西奥罗王子"
+    },
+    {
+        "text": "Tanist_Bili",
+        "translation": "继承者比利"
+    },
+    {
+        "text": "Bili",
+        "translation": "继承者比利"
+    },
+    {
+        "text": "Mael_Elisedd_ap_Cyngen",
+        "translation": "艾立西德·爱普·赛根王子"
+    },
+    {
+        "text": "Elisedd_ap_Cyngen",
+        "translation": "艾立西德·爱普·赛根"
+    },
+    {
+        "text": "Error_-_knight_1_1_wife_should_not_appear_in_game",
+        "translation": "Error-knight11wifeshouldnotappearingame{***}"
+    },
+    {
+        "text": "knight_1_1_wife",
+        "translation": "knight11wife{***}"
+    },
+    {
+        "text": "Aslaug",
+        "translation": "亚丝拉琪"
+    },
+    {
+        "text": "Oslafa",
+        "translation": "亚丝拉琪"
+    },
+    {
+        "text": "Blaeja",
+        "translation": "布蕾嘉"
+    },
+    {
+        "text": "Ragnhild_Ragnarsdottir",
+        "translation": "拉海德·拉格纳杜缇"
+    },
+    {
+        "text": "Ingun",
+        "translation": "银古"
+    },
+    {
+        "text": "Gyda_Eirikdottir",
+        "translation": "吉塔·埃里克杜缇"
+    },
+    {
+        "text": "Gyda",
+        "translation": "吉塔"
+    },
+    {
+        "text": "Yngvild",
+        "translation": "洋薇德"
+    },
+    {
+        "text": "Thorunn_Ketilsdottir",
+        "translation": "索尔纶·科提尔杜缇"
+    },
+    {
+        "text": "Thorunn",
+        "translation": "索尔纶"
+    },
+    {
+        "text": "Hallbera",
+        "translation": "哈尔贝拉"
+    },
+    {
+        "text": "Salbjorg",
+        "translation": "赛月克"
+    },
+    {
+        "text": "Bera",
+        "translation": "贝拉"
+    },
+    {
+        "text": "Grunnhild",
+        "translation": "君海德"
+    },
+    {
+        "text": "Asgerd",
+        "translation": "阿斯嘉"
+    },
+    {
+        "text": "Helga",
+        "translation": "海嘉"
+    },
+    {
+        "text": "Asfrid",
+        "translation": "阿斯特丽德"
+    },
+    {
+        "text": "Ingibjorg",
+        "translation": "银吉约"
+    },
+    {
+        "text": "Sacun",
+        "translation": "萨乔"
+    },
+    {
+        "text": "Osburh",
+        "translation": "奥丝布"
+    },
+    {
+        "text": "Wulfthryth",
+        "translation": "沃芙琳"
+    },
+    {
+        "text": "Ealswith",
+        "translation": "厄斯薇"
+    },
+    {
+        "text": "Aelswith",
+        "translation": "艾斯芙"
+    },
+    {
+        "text": "Aelflaed",
+        "translation": "阿尔弗蕾"
+    },
+    {
+        "text": "Eormengyth",
+        "translation": "伊蒙丝"
+    },
+    {
+        "text": "Aelfwynne",
+        "translation": "奥芙尼"
+    },
+    {
+        "text": "Edith",
+        "translation": "爱迪丝"
+    },
+    {
+        "text": "Edburge",
+        "translation": "恩布葛"
+    },
+    {
+        "text": "Adelburga",
+        "translation": "爱德布戈"
+    },
+    {
+        "text": "Hild",
+        "translation": "慧德"
+    },
+    {
+        "text": "Aethelswith",
+        "translation": "阿弗丝芙"
+    },
+    {
+        "text": "Eadburh",
+        "translation": "埃达伯芙"
+    },
+    {
+        "text": "Aedgyth",
+        "translation": "艾吉丝"
+    },
+    {
+        "text": "Cyneswith",
+        "translation": "辛萘维"
+    },
+    {
+        "text": "Alwith",
+        "translation": "爱维芙"
+    },
+    {
+        "text": "Aedelfled",
+        "translation": "爱德弗蕾"
+    },
+    {
+        "text": "Aepelhilde",
+        "translation": "爱普海达"
+    },
+    {
+        "text": "Aepelswip",
+        "translation": "爱普薇"
+    },
+    {
+        "text": "Aette",
+        "translation": "艾缇"
+    },
+    {
+        "text": "Alof_Ragnarsdottir",
+        "translation": "艾萝芙·拉格纳杜缇"
+    },
+    {
+        "text": "Alof",
+        "translation": "艾萝芙"
+    },
+    {
+        "text": "Eanflaed",
+        "translation": "恩芙蕾"
+    },
+    {
+        "text": "Freydis",
+        "translation": "菲蒂斯"
+    },
+    {
+        "text": "Gudrun",
+        "translation": "古德温"
+    },
+    {
+        "text": "Sigrid",
+        "translation": "熙吉塔"
+    },
+    {
+        "text": "Svanhild",
+        "translation": "丝万海德"
+    },
+    {
+        "text": "Sigrunn",
+        "translation": "希格鲁"
+    },
+    {
+        "text": "Turid",
+        "translation": "图莉"
+    },
+    {
+        "text": "Aebbe",
+        "translation": "爱比"
+    },
+    {
+        "text": "Angharad_verch_Meurig",
+        "translation": "昂哈拉德·维琦·穆里克"
+    },
+    {
+        "text": "Angharad",
+        "translation": "昂哈拉德"
+    },
+    {
+        "text": "Elen_verch_Rhodri",
+        "translation": "爱伦·维琦·罗德里"
+    },
+    {
+        "text": "Elen",
+        "translation": "爱伦"
+    },
+    {
+        "text": "Creirwy",
+        "translation": "克里薇"
+    },
+    {
+        "text": "Nest_verch_Rhodri",
+        "translation": "萘丝·维琦·罗德里"
+    },
+    {
+        "text": "Nest",
+        "translation": "萘丝"
+    },
+    {
+        "text": "Lleigy",
+        "translation": "莱琪"
+    },
+    {
+        "text": "Anna",
+        "translation": "安娜"
+    },
+    {
+        "text": "Marwenna",
+        "translation": "玛温娜"
+    },
+    {
+        "text": "Gwenonwy",
+        "translation": "歌温农薇"
+    },
+    {
+        "text": "Gweneddlon",
+        "translation": "歌温杜胧"
+    },
+    {
+        "text": "Verh_Cinaed",
+        "translation": "维芙·辛耐德"
+    },
+    {
+        "text": "Brifael",
+        "translation": "布里法儿"
+    },
+    {
+        "text": "Ceindrych",
+        "translation": "赛杜琪"
+    },
+    {
+        "text": "Morgawse",
+        "translation": "摩嘉丝"
+    },
+    {
+        "text": "Meisyr",
+        "translation": "梅熙亚"
+    },
+    {
+        "text": "Heledd",
+        "translation": "赫蕾德"
+    },
+    {
+        "text": "Ffever",
+        "translation": "菲弗"
+    },
+    {
+        "text": "Medlan",
+        "translation": "美得兰"
+    },
+    {
+        "text": "Rhiain_Ceinfrid",
+        "translation": "瑞安·赛福德"
+    },
+    {
+        "text": "Ceinfrid",
+        "translation": "赛福德"
+    },
+    {
+        "text": "Meddwyl",
+        "translation": "美德温"
+    },
+    {
+        "text": "Gwladus",
+        "translation": "格莱杜丝"
+    },
+    {
+        "text": "Muireann",
+        "translation": "缪里安"
+    },
+    {
+        "text": "Medb",
+        "translation": "茉比"
+    },
+    {
+        "text": "Creide",
+        "translation": "凯尔德"
+    },
+    {
+        "text": "Derbforgaill",
+        "translation": "德霍嘉"
+    },
+    {
+        "text": "Mhari",
+        "translation": "默哈莉"
+    },
+    {
+        "text": "Mall",
+        "translation": "玛儿"
+    },
+    {
+        "text": "Teglaig",
+        "translation": "泰莱戈"
+    },
+    {
+        "text": "Lassa",
+        "translation": "拉莎"
+    },
+    {
+        "text": "Cath",
+        "translation": "凯芙"
+    },
+    {
+        "text": "Lassair",
+        "translation": "莱莎尔"
+    },
+    {
+        "text": "Duinseach",
+        "translation": "杜恩琦"
+    },
+    {
+        "text": "Eva",
+        "translation": "爱娃"
+    },
+    {
+        "text": "Doirend",
+        "translation": "多里安"
+    },
+    {
+        "text": "Delbchaem",
+        "translation": "德查儿"
+    },
+    {
+        "text": "Caelfind",
+        "translation": "蔡芬"
+    },
+    {
+        "text": "Briana",
+        "translation": "布安娜"
+    },
+    {
+        "text": "Binne",
+        "translation": "碧儿"
+    },
+    {
+        "text": "Aoibheann",
+        "translation": "奥比安"
+    },
+    {
+        "text": "Aodhnait",
+        "translation": "奥萘特"
+    },
+    {
+        "text": "Almu",
+        "translation": "艾慕"
+    },
+    {
+        "text": "Fedelm",
+        "translation": "菲道尔"
+    },
+    {
+        "text": "Uaisle",
+        "translation": "乌爱丝"
+    },
+    {
+        "text": "Condadil",
+        "translation": "康戴儿"
+    },
+    {
+        "text": "Flannesda",
+        "translation": "芙兰丝达"
+    },
+    {
+        "text": "Mor",
+        "translation": "莫尔"
+    },
+    {
+        "text": "Aine",
+        "translation": "爱儿"
+    },
+    {
+        "text": "Muire_ingen_Cinaeda",
+        "translation": "穆尔·莹嘉·辛内达"
+    },
+    {
+        "text": "Muire",
+        "translation": "缪尔"
+    },
+    {
+        "text": "Gormlaith",
+        "translation": "戈莱丝"
+    },
+    {
+        "text": "Eithne",
+        "translation": "爱芙"
+    },
+    {
+        "text": "Lann",
+        "translation": "兰儿"
+    },
+    {
+        "text": "Etain",
+        "translation": "爱坦"
+    },
+    {
+        "text": "Coluim",
+        "translation": "裘蕾"
+    },
+    {
+        "text": "Sabhdh_Ingen_Giric",
+        "translation": "赛博·莹嘉·吉里克"
+    },
+    {
+        "text": "Ingen_Brude",
+        "translation": "布德公主"
+    },
+    {
+        "text": "Ingen_Domlech",
+        "translation": "董妮公主"
+    },
+    {
+        "text": "Ingen_Gwydd",
+        "translation": "嘉德公主"
+    },
+    {
+        "text": "Bridei",
+        "translation": "瑞蒂"
+    },
+    {
+        "text": "Aideen",
+        "translation": "爱丁"
+    },
+    {
+        "text": "Ethna",
+        "translation": "艾芙娜"
+    },
+    {
+        "text": "Norse_Chronicler",
+        "translation": "诺尔斯编年史官"
+    },
+    {
+        "text": "Chronicler",
+        "translation": "编年史官"
+    },
+    {
+        "text": "Briton_Chronicler",
+        "translation": "布立吞编年史官"
+    },
+    {
+        "text": "Goidelic_Chronicler",
+        "translation": "戈伊德尔编年史官"
+    },
+    {
+        "text": "Angle_Chronicler",
+        "translation": "盎格鲁编年史官"
+    },
+    {
+        "text": "Mael_Bresail",
+        "translation": "普雷西尔王子"
+    },
+    {
+        "text": "Fort_Reeve",
+        "translation": "城堡长官"
+    },
+    {
+        "text": "Competition_Master",
+        "translation": "竞技场老板"
+    },
+    {
+        "text": "Armorer",
+        "translation": "防具商人"
+    },
+    {
+        "text": "Eadwine_the_Armorer",
+        "translation": "防具商人埃德温"
+    },
+    {
+        "text": "Donnchadh_the_Armorer",
+        "translation": "防具商人唐察德"
+    },
+    {
+        "text": "Paega_the_Armorer",
+        "translation": "防具商人培迦"
+    },
+    {
+        "text": "Lifris_the_Armorer",
+        "translation": "防具商人立菲斯"
+    },
+    {
+        "text": "Fearchair_the_Armorer",
+        "translation": "防具商人费尔柴"
+    },
+    {
+        "text": "Ingleri",
+        "translation": "印苟里"
+    },
+    {
+        "text": "Weaponsmith",
+        "translation": "武器商人"
+    },
+    {
+        "text": "Atli_the_Weaponsmith",
+        "translation": "武器商人阿提利"
+    },
+    {
+        "text": "Harenbili_the_Weaponsmith",
+        "translation": "武器商人赫伦比利"
+    },
+    {
+        "text": "Egil_the_Weaponsmith",
+        "translation": "武器商人埃吉尔"
+    },
+    {
+        "text": "Godgyfu_the_Weaponsmith",
+        "translation": "武器商人葛吉夫"
+    },
+    {
+        "text": "Uormuin_the_Weaponsmith",
+        "translation": "武器商人乌穆因"
+    },
+    {
+        "text": "Ulfberht",
+        "translation": "尤福贝特"
+    },
+    {
+        "text": "Weland",
+        "translation": "韦兰"
+    },
+    {
+        "text": "Host",
+        "translation": "酒馆老板"
+    },
+    {
+        "text": "Casius",
+        "translation": "凯亚斯"
+    },
+    {
+        "text": "Merchant",
+        "translation": "商人"
+    },
+    {
+        "text": "Hogni",
+        "translation": "霍格尼"
+    },
+    {
+        "text": "Adda",
+        "translation": "艾达"
+    },
+    {
+        "text": "Aeron_ap_Gareth",
+        "translation": "伊昂·艾普·加菲"
+    },
+    {
+        "text": "Horse_Merchant",
+        "translation": "马匹贩子"
+    },
+    {
+        "text": "Mayor",
+        "translation": "镇长"
+    },
+    {
+        "text": "Hallvard",
+        "translation": "哈瓦尔镇长"
+    },
+    {
+        "text": "Donngal",
+        "translation": "多尼戈尔镇长"
+    },
+    {
+        "text": "Local_Leader",
+        "translation": "长老"
+    },
+    {
+        "text": "Godiva_the_Elder",
+        "translation": "长老戈迪瓦"
+    },
+    {
+        "text": "Wigmund_the_Elder",
+        "translation": "长老威格默"
+    },
+    {
+        "text": "Pyr_the_Elder",
+        "translation": "长老皮耶"
+    },
+    {
+        "text": "Caliacas",
+        "translation": "长老卡利卡斯"
+    },
+    {
+        "text": "Aesc_the_Elder",
+        "translation": "长老艾斯"
+    },
+    {
+        "text": "Ingolf_the_Elder",
+        "translation": "长老印戈福"
+    },
+    {
+        "text": "Oleif_the_Elder",
+        "translation": "长老奥利弗"
+    },
+    {
+        "text": "Thonkrik",
+        "translation": "索里克"
+    },
+    {
+        "text": "Monk_merchant",
+        "translation": "僧侣商人"
+    },
+    {
+        "text": "Monk_merchants",
+        "translation": "僧侣商人"
+    },
+    {
+        "text": "merchants_end",
+        "translation": "merchantsend"
+    },
+    {
+        "text": "Physician",
+        "translation": "医生"
+    },
+    {
+        "text": "healer_end",
+        "translation": "healerend"
+    },
+    {
+        "text": "Shipwright",
+        "translation": "造船师"
+    },
+    {
+        "text": "Port_Master",
+        "translation": "港口主管"
+    },
+    {
+        "text": "Port_Masters",
+        "translation": "港口主管"
+    },
+    {
+        "text": "Kalle_the_Shipwright",
+        "translation": "卡勒的造船师"
+    },
+    {
+        "text": "Boar",
+        "translation": "野猪"
+    },
+    {
+        "text": "Boars",
+        "translation": "野猪"
+    },
+    {
+        "text": "Craftsman",
+        "translation": "手艺人"
+    },
+    {
+        "text": "Local_Merchant",
+        "translation": "本地商人"
+    },
+    {
+        "text": "Local_Merchants",
+        "translation": "本地商人"
+    },
+    {
+        "text": "Peasant_Rebel",
+        "translation": "造反的农民"
+    },
+    {
+        "text": "Peasant_Rebels",
+        "translation": "造反的农民"
+    },
+    {
+        "text": "Peasant",
+        "translation": "农民"
+    },
+    {
+        "text": "Peasants",
+        "translation": "农民"
+    },
+    {
+        "text": "Nervous_Man",
+        "translation": "紧张不安的人"
+    },
+    {
+        "text": "Nervous_Men",
+        "translation": "紧张不安的人"
+    },
+    {
+        "text": "Belligerent_Drunk",
+        "translation": "闹事的酒鬼"
+    },
+    {
+        "text": "Belligerent_Drunks",
+        "translation": "闹事的酒鬼"
+    },
+    {
+        "text": "Traveler",
+        "translation": "旅行者"
+    },
+    {
+        "text": "Hired_Assassin",
+        "translation": "职业刺客"
+    },
+    {
+        "text": "Rough-Looking_Character",
+        "translation": "相貌粗野的人"
+    },
+    {
+        "text": "Ordinary_Townsman",
+        "translation": "普通的市民"
+    },
+    {
+        "text": "Ordinary_Townsmen",
+        "translation": "普通的市民"
+    },
+    {
+        "text": "Unremarkable_Townsman",
+        "translation": "不起眼的市民"
+    },
+    {
+        "text": "Unremarkable_Townsmen",
+        "translation": "不起眼的市民"
+    },
+    {
+        "text": "Camp_Armory",
+        "translation": "营帐军械库"
+    },
+    {
+        "text": "Nurse",
+        "translation": "医疗兵"
+    },
+    {
+        "text": "Minister",
+        "translation": "首相"
+    },
+    {
+        "text": "Hirdman",
+        "translation": "赫兹曼"
+    },
+    {
+        "text": "Hirdmen",
+        "translation": "赫兹曼"
+    },
+    {
+        "text": "Geanata",
+        "translation": "吉纳塔"
+    },
+    {
+        "text": "Geanatas",
+        "translation": "吉纳塔"
+    },
+    {
+        "text": "Milwr",
+        "translation": "米勒"
+    },
+    {
+        "text": "Milwyr",
+        "translation": "米勒"
+    },
+    {
+        "text": "Cliarthaire",
+        "translation": "希拉法"
+    },
+    {
+        "text": "Cliarthairi",
+        "translation": "希拉法"
+    },
+    {
+        "text": "Bruide",
+        "translation": "布伦德"
+    },
+    {
+        "text": "Bruides",
+        "translation": "布伦德"
+    },
+    {
+        "text": "Noble_(Hersi)",
+        "translation": "诺尔斯贵族(精.步)"
+    },
+    {
+        "text": "Nobles_(Hersir)",
+        "translation": "诺尔斯贵族(精.步)"
+    },
+    {
+        "text": "Elite_Warrior_(Huskarl)",
+        "translation": "诺尔斯精英战士(精.步)"
+    },
+    {
+        "text": "Elite_Warriors_(Huskarlar)",
+        "translation": "诺尔斯精英战士(精.步)"
+    },
+    {
+        "text": "Noble_(Thegn)",
+        "translation": "盎格鲁贵族(精.步)"
+    },
+    {
+        "text": "Nobles_(Thegns)",
+        "translation": "盎格鲁贵族(精.步)"
+    },
+    {
+        "text": "Bodyguard_(Hearthweru)",
+        "translation": "盎格鲁侍卫(精.游)"
+    },
+    {
+        "text": "Bodyguards_(Hearthwerus)",
+        "translation": "盎格鲁侍卫(精.游)"
+    },
+    {
+        "text": "Noble_(Uchelwr)",
+        "translation": "布立吞贵族(精.步)"
+    },
+    {
+        "text": "Nobles_(Uchelwyr)",
+        "translation": "布立吞贵族(精.步)"
+    },
+    {
+        "text": "Champion_(Campiwr)",
+        "translation": "布立吞剑术大师(精.步)"
+    },
+    {
+        "text": "Champions_(Campgwr)",
+        "translation": "布立吞剑术大师(精.步)"
+    },
+    {
+        "text": "Noble_(Airig)",
+        "translation": "戈伊德尔贵族(精.步)"
+    },
+    {
+        "text": "Nobles_(Arras)",
+        "translation": "戈伊德尔贵族(精.步)"
+    },
+    {
+        "text": "Bodyguard_(Deaisbard)",
+        "translation": "戈伊德尔侍卫(精.步)"
+    },
+    {
+        "text": "Bodyguard_(Deaisbards)",
+        "translation": "戈伊德尔侍卫(精.步)"
+    },
+    {
+        "text": "Noble_(Toisech)",
+        "translation": "皮克特贵族(精.步)"
+    },
+    {
+        "text": "Nobles_(Toisechs)",
+        "translation": "皮克特贵族(精.步)"
+    },
+    {
+        "text": "Champion_(Gaisgidh)",
+        "translation": "皮克特剑术大师(精.步)"
+    },
+    {
+        "text": "Champions_(Gaisgidhs)",
+        "translation": "皮克特大师(精.步)"
+    },
+    {
+        "text": "Bodo_the_Cantabrian",
+        "translation": "坎塔布里亚人博多"
+    },
+    {
+        "text": "Sven_Bull_Neck",
+        "translation": "牛颈斯温"
+    },
+    {
+        "text": "Artorius",
+        "translation": "阿托利斯"
+    },
+    {
+        "text": "Cinead",
+        "translation": "辛列德"
+    },
+    {
+        "text": "Hildr",
+        "translation": "希露德"
+    },
+    {
+        "text": "Camera",
+        "translation": "摄影机"
+    },
+    {
+        "text": "Novice_Warrior",
+        "translation": "初级斗士"
+    },
+    {
+        "text": "Fighters",
+        "translation": "斗士"
+    },
+    {
+        "text": "Regular_Warrior",
+        "translation": "正规斗士"
+    },
+    {
+        "text": "Veteran_Warrior",
+        "translation": "资深斗士"
+    },
+    {
+        "text": "Archers",
+        "translation": "弓箭手"
+    },
+    {
+        "text": "Archery_Trainer",
+        "translation": "弓箭教练"
+    },
+    {
+        "text": "Rider",
+        "translation": "骑手"
+    },
+    {
+        "text": "Horsewealas",
+        "translation": "威尔士轻兵"
+    },
+    {
+        "text": "Riding_Trainer",
+        "translation": "骑术教练"
+    },
+    {
+        "text": "Healer",
+        "translation": "医治者"
+    },
+    {
+        "text": "startup_merchants_end",
+        "translation": "startupmerchantsend"
+    },
+    {
+        "text": "Old_Hero",
+        "translation": "老英雄"
+    },
+    {
+        "text": "Old_Heroes",
+        "translation": "老英雄"
+    },
+    {
+        "text": "Berserkr",
+        "translation": "熊皮狂战士"
+    },
+    {
+        "text": "Berserkir",
+        "translation": "熊皮狂战士"
+    },
+    {
+        "text": "Ulfhedinn",
+        "translation": "狼皮狂战士"
+    },
+    {
+        "text": "Ulfhednar",
+        "translation": "狼皮狂战士"
+    },
+    {
+        "text": "bandit_leaders_end",
+        "translation": "banditleadersend"
+    },
+    {
+        "text": "Asturian_Captain",
+        "translation": "阿斯图里亚斯船长"
+    },
+    {
+        "text": "relative_of_merchants_end",
+        "translation": "relativeofmerchantsend"
+    },
+    {
+        "text": "Priest_Beda",
+        "translation": "贝达牧师"
+    },
+    {
+        "text": "priest",
+        "translation": "牧师"
+    },
+    {
+        "text": "Godi_Olafr",
+        "translation": "戈迪·奥拉夫"
+    },
+    {
+        "text": "Bard_Siwi",
+        "translation": "诗人斯维"
+    },
+    {
+        "text": "bard",
+        "translation": "诗人"
+    },
+    {
+        "text": "Skald_Bragi",
+        "translation": "诗人布拉吉"
+    },
+    {
+        "text": "Suaibsech",
+        "translation": "苏埃塞"
+    },
+    {
+        "text": "Tancoystl",
+        "translation": "坦柯斯提"
+    },
+    {
+        "text": "Gulla",
+        "translation": "古拉"
+    },
+    {
+        "text": "Eadgyd",
+        "translation": "艾德济"
+    },
+    {
+        "text": "Aurelius",
+        "translation": "奥勒留"
+    },
+    {
+        "text": "Morgan",
+        "translation": "摩根"
+    },
+    {
+        "text": "Alexander",
+        "translation": "亚历山大"
+    },
+    {
+        "text": "Ailill",
+        "translation": "阿希尔"
+    },
+    {
+        "text": "Wamba",
+        "translation": "万巴"
+    },
+    {
+        "text": "Cook",
+        "translation": "厨师"
+    },
+    {
+        "text": "Marcus",
+        "translation": "马库斯"
+    },
+    {
+        "text": "Lair_Captains",
+        "translation": "据点主管"
+    },
+    {
+        "text": "The_Frog",
+        "translation": "青蛙"
+    },
+    {
+        "text": "Wolf_Heart",
+        "translation": "狼心"
+    },
+    {
+        "text": "Druid",
+        "translation": "德鲁伊"
+    },
+    {
+        "text": "Old_Roman",
+        "translation": "老罗马人"
+    },
+    {
+        "text": "Captain_Hero",
+        "translation": "英雄队长"
+    },
+    {
+        "text": "Bandit_King",
+        "translation": "强盗王"
+    },
+    {
+        "text": "Bandits_Kings",
+        "translation": "强盗王"
+    },
+    {
+        "text": "Huge_Man",
+        "translation": "巨人"
+    },
+    {
+        "text": "Short_Man",
+        "translation": "小矮人"
+    },
+    {
+        "text": "Comes_Silo_of_Gallaecia",
+        "translation": "来自加雷西亚的西诺"
+    },
+    {
+        "text": "Silo_of_Gallaecia",
+        "translation": "来自加雷西亚的西诺"
+    },
+    {
+        "text": "Dux_Petrus_Didaz",
+        "translation": "杜克斯·柏图斯·迪亚兹"
+    },
+    {
+        "text": "Dux_Petro_of_Oveto",
+        "translation": "来自奥维图的杜克斯·柏图斯"
+    },
+    {
+        "text": "Comes_Gundinsalvo_of_Amaia",
+        "translation": "来自阿迈亚的甘迪索瓦"
+    },
+    {
+        "text": "Old_Sea_Captain",
+        "translation": "老船长"
+    },
+    {
+        "text": "SR_Captains",
+        "translation": "SR船长"
+    },
+    {
+        "text": "Slave_Traders",
+        "translation": "奴隶贩子"
+    },
+    {
+        "text": "Fisher",
+        "translation": "渔夫"
+    },
+    {
+        "text": "Fishers",
+        "translation": "渔夫"
+    },
+    {
+        "text": "Thiaderd",
+        "translation": "泰德"
+    },
+    {
+        "text": "Torturer",
+        "translation": "拷打者"
+    },
+    {
+        "text": "Torturers",
+        "translation": "拷打者"
+    },
+    {
+        "text": "Olvir_White_Hair",
+        "translation": "白发奥利维"
+    },
+    {
+        "text": "Olvir",
+        "translation": "奥利维"
+    },
+    {
+        "text": "Atli_Eiriksson",
+        "translation": "阿提利·埃里克逊"
+    },
+    {
+        "text": "Atli",
+        "translation": "阿提利"
+    },
+    {
+        "text": "Sven",
+        "translation": "斯温"
+    },
+    {
+        "text": "Captain",
+        "translation": "船长"
+    },
+    {
+        "text": "Woden_Ric_Sailor",
+        "translation": "沃登里克号水手"
+    },
+    {
+        "text": "Woden_Ric_Sailors",
+        "translation": "沃登里克号水手"
+    },
+    {
+        "text": "Mercenary_Archer",
+        "translation": "雇佣弓箭手"
+    },
+    {
+        "text": "Mercenary_Archers",
+        "translation": "雇佣弓箭手"
+    },
+    {
+        "text": "Mother",
+        "translation": "母亲"
+    },
+    {
+        "text": "Aged_Mother",
+        "translation": "年迈的母亲"
+    },
+    {
+        "text": "Ulf",
+        "translation": "乌尔夫"
+    },
+    {
+        "text": "Thora",
+        "translation": "索拉"
+    },
+    {
+        "text": "Orm_Svarti",
+        "translation": "奥姆·斯瓦提"
+    },
+    {
+        "text": "Sacerdote",
+        "translation": "萨塞尔多特"
+    },
+    {
+        "text": "Gjalfrmarr",
+        "translation": "pt01"
+    },
+    {
+        "text": "pt",
+        "translation": ""
+    },
+    {
+        "text": "Eydendr",
+        "translation": "pt02"
+    },
+    {
+        "text": "Gunnmas",
+        "translation": "pt03"
+    },
+    {
+        "text": "Sundvargs",
+        "translation": "pt04"
+    },
+    {
+        "text": "Unnswin",
+        "translation": "pt05"
+    },
+    {
+        "text": "Bengrefill",
+        "translation": "pt06"
+    },
+    {
+        "text": "Elgslagar",
+        "translation": "pt07"
+    },
+    {
+        "text": "Arajo",
+        "translation": "pt08"
+    },
+    {
+        "text": "Byrskids",
+        "translation": "pt09"
+    },
+    {
+        "text": "Second_Outfit",
+        "translation": "pseudotroopend"
+    },
+    {
+        "text": "pseudo_troop_end",
+        "translation": "pseudotroopend"
+    },
+    {
+        "text": "The_Snake",
+        "translation": "蛇"
+    },
+    {
+        "text": "Aed_mac_Ainmerech",
+        "translation": "艾德·麦·艾门奇"
+    },
+    {
+        "text": "Olchobar_mac_Cinaeda",
+        "translation": "奥乔巴·麦·辛奈德"
+    },
+    {
+        "text": "Slave",
+        "translation": "奴隶"
+    },
+    {
+        "text": "Slaves",
+        "translation": "奴隶"
+    },
+    {
+        "text": "Morrigan",
+        "translation": "莫莉卡"
+    },
+    {
+        "text": "Dog",
+        "translation": "狗"
+    },
+    {
+        "text": "Dogs",
+        "translation": "狗"
+    },
+    {
+        "text": "Bran_mac_Caliacas",
+        "translation": "布兰·麦·卡利卡斯"
+    },
+    {
+        "text": "Fergus_mac_Cormaic",
+        "translation": "费格斯·麦·科马克"
+    },
+    {
+        "text": "Mael_Bresail's_Mother",
+        "translation": "梅尔·普雷西尔的母亲"
+    },
+    {
+        "text": "Norse_Infantry",
+        "translation": "诺尔斯步兵"
+    },
+    {
+        "text": "Norse_Archer",
+        "translation": "诺尔斯弓箭手"
+    },
+    {
+        "text": "Norse_Cavalry",
+        "translation": "诺尔斯骑兵"
+    },
+    {
+        "text": "Saxon_Infantry",
+        "translation": "撒克逊步兵"
+    },
+    {
+        "text": "Saxon_Archer",
+        "translation": "撒克逊弓箭手"
+    },
+    {
+        "text": "Saxon_Cavalry",
+        "translation": "撒克逊骑兵"
+    },
+    {
+        "text": "Angle_Infantry",
+        "translation": "盎格鲁步兵"
+    },
+    {
+        "text": "Angle_Archer",
+        "translation": "盎格鲁弓箭手"
+    },
+    {
+        "text": "Angle_Cavalry",
+        "translation": "盎格鲁骑兵"
+    },
+    {
+        "text": "Brittonic_Infantry",
+        "translation": "布立吞步兵"
+    },
+    {
+        "text": "Brittonic_Archer",
+        "translation": "布立吞弓箭手"
+    },
+    {
+        "text": "Brittonic_Cavalry",
+        "translation": "布立吞骑兵"
+    },
+    {
+        "text": "Goidelic_Infantry",
+        "translation": "戈伊德尔步兵"
+    }
+]

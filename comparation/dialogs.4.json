@@ -1,0 +1,2502 @@
+[
+  {
+    "text": "That's_right!_Thanks_to_God,_I_am_the_best_commander_in_Europe._My_name_has_been_long_known_and_famous_in_all_of_Englaland,_dog._I_am_a_champion_of_West_Seaxe._I_have_single-handedly_killed_twenty_men_in_the_chaos_of_war,_and_I_have_won_over_twenty_battles_since_I_started_leading_shield_walls.",
+    "old_translation": "没错！感谢上帝，我就是欧罗巴大陆最好的指挥官。我的名字已经广传了整个英格兰岛，小狗。我是西撒克逊的一名冠军斗士，曾经在混战中仅以单手就杀死了二十个敌人，而且自从我开始指挥军队之后，已经取得了超过二十场的胜利。",
+    "translation": "没错！感谢上帝，我是欧罗巴最好的统帅。我的名字早已传遍整个英格兰，小子。我是西撒克逊的冠军，曾在混战中独自斩杀二十人，自领军以来已赢下二十多场仗。"
+  },
+  {
+    "text": "I've_never,_ever,_suffered_a_defeat._You_wish_to_learn_from_me,_right?_Then_be_good_and_listen_to_my_words_carefully_tonight,_or_I_will_send_one_of_my_men_to_cut_your_throat_with_his_seax.",
+    "old_translation": "我这辈子从来都未尝失败的滋味，你希望从我身上学点东西，对吗？那好，今晚仔细听听我的话，否则我就会派人割开你的喉咙。",
+    "translation": "我从未尝过败绩。你想跟我学，对吧？那就乖乖听好我今晚的话，不然我就派人用短刀割开你的喉咙。"
+  },
+  {
+    "text": "Yes,_I'm_interested.",
+    "old_translation": "对，我很感兴趣。",
+    "translation": "是的，我很感兴趣。"
+  },
+  {
+    "text": "I_have_good_men,_my_beadupreat._They_are_ugly,_stupid_and_cowardly,_but_they_obey_orders_well._The_first_thing_you_need_is_men_that_obey_orders_without_thinking_too_much.",
+    "old_translation": "我有一群优秀的手下，我的忠诚伙伴。他们丑陋，愚蠢而且懦弱，但是他们能够彻底地执行命令。你所需的第一件事，就是让手下迅速执行命令而不允许他们考虑太多。",
+    "translation": "我有一帮好手，我的亲兵。他们丑、蠢、胆小，却绝对服从。你首先要的就是不假思索听令的兵。"
+  },
+  {
+    "text": "Then,_you_must_teach_them_to_advance_in_column._When_they_march_this_way,_you_travel_the_countryside_without_losing_anybody._In_battle,_you_must_teach_them_to_form_ranks_(by_pressing_F4_and_F4)_or_squares_(by_pressing_F4_and_F7)._It_is_easy_to_implement_formations_if_you_have_a_handy_stick_to_beat_the_clumsy_animal_who_may_be_unable_to_fit_in_properly.",
+    "old_translation": "然后，你必须教会他们如何列阵前进。当他们如此行进时，就没有人会在野外行军中掉队。在战斗中，你必须教会他们如何列出横阵（先按F4再按F4）以及方阵（先按F4再按F7）。如果你手上有一根驯兽的棒子，将那些蠢得学不会的动物好好调教一番，那么列阵就不是一件困难的事情。",
+    "translation": "接着，你得教他们列纵队行进。这样行军，乡下转一圈也不会掉人。打仗时，教他们排横队（按F4再F4）或方阵（按F4再F7）。有根顺手棍子揍笨货，列阵就简单。"
+  },
+  {
+    "text": "It_is_important_that_you_know_how_to_motivate_your_troops_in_battle._You_can_shout_your_barbaric_war_cry_or_bang_your_shields_(by_pressing_the_key_T_for_your_trait),_which_will_undoubtedly_scare_away_enemies_surrounding_you._You_can_always_order_your_men_to_break_the_current_formation_(by_pressing_F4_and_F8)_so_that_they_can_properly_charge_into_the_enemy's_lines.",
+    "old_translation": "你要懂得如何在战斗中激励士兵，这一点很重要。你可以喊出野蛮的战吼（按键B）来吓跑包围你的敌人；同时，你还能随时命令你的士兵解除阵形（先按F4再按F8），这样就能允许他们在恰当的时机攻入敌阵。",
+    "translation": "你得会战场鼓劲。可吼野蛮战吼或敲盾（按T键），吓退周围敌。也能令兵解散当前阵（按F4再F8），好让他们直冲敌线。"
+  },
+  {
+    "text": "Mm,_I_see._Please_continue.",
+    "old_translation": "嗯，我懂了，请继续。",
+    "translation": "嗯，明白。请继续。"
+  },
+  {
+    "text": "Stop._I_don't_need_to_hear_more._Wes_gesund.",
+    "old_translation": "停下，我不需要这些东西，小狗。再见。",
+    "translation": "够了，我不想再听。保重。"
+  },
+  {
+    "text": "Anyway,_in_my_opinion_ranks_are_crap_better_left_to_the_dirty_Welsh._If_you_really_want_to_win_a_battle,_pay_attention!_You_must_use_Scildweall_(by_pressing_F4_and_F5)_with_your_men._We_learned_this_tactic_from_the_Romans,_and_a_shield_wall_is_a_very_cohesive_tactic_for_our_land._This_formation_is_great,_a_true_battle_winner,_and_you_should_learn_it_well,_dog._Scildweall_will_allow_you_to_win_your_battles,_fighting_shoulder_to_shoulder_with_your_men._You_need_to_train_it_until_you_have_sore_knees_and_hands_calloused_by_the_use_of_the_spear_and_shield._Get_off_your_horse_if_you_have_one,_and_join_your_men,_leading_by_example._When_the_enemy_is_broken_and_is_fleeing,_call_your_horse_if_it_is_still_alive_(by_pressing_the_H_key),_mount_it_and_charge_the_cowards,_killing_as_many_as_you_can_to_instill_fear_in_your_future_enemies._You_can_also_try_to_use_the_Wecg_formation_(by_pressing_F4_and_F6)_which_will_bring_your_men_into_forming_a_wedge_shaped_fighting_body.",
+    "old_translation": "然而，在我看来这些阵形都是狗屁，就留给那些肮脏的威尔士人吧。如果你真想赢得一场战斗，那么就听好了！你必须学会使用盾墙（先按F4再按F5）来进行防御。我们从罗马人学会了这一技巧，而盾墙阵在我们的战场上是极其有效的。这一阵形是伟大的发明，真正的战场之王，你必须掌握运用，才能与士兵们紧密合作并肩作战，无往而不胜。你需要日复一日的练习，直到膝盖和手掌都磨起老茧，才可以领悟到矛与盾的真谛。如果你有一匹马，下马，加入你的队伍，身先士卒。当敌人被击破，逃离，如果你的马还活着，呼叫它（按H键），重新骑马并追杀那些懦夫，将可能多的杀死对手，让你未来可能出现的敌人闻风丧胆。你也可以利用楔形阵（先按F4再按F6），这个阵形使得你的士兵结合成一个楔形的整体来突破敌人。",
+    "translation": "听好，我觉得列阵是屁，留给脏威尔士人。真想赢，就给我用盾墙（按F4再F5）。这招跟罗马人学的，盾墙在我们地盘最管用。这阵形厉害，是真赢家，你得练熟，小子。盾墙让你和兵肩并肩取胜。练到膝盖酸痛、手起茧。有马就下马，带头冲。敌溃逃时，马若还活着就唤它（按H），上马追斩懦夫，杀得越多越好，让以后敌人闻风丧胆。也可试楔形阵（按F4再F6），让兵成楔子突进。"
+  },
+  {
+    "text": "Hear_me._This_formation_is_difficult_to_master,_so_you_should_use_it_only_with_veteran_troops._It_is_designed_to_break_an_enemy's_Scildweall,_but_when_you_use_it,_you_must_know_that_you_are_playing_for_all_or_nothing._It_is_a_risky_bet,_for,_if_you_fail,_your_enemies_will_earn_your_flank_and_kill_your_men_as_if_they_were_nothing_more_than_dry_grass._My_personal_advice_is_to_use_Scildweall_against_Scildweall,_always._No_need_to_take_risks,_I_say._That_is_all,_dog._Learn_soon,_and_quickly,_because_if_one_day_we_are_in_the_battlefield_as_enemies,_I_will_kill_you._Wes_gesund.",
+    "old_translation": "听好了，这种阵形很难掌握，因此你应该只用在资深的士兵身上，它是为了破解敌人的盾墙阵而生的，但是你必须知道，一旦使用这种阵形，就代表着孤注一掷。其中的风险在于，一旦你失手了，敌人就会从侧翼包围，像割草般剿灭你的士兵。我的个人建议是以盾墙对抗盾墙，无一例外，没有必要冒险。你还可以对士兵使用的武器下令（按键F5）或者命令接战（按键F6）。这就是所有的东西了，小狗。好好学习，因为如果我们将在战场上对敌，我会毫不犹豫地干掉你。再见。",
+    "translation": "听好了，这阵难精，只给老兵用。它专破敌盾墙，可一用就孤注一掷。若败，敌包你侧翼，你的兵就像干草被割。我劝你永远用盾墙对盾墙，别冒险。就这些，小子。学快点，若哪天战场对上，我会宰了你。保重。"
+  },
+  {
+    "text": "Thank_you,_Lord._I_have_learned_so_much.",
+    "old_translation": "谢谢你，大人，我想我已经学得够多了。",
+    "translation": "谢谢您，大人，我受益匪浅。"
+  },
+  {
+    "text": "Bah,_someday_I'll_kill_you._Farewell.",
+    "old_translation": "哼，我会在某天手刃你，再见吧。",
+    "translation": "哼，总有一天我会杀了你。再会。"
+  },
+  {
+    "text": "Hah!_Our_little_plot_against_{s3}_worked_perfectly,_{playername}._The_fool_has_lost_one_of_his_most_valuable_retainers,_and_we_are_one_step_closer_to_bringing_him_to_his_knees._Here,_this_purse_contains_{reg5}_peningas,_and_I_wish_you_to_have_it._You_deserve_every_bit._There_could_be_much_more_to_come,_need_I_remind_you,_if_you've_a_mind_to_earn_it...",
+    "old_translation": "哈！我们对付{s3}的小计谋很成功，{playername}。这个笨蛋已经失去了他一个最有价值的封臣，我们离彻底扳倒他只有一步之遥了。来，这个钱包里有{reg5}先令，我希望你拿着它，每一分钱都是你应得的。让我再提醒你一下，如果你有意继续为我效劳，将有更多的好处在等你……",
+    "translation": "哈！咱们对付{s3}的小计成了，{playername}。那蠢货折了最得力的家臣，我们离扳倒他又近一步。给，这袋子里有{reg5}银便士，归你了，你应得的。只要肯干，后面好处还多的是……"
+  },
+  {
+    "text": "You_weren't_able_to_complete_a_simple_task._I_had_set_up_everything._The_only_thing_you_needed_to_do_was_sacrifice_a_messenger,_and_we_would_be_celebrating_now._But_no._You_were_too_damned_honorable,_weren't_you?",
+    "old_translation": "你连一个简单的小任务也完成不了。我已经安排好了所有事情。你所要做的只是提供一个信使，而我们现在本来已经可以庆祝了。但是没有，你太要那该死的面子了，不是吗？",
+    "translation": "连这点小事都办砸。我全安排好了，你只须牺牲个信使，如今我们早该庆祝。可你偏要那该死的名节，是不是？"
+  },
+  {
+    "text": "Have_you_brought_me_any_news_about_that_task_I_gave_you?_You_know_the_one_I_mean...",
+    "old_translation": "你有关于我给你的那个任务的什么消息给我吗？你知道我指的是……",
+    "translation": "我交代的那事，有消息了吗？你懂我指什么……"
+  },
+  {
+    "text": "I_have_the_reports_you_wanted_right_here.",
+    "old_translation": "我这里正有你需要的消息。",
+    "translation": "你要的报告就在这儿。"
+  },
+  {
+    "text": "Ahh,_well_done._It's_good_to_have_competent_{reg59?people:men}_on_my_side._Here_is_the_payment_I_promised_you.",
+    "old_translation": "啊哈，干得好，身边有一个能干的人才总是让人愉快的。来，这是我答应你的报酬。",
+    "translation": "啊，干得漂亮。身边有能干的{reg59?人:汉子}就是舒心。来，这是说好的酬劳。"
+  },
+  {
+    "text": "Brilliant_work,_{playername}!_Whatever_you_did,_the_nobles_of_the_{s13}_are_clamoring_for_war!_Soon,_the_time_will_come_for_us_to_reap_the_benefits_of_our_hard_work,_from_fields_ripe_for_plunder._This_war_is_going_to_make_us_rich,_mark_my_words!",
+    "old_translation": "做的太好了，{playername}！不管你做了什么，{s13}正在嚷嚷着要开战！很快，就要到了从战场上摘取战利品来为我们的辛苦工作收获好处的时候了。这一仗将让我们成为有钱人，记住我的话！",
+    "translation": "干得漂亮，{playername}！不管你使了什么招，{s13}的贵族们正嚷着要开战！很快我们就能从丰饶的战场收割战利品。这一仗会让我们发财，记住我的话！"
+  },
+  {
+    "text": "You_incompetent_buffoon!_What_in_Hell_made_you_think_that_getting_yourself_captured_while_trying_to_start_a_war_was_a_good_idea?_These_plans_took_months_to_prepare,_and_now_everything's_been_ruined!_I_will_not_forget_this,_{playername}._Oh,_be_assured_that_I_will_not.",
+    "old_translation": "你这个废物！你以为你挑起一场战争是多好的点子？这几个月来的准备，全都毁了！我不会忘记的，{playername}，我保证！",
+    "translation": "你这蠢货！挑起战争时竟被活捉，你脑子呢？几个月的布置全毁了！我不会忘的，{playername}，绝不会。"
+  },
+  {
+    "text": "I'm_told_that_you've_collected_the_money_owed_me_from_{s7}._Good,_it's_past_time_I_had_it_back._I_believe_I_promised_to_give_you_one-fifth_of_it_all,_eh?_Well,_that_makes_{reg3}_peningas,_so_if_you_give_me_my_share_--_that's_{reg4}_peningas_--_you_can_keep_the_rest.",
+    "old_translation": "我听说你已经从{s7}收集了足够的税款。干得好，这些钱最后还是我的。我想我答应过你报酬是税款的五分之一吧？嗯，那就是{reg3}先令了，因此只要你把我的那份拿来——就是{reg4}先令——你就完成任务了。",
+    "translation": "听说你把{s7}欠我的钱收回来了。好，早该到账。我答应给你五分之一，对吧？那就是{reg3}银便士，你把我的那份——{reg4}银便士——给我，剩下的归你。"
+  },
+  {
+    "text": "Of_course,_{s65}._{reg4}_peningas,_all_here.",
+    "old_translation": "当然，{s65}。{reg4}先令，都在这了。",
+    "translation": "当然，{s65}。{reg4}银便士，全在这儿。"
+  },
+  {
+    "text": "I_must_admit_I'm_impressed,_{playername}._I_had_lost_hope_of_ever_getting_this_money_back._Please_accept_my_sincere_thanks.",
+    "old_translation": "我亲爱的{playername}。我该怎么感谢你呢？我已经没有指望能收回这笔钱，但是你替我做到了。我非常感动。",
+    "translation": "我得承认我佩服你，{playername}。我早不指望能收回这笔钱，请接受我真诚的谢意。"
+  },
+  {
+    "text": "I_am_afraid_I_don't_have_the_money_with_me,_sir.",
+    "old_translation": "恐怕我还没有那笔钱，先生。",
+    "translation": "抱歉，先生，我身上没带那笔钱。"
+  },
+  {
+    "text": "Is_this_a_joke?_I_know_full_well_that_{s7}_gave_you_the_money,_and_I_want_every_pening_owed_to_me,_{reg59?madam:sir}._As_far_as_I'm_concerned,_I_hold_you_personally_in_my_debt_until_I_see_that_silver.",
+    "old_translation": "这是一个玩笑吗？我很清楚{s7}已经把钱缴给你了，而且我要的是每一个先令，{reg59?女士:先生}。在我看来，这笔钱现在就是你欠我的债了。",
+    "translation": "开什么玩笑？我清楚{s7}已把钱交给你，我要的是每一枚银便士，{reg59?女士:先生}。在我看来，这笔债现在算到你头上。"
+  },
+  {
+    "text": "I_heard_you_got_rid_of_that_poxy_merchant_that_was_causing_me_so_much_grief._I_can_see_you're_not_afraid_to_get_your_hands_dirty,_eh?_I_like_that_in_a_{reg59?woman:man}._Here's_your_reward._Remember,_{playername},_stick_with_me_and_we'll_go_a_long,_long_way_together.",
+    "old_translation": "我听说你已经处理好那个卑劣的商人了，他曾经为我带来那么多烦恼。看来你不怕把自己的手弄脏，对吧？我喜欢这样的{reg59?女人:男人}。这是你的报酬。记住，{playername}，只要我们好好合作，就能前途无量。",
+    "translation": "听说你摆平了那烦人的奸商。看来你不怕弄脏手，对吧？我就欣赏这样的{reg59?女人:男人}。这是你的赏金。记住，{playername}，跟着我，我们前程远大。"
+  },
+  {
+    "text": "Oh,_it's_you._Enlighten_me,_how_exactly_does_one_lose_a_simple_fight_to_some_poxy,_lowborn_merchant?_Truly,_if_I_ever_need_my_guardsmen_to_take_a_lesson_in_how_to_lie_down_and_die,_I'll_be_sure_to_come_to_you._Just_leave_me_be,_{playername},_I_have_things_to_do.",
+    "old_translation": "哦，原来是你。我很想请教你，某人与一个出身卑贱，可怜巴巴的商人进行一场简单的战斗居然输了。事实上，如果我想要我的卫兵给某人教授如何躺下等死，我一定会找你去的。走开，{playername}，我还有很多事情要处理。",
+    "translation": "哦，是你啊。我倒想请教，一个人怎么会输给满身脓疮的下贱商人？哪天我得教卫兵怎么躺平等死，一定先来找你。别烦我，{playername}，我还有事要办。"
+  },
+  {
+    "text": "You!_Do_you_have_sawdust_between_your_ears?_Did_you_think_that_when_I_said_to_kill_the_merchant,_I_meant_you_to_have_a_nice_chat_with_him_and_then_let_him_go?_What_possessed_you?",
+    "old_translation": "你！你的耳朵进了锯木屑了吗？你认为我说要你去杀那个商人的意思是叫你和他闲聊并送他走？！你到底被什么东西迷惑了？",
+    "translation": "你！耳朵里塞满锯末吗？我说“宰了那商人”，你以为我让你跟他闲聊再放人？你疯了不成？"
+  },
+  {
+    "text": "Sir,_I_made_sure_he_will_not_act_against_you.",
+    "old_translation": "大人，我可以向你保证，他不会做出对抗你的行为的。",
+    "translation": "大人，我已确保他不会再与您作对。"
+  },
+  {
+    "text": "Piffle._You_were_supposed_to_remove_him,_not_give_him_a_sermon_and_send_him_on_his_way._He_had_better_do_as_you_say,_or_you'll_both_regret_it._Here,_this_is_half_the_money_I_promised_you._Don't_say_a_word,_{playername}._You're_lucky_to_get_even_that._I_have_little_use_for_{reg59?people:men}_who_cannot_follow_orders.",
+    "old_translation": "愚蠢。你应该要除掉他，而不是说一通道理然后放走他。他最好如你承诺地那么做，否则你会后悔的。拿着，这是我答应你的酬劳的一半。不要废话，{playername}，拿到这笔钱已经是你的运气了。像你这样不会服从命令的人，对我实在毫无价值。",
+    "translation": "胡扯。我要你除掉他，不是布道后放人。他最好照你说的做，否则你们一起后悔。拿着，这是答应的一半酬劳。别废话，{playername}，能拿到算你走运。我对不听命令的{reg59?人:家伙}没兴趣。"
+  },
+  {
+    "text": "Beautiful_work,_{playername}!_You_captured_both_the_spy_and_his_handler,_just_as_I'd_hoped,_and_the_two_are_now_safely_ensconced_in_my_dungeon,_waiting_to_be_questioned._My_torturer_shall_be_busy_tonight!_Anyway,_I'm_very_pleased_with_your_success,_{playername},_and_I_give_you_this_purse_as_a_token_of_my_appreciation.",
+    "old_translation": "干得漂亮，{playername}！你抓住了那个间谍和他的同伙，非常符合我的期望。他们现在被安全地关押在我的地牢里，随时听候审查。我手下的拷问者今天晚上会很忙的！不管怎样，我对你的成功感到非常满意，{playername}，我将给你一些奖金作为奖励。",
+    "translation": "干得漂亮，{playername}！你按我所愿逮住间谍及其上线，两人现正安坐在我的地牢里候审，今晚我的刑讯官可有的忙了！总之，我对你的战果非常满意，{playername}，这袋钱聊表谢意。"
+  },
+  {
+    "text": "Blast_and_damn_you!_I_wanted_TWO_prisoners,_{playername}_--_what_you've_brought_me_is_one_step_short_of_useless!_I_already_know_everything_the_spy_knows._It_was_the_handler_I_was_after._Here,_half_a_job_gets_you_half_a_reward._Take_it_and_begone.",
+    "old_translation": "该死的家伙！我要的是两个俘虏，你带给我的几乎毫无价值！那个间谍知道的，我早就已经知道了，我真正在意的是他的那个同伙。给你，完成一半的任务得一半的奖励。拿着这些钱马上滚。",
+    "translation": "该死！我要的是两名俘虏，{playername}，你带回来的几乎一文不值！间谍知道的我早清楚，我要的是那上线。听着，半件事拿半份赏。拿了滚。"
+  },
+  {
+    "text": "I_asked_you_for_two_prisoners,_{playername},_not_one._Two._Still,_I_suppose_you_did_capture_the_spy's_handler,_the_more_important_one_of_the_pair._The_spy_will_not_dare_return_here_and_will_prove_quite_useless_to_whatever_master_he_served._'Tis_better_than_nothing._However,_you'll_understand_if_I_pay_you_half_the_promised_reward_for_what_is_but_half_a_success.",
+    "old_translation": "我要你抓的是两个俘虏，{playername}，不是一个，是两个。我一直指望你能抓到那个间谍的同伙，那个人更加重要。这个间谍不敢再来了，而且他对于他服务的主人来说也没有什么价值了。抓到一个总比一个没有抓到强。你现在明白了我为什么只付给你我承诺的奖金的一半，就是因为你只成功完成一半的任务。",
+    "translation": "我要的是两个俘虏，{playername}，不是一个。不过你至少抓到了更重要的上线，间谍不敢再露面，对他主子也成废物。比空手强。可只能算半成，酬劳也只给一半。"
+  },
+  {
+    "text": "Truly,_{playername},_you_are_nothing_short_of_totally_incompetent._Failing_to_capture_both_the_spy_AND_his_handler_plumbs_astonishing_new_depths_of_failure._Forget_any_reward_I_offered_you._You've_done_nothing_to_earn_it.",
+    "old_translation": "事实上，{playername}，你完全就是一个废物。那个间谍和他的同伙，你一个都没有抓到。忘掉我开出的奖励吧。你什么事都没有干成。",
+    "translation": "{playername}，你简直无能到惊人。间谍和上线一个都没抓到，失败到家。赏钱别想了，你啥都没做成。"
+  },
+  {
+    "text": "I_did_my_best,_{s65}.",
+    "old_translation": "我尽力了，{s65}。",
+    "translation": "我已尽力，{s65}。"
+  },
+  {
+    "text": "Thank_you,_{s65}.",
+    "old_translation": "谢谢，{s65}。",
+    "translation": "多谢，{s65}。"
+  },
+  {
+    "text": "Hrm._As_you_like,_{s65}.",
+    "old_translation": "唉，你想怎样就怎样吧，{s65}。",
+    "translation": "嗯，随你，{s65}。"
+  },
+  {
+    "text": "Splendid_work,_{playername}._All_the_serfs_are_back,_properly_cowed,_and_they're_busy_preparing_for_the_harvest._You_certainly_earned_your_reward._Here,_take_it,_with_my_compliments.",
+    "old_translation": "干得不错，{playername}。所有的农奴都回来了，并准备忙着收割。你干的非常好，{playername}。拿去，这是你的报酬，祝贺你。",
+    "translation": "好极了，{playername}。农奴全数归来，个个服服帖帖，正忙着准备收割。你当之无愧。拿着，这是赏钱，聊表敬意。"
+  },
+  {
+    "text": "{playername}._I_have_been_waiting_patiently_for_my_serfs,_yet_none_has_returned._Have_you_an_explanation?_Were_you_outwitted_by_simple_field_hands,_or_are_you_merely_incompetent?_Or_perhaps_you_are_plotting_with_my_enemies,_intending_to_ruin_me...",
+    "old_translation": "{playername}。我一直都在耐心地等我的农奴回来，但是现在一个都没有回来。你想解释一下吗？你被那些大老粗给骗了？还是你太弱智了？或者你根本就是和我的敌人串通好了的，想让我破产？",
+    "translation": "{playername}，我耐心等农奴回来，却一个不见。你作何解释？被几个庄稼汉耍了，还是根本无能？抑或你串通我的敌人想毁了我……"
+  },
+  {
+    "text": "Forgive_me,_{s65}._Those_serfs_were_as_slippery_as_eels.",
+    "old_translation": "原谅我吧，{s65}。那些农奴像鳗鱼一样狡猾。",
+    "translation": "恕我无能，{s65}。那些农奴滑得像鳗鱼。"
+  },
+  {
+    "text": "Perhaps_if_you_had_treated_them_better...",
+    "old_translation": "也许你应该对他们好一点……",
+    "translation": "也许您早该对他们好点……"
+  },
+  {
+    "text": "Humph._That_is_hardly_an_excuse_for_failure,_{playername}._Now_if_you_will_excuse_me,_I_need_to_recruit_new_men_to_work_these_fields_before_we_all_starve.",
+    "old_translation": "嗯，几乎没有理由会失败，{playername}。现在你解释一下吧，我还得雇佣新人去耕地，不然我们都要挨饿了。",
+    "translation": "哼，失败就是失败，{playername}。失陪，我得赶紧雇人耕地，免得大家一起挨饿。"
+  },
+  {
+    "text": "Hah,_now_you_reveal_your_true_colours,_traitor!_Your_words_match_your_actions_all_too_well._I_should_never_have_trusted_you.",
+    "old_translation": "啊哈，你现在显露你的原形了，叛国贼！你的言行如此一致。我最初就不应该相信你的！",
+    "translation": "哈，现原形了，叛徒！言行一致得可真好。我当初就不该信你。"
+  },
+  {
+    "text": "You_disappoint_me,_{playername}._There_were_three_groups_of_serfs_that_I_charged_you_to_return._Three,_not_{reg17}._I_suppose_the_ones_who_did_come_back_shall_have_to_work_twice_as_hard_to_make_up_for_those_that_got_away._As_for_your_reward,_{playername},_I'll_only_pay_you_for_the_serfs_you_returned,_not_the_ones_you_let_fly._Here._Take_it,_and_let_this_business_be_done.",
+    "old_translation": "你让我失望了，{playername}。我要你去追回的是3伙农奴，是3伙，不是{reg17}伙。我猜回来的农奴将要因为跑掉的农奴而做双倍的工作。而你的报酬方面，我将只付给你追回的那部分农奴而应该得到的报酬，当然不包括放跑的农奴。给你，拿去吧，我们的这个交易算完结了。",
+    "translation": "你让我失望，{playername}。我让你追回三伙农奴，是{reg17}伙吗？逃掉的活只能让回来的加倍干。至于赏钱，我只按你带回的人数付。拿着，这事到此为止。"
+  },
+  {
+    "text": "Thank_you,_{s65}._You_are_indeed_generous.",
+    "old_translation": "谢谢你，{s65}。你真是宽宏大量。",
+    "translation": "谢谢您，{s65}。您真是慷慨。"
+  },
+  {
+    "text": "Bah,_this_proved_to_be_a_waste_of_my_time.",
+    "old_translation": "呸，听你解释是浪费我的时间。",
+    "translation": "呸，听你解释纯属浪费时间。"
+  },
+  {
+    "text": "{playername},_I_was_told_that_you_crushed_the_bandits_at_my_village_of_{s5}._Please_know_that_I_am_most_grateful_to_you_for_that._Please,_let_me_pay_the_expenses_of_your_campaign._Here,_I_hope_these_{reg14}_peningas_will_be_adequate.",
+    "old_translation": "{playername}，我听说你在我的村子{s5}赶跑了强盗。请允许我向你表达最高的敬意，而且接受我给你的酬劳。拿着，我希望{reg14}先令就足够了。",
+    "translation": "{playername}，听说你在我的{s5}村击溃了强盗。我深表感激，请让我承担你的军费。拿着，希望这{reg14}银便士足够。"
+  },
+  {
+    "text": "Not_a_problem,_{s65}.",
+    "old_translation": "这不算什么，{s65}。",
+    "translation": "小事一桩，{s65}。"
+  },
+  {
+    "text": "Glad_to_be_of_service.",
+    "old_translation": "为你服务我感到很荣幸。",
+    "translation": "乐意效劳。"
+  },
+  {
+    "text": "It_was_mere_child's_play.",
+    "old_translation": "真的是小意思。",
+    "translation": "不过举手之劳。"
+  },
+  {
+    "text": "Damn_it,_{playername}._I_heard_that_you_were_unable_to_drive_off_the_bandits_from_my_village_of_{s5}._Thanks_to_you,_my_village_now_lies_in_ruins._Everyone_said_that_you_were_a_capable_warrior,_but_apparently,_they_were_wrong.",
+    "old_translation": "该死的，{playername}。我听说你没能驱散在我{s5}村掠夺的强盗。看你干的好事，我的村子现在成为一片废墟了。人们都说你是一个可靠的战士，但显然他们错了。",
+    "translation": "该死的，{playername}。听说你没能赶走我{s5}村的强盗。拜你所赐，村子已成废墟。人人都说你是好战士，看来他们看走眼了。"
+  },
+  {
+    "text": "Ah,_{playername}._You_bring_{reg13}_head_of_cattle,_as_I_requested._Thanks_to_you,_we_will_soon_be_ready_to_move_on_the_Saxons.",
+    "old_translation": "啊哈，{playername}，你如约带来了{reg13}头牛。谢谢你，我们会很快向撒克逊人进军的。",
+    "translation": "啊，{playername}，你如约带来了{reg13}头牛。多亏你，我们很快就能向撒克逊人进军。"
+  },
+  {
+    "text": "Ah,_{playername}._You_bring_{reg13}_head_of_cattle,_as_I_requested._Thanks_to_you,_this_will_help_us_keep_fed_a_greater_number_of_men.",
+    "old_translation": "啊哈，{playername}，你如约带来了{reg13}头牛。谢谢你，这能够让我们养活更多人口。",
+    "translation": "啊，{playername}，你如约带来了{reg13}头牛。谢谢你，这能让我们养活更多士兵。"
+  },
+  {
+    "text": "Ah,_{playername}._My_quartermaster_has_informed_me_of_your_delivery,_{reg13}_head_of_cattle,_as_I_requested._I'm_impressed.",
+    "old_translation": "啊，{playername}。我的军需官告知我关于你赶牛的情况，{reg13}头牛，和我要求的数量一样多。你给了我很深的印象。",
+    "translation": "啊，{playername}。我的军需官已告诉我你送来了{reg13}头牛，与我要求的数目一致。我很满意。"
+  },
+  {
+    "text": "Mere_child's_play.",
+    "old_translation": "小意思。",
+    "translation": "只是小意思。"
+  },
+  {
+    "text": "You_make_a_good_scout,_{playername}._My_runner_just_brought_me_your_reports_of_the_mission_to_{s13},_{s14}_and_{s15}._Well_done.",
+    "old_translation": "你的侦察工作做得不错，{playername}。我的人刚才把你侦察{s13}，{s14}和{s15}的情报交给我了，你干的很漂亮。",
+    "translation": "你干得不错，{playername}。我的传令兵刚把你对{s13}、{s14}和{s15}的侦察报告交给我，干得漂亮。"
+  },
+  {
+    "text": "A_simple_task,_{s65}.",
+    "old_translation": "这只是个简单的任务，{s65}。",
+    "translation": "简单任务，{s65}。"
+  },
+  {
+    "text": "Nothing_I_couldn't_handle.",
+    "old_translation": "没有我做不到的。",
+    "translation": "没有我应付不了的。"
+  },
+  {
+    "text": "My_pleasure,_{s65}.",
+    "old_translation": "我很乐意，{s65}。",
+    "translation": "乐意效劳，{s65}。"
+  },
+  {
+    "text": "The_army's_supplies_are_dwindling_too_quickly,_{playername}._I_need_you_to_bring_me_{reg3}_head_of_cattle_so_I_can_keep_the_troops_fed._I_care_very_little_about_where_you_get_them._Just_bring_them_to_me_as_soon_as_you_can.",
+    "old_translation": "部队的补给品消耗太快了，{playername}。我需要你给我弄来{reg3}头牛以便我能保证部队的口粮。我不关心你如何弄到，只要尽快帮我就行。",
+    "translation": "军粮消耗太快，{playername}。我需要你给我弄来{reg3}头牛，好让士兵吃饱。我不在乎你怎么搞到，越快越好。"
+  },
+  {
+    "text": "Very_well,_I_can_find_you_some_cattle.",
+    "old_translation": "很好，我可以帮你找到一些牛。",
+    "translation": "好，我去给你找些牛。"
+  },
+  {
+    "text": "Sorry,_sir,_I_have_other_plans.",
+    "old_translation": "对不起，先生，我有其它的计划。",
+    "translation": "抱歉，先生，我另有安排。"
+  },
+  {
+    "text": "Excellent!_You_know_what_to_do,_{playername},_now_get_to_it._I_need_that_cattle_sooner_rather_than_later.",
+    "old_translation": "非常好！你知道该怎么做，{playername}，现在就去做吧。越快越好。",
+    "translation": "很好！你知道该怎么做，{playername}，立刻动身。我要的是尽快，而不是以后。"
+  },
+  {
+    "text": "That..._is_unfortunate,_{playername}._I_shall_have_to_find_someone_else_who's_up_to_the_task._Please_go_now._I've_work_to_do.",
+    "old_translation": "很，很不幸……{playername}。我得另外找人去干这个任务。现在你走吧，我还有事要做。",
+    "translation": "那……真遗憾，{playername}。我得另找能胜任的人。请离开吧，我还有事要办。"
+  },
+  {
+    "text": "Thank_you_for_answering_the_summons,_{playername}._However,_as_we_are_now_at_peace,_we_do_not_need_your_services._You_may_attend_to_your_other_business.",
+    "old_translation": "感谢你响应我们的召唤，{playername}。然而，由于我们现在处于和平年代，我们不需要你的效劳，去忙你的事情吧。",
+    "translation": "感谢你应召而来，{playername}。然而如今我们处于和平，暂不需要你的效力。去忙你的事吧。"
+  },
+  {
+    "text": "Ah,_you_have_arrived_at_last,_{playername}._We've_been_expecting_you._I_hope_you_have_brought_with_you_troops_of_sufficient_number_and_experience.",
+    "old_translation": "啊，你终于来了，{playername}。我们一直期盼着你的到来。我希望你带来了足够数量且经验丰富的士兵。",
+    "translation": "啊，你终于来了，{playername}。我们一直在等你。希望你带来了足够且经验丰富的士兵。"
+  },
+  {
+    "text": "I_have_a_company_of_good,_hardened_soldiers_with_me._We_are_ready_to_join_you.",
+    "old_translation": "我带有一群优良且坚强的士兵。我们准备加入你。",
+    "translation": "我手下有一队身经百战的精兵。我们准备加入你。"
+  },
+  {
+    "text": "I_don't_have_the_sufficient_number_of_troops_yet._I_will_need_some_more_time.",
+    "old_translation": "我现在还没有足够的士兵，我需要多一些的时间。",
+    "translation": "我兵力尚不足，还需要些时间。"
+  },
+  {
+    "text": "Excellent._We'll_be_moving_soon._Now_--_you_are_a_{reg59?warrior:man}_of_sound_judgment,_and_we_trust_that_you_will_do_what_is_necessary_to_support_our_campaign._I_do_not_require_you_to_remain_close_at_hand,_and_I_will_not_count_it_against_you_if_you_believe_that_your_forces_would_be_of_better_use_elsewhere._But_if_you_do_choose_to_remain_with_me,_to_support_me_in_battle,_that_would_be_appreciated._I_may_also_have_additional_tasks_for_you_to_perform.",
+    "old_translation": "干得漂亮，我们马上就出发了。现在——你是一个以公正闻名的{reg59?战士:男人}，我们都相信你会竭尽所能服务于这场战役。我不要求你必须待在我的身边，而且如果你认为在其它地方更能发挥作用，我也不会介意。但如果你选择陪伴我并在战斗中支援我，我会对此非常感激，也许还有一些额外的任务等待你去完成。",
+    "translation": "很好。我们即将开拔。——你是位判断明睿的{reg59?战士:男人}，我们相信你会全力支援此役。我不强求你寸步不离，若你认为部队另有更佳去处，我也不会见怪。但若你选择随我左右，在战场上支援，我将感激不尽。也许还有额外任务交给你。"
+  },
+  {
+    "text": "Then_you'd_better_hurry._We'll_be_moving_out_soon_against_the_enemy_and_I_need_every_able_hand_we_can_muster.",
+    "old_translation": "那你最好快点。我们马上就要动身与敌人作战了，我们需要召集一切可以利用的人手。",
+    "translation": "那你最好抓紧。我们很快就要出征，我需要所有可用之人。"
+  },
+  {
+    "text": "{playername},_I_need_a_volunteer_to_scout_the_area._We're_sorely_lacking_on_information,_and_I_simply_must_have_a_better_picture_of_the_situation_before_we_can_proceed._I_want_you_to_go_to_{s13},_{s14}_and_{s15}_and_report_back_whatever_you_find.",
+    "old_translation": "{playername}，我需要一个志愿者去侦察一些地区。我们对一些地区的信息非常匮乏，我们进军之前需要一张比较清楚的关于这些地区的图。我想要你去侦察{s13}，{s14}和{s15}，当你有所收获之后回来报告给我。",
+    "translation": "{playername}，我需要一个志愿者去侦察。我们情报匮乏，进军前必须摸清情况。我要你去{s13}、{s14}和{s15}，把所见所闻回报给我。"
+  },
+  {
+    "text": "You've_found_your_volunteer,_sir.",
+    "old_translation": "你找到你要的志愿者了，大人。",
+    "translation": "你找到志愿者了，大人。"
+  },
+  {
+    "text": "I_fear_I_must_decline.",
+    "old_translation": "我恐怕我得拒绝了。",
+    "translation": "恐怕我得拒绝。"
+  },
+  {
+    "text": "Good_{reg59?lass:man}!_Simply_pass_near_{s13},_{s14}_and_{s15}_and_check_out_what's_there._Make_a_note_of_anything_you_find_and_return_to_me_as_soon_as_possible.",
+    "old_translation": "好{reg59?女孩:家伙}！简单地巡察一下{s13}，{s14}和{s15}，将情况记录下来，尽快回来向我汇报。",
+    "translation": "好{reg59?姑娘:小子}！只需靠近{s13}、{s14}和{s15}，看清情况并记下，然后尽快回来报告。"
+  },
+  {
+    "text": "Hm._I'm_disappointed,_{playername}._Very_disappointed._We'll_talk_later,_I_need_to_go_and_find_somebody_to_scout_for_us.",
+    "old_translation": "啊，我很失望，{playername}，非常地失望。我们一会再谈，我现在得马上另外派人去侦察。",
+    "translation": "哼，我很失望，{playername}，非常失望。稍后我们再谈，我得立刻另找人去侦察。"
+  },
+  {
+    "text": "You_have_been_most_helpful,_{playername}._My_thanks.",
+    "old_translation": "你给我了很大的帮助，{playername}。谢谢你。",
+    "translation": "你帮了大忙，{playername}。多谢。"
+  },
+  {
+    "text": "It_was_an_honour_to_serve.",
+    "old_translation": "为你服务，我感到很光荣，大人。",
+    "translation": "能为您效力是我的荣幸。"
+  },
+  {
+    "text": "I_think_you_owe_me_{reg1}_peningas,_{playername}._Do_you_intend_to_pay_your_debt_anytime_soon?",
+    "old_translation": "我认为你还欠我{reg1}先令，{playername}。你能尽快还清债务吗？",
+    "translation": "我想你还欠我{reg1}银便士，{playername}。你打算什么时候还？"
+  },
+  {
+    "text": "That_is_why_I_came,_{s65}._Here_is_every_pening_I_owe_you.",
+    "old_translation": "这就是我前来的原因，{s65}。拿着，我把债还清了。",
+    "translation": "所以我来了，{s65}。这是我欠你的每一枚银便士。"
+  },
+  {
+    "text": "Alas,_I_don't_have_sufficient_funds,_{s65},_but_I'll_pay_you_soon_enough.",
+    "old_translation": "哎呀，我没有足够的现钱，{s65}。但是我会尽快还给你的。",
+    "translation": "唉，我手头不够，{s65}，但我会尽快还你。"
+  },
+  {
+    "text": "Ah,_excellent._You_are_a_{reg59?woman:man}_of_honour,_{playername}._I_am_satisfied._Your_debt_to_me_has_been_paid_in_full.",
+    "old_translation": "啊哈，干得好。你是一个守信的{reg59?女人:男人}，{playername}。我很满意，我们之间就一笔勾销了。",
+    "translation": "啊，太好了。你是个守信的{reg59?女人:男人}，{playername}。我很满意，你欠我的债已经一笔勾销。"
+  },
+  {
+    "text": "Well,_don't_keep_me_waiting_much_longer.",
+    "old_translation": "可以，但你可别让我等的太久了。",
+    "translation": "行，可别让我等太久。"
+  },
+  {
+    "text": "By_the_way,_I_hope_you_get_a_chance_to_meet_my_{s11},_{s14}.",
+    "old_translation": "顺便说一下，我希望你找个机会去见一下我的{s11}，{s14}。",
+    "translation": "顺便说一句，希望你找机会见见我的{s11}，{s14}。"
+  },
+  {
+    "text": "By_the_way,_I_am_sure_that_my_{s11},_{s14},_would_be_delighted_were_you_to_pay_her_a_visit._She_awaits_you_in_her_chambers.",
+    "old_translation": "顺便说一下，我相信如果你去拜访我的{s11}，{s14}，她会很高兴的。她在寝室等你。",
+    "translation": "顺便说一句，我相信若你去拜访我的{s11}，{s14}，她会很高兴。她正在闺房等你。"
+  },
+  {
+    "text": "I_heard_that_you_have_captured_our_enemy_{s3}_and_he_is_with_you_at_the_moment._I_can_pay_you_{reg6}_peningas_if_you_want_to_get_rid_of_him._You_can_wait_for_his_family_to_pay_his_ransom_of_course,_but_there_is_no_telling_how_long_that_will_take,_eh?_",
+    "old_translation": "我听说你俘虏了我们的敌人{s3}，而他目前就在你手上。如果你想把他脱手，我会付给你{reg6}先令。你当然也可以等待他的家属将他赎回，但谁知道要等多久呢，嗯？",
+    "translation": "我听说你俘虏了我们的敌人{s3}，他现在就在你手里。如果你想脱手，我可以付你{reg6}银便士。当然，你也可以等他家人来赎，但谁知道要等多久呢，嗯？"
+  },
+  {
+    "text": "I_accept_your_offer._I'll_leave_{s3}_to_you_for_{reg6}_peningas.",
+    "old_translation": "我接受你的建议。我会收取你{reg6}先令，并把{s3}交给你。",
+    "translation": "我接受你的提议。给我{reg6}银便士，我就把{s3}交给你。"
+  },
+  {
+    "text": "I_fear_I_can't_accept_your_offer.",
+    "old_translation": "我恐怕不能接受你的提议。",
+    "translation": "恐怕我不能接受你的提议。"
+  },
+  {
+    "text": "Excellent!_Here's_your_{reg6}_peningas._I'll_send_some_men_to_take_him_to_our_prison_with_due_haste.",
+    "old_translation": "干得好！这是你的{reg6}先令。我会尽快派人把他接走的。",
+    "translation": "好极了！这是你的{reg6}银便士。我会立刻派人把他押进我们的牢房。"
+  },
+  {
+    "text": "Mmm._As_you_wish,_{playername},_but_you'll_not_get_a_better_offer._Take_it_from_me.",
+    "old_translation": "嗯。随你了，{playername}，但是你将很难再从我这里接到一个这么好的任务。",
+    "translation": "嗯。随你便，{playername}，可你再也得不到更好的价了。相信我。"
+  },
+  {
+    "text": "I_lift_a_{s5}_to_your_health,_{playername}!_You_are_most_gracious_to_host_us_on_this_occasion._Now,_what_is_it?",
+    "old_translation": "我举起{s5}为你祝寿，{playername}！你招待的真不错。那么，有什么事吗？",
+    "translation": "我举起{s5}为你健康干杯，{playername}！承蒙盛情款待，现在有何贵干？"
+  },
+  {
+    "text": "To_your_health,_{reg59?your_Highness:sire}._Long_may_you_reign._What_is_your_bidding?",
+    "old_translation": "为您的健康举杯，{reg59?殿下:先生}！愿您长治久安。你最近有什么打算？",
+    "translation": "为您的健康举杯，{reg59?殿下:阁下}！愿您长治久安。有何吩咐？"
+  },
+  {
+    "text": "What_is_your_bidding?",
+    "old_translation": "什么吩咐？",
+    "translation": "有何吩咐？"
+  },
+  {
+    "text": "I_wish_to_welcome_you_to_my_hall_on_this_auspicious_occasion._Now,_what_is_it?",
+    "old_translation": "我希望能在这个吉祥的时刻欢迎你来到我的大厅。现在有什么事吗？",
+    "translation": "值此吉时，我欢迎你来我的大厅。现在有何贵干？"
+  },
+  {
+    "text": "Let_us_lift_a_{s5}_to_the_health_of_our_host,_{s4}._Now,_what_is_it?",
+    "old_translation": "让我们为了我们主人，{s4}的健康举起{s5}。那么，有什么事吗？",
+    "translation": "让我们为主人{s4}的健康举起{s5}。那么，有何贵干？"
+  },
+  {
+    "text": "I_received_the_gift,_presented_to_me_through_my_{s11},_{s10}._It_was_a_noble_gesture,_{reg59?my_lady:sir},_and_I_regret_that_we_ever_quarreled.",
+    "old_translation": "我收下这份礼物，通过{s11}送给我，{s10}。这是一种尊贵的举动，{reg59?我的女士:先生}，我很后悔我们曾经争吵。",
+    "translation": "我收到了礼物，由我的{s11}，{s10}转交。{reg59?我的女士:先生}，这是高贵的举动，我后悔我们曾起争执。"
+  },
+  {
+    "text": "I_received_the_gift,_presented_to_me_through_my_{s11},_{s10}._For_{reg4?her:his}_sake,_I_am_willing_to_let_bygones_be_bygones.",
+    "old_translation": "我收下这份礼物，通过{s11}送给我，{s10}。由于{reg4?她的:他的}缘故，过去的事情就随他去吧。",
+    "translation": "我收到了礼物，由我的{s11}，{s10}转交。为了{reg4?她的:他的}缘故，我愿意既往不咎。"
+  },
+  {
+    "text": "I_received_the_gift,_presented_to_me_through_my_{s11},_{s10}._Bah!_Do_you_think_you_can_buy_my_friendship?",
+    "old_translation": "我收下这份礼物，通过{s11}送给我，{s10}。哈！你以为我的友谊是可以买到的吗？",
+    "translation": "我收到了礼物，由我的{s11}，{s10}转交。哈！你以为友谊能买得到？"
+  },
+  {
+    "text": "I_received_the_gift,_presented_to_me_through_my_{s11},_{s10}._As_dear_as_{reg4?she:he}_is_to_me,_however,_I_cannot_forget_our_differences.",
+    "old_translation": "我收下这份礼物，通过{s11}送给我，{s10}。{reg4?她:他}对我那么的亲切，然而，我不能忘记我们的分歧。",
+    "translation": "我收到了礼物，由我的{s11}，{s10}转交。{reg4?她:他}虽亲，我却无法忘记我们的分歧。"
+  },
+  {
+    "text": "What_is_it?",
+    "old_translation": "什么事？",
+    "translation": "什么事？"
+  },
+  {
+    "text": "But_enough_talking._Yield_or_fight!",
+    "old_translation": "我们谈的够多了，投降，或者一战！",
+    "translation": "废话少说。投降还是一战！"
+  },
+  {
+    "text": "I_heard_that_your_feasts_are_wonderful!",
+    "old_translation": "我听说你的宴会非常盛大！",
+    "translation": "我听说你的宴会棒极了！"
+  },
+  {
+    "text": "We_need_to_talk_about_the_jarl_of_Kennemer.",
+    "old_translation": "我们需要谈谈肯尼莫的雅尔。",
+    "translation": "我们得谈谈肯尼默的雅尔。"
+  },
+  {
+    "text": "I_wish_to_talk_about_the_jarl_of_Kennemer.",
+    "old_translation": "我想谈谈肯尼莫的雅尔。",
+    "translation": "我想谈谈肯尼默的雅尔。"
+  },
+  {
+    "text": "Thank_you,_King_Horik._I_brought_with_me_Brunhild_and_Bodo._They_are_trustworthy.",
+    "old_translation": "谢谢您，霍里克国王。我带着伯伦希尔和博多，他们都是信得过的人。",
+    "translation": "谢谢您，霍里克国王。我把布伦希尔德和博多带来了，他们都可靠。"
+  },
+  {
+    "text": "Let_me_tell_you_my_story...",
+    "old_translation": "让我说说我自己的故事…",
+    "translation": "让我讲讲我的经历……"
+  },
+  {
+    "text": "Yes,_yes,_nice_to_meet_them._Now,_to_the_point._My_time_is_limited.",
+    "old_translation": "行，行，很高兴认识他们。现在告诉我重点，我的时间有限。",
+    "translation": "好，好，很高兴认识他们。说重点，我的时间不多。"
+  },
+  {
+    "text": "Recently,_the_boat_I_was_traveling_on_was_attacked_by_Vikings_of_Sven_Bull_Neck,_a_man_of_Sigurd_'Snake_in_the_Eye.'",
+    "old_translation": "最近，我搭乘的船被牛颈斯温率领的维京海盗袭击，他是“蛇眼”西格德的手下。",
+    "translation": "最近，我乘的船遭到“牛颈”斯温的维京人袭击，他是“蛇眼”西格德的手下。"
+  },
+  {
+    "text": "{s2}^^That_is_nothing_special._Many_jarls_in_Danmark_have_people_who_make_themselves_Vikings._Even_the_jarls_and_I_were_Vikings_once._I_hope_you're_not_wasting_my_time..._Choose_your_words_carefully,_or_this_conversation_is_over.",
+    "old_translation": "{s2}^^没什么特别的，许多丹麦领主的手下都是维京海盗，即使是我自己的领主也曾经当过。我希望你不要浪费我的时间…慎重地选择你的言辞，否则这场谈话就结束了。",
+    "translation": "{s2}^^这没什么稀奇。丹麦许多雅尔手下都有人干维京营生，连我和雅尔们也曾是维京人。别浪费我时间……说话小心点，否则谈话立刻结束。"
+  },
+  {
+    "text": "Sven_Bull_Neck_has_captured_my_mother,_and_he_has_brought_her_to_Sigurd.",
+    "old_translation": "牛颈斯温抓走了我的母亲，并带给了西格德。",
+    "translation": "“牛颈”斯温抓了我母亲，把她交给了西格德。"
+  },
+  {
+    "text": "Sigurd_tried_to_make_the_jarl_of_Kennemer_king_of_Friese_in_exchange_for_an_army.",
+    "old_translation": "西格德正在召集大批人马，他图谋将肯尼莫的雅尔扶植为弗里斯的国王，然后换取一支军队。",
+    "translation": "西格德想用军队做交换，让肯尼默的雅尔当上弗里斯国王。"
+  },
+  {
+    "text": "My_companion_Bodo_had_something_important_from_the_king_of_Asturias_that_Sigurd_wanted.",
+    "old_translation": "我的同伴博多是阿斯图里亚斯国王的使节，而他手上的东西正是西格德的目标。",
+    "translation": "我的同伴博多带着阿斯图里亚斯国王的重要物品，那正是西格德想要的。"
+  },
+  {
+    "text": "Sven_Bull_Neck_has_a_hideout_near_Ribe,_where_he_took_the_Woden_Ric_prisoners.",
+    "old_translation": "牛颈斯温在里伯附近有一个藏身处，他在那里囚禁着沃登里克号的俘虏。",
+    "translation": "“牛颈”斯温在里伯附近有个藏身地，他把沃登里克号的俘虏关在那里。"
+  },
+  {
+    "text": "Sven_Bull_Neck_and_Sigurd_'Snake_in_the_Eye'_are_up_to_something,_and_I_want_to_stop_them.",
+    "old_translation": "牛颈斯温和“蛇眼”西格德正在图谋不轨，而我要阻止他们。",
+    "translation": "“牛颈”斯温和“蛇眼”西格德在密谋，我要阻止他们。"
+  },
+  {
+    "text": "{s2}^^Your_mother?_This_is_because_Sigurd_took_your_mother?_You_have_wasted_my_time._I_will_not_talk_more._It's_time_for_you_to_go.",
+    "old_translation": "{s2}^^你的母亲？就是因为西格德抓走了你的母亲？你在浪费我的时间。不需要再说了，你应该离开。",
+    "translation": "{s2}^^你母亲？就因为西格德抓了你母亲？你在浪费我时间。不必再说，你该走了。"
+  },
+  {
+    "text": "{s2}^^An_army?_This_is_your_mystery?_He_is_gathering_men_for_Englaland,_in_the_aid_of_my_brothers._I_myself_have_allowed_my_jarls_and_hersirs_to_join_the_expedition_if_they_wish._Englaland_is_a_rich_land,_inhabited_by_habitually_weak_people,_waiting_to_be_dominated_and_plundered_by_their_betters._+You_have_wasted_my_time._I_will_not_talk_more._It's_time_for_you_to_go.",
+    "old_translation": "{s2}^^一支军队？这就是你的秘密？他正在为远征英格兰召集人马，这是为了支援我的兄弟。我自己也允许我的封臣可以自愿参与这场远征。英格兰是一片富饶的土地，却被软弱的民族占领，而它正在等待更强大的主人前往征服。你在浪费我的时间。不需要再说了，你应该离开。",
+    "translation": "{s2}^^一支军队？这就是你的秘密？他在为征英格兰召集人马，支援我兄弟。我自己也允许雅尔和头领自愿参加。英格兰富饶，居民软弱，正等着强者去征服掠夺。你在浪费我时间。不必再说，你该走了。"
+  },
+  {
+    "text": "{s2}^^You_tell_me_things_I_already_know,_and_you_do_not_interest_me._My_patience_has_a_limit,_and_you_have_quickly_reached_it._+You_have_wasted_my_time._I_will_not_talk_more._It's_time_for_you_to_go.",
+    "old_translation": "{s2}^^你说的东西我都已经知道了，无法引起我的兴趣。我的耐心有限，你不要考验我。你在浪费我的时间。不需要再说了，你应该离开。",
+    "translation": "{s2}^^你说的我早已知道，我毫无兴趣。我的耐心有限，你已耗光。你在浪费我时间。不必再说，你该走了。"
+  },
+  {
+    "text": "Our_meeting_is_over.",
+    "old_translation": "我们的会面结束了。",
+    "translation": "会面结束。"
+  },
+  {
+    "text": "Sven_and_Sigurd_are_hated_and_feared_by_many_men._The_question_is_if_they_are_up_to_something_that_could_affect_me.",
+    "old_translation": "斯温和西格德让许多人又恨又怕。问题在于，他们的图谋将要影响到我的利益。",
+    "translation": "斯温和西格德令许多人又恨又怕。问题在于他们的图谋是否会波及我。"
+  },
+  {
+    "text": "Sven_Bull_Neck_has_my_mother,_and_he_has_brought_her_to_Sigurd.",
+    "old_translation": "牛颈斯温抓走了我的母亲，并带给了西格德。",
+    "translation": "“牛颈”斯温抓了我母亲，把她交给了西格德。"
+  },
+  {
+    "text": "I_guess_I_can_no_longer_maintain_the_secret,_but_this_is_not_the_place,_nor_are_you_the_person._However,_if_I_do_not_speak_now,_the_danger_is_worse_and_could_be_terrible.^^The_attack_on_the_Woden_Ric_was_no_random_act_of_piracy.",
+    "old_translation": "我想我已经无法再保守秘密了，但这里不是合适的地方，你们也不是合适的人。然而，如果我现在不说，后果将更加严重。^^海盗袭击沃登里克号并非偶然。",
+    "translation": "我恐怕守不住秘密了，可这里不是说话处，你们也不是合适的人。但若现在不说，危险会更可怕。^^袭击沃登里克号并非随机海盗行为。"
+  },
+  {
+    "text": "My_name_is_Bodo_Vimaraniz_from_Malacoria,_in_Cantabria._I_come_from_King_Aldefonso_of_Asturias._I_was_sent_north_with_a_present_for_Aethelred,_king_of_West_Seaxe._This_present_and_I_are_the_reason_Sven_Bull_Neck_attacked_the_Woden_Ric._Sigurd_Ragnarsson_wants_this_present_for_himself,_because_he_wants_to_be_the_king_of_Danmark_while_his_brothers_are_kings_in_Englaland.",
+    "old_translation": "我来自坎塔布里亚的马纳科亚，我的名字是博多·维马兰尼兹，受阿斯图里亚斯的国王阿达方索委托而来。我的任务是将一件礼物带给西撒克逊的国王阿尔弗雷德。我和这件礼物就是牛颈斯温袭击沃登里克号的原因。西格德·拉格纳逊如果得到了这件东西，他就可以成为丹麦的国王，而他的兄弟也将成为英格兰的国王。",
+    "translation": "我是坎塔布里亚马纳科亚的博多·维马兰尼兹，受阿斯图里亚斯国王阿方索派遣，要把礼物送给西撒克逊国王埃塞尔雷德。我和礼物就是“牛颈”斯温袭击沃登里克号的原因。西格德·拉格纳逊想独占礼物，因为他想趁兄弟们在英格兰称王时自己当丹麦国王。"
+  },
+  {
+    "text": "I_know_that_Sigurd_wants_to_be_king._How_could_a_gift_give_him_my_throne?",
+    "old_translation": "我知道西格德想要登上王位，但什么东西会让我丢掉王位呢？",
+    "translation": "我知道西格德想称王，可什么礼物能让他得到我的王位？"
+  },
+  {
+    "text": "The_Ragnarssons_are_powerful_men,_with_lands_in_many_places,_like_Danmark,_Sweoland_and_now_Northhymbre._Right_now,_it_seems_that_their_efforts_are_against_Englaland,_and_they_are,_but_this_means_ensuring_that_Danmark_provide_easy_access_to_resources_and_warriors._If_Sigurd_is_king_here,_he_will_guarantee_all_that._Moreover,_now_he_can_unite_the_Danish,_for_the_gift_I_was_carrying_was_the_sword_of_Ragnar_Lodbrok._His_sons,_Bjorn_Ironside_and_Haesten,_lost_it_when_a_Muslim_fleet_defeated_them_south_of_Al-Andalus.",
+    "old_translation": "拉格纳之子都是非常强大的人，在许多地方都有极大势力，比如丹麦、瑞典和诺森布里亚。当前，他们的目标是征服英格兰，而这意味着他们需要不断地从丹麦获得资源和士兵。如果西格德成为了国王，这件事就轻而易举了。现在他能够将丹麦人联合起来，因为我手上的是拉格纳·罗德布洛克的佩剑，它曾被拉格纳之子们遗失，那是比约恩·艾恩赛德和赫斯汀在阿尔安达卢斯的南方被穆斯林舰队击败的时候。",
+    "translation": "拉格纳诸子势力庞大，在丹麦、瑞典乃至诺森布里亚都有土地。眼下他们虽主攻英格兰，却需丹麦不断提供资源与战士。若西格德在此称王，一切便水到渠成。况且，我携带的礼物正是“毛裤子”拉格纳的佩剑，可助他团结丹麦人。此剑是比约恩·铁臂和赫斯汀在安达卢斯以南被穆斯林舰队击败时遗失的。"
+  },
+  {
+    "text": "How_did_you_get_the_sword_from_the_Muslims?",
+    "old_translation": "你是如何从穆斯林手上得到这把剑的？",
+    "translation": "你怎么从穆斯林手里拿到这把剑的？"
+  },
+  {
+    "text": "Bodo,_I'm_impressed._You_know_a_lot_about_the_Danish._What_are_you_not_telling_me?",
+    "old_translation": "博多，你让我印象深刻，你对丹麦非常了解。还有什么你没有告诉我？",
+    "translation": "博多，你令我惊讶，你对丹麦了如指掌。还有什么瞒着我？"
+  },
+  {
+    "text": "It_was_a_gift_to_my_king_made_by_the_emir_of_Al-Andalus_in_exchange_for_valuable_prisoners._Aethelred,_king_of_West_Seaxe,_was_very_interested_in_this_sword,_and_my_king_Aldefonso_got_it_for_him.",
+    "old_translation": "阿尔安达卢斯的酋长为了交换一些重要的俘虏，将它作为礼物送给了我的国王。阿尔弗雷德，西撒克逊国王对这柄剑非常感兴趣，而我的国王阿达方索就将剑送给他。",
+    "translation": "安达卢斯的埃米尔为换重要俘虏，把这剑赠予我王。西撒克逊国王埃塞尔雷德对此剑极感兴趣，我王阿方索便为他取得。"
+  },
+  {
+    "text": "I_have_been_before_in_the_north,_but_this_is_not_important_now.",
+    "old_translation": "我曾经在北方待过，但现在这不重要。",
+    "translation": "我以前去过北方，但现在这不重要。"
+  },
+  {
+    "text": "Ragnar_was_more_than_a_man._The_skalds_revere_him_as_god,_and_the_men_feed_their_souls_with_his_legend._Sigurd_could_carry_the_sword_to_the_Assembly_and_claim_the_merit_of_recovering_it._He_might_demand_to_be_king_and_even_kill_me,_and_everyone_might_just_forgive_him_for_having_recovered_his_father's_sword._Ragnar's_sword_must_be_destroyed_before_anyone_knows_it_exists.",
+    "old_translation": "拉格纳已经不只是一个凡人了，吟游诗人将他称颂为神，因此人们也相信了他的传奇。西格德可以在议事会上出示这柄剑，并为了它的失而复得邀功。他可能会要求取得王位，甚至取我性命，而所有人都会因为他寻回了父亲的剑而不去追究。拉格纳的剑必须在任何人得知它的存在之前被销毁。",
+    "translation": "拉格纳已不只是凡人。吟游诗人把他当神敬拜，人们靠他的传说滋养灵魂。西格德可以带剑去集会，宣称自己找回了它。他可能要求称王，甚至杀了我，而所有人都会因他找回父亲的剑而原谅他。必须在任何人知道这把剑存在之前毁掉它。"
+  },
+  {
+    "text": "Then_maybe_we_can_make_a_deal:_sword_for_support.",
+    "old_translation": "那么我们可以达成这项交易：以剑换取你的支持。",
+    "translation": "那也许我们可以做笔交易：用剑换你的支持。"
+  },
+  {
+    "text": "(Brunhild_seems_to_want_to_say_something._Let_her.)",
+    "old_translation": "（伯伦希尔好像有话要说，让她开口。）",
+    "translation": "（布伦希尔德似乎想说什么。让她说。）"
+  },
+  {
+    "text": "I_have_business_with_Sigurd_and_Sven._I_want_your_protection_and_support_when_I_need_it.",
+    "old_translation": "我跟西格德和斯温有账要算，我需要为此取得你的保护和支持。",
+    "translation": "我和西格德、斯温有账要算，到时候我需要你的保护和支持。"
+  },
+  {
+    "text": "Yes,_this_is_what_we_do._That_sword_cannot_come_to_light,_but_we_need_to_be_cautious._Sigurd_Ragnarsson_is_a_shrewd_man,_and_he_won't_attack_openly._Go_see_him_for_the_issues_you_mentioned_to_me_and_try_to_get_the_sword._I_do_not_care_if_you_steal_it,_buy_it,_or_promise_eternal_loyalty,_so_long_as_he_leaves_it_in_your_hands._What_I_want_is_that_you_bring_me_this_sword_to_destroy._In_return,_when_you_bring_the_sword,_you'll_have_my_protection_while_in_Danmark,_and_so_I_will_proclaim,_and_Sigurd_Ragnarsson_will_not_dare_to_go_against_you._Now_I_must_go._I've_been_too_long_with_you,_and_I_have_other_matters_to_attend_to._Good_luck_and_farewell.",
+    "old_translation": "没错，这就是我们的任务。那柄剑不能够见光，我们必须步步为营。西格德·拉格纳逊精于盘算，他不会公开袭击我们。以你向我提及的事情为借口去找他，试着得到那把剑。我不在乎你采取什么方法，偷取它，收买它，甚至为了得到它而向西格德誓死效忠，只要你能够为我取得并摧毁这柄剑。作为回报，我将在丹麦给予你们全面的保护，而西格德·拉格纳逊将不敢动你们一根毫毛。现在我必须离开，因为我还有其他要事，花在你身上的时间已经够长了。一路顺风，再见。",
+    "translation": "没错，就这么办。那把剑不能见光，但我们必须小心。西格德·拉格纳逊精明，不会公开动手。用你提的事当借口去找他，想办法把剑弄到手。偷、买、发誓效忠都行，只要剑落到你手里。我要你把剑带来毁掉。作为回报，只要你把剑交给我，你在丹麦期间就受我庇护，我会公开宣布，西格德·拉格纳逊不敢动你。现在我得走了，已耽搁太久，还有别的事。祝好运，再会。"
+  },
+  {
+    "text": "My_king,_it_was_I_who_told_my_companions_to_come_to_see_you_before_we_talk_to_Sigurd_'Snake_in_the_Eye.'_I_know_that_he_is_a_dangerous_man,_as_I_served_in_the_house_of_the_jarl_of_Kennemer._We_ask_for_your_protection_and_support_for_our_cause,_because_{playername}'s_mother_is_in_the_hands_of_Sigurd_'Snake_in_the_Eye'_and_Sven_Bull_Neck.",
+    "old_translation": "我的国王，正是我劝说同伴们在与“蛇眼”西格德会面前先来找你。当我在肯尼莫的雅尔手下当仆人的时候，就知道他是一个危险的人物。我们在此请求你为了我们的任务给予保护和帮助，因为{playername}的母亲正在“蛇眼”西格德和牛颈斯温的手上。",
+    "translation": "我的国王，是我劝同伴们在见“蛇眼”西格德之前先来见你。我曾在肯尼莫的雅尔家效力，知道他是个危险人物。我们请求你保护并支持我们，因为{playername}的母亲被“蛇眼”西格德和“牛颈”斯温扣住了。"
+  },
+  {
+    "text": "I_understand,_girl._You_have_my_support,_but_I_want_Ragnar's_sword._Sigurd_will_not_kill_you,_so_go_talk_to_him._If_you_need_to,_tell_him_that_you_are_under_my_protection._It_is_important_that_you_succeed_in_giving_me_the_sword._I_do_not_care_if_you_have_to_steal_it,_but_bring_it_to_me._Now_I_must_go._I've_been_too_long_with_you,_and_I_have_other_matters_to_attend_to._Good_luck_and_farewell.",
+    "old_translation": "我明白，女孩儿。你们需要我的帮助，而我需要拉格纳的剑。西格德不会杀死你们，所以尽管去找他吧。如果有必要，就告诉他你们处于我的保护之下。取回这柄剑的任务至关重要，即使你们要偷回来我也不在乎，只管把它带给我。现在我必须离开，因为我还有其他要事，花在你身上的时间已经够长了。一路顺风，再见。",
+    "translation": "我明白，姑娘。我支持你，但我要拉格纳的剑。西格德不会杀你，去跟他谈。必要时告诉他你受我庇护。把剑交给我是关键，偷也行，带来给我。现在我得走了，已耽搁太久，还有别的事。祝好运，再会。"
+  },
+  {
+    "text": "{s2}^^{playername},_I_have_lied_to_the_king._Well,_it's_not_totally_a_lie._Everything_is_true_except_the_existence_of_the_sword._I_know_that_the_Danish_give_much_importance_to_everything_that_has_to_do_with_Ragnar,_and_I_used_that._It_was_a_risk,_but_we_needed_the_king_on_our_side._I_hope_you_understand.",
+    "old_translation": "{s2}^^{playername}，我不得不对国王说谎。好吧，这并非彻头彻尾的谎言。所有的一切都千真万确，除了那柄剑的存在。我知道丹麦人对于拉格纳相关的东西都非常重视，因此我利用了这一点。这是一次冒险，但我们需要国王的支持，希望你能够理解。",
+    "translation": "{s2}^^{playername}，我对国王撒了谎。也不算全谎，除了那把剑不存在，其余都是真的。我知道丹麦人对拉格纳的一切极其看重，就利用了这点。这是冒险，但我们必须争取国王站在我们这边，希望你能理解。"
+  },
+  {
+    "text": "The_sword_was_important_for_getting_the_king's_support._Thank_you._Now,_tell_me_the_truth.",
+    "old_translation": "这柄剑是国王的支持的根本所在。谢谢你，现在告诉我真相吧。",
+    "translation": "这把剑是争取国王支持的关键。谢谢你。现在告诉我真相。"
+  },
+  {
+    "text": "No,_Bodo!_I_don't_know_your_game,_but_do_not_lie_in_the_future._Now_tell_me_the_whole_truth.",
+    "old_translation": "不，博多！我不知道你在耍什么花样，但以后请你不要在骗人了。现在把真相告诉我。",
+    "translation": "不，博多！我不知道你在玩什么花样，以后别再撒谎。现在把全部真相告诉我。"
+  },
+  {
+    "text": "Lying_isn't_tolerable,_never_lie_again,_Bodo,_or_I_will_take_action_against_you._(Justice)",
+    "old_translation": "欺骗是不可容忍的行为，不要再这样做了，博多，否则我将对你不客气。（正义）",
+    "translation": "欺骗绝不容忍，博多，再敢撒谎我就动手。（正义）"
+  },
+  {
+    "text": "I_disagree._How_can_we_now_justify_to_the_king_that_there_is_no_sword?_Lying_only_brings_problems._Everyone_knows_that._At_least,_everyone_ought_to_know_that.",
+    "old_translation": "我不同意。现在我们还怎么能够告诉国王，那柄剑根本不存在？欺骗只会制造更多麻烦，所有人都知道这一点。至少，所有人都应该知道这一点。",
+    "translation": "我不同意。现在怎么向国王解释根本没有那把剑？撒谎只会添乱，人人都懂，至少该懂。"
+  },
+  {
+    "text": "{s2}^^I_am_an_honorable_man._Honor_is_my_law,_but_I_owe_allegiance_to_my_king_and_to_the_mission_that_he_entrusted_to_me._It_took_years_of_visiting_this_foreign_land_since_the_Rex_Ordonio,_father_of_current_king_of_Asturias,_sent_me._This_is_hard_to_understand,_but_Asturias_is_a_small_kingdom,_where_every_man_must_fight_as_a_warrior_or_die_at_the_hands_of_our_enemies._We_fight_every_year_against_the_power_of_Al-Andalus._It_is_a_constant_front,_and_we_thought_our_backs_were_safe_until_the_Vikings_arrived._Old_King_Ordonio,_and_now_his_son,_King_Aldefonso,_want_an_alliance_with_Frankia_and_West_Seaxe_to_protect_ourselves_from_the_Vikings_and_make_the_seas_safer.",
+    "old_translation": "{s2}^^我是一个正直守信的人，荣誉就是我的信条，但我现在必须为了我的国王的委托而不择手段。自从阿斯图里亚斯的前任国王雷克斯·俄东尼奥派我前来这片陌生的土地，已经过去好几年了。这件事不好理解，但阿斯图里亚斯是一个不大的王国，所有人要么为之奋战，要么就死于敌手。我们一直在与阿尔安达卢斯的势力对抗，这场战争持续了很久，我们曾经以为自己的背后是安全的，直到维京人的出现。老国王俄东尼奥，现在是他的儿子，阿达方索国王，需要与法兰克与西撒克逊结盟，以此保证我们的沿海远离维京海盗的肆虐。",
+    "translation": "{s2}^^我是守信之人，荣誉即我法则，但我效忠国王及其托付的使命。自阿斯图里亚斯先王雷克斯·俄东尼奥派我来这异乡，已多年。难理解的是，阿斯图里亚斯小国，人人须为战士，否则死于敌手。我们年年与安达卢斯势力作战，战线不断，曾以为后方安全，直到维京人出现。老俄东尼奥与今王阿方索欲与法兰克、西撒克逊结盟，以御维京人，保海路安全。"
+  },
+  {
+    "text": "I_carried_a_letter_sealed_by_my_king_himself_for_the_king_of_West_Seaxe._It_is_a_letter_of_alliance_that_had_to_be_sent_in_secret,_lest_it_be_intercepted._And_I_failed._The_letter_is_now_in_the_hands_of_Sigurd_Ragnarsson,_one_of_the_men_who_tried_to_protect_us._Do_you_understand_the_pity_of_it?_Not_so_long_ago_his_brothers,_Bjorn_Ironside_and_Halfdan,_attacked_Gallaecia,_the_western_part_of_the_Kingdom_of_Asturias.",
+    "old_translation": "我携带了一封由我的国王亲自密封的信件，要送给西撒克逊的国王。这封关于结盟事宜的信被加密了，以防遭到拦截。而我失败了，信件现在被西格德·拉格纳逊夺取了，他还曾经是我们的保护者。你了解这件事的可笑之处吗？不久之前他的兄弟们，比约恩·艾恩赛德和赫斯汀袭击了加雷西亚，那是阿斯图里亚斯王国的西部地区。",
+    "translation": "我携国王亲封密信，要交西撒克逊王，信里谈结盟，须防截获。可我失败了，信落到曾护我们的西格德·拉格纳逊手里。可笑吧？不久前他兄弟比约恩·铁臂和哈夫丹还袭击了阿斯图里亚斯西部的加雷西亚。"
+  },
+  {
+    "text": "{playername},_Bodo_isn't_well,_and_we_shouldn't_lose_more_time_here._It_is_time_to_talk_to_Sigurd_'Snake_in_the_Eye.'",
+    "old_translation": "{playername}，博多感觉不太好，我们不应该在这浪费时间了，是时候去找“蛇眼”西格德了。",
+    "translation": "{playername}，博多状态不好，别再耽搁，该去找“蛇眼”西格德了。"
+  },
+  {
+    "text": "We're_in_rush_now,_but_we'll_talk_about_your_mission_later,_Bodo._Now,_let's_go.",
+    "old_translation": "我们现在得赶路，以后再讨论你的任务。现在我们走吧。",
+    "translation": "我们得赶路，博多，你的任务以后再说。现在走。"
+  },
+  {
+    "text": "Well,_let's_bother_Bodo_no_more._We're_looking_for_Sigurd.",
+    "old_translation": "好吧，我们别再烦着博多了，现在就去找西格德。",
+    "translation": "好吧，别再烦博多了，我们去找西格德。"
+  },
+  {
+    "text": "Sigurd_Ragnarsson_sent_men_to_kill_us_at_Ulf's_farmstead.",
+    "old_translation": "西格德·拉格纳逊派人到乌尔夫的农场来杀我们。",
+    "translation": "西格德·拉格纳逊派人在乌尔夫的农场袭击我们。"
+  },
+  {
+    "text": "Sigurd_promised_to_give_me_Sven_and_my_mother_at_Ulf's_farm,_but_we_were_attacked_instead.",
+    "old_translation": "西格德承诺会在乌尔夫的农场把斯温和我的母亲交给我，但是我们却被袭击了。",
+    "translation": "西格德答应在乌尔夫的农场把斯温和我母亲交给我，可我们反遭袭击。"
+  },
+  {
+    "text": "Sigurd_will_not_deliver_up_Sven_Bull_Neck,_his_best_man._If_you_believed_he_would_do_such_a_thing,_then_you're_dumber_than_I_thought.",
+    "old_translation": "西格德不可能把自己最强的手下牛颈斯温交出来。如果你竟然相信了他的承诺，你就比我想象中更加愚蠢。",
+    "translation": "西格德不会交出他最得力的“牛颈”斯温。你若信他，就比我以为的还蠢。"
+  },
+  {
+    "text": "My_king,_as_you've_asked_me,_I've_been_your_eyes_and_ears._I_know_all_the_important_information,_because_in_{playername}'s_camp_there_are_no_secrets._As_you_already_know,_{playername}_is_the_one_who_broke_Sigurd's_plans_to_put_a_puppet_on_the_throne_of_Friese._It_was_more_likely_an_accident_than_a_deliberate_act,_as_{playername}_is_looking_for_Sven_Bull_Neck,_Sigurd's_first_man,_for_revenge,_because_Sven_has_imprisoned_{playername}'s_mother._When_{playername}_talked_to_Sigurd,_they_agreed_that,_in_exchange_for_Bodo_the_Cantabrian,_Sigurd_would_deliver_up_Sven_and_{playername}'s_mother_at_Ulf's_farm.",
+    "old_translation": "我的国王，正如你所要求，我为你充当了耳目，我知道了所有的重要情报，因为在{playername}的营地里根本没有秘密可言。你已经知道，{playername}挫败了西格德图谋在弗里斯扶植一名傀儡国王的计划，但这看起来更像出于偶然而非蓄意行为，因为{playername}正在寻找牛颈斯温报仇，他是西格德的首席仆人，只是由于他抓住了{playername}的母亲。当{playername}与西格德会面时，他们承认了这件事，并打算在乌尔夫的农场，以那个坎塔布里亚人博多来交换斯温和{playername}的母亲。",
+    "translation": "我的国王，我按你吩咐做了耳目。{playername}的营地没有秘密，我掌握所有重要情报。你已知道，{playername}破坏了西格德在弗里斯扶傀儡登位的计划，那更像意外，而非蓄意，因为{playername}只想找西格德的头号手下斯温报仇，因斯温囚禁了{playername}的母亲。{playername}与西格德会面时约定，用坎塔布里亚人博多交换斯温和{playername}的母亲，地点在乌尔夫的农场。"
+  },
+  {
+    "text": "Yes,_it_is_more_or_less_what_I_expected.",
+    "old_translation": "没错，我的猜想也大概如此。",
+    "translation": "没错，和我料想的差不多。"
+  },
+  {
+    "text": "{s2}^^Yes,_I_heard_that_Sigurd_holds_Bodo_prisoner._Bodo_will_be_tortured,_and_when_they_finish,_Sigurd_will_kill_him_and_deliver_his_body_to_Njord.",
+    "old_translation": "{s2}^^没错，我听说博多成为了西格德的囚犯，他将被折磨致死，之后西格德会把他的尸体丢给海神。",
+    "translation": "{s2}^^对，我听说博多被西格德囚禁，他将受刑，之后西格德会杀了他，把尸体献给海神。"
+  },
+  {
+    "text": "Egil,_traitor,_you're_nothing_but_a_spy!",
+    "old_translation": "埃吉尔，叛徒，原来你只是一个间谍！",
+    "translation": "埃吉尔，叛徒，你不过是个间谍！"
+  },
+  {
+    "text": "--Do_not_say_anything.--",
+    "old_translation": "——保持沉默+",
+    "translation": "——保持沉默——"
+  },
+  {
+    "text": "{s2}^^I'm_no_traitor._I'm_loyal_to_my_king,_and_I'm_helping_you_more_than_you_think._King_Horik_has_a_network_of_informants_in_all_locations,_and_he_already_knew_about_you,_but_especially_Bodo,_before_you_arrived.",
+    "old_translation": "{s2}^^我不是叛徒，因为我忠于的是国王，而且你得到的帮助已经超乎想像了。霍里克国王拥有一个遍布各地的情报网络，他在你到达之前，已经听说你的消息，特别是那个博多。",
+    "translation": "{s2}^^我不是叛徒，我忠于我的国王，而且我给你的帮助远超你的想象。霍里克国王在各处都有眼线，在你抵达之前，他就已经听说过你，尤其是博多。"
+  },
+  {
+    "text": "Egil,_continue._You_know_that_my_time_and_my_patience_are_limited.",
+    "old_translation": "埃吉尔，继续。你知道我的时间和耐心都是有限的。",
+    "translation": "埃吉尔，继续。你知道我的时间和耐心都有限。"
+  },
+  {
+    "text": "There_is_a_problem._Sigurd_sent_Olvir_White_Hair_to_kill_{playername}._Olvir_has_died,_but_not_before_declaring_that_Sigurd_'Snake_in_the_Eye'_would_take_his_case_to_the_Assembly._I'm_sure_Ulf_will_be_one_witness_in_his_favor._By_now,_my_king,_many_have_seen_{playername}_talking_to_you._Sigurd_could_use_this_against_you.",
+    "old_translation": "还有一个问题。西格德派白发奥利维来杀{playername}，但奥利维已经死了，他在断气前宣称“蛇眼”西格德将在议事会上就这件事提出指控，无疑乌尔夫会以目击证人的身份作证。眼下的情况是，我的国王，许多人已经见过{playername}与你交谈，西格德可以借此攻击你。",
+    "translation": "还有一个问题。西格德派“白发”奥维尔来杀{playername}。奥维尔已死，但临死前宣称“蛇眼”西格德将在议事会上提出控诉。我敢肯定乌尔夫会为他作证。陛下，如今已有许多人看见{playername}与你交谈，西格德大可借此攻击你。"
+  },
+  {
+    "text": "{s2}^^You_have_traveled_with_{playername}._What_do_you_think_of_{reg59?her:him}?",
+    "old_translation": "{s2}^^你和{playername}相处了一段时间，你怎么看{reg59?她:他}？",
+    "translation": "{s2}^^你与{playername}同行过，你怎么看{reg59?她:他}？"
+  },
+  {
+    "text": "I_admire_{reg59?her:him}._{reg59?She:He}_is_someone_with_a_very_clear_mind,_tireless_goals_and_favor_with_the_gods._{reg59?Her:His}_luck_is_greater_than_that_of_other_men_and_women_I_have_known._You_can_trust_{reg59?her:him}_to_help_us_advance_our_agenda.",
+    "old_translation": "我很欣赏{reg59?她:他}，{reg59?她:他}是一个意志坚定，目标明确，而且受到了众神眷顾的人。{reg59?她的:他的}运气实在是万中无一，你能够信赖{reg59?她:他}可以让我们事半功倍。",
+    "translation": "我欣赏{reg59?她:他}。{reg59?她:他}头脑清醒，目标坚定，且受诸神眷顾。{reg59?她的:他的}运气之好，前所未见。你可以信赖{reg59?她:他}助我们达成目标。"
+  },
+  {
+    "text": "{reg59?She:He}_is_a_bad_leader,_stupid,_stubborn,_and_unbearable._Many_times_I_had_to_restrain_myself_not_to_spit_in_{reg59?her:his}_face._But_{reg59?her:his}_luck_is_greater_than_I_have_known._I_do_not_know_how,_but_{reg59?she:he}_is_always_victorious._{reg59?She:He}_will_help_us_advance_our_agenda.",
+    "old_translation": "{reg59?她:他}是一个劣等的领导者，愚蠢、固执而且难以忍受，我已经无数次制止住向{reg59?她:他}脸上吐口水的冲动。但是{reg59?她:他}的运气实在是万中无一，虽然我无法了解，但{reg59?她:他}总是能够取胜，也许{reg59?她:他}可以让我们事半功倍。",
+    "translation": "{reg59?她:他}是个糟糕的领袖，愚蠢、固执、令人难以忍受。我多次强忍才没往{reg59?她:他}脸上吐口水。但{reg59?她的:他的}运气之好，前所未见。不知为何，{reg59?她:他}总能取胜。{reg59?她:他}会助我们达成目标。"
+  },
+  {
+    "text": "I_have_not_much_to_say._{reg59?She:He}_is_someone_pretty_normal._I_have_not_seen_anything_special._Well,_except_for_one_thing:_{reg59?her:his}_luck._{reg59?Her:His}_luck_is_greater_than_I_have_known._I_do_not_know_how,_but_{reg59?she:he}_is_always_victorious._{reg59?She:He}_will_help_us_advance_our_agenda.",
+    "old_translation": "我可说的不多，{reg59?她:他}是一个相当普通的人，我看不出这人的特别之处。好吧，除了一件事：{reg59?她:他}的运气，实在是万中无一。虽然我无法了解，但{reg59?她:他}总是能够取胜，也许{reg59?她:他}可以让我们事半功倍。",
+    "translation": "我无话可说。{reg59?她:他}平平无奇，我没看出特别之处。除了一点：{reg59?她:他}的运气。{reg59?她的:他的}运气之好，前所未见。不知为何，{reg59?她:他}总能取胜。{reg59?她:他}会助我们达成目标。"
+  },
+  {
+    "text": "{s2}^^Bodo's_mission_was_not_a_secret,_neither_for_me_nor_for_Sigurd_'Snake_in_the_Eye,'_despite_all_the_means_taken_to_make_it_so._There's_a_man_in_the_court_of_Asturias_willing_to_do_anything_to_finish_off_their_king,_Aldefonso._Can_you_believe_it?_Although_that_kingdom_is_so_far_away,_they_have_the_same_problems_that_we_do!_I_knew_all_about_this_long_before_you_came_to_see_me_for_the_first_time,_although_I_pretended_to_know_nothing.",
+    "old_translation": "{s2}^^博多的任务并非秘密，无论是对于我还是对于“蛇眼”西格德而言，尽管他已经竭尽所能了。在阿斯图里亚斯的宫廷里有一个人愿意不惜一切手段来推翻他们的国王，阿达方索。你相信吗？看来即使这个国家与这里相距千里，但是我们都在面临着同样的问题！在你第一次找我之前，这些东西都不是新鲜事了，尽管我还在装作无知。",
+    "translation": "{s2}^^博多的任务并非秘密，对我如此，对“蛇眼”西格德亦然，尽管他已竭力掩盖。阿斯图里亚斯宫廷里有人不惜一切要除掉国王阿方索。难以置信？那王国虽远，却与我们同病相怜！早在你们首次求见之前，我便尽知其事，只是佯装不知。"
+  },
+  {
+    "text": "I_do_not_like_anybody_playing_with_me,_even_a_king.",
+    "old_translation": "我喜欢有人跟我耍花招，即使是一个国王。",
+    "translation": "我不喜欢被人玩弄，哪怕对方是国王。"
+  },
+  {
+    "text": "You_laughed_at_us_when_we_first_spoke.",
+    "old_translation": "你在首次见面的时候就嘲笑过我们了。",
+    "translation": "我们初次交谈时，你曾嘲笑我们。"
+  },
+  {
+    "text": "I_see._You_and_Sigurd_play_a_game_of_intrigues_for_the_throne,_and_I'm_in_the_middle.",
+    "old_translation": "我懂了，你和西格德在进行一场权力的游戏，而我被卷入其中了。",
+    "translation": "我明白了，你与西格德为夺王位暗斗，而我夹在中间。"
+  },
+  {
+    "text": "--Say_nothing.--",
+    "old_translation": "——保持沉默——",
+    "translation": "——保持沉默——"
+  },
+  {
+    "text": "Do_not_be_so_dramatic,_though_I_like_your_boldness._I_needed_to_see_what_Sigurd_was_willing_to_risk._Clearly,_the_stakes_are_high,_and_Sigurd_is_very_interested_in_killing_you.",
+    "old_translation": "不要这么大惊小怪，但是我喜欢你的直率。我需要看看让西格德不惜冒险的东西是什么，尽管这件事风险很高，而且他对你的死亡非常感兴趣。",
+    "translation": "别这么夸张，但我欣赏你的胆识。我得看看西格德愿冒多大风险。显然，赌注极高，而他极想置你于死地。"
+  },
+  {
+    "text": "{s2}^^Sigurd_wants_my_kingdom._He_has_gathered_an_army_with_the_excuse_of_going_to_help_his_brothers_in_Englaland,_but_I_fear_he_could_use_these_men_to_take_my_throne_if_he_gets_favor_in_the_Assembly._Now_he_has_two_options_to_play_for_such_favor:_first,_Bodo's_letter_from_the_Kingdom_of_Asturias_and_second,_Olvir_White_Hair's_death.",
+    "old_translation": "{s2}^^西格德想要夺取我的王位，他以支援自己兄弟的名义召集了一支大军，但我担心的是，当他在议事会得到支持的时候，他将会借此推翻我的统治。现在他手上有两张好牌：第一是博多从阿斯图里亚斯王国带来的信件，第二是白发奥利维之死。",
+    "translation": "{s2}^^西格德觊觎我的王国。他以援救英格兰的兄弟为借口集结大军，可一旦在议事会赢得支持，我担心他会用这些兵力夺我王位。如今他有两张牌可打：一是博多自阿斯图里亚斯带回的信件，二是“白发”奥维尔之死。"
+  },
+  {
+    "text": "Our_fates_are_crossed,_{playername}._The_soothsayers_told_me_about_you_before_you_came._They_said_that_a_{reg59?woman:man}_whose_luck_is_greater_than_that_of_Sigurd_would_come,_a_{reg59?woman:man}_who_will_save_my_throne._You_want_Sven_Bull_Neck_and_your_mother,_and_I_want_to_thwart_Sigurd's_plans._I'll_help_you_and_you_help_me._From_now_on,_you_have_my_official_protection_in_Danmark.",
+    "old_translation": "我们的命运在此交叉，{playername}。占卜者们事先告知了你的来临，他们说将有一个比西格德的命途更加伟大的{reg59?女人:男人}出现，而且会挽救我的王位。你想得到牛颈斯温和自己的母亲，而我想要阻挠西格德的阴谋，我们可以互相帮助。从今开始，你在丹麦就处于我的正式保护之下了。",
+    "translation": "我们的命运交汇于此，{playername}。你到来之前，占卜者便提及你。他们说将有一位命途胜过西格德的{reg59?女人:男人}出现，挽救我的王位。你要牛颈斯温和你的母亲，我要挫败西格德的图谋；你我互助。即日起，你在丹麦受我正式庇护。"
+  },
+  {
+    "text": "Can_you_tell_me_what_your_plans_are?",
+    "old_translation": "你能描述一下你的计划吗？",
+    "translation": "能告诉我你的计划吗？"
+  },
+  {
+    "text": "You_take_for_granted_too_many_things._I_am_not_in_your_service._I_do_not_think_I_need_you.",
+    "old_translation": "你过于理所当然了，我不会为你效劳的，我不认为自己需要你。",
+    "translation": "你太自作多情了。我并非你的仆从，也不认为需要你。"
+  },
+  {
+    "text": "We_will_be_allies_for_now,_but_when_this_is_over,_I_want_nothing_more_to_do_with_you_two.",
+    "old_translation": "我们可以成为盟友…只是暂时的。在事情过去后，我不想再跟你们俩有任何瓜葛。",
+    "translation": "我们暂且结盟，但此事一了，我便与你们再无瓜葛。"
+  },
+  {
+    "text": "Well,_I'm_glad_to_see_you're_on_my_side._Listen_now.",
+    "old_translation": "噢，很高兴你跟我站在同一阵线。现在听好了。",
+    "translation": "很好，很高兴你站在我这边。现在听好。"
+  },
+  {
+    "text": "I_see_that_you_are_so_dense_that_you_need_every_bit_of_luck_the_gods_have_compensated_you_with._Now_listen_closely._You_need_to_go_to_the_Assembly,_where_you_cannot_go_without_my_patronage._There_will_be_Sven_Bull_Neck,_the_man_who_wants_to_accuse_you_of_the_death_of_his_brother._If_you_aren't_at_the_Assembly,_you_won't_be_able_to_defend_yourself,_so_you_will_lose._Then_the_Assembly_will_banish_you_and_put_you_outside_the_protection_of_the_law._Any_and_every_Dane_is_free_to_kill_or_otherwise_mistreat_such_an_outlaw,_so,_to_the_contrary,_you_very_much_need_me_if_you_wish_to_get_your_mother_back_and_kill_Sven._Now,_listen_to_me.",
+    "old_translation": "看来你是笨得需要花光诸神欠你的好运气了。现在仔细听好，你必须在议事会中现身，在那里你不能没有我的保护。牛颈斯温也会出现，他要以自己兄弟被谋杀的罪名指控你。如果你不去参加议事会，将失去自保的机会，全盘皆输，议事会也会决定驱逐你。你将置身于法律之外，而任何一个丹麦人都有权杀死或者折磨你这样的罪犯。因此，与之相反，你亟需我的帮助以救回你的母亲，还有杀死斯温。现在，就听我的话。",
+    "translation": "看来你笨得要把诸神赐的运气全用光。听仔细：你必须出席议事会，而若无我的庇护，你根本进不去。牛颈斯温会在那里指控你杀害他的兄弟。你若不到场，便无法自辩，必输无疑；议事会将放逐你，使你不再受法律保护。任何丹麦人都可随意杀你或折磨你这法外之徒。因此，想救回母亲并杀死斯温，你恰恰需要我。现在，听我的。"
+  },
+  {
+    "text": "Sounds_good,_and_it's_just._While_our_interests_run_together,_we_will_be_allies._Then,_you'll_be_leaving_Danmark.",
+    "old_translation": "听起来不错，也很公正。只要还有利害关系，我们将保持同一阵线。在那以后，你要离开丹麦。",
+    "translation": "听起来不错，也公平。利益一致时，我们便是盟友；事后，你得离开丹麦。"
+  },
+  {
+    "text": "{s2}^^There_is_a_man_named_Guthrum,_who_is_a_faithful_man_respected_in_Danmark._I_will_ask_him_to_lead_Sigurd's_Vikings_to_provide_support_for_the_invasion_of_Englaland_by_the_sons_of_Ragnar._However,_my_proposal_will_not_succeed_if_Sigurd_'Snake_in_the_Eye'_presents_Bodo's_letter_in_the_Assembly_or_if_he_can_associate_me_with_the_death_of_Olvir_White_Hair.",
+    "old_translation": "{s2}^^有一个人叫古霍，他在丹麦广受尊敬，我将请求他率领西格德的维京远征军前往进攻英格兰。但是如果“蛇眼”西格德在议事会上出示了博多的信件，或者他能够把白发奥利维之死与我联系起来，我的计划就无法奏效了。",
+    "translation": "{s2}^^有个名叫古斯鲁姆的人，在丹麦备受敬重。我会请他率领西格德的维京人，支援拉格纳之子进攻英格兰。但若“蛇眼”西格德在议事会出示博多的信件，或把“白发”奥维尔之死与我牵连，我的提议便无法通过。"
+  },
+  {
+    "text": "Unfortunately,_the_letter_has_been_hidden._My_contacts_say_that_Sigurd_gave_it_to_Atli_Eiriksson,_his_second_man_after_Sven_Bull_Neck._Atli_sailed_from_Ribe_some_time_ago,_and_no_one_knows_his_fate._Perhaps_the_Ribe_port_master_knows_something,_but_he_will_not_talk_to_my_people._You_have_to_get_this_letter_soon_while_I_buy_loyalties_for_the_Assembly.",
+    "old_translation": "不走运的是，这封信被藏起来了。我的情报人员告诉我西格德将它交给了阿提利·埃里克逊，那是在牛颈斯温之后的二号人物。阿提利已经在一段时间前从里伯出海，没有人知道他的目的地。可能里伯的港口主管掌握了某些消息，但他不会告诉我的手下。当我在争取议事会的同情时，你必须设法取得那封信。",
+    "translation": "不幸的是，信件已被藏起。我的眼线说西格德把它交给了阿特利·艾里克森——仅次于牛颈斯温的二号人物。阿特利不久前从里伯出海，无人知其下落。也许里伯港务长知情，但他不会对我的手下开口。你得趁我收买议事会人心之际，尽快把信弄到手。"
+  },
+  {
+    "text": "Getting_the_information_could_be_expensive._I_need_more_money.",
+    "old_translation": "取得情报的代价是非常高昂的，我需要更多钱。",
+    "translation": "打听消息可能代价不菲，我需要更多钱。"
+  },
+  {
+    "text": "I'll_take_care_of_this,_but_need_some_financial_help.",
+    "old_translation": "我可以处理好这件事，但需要更多经济援助。",
+    "translation": "这事我来办，但得先借点钱。"
+  },
+  {
+    "text": "The_port_master_and_I_will_have_a_few_words.",
+    "old_translation": "港口主管会跟我好好谈谈的。",
+    "translation": "港口主管得跟我好好谈谈。"
+  },
+  {
+    "text": "I_know_the_Ribe_port_master,_and_he_is_an_ambitious_man._We_need_enough_money_to_purchase_the_information.",
+    "old_translation": "我认识里伯的港口主管，他是一个野心勃勃的人。我们需要更多金钱来换取消息。",
+    "translation": "我认得里伯的港口主管，那是个野心勃勃的家伙。得准备足够的银便士去买消息。"
+  },
+  {
+    "text": "Well,_I_reserve_some_of_my_treasure_for_these_contingencies._You_may_take_15,000_peningas._I_hope_it's_enough_to_pay_the_port_master_and_for_other_possible_expenses.",
+    "old_translation": "好吧，我为了以防万一，在私人宝库里存下了一笔钱，你可以拿去15000先令，我希望这就足够收买那个港口主管了。",
+    "translation": "好，我早为这种意外留了点积蓄。你拿一万五千银便士去，但愿够打发港口主管，也应付别的开销。"
+  },
+  {
+    "text": "Also,_if_you_want_to_keep_your_head_on_your_neck,_I_would_suggest_you_talk_to_Ulf_and_convince_him_not_to_testify_against_you_at_the_Assembly._Another_thing_that_might_help_would_be_to_have_good_relations_with_the_jarls_of_Danmark,_so_that_they_will_speak_well_of_you_at_the_Assembly._I_would_recommend_you_meet_them_and_try_to_get_acquainted",
+    "old_translation": "还有，如果你想保住自己的脑袋，我建议你跟乌尔夫谈谈，并说服他不要到议事会指证你。另一件能够帮助你的事情是，尽量与丹麦的雅尔们改善关系，希望他们会在议事会上为你说说好话，我建议你尝试跟他们交朋友。",
+    "translation": "还有，若想保住脑袋，最好去找乌尔夫，劝他在议事会上别作证。再一条，跟丹麦的雅尔们搞好关系，让他们在会上替你说几句好话。去结识他们吧。"
+  },
+  {
+    "text": "I_surely_will._I_value_my_neck.",
+    "old_translation": "当然，我的脑袋还有价值。",
+    "translation": "当然，我的脑袋还值钱呢。"
+  },
+  {
+    "text": "I_think_we_have_nothing_more_to_talk_about._Farewell.",
+    "old_translation": "我想我们没有更多可以讨论的了，再见。",
+    "translation": "该说的都说完了，再会。"
+  },
+  {
+    "text": "Your_neck_is_also_important_to_me_now,_so_trust_me._Good_luck.",
+    "old_translation": "你的脑袋对我也还很重要。祝你好运。",
+    "translation": "你的脑袋如今对我也重要，信我。祝好运。"
+  },
+  {
+    "text": "You're_right._I've_spent_much_time_here._Good_luck.",
+    "old_translation": "你说得对，我已经在这里花了很多时间。祝你好运。",
+    "translation": "你说得对，我在这儿已耽搁太久。祝好运。"
+  },
+  {
+    "text": "{s2}^^{playername},_we_have_a_mission_to_fulfill.",
+    "old_translation": "{s2}^^{playername}，我们还有一个任务要去完成。",
+    "translation": "{s2}^^{playername}，我们还有任务要完成。"
+  },
+  {
+    "text": "Very_well,_but_I_will_not_forget_you_or_your_betrayal,_Egil.",
+    "old_translation": "我不会忘记你的身份以及你的背叛，埃吉尔。",
+    "translation": "好，可我不会忘记你，也不会忘记你的背叛，埃吉尔。"
+  },
+  {
+    "text": "Yes,_let_us_not_waste_any_more_time.",
+    "old_translation": "对，不要浪费时间了。",
+    "translation": "对，别再耽搁了。"
+  },
+  {
+    "text": "{s2}^^You're_a_liar,_Egil._You_tricked_me,_I_trusted_you._I_thought_there_might_be_something_between_us,_and_all_you_wanted_was_information_about_{playername}._I..._we..._I_thought...^^{s3}",
+    "old_translation": "{s2}^^你是个骗子，埃吉尔。你耍了我，而我曾经相信你。我还以为我们之间能够发生些什么，而你的目的只是为了从{playername}身上刺探情报。我…我们…我想…^^{s3}",
+    "translation": "{s2}^^骗子！埃吉尔，你耍了我，我曾信你。我以为我们之间能有点什么，结果你只想套{playername}的情报。我……我们……我以为……^^{s3}"
+  },
+  {
+    "text": "{s2}^^King_Horik_is_my_king_and_my_father._My_loyalty_is_to_him_above_any_other._I_don't_have_to_give_anyone_an_explanation._I_didn't_use_Brunhild._We_both_had_fun._It's_her_fault_if_she_thought_that_it_was_something_more._She_should've_known_that_someone_like_me_will_never_marry,_and_certainly_not_a_Frisian_slave._You_can_think_whatever_you_want,_but_thanks_to_me,_you_have_the_support_of_my_father.",
+    "old_translation": "{s2}^^霍里克国王是我的主人，也是我的父亲，我对他的忠诚高于一切。我不需要向任何人解释，我也没有利用伯伦希尔，我们只是度过了一段愉快的时光。如果她误会了，只是她自己的错。她应该知道像我这种人是永远不会谈婚论嫁的，而对象更加不可能是一个弗里斯奴隶。随你怎么想，但是要知道如果没有我，你也无法得到我父亲的支持。",
+    "translation": "{s2}^^霍里克国王是我的君主，也是我的父亲，我的忠诚只给他，无需向任何人解释。我没利用布伦希尔德，我们只是一起取乐。她若多想，是她自己的错。她该明白，我这种人绝不会娶亲，更不会娶一个弗里斯奴隶。随你怎么想，可正因我，你才得到我父亲的支持。"
+  },
+  {
+    "text": "When_this_is_over,_you_will_walk_away._You_will_go_back_to_your_dear_father.",
+    "old_translation": "当一切结束之后，你必须离开，滚回去你亲爱的父亲身边。",
+    "translation": "等这事了结，你就滚蛋，回你父亲身边去。"
+  },
+  {
+    "text": "You'll_pay_for_what_you've_done_to_Brunhild._When_this_is_over,_I_will_duel_you.",
+    "old_translation": "你将要为你对伯伦希尔所做的事情付出代价。当这一切结束的时候我会杀了你。",
+    "translation": "你对布伦希尔德做的事得付出代价，事了之后我要跟你决斗。"
+  },
+  {
+    "text": "I_do_not_want_to_talk_about_this._It's_time_to_go.",
+    "old_translation": "我不想谈论这个，我该走了。",
+    "translation": "我不想再谈，我得走了。"
+  },
+  {
+    "text": "{s2}^^Why_have_you_been_so_long_in_coming?_Sigurd_Ragnarsson_is_looking_strong.",
+    "old_translation": "{s2}，你为何来得如此之慢？西格德·拉格纳逊可不好惹。",
+    "translation": "{s2}^^你怎么来得这么慢？西格德·拉格纳逊势头正盛。"
+  },
+  {
+    "text": "I_had_to_resolve_some_issues,_but_still,_I_arrived_on_time.",
+    "old_translation": "我不得不去处理一些问题，但是我仍然按时到达了。",
+    "translation": "我得处理些麻烦，可还是准时到了。"
+  },
+  {
+    "text": "I_came_as_soon_as_I_got_your_message._Maybe_it_was_your_messenger_who_was_delayed?",
+    "old_translation": "我一接到你的消息我就赶来了——或许是你的信使延误了？",
+    "translation": "一收到消息我就动身，也许是你的信使耽搁了？"
+  },
+  {
+    "text": "No_matter,_I_think_they_are_also_awaiting_your_arrival,_which_means_that_maybe_I_should_not_have_sent_for_you._I_suspect_they_have_some_ploy_to_launch._Sigurd_Ragnarsson_has_complained_of_800_men_who_cannot_board_because_I_will_not_let_him_lead_them._That_much_is_true,_because_I_proposed_that_Guthrum_lead_them._The_problem_is_that_Guthrum_some_days_ago_suffered_the_misfortune_to_have_been_killed_on_his_farm._They_accuse_outlaws_and_criminals_of_burning_down_his_house_whilst_he_was_hosting_a_feast_inside._I_think_that_it_was_Sven_Bull_Neck,_the_prow_man_of_Sigurd's_hird,_who_did_it,_but_I_have_no_evidence_or_witnesses._Everything_and_everyone_was_burned_with_the_house.",
+    "old_translation": "没有关系，我想他们也正在等待你呢，或许我不应该给你送信。我怀疑他们要发起一场诉讼。西格德·拉格纳逊抱怨有800名士兵无法登船，因为我不允许让他领导他们。这是真的，因为我提出让古霍来领军。问题是，数天之前古霍遭遇了不测——他在自己的农场上被谋害了。他们指责那些罪犯在他正在举行宴会时焚毁了他的房子。我认为这是牛颈斯温——西格德手下那个最勇敢的人干的，但我没有证据，也没有目击证人，一切都随着那所房子被焚毁了。",
+    "translation": "无妨，我看他们也在等你，也许我根本不该送信。我怀疑他们要耍手段。西格德·拉格纳逊抱怨有八百人上不了船，因为我不让他带队。确有其事，我提议由古斯鲁姆率领。问题是，几天前古斯鲁姆在自家农庄遭了难——房子被烧，他正宴客在内。他们怪罪逃犯和匪徒，我却怀疑是西格德亲兵的船首“牛颈”斯温干的，可没有证据，也无活口，房子和人都烧光了。"
+  },
+  {
+    "text": "Everything_taken_together,_the_situation_is_quite_serious._Since_Guthrum_is_dead,_Sigurd_is_pushing_hard_to_gain_control_of_those_800_men._I_fear_he_wishes_to_use_them_to_take_my_throne.",
+    "old_translation": "形势非常严峻：自从古霍死后，西格德一直在想方设法控制那800个人，我担心他想利用这些士兵篡夺我的地位。",
+    "translation": "总的说来，局势严峻：古斯鲁姆一死，西格德就拼命想吞那八百人，我怕他要用他们夺我的王位。"
+  },
+  {
+    "text": "Let's_see_what_happens.",
+    "old_translation": "让我们看看发生了什么。",
+    "translation": "走着瞧吧。"
+  },
+  {
+    "text": "I_do_not_care_about_your_problems._I'm_here_for_Bull_Neck_Sven_and_my_mother.",
+    "old_translation": "我不关心你的问题。我来这儿是来找牛颈斯温和我的母亲的。",
+    "translation": "你的麻烦与我无关，我来找牛颈斯温和我母亲。"
+  },
+  {
+    "text": "My_problems_are_your_problems._If_Sigurd_triumphs,_your_life_will_be_worth_nothing_without_my_protection._The_Assembly_will_name_you_an_outlaw._You_will_lose_everything_and_have_to_hide_in_the_woods_until_someone_kills_you.",
+    "old_translation": "我的问题就是你的问题。如果西格德赢了，你若没有我的保护将会变得一无所有。你将会被剥夺法律的保护，失去一切，只能躲藏在森林之中直到某一天被人所杀。",
+    "translation": "我的麻烦就是你的麻烦。若西格德得胜，没有我护着你，你的命一文不值。议事会会判你 outlaw，你将失去一切，只能躲进林子，直到哪天被人干掉。"
+  },
+  {
+    "text": "{s2}^^Greetings,_{playername}._Sven_Bull_Neck_has_permission_to_speak_to_the_assembly_now._Let's_see_what_that_rat_has_to_say.",
+    "old_translation": "{s2}^^问候您，{playername}！牛颈斯温现在被允许在议事会上发言。让我们看看这只耗子要说什么吧。",
+    "translation": "{s2}^^向您致意，{playername}。“牛颈”斯温现在获准向大会发言。咱们听听这只耗子要放什么屁。"
+  },
+  {
+    "text": "Silence!_Let's_see_what_that_snake_has_to_say.",
+    "old_translation": "安静！让我们看看这条毒蛇要说什么。",
+    "translation": "安静！看看这条毒蛇要吐什么信子。"
+  },
+  {
+    "text": "{s2}^^Men_of_Danmark,_you_know_me._When_I_was_little_more_than_a_child,_I_was_with_Ragnar_when_he_sacked_Frankia_with_120_ships_and_more_than_4,000_men,_an_adventure_that_the_skalds_still_relate._I_am_the_man_who_led_400_Vikings_in_West_Seaxe,_the_strongest_kingdom_in_Englaland,_to_obtain_great_fame_and_wealth._Therefore,_men_fear_me_across_Friese,_Englaland,_and_Frankia,_but_here_in_Danmark,_they_rightfully_respect_and_love_me.",
+    "old_translation": "{s2}^^丹麦的人民，你们了解我。当我还年轻的时候，我就和拉格纳并肩作战。他曾率领120艘战舰和4000多人洗劫了法兰克，那是一场被吟游诗人传唱的冒险。我当时就领导着400名维京人前往西撒克逊——英格兰最强大的王国——以获得荣耀和财富。弗里斯、英格兰和法兰克都畏惧我的名声，但只有丹麦这里的人真正的尊重并爱戴我。",
+    "translation": "{s2}^^丹麦的汉子们，你们认得我。我还几乎是个孩子时，就随拉格纳率一百二十艘船、四千多人劫掠法兰克，这段事迹吟游诗人至今传唱。我亲率四百名维京人深入英格兰最强王国西撒克逊，赢得赫赫名声与财富。因此，弗里斯、英格兰、法兰克都畏我之名，而在丹麦，人们正当地敬我爱我。"
+  },
+  {
+    "text": "I_had_a_brother,_Olvir_White_Hair,_a_better_man_than_me._He_was_a_man_of_honor,_loved_by_the_gods,_but_in_the_prime_of_life,_he_was_murdered._Now_the_king_protects_his_murderer._I_have_never_demanded_anything_of_the_Assembly,_but_now_I_call_for_justice._Is_it_right_that_his_murderer_be_here,_among_us,_or_that_a_king_protect_evil?_Shall_murderers_go_unpunished_in_this_land?^^{s2}",
+    "old_translation": "我有一个兄弟，白发奥利维，他比我强。他是个荣耀的，受诸神眷顾的家伙，而且他正值壮年。但是他却被谋杀了，而且谋杀他的人还受到国王的保护。我从未向议事会要求过任何事情，但是现在我要求伸张正义！现在这个凶手就在这儿，就在我们之间，就是国王在保护着邪恶！这样的凶手难道不应该受到惩罚吗？！^^{s2}",
+    "translation": "我曾有一个兄弟，“白发”奥维尔，比我更出色。他荣耀正直，受诸神眷顾，却在盛年被谋杀。如今国王庇护那凶手。我从未向大会提过要求，现在我要求正义。凶手竟能混迹于我们之中？国王竟能包庇邪恶？在这片土地上，杀人者可以不受惩罚吗？^^{s2}"
+  },
+  {
+    "text": "{s2}^^It's_what_we_expected._They_use_you_to_attack_King_Horik_and_undermine_his_authority.",
+    "old_translation": "{s2}^^这就是我们所预料的。他们利用你攻击霍里克国王，并削弱他的地位。",
+    "translation": "{s2}^^不出所料，他们拿你当枪使，攻击霍里克国王，动摇他的权威。"
+  },
+  {
+    "text": "{s2}^^Everyone_knows_your_worth,_Sven_Bull_Neck,_and_the_feats_you've_done_in_your_past,_but_your_words_seem_to_indicate_that_a_king_could_support_a_murderer._This_charge_is_very_grave._The_Assembly_shall_now_listen_to_King_Horik's_response.",
+    "old_translation": "{s2}^^所有人都清楚你的名声，牛颈斯温，还有你过去犯下的累累罪行。但你的话似乎在指控一个国王可能会支持一个刽子手，这个指控非常严肃。议事会现在会听取霍里克国王的回应。",
+    "translation": "{s2}^^人人都知道你的名声，“牛颈”斯温，也知道你过去的功绩，可你的话似乎在指称国王可能包庇凶手，这指控极重。大会现在听取霍里克国王的回应。"
+  },
+  {
+    "text": "Sven_insults_me._I_have_never_protected_nor_will_ever_protect_a_murderer._If_that_were_what_I_was_doing,_it_was_in_ignorance._{playername}_came_to_me_for_protection_as_a_free_{reg59?lady:man},_and_I_gave_it_to_{reg59?her:him}_after_{reg59?she:he}_proved_{reg59?her:his}_worth._The_story_{reg59?she:he}_told_me_about_the_death_of_Olvir_White_Hair_is_quite_different.",
+    "old_translation": "斯温在侮辱我。我从未，也永远不会保护一个谋杀犯的。如果说那是我曾经干过的事的话，那也只是出于无知。{playername}作为一名自由的{reg59?女士:绅士}来寻求我的保护，而{reg59?她:他}在证明了自己价值之后我便给予保护。{reg59?她:他}告诉我关于白发奥利维的死亡真相完全是另一回事。",
+    "translation": "斯温在侮辱我。我从未、也绝不会包庇凶手。若我曾这么做，那也是因为无知。{playername}以自由{reg59?女士:男子}之身来寻求我的庇护，{reg59?她:他}证明了自己的价值后，我便给予保护。{reg59?她:他}告诉我的“白发”奥维尔之死，完全是另一个版本。"
+  },
+  {
+    "text": "Now,_it_is_time_for_the_accused_to_speak_on_this_matter.",
+    "old_translation": "现在，应该让受指控的一方进行陈述了。",
+    "translation": "现在，让被告就此事发言。"
+  },
+  {
+    "text": "You_decide_to_discredit_Sven_Bull_Neck._(Persuasion)",
+    "old_translation": "你决定质疑牛颈斯温。（说服）",
+    "translation": "你决定质疑“牛颈”斯温的可信度。（说服）"
+  },
+  {
+    "text": "You_decide_to_appeal_to_the_crowd's_sympathy_by_mentioning_your_mother's_kidnapping.",
+    "old_translation": "你决定提及你母亲被绑架的事情以争得民众的同情。",
+    "translation": "你决定提起母亲被绑架的往事，以博取众人同情。"
+  },
+  {
+    "text": "You_think_it_better_to_describe_events_without_mentioning_your_mother's_kidnapping.",
+    "old_translation": "你认为最好不要在描述事件的时候提起你的母亲被绑架的事情。",
+    "translation": "你认为描述经过时还是不提母亲被绑架更好。"
+  },
+  {
+    "text": "My_name_is_{playername}._Olvir_White_Hair_tried_to_kill_me_at_the_behest_of_his_brother,_Sven_Bull_Neck._I_was_at_peace_on_Ulf's_farm,_where_I_had_gone_by_agreement_with_Sigurd_Ragnarsson,_present_here_today._Olvir_White_Hair_came_there_with_several_men_to_try_to_kill_me._As_I_always_take_strong_issue_with_such_a_project,_it_was_Olvir_who_died._I_ask_you,_why_did_Sven_send_Olvir_if_he_is_the_one_who_wants_to_get_rid_of_me?_I_think_it's_because_he_fears_me._Despite_all_of_his_bold_words,_he_is_in_fact_a_coward_who_attacks_defenseless_ships_and_hides_behind_the_cloak_of_his_lord.",
+    "old_translation": "我的名字是{playername}。白发奥利维受到他兄弟牛颈斯温的指使，试图杀掉我。我在乌尔夫的农场上没有任何胡作非为，因为我是遵照和西格德·拉格纳逊的约定，在那一天去碰面，而白发奥利维带了一些人来试图杀我。我问你，如果斯温能够解决掉我的话，他为何又要派奥利维来？我认为这是因为他们害怕我。不要理会他貌似坚定的话，他实际上不过就是个只会攻击毫无防备的船只的懦夫、领主的走狗罢了。",
+    "translation": "我叫{playername}。“白发”奥维尔受他兄弟“牛颈”斯温指使，想取我性命。我按约前往乌尔夫的农场，与今日在场的西格德·拉格纳逊会面，奥维尔却带人前来杀我。我向来不容这种勾当，结果死的是他。试问，若斯温想除掉我，为何派奥维尔？因为他怕我。别听他豪言壮语，他其实是个只敢袭击无防船只、躲在领主披风后的懦夫。"
+  },
+  {
+    "text": "My_name_is_{playername},_and_I'm_no_murderer._Olvir's_death_was_self-defense._Sven_Bull_Neck_had_kidnapped_my_mother,_but_Sigurd_Ragnarsson_promised_to_give_her_back_to_me_at_Ulf's_farm._Instead,_he_sent_Olvir_White_Hair_to_kill_me._Although_Olvir_White_Hair_fought_hard_during_the_battle,_he_was_wounded_and_died.",
+    "old_translation": "我的名字是{playername}，而且我不是谋杀犯，奥利维的死完全是他咎由自取。我的母亲被牛颈斯温绑架了，西格德·拉格纳逊答应在乌尔夫的农场附近将她归还于我，然而，他派来白发奥利维杀我。虽然奥利维在战斗中异常凶狠，他最终还是负伤并死了。",
+    "translation": "我叫{playername}，不是凶手。奥维尔之死纯属自卫。我母亲被“牛颈”斯温掳走，西格德·拉格纳逊答应在乌尔夫的农场把她还我，却派“白发”奥维尔来杀我。奥维尔虽勇猛，终因伤势过重而死。"
+  },
+  {
+    "text": "My_name_is_{playername},_and_I'm_no_murderer._Olvir's_death_was_self-defense._I_was_at_Ulf's_farm,_waiting_for_Sigurd_Ragnarsson's_messenger._Instead,_Olvir_White_Hair_came_and_attacked_me,_but_he_was_mortally_wounded_during_the_battle.",
+    "old_translation": "我的名字是{playername}，而且我不是谋杀犯，奥利维的死完全是他咎由自取。我当时在乌尔夫的农场，等待西格德·拉格纳逊的信使，结果来的却是白发奥利维，而且他还攻击我。在战斗中奥利维受了致命伤，最终死了。",
+    "translation": "我叫{playername}，不是凶手。奥维尔之死纯属自卫。我在乌尔夫的农场等西格德·拉格纳逊的信使，来的却是“白发”奥维尔，他先动手，结果在搏斗中受致命伤而死。"
+  },
+  {
+    "text": "{s2}^^Well_spoken._I_think_you've_left_him_speechless.",
+    "old_translation": "{s2}^^说得好！我相信你已使得他无话可说。",
+    "translation": "{s2}^^说得好！我看他已哑口无言。"
+  },
+  {
+    "text": "{reg59?Her:His}_mother_was_bounty_from_off_the_shores_of_Friese._When_I_was_raiding,_I_attacked_a_ship_called_the_Woden_Ric._She_was_my_slave,_as_was_my_right,_but_I_found_that_she_is_a_seidr._Now_she_advises_me_--_as_my_wife.^^{s2}",
+    "old_translation": "当我们出航时，我们攻击了一艘叫做沃登里克号的船，她是我的奴隶，这是我的权利，但是后来我发现她是一个女巫。现在她已经是……我的妻子。^^{s2}",
+    "translation": "{reg59?她:他}母亲是我攻打弗里西海岸时从‘沃登里克号’上夺来的战利品。她本是我的奴隶，可我发现她会赛德巫术，如今她成了我的妻子，为我出谋划策。^^{s2}"
+  },
+  {
+    "text": "We_have_heard_both_parties._It_is_time_to_call_the_witnesses.",
+    "old_translation": "我们已经听了双方的陈述，现在传唤目击证人。",
+    "translation": "双方陈词已毕，现在传唤证人。"
+  },
+  {
+    "text": "{s2}^^I_am_Egil._You_all_know_me_here,_and_may_the_gods_damn_me_if_I_lie._I_was_at_Ulf's_farm_when_Olvir_White_Hair_came._My_father,_King_Horik,_is_always_concerned_about_what_happens_in_this_land._He_compelled_me_to_travel_with_{playername}._Olvir_White_Hair_came_with_many_men._I_swear_it_was_he_who_started_the_fight._Olvir_died_a_good_death,_but_he_was_the_one_who_caused_the_melee._{playername}_isn't_guilty_of_murder.",
+    "old_translation": "{s2}^^我是埃吉尔，这儿的人都认识我，如果我说谎的话，愿诸神惩罚我。当白发奥利维来的时候，我就在乌尔夫的农场。我的父亲，霍里克国王，总是很担心这块土地上发生的事情，于是他指派我和{playername}同行。白发奥利维来的时候带了很多人，我发誓是他先挑起事端的。奥利维死得光荣，但是是他挑起了这场决斗。{playername}并不是谋杀犯。",
+    "translation": "{s2}^^我是埃吉尔，诸位都认得我，若我撒谎，愿诸神罚我。“白发”奥维尔到乌尔夫的农场时，我就在那里。家父霍里克国王一向关心此地事务，命我与{playername}同行。奥维尔带了一大帮人，我发誓是他先动手。奥维尔死得壮烈，可混战是他挑起的。{playername}并非凶手。"
+  },
+  {
+    "text": "Unfortunately_for_you,_I_can_show_that_you_are_a_liar._Olvir_did_not_die_a_good_death,_for_the_murderer_has_Olvir's_sword._{reg59?She:He}_did_not_let_my_brother_hold_the_sword_in_his_last_moments,_denying_him_Walhalla._Egil_is_a_liar,_and_his_testimony_is_not_valid.",
+    "old_translation": "很不幸，我可以证明你说的是假话。奥利维并不是那样光荣地死去的，奥利维的剑还在谋杀犯的手上，{reg59?她:他}没有让我的兄弟在他弥留之际握着他的剑，他的灵魂无法栖身于英灵殿。埃吉尔在说谎，他的证词无效。",
+    "translation": "可惜，我能证明你在撒谎。奥维尔并未光荣赴死，凶手还拿着他的剑，{reg59?她:他}没让我兄弟临终握剑，使他无缘英灵殿。埃吉尔撒谎，证词无效。"
+  },
+  {
+    "text": "{s2}^^We_have_heard_from_a_witness._Thank_you,_Egil._Sven_Bull_Neck,_do_you_have_any_witnesses?",
+    "old_translation": "{s2}^^我们已经听取了一位目击证人的证词，谢谢你，埃吉尔。牛颈斯温，你有目击证人吗？",
+    "translation": "{s2}^^证人发言完毕，谢谢你，埃吉尔。“牛颈”斯温，你有证人吗？"
+  },
+  {
+    "text": "{s2}^^Egil_has_lied._Therefore,_his_testimony_is_not_valid._Sven_Bull_Neck,_do_you_have_any_witnesses?",
+    "old_translation": "{s2}^^埃吉尔撒了谎，因此，他的证言无效。牛颈斯温，你有目击证人吗？",
+    "translation": "{s2}^^埃吉尔撒谎，证词无效。“牛颈”斯温，你有证人吗？"
+  },
+  {
+    "text": "I_had_an_important_witness,_Ulf_Thorirsson,_but_he_has_not_come_to_the_Assembly._Another_man_told_me_how_my_brother_was_killed,_but_he_will_not_testify_in_this_case.",
+    "old_translation": "我有个很重要的目击证人，乌尔夫·索里逊，但是他没有来议事会。另外一个人告诉我我的兄弟是如何被杀的，但是在这种情况下他不会出席作证。",
+    "translation": "我本有位重要证人乌尔夫·索里逊，但他没来大会。另一个人告诉我兄弟被杀的经过，可他不愿在此案作证。"
+  },
+  {
+    "text": "We_would_like_to_hear_from_the_jarls_in_attendance._What_are_your_opinions?",
+    "old_translation": "我们想听听领主们的话，你的意见是什么？",
+    "translation": "我们想听听在座各位领主的意见，你们怎么看？"
+  },
+  {
+    "text": "{s2}^^Invoking_the_wisdom_of_Odin,_we_are_ready_to_give_a_verdict.",
+    "old_translation": "{s2}^^感谢奥丁赐予的智慧，我们已准备好给出裁定。",
+    "translation": "{s2}^^借奥丁的智慧，我们准备宣布裁决。"
+  },
+  {
+    "text": "I,_Sigurd,_son_of_Ragnar_Lodbrok,_ask_permission_to_speak,_because_this_case_is_nothing_more_than_a_branch_of_a_big_tree,_and_a_branch_may_hide_the_real_problem.",
+    "old_translation": "我，西格德，拉格纳·罗德伯克的儿子，请求发言，因为这个不仅仅是一棵大树的一束枝桠，也有可能隐藏着真正的问题。",
+    "translation": "我，拉格纳·‘毛裤子’之子西格德，请求发言，因此案不过是大树一枝，而枝叶可能掩盖真正的问题。"
+  },
+  {
+    "text": "Speak_then,_Jarl_Sigurd,_son_of_Ragnar,_whose_memory_we_all_cherish,_and_who_awaits_us_among_the_hosts_of_the_gods,_preparing_for_Ragnarok.",
+    "old_translation": "那么说吧，西格德雅尔，拉格纳之子，你父亲的名字我们所有人都倍加崇敬，他在众神之间等待着我们，为了诸神之黄昏时刻准备着。",
+    "translation": "那就说吧，雅尔西格德，拉格纳之子，我们所有人都怀念的拉格纳，他正与众神同在，为诸神黄昏备战。"
+  },
+  {
+    "text": "{s2}^^When_my_father_was_alive,_this_assembly_of_free_men_would_not_have_had_much_consideration_for_a_bandit_who_had_killed_a_good_man_like_Olvir_White_Hair._However,_times_change_--_rather,_some_men_have_caused_that_change._Now_this_Thing,_this_Assembly,_is_but_a_toy_in_the_hands_of_a_king._That_{reg59?woman:man},_{playername}_is_only_a_pawn_of_larger_forces.",
+    "old_translation": "{s2}^^当我的父亲还活着的时候，议事会是不会对一个土匪杀了一个好人这样的事情有过多争议的。但是时代改变了，某些人造成了这些改变，而现在议事会不过是国王手中的玩物而已。这个{reg59?女人:男人}，{playername}只不过是大靠山的一个小卒子。",
+    "translation": "{s2}^^我父亲在世时，这群自由人绝不会把杀害“白发”奥维尔这种好人的匪徒当回事。可时代变了——更确切说，是某些人让它变了。如今这场庭会、这场大会，不过是国王手里的玩具。那{reg59?女人:男人}，{playername}，只是更大势力的一枚棋子。"
+  },
+  {
+    "text": "{s2}^^My_king,_Sigurd_'Snake_in_the_Eye'_is_not_here_to_deal_with_{playername};_he_wants_you._He_wants_the_throne,_as_we_feared.",
+    "old_translation": "{s2}^^我的国王，“蛇眼”西格德不是冲着{playername}来的，而是你。我们担心他想篡夺你的位置。",
+    "translation": "{s2}^^我的国王，“蛇眼”西格德不是来对付{playername}的，他要的是你。他觊觎王位，正如我们所担心的。"
+  },
+  {
+    "text": "{s2}^^Father,_we_should_cut_short_Sigurd's_speech._{playername}_must_admit_{reg59?her:his}_guilt_and_be_punished_by_the_Assembly!_{reg59?She:He}_must_be_sacrificed_to_end_this_ploy_now,_or_you_may_lose_your_throne._Sigurd_'Snake_in_the_Eye'_is_a_shrewd_man._He_would_not_openly_attack_you_in_the_Assembly_if_he_did_not_have_the_upper_hand.",
+    "old_translation": "{s2}^^父亲，我们应当缩短西格德的发言。{playername}必须承认{reg59?她的:他的}罪行并受到议事会的惩罚，现在就结束这场审判！{reg59?她:他}必须牺牲，否则你就可能会失掉你的王位。“蛇眼”西格德是个狡猾的人，如果不是留有后手得话，他是不会公开地在议事会上攻击你的。",
+    "translation": "{s2}^^父亲，我们该立刻打断西格德的发言。{playername}必须承认{reg59?她的:他的}罪行，接受大会惩处！{reg59?她:他}必须被献祭，立刻终结这场阴谋，否则您可能失去王位。“蛇眼”西格德狡诈得很，若不是占尽上风，他绝不会在大会上公然攻击您。"
+  },
+  {
+    "text": "Egil,_damn_traitor,_I_will_not_admit_any_guilt._I'm_innocent.",
+    "old_translation": "埃吉尔，该死的叛徒！我不承认我犯了罪，我是无辜的。",
+    "translation": "埃吉尔，该死的叛徒！我绝不认罪，我是清白的。"
+  },
+  {
+    "text": "If_this_is_what_you_need_to_do,_I_will_say_I_am_guilty_to_save_the_king.",
+    "old_translation": "如果这就是你需要做的，我会说我后悔救了国王。",
+    "translation": "如果必须如此，我愿承认有罪，以保国王无恙。"
+  },
+  {
+    "text": "Let's_remain_calm_here._We_must_not_do_anything_that_would_cost_us_the_respect_of_the_Assembly._The_balance_of_power_is_very_delicate,_and_here_the_jarls_are_very_important._We_need_to_see_what_Sigurd_has_against_us.",
+    "old_translation": "请保持安静。我们不能做任何对议事会有所不敬的事。维持权力的平衡是一件微妙的事情，在这里领主们是十分关键的。我们需要看看西格德究竟在反对我们什么。",
+    "translation": "诸位冷静。我们绝不能做出让大会失去敬意的事。权力平衡极其微妙，雅尔们在此举足轻重。先听听西格德手里有什么牌。"
+  },
+  {
+    "text": "{s2}^^Sven_had_a_witness,_Ulf_Thorirsson,_who_would_have_agreed_that_Olvir_was_murdered,_but_King_Horik_sent_{playername}_to_Ulf's_farm_to_silence_him._I_had_another_man,_Atli_Eiriksson,_who_was_very_faithful_and_dear_to_me._I_entrusted_him_with_the_mission_of_protecting_important_evidence_for_this_Assembly,_but_King_Horik_sent_{playername}_to_kill_him.^^{s3}",
+    "old_translation": "{s2}^^斯温有一个目击者，乌尔夫·索里逊，他能指认出谁是谋杀犯，但是霍里克国王派遣{playername}去Ulf的农场，结果斯温失去了他最好的目击证人。我有另外一个人，阿提利·埃里克逊，他对我衷心无二，我委托他为议事会保护一些对我来说非常重要的东西。但是霍里克国王又派遣{playername}杀死了他。^^{s3}",
+    "translation": "{s2}^^斯温本有证人乌尔夫·索里森，能证明奥维尔被谋杀，可霍里克国王派{playername}去了乌尔夫的农场，让他永远闭嘴。我还有另一位忠心的亲信阿特利·艾里克森，我托他保管关键证物，可霍里克国王又派{playername}杀了他。^^{s3}"
+  },
+  {
+    "text": "{s2}^^Sigurd_Ragnarsson,_you_talk_a_lot,_insult_and_offend_my_honor,_but_you_lack_evidence_or_witnesses._This_will_not_end_well_for_you.",
+    "old_translation": "{s2}^^西格德·拉格纳逊，你说了很多侮辱和冒犯我的荣誉的话，但是你没有证据也没有证人，这对你没有好处。",
+    "translation": "{s2}^^西格德·拉格纳逊，你滔滔不绝，侮辱我的荣誉，却拿不出证据或证人，这对你没好处。"
+  },
+  {
+    "text": "Let_him_finish._All_of_us_here_want_to_know_what_is_happening.",
+    "old_translation": "让他说完，我们所有人都想知道发生了什么。",
+    "translation": "让他说完，我们所有人都想知道真相。"
+  },
+  {
+    "text": "I_just_defend_my_honor!",
+    "old_translation": "我只是在捍卫我的荣誉！",
+    "translation": "我只是在捍卫我的荣誉！"
+  },
+  {
+    "text": "Yes,_he_has_the_right_and_permission_to_speak._If_he_proves_what_he_speaks_of,_it_may_be_time_to_change_the_kingship.",
+    "old_translation": "是的，他有权利也被允许说话。如果他能证明他所说的，那么或许是时候考虑王位问题了。",
+    "translation": "没错，他有权发言。若他真能证实所言，或许王位该换人了。"
+  },
+  {
+    "text": "King_Horik_is_a_good_king._You'd_better_be_able_to_prove_this,_Sigurd.",
+    "old_translation": "霍里克是一位好国王，你最好能够证明这些指控，西格德。",
+    "translation": "霍里克是贤王。你最好拿得出证据，西格德。"
+  },
+  {
+    "text": "Everything_will_come_in_time,_but_first_I_want_to_continue_with_my_assertion_that_the_problem_is_much_bigger_than_we_think._Eight_hundred_Vikings_are_ready_to_embark_for_Englaland_in_aid_of_my_brothers._We_could_have_been_talking_about_more_than_1200_men,_for_the_jarl_of_Kennemer_promised_me_more_than_400,_but_King_Horik_sent_{playername}_to_Friese_to_sabotage_this_treaty._As_if_that_were_not_enough,_the_king_then_proposed_that_Guthrum_lead_these_men,_when_I_was_the_one_that_made_all_effort_to_gather_them_and_get_the_boats_and_provisions...",
+    "old_translation": "该来的都会来，但首先，我想继续我的声明：这个问题比我们想的要严重许多。800名维京人正准备登陆英格兰以援助我的弟兄们。我们本该谈论的是1200人，因为肯尼莫的雅尔答应给我400人。但是霍里克国王却派遣{playername}到弗里斯妨碍了这场谈判。似乎嫌这样还不够，国王又提议由古霍领导这些人，忽视了我，而我才是聚集起这些人并准备好船只和补给的人。",
+    "translation": "一切自有公论，但先听我把话说完：问题远比我们想的严重。八百名维京人已整装待发，要随我兄弟远征英格兰。本可凑足一千二百人，因肯尼莫的雅尔答应再出四百，可霍里克国王派{playername}去弗里西搅黄了盟约。这还不够，国王又提议让古斯鲁姆统率全军，而招兵买马、备船筹粮的却是我……"
+  },
+  {
+    "text": "Sigurd_Ragnarsson,_your_accusation_is_very_serious._Do_you_have_any_evidence_or_witnesses_who_can_confirm_what_you_say?",
+    "old_translation": "西格德·拉格纳逊，你的指控是非常严肃的，你有任何证据或者目击证人能证实你说的话吗？",
+    "translation": "西格德·拉格纳逊，你的指控极其严重，可有证据或证人能作证？"
+  },
+  {
+    "text": "Yes,_there_is_a_man_who_has_traveled_with_{playername}_all_that_time,_who_is_among_us_right_now,_willing_to_testify_at_this_Assembly._His_name_is_Reginhard,_and_he_is_a_servant_of_the_jarl_of_Kennemer.",
+    "old_translation": "是的，有一个人一直跟着{playername}旅行，他现在就在我们之间，他准备好出庭作证。他的名字是雷因哈德，他是肯内梅尔领主的仆人。",
+    "translation": "有。此人一路随{playername}同行，此刻就在我们当中，愿在大会作证。他叫雷因哈德，是肯尼莫雅尔的仆人。"
+  },
+  {
+    "text": "Reginhard,_approach._Do_you_confirm_that_the_words_of_Sigurd_Ragnarsson_are_true?",
+    "old_translation": "雷因哈德，上前来。你确定西格德·拉格纳逊所言属实吗？",
+    "translation": "雷因哈德，上前来。你确认西格德·拉格纳逊所言属实吗？"
+  },
+  {
+    "text": "{s2}^^I..._well..._yes,_right._I_met_{playername}_in_Friese_when_{reg59?she:he}_tried_to_gain_the_trust_of_the_jarl_of_Kennemer_by_killing_Thiaderd,_a_person_that_I_loved._Then,_{reg59?she:he}_betrayed_the_jarl_of_Kennemer_and_came_to_Danmark,_where_{reg59?she:he}_has_pursued_Sven_Bull_Neck_and_Sigurd_Ragnarsson,_as_{reg59?she:he}_hates_them_as_enemies._So_Olvir_and_Atli_were_killed,_and_{reg59?she:he}_allied_with_King_Horik._I_swear_it_is_the_truth.",
+    "old_translation": "{s2}^^我…呃…是的，没错。我在弗里斯见到了{playername}，当时{reg59?她:他}试图以杀死泰德来获得肯尼莫的雅尔的信任。然后{reg59?她:他}背叛了肯尼莫的雅尔并回到了丹麦，{reg59?她:他}在那里追踪牛颈斯温和西格德·拉格纳逊，{reg59?她:他}憎恨他们。所以奥利维和阿提利被杀了，而且霍里克国王是{reg59?她:他}的同党。我发誓这些都是事实。",
+    "translation": "{s2}^^我……呃……是的，没错。我在弗里西遇见{playername}，当时{reg59?她:他}为骗取肯尼莫雅尔的信任，杀了提亚德尔——我最爱的人。随后{reg59?她:他}背叛雅尔回到丹麦，一路追杀“牛颈”斯温和西格德·拉格纳逊，因为{reg59?她:他}视他们为敌。于是奥维尔和阿特利被杀，{reg59?她:他}与霍里克国王结盟。我发誓句句属实。"
+  },
+  {
+    "text": "{s2}^^Reginhard?_Why?",
+    "old_translation": "{s2}^^雷因哈德？为什么？",
+    "translation": "{s2}^^雷因哈德？为什么？"
+  },
+  {
+    "text": "{s2}^^{playername}_is_a_murderer._Thiaderd_was_like_a_brother_to_me,_and_{playername}_killed_him_and_all_his_family!_Even_his_son!_I_promised_that_one_day_I_would_avenge_Thiaderd,_and_that_day_has_come._I_just_want_to_be_happy,_have_a_farm,_wife,_and_children,_but_{playername}_brings_only_misfortune_wherever_{reg59?she:he}_goes._I_need_to_feel_protected,_and_Sigurd_has_promised_me_everything_that_I_wish_for.",
+    "old_translation": "{s2}^^{playername}是谋杀犯。泰德对于我而言就如同兄弟一般，而{playername}不仅杀了他，还杀了他的全家，甚至包括他的儿子！我发誓过有一天我会为泰德报仇的，而现在，这一天来到了。我只不过想要一座农场，一个妻子和一帮孩子，但是{playername}只会为{reg59?她:他}所经过之处带来不幸。我寻求保护，而西格德已经答应他能给我想要的一切。",
+    "translation": "{s2}^^{playername}是凶手。提亚德尔待我如兄，{playername}却杀他全家，连孩子都不放过！我发誓要为他报仇，今天终于等到机会。我只想要一座农场、一个妻子、一群孩子，可{playername}所过之处只剩灾祸。我需要庇护，而西格德答应给我想要的一切。"
+  },
+  {
+    "text": "{s2}^^My_quarrel_is_not_with_you,_Egil._Thiaderd_was_like_a_brother_to_me,_and_{playername}_lied_to_me_in_order_to_take_him_and_kill_him._I_won_{playername}'s_trust_and_promised_that_one_day_I_would_avenge_Thiaderd's_death,_and_that_day_has_come._I_just_want_to_be_happy,_have_a_farm,_wife,_and_children,_but_{playername}_brings_only_misfortune_wherever_{reg59?she:he}_goes._I_need_to_feel_protected,_and_Sigurd_has_promised_me_everything_that_I_wish_for.",
+    "old_translation": "{s2}^^我不和你争论，埃吉尔。泰德对于我而言就如同兄弟一般，而{playername}为了杀掉他向我撒谎。我赢得了{playername}的信任并且发誓有一天我会为泰德的死复仇，而现在，这一天来到了。我只不过想要一座农场，一个妻子和一帮孩子，但是{playername}只会为{reg59?她:他}所经过之处带来不幸。我寻求保护，而西格德已经答应他能给我想要的一切。",
+    "translation": "{s2}^^我不与你为敌，埃吉尔。提亚德尔如我兄弟，{playername}骗我取得信任后杀了他。我赢得{playername}的信任，只为有朝一日为提亚德尔雪恨，今天终于如愿。我只求一座农场、一个妻子、一群孩子，可{playername}所过之处只剩灾祸。我需要庇护，而西格德答应给我想要的一切。"
+  },
+  {
+    "text": "Reginhard,_you_know_me._You_know_how_I_treat_traitors._We_will_meet_again.",
+    "old_translation": "雷因哈德，你是知道我的，你知道我是如何对待叛徒的。我们都会再见面的。",
+    "translation": "雷因哈德，你知道我如何对付叛徒。我们还会再见。"
+  },
+  {
+    "text": "As_you_said_once,_'Gaed_a_wyrd_swa_hio_scel!'_Fate_always_goes_as_she_must.",
+    "old_translation": "就像你曾经说过的，命运弄人！",
+    "translation": "正如你曾说过的：命运之线无可违逆！"
+  },
+  {
+    "text": "I_do_not_think_so._We_will_never_see_one_another_again._I'll_have_my_farm,_my_wife_and_the_protection_of_a_jarl._You'll_be_dead_or_an_outlaw.",
+    "old_translation": "我不这么认为，我们永远不会再见面了。我将会拥有我的农场，妻子和一位领主的保护。而你，要么被处死，要么成为一个法外之徒。",
+    "translation": "我看未必。我们不会再见了。我将拥有农场、妻子和雅尔的庇护，而你不是被杀就是成逃犯。"
+  },
+  {
+    "text": "King_Horik,_Sigurd_Ragnarsson_has_made_very_serious_allegations,_supported_by_a_witness._What_do_you_say_in_your_defense?",
+    "old_translation": "霍里克国王，西格德·拉格纳逊做出了非常严肃的指控，他还有目击证人。你有什么辩解的话？",
+    "translation": "霍里克国王，西格德·拉格纳逊在证人支持下提出严重指控。你有何辩护？"
+  },
+  {
+    "text": "{s2}^^I_do_not_know_this_man_named_Reginhard._I_suspect_he_is_a_liar_bought_by_Sigurd,_as_he_seems_to_have_some_sort_of_dispute_with_{playername}._At_any_rate,_his_testimony_is_not_against_me_but_against_{playername},_since_he_in_no_way_has_mentioned_me_or_shown_that_I_have_helped_{playername}_in_any_misdeeds._If_this_is_all_that_Sigurd_Ragnarsson_has_against_me,_I_ask_this_Assembly_for_compensation_for_the_insult_to_my_honor.",
+    "old_translation": "{s2}^^我不认识这个叫雷因哈德的人，我怀疑他是西格德派来的一个作伪证者，因为他似乎和{playername}有些争执。不管怎样，他的证词是针对{playername}而非针对我，因为他既没提到我，也没说明我曾用任何可能的方式向{playername}提供援助。如果这就是西格德·拉格纳逊指控我的，我请求议事会对我的荣誉所受的侮辱做出补偿。",
+    "translation": "{s2}^^我不认识这个叫雷因哈德的人，我怀疑他是西格德收买的骗子，因为他似乎与{playername}有某种过节。总之，他的证词针对的不是我，而是{playername}，因为他完全没有提到我，也无法证明我曾协助{playername}做过任何坏事。如果西格德·拉格纳逊只有这点指控，我请求议事会为对我荣誉的侮辱给予赔偿。"
+  },
+  {
+    "text": "{s2}^^The_gods_know_that_you_were_eliminating_my_evidence_and_witnesses._When_you_sent_your_dog_after_Atli_Eiriksson_and_Ulf_Thorirsson,_this_man_was_with_{playername}._He_can_testify_that_you_were_involved.",
+    "old_translation": "{s2}^^诸神知道，你向阿提利·埃里克逊和乌尔夫·索里逊放出你的鹰犬来消灭证据，恐吓我的目击证人。但是这个人和{playername}在一起，他目睹了所有一切，他可以证明你并不能置身事外。",
+    "translation": "{s2}^^诸神明白你在消灭我的证据和证人。你派走狗追杀阿特利·艾里克森和乌尔夫·索里逊时，这人正和{playername}在一起，他可以证明你脱不了干系。"
+  },
+  {
+    "text": "I_say_Reginhard_is_a_liar_blinded_by_hatred_for_me._It's_his_word_against_mine.",
+    "old_translation": "在我看来雷因哈德是一个受憎恨蒙蔽了双眼的说谎者。他的话和我说的完全不同。",
+    "translation": "我说雷因哈德是被仇恨蒙蔽的骗子，这只是他的一面之词。"
+  },
+  {
+    "text": "First_of_all,_Reginhard's_first_master_was_Thiaderd,_not_the_jarl_of_Kennemer._(Persuasion)",
+    "old_translation": "首先，雷因哈德的第一个主子是泰德，不是肯尼莫的雅尔。（说服）",
+    "translation": "首先，雷因哈德的第一位主人是提亚德尔，不是肯尼莫的雅尔。（说服）"
+  },
+  {
+    "text": "Reginhard_betrayed_his_first_master,_Thiaderd,_as_now_he_betrays_me._Would_any_man_keep_a_known_enemy_in_his_hird?_This_man_has_just_demonstrated_that_he_cannot_be_trusted.",
+    "old_translation": "雷因哈德背叛了他的第一个主子，泰德，就像现在背叛我一样。有人愿意在他的队伍里有这样一个臭名昭著的人吗？这个人的所作所为已经告诉我们，他是不可相信的。",
+    "translation": "雷因哈德背叛了第一位主人提亚德尔，如今又背叛我。谁会把公认的敌人留在自己的亲兵队里？他刚才已证明自己不可信任。"
+  },
+  {
+    "text": "This_man,_Reginhard,_tells_the_truth._Everything_happened_as_he_described.",
+    "old_translation": "这个人，雷因哈德，说的是实话，一切都如他描述的那样发生了。",
+    "translation": "这位雷因哈德说的都是真话，一切正如他所描述。"
+  },
+  {
+    "text": "What?_I_was_in_{playername}'s_hird,_too,_and_I_swear_to_the_gods_that_these_men_lie._I_demand_a_death_duel_against_them_if_they_allege_these_things.",
+    "old_translation": "什么？我也在{playername}的队伍里，我向众神发誓这些人在说谎。如果他们这样宣称，我请求和他们进行生死决斗。",
+    "translation": "什么？我也曾在{playername}的亲兵队里，我向诸神发誓这些人在撒谎。若他们坚持指控，我要求与他们进行生死决斗。"
+  },
+  {
+    "text": "I,_Harald_Haraldsson,_second_Egil_in_this_challenge.",
+    "old_translation": "我，哈罗德·哈罗德逊，将在埃吉尔之后向你发起挑战。",
+    "translation": "我，哈拉尔·哈拉尔森，附和埃吉尔的挑战。"
+  },
+  {
+    "text": "Oh,_my_god,_what_are_you_doing,_{playername}?_Are_you_mad?_I_have_betrayed_you,_so_why_do_I_have_your_support?",
+    "old_translation": "哦，我的神啊，你在干什么呢，{playername}？你疯了吗？我已背叛了你，为什么你要支持我？",
+    "translation": "哦，神啊，{playername}，你在干什么？你疯了吗？我已经背叛了你，为何还支持我？"
+  },
+  {
+    "text": "Because_deep_down_you're_a_good_person_and_my_friend.",
+    "old_translation": "但实际上你是一个好人，是我的朋友。",
+    "translation": "因为你骨子里是好人，也是我的朋友。"
+  },
+  {
+    "text": "Because_King_Horik_now_removes_himself_from_my_actions_in_order_to_protect_himself.",
+    "old_translation": "因为霍里克国王现在背叛了我，为了保护自己，他将我的行动说得和他完全无关。",
+    "translation": "因为霍里克国王如今为自保，把我的行动撇得一干二净。"
+  },
+  {
+    "text": "I'm_not_sure_why_I_said_that.",
+    "old_translation": "我不确定为什么我那么说。",
+    "translation": "我不确定自己为何那样说。"
+  },
+  {
+    "text": "Silence!_We_do_not_tolerate_anyone_making_a_mockery_of_this_Assembly.",
+    "old_translation": "安静！我们不能容忍任何人把议事会当作笑料。",
+    "translation": "安静！我们绝不容忍任何人把议事会当笑柄。"
+  },
+  {
+    "text": "Now,_this_is_a_very_delicate_matter_that_may_affect_the_stability_of_the_kingdom._The_judges_shall_retire_to_deliberate_for_a_moment.",
+    "old_translation": "这是会影响到王国的稳定性的非常微妙的问题，现在法官们会暂时休庭以仔细考虑。",
+    "translation": "此事关乎王国稳定，极为敏感。法官们将退后片刻，仔细商议。"
+  },
+  {
+    "text": "--_You_watch_as_the_judges_get_behind_the_big_rock_before_entering_a_heated_discussion._All_around_you,_everyone_engages_in_energetic_conversations._Some_jarls_support_King_Horik;_others_Jarl_Sigurd_Ragnarsson._This_Assembly_may_either_be_the_solution_to_civil_war_or_the_trigger_to_start_one._Everything_depends_on_the_judges'_decision.^^You_realize_that_no_one_approaches_you;_everyone_avoids_you_like_the_plague._You_are_aware_also_that_nobody_gave_you_the_opportunity_to_present_the_case_of_the_abduction_of_your_mother._You_feel_you_have_not_been_more_than_a_piece_in_a_game_of_Hneftalf_between_the_powerful_men_of_Danmark._--",
+    "old_translation": "（你注视着法官们聚集在巨石后面商议。在你周围，所有人都在兴致勃勃地讨论，一些领主支持霍里克，而另一些领主支持西格德雅尔。议事会既不能解决内战，也不可能挑起一场内战，一切都取决于法官的裁决。^^你意识到没有人向你靠近，大家都像对待病菌一样离你远远的。你同样意识到没有人给你机会诉说你母亲遭遇的绑架事件。你感觉你不过是丹麦诸强纷争中的一个小小筹码而已。)",
+    "translation": "——你看着法官们躲到大石后激烈争论。四周人人高声交谈，有的雅尔支持霍里克国王，有的支持雅尔西格德·拉格纳逊。这场议事会既可能避免内战，也可能点燃战火，一切取决于法官的裁决。^^你发现无人靠近，大家像避瘟神一样躲着你；也没人给你机会陈述母亲被绑架的案情。你觉得自己不过是丹麦权贵棋局里的一枚棋子。——"
+  },
+  {
+    "text": "--_The_judges_are_slow_to_come_to_a_decision._You're_not_sure_how_much_time_has_passed,_but_it_seems_it_takes_them_very,_very_long._Many_men_around_you_have_decided_to_sit_on_the_ground,_and_there_are_even_merchants_distributing_food_and_mead._Reginhard_remains_in_the_same_spot,_silent_and_without_moving_a_muscle,_as_if_carved_in_granite._Egil_doesn't_look_at_you,_either._He_is_among_the_men_around_King_Horik,_advising_and_encouraging_him.^^Finally,_the_judges_return_from_behind_the_large_rock._--",
+    "old_translation": "（法官们迟迟不能给出决断，你不知道已经过去了多长时间，但似乎是非常非常久了。你周围的许多人都坐在了地上，商人们已经开始兜售食品和米酒。雷因哈德还呆在原来的地方，一言不发也一动不动，就如同一尊花岗岩塑像一般。埃吉尔同样没有看你，他和一帮人环绕在霍里克国王身边，不停地提建议，给他打气。^^最终，法官们从巨石后面走出来了。）",
+    "translation": "——法官们迟迟未决，你不知过了多久，只觉得极久。周围许多人已席地而坐，甚至有商人开始分发食物和蜜酒。雷因哈德仍原地不动，沉默如石雕；埃吉尔也不看你，他正与霍里克国王身边的人群一起出谋划策。^^终于，法官们从大石后返回。——"
+  },
+  {
+    "text": "Odin_Fjolnsvidr,_Odin_Sanngetall,_father_of_gods_and_the_Scyldings._We,_elected_by_our_peers,_call_upon_your_wisdom_to_guide_our_words._May_our_judgment_reach_your_ears,_and_may_those_who_do_not_comply_with_it_be_punished_by_Hel._We_have_decided_the_following:",
+    "old_translation": "奥丁，诸神之父啊，我们，受到民众的挑选，向您乞求智慧，引导我们的言行。愿我们的判决能够为您所闻，愿不遵从于判决的人受到您的惩罚。我们做出如下判决：",
+    "translation": "奥丁·弗约尔恩维德尔，奥丁·桑格塔尔，诸神与斯基尔丁之父。我们由同侪选出，恳请您的智慧指引言辞，愿我们的判决入您耳，愿违判者受赫尔惩罚。我们裁决如下："
+  },
+  {
+    "text": "In_the_case_of_the_death_of_Olvir_White_Hair,_Sven_Bull_Neck_shall_receive_wergild_of_4800_peningas._{playername},_can_you_pay_this_wergild_now?",
+    "old_translation": "因为白发奥利维的死亡，牛颈斯温应当收到一笔为4800先令的偿命金。{playername}，你能付得起这笔偿命金吗？",
+    "translation": "关于“白发”奥维尔之死，本议事会判给“牛颈”斯温4800银便士的偿命金。{playername}，你现在能支付吗？"
+  },
+  {
+    "text": "In_the_case_of_the_death_of_Olvir_White_Hair,_this_Assembly_rules_that_{playername}_acted_in_self-defense_and_declares_him_innocent.",
+    "old_translation": "对于白发奥利维死亡一事，根据议事会的判决，{playername}被判定为正当防卫，因而宣布无罪。",
+    "translation": "关于“白发”奥维尔之死，本议事会裁定{playername}属正当防卫，宣告无罪。"
+  },
+  {
+    "text": "This_is_an_outrage!_4800_peningas_for_the_life_of_my_brother?_This_should_be_paid_with_blood!",
+    "old_translation": "这是一种侮辱！想用4800先令来换我兄弟的性命？血债要用血来还！",
+    "translation": "这是侮辱！我兄弟的命只值4800银便士？血债必须血偿！"
+  },
+  {
+    "text": "{s2}^^Sven_Bull_Neck_accepts_the_decision_of_the_Assembly.",
+    "old_translation": "{s2}^^牛颈斯温接受了议事会的决议。",
+    "translation": "{s2}^^“牛颈”斯温接受议事会的裁决。"
+  },
+  {
+    "text": "What?_This_is_not_justice!_This_Assembly_pisses_on_the_grave_of_my_brother!",
+    "old_translation": "什么？这可不能叫做正义！这是对我兄弟的亵渎！",
+    "translation": "什么？这算哪门子正义！议事会在我兄弟的坟上撒尿！"
+  },
+  {
+    "text": "{playername},_can_you_pay_this_wergild_now?",
+    "old_translation": "{playername}，你付得起偿命金么？",
+    "translation": "{playername}，你现在能支付这笔偿命金吗？"
+  },
+  {
+    "text": "I_have_the_money.",
+    "old_translation": "我付得起这笔钱。",
+    "translation": "我有钱。"
+  },
+  {
+    "text": "No,_I_don't_have_this_money.",
+    "old_translation": "不，我付不起。",
+    "translation": "不，我付不起。"
+  },
+  {
+    "text": "I_respect_the_finding_of_this_Assembly,_although_I_do_not_share_it._I_will_pay_the_wergild_of_{playername}.",
+    "old_translation": "我尊重议事会，但我并不认同它。我将会付{playername}的偿命金。",
+    "translation": "我尊重议事会的裁决，尽管我并不认同。我会支付{playername}的偿命金。"
+  },
+  {
+    "text": "Will_anyone_pay_wergild_for_this_{reg59?lady:man},_or_shall_{reg59?she:he}_be_declared_outlaw._{reg59?She:He}_will_lose_everything_that_{reg59?she:he}_owns_and_shall_be_removed_from_the_protection_of_the_law,_even_if_killed.",
+    "old_translation": "有人愿意为这位{reg59?女士:先生}付偿命金吗？不然{reg59?她:他}就会被放逐了，{reg59?她:他}将会失去{reg59?她:他}所拥有的一切，失去法律的保护，甚至被杀掉。",
+    "translation": "有人愿为这位{reg59?女士:先生}支付偿命金吗？否则{reg59?她:他}将被宣布为法外之人，失去全部财产，不再受法律保护，任人宰杀。"
+  },
+  {
+    "text": "We,_the_members_of_{reg59?her:his}_hird,_will_pay_this_wergild,_in_order_that_{playername}_may_remain_free_to_continue_leading_us.",
+    "old_translation": "我们，{reg59?她的:他的}部从，将会付这笔偿命金，我们要求{playername}重获自由并能够继续领导我们。",
+    "translation": "我们，{reg59?她的:他的}亲兵，愿支付这笔偿命金，让{playername}重获自由，继续领导我们。"
+  },
+  {
+    "text": "Then_the_Assembly_accepts_the_money_and_gives_it_to_Sven_Bull_Neck._The_price_for_spilt_blood_has_been_satisfied._Before_gods_and_men,_this_quarrel_has_ended_between_these_two_men.",
+    "old_translation": "议事会接受了这笔钱并将它交给了牛颈斯温，血债已被偿还。在诸神和民众的面前，这两个人之间的争端平息了。",
+    "translation": "议事会收下银两，交给“牛颈”斯温。血债已偿。在诸神与众人面前，二人恩怨到此为止。"
+  },
+  {
+    "text": "Well,_the_Assembly_has_spoken._Before_gods_and_men,_this_quarrel_has_ended_between_these_two_men.",
+    "old_translation": "那么，议事会已经决定了。在诸神和民众的面前，这两个人之间的争端平息了。",
+    "translation": "议事会既已发话。在诸神与众人面前，二人恩怨到此为止。"
+  },
+  {
+    "text": "Odin,_Thor_and_Frey_have_heard_what_is_here_decided._May_they_punish_any_who_do_not_fulfill_their_oaths.",
+    "old_translation": "奥丁，索尔和芙蕾雅已经听闻了这里人们做出的决定，愿他们惩罚不遵守誓言的人。",
+    "translation": "奥丁、索尔与芙蕾已听见此裁决。愿他们惩罚背誓之人。"
+  },
+  {
+    "text": "Regarding_the_case_of_the_witness_called_Reginhard,_who_has_been_accused_of_lying,_the_gods_must_decide_his_culpability._As_the_accusation_is_grave,_this_Assembly_has_decided_that_{playername}_and_Reginhard_will_engage_in_a_holmgang,_a_duel_to_the_death,_on_the_island_called_Short,_within_six_days._Two_will_go,_but_only_one_return._If_one_of_them_fails_to_show_up,_{reg59?he_or_she:he}_will_be_declared_nithingr,_coward,_less_than_a_man,_and_this_will_be_told_by_skalds_and_messengers_to_all_men_in_Danmark_and_abroad.",
+    "old_translation": "考虑到目击证人雷因哈德的陈述，由于他已经被指控撒谎，必须由诸神来定他的罪。考虑到这个控告的重要性，议事会已经决定{playername}将要在六日之内，在一座叫做短岛的岛上和雷因哈德进行一场生死决斗。二人去，一人回。如果他们中的一个人没有参加决斗，{reg59?他或她:他}将会被宣称为放逐者、懦夫，失去男人的权利，而且这个宣告将会被信和吟游诗人传播到丹麦全境和国外。",
+    "translation": "关于证人雷因哈德被控撒谎一案，须由诸神裁其有罪。指控严重，议事会裁定：六日内，{playername}与雷因哈德在短岛进行生死决斗，二人同往，仅有一归。若一方不至，{reg59?他或她:他}将被宣布为懦夫、放逐者，不配为人，此讯将由吟游诗人与信使传遍丹麦内外。"
+  },
+  {
+    "text": "I_accept_the_decision_of_the_Assembly.",
+    "old_translation": "我接受议事会的决定。",
+    "translation": "我接受议事会的决定。"
+  },
+  {
+    "text": "I_refuse_to_kill_Reginhard.",
+    "old_translation": "我拒绝杀死雷因哈德。",
+    "translation": "我拒绝杀死雷因哈德。"
+  },
+  {
+    "text": "Do_you_wish_to_be_a_nithingr?_Nobody_will_follow_you._Everybody_will_be_free_to_kill_you._Moreover,_you_are_agreeing_with_Reginhard,_who_has_betrayed_us._I_argue_that_Reginhard_is_a_liar,_and_if_you_do_not_face_him,_giving_the_reason,_I_say_that_you're_a_liar_too.",
+    "old_translation": "你想要成为被放逐者吗？没有人会跟随你，所有人都可以杀你而免于制裁。而且，你和雷因哈德，那个背叛我们的人，串通一气。我认为雷因哈德是说谎者，如果你不面对他，最好给出原因，否则我会说你也是个说谎者。",
+    "translation": "你想当懦夫吗？无人会追随你，人人可杀你而无罪。况且你与背叛我们的雷因哈德同流。我说雷因哈德是说谎者，你若不面对他并给出理由，我便说你也说谎。"
+  },
+  {
+    "text": "The_decisions_of_the_Assembly_cannot_be_gainsaid._They_are_backed_by_the_gods_and_the_free_men_of_Danmark._The_sentence_is_a_duel_to_discover_the_lie._{playername},_you_must_choose:_fight_against_Reginhard_or_defend_him_against_Egil.",
+    "old_translation": "议事会的决定不可更改，它们是诸神和所有丹麦人的意愿。裁决是：用决斗的方式来解决说谎者。{playername}，你必须做出选择：与雷因哈德决斗，或者为了他与埃吉尔决斗。",
+    "translation": "议事会的决定不容违抗，它由诸神与丹麦自由民共守。裁决如下：以决斗揭穿谎言。{playername}，你必须选择：与雷因哈德决斗，或为他与埃吉尔决斗。"
+  },
+  {
+    "text": "I_will_fight_against_Reginhard.",
+    "old_translation": "我将会与雷因哈德决斗。",
+    "translation": "我将与雷因哈德决斗。"
+  },
+  {
+    "text": "I_will_fight_against_Egil.",
+    "old_translation": "我将会与埃吉尔决斗。",
+    "translation": "我将与埃吉尔决斗。"
+  },
+  {
+    "text": "I_accept_the_decision_of_the_Assembly_too._I'm_no_liar,_but_I_regret_having_been_a_traitor._I_am_very_sorry,_{playername}.",
+    "old_translation": "我也接受议事会的决议，我不是说谎者，但我后悔做了一名叛徒。我很抱歉，{playername}。",
+    "translation": "我也接受议事会的裁决。我不是说谎者，却悔于曾做叛徒。{playername}，对不起。"
+  },
+  {
+    "text": "Well,_when_this_Assembly_is_over,_the_important_men_of_Danmark_will_come_get_you_and_take_you_to_Short_Island_to_face_your_opponent.",
+    "old_translation": "那么，当一切都结束的时候，丹麦的重要人物将会去带你到短岛上，和你的对手决斗。",
+    "translation": "议事会结束后，丹麦的要人便会带你去短岛，与对手相见。"
+  },
+  {
+    "text": "Odin,_Thor_and_Frey_have_heard_what_has_here_been_decided._May_they_punish_any_who_do_not_fulfill_their_oaths.",
+    "old_translation": "奥丁，索尔和芙蕾雅已经听闻了这里人们做出的决定，愿他们惩罚不遵守誓言的人。",
+    "translation": "奥丁、索尔与芙蕾已听见此裁决。愿他们惩罚背誓之人。"
+  },
+  {
+    "text": "This_Assembly_has_also_decided_on_a_last_major_issue._The_accusations_and_insults_between_King_Horik_and_Jarl_Sigurd_can_cause_serious_damage_to_Danmark._Therefore,_this_assembly_of_free_men,_which_is_above_jarls_and_kings_and_answers_only_to_the_gods,_has_decided_that_a_reconciliation_between_the_two_must_occur._King_Horik_will_give_Jarl_Sigurd_a_position_on_his_council_and_among_his_most_beloved_men._Moreover,_King_Horik_will_pay_15.000_peningas_in_compensation_for_all_the_efforts_made_by_the_Sigurd_in_organizing_the_expedition.",
+    "old_translation": "议事会同样已经对上一个主要议题做出了裁决。霍里克国王和西格德雅尔之间相互的控告和侮辱可能对丹麦造成严重的损害。所以自由人民的议事会——高于一切领主和国王，并且只对诸神的旨意负责——已经决定对双方做出调解。霍里克国王将会把他的议事会中的一部分权力赐予西格德雅尔。而且霍里克国王要付出一笔价值15000先令的补偿金，用以补偿西格德为发起这次远征所付出的努力。",
+    "translation": "议事会亦对另一重大议题作出裁决。霍里克国王与西格德雅尔间的指控与侮辱可能重创丹麦。因此，这由自由民组成、高于国王与雅尔、仅对诸神负责的议事会，责令双方和解：霍里克国王将赐西格德雅尔入其议事会，并列为亲信；另付一万五千银便士，补偿西格德组织远征之劳。"
+  },
+  {
+    "text": "{s2}^^In_return,_Jarl_Sigurd_shall_remain_by_King_Horik,_advising_him_and_not_leaving_Danmark._Therefore,_Jarl_Sigurd_Ragnarsson_must_relinquish_control_over_the_fleet_that_shall_relieve_his_brethren._This_fleet_will_be_lead_by_two_other_men:_Sven_Bull_Neck,_on_the_part_of_Jarl_Sigurd,_and_Harald_Haraldsson,_on_the_part_of_King_Horik._The_fleet_will_depart_for_Englaland_in_a_few_days_without_further_delay.",
+    "old_translation": "{s2}^^作为回应，西格德雅尔应当忠诚于霍里克国王，作为他的咨询顾问，并不能离开丹麦。西格德雅尔必须放弃对船队的领导权并解散他的士兵。这支船队将会被其他的两个人所领导：牛颈斯温，作为西格德雅尔一方的代表，还有哈罗德·哈罗德逊，作为霍里克国王一方的代表。船队必须在数天之内向英格兰出发，不得滞留。",
+    "translation": "{s2}^^作为回报，西格德雅尔须留在霍里克国王身边，为其献策，不得离丹麦。西格德·拉格纳松须交出救援同胞的舰队指挥权。舰队改由两人共领：代表西格德的“牛颈”斯温，与代表国王的哈拉尔·哈拉尔松。舰队数日内启程赴英格兰，不得延误。"
+  },
+  {
+    "text": "It_is_furthermore_our_decision_that_{playername}_shall_join_as_advisor_of_Harald_Haraldsson,_as_long_as_the_gods_give_{reg59?her:him}_the_victory_in_the_holmgang._Otherwise,_Egil_takes_{playername}'s_place_and_hird._One_or_the_other_should_meet_with_me_in_the_mead_hall_of_Ribe_once_the_holmgang_is_over.",
+    "old_translation": "我们的决议是：只要诸神将决斗的荣誉赏赐给{reg59?她:他}，{playername}就应当成为哈罗德·哈罗德逊顾问团中的一员。否则，埃吉尔就取代{playername}的位置。你们之中的一人必须在决斗后前来里伯的蜜酒厅与我见面。",
+    "translation": "议事会进一步裁定：若诸神赐{reg59?她:他}决斗之胜，{playername}将任哈拉尔·哈拉尔松之顾问；否则，埃吉尔取代{playername}及其亲兵。决斗结束后，胜者须来里伯蜜酒厅见我。"
+  },
+  {
+    "text": "{s2}^^The_Assembly,_representing_the_gods_and_freemen_of_Danmark,_has_spoken.^These_are_the_two_parties,_right?_King_Horik?_Jarl_Sigurd?",
+    "old_translation": "{s2}^^议事会，代表了神明的旨意和民众的意愿，已经决定了。^双方同意吗？霍里克国王？西格德雅尔？",
+    "translation": "{s2}^^议事会，代表丹麦诸神与自由民，已发话。^双方可服？霍里克国王？西格德雅尔？"
+  },
+  {
+    "text": "I_accept_the_judgment_of_the_Assembly._I_will_fulfill_my_part_as_has_been_decreed._I_swear_that_I_will_uphold_and_enforce_it.^^{s2}",
+    "old_translation": "我接受议事会的判决。我发誓，我将会赞成并实行它。^^{s2}",
+    "translation": "我接受议事会的判决，发誓将遵行并维护。^^{s2}"
+  },
+  {
+    "text": "{s2}^^I_also_accept_the_decision_of_the_Assembly._I_swear_that_I_will_uphold_and_enforce_it.",
+    "old_translation": "{s2}^^我同样接受议事会的决定。我发誓我将会赞成并实行它。",
+    "translation": "{s2}^^我也接受议事会的判决，发誓将遵行并维护。"
+  },
+  {
+    "text": "Odin,_Thor_and_Frey_have_heard_what_has_been_decided_here._May_they_punish_anyone_who_does_not_fulfill_his_oath._This_Assembly_has_ended._Everyone_may_leave_now.",
+    "old_translation": "奥丁，索尔和芙蕾雅已经听闻了这里人们做出的决定，愿他们惩罚不遵守誓言的人。议事会结束了，现在大家都要走了。",
+    "translation": "奥丁、索尔与芙蕾已听见此裁决。愿他们惩罚背誓之人。议事会到此结束，众人可散。"
+  },
+  {
+    "text": "(You_bow_before_him)",
+    "old_translation": "（向他鞠躬）",
+    "translation": "（你向他鞠躬）"
+  },
+  {
+    "text": "(Do_not_bow_to_him)",
+    "old_translation": "（不向他鞠躬）",
+    "translation": "（不向他鞠躬）"
+  },
+  {
+    "text": "{s2}^^Regards,_Danish_envoy._What_do_your_masters_want_now?",
+    "old_translation": "{s2}^^向您致敬，丹麦的使者，你的主人现在想要什么？",
+    "translation": "{s2}^^丹麦使者，幸会。你的主子这回又想要什么？"
+  },
+  {
+    "text": "{s2}^^You_are_a_proud_{reg59?woman:man},_but_you_should_know_that_an_envoy_should_be_courteous_and_take_full_advantage_of_diplomacy._What_do_your_masters_want_now?",
+    "old_translation": "{s2}^^你是一个骄傲的{reg59?女人:人}，但是你应当知道，一个使者应当谦恭有礼，手腕灵活。你的主人现在想要什么？",
+    "translation": "{s2}^^你虽为骄傲的{reg59?女人:男人}，但须知使者须谦恭有礼，善用外交手腕。你的主子现在想要什么？"
+  },
+  {
+    "text": "I_have_a_letter_for_you_from_Bjorn,_son_of_Ragnar.",
+    "old_translation": "我这里有给你的一封信，来自比约恩，拉格纳之子。",
+    "translation": "我带来比约恩——拉格纳之子——给你的信。"
+  },
+  {
+    "text": "I_have_a_letter_for_you_from_Bjorn._They_know_they_will_lose_and_want_a_truce.",
+    "old_translation": "我这里有给你的一封信，来自比约恩。他们知道自己将要失败，所以请求和谈。",
+    "translation": "我带来比约恩给你的信。他们自知将败，求和。"
+  },
+  {
+    "text": "I_have_a_letter_for_you_from_Bjorn._They_are_still_willing_to_negotiate.",
+    "old_translation": "我这里有给你的一封信，来自比约恩，他们愿意和谈。",
+    "translation": "我带来比约恩给你的信。他们仍愿谈判。"
+  },
+  {
+    "text": "{s2}^^The_Danish_want_to_meet_with_us_to_negotiate_the_terms_of_their_retreat._This_is_good_news.",
+    "old_translation": "{s2}^^丹麦人想要会见我们以便协商他们撤退的条件，这是个好消息。",
+    "translation": "{s2}^^丹麦人想与我们会面，商议撤退条件，这是好消息。"
+  },
+  {
+    "text": "{s2}^^The_Danish_want_to_meet_with_us_to_negotiate_the_terms_of_their_retreat._Thank_you_for_the_information_about_their_weakness,_but_I_think_we_are_still_interested_in_this_deal.",
+    "old_translation": "{s2}^^丹麦人想要会见我们以便协商他们撤退的条件，谢谢你给我们提供他们的真实的情况，但是我们仍旧对他们提出的条件很感兴趣。",
+    "translation": "{s2}^^丹麦人想与我们会面，商议撤退条件。多谢你透露他们的虚弱，但我们仍对此交易感兴趣。"
+  },
+  {
+    "text": "{s2}^^While_I_admire_your_loyalty_to_your_masters,_do_not_treat_me_like_a_fool._We_have_received_news_of_the_disaster_of_the_fleet_sent_from_Danmark,_and_in_the_north,_the_Danish_have_many_problems_with_Picts._However,_we_have_our_own_problems_right_now,_so_this_deal_is_good_for_us.",
+    "old_translation": "{s2}^^尽管我很欣赏你对你的领主的忠诚，但是不要当我是傻子。我们已经得到了丹麦出发的船队遇难的消息，并且在北边，皮克特人也让丹麦麻烦缠身。然而，我们现在有自己的问题，所以这个提案对我们还是有好处的。",
+    "translation": "{s2}^^我欣赏你对主子的忠诚，但别把我当傻子。我们已得悉自丹麦出发的舰队覆灭，北方皮克特人也令丹麦人焦头烂额。不过我们眼下也有麻烦，所以这提议对我们有利。"
+  },
+  {
+    "text": "But_my_lord,_that_means_they_are_defeated._We_should_attack_and_finish_them.",
+    "old_translation": "但是，我的大人，那样意味着他们被击败了。我们应该进攻并终结他们。",
+    "translation": "可是大人，那意味着他们已败，我们该进攻并彻底消灭他们。"
+  },
+  {
+    "text": "Do_not_underestimate_the_enemy,_Uthred._We_will_take_this_opportunity_to_make_peace.",
+    "old_translation": "不要低估你的敌人。我们应当利用这个机会争取和平。",
+    "translation": "别轻敌，乌特雷德。我们要借此求和。"
+  },
+  {
+    "text": "It's_a_good_opportunity_to_avoid_further_bloodshed_on_either_side.",
+    "old_translation": "这是一个避免双方更多地流血的好机会。",
+    "translation": "这是避免双方再流血的好机会。"
+  },
+  {
+    "text": "You_can_annihilate_us_now,_but_next_year_the_Danish_will_return_with_more_men.",
+    "old_translation": "或许你现在可以战胜我，但是明年丹麦人会带着更多士兵卷土重来的。",
+    "translation": "你现在可灭我，但明年丹麦人会带更多兵卷土重来。"
+  },
+  {
+    "text": "Sod_is_paet_thu_segst!_I'm_glad_to_see_that_we_agree._The_Danish_have_many_men_in_Snotingaham_yet,_and_the_walls_are_high._Even_if_we_could_win_this_battle,_I'm_not_sure_we'd_want_to._In_addition,_the_winter_could_see_us_still_besieging_this_place,_and_we_are_far_from_home._As_hard_as_it_would_be_for_them_to_starve_inside,_it_would_be_harder_for_us_to_starve_outside.",
+    "old_translation": "老天保佑！我很高兴我们达成了一致。丹麦人在诺丁汉还有许多守军，而且那里城高壑深。即使我们能够赢得这场战斗，我也不能确定是否值得。寒冬仍旧笼罩这这个地方，而且我们离家太远了。虽然他们在里面忍饥挨饿，但是我们的麻烦比他们的更大。",
+    "translation": "老天保佑！很高兴我们意见一致。丹麦人在诺丁汉仍兵多墙高。就算能胜，我也不确定是否值得。况且寒冬可能让我们继续围城，而离家甚远。他们困在城内挨饿难，我们在城外挨饿更难。"
+  },
+  {
+    "text": "You_are_a_soldier,_not_a_leader._When_the_lives_of_others_depend_on_you,_you_must_weigh_your_options_carefully._Not_everything_is_resolved_with_blood._The_Danish_have_many_men_in_Snotingaham_yet,_and_the_walls_are_high._Even_if_we_could_win_this_battle,_I'm_not_sure_we'd_want_to._In_addition,_the_winter_could_see_us_still_besieging_this_place,_and_we_are_far_from_home._As_hard_as_it_would_be_for_them_to_starve_inside,_it_would_be_harder_for_us_to_starve_outside.",
+    "old_translation": "你是一个士兵，而不是一个领导者。当他人的性命都取决于你，你必须仔细地权衡你的选择。不是所有的事情都是只有用流血才能解决的。丹麦人在诺丁汉还有许多守军，而且那里城高壑深。即使我们能够赢得这场战斗，我也不能确定是否值得。寒冬仍旧笼罩这这个地方，而且我们离家太远了。虽然他们在里面忍饥挨饿，但是我们的麻烦比他们的更大。",
+    "translation": "你是兵，不是帅。当他人性命系于你手，必须权衡再三。并非万事皆靠流血解决。丹麦人在诺丁汉仍兵多墙高。就算能胜，我也不确定是否值得。况且寒冬可能让我们继续围城，而离家甚远。他们困在城内挨饿难，我们在城外挨饿更难。"
+  },
+  {
+    "text": "The_Danish_have_many_men_in_Snotingaham_yet,_and_the_walls_are_high._Even_if_we_could_win_this_battle,_I'm_not_sure_we'd_want_to._In_addition,_the_winter_could_see_us_still_besieging_this_place,_and_we_are_far_from_home._As_hard_as_it_would_be_for_them_to_starve_inside,_it_would_be_harder_for_us_to_starve_outside.",
+    "old_translation": "丹麦人在诺丁汉还有许多守军，而且那里城高壑深。即使我们能够赢得这场战斗，我也不能确定我们真的该这么做。寒冬仍旧笼罩这这个地方，而且我们离家太远了。虽然他们在里面忍饥挨饿，但是我们的麻烦比他们的更大。",
+    "translation": "丹麦人在诺丁汉仍兵多墙高。就算能胜，我也不确定是否值得。况且寒冬可能让我们继续围城，而离家甚远。他们困在城内挨饿难，我们在城外挨饿更难。"
+  },
+  {
+    "text": "Well,_go_back_to_your_jarl,_Bjorn_Ragnarsson,_and_tell_him_that_we_are_ready_to_negotiate_their_way_out_of_Snotingaham_and_lasting_peace._I_give_notice_to_my_men_not_to_attack_you._Beod_ge_gesunde.",
+    "old_translation": "回你的主子比约恩·拉格纳逊那去吧，告诉他我们已准备好跟他协商撤出诺丁汉的路线和后续事宜，我已经下令我的人不要攻击你，祝你好运。",
+    "translation": "回去告诉你的主子比约恩·拉格纳逊，我们已准备好谈判他们撤出诺丁汉及长久和平之事。我已下令部下不得攻击你。祝一路平安。"
+  },
+  {
+    "text": "Jarl_Bjorn_Ragnarsson_sends_me.",
+    "old_translation": "是比约恩·拉格纳逊雅尔派我来的。",
+    "translation": "比约恩·拉格纳逊雅尔派我来。"
+  },
+  {
+    "text": "I_cannot_talk_about_this.",
+    "old_translation": "我没法讨论这个。",
+    "translation": "此事我无可奉告。"
+  },
+  {
+    "text": "{s2}^^It_is_nice_to_hear._Bjorn_Jarnsida,_Ironside,_is_a_legend,_possibly_the_Ragnarsson_most_loved_by_Odin._Just_have_out_your_news._What_is_happening?",
+    "old_translation": "{s2}^^这真是不错。比约恩·艾恩赛德是一个神话，他可能是最受奥丁钟爱的拉格纳之子了。最近有什么事情发生吗？",
+    "translation": "{s2}^^这倒不错。铁臂比约恩是传奇，或许是奥丁最钟爱的拉格纳之子。直说吧，有何消息？"
+  },
+  {
+    "text": "{s2}^^I_see._Just_have_out_your_news._What_is_happening?",
+    "old_translation": "{s2}^^我知道了。最近有什么事情发生吗？",
+    "translation": "{s2}^^我明白了。直说吧，有何消息？"
+  },
+  {
+    "text": "The_reinforcements_that_were_coming_from_Danmark_were_destroyed_for_treason.",
+    "old_translation": "来自丹麦的援助被叛徒破坏了。",
+    "translation": "自丹麦来的援军因叛变而被歼灭。"
+  },
+  {
+    "text": "Jarl_Bjorn_wants_to_negotiate_your_surrender_with_the_Saxons.",
+    "old_translation": "比约恩雅尔希望能和你交涉一下有关投降的事宜。",
+    "translation": "比约恩雅尔想与撒克逊人谈判你们的投降事宜。"
+  },
+  {
+    "text": "We_have_destroyed_Saxon_foragers!",
+    "old_translation": "我们已经击破了撒克逊的征粮队！",
+    "translation": "我们已击溃撒克逊的征粮队！"
+  },
+  {
+    "text": "{s2}^^But_this_is_terrible!_Our_leaders_told_us_that_reinforcements_were_on_the_way_and_that_we_could_then_easily_defeat_the_Saxons._By_Thor!_This_changes_everything!",
+    "old_translation": "{s2}^^这真是糟透了，我们的首领说援军正在赶来，击败撒克逊人只是小菜一碟。天哪，这一切都泡汤了！",
+    "translation": "{s2}^^糟透了！首领曾说援军将至，击败撒克逊人易如反掌。雷神在上，全完了！"
+  },
+  {
+    "text": "I_do_not_believe_that!_Bjorn_would_never_deliver_us_to_the_Saxons._You're_a_liar!",
+    "old_translation": "我绝不相信！比约恩绝对不会把我们交给撒克逊人的。你一定在说谎！",
+    "translation": "我不信！比约恩绝不会把我们交给撒克逊人。你在撒谎！"
+  },
+  {
+    "text": "Well,_lovely_news!_I_hope_they_pay_dearly_for_this_siege.",
+    "old_translation": "真是好消息，我希望他们在此战中付出了足够的代价。",
+    "translation": "哈，好消息！但愿他们为这场围攻付出惨痛代价。"
+  },
+  {
+    "text": "I_see._I_do_not_understand_the_secrecy._News_always_helps_to_improve_morale,_but_I_guess_that_you_have_orders_about_it,_so_I_do_not_insist.",
+    "old_translation": "这样吗，我不明白为什么要保密，好消息总是能提高士气，不过我想你一定有令在身，那么我就不坚持了。",
+    "translation": "明白了。我不懂为何要保密。消息总能鼓舞士气，可你既有命令，我就不再追问。"
+  },
+  {
+    "text": "Enough_talk_here._Ulf,_go_back_to_the_wall,_and_take_your_men_with_you._My_brothers_and_I_want_to_be_alone_with_the_newcomer.",
+    "old_translation": "够了，乌尔夫，带着你的人回去。我和我的兄弟们想和新客人单独待上一会儿。",
+    "translation": "别废话了。乌尔夫，回墙上去，把你的人也带走。我的兄弟要和这位新客人单独谈谈。"
+  },
+  {
+    "text": "Heill,_messenger!_My_name_is_Halfdan,_and_these_here_are_my_brothers,_Ivar_and_Hubbi._We_rejoiced_much_when_they_told_us_that_a_messenger_had_passed_through_the_Mercian_lines._What_news_do_you_bring_us?",
+    "old_translation": "欢迎你，信使。我是哈弗丹，这是我的兄弟艾瓦和胡比。当我们接到消息说有一位信使突破了麦西亚人的阵线的时候，我们真的很高兴。你给我们带来了什么消息吗？",
+    "translation": "问候你，信使！我叫哈夫丹，这两位是我兄弟伊瓦尔和乌比。听说有人穿过麦西亚人的防线，我们高兴极了。你带来什么消息？"
+  },
+  {
+    "text": "Your_bother,_Bjorn,_sent_me_to_inform_you_that_the_reinforcements_from_Danmark_are_lost_because_Sven_Bull_Neck_turned_his_men_against_the_rest._There_will_be_no_reinforcements._Bjorn_Ironside_wants_to_convene_a_meeting_with_the_Saxon_and_Mercian_leaders_to_restore_Snotingaham_to_them_in_exchange_for_them_letting_you_back_north_with_your_armies.^^This_seax,_which_belonged_to_Ragnar,_certifies_that_I_come_from_your_brother_and_speak_the_truth.",
+    "old_translation": "你的兄弟比约恩派我来告知你，来自丹麦的援军因为牛颈斯温的倒戈而损耗殆尽。比约恩·艾恩赛德打算向撒克逊和麦西亚的领袖们提议把诺丁汉还给他们，以此来换取你们全身而退。^^这把刀子，属于拉格纳，以此证明我是你的兄弟的信使。",
+    "translation": "你兄弟比约恩派我来告诉你：丹麦的援军被“牛颈”斯温倒戈击垮，已全军覆没。比约恩·铁臂想召集撒克逊与麦西亚首领，把诺丁汉还给他们，换你们全军北归。^^这把曾属于拉格纳的撒克逊短刀为证，我确是你兄弟所遣，所言句句属实。"
+  },
+  {
+    "text": "Damn_Bjorn!_He's_old_and_had_his_glory,_but_now_begrudges_us_ours._The_Saxons_and_the_Angles_are_weak_peoples._If_it_were_me,_I_would_attack_their_camps_and_put_them_to_flight_like_the_mice_they_are.",
+    "old_translation": "该死的比约恩！他已经活够了，并且享受够了荣誉，现在开始嫉妒起我们年轻人来了。撒克逊和盎格鲁人都只是一群懦夫。如果是我的话，我就去直取他们的营地，把他们像老鼠一样干掉。",
+    "translation": "该死的比约恩！他老了，荣耀也享够了，却来嫉妒我们。撒克逊和盎格鲁都是软蛋，换我就冲营，把他们像老鼠一样赶跑。"
+  },
+  {
+    "text": "No_more_nonsense,_Hubbi._We_have_but_one_man_for_every_five_Saxons._To_fight_outside_these_walls_is_only_foolishness...^^You,_messenger,_listen._I_am_Ivar_Ragnarsson._Men_call_me_Inn_Beinlaussi,_the_Boneless._If_Sven_Bull_Neck_has_betrayed_us_and_destroyed_our_reinforcements_as_you_say,_I_will_hunt_him_down_to_sacrifice_to_the_gods_with_the_Blood_Eagle._But_if_you're_lying,_that_will_be_your_fate.",
+    "old_translation": "别再胡扯了，胡比。撒克逊的人数是我们的五倍，在城墙外作战实在是无谋之举…^^你，信使，听好了。我是艾瓦·拉格纳逊。他们都叫我无骨者。如果牛颈斯温真如你所说背叛了我们并摧毁了我们的援军，那我迟早会抓到他，给他来个开膛剥腹献祭神灵。不过如果你的消息是假的话，那么祭给神灵的对象就是你了。",
+    "translation": "别胡说了，乌比。我们一人对五个撒克逊，出城就是送死……^^信使，听好。我是伊瓦尔·拉格纳松，人送外号“无骨者”。若“牛颈”斯温真背叛并毁掉援军，我必抓他活祭神明，用血鹰之刑。若你撒谎，那刑就落在你身上。"
+  },
+  {
+    "text": "I_apologize_for_my_brothers,_messenger._Being_locked_up_here_affects_us_all.",
+    "old_translation": "请原谅我兄弟们的无礼，一直被困在这里，让我们都有些急躁。",
+    "translation": "信使，我替兄弟们道歉。被困在此，谁都心烦。"
+  },
+  {
+    "text": "Do_not_worry,_Jarl_Halfdan._I_understand_this_is_a_difficult_situation.",
+    "old_translation": "没关系，哈弗丹雅尔。我能理解这儿的困境。",
+    "translation": "别担心，哈夫丹雅尔。我懂这处境艰难。"
+  },
+  {
+    "text": "Hubbi_is_right._You_should_go_out_and_kill_these_dirty_Saxons.",
+    "old_translation": "胡比说的没错，你应该突围并干掉那些肮脏的撒克逊人。",
+    "translation": "胡比说得对，你该杀出去，宰了那些肮脏的撒克逊人。"
+  },
+  {
+    "text": "Ivar_is_right._It_would_be_suicidal,_and_stupid_to_go_out.",
+    "old_translation": "艾瓦说的没错，突围简直就是自杀一样。",
+    "translation": "伊瓦尔说得对，出城就是送死，蠢透了。"
+  },
+  {
+    "text": "I'm_just_a_messenger._Ivar's_words_are_not_to_my_liking_at_all._He_should_watch_his_tongue.",
+    "old_translation": "我只是一名信使。我不喜欢艾瓦的言辞，他应该注意一下自己的嘴巴。",
+    "translation": "我只是信使。伊瓦尔的话我可不爱听，他最好管好自己的舌头。"
+  },
+  {
+    "text": "Puf._Another_coward_tries_to_win_our_sympathies._Anyway,_Halfdan,_do_what_you_want.",
+    "old_translation": "切，又有个没胆的家伙想来博取我们的同情，随你便吧，哈弗丹。",
+    "translation": "哼，又一个胆小鬼想博同情。随你，哈夫丹。"
+  },
+  {
+    "text": "I_see_that_you_are_an_intelligent_person,_messenger._Well,_I_guess_it's_time_to_send_an_answer_to_Bjorn._Tell_him_that_our_answer_is_'yes.'_We_will_join_the_meeting_he_will_arrange_with_the_Saxons._We_will_accept_whatever_terms_they_offer,_anything_to_get_out_of_this_gods-forsaken_hole.",
+    "old_translation": "我觉得你是个有脑子的人。好吧，我想是时候给比约恩一个答复了。请转告他，我们接受他的提议，并会参加同撒克逊人的会议，只要能离开这鬼地方就行。",
+    "translation": "我看你是个聪明人，信使。该给比约恩回话了。告诉他：我们答应。我们会参加他与撒克逊人的会面，什么条件都接受，只要能离开这鬼地方。"
+  },
+  {
+    "text": "I_like_you,_messenger._Keep_things_clear_and_direct._We_two_are_simple_people.",
+    "old_translation": "我觉得你不错，能把事情办得干净利落。我们两个都是简单直接的人。",
+    "translation": "我欣赏你，信使，说话干脆。咱俩都是直性子。"
+  },
+  {
+    "text": "Well,_my_brothers_may_have_different_views,_but_this_is_the_answer_you_shall_take_to_Bjorn._Tell_him_that_our_answer_is_'yes.'_We_will_join_the_meeting_he_will_arrange_with_the_Saxons._We_will_accept_whatever_terms_they_offer,_anything_to_get_out_of_this_gods-forsaken_hole.",
+    "old_translation": "好吧，虽然我的兄弟们还有异议，不过我想是时候给比约恩一个答复了。请转告他，我们接受他的提议，并会参加同撒克逊人的会议，只要能离开这鬼地方就行。",
+    "translation": "我兄弟们意见不一，但这就是给比约恩的回话：告诉他我们答应。我们会参加他与撒克逊人的会面，什么条件都接受，只要能离开这鬼地方。"
+  },
+  {
+    "text": "{s2}^^That_much_is_obvious,_messenger,_but_I'm_glad_others_see_it_as_clearly_as_I_do.",
+    "old_translation": "{s2}^^这是再明显不过的了，不过我还是很欣慰，其他人能和我想的一样。",
+    "translation": "{s2}^^这显而易见，信使，可我还是高兴别人也看得一样清。"
+  },
+  {
+    "text": "Be_careful_whose_side_you_choose,_messenger._Ivar_is_not_accommodating_even_to_his_friends,_whereas_I_kill_all_that_oppose_me.",
+    "old_translation": "小心选择你的立场，艾瓦连和他的朋友们都相处得不好，而我会杀掉任何反对我的人。",
+    "translation": "小心选边站，信使。伊瓦尔对朋友都不客气，而我见敌就杀。"
+  },
+  {
+    "text": "Let's_calm_down_here_now!_Messenger,_my_brothers_may_have_different_views,_but_this_is_the_answer_you_shall_take_to_Bjorn._Tell_him_that_our_answer_is_'yes.'_We_will_join_the_meeting_he_will_arrange_with_the_Saxons._We_will_accept_whatever_terms_they_offer,_anything_to_get_out_of_this_gods-forsaken_hole.",
+    "old_translation": "大家都冷静下来！抱歉，虽然我的兄弟们还有异议，不过我想是时候给比约恩一个答复了。请转告他，我们同意他的提议，并会参加同撒克逊人的会议，只要能离开这鬼地方就行。",
+    "translation": "都冷静！信使，我兄弟们虽有分歧，但给比约恩的回话是：我们同意。我们会参加他与撒克逊人的会面，什么条件都接受，只要能离开这鬼地方。"
+  },
+  {
+    "text": "Ha!_You_are_bold,_messenger._Few_people_dare_to_speak_so_to_Ivar._Just_a_tip:_watch_your_back_from_now_on._Ha_ha!",
+    "old_translation": "哈哈，你胆子真大呀，没人敢跟艾瓦提起这个。你最好从现在开始小心你的背后了，哈哈！",
+    "translation": "哈！你胆子不小，信使，敢这么跟伊瓦尔说话。提醒你一句：以后小心背后，哈哈！"
+  },
+  {
+    "text": "Well,_I_guess_it's_time_to_send_an_answer_to_Bjorn._Tell_him_that_our_answer_is_'yes.'_We_will_join_the_meeting_he_arranges_with_the_Saxons._We_will_accept_whatever_terms_they_offer,_anything_to_get_out_of_this_gods-forsaken_hole.",
+    "old_translation": "好吧，我想是时候给比约恩一个答复了。请转告他，我们接受他的提议，并会参加同撒克逊人的会议，只要能离开这鬼地方就行。",
+    "translation": "该给比约恩回话了。告诉他：我们答应。我们会参加他与撒克逊人的会面，什么条件都接受，只要能离开这鬼地方。"
+  },
+  {
+    "text": "Very_well,_I_will_go_back_to_Bjorn._Good_luck.",
+    "old_translation": "很好，我会告知比约恩的，祝你好运！",
+    "translation": "好，我这就回去见比约恩。祝你们好运。"
+  },
+  {
+    "text": "Hm._I_expected_some_kind_of_reward_as_a_messenger.",
+    "old_translation": "额，我还期待着能领到些报酬呢。",
+    "translation": "呃，我还指望能领点赏钱呢。"
+  },
+  {
+    "text": "Good_luck_to_you,_too._I_fear_the_return_will_not_be_as_easy_as_the_way_in._The_Angles_of_Mierce_have_seen_you_and_have_brought_more_men_into_the_woods.",
+    "old_translation": "也祝你好运！我担心出去会比进来更难。麦西亚人也看到你进来了，他们在树林中增加了兵力。",
+    "translation": "也祝你好运！回程恐怕比进来难。麦西亚的盎格鲁人已经看见你，又在林子里增了兵。"
+  },
+  {
+    "text": "Sure!_Take_this_money_and_our_wishes_for_good_luck._I_fear_the_return_will_not_be_as_easy_as_the_way_in._The_Angles_of_Mierce_have_seen_you_and_have_brought_more_men_into_the_woods.",
+    "old_translation": "当然，收下这笔钱和我们的祝愿。我担心出去会比进来更难。麦西亚人也看到你进来了，他们在树林中增加了兵力。",
+    "translation": "当然！拿着这点钱，也带上我们的祝福。回程恐怕比进来难。麦西亚的盎格鲁人已经看见你，又在林子里增了兵。"
+  },
+  {
+    "text": "{s11},_I_saved_Doccinga_from_Sven...",
+    "old_translation": "{s11}，我从斯温手上救过道琴嘉…",
+    "translation": "{s11}，我从斯温手里救过道琴嘉……"
+  },
+  {
+    "text": "{s2}^^What_mission_did_I_give_you?_Shouldn't_you_be_busy_killing_the_king?_And_what_have_you_done_instead?_Went_to_the_aid_of_Doccinga,_knowing_that_was_not_going_to_please_me._You_killed_the_very_men_who_were_to_support_me_to_take_the_crown_after_you_had_killed_the_king._You_have_betrayed_me,_your_jarl._I_swear_upon_my_name,_{s11},_you_will_pay_dearly_for_it!",
+    "old_translation": "{s2}^^我交给你的任务是什么？你不应该专心去干掉国王吗？而你又做了些什么？明知会让我不满还跑去帮道琴嘉的忙。那个将力挺我登上王位的人，正被你激怒了。你背叛了我————你的雅尔。我以我的名字发誓，{s11}，你会为此付出代价的！",
+    "translation": "{s2}^^我给你的任务是什么？你不是该忙着刺杀国王吗？可你干了什么？明知我不乐意，还跑去支援道琴嘉。你杀的那些人，本要在国王死后扶我登基。你背叛了我——你的雅尔。我以名字起誓，{s11}，你必将为此付出惨痛代价！"
+  },
+  {
+    "text": "My_Lord,_Doccinga_is_going_to_be_attacked_by_Sven_Bull_Neck!_They_need_troops.",
+    "old_translation": "大人，道琴嘉要被牛颈斯温攻击了，他们需要更多人手。",
+    "translation": "大人，道琴嘉即将遭到“牛颈”斯温的攻击！他们急需援军。"
+  },
+  {
+    "text": "Doccinga_is_going_to_be_attacked_by_Sven_Bull_Neck!_They_need_help!",
+    "old_translation": "道琴嘉要被牛颈斯温攻击了，他们需要帮助！",
+    "translation": "道琴嘉即将遭到“牛颈”斯温的攻击！他们需要帮助！"
+  },
+  {
+    "text": "{s11},_I_have_returned_from_the_Thiaderd_mission.",
+    "old_translation": "{s11}，我完成泰德的任务回来了。",
+    "translation": "{s11}，我已从提亚德尔的任务归来。"
+  },
+  {
+    "text": "{s11},_I_went_back_to_the_monastery_and_made_things_right,_in_your_name.",
+    "old_translation": "{s11}，我从修道院回来了，并用你的名义把事情处理好了。",
+    "translation": "{s11}，我回到修道院，以你的名义把事情摆平了。"
+  },
+  {
+    "text": "{s11},_I_have_warriors_that_you_asked_me_for.",
+    "old_translation": "{s11}，我有你需要的战士们。",
+    "translation": "{s11}，你要的战士我已带来。"
+  },
+  {
+    "text": "I_come_from_Friese._I_need_to_talk_to_you_about_an_important_issue.",
+    "old_translation": "我从弗里斯来，我有一件重要的事情要和你商量。",
+    "translation": "我从弗里西来，有要事与你相商。"
+  },
+  {
+    "text": "King_Horik,_we_were_attacked_at_Ulf's_farm.",
+    "old_translation": "霍里克国王，我们在乌尔夫的农场遭到攻击了。",
+    "translation": "霍里克国王，我们在乌尔夫的农场遇袭。"
+  },
+  {
+    "text": "King_Horik,_we_met_Atli_Eiriksson.",
+    "old_translation": "霍里克国王，我们与阿提利·埃里克逊见过面了。",
+    "translation": "霍里克国王，我们见到了阿特利·艾里克森。"
+  },
+  {
+    "text": "Ulf_Thorirsson_will_not_testify_against_me_at_the_Assembly.",
+    "old_translation": "乌尔夫·索里逊将不会在议事会上作证。",
+    "translation": "乌尔夫·索里逊不会在议事会上作证指控我。"
+  },
+  {
+    "text": "I've_done_everything._I_think_I'm_ready_to_go_to_the_Assembly.",
+    "old_translation": "我已经尽力了，我想我准备好去议事会了。",
+    "translation": "能做的我都做了，我想我已准备好前往议事会。"
+  },
+  {
+    "text": "I_have_an_important_letter_for_you.",
+    "old_translation": "我有一封重要的信给你。",
+    "translation": "我有一封重要信件要交给你。"
+  },
+  {
+    "text": "I_recently_returned_from_Douar-an-Enez,_and_I_received_your_urgent_message.",
+    "old_translation": "我最近才从当纳莱斯回来并收到了你关于事态恶化的讯息。",
+    "translation": "我刚从杜瓦讷内回来，就收到了你的紧急口信。"
+  },
+  {
+    "text": "I'm_ready_to_join_the_army_and_attack_the_Saxons.",
+    "old_translation": "我已经准备好加入军队去杀撒克逊人。",
+    "translation": "我已准备好参军，去攻打撒克逊人。"
+  },
+  {
+    "text": "I'm_ready_to_join_the_army_and_defend_West_Seaxe.",
+    "old_translation": "我已经准备好加入军队去保卫西撒克逊。",
+    "translation": "我已准备好参军，保卫西撒克逊。"
+  },
+  {
+    "text": "Yes,_I've_joined_West_Seaxe_and_returned,_as_you_requested.",
+    "old_translation": "我已经按照你的要求加入了西撒克逊。",
+    "translation": "是，我已按你的要求加入西撒克逊并返回。"
+  },
+  {
+    "text": "I_conquered_Din_Bych_and_kept_it_in_my_power_for_twenty_days,_as_agreed.",
+    "old_translation": "遵照协议，我攻占了拜克堡并守住了三十天。",
+    "translation": "按约定，我攻下丁·比奇并坚守了二十天。"
+  },
+  {
+    "text": "Yes,_I've_joined_Northhymbre_and_returned,_as_you_requested.",
+    "old_translation": "我已经按照你的要求加入了诺森布里亚。",
+    "translation": "是，我已按你的要求加入诺森布里亚并返回。"
+  },
+  {
+    "text": "Jarl_Raethbarth,_I_have_important_news_for_you.",
+    "old_translation": "拉弗伯斯雅尔，我有一封重要的信给你。",
+    "translation": "拉埃斯巴斯雅尔，我有重要消息禀报。"
+  },
+  {
+    "text": "Bjorn_sent_me_back_to_you.",
+    "old_translation": "比约恩把我派回来了。",
+    "translation": "比约恩派我回到你这里。"
+  },
+  {
+    "text": "I_conquered_Dun_Taruo_and_kept_it_in_my_power_for_twenty_days,_as_agreed.",
+    "old_translation": "遵照协议，我攻占了泰罗丘并守住了三十天。",
+    "translation": "按约定，我攻下邓·塔鲁并坚守了二十天。"
+  },
+  {
+    "text": "The_Saxons_agree_to_meet_with_you_to_sign_a_truce.",
+    "old_translation": "撒克逊人同意与你会面议和。",
+    "translation": "撒克逊人同意与你见面，签署停战协议。"
+  },
+  {
+    "text": "I_talked_to_your_siblings._They_are_willing_to_negotiate_with_the_Saxons.",
+    "old_translation": "我和你的兄弟们谈过，他们也愿意同撒克逊人协商。",
+    "translation": "我与你的兄弟姐妹谈过，他们愿意同撒克逊人谈判。"
+  },
+  {
+    "text": "Jarl_Bjorn,_I'm_what's_left_of_the_reinforcements_sent_by_Danmark.",
+    "old_translation": "比约恩雅尔，从丹麦来的援军就只剩下我了。",
+    "translation": "比约恩雅尔，丹麦派来的援军只剩我了。"
+  },
+  {
+    "text": "Jarl_Bjorn,_the_Saxon_foragers_were_hunted_and_slain.",
+    "old_translation": "比约恩雅尔，撒克逊征粮队被击溃了。",
+    "translation": "雅尔比约恩，撒克逊征粮队已被猎杀殆尽。"
+  },
+  {
+    "text": "I_have_more_than_two_hundred_men_here_for_you.",
+    "old_translation": "我这儿还有超过两百名士兵。",
+    "translation": "我手下还有两百多人供你调遣。"
+  },
+  {
+    "text": "I_come_from_Friese._I_am_looking_for_Sven_Bull_Neck_and_my_mother._Where_are_they?",
+    "old_translation": "我从弗里斯来，我是来找牛颈斯温和我的母亲的，他们在哪儿？",
+    "translation": "我从弗里西来，正在找“牛颈”斯温和我的母亲。他们在哪儿？"
+  },
+  {
+    "text": "Sigurd,_it's_time_to_talk._I_can_cause_you_a_lot_of_damage_if_you_do_not_listen_to_me.",
+    "old_translation": "西格德，是时候该谈谈了。你要是不听我的话，只会伤到你自己。",
+    "translation": "西格德，该谈谈了。若不听我言，我会让你损失惨重。"
+  },
+  {
+    "text": "Sigurd,_it's_time_to_talk._I'm_not_an_ordinary_man;_I_have_the_support_of_King_Horik.",
+    "old_translation": "西格德，是时候该谈谈了。我不是一般人，我有霍里克国王的支持。",
+    "translation": "西格德，该谈谈了。我可不是普通人，我背后有霍里克国王撑腰。"
+  },
+  {
+    "text": "I_do_not_care_who_you_are_or_what_your_motives_may_be._Here_in_Danmark,_you're_a_nobody,_someone_insignificant._You_have_neither_credentials_nor_support._I_say_it_only_once:_get_out_of_my_presence,_rat.",
+    "old_translation": "我不管你是谁，你想干什么。在丹麦，你只是一个无名之辈。我只说一遍，赶紧从我面前滚开。",
+    "translation": "我不管你是谁、想干什么。在丹麦，你只是个无名小卒，既无资历也无靠山。我只说一次：滚开，鼠辈。"
+  },
+  {
+    "text": "{s2}^^I_see._I_was_hoping_to_avoid_this,_but_I_am_tired_of_trying._Your_mere_presence_offends_my_sight._Of_course_I_know_your_name,_{playername};_{s4}_sent_me_news_about_you._The_{reg59?lady:man}_who_would_kill_King_Hrorik_Hemmingsson_and_help_us_take_Friese._I_was_happy_to_hear_this,_but_then_I_got_more_news_from_the_jarl_yesterday._'{playername}_is_a_traitor,'_said_the_messenger._'Be_careful._{reg59?She:He}_wants_Sven_Bull_Neck_and_comes_to_talk_to_you._{reg59?She:He}_has_destroyed_our_plans_in_Friese,_protected_Doccinga_and_killed_your_Vikings._When_you_see_{reg59?her:him},_kill_{reg59?her:him}.'_You_are_perhaps_too_bold_to_come_here.",
+    "old_translation": "{s2}^^我明白了。我曾希望能避免这样，但我已经累了，你在我眼前出现就是对我莫大的冒犯。我知道你的名字，{playername}。{s4}告诉了我关于你的事情，你就是那个会去杀掉罗里克·赫敏逊国王并帮助我们夺取弗里斯的{reg59?女:男}人。对此我曾很高兴，但是昨天我从{s4}那儿得到了更多的消息。“{playername}是一个叛徒”，信使这么说道，“小心，{reg59?她:他}的目标是牛颈斯温并会来找你。他已经摧毁了我们在道琴嘉的计划，并为了保护道琴嘉杀死了你的人。当你遇到{reg59?她:他}的时候，杀了{reg59?她:他}。”你还敢在这儿出现，实在是太胆大了。",
+    "translation": "{s2}^^我明白了。我本希望避免这一幕，但我已厌倦尝试。你光是出现就令我作呕。我当然知道你的名字，{playername}；{s4}把你的事告诉了我。那位要杀霍里克·赫明森国王、助我夺取弗里斯的{reg59?女士:男人}。听闻此事我曾很高兴，可昨天雅尔又带来新消息。“{playername}是叛徒，”信使说，“小心，{reg59?她:他}要找‘牛颈’斯温，还会来见你。{reg59?她:他}毁了我们在弗里斯的计划，保住了多琴加，还杀了你的维京人。见到{reg59?她:他}，就杀了她/他。”你竟敢现身，胆子不小。"
+  },
+  {
+    "text": "{s2}^^You_are_persistent!_I_was_hoping_to_avoid_this,_but_you_name_names..._none_other_than_that_of_King_Horik.^^Of_course_I_know_your_name,_{playername};_{s4}_sent_me_news_about_you._The_{reg59?lady:man}_who_would_kill_King_Hrorik_Hemmingsson_and_help_us_take_Friese._I_was_happy_to_hear_this,_but_then_I_got_more_news_from_the_jarl_yesterday._'{playername}_is_a_traitor,'_said_the_messenger._'Be_careful._{reg59?She:He}_wants_Sven_Bull_Neck_and_comes_to_talk_to_you._{reg59?She:He}_has_destroyed_our_plans_in_Friese,_protected_Doccinga_and_killed_your_Vikings._When_you_see_{reg59?her:him},_kill_{reg59?her:him}.'_You_are_perhaps_too_bold_to_come_here.",
+    "old_translation": "{s2}^^你真是固执呀！我曾希望能避免这样，但你的名字…恰恰是霍里克国王那边的。^^我知道你的名字，{playername}。雅尔告诉了我关于你的事情，你就是那个会去杀掉罗里克·赫敏逊国王并帮助我们夺取弗里斯的{reg59?女:男}人。对此我曾很高兴，但是昨天我从{s4}那儿得到了更多的消息。“{playername}是一个叛徒”，信使这么说道，“小心，{reg59?她:他}的目标是牛颈斯温并会来找你。他已经摧毁了我们在道琴嘉的计划，并为了保护道琴嘉杀死了你的人。当你遇到他的时候，杀了他。”你还敢在这儿出现，实在是太胆大了。",
+    "translation": "{s2}^^你真执着！我本希望避免这一幕，可你报出了名号……竟是霍里克国王。^^我当然知道你的名字，{playername}；{s4}把你的事告诉了我。那位要杀霍里克·赫明森国王、助我夺取弗里斯的{reg59?女士:男人}。听闻此事我曾很高兴，可昨天雅尔又带来新消息。“{playername}是叛徒，”信使说，“小心，{reg59?她:他}要找‘牛颈’斯温，还会来见你。{reg59?她:他}毁了我们在弗里斯的计划，保住了多琴加，还杀了你的维京人。见到{reg59?她:他}，就杀了她/他。”你竟敢现身，胆子不小。"
+  },
+  {
+    "text": "My_issues_are_not_with_you._I_just_want_to_find_Sven_Bull_Neck_and_my_mother.",
+    "old_translation": "我的事情和你无关，我只想找到牛颈斯温和我的母亲。",
+    "translation": "我的事与你无关，我只想找到“牛颈”斯温和我的母亲。"
+  },
+  {
+    "text": "I_did_not_know_the_jarl's_plans,_so_I_defended_Doccinga._I_am_loyal_to_your_cause.",
+    "old_translation": "我并不知道雅尔的计划，所以我保卫了道琴嘉。我对你是忠诚的。",
+    "translation": "我不知雅尔的计划，所以才守住了多琴加。我对你的大业忠心耿耿。"
+  },
+  {
+    "text": "How_stupid_can_you_be?_Sven_Bull_Neck_is_not_just_any_man_but_my_favorite,_the_man_who_stands_in_the_prow_of_my_own_personal_ship._You_and_I_have_nothing_to_talk_about._Get_out_now,_while_my_obligation_to_hear_you_in_peace_still_weighs_down_my_sword.",
+    "old_translation": "你到底多蠢呀，牛颈斯温可不是一般人，他是我最得力的手下，有资格站在我的旗舰船头的人。我们没什么好说的了，在我还有耐心的时候，赶紧滚出去。",
+    "translation": "你能有多蠢？“牛颈”斯温可不是等闲之辈，他是我最爱重的勇士，站在我旗舰船头的人。你我无话可谈，趁我还顾及待客之礼、尚未拔剑，立刻滚出去。"
+  },
+  {
+    "text": "Your_loyalty_is_too_strange_and_too_late._You're_just_the_rat_that_thwarted_my_plans_in_Friese._{s4}_had_promised_me_six_hundred_men_for_the_expedition_to_Englaland._Now_I_have_exactly_none.",
+    "old_translation": "你的效忠太可疑了也太迟了，你是让我在弗里斯的计划泡汤了的罪魁祸首。{s4}承诺过给我在英格兰的战役提供六百人，现在却一个都没有。",
+    "translation": "你的忠诚来得太古怪、太迟了。你不过是在弗里斯坏我大事的老鼠。{s4}曾答应给我六百人远征英格兰，如今一个都没有。"
+  },
+  {
+    "text": "Sorry,_but_I_just_want_to_know_where_Sven_Bull_Neck_is.",
+    "old_translation": "抱歉，但我只想知道牛颈斯温在哪儿。",
+    "translation": "抱歉，我只想知道“牛颈”斯温在哪儿。"
+  },
+  {
+    "text": "I_will_recruit_six_hundred_men_for_you.",
+    "old_translation": "我会征召六百人给你。",
+    "translation": "我会为你征召六百人。"
+  },
+  {
+    "text": "{s4}^^I_do_hope_you're_not_teasing_me_and_that_it_is_not_Loki_speaking_with_your_mouth._Frankly,_I_doubt_you're_able_to_recruit_six_hundred_men,_but_if_you_recruit_more_than_two_hundred,_come_back_here,_and_we_will_talk._Maybe_you_will_get_to_chat_with_my_friend,_Sven.",
+    "old_translation": "{s4}^^我希望你不是信口开河在耍我。实话说我不认为你能招到六百人，如果你招到两百人的话就回来找我，我们可以再谈谈。或许到时候你会有机会和我的朋友斯温谈谈。",
+    "translation": "{s4}^^希望你不是拿我寻开心，也不是洛基借你之口说谎。说实话，我怀疑你招得到六百人，但若你能招到两百，就回来找我，我们再谈。也许那时你能和我的好友斯温聊聊。"
+  },
+  {
+    "text": "{s2}^^One_of_my_hersirs_will_take_care_of_your_men._Well,_now_they_are_MY_men._I_really_did_not_expect_someone_like_you_to_be_able_to_do_this,_but_here_you_are._I_see_that_you_will_do_anything_to_find_Sven_Bull_Neck_and_your_mother.",
+    "old_translation": "{s2}^^我的军官们会照顾好你的人的，现在他们是我的人了。我真心没想到你能做到这个地步，我也明白了你为了找到牛颈斯温和你的母亲，愿意做任何事情。",
+    "translation": "{s2}^^我的一位赫希尔会接管你的人——现在是我的人了。真没想到你能做到这一步，我也看出来了，为了找到“牛颈”斯温和你的母亲，你什么都肯做。"
+  },
+  {
+    "text": "Yes._Sven_Bull_Neck_attacked_the_ship_on_which_I_was_traveling_and_kidnapped_my_mother._He_had_mistaken_the_person_because_of_an_object_she_was_carrying._Sven_Bull_Neck_has_to_pay_for_this,_and_I_must_rescue_my_mother.",
+    "old_translation": "是的，牛颈斯温袭击了我们并绑架了我的母亲。因为她当时带着某件东西，所以让牛颈斯温误以为她是目标。他会为此付出代价的，我一定会救出我的母亲。",
+    "translation": "是的。“牛颈”斯温袭击了我乘的船，掳走了我的母亲。他因她携带的一件东西认错了人。他必须为此付出代价，而我必须救回母亲。"
+  },
+  {
+    "text": "Your_mother_is_the_woman_touched_by_the_gods?_Yes,_Sven_brought_her_to_me,_as_I_had_asked._She_was_carrying_an_object,_a_letter_from_overseas_that_had_to_be_intercepted._I_talked_to_her,_yes..._She_spoke_about_a_man_called_Bodo,_who_had_given_her_the_letter_on_a_ship_called_the_Woden_Ric._So_do_you_know_that_name?",
+    "old_translation": "你母亲就是那位通神的女士吗？我曾让斯温曾把她带到我这儿，我也和她谈过。她带着一封信，她说一个叫博多的男人在一条叫沃登里克号的船上把那封信给了她。你对这个名字有印象吗？",
+    "translation": "你母亲就是那位受神眷顾的女人？我曾让斯温把她带来，她携有一封信，那封海外来信必须截下。我和她谈过……她提到一个叫博多的男人，在一条叫“沃登里克号”的船上把信交给了她。你对这名字有印象吗？"
+  },
+  {
+    "text": "No,_I_do_not_know_who_he_is._Should_I?",
+    "old_translation": "不，我根本不认识他。",
+    "translation": "不，我根本不认识他，我该认识吗？"
+  },
+  {
+    "text": "Yes,_he_was_also_traveling_in_the_Woden_Ric.",
+    "old_translation": "是的，他当时也在沃登里克号上。",
+    "translation": "是的，他当时也在沃登里克号上。"
+  },
+  {
+    "text": "Lying!_Why_do_you_lie?_You_say_that_you_traveled_on_the_same_boat_with_your_mother,_and_she_says_she_met_Bodo_on_the_same_boat._That_man,_Bodo,_is_very_important_to_me,_but_Sven_made_the_mistake_of_leaving_him_in_his_hideout._Now_Bodo_is_gone_because_someone_rescued_him._I_suspect_I_know_who_this_someone_is!_Bodo_is_so_important,_that_I_would_gladly_trade_him_for_Sven_Bull_Neck_and_you_mother,_who_still_lives_only_because_Sven_has_taken_a_liking_to_her.",
+    "old_translation": "一派胡言！你为什么要说谎呢？你说你和你母亲在同一条船上旅行，她说也在那条船上见到了博多，博多对我来说十分重要，但是斯温找错了人。现在博多得到了某个人的帮助逃走了，我很怀疑那个人是谁！博多的重要性让我愿意用他来换牛颈斯温和你母亲，她还活着，仅仅是因为斯温有点儿喜欢她。",
+    "translation": "撒谎！为何说谎？你说你与你母亲同船，而她又说在同船上遇见博多。那博多对我极其重要，斯温却错把他留在藏身处。如今博多被人救走，我怀疑那人是谁！博多如此重要，我甘愿用他交换“牛颈”斯温和你的母亲——她之所以还活着，不过是因为斯温对她起了好感。"
+  },
+  {
+    "text": "I_know,_your_mother_told_me._That_man,_Bodo,_is_very_important_to_me,_but_Sven_made_the_mistake_of_leaving_him_in_his_hideout._Now_Bodo_is_gone_because_someone_rescued_him._I_suspect_I_know_who_this_someone_is!_Bodo_is_so_important,_that_I_would_gladly_trade_him_for_Sven_Bull_Neck_and_you_mother,_who_still_lives_only_because_Sven_has_taken_a_liking_to_her.",
+    "old_translation": "我知道，你母亲告诉了我。博多对我来说十分重要，但是斯温找错了人。现在博多得到了某个人的帮助逃走了，我很怀疑那个人是谁！博多的重要性让我愿意用他来换牛颈斯温和你母亲，她还活着，仅仅是因为斯温有点儿喜欢她。",
+    "translation": "我知道，你母亲告诉了我。那博多对我极其重要，斯温却错把他留在藏身处。如今博多被人救走，我怀疑那人是谁！博多如此重要，我甘愿用他交换“牛颈”斯温和你的母亲——她之所以还活着，不过是因为斯温对她起了好感。"
+  },
+  {
+    "text": "You_tell_me_where_Sven_Bull_Neck_and_my_mother_are,_and_Bodo_is_yours.",
+    "old_translation": "只要你告诉我牛颈斯温和我母亲在哪儿，博多就是你的了。",
+    "translation": "告诉我“牛颈”斯温和我的母亲在哪儿，博多就归你。"
+  },
+  {
+    "text": "I_do_not_know_where_Bodo_is.",
+    "old_translation": "我不知道博多在哪儿。",
+    "translation": "我不知道博多在哪儿。"
+  },
+  {
+    "text": "Then_we_have_a_deal._I_suppose_Bodo_is_with_you,_so_I_will_send_two_men_to_get_him._You_people_keep_quiet,_for_I_have_hundreds_of_warriors_ready_to_attack_on_my_order._If_they_take_Bodo_without_complications,_there_will_be_no_problems._I_hope_this_will_be_how_it_goes,_for_a_fight_would_not_benefit_any_of_us.",
+    "old_translation": "那么我们成交。我想博多和你在一起，我会派两个人去找他。我有上百名战士随时待命，所以让你的人注意点儿，如果我的人顺利抓到博多的话那么就没问题。我希望事情就这么过去了，一场战斗对我俩来说都没有好处。",
+    "translation": "那就成交。我猜博多就在你手里，我会派两人去带他。我有数百战士随时待命，你们最好安静配合。若他们顺利带走博多，就相安无事。我希望如此，打起来对我们都没好处。"
+  },
+  {
+    "text": "{s4}^^As_for_my_part,_there_is_a_farm_near_Skyfa_belonging_to_a_man_that_is_loyal_to_me._Go_there,_and_Sven_Bull_Neck_and_your_mother_will_meet_you_there._{playername},_remember_that_there_are_laws_in_Danmark,_and_if_you_cause_any_damage_to_Sven,_you_will_have_to_pay...",
+    "old_translation": "{s4}^^至于我这边，在斯卡发附近有一处属于我的农场，牛颈斯温和你母亲会在那儿等你。{playername}，记住在丹麦是有法律的，如果你对斯温出手，你会付出代价的。。。",
+    "translation": "{s4}^^至于我这边，在Skyfa附近有一处属于我的农场，那里的人对我忠心耿耿。你去那儿，“牛颈”斯温和你母亲会与你碰面。{playername}，记住丹麦有法律，你若敢伤害斯温，就得赔偿……"
+  },
+  {
+    "text": "I'm_too_old_to_swallow_your_lies._Bodo_means_too_much_to_me,_and_I_know_you_know_where_he_is._What_I_do_not_know_is_if_you_have_hidden_him_among_your_people_or_elsewhere._So_here_is_the_deal:",
+    "old_translation": "你的谎言骗不了我。博多对我来说太重要了，我也知道，你知道他在哪儿，我只是不知道你把他和你的人藏在哪儿了。那么以这样来成交吧：",
+    "translation": "我老了，咽不下你的谎话。博多对我太重要，我知道你知道他在哪儿。我不清楚的是你把他藏在你的人里还是别处。所以，听好了："
+  },
+  {
+    "text": "{s4}^^There_is_a_farm_near_Skyfa_belonging_to_a_man_that_is_loyal_to_me._Go_there,_and_Sven_Bull_Neck_and_your_mother_will_meet_you_there._If_Bodo_is_there,_my_men_will_exchange_Sven_Bull_Neck_and_your_mother_for_him._If_Bodo_is_not_there,_your_mother_will_die_before_your_eyes,_and_I_will_send_Sven_away_to_a_place_where_you_will_never_find_him.",
+    "old_translation": "{s4}^^至于我这边，在斯卡发附近有一处属于我的农场，牛颈斯温和你母亲会在那儿等你。如果博多不来的话，那么你的母亲会在你眼前死去，并且我会把斯温藏到一个你永远找不到的地方。",
+    "translation": "{s4}^^在Skyfa附近有一处属于我的农场，那里的人对我忠心耿耿。你去那儿，“牛颈”斯温和你母亲会与你碰面。若博多在场，我的人会拿他换“牛颈”斯温和你母亲；若博多不在，你母亲会死在你面前，我会把斯温送到你永远找不到的地方。"
+  },
+  {
+    "text": "Have_your_men_follow_me._I_will_tell_Bodo_farewell_and_give_him_to_them.",
+    "old_translation": "让你的人跟着我，我会去同博多道别，并把他交给你的人。",
+    "translation": "让你的人跟着我。我会去同博多道别，把他交给他们。"
+  },
+  {
+    "text": "I_will_go_to_that_farm_near_Skyfa._Farewell.",
+    "old_translation": "我会去斯卡发附近的农庄的，再见。",
+    "translation": "我会去Skyfa附近的农场。再会。"
+  },
+  {
+    "text": "Well,_I_think_we_have_nothing_to_talk_about.",
+    "old_translation": "很好，我想没什么好谈的了。",
+    "translation": "好，我想我们无话可说了。"
+  },
+  {
+    "text": "I_would_like_to_know_more_about_you.",
+    "old_translation": "我想知道更多关于你的事情。",
+    "translation": "我想多了解你一些。"
+  },
+  {
+    "text": "My_name_is_Sigurdr_ormr_i_auga,_Sigurd_'Snake_in_the_Eye,'_son_of_Ragnar_Lodbrok_and_Aslaug,_lord_of_Sjaelland,_Skane,_and_other_lands._To_learn_more,_ask_other_men,_as_fame_is_measured_by_what_others_say_about_you.",
+    "old_translation": "我的名字是西格德，“蛇眼”西格德，拉格纳·罗德伯克与阿丝洛之子，西兰与斯科讷等地的领主。想知道更多的话就去问其他人，一个人的名声是由他人之口而决定的。",
+    "translation": "我叫西格德·奥姆·伊·奥加，‘蛇眼’西格德，‘毛裤子’拉格纳与亚丝劳格之子，西兰、斯科讷等地之主。想听更多，去问别人吧，名声得靠他人评说。"
+  },
+  {
+    "text": "There_is_not_much_to_tell_you._I_am_the_son_of_Harald_the_Younger_and_nephew_of_King_Horik._My_father_with_my_uncle_and_Gotrik_conquered_this_land.^One_may_say_that_my_uncle_Hrorik,_the_king,_serves_Lothar,_king_of_the_Franks,_but_really,_my_uncle_does_what_he_wants._The_only_thing_is_that_we_should_not_attack_the_land_of_the_Franks._This_I_heed_very_little,_and_occasionally_I_organize_some_expedition_for_plunder_or_pay_against_the_Franks.^^There_is_no_need_to_talk_over_my_head,_and_there_are_more_pressing_problems,_such_as_the_rebellion_of_some_Frisians._My_uncle_would_sooner_kill_them_all,_but_he_is_still_too_weak.",
+    "old_translation": "没什么特别的可以告诉你的，我是哈罗德之子，罗里克国王之侄。我父亲同我叔叔以及戈特里克一同征服了这片土地。^有人说我叔叔罗里克忠于法兰克国王洛法尔，不过实际上我叔叔只是做他想做的事情而已，除了攻击法兰克人的土地。不过我一点儿也不在乎这个，有时候我会带人去法兰克人的地盘上掠夺。^^我觉得没必要说下去了，各种事情实在是太多了，比如弗里斯人的叛乱。我叔叔迟早会把他们都杀掉，不过现在他的实力还是太弱了。",
+    "translation": "没什么特别的可说。我是小哈拉尔之子，霍里克国王之侄。我父亲与叔叔及戈特里克一起征服了这片土地。^有人说我叔叔霍里克国王效忠法兰克国王洛塔尔，其实叔叔想干什么就干什么，只是不能攻打法兰克人的土地。我可不管这套，偶尔还会带队去抢一把。^^别绕弯子了，眼下更急的是弗里斯人叛乱。叔叔恨不得把他们杀光，可他眼下还不够强。"
+  },
+  {
+    "text": "{s11},_Thonkrik_from_Doccinga_told_me_that_you_could_help_me.",
+    "old_translation": "{s11}，道琴嘉的索里克说你能帮我。",
+    "translation": "{s11}，道琴嘉的索里克说你能帮我。"
+  },
+  {
+    "text": "I_sent_men_there_weeks_ago._I_will_try_to_send_more_men_soon,_but_I_need_to_gain_time._If_you_help_Doccinga,_I_will_be_grateful.",
+    "old_translation": "三周前我就派人去了，我会很快再派更多人去的，不过我需要一些时间。如果你愿意对道琴嘉施以援手的话，我会十分感激你的。",
+    "translation": "几周前我就派人去了，我会尽快再派援兵，但我需要时间。你若肯帮道琴嘉，我会感激。"
+  },
+  {
+    "text": "That's_neither_my_problem_nor_yours._It_is_the_king's_problem.",
+    "old_translation": "这既不是我的也不是你的问题，这是国王的问题。",
+    "translation": "这既不是我的也不是你的问题，是国王的问题。"
+  },
+  {
+    "text": "Thonkrik_is_a_good_man,_and_you_are_a_good_friend._What_do_you_need?",
+    "old_translation": "索里克是个好人，所以你也是个好朋友。你需要什么？",
+    "translation": "索里克是好人，你也是好朋友。你需要什么？"
+  },
+  {
+    "text": "Thonkrik_is_a_good_man,_one_of_the_few_Frisians_who_have_gained_my_esteem._If_you_come_in_his_name,_I_will_listen_to_you!",
+    "old_translation": "索里克是个好人，也是为数不多的让我尊敬的弗里斯人。既然你是他派来的，那么我会听听你的话。",
+    "translation": "索里克是好人，少有的让我敬重的弗里斯人。既然你为他而来，我就听听。"
+  },
+  {
+    "text": "Do_you_know_the_Woden_Ric?_I_traveled_on_this_ship_with_my_mother,_but_we_were_attacked_by_Sven_Bull_Neck.",
+    "old_translation": "你听说过沃登里克号吗，我和我母亲一起搭乘着这条船，遭到了牛颈斯温的袭击。",
+    "translation": "你听说过‘沃登里克号’吗？我和母亲乘那条船时，遭到‘牛颈’斯温袭击。"
+  },
+  {
+    "text": "Sven_the_Bloody_attacks_merchant_ships_near_our_shores,_waiting_for_us_to_pay_him_every_spring,_but_not_this_year!_Do_not_worry._I'm_gathering_troops_to_hunt_for_him._Now,_I_have_things_to_do...",
+    "old_translation": "嗜血的斯温在我们的海岸边袭击商船，每个春天都等着我们付贡金，但今年不会再这样了。别担心，我正在集结兵力去围剿他。现在我有其它事情要做。。。",
+    "translation": "‘血手’斯温在近海劫商船，每年春天都等我们交贡，今年休想！别担心，我正集结兵力搜捕他。现在我还有事……"
+  },
+  {
+    "text": "I_desire_to_join_the_hunt._My_goal_is_to_avenge_the_death_of_my_mother.",
+    "old_translation": "我希望加入此战，我要为我的母亲复仇。",
+    "translation": "我要加入搜捕，为母亲之死复仇。"
+  },
+  {
+    "text": "{s1}^^I_am_not_sure..._How_many_men_and_ships_do_you_have?",
+    "old_translation": "{s1}^^是吗。。。你有多少兵力与船只？",
+    "translation": "{s1}^^我不确定……你有多少兵和船？"
+  },
+  {
+    "text": "My_arms_are_my_men,_and_my_courage_is_my_ships._Together_we_will_kill_Sven_Bull_Neck.",
+    "old_translation": "我的双臂就是我的力量，我的勇气则是我的船只。我们将一起杀了牛颈斯温。",
+    "translation": "我的双臂就是我的兵，我的勇气就是我的船。我们一起干掉‘牛颈’斯温。"
+  },
+  {
+    "text": "In_truth,_I_lost_everything,_but_I_do_not_lack_the_courage_to_achieve_my_revenge.",
+    "old_translation": "说实话我已经失去了一切，不过我依旧有着复仇的勇气。",
+    "translation": "说实话，我已一无所有，但复仇的勇气还在。"
+  },
+  {
+    "text": "I_am_just_one_{reg59?woman:man},_sir,_but_I_will_give_my_eternal_loyalty_to_you.",
+    "old_translation": "我只有我自己一个人，大人，不过我愿意将我所有的忠诚献给您。",
+    "translation": "大人，我只是个{reg59?女人:男人}，却愿把永恒的忠诚献给您。"
+  },
+  {
+    "text": "Yes,_yes,_I_see..._Well,_look,_I'm_very_busy._Why_don't_you_come_see_me_later?_In_ten_years,_for_example?",
+    "old_translation": "好的，好的，我明白了…恩，你看我也很忙，你过一段时间再来找我吧，十年后怎么样？",
+    "translation": "好好，我明白……可我很忙。你改天再来吧，十年后如何？"
+  },
+  {
+    "text": "Well,_I_understand_your_desire_for_revenge,_but_I_cannot_help_you..._I_need_men_and_ships_ready_to_fight,_not_desperate,_poorly_equipped_orphans-in-mourning.",
+    "old_translation": "很好，我能理解你急于复仇的的心情，不过我帮不了你…我需要准备好人马和船只，而不是靠着一个装备不齐，服丧中的孤儿去战斗。",
+    "translation": "我理解你复仇的渴望，可我帮不了你……我需要能战的兵和船，而不是绝望又缺装备的丧亲孤儿。"
+  },
+  {
+    "text": "Your_loyalty_does_not_interest_me._Tell_you_what..._You_look_like_a_good_{reg59?woman:man}._Why_not_ask_Thonkrik_from_Doccinga_for_{reg59?a_good_man_to_marry:a_job_digging_the_moat}_and_try_to_rebuild_your_life?",
+    "old_translation": "我对你的忠诚没有兴趣。我跟你说呀，你看上去是个好{reg59?姑娘:男人}，为什么不去让道琴嘉的索里克帮你找{reg59?个好男人嫁了:份好差事}，并重新你的生活呢？",
+    "translation": "你的忠诚我不稀罕。这样吧……你看着是个好{reg59?姑娘:男人}，何不去找道琴嘉的索里克，让他给你{reg59?找个好男人嫁了:份挖护城河的差事}，重新开始生活？"
+  },
+  {
+    "text": "I_thought_that_surely_you_would_understand_the_demands_of_honor_in_cases_such_as_mine.",
+    "old_translation": "我想你一定能理解，在像我这样的情况下对荣誉的执着。",
+    "translation": "我以为你一定能理解，像我这样的处境，荣誉的召唤有多迫切。"
+  },
+  {
+    "text": "Are_you_indeed_so_motivated_by_honor?_Alright,_I_can_do_this:_I'll_give_you_a_place_among_the_men_who_will_face_Sven_if_you_prove_your_worth.",
+    "old_translation": "你真的是为了荣誉吗？好吧，如果你能证明你的能力的话，我就让你有机会同斯温作战。",
+    "translation": "你真是为了荣誉才这么积极？好，如果你能证明实力，我就让你加入迎战斯温的队伍。"
+  },
+  {
+    "text": "{s1}^^There_is_a_problem_I_need_to_solve._Not_far_from_here_is_a_monastery_of_Christians,_Odin_damn_them,_who_have_sent_a_request_to_intercede_in_a_land_property_dispute.^Honestly,_I_care_very_little_about_their_problems,_but_the_king_wants_Christian_priests_happy,_to_avoid_Frisian_rebellions.",
+    "old_translation": "{s1}^^我有一个需要解决的问题，离这儿不远处有一所基督徒们的修道院，他们请我帮他们在一宗土地纠纷事件中说情。^说真的我才不想关心他们的问题呢，不过国王希望能让基督徒僧侣们高兴，从而预防弗里斯人造反。",
+    "translation": "{s1}^^我有个麻烦要解决。离这儿不远有座基督徒的修道院，奥丁诅咒他们，他们竟请求我出面调解一块土地的纠纷。^说实话，我懒得管他们的破事，可国王想让那些修士高兴，免得弗里西人叛乱。"
+  },
+  {
+    "text": "Anyway,_my_men_are_busy,_protecting_important_things_like_the_people_on_the_coast,_so_you_go_in_my_name_and_make_the_arrangement_that_best_suits_my_interests.^The_most_important_thing_is_to_keep_the_monks_quiet._I_do_not_want_them_stirring_up_the_people_versus_rightful_Danish_dominion.",
+    "old_translation": "我的人都忙于防御海岸，所以你去以我的名义把这件事稳妥的解决掉。^最重要的是让僧侣们保持缄默，我可不想激起人们对丹麦统治的反抗之心。",
+    "translation": "总之，我的人都忙着守海岸，你就代我走一趟，把事情按对我最有利的方式摆平。^最要紧的是让修士闭嘴，我可不想他们煽动百姓反抗丹麦的正统统治。"
+  },
+  {
+    "text": "Thank_you,_my_lord._I_will_not_disappoint_you.",
+    "old_translation": "太感谢了，大人，我将不会让您失望的。",
+    "translation": "谢谢您，大人，我不会让您失望。"
+  },
+  {
+    "text": "Is_there_a_reward?",
+    "old_translation": "有奖金吗？",
+    "translation": "有赏金吗？"
+  },
+  {
+    "text": "It_will_be_done_quickly._Farewell.",
+    "old_translation": "我会迅速解决掉这事的，再见。",
+    "translation": "我会速战速决，再会。"
+  },
+  {
+    "text": "Are_you_still_here,_{reg59?woman:man}?_You_have_a_mission!_Complete_it,_and_your_revenge_on_Sven_will_be_that_much_closer._Now,_get_out!",
+    "old_translation": "你还呆在这儿呀？快去把你的任务完成，那么你就离斯温更近一步了。现在出去！",
+    "translation": "你怎么还在这儿，{reg59?女人:男人}？你有任务！完成它，你离向斯温复仇就更近一步。现在，滚出去！"
+  },
+  {
+    "text": "Yes,_I_know._The_monastery_sent_a_messenger_with_the_news._They_are_happy_with_your_decision_and_promise_to_speak_well_of_me_to_the_people._Take_this_reward,_and_thank_you!",
+    "old_translation": "是的，我知道。修道院把消息告诉我了，他们对你的决定很高兴，并承诺以后会在民众前多说我的好话。辛苦你了，这是你的报酬。",
+    "translation": "我知道，修道院派人来报信了。他们对你的决定很满意，答应在百姓面前替我美言。收下这份酬劳，谢谢你！"
+  },
+  {
+    "text": "Yes,_I_know._The_monastery_sent_a_messenger_with_the_news._They_are_very_unhappy_and_blame_me_for_sending_you._They_say_that_everyone_will_know_that_I_am_unjust!_Damn_you!",
+    "old_translation": "是的，我知道。修道院把消息告诉我了，他们十分不满，并把此怪到了我头上。他们说会让每个人都知道我是个不讲道理的人，都怪你！",
+    "translation": "我知道，修道院派人来报信了。他们非常不满，把账都算到我头上，还说要让所有人知道我不公！该死的！"
+  },
+  {
+    "text": "What_about_our_deal?_May_I_join_the_hunt_now?",
+    "old_translation": "那么我们的商量好的事情怎么样了，我现在能加入战斗吗？",
+    "translation": "那我们说好的呢？现在我能加入猎杀了吗？"
+  },
+  {
+    "text": "No_one_can_think_that_you_are_unfair_when_justice_has_been_done.",
+    "old_translation": "在伸张了正义之后，没有人会再认为你是个不公的人。",
+    "translation": "既然伸张了正义，就没人会再觉得你偏私。"
+  },
+  {
+    "text": "Oho!_A_{reg59?lady:gentleman}_with_values._Justice_is_all_very_nice,_but_this_world_isn't_right_and_won't_recognize_it._That_land_wasn't_important,_but_good_relations_with_monastery_are._Do_not_upset_me_again.",
+    "old_translation": "哦！一位有价值的{reg59?大小姐:男子}。正义听起来不错，不过这个无情的世界是不讲正义的。那片土地并不重要，重要的是与修道院的关系。别再让我失望了。",
+    "translation": "哦嗬！一位讲原则的{reg59?大小姐:先生}。正义听着不错，可世道不公，没人认这个理。那块地不重要，跟修道院搞好关系才要紧。别再惹我生气。"
+  },
+  {
+    "text": "Err,_not_just_yet._Now_I_need_you_to_do_something_else_to_prove_your_worth,_this_time_as_a_warrior._There_is_a_rebellious_Frisian,_called_Thiaderd,_who_has_been_causing_me_a_headache,_and_I_do_not_have_the_time_right_now_to_take_care_of_him.^^I'll_give_you_permission_to_recruit_on_my_land._Also,_I_will_send_a_letter_to_the_king_so_he_may_likewise_allow_you_to_recruit_men_in_Friese.",
+    "old_translation": "额，还不是时候。现在我还需要你再去办一件事来证明你的价值，这次的对象是个战士。有一个叫泰德的弗里斯叛党一直让我头疼，而且现在我也没时间去对付他。^我允许你在我的领地征兵，我也会写信给国王，让他允许你在弗里斯征兵。",
+    "translation": "呃，还没到时候。现在你得再办一件事来证明价值，这次得靠武力。有个叫提亚德尔的弗里西叛党让我头疼，我眼下没空收拾他。^^我准你在我的地盘征兵，还会给国王写信，让他也允许你在弗里西招兵。"
+  },
+  {
+    "text": "This_is_what_I_want_you_to_do._Take_this_silver_and_recruit_fifteen_men._The_cheapest_are_village_idlers_or_refugees_at_the_monastery._Sometimes_spare_men_are_available_at_farmsteads._Once_you_have_men,_come_back_here,_and_I_will_tell_you_how_to_find_Thiaderd.",
+    "old_translation": "我让你用这笔钱征到十五个人，最便宜的兵员是村里的闲汉和修道院里的难民，完成之后回来找我，我会告诉你怎么找到泰德。",
+    "translation": "我要你这么做：拿这些银子去招十五个人，最便宜的是村里的闲汉和修道院的难民，有时农庄也有闲人。人齐了就回来，我告诉你怎么找提亚德尔。"
+  },
+  {
+    "text": "--He_scratches_his_nose--^^Well,_good_luck._Now,_you_have_things_to_do.",
+    "old_translation": "——他抓了抓他的鼻子——^^很好，祝你好运，现在你有事情做了。",
+    "translation": "——他挠了挠鼻子——^^行，祝你好运。现在，去办事吧。"
+  },
+  {
+    "text": "Well,_you_again_have_proven_useful._As_I_mentioned_before,_there_is_a_rebellious_Frisian_called_Thiaderd_who_has_been_a_headache_for_me._I_do_not_have_the_time_right_now_to_take_care_of_him._You'll_do_it_for_me!^^Oh,_and_here_is_some_money_to_equip_yourself_better._I_can't_allow_people_to_think_that_I_employ_such_shabby_help.",
+    "old_translation": "很好，你再次证明你是个有用的人。我之前和你说过，有个叫泰德的弗里斯叛党一直让我头痛，况且现在我也没时间去对付他，你替我去把他解决了。^^拿上这笔钱好好装备一下你自己，我可不想让人觉得我找了个这么寒酸的人来帮我。",
+    "translation": "好，你又一次证明了自己的用处。之前说过，有个叫提亚德尔的弗里西叛党让我头疼，我眼下没空收拾他，你替我动手！^^喏，拿点钱把自己装备得像样点，我可不想别人说我雇了个叫花子。"
+  },
+  {
+    "text": "I_like_the_sound_of_this.",
+    "old_translation": "这听起来不错。",
+    "translation": "听着不错。"
+  },
+  {
+    "text": "I_do_not_like_what_you_offer.",
+    "old_translation": "我不喜欢你的条件。",
+    "translation": "我不接受这条件。"
+  },
+  {
+    "text": "To_tell_you_the_truth,_I_don't_care_if_you_like_it_or_not._You_offered_your_services,_and_I_offered_you_a_job.^Do_this_for_me,_and_your_revenge_upon_Sven_will_be_closer._Take_this_money_and_travel_to_Dorestad._There_is_a_man_there_who_knows_all_about_this._His_name_is_Reginhard,_and_I_hear_that_he_cowers_in_the_mead_hall_between_the_prostitutes_and_the_other_drunks.^He_would_not_talk_to_my_men,_but_maybe_you_can_find_out_where_the_rebel_is_hiding_and_kill_him._Thiaderd_must_die.",
+    "old_translation": "老实告诉你吧，我不在乎你喜不喜欢我给你的任务。你向我效忠，而我向你发号施令，就是这样。^为我把这件事办了，那么你就离向斯温复仇更进一步。拿上这笔钱去杜里斯特，在那有个叫雷因哈德的人知道详细的信息。我听说他总是在酒馆里和妓女与醉鬼们混在一起。^他不愿意和我的人交谈，不过也许你能问出叛党的所在地并剿灭他们。泰德必须死。",
+    "translation": "实话告诉你，我不管你喜不喜欢。你主动效忠，我就给你活干。^替我办成这事，你离向斯温复仇就更近。拿上钱去多雷斯塔德，那儿有个叫雷因哈德的家伙知道内情。听说他整天缩在蜜酒厅，混在妓女和醉鬼中间。^他不愿跟我的人开口，也许你能问出叛党藏身处，然后干掉他。提亚德尔必须死。"
+  },
+  {
+    "text": "It_shall_be_done._Farewell.",
+    "old_translation": "那么就依您的意思，再见。",
+    "translation": "遵命，再会。"
+  },
+  {
+    "text": "I_do_not_like_this_mission,_but_I_keep_my_part_of_the_deal._Farewell.",
+    "old_translation": "我不喜欢这差事，不过既然承诺过你了就得完成，再见。",
+    "translation": "我不喜欢这差事，但既然答应了就照办，再会。"
+  },
+  {
+    "text": "Are_you_still_here?_You_have_a_mission!_I_would_see_you_on_it,_{reg59?madame:sir}!",
+    "old_translation": "你还呆在这儿呀？快去把你的任务完成。祝你成功，{reg59?大小姐:先生}！",
+    "translation": "你怎么还杵在这儿？有任务等着！去吧，{reg59?夫人:先生}！"
+  },
+  {
+    "text": "--He_scratches_his_nose--",
+    "old_translation": "——他抓了抓他的鼻子——",
+    "translation": "——他抓了抓鼻子——"
+  },
+  {
+    "text": "I_am_very_happy._The_news_of_Thiaderd's_death_came_before_you.^^I_must_say_that_I_doubted_your_abilities,_but_certainly_you're_smarter_than_I_thought._Moreover,_you_have_proven_to_be_someone_trustworthy_and_loyal._Take_this_money_as_compensation_for_your_efforts._It_is_a_pity_that_you_didn't_kill_Reginhard,_too,_but_I_guess_you_need_a_pet_in_your_party._However,_I_do_not_want_him_around_me,_so_keep_that_rat_away_when_you_come_to_see_me.",
+    "old_translation": "我很高兴，在你回来之前，我就收到泰德的死讯了。^^我曾经怀疑你的能力，不过我必须承认你比我想的还聪明，并且你也证明了你是个让人信任的忠诚的人。拿上这笔钱作为你的报酬吧。你没有顺便把雷因哈德也杀掉可真是奇怪呀，不过我想你队伍里大概需要一只宠物吧。我不想看到他，总之来见我的时候把他支走。",
+    "translation": "我高兴得很，提亚德尔的死讯比你还先到。^^说实话，我曾怀疑你的本事，如今看来你比我想的机灵，也证明了你可靠忠诚。拿这笔钱当酬劳。可惜你没顺手把雷因哈德也宰了，不过也许你队伍里缺只宠物。总之别让他靠近我，来见我时把那只耗子支开。"
+  },
+  {
+    "text": "{s2}^^Well,_well..._I_must_confess_something._I've_been_waiting_for_someone_like_you_for_a_long_time._You_are_a_person_that_can_find_solutions_and_accomplish_what_is_ordered._That_is_very_important._Sometimes_I_feel_like_I'm_surrounded_by_dolts.^^Now,_there_is_a_delicate_subject_I_want_to_talk_to_you_about_--_one_that_can_make_you_rich.",
+    "old_translation": "{s2}^^很好很好…我必须承认，长久以来我一直在等着像你这样的人。^你是个能找到方法并完美解决任务的人，这一点实在是太重要了。有时候我真觉得我身边的人都是笨蛋。^现在我有件好事想跟你谈谈——一件能让你发财的好事。",
+    "translation": "{s2}^^好，好……我得坦白，我一直等的就是你这样的人。^你能想办法把交代的任务办妥，这太重要了。有时我真觉得自己被一群蠢货围着。^现在，有桩能让你发财的敏感事要跟你谈。"
+  },
+  {
+    "text": "Wealth,_I_do_not_care_about._I_just_want_Sven.",
+    "old_translation": "我不在乎财富，我要找到斯温。",
+    "translation": "财富，我不在乎。我只要斯温。"
+  },
+  {
+    "text": "I_like_what_I_hear!_Please_continue...",
+    "old_translation": "听起来不错，请继续说下去。",
+    "translation": "我喜欢听到的！请继续……"
+  },
+  {
+    "text": "That_much_I_know!_But_the_two_are_related._Listen_to_the_whole_story_and_see_for_yourself.",
+    "old_translation": "我就知道你这么想，不过他们是有关联的，先听我把话说完。",
+    "translation": "这我早知道！可两者有关联。听完整个故事，你自会明白。"
+  },
+  {
+    "text": "To_be_honest,_I_have_the_men_to_hunt_Sven,_who's_near_Doccinga._I'm_hoping_that_you'll_join_us_in_his_capture...^However,_we_have_a_problem:_the_king._The_king,_my_uncle,_does_not_want_to_attack_Sven_Bull_Neck._He_fears_his_master,_Jarl_Sigurd,_called_'Snake_in_the_Eye,'_one_of_the_oldest_sons_of_Ragnar,_called_Lodbrok_in_Norse_--_Hairy_Breeches.",
+    "old_translation": "实话告诉你，我现在已经有足够的军力去追捕躲在道琴嘉附近的斯温了，我希望你能和我们一起去抓住他…^不过我们有个问题，那就是国王，我的叔叔，不愿意去攻击牛颈斯温。他对斯温的主人，拉格纳之子中的“蛇眼”西格德雅尔十分害怕。拉格纳在维京人中被称作罗德伯克，也就是诺尔斯语中的多毛屁股。",
+    "translation": "说实话，我手下已足够去追捕躲在多辛加附近的斯温，我希望你同我一起擒他……^然而有个麻烦：国王。我的叔父国王不愿攻打“牛颈”斯温。他惧怕斯温的主人——雅尔西格德，人称“蛇眼”，是拉格纳最年长的儿子之一；诺斯语称拉格纳为“洛德布罗克”——毛裤子。"
+  },
+  {
+    "text": "These_names_say_nothing_to_me._Who_are_Sigurd_and_his_father,_Ragnar?_Should_I_fear_them?",
+    "old_translation": "这些名字对我毫无意义。西格德和他的父亲都是谁呀，值得我去害怕他们吗？",
+    "translation": "这些名字对我毫无意义。西格德和他父亲拉格纳是谁？我该怕他们吗？"
+  },
+  {
+    "text": "You_have_kept_all_this_information_hidden_until_now?",
+    "old_translation": "你一直藏着这些信息，直到现在？",
+    "translation": "你一直把这些情报藏到现在？"
+  },
+  {
+    "text": "I_am_listening._Please_continue.",
+    "old_translation": "我正在听着，请继续说下去。",
+    "translation": "我在听，请继续。"
+  },
+  {
+    "text": "You_must_understand,_it_is_not_so_easy._It_is_a_sensitive_issue,_and_you_were_a_stranger_that_the_sea_had_just_brought_to_us._Now_it's_different._I_think_you're_someone_I_can_trust.",
+    "old_translation": "你得明白事情不是这么简单的。这件事有些敏感，当初你对我们来说也只是个从海上漂来的陌生人。现在已经不同了，我认为你是个值得信任的人。",
+    "translation": "你得明白，这事并不简单。它很敏感，而你当初只是大海送来的陌生人。如今不同了，我觉得你是可信赖的人。"
+  },
+  {
+    "text": "Ragnar_Sigurdsson_was_a_man_who_became_a_legend,_a_king_who_ruled_part_of_Danmark_and_whose_ships_caused_fear_wherever_they_were_spotted._Ragnar_died_years_ago,_but_he_had_many_sons,_many_of_whom_are_invading_Englaland_right_now.^Sigurd_'Snake_in_the_Eye'_Ragnarsson_is_one_of_his_oldest_sons,_by_the_princess_Aslaug._He_is_old_now,_but_still_a_man_to_be_feared_and_a_respected_Danish_jarl.^Yes,_you_should_fear_him_if_you_do_not_have_the_support_of_a_powerful_king_or_jarl._I_can_be_that_man_if_you_help_me.",
+    "old_translation": "拉格纳是个成为了传奇的人，他统治过一部分丹麦，他的舰队让遇到他的诸国都闻风丧胆。拉格纳已经在很多年前就死了，不过他有很多儿子，他们现在正在进攻英格兰。^“蛇眼”西格德·拉格纳逊是他与阿丝洛公主所生的几个年长的儿子之一。他现在已经老了，不过依旧是一个让人敬畏的丹麦人雅尔。^是的，如果你没有强力的后援的话，你的确应该害怕他，而我则可以成为你的后援，如果你帮助我的话。",
+    "translation": "拉格纳·西格德松成了传奇人物，曾统治丹麦一部，他的船队所至，人人胆寒。拉格纳多年前已死，却留下众多儿子，此刻正入侵英格兰。^“蛇眼”西格德·拉格纳松是他与公主阿斯劳格所生的长子之一。他虽年迈，仍是令人敬畏的丹麦雅尔。^没错，若无强王或雅尔撑腰，你就该怕他。若你助我，我便可成为那个人。"
+  },
+  {
+    "text": "Here_is_the_deal:_kill_my_uncle_{s10},_and_I_will_take_the_kingdom_for_myself._Then_I'll_have_the_necessary_resources_and_men_to_hunt_Sven_Bull_Neck_and_attack_his_master,_Sigurd_'Snake_in_the_Eye.'_Additionally,_I_will_give_you_the_title_of_'jarl'_in_this_land,_plus_the_men_and_money_to_be_powerful.",
+    "old_translation": "这是我的提议，帮我干掉我叔叔{s10}，然后我会夺取这个王国。这样一来我就有足够的人力与物资去追捕牛颈斯温并和他的主人“蛇眼”西格德对抗，并且我会让你成为这片土地的领主，以及提供给你足够的人员与财力。",
+    "translation": "交易如下：杀掉我叔父{s10}，我自取王国。那时我便有兵有粮追捕“牛颈”斯温，并攻打他的主子“蛇眼”西格德。此外，我将封你为本地雅尔，赐你人马与金银，让你手握实权。"
+  },
+  {
+    "text": "You_want_to_become_king,_using_me?_No,_I_don't_trust_you!_I_am_not_your_assassin!",
+    "old_translation": "你要利用我成为国王吗？不，我不信任你，我不是你的刺客！",
+    "translation": "你想利用我称王？不，我不信你！我不是你的刺客！"
+  },
+  {
+    "text": "We_had_a_deal._Thiaderd_is_dead._Your_part_is_to_give_me_what_I_need_to_hunt_Sven.",
+    "old_translation": "我们约定过，泰德已经死了，你应该守约帮我去追捕斯温。",
+    "translation": "我们说好的。提亚德尔已死，你该履约助我追捕斯温。"
+  },
+  {
+    "text": "I_accept_your_proposal._I_will_kill_your_king.",
+    "old_translation": "我接受你的提议，我会杀掉你的国王。",
+    "translation": "我接受你的提议。我会杀掉你的国王。"
+  },
+  {
+    "text": "No_more_deals,_lies_or_missions!_Just_this_one_condition,_and_everything_will_be_yours._What_is_your_answer?",
+    "old_translation": "不会再有更多的条件、谎言与任务了！只要答应了这个，一切都是你的了，你的答复是什么？",
+    "translation": "再无更多条件、谎言或任务！只此一桩，一切归你。你答不答应？"
+  },
+  {
+    "text": "I_accept._I_will_kill_{s10}.",
+    "old_translation": "好吧，我会杀了{s10}。",
+    "translation": "我接受。我会杀掉{s10}。"
+  },
+  {
+    "text": "No,_you_will_have_to_find_another_assassin._I_will_hunt_Sven_Bull_Neck_on_my_own.",
+    "old_translation": "不，你去找其他的杀手吧。我会靠自己的力量去追捕牛颈斯温的。",
+    "translation": "不，你另寻刺客吧。我会独自追捕“牛颈”斯温。"
+  },
+  {
+    "text": "I_was_sure_I_would_hear_that_answer,_for_I_have_not_misled_you._{s10}_is_not_just_any_man._Everyone_fears_him,_not_the_least_because_he_is_always_accompanied_by_an_escort_of_faithful_warriors._His_death_should_be_public,_in_the_sight_of_those_who_fear_him._The_ideal_time_would_be_during_a_feast._I_do_not_care_if_you_use_poison_or_a_dagger,_but_two_things_are_very_important...",
+    "old_translation": "我就知道你会这么回答的，我没看错你。{s10}不是一般人，大家都害怕他，而且他身边总是有一队忠诚的战士保护着他。他应该死在一个公开的场合，死在那些惧怕他的人的眼前，最好是在一场宴会上。我不在乎你用毒药还是匕首。",
+    "translation": "我就知道会听到这话，我没看错你。{s10}不是常人，人人畏惧，何况他总有忠勇卫士随行。他须当众死在那些怕他的人眼前，最好是在宴会上。用毒或匕首随你，但有两点极重要……"
+  },
+  {
+    "text": "Firstly,_if_you_are_caught,_do_not_mention_my_name._You_must_appear_to_be_acting_alone._Even_beforehand,_we_should_not_be_seen_together._If_we_happen_to_meet,_we_must_pretend_not_to_know_each_other.^^Secondly_and_more_importantly,_do_not_get_caught!^^Once_you_are_done,_do_not_come_here._Hide_in_the_mountains,_where_Thiaderd's_camp_was,_and_I_will_send_for_you_when_things_are_calm_and_I_am_the_king._Now_go_and_make_me_king.",
+    "old_translation": "不过有两点很重要。第一，如果你被抓住的话，千万不要透露我的名字。记住，你只是一个人行动。第二，更重要的是不要被抓住！当你完事之后，不要回这里来。我们得假装互相不认识，也不要来往。去躲到在山里的泰德的营地中，在局势稳定下来，我成为国王之后，我会派人来找你的。现在去让我成为国王吧。",
+    "translation": "第一，若你被擒，不得提我名字，你必须像是独自行动。事先我们也别同框出现；若偶遇，须装作互不相识。^^第二，更关键的：别被活捉！^^事后别回这里，躲进山里提亚德尔旧营，待我稳住局势称王后再派人接你。去吧，让我成王。"
+  },
+  {
+    "text": "You're_dumber_than_I_thought._It's_quite_beyond_you,_with_your_resources,_to_find_Sven._Even_if_you_do,_he_will_kill_you_easily._If_you_decide_to_change_your_mind,_remember_this:_{s10}_must_die_in_public,_in_the_sight_of_those_who_fear_him,_ideally_at_a_feast._I_do_not_care_if_you_use_poison_or_a_dagger,_but_two_things_are_very_important...",
+    "old_translation": "你比我想的还笨呀。以你的实力，你根本找不到斯温，你要是硬来的话，只会被他轻松解决掉。如果你改变主意的话那就记住这点：{s10}必须在那些惧怕他的人的眼前死在一个公开的场合，最好是在一场宴会上。我不在乎你用毒药还是匕首。",
+    "translation": "你比我想的还蠢。凭你这点人手根本找不到斯温；就算找到，也会被他轻易杀掉。若你回心转意，记住：{s10}必须当众死在那些怕他的人眼前，最好是在宴会上。用毒或匕首随你，但有两点极重要……"
+  },
+  {
+    "text": "Firstly,_if_you_are_caught,_do_not_mention_my_name._You_must_appear_to_be_acting_alone._Even_beforehand,_we_should_not_be_seen_together._If_we_happen_to_meet,_we_must_pretend_not_to_know_each_other.^^Secondly_and_more_importantly,_do_not_get_caught!^^Once_you_are_done,_do_not_come_here._Hide_in_the_mountains,_where_Thiaderd's_camp_was,_and_I_will_send_for_you_when_things_are_calm_and_I_am_the_king._If_you_are_smart,_you'll_do_it_and_leave_Friese_quickly._Otherwise,_you_will_have_to_face_the_consequences.",
+    "old_translation": "不过有两点很重要。第一，如果你被抓住的话，千万不要透露我的名字。记住，你只是一个人行动。第二，更重要的是不要被抓住！当你完事之后，不要回这里来。我们得假装互相不认识，也不要来往。去躲到在山里的泰德的营地中，在局势稳定下来，我成为国王之后，我会派人来找你的。你要是聪明的话就赶快离弗里斯去把事情办了，要不然你会自讨苦吃的。",
+    "translation": "第一，若你被擒，不得提我名字，你必须像是独自行动。事先我们也别同框出现；若偶遇，须装作互不相识。^^第二，更关键的：别被活捉！^^事后别回这里，躲进山里提亚德尔旧营，待我稳住局势称王后再派人接你。聪明的话，办完事就速离弗里西；否则后果自负。"
+  },
+  {
+    "text": "Beware,_Jarl!_Those_were_Sven's_men._You_are_the_traitor,_and_I_am_your_enemy_now.",
+    "old_translation": "当心，雅尔！那些人都是斯温的手下，你是一个叛徒！我现在就是你的敌人了。",
+    "translation": "当心，雅尔！那些人是斯温的手下。你是叛徒，我如今是你的敌人。"
+  },
+  {
+    "text": "I_have_served_you_well._In_return,_you_lied_to_me_about_Sven,_and_now_you_threaten_me.",
+    "old_translation": "我一心侍奉你而你却骗了我，现在竟然威胁我。",
+    "translation": "我为你尽心效力，你却拿斯温的事骗我，如今还威胁我。"
+  },
+  {
+    "text": "Yes,_I'm_sure_of_that._To_honor_services_provided,_I_will_give_you_a_few_hours_to_pack_your_things_and_leave._Then_you_will_have_assassins_after_you,_for_I_will_put_a_price_on_your_head._You'll_have_to_sleep_with_one_eye_open_and_a_knife_under_your_pillow.^If_you_do_not_leave_Friese_or_we_meet_in_person,_I_will_kill_you_with_my_bare_hands.",
+    "old_translation": "是的，我知道。作为侍奉我的回报，我会给你几天时间，然后我会派遣刺客并悬赏你的人头，你就得睁着一只眼睛，并在枕头下藏着匕首来睡觉了。^你要是不离开弗里斯，或者我们要是再遇到的话，我会亲手杀了你。",
+    "translation": "没错，我清楚。念你曾效力，我给你几小时收拾离开。之后我会悬赏你的人头，刺客将紧随；你得睁一只眼睡觉，枕头下放刀。^若不离开弗里西，或再与我碰面，我会亲手掐死你。"
+  },
+  {
+    "text": "Yes._These_men_were_going_to_take_and_fortify_the_village,_then_wait_for_more_troops_from_Danmark._Now_that's_impossible._You've_ended_my_dreams._Sigurd_'Snake_in_the_Eye'_will_think_I'm_a_traitor_and_will_want_my_head_because_of_you._Go_away!_You're_no_longer_welcome_here._If_we_meet_again,_I_do_not_know_if_I_will_be_able_to_control_myself_and_not_kill_you.^^I_recommend_you_leave_Friese.",
+    "old_translation": "是的，这些人会夺取村子并设防，然后等待更多人从丹麦来支援，不过现在这都不可能了，你把我的梦想给打破了。“蛇眼”西格德会认为我是个叛徒并悬赏我的脑袋，这一却都因为你。滚开，你在这儿不在受欢迎了。我们要是再见面的的话，我不知道能不能抑制住我自己要杀掉你的冲动。^^我建议你离开弗里斯。",
+    "translation": "是的，这些人原要占领并加固村庄，再等候丹麦援军，如今全完了。你毁了我的梦。“蛇眼”西格德会视我为叛徒，因你而要我脑袋。滚！这里不再欢迎你。若再相见，我不知能否克制不杀你。^^我建议你离开弗里西。"
+  },
+  {
+    "text": "Someday,_we_will_meet_again,_and_I'll_kill_you.",
+    "old_translation": "总有一天我们会再见面的，到那时我会杀了你。",
+    "translation": "总有一天我们会再见面，那时我会杀了你。"
+  },
+  {
+    "text": "I'm_looking_forward_to_that_day,_scum!",
+    "old_translation": "我很期待那一天，你这人渣！",
+    "translation": "我盼着那天呢，杂碎！"
+  },
+  {
+    "text": "Glad_to_hear_it!_I_see_that_my_reputation_as_host_is_thriving...",
+    "old_translation": "真是好消息！看来我作为主人的名声正在提高…",
+    "translation": "听你这么说我真高兴！看来我办宴的名声越来越响了……"
+  },
+  {
+    "text": "I_would_like_to_join_one_of_these_special_feasts_and_see_it_for_myself.",
+    "old_translation": "我会参加这些特别的宴会并亲自到场。",
+    "translation": "我想亲自参加一次这种特别的宴会，亲眼看看。"
+  },
+  {
+    "text": "I'm_not_really_here_to_talk_about_your_feasts._The_jarl_of_Kennemer_wants_you_dead.",
+    "old_translation": "我来这里并非是为了你的宴会。肯尼莫的雅尔要你的命。",
+    "translation": "我来可不是为了你的宴会。肯尼莫的雅尔要你死。"
+  },
+  {
+    "text": "You_don`t_look_like_somebody_of_sufficient_quality_for_that.",
+    "old_translation": "你看起来并不像拥有这种资格的人。",
+    "translation": "你看起来可不像够格干这事的人。"
+  },
+  {
+    "text": "Then_what_could_I_do_in_order_to_participate_in_them?_They_are_so_famous!",
+    "old_translation": "那么我如何才能参加？这些宴会太有名了！",
+    "translation": "那我得怎么做才能参加？这些宴会太有名了！"
+  },
+  {
+    "text": "Well,_you_look_like_a_resolute_{reg59?woman:man}._Maybe_you_can_help_me_with_problems_in_Doccinga._Go_and_investigate_what_is_happening_for_me._When_you_come_back,_we'll_talk_about_feasts.",
+    "old_translation": "也好，你看起来像个意志坚定的人，或许你可以帮我点忙。去道琴嘉调查下那里发生了什么，回来告诉我我再和你讨论关于宴会的事情。",
+    "translation": "也好，你像个果断的{reg59?女人:男人}。也许能帮我解决道琴嘉的麻烦。去替我查清楚发生了什么，回来我们再谈宴会。"
+  },
+  {
+    "text": "Well,_you_look_like_a_resolute_{reg59?woman:man}._Maybe_you_can_help_me_with_Doccinga._Go_and_help_defend_the_village._When_you_come_back,_we'll_talk_about_feasts.",
+    "old_translation": "也好，你看起来像个意志坚定的人，或许你可以帮我点忙。去道琴嘉帮忙加强防卫，回来告诉我我再和你讨论关于宴会的事情。",
+    "translation": "也好，你像个果断的{reg59?女人:男人}。也许能帮我守道琴嘉。去村里帮忙防守，回来我们再谈宴会。"
+  },
+  {
+    "text": "You_accuse_one_of_my_dearest_jarls_of_treason?_I_see._Someone_is_trying_to_create_problems_with_my_jarls_and_sends_me_a_stranger_with_rumors._Perhaps_they_think_that_I'm_an_idiot_and_that_I_will_give_credibility_to_these_hoaxes?_Listen_carefully,_rat._Your_word_is_not_worth_anything._Only_evidence_is_important._Now,_get_the_hell_out,_and_give_thanks_that_I_do_not_separate_your_head_from_your_neck.",
+    "old_translation": "你是在指控我最好的领主吗？看得出来，某些人就是喜欢生事造谣中伤我的领主，他们以为我是信这些骗局的白痴吗？听好了小鬼，你说的话没有一点价值，证据才是最重要的东西。现在给我滚出去，你应该感谢我没有让你脑袋搬家。",
+    "translation": "你指控我最器重的雅尔谋反？明白了，有人想挑拨我和手下，派个外人来传谣。他们把我当傻子，以为我会信这些鬼话？听好了，耗子。你的话一文不值，证据才重要。现在滚出去，庆幸我没把你脑袋剁下来。"
+  },
+  {
+    "text": "Heill,_{playername}!_I_heard_about_your_help_to_Doccinga._Thank_you_for_your_support,_vinr._The_attack_was_unexpected,_and_I_did_not_have_my_men_ready._Please,_accept_these_gifts_for_your_courage.",
+    "old_translation": "你好，{playername}！我听说了你在道琴嘉的事迹。非常感谢你的支援，那场攻击还真是难以预料，我的人恐怕都没任何准备。请接受对于你勇气的谢礼。",
+    "translation": "你好，{playername}！我听说你帮了道琴嘉。感谢你的支援，朋友。袭击来得突然，我的人根本没准备。请收下这些谢礼，犒赏你的勇气。"
+  },
+  {
+    "text": "Thank_you,_my_Lord,_and_I_hate_to_disturb_you,_but_{s11}_is_a_traitor.",
+    "old_translation": "感谢你的恩德，大人。我也不想打扰你，但{s11}的确是个叛徒！",
+    "translation": "谢谢您，大人，可我得打扰一下：{s11}是叛徒。"
+  },
+  {
+    "text": "Your_gifts_are_welcome._Now_I_must_go.",
+    "old_translation": "感谢你的礼物，我得走了。",
+    "translation": "礼物我收下了。现在我得走了。"
+  },
+  {
+    "text": "I'm_not_your_vassal;_I_am_your_equal._I_do_not_want_those_gifts._Farewell.",
+    "old_translation": "我不是你的部下，你我都是平等的。我不会接受这些礼物，那么再见。",
+    "translation": "我不是你的附庸，你我平等。这些礼物我不要。再会。"
+  },
+  {
+    "text": "You_remember_that_{s11}_is_my_nephew?_We_talked_about_it_before.",
+    "old_translation": "你还记得{s11}是我的侄子吧？我们之前讨论过。",
+    "translation": "你记得{s11}是我侄子吧？我们以前提过。"
+  },
+  {
+    "text": "I_know,_so_I_am_sorry_to_say_that_your_nephew_has_conspired_with_Sven_Bull_Neck_against_you.",
+    "old_translation": "我知道，我也很抱歉地告诉你，你的侄子和牛颈斯温密谋加害于你。",
+    "translation": "我知道，所以很遗憾——他伙同“牛颈”斯温对付你。"
+  },
+  {
+    "text": "I_understand,_but_prefer_not_to_continue._I_have_no_way_to_prove_it._Farewell.",
+    "old_translation": "我明白，但我们不要继续这话题了，没有任何证据证明这是真的。我走了。",
+    "translation": "我明白，但就此打住吧。我拿不出证据。告辞。"
+  },
+  {
+    "text": "Sven_Bull_Neck_is_the_dog_of_Jarl_Sigurd_'Snake_in_the_Eye,'_one_of_the_oldest_sons_of_Ragnar_Lodbrok._You're_talking_about_very_feared_and_dangerous_people,_{playername}._My_nephew_is_reckless_and_daring,_and_our_kingdom_is_at_a_difficult_moment_with_Frisian_revolts._He_thinks_I'm_weak_for_not_exterminating_the_Frisians_and_attacking_the_Franks_who_support_them._In_fact,_we_aren't_as_strong_now_as_in_the_past._However,_I_don't_think_he_is_a_traitor._Do_you_have_evidence?",
+    "old_translation": "牛颈斯温是“蛇眼”西格德雅尔的走狗，他是拉格纳·罗德伯克的长子，你说的就是这些是最让人恐惧的危险人物，{playername}。我的侄子胆大鲁莽，而且弗里斯的叛乱让我们处境艰难。他认为我很虚弱并无法消灭弗里斯并攻击支持他们的法兰克人，实际上我们也没有以前那么强大了。但我不认为他是叛徒，你有证据证明吗？",
+    "translation": "“牛颈”斯温是“蛇眼”西格德雅尔的走狗，而西格德是“毛裤子”拉格纳的长子之一。你说的可是人人畏惧的狠角色，{playername}。我侄子鲁莽大胆，眼下弗里西人又叛乱，王国吃紧。他觉得我软弱，既不剿灭弗里西人，也不打支持他们的法兰克人。说实话，我们确实不如从前强盛。可我不信他会叛变。你有证据吗？"
+  },
+  {
+    "text": "No,_but_he_asked_me_to_kill_you.",
+    "old_translation": "不，他想让我杀你。",
+    "translation": "没有，但他让我杀你。"
+  },
+  {
+    "text": "It's_your_word_against_his._Nothing_leads_me_to_believe_you._Go_in_peace_now,_and_do_not_return_to_my_court_with_snares.",
+    "old_translation": "这是你和他的争端，不要把我也牵扯进来。你们快点和好吧，也不要把阴谋诡计带到我的会议上来。",
+    "translation": "空口无凭，我凭什么信你？平安离开，别再拿谗言踏进我的厅堂。"
+  },
+  {
+    "text": "Well...",
+    "old_translation": "好吧……",
+    "translation": "好吧……"
+  },
+  {
+    "text": "I_know_what_you're_going_to_tell_me._My_nephew_warned_me_about_your_tricks_to_discredit_him,_{playername}._You_are_not_welcome_in_my_house,_and_I_don't_want_to_hear_your_lies.",
+    "old_translation": "我知道你要和我说什么。我的侄子警告过我你会谗言攻击他，{playername}。你是我家不受欢迎的客人，我不想再听你的谎言了。",
+    "translation": "我知道你要说什么。我侄子提醒过你会耍花样抹黑他，{playername}。我家不欢迎你，也不想再听你的谎话。"
+  },
+  {
+    "text": "I_know_what_you're_going_to_tell_me._My_nephew_warned_me_about_your_tricks_to_discredit_him,_{playername}._You_are_hated_in_my_house,_and_I_don't_want_to_hear_your_lies._My_nephew_promised_me_to_give_you_a_few_days_to_leave_Friese._Then_you_will_be_declared_an_enemy_of_Friese.",
+    "old_translation": "我知道你要和我说什么。我的侄子警告过我你会谗言攻击他，{playername}。你是我家不受欢迎的客人，我不想再听你的谎言了。我侄子告诉过我让你给几天时间离开这里，然后宣布你为弗里斯的敌人。",
+    "translation": "我知道你要说什么。我侄子提醒过你会耍花样抹黑他，{playername}。我家不欢迎你，也不想再听你的谎话。侄子答应给你几天离开弗里西，之后你将被视为弗里西的敌人。"
+  },
+  {
+    "text": "You_have_my_interest._I_am_listening_to_you.",
+    "old_translation": "你勾起我的好奇心了，说出来听听。",
+    "translation": "你勾起我的兴趣了，说下去。"
+  },
+  {
+    "text": "I_need_to_talk_about_Sigurd.",
+    "old_translation": "我们应该谈谈西格德。",
+    "translation": "我得谈谈西格德的事。"
+  },
+  {
+    "text": "Forgive_me._I_do_not_want_to_distract_you_from_your_tasks._We'll_talk_another_day.",
+    "old_translation": "很抱歉，我不想现在在你有任务的情况下转移你的注意。我们下次再说吧。",
+    "translation": "抱歉，我不想在你有任务时分心。改日再谈。"
+  }
+]

@@ -1,0 +1,1558 @@
+[
+    {
+        "text": "INVALID_ITEM",
+        "translation": "INVALIDITEM"
+    },
+    {
+        "text": "Spear",
+        "translation": "矛"
+    },
+    {
+        "text": "Club",
+        "translation": "棍棒"
+    },
+    {
+        "text": "Long_Battle_Axe",
+        "translation": "长战斧"
+    },
+    {
+        "text": "Arrows",
+        "translation": "箭"
+    },
+    {
+        "text": "Bolts",
+        "translation": "螺栓"
+    },
+    {
+        "text": "Long_Bow",
+        "translation": "长弓"
+    },
+    {
+        "text": "Crossbow",
+        "translation": "弩"
+    },
+    {
+        "text": "Javelins",
+        "translation": "标枪"
+    },
+    {
+        "text": "Saddle_Pony",
+        "translation": "带鞍矮种马"
+    },
+    {
+        "text": "Round_Shield",
+        "translation": "圆盾"
+    },
+    {
+        "text": "Staff",
+        "translation": "棍"
+    },
+    {
+        "text": "Common_Sword",
+        "translation": "平民剑"
+    },
+    {
+        "text": "Axe",
+        "translation": "斧"
+    },
+    {
+        "text": "Seax",
+        "translation": "刀"
+    },
+    {
+        "text": "Horse_Meat",
+        "translation": "马肉"
+    },
+    {
+        "text": "Goidelic_Champion_Sword",
+        "translation": "戈伊德尔勇士剑"
+    },
+    {
+        "text": "Short_Axe",
+        "translation": "短战斧"
+    },
+    {
+        "text": "Practice_Shield",
+        "translation": "练习盾"
+    },
+    {
+        "text": "Sling",
+        "translation": "投石索"
+    },
+    {
+        "text": "Javelin",
+        "translation": "标枪"
+    },
+    {
+        "text": "Sling_Rocks",
+        "translation": "投石索用石"
+    },
+    {
+        "text": "Practice_Bolts",
+        "translation": "练习弩箭"
+    },
+    {
+        "text": "Boots",
+        "translation": "靴子"
+    },
+    {
+        "text": "Red_Tunic",
+        "translation": "红色上衣"
+    },
+    {
+        "text": "Blue_Tunic",
+        "translation": "蓝色上衣"
+    },
+    {
+        "text": "Green_Tunic",
+        "translation": "绿色上衣"
+    },
+    {
+        "text": "White_Tunic",
+        "translation": "白色上衣"
+    },
+    {
+        "text": "Cap",
+        "translation": "帽子"
+    },
+    {
+        "text": "Light_Round_Shield",
+        "translation": "轻圆盾"
+    },
+    {
+        "text": "Yellow_Tunic",
+        "translation": "黄色上衣"
+    },
+    {
+        "text": "Helm_with_Nasal",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "text": "History_of_the_Peloponnesian_War,_of_Thucydides",
+        "translation": "伯罗奔尼撒战争史"
+    },
+    {
+        "text": "Rhetorica_ad_Herennium",
+        "translation": "修辞学"
+    },
+    {
+        "text": "The_Life_of_Alexander_the_Great",
+        "translation": "亚历山大大帝传记"
+    },
+    {
+        "text": "Paedeia",
+        "translation": "派代亚的希腊古典教育学"
+    },
+    {
+        "text": "Oeconomica,_of_Aristotle",
+        "translation": "亚里士多德的经济论"
+    },
+    {
+        "text": "Constitution_of_Sparta,_of_Xenophon",
+        "translation": "色诺芬的斯巴达政体论"
+    },
+    {
+        "text": "De_architectura,_of_Vitrivius",
+        "translation": "维特鲁威的建筑学"
+    },
+    {
+        "text": "De_Materia_Medica,_of_Dioscorides",
+        "translation": "迪奥斯科里季斯的药物学"
+    },
+    {
+        "text": "Epitoma_Rei_Militaris",
+        "translation": "兵法简述"
+    },
+    {
+        "text": "Synopsis_of_Aelius_Galenus",
+        "translation": "古希腊医学大纲"
+    },
+    {
+        "text": "The_Cathach_of_Colum_Cille",
+        "translation": "科伦西尔之经"
+    },
+    {
+        "text": "Mead",
+        "translation": "蜂蜜酒"
+    },
+    {
+        "text": "Salt",
+        "translation": "盐"
+    },
+    {
+        "text": "Tar",
+        "translation": "柏油"
+    },
+    {
+        "text": "Jewellery",
+        "translation": "珠宝"
+    },
+    {
+        "text": "Flax_Bundle",
+        "translation": "亚麻捆"
+    },
+    {
+        "text": "Linen",
+        "translation": "亚麻布"
+    },
+    {
+        "text": "Wool",
+        "translation": "羊毛"
+    },
+    {
+        "text": "Wool_Cloth",
+        "translation": "毛织布"
+    },
+    {
+        "text": "Amber",
+        "translation": "琥珀"
+    },
+    {
+        "text": "Walrus_Ivory",
+        "translation": "海象象牙"
+    },
+    {
+        "text": "Silver",
+        "translation": "银"
+    },
+    {
+        "text": "Iron",
+        "translation": "生铁"
+    },
+    {
+        "text": "Stone",
+        "translation": ""
+    },
+    {
+        "text": "Tools",
+        "translation": "工具"
+    },
+    {
+        "text": "Hides",
+        "translation": "兽皮"
+    },
+    {
+        "text": "Timber",
+        "translation": "木材"
+    },
+    {
+        "text": "Soapstone",
+        "translation": "皂石"
+    },
+    {
+        "text": "Furs",
+        "translation": "毛皮"
+    },
+    {
+        "text": "Wine",
+        "translation": "葡萄酒"
+    },
+    {
+        "text": "Ale",
+        "translation": "麦芽酒"
+    },
+    {
+        "text": "Smoked_Fish",
+        "translation": "熏鱼"
+    },
+    {
+        "text": "Cheese",
+        "translation": "奶酪"
+    },
+    {
+        "text": "Honey",
+        "translation": "蜂蜜"
+    },
+    {
+        "text": "Sausages",
+        "translation": "腊肠"
+    },
+    {
+        "text": "Vegetables",
+        "translation": "蔬菜"
+    },
+    {
+        "text": "Dried_Meat",
+        "translation": "风干肉"
+    },
+    {
+        "text": "Fruit",
+        "translation": "苹果"
+    },
+    {
+        "text": "Barley",
+        "translation": "大麦"
+    },
+    {
+        "text": "Boar_Meat",
+        "translation": "野猪肉"
+    },
+    {
+        "text": "Wheat",
+        "translation": "小麦"
+    },
+    {
+        "text": "Beef",
+        "translation": "牛肉"
+    },
+    {
+        "text": "Bread",
+        "translation": "面包"
+    },
+    {
+        "text": "Chicken",
+        "translation": "鸡肉"
+    },
+    {
+        "text": "Pork",
+        "translation": "猪肉"
+    },
+    {
+        "text": "Butter",
+        "translation": "奶油"
+    },
+    {
+        "text": "Supplies",
+        "translation": "补给品"
+    },
+    {
+        "text": "Horse",
+        "translation": "野生马"
+    },
+    {
+        "text": "Pony",
+        "translation": "野生矮种马"
+    },
+    {
+        "text": "Cow",
+        "translation": "牛"
+    },
+    {
+        "text": "Piercing_Arrows",
+        "translation": "锋利的箭"
+    },
+    {
+        "text": "Barbed_Arrows",
+        "translation": "倒刺箭"
+    },
+    {
+        "text": "Bodkin_Arrows",
+        "translation": "锥头箭"
+    },
+    {
+        "text": "Piercing_Bolts",
+        "translation": "锋利的弩箭"
+    },
+    {
+        "text": "Barbed_Bolts",
+        "translation": "倒刺弩箭"
+    },
+    {
+        "text": "Bodkin_Bolts",
+        "translation": "锥头弩箭"
+    },
+    {
+        "text": "Pilgrim_Disguise",
+        "translation": "朝圣者服"
+    },
+    {
+        "text": "Pilgrim_Hood",
+        "translation": "朝圣者风帽"
+    },
+    {
+        "text": "Leather_Gloves",
+        "translation": "皮手套"
+    },
+    {
+        "text": "Leather_Shoes",
+        "translation": "皮鞋"
+    },
+    {
+        "text": "Wrapping_Boots",
+        "translation": "绑腿靴"
+    },
+    {
+        "text": "Ankle_Boots",
+        "translation": "短统靴"
+    },
+    {
+        "text": "Quality_Wrapping_Boots",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "text": "Rawhide_Shoes",
+        "translation": "生皮鞋"
+    },
+    {
+        "text": "Cheap_Shoes",
+        "translation": "穷人鞋"
+    },
+    {
+        "text": "Light_Ankle_Boots",
+        "translation": "光亮短统靴"
+    },
+    {
+        "text": "Goidelic_Shoes",
+        "translation": "戈伊德尔鞋"
+    },
+    {
+        "text": "Goidelic_Boots",
+        "translation": "戈伊德尔靴"
+    },
+    {
+        "text": "Simple_Shoes",
+        "translation": "单鞋"
+    },
+    {
+        "text": "Simple_Ankle_Boots",
+        "translation": "短统单靴"
+    },
+    {
+        "text": "Simple_Boots",
+        "translation": "单鞋"
+    },
+    {
+        "text": "Frisian_Light_Armor",
+        "translation": "弗里斯轻甲"
+    },
+    {
+        "text": "Saxon_Light_Armor",
+        "translation": "撒克逊轻甲"
+    },
+    {
+        "text": "Troll's_Tunic",
+        "translation": "山妖的外衣"
+    },
+    {
+        "text": "Priest_Robe",
+        "translation": "牧师长袍"
+    },
+    {
+        "text": "Monk_Robe",
+        "translation": "僧袍"
+    },
+    {
+        "text": "Simple_Angle_Tunic",
+        "translation": "简易盎格鲁上衣"
+    },
+    {
+        "text": "Angle_Light_Armor",
+        "translation": "短上衣"
+    },
+    {
+        "text": "Angle_Tunic",
+        "translation": "盎格鲁上衣"
+    },
+    {
+        "text": "Padded_Angle_Tunic",
+        "translation": "盎格鲁衬里上衣"
+    },
+    {
+        "text": "Cloak",
+        "translation": "布立吞上衣"
+    },
+    {
+        "text": "Trousers",
+        "translation": "白色皮克特上衣"
+    },
+    {
+        "text": "Norse_Tunic",
+        "translation": "诺尔斯上衣"
+    },
+    {
+        "text": "Simple_Norse_Tunic",
+        "translation": "简易诺尔斯上衣"
+    },
+    {
+        "text": "Norse_Light_Armor",
+        "translation": "诺尔斯轻甲"
+    },
+    {
+        "text": "Tunic",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "text": "Simple_Saxon_Tunic",
+        "translation": "简易撒克逊上衣"
+    },
+    {
+        "text": "Saxon_Tunic",
+        "translation": "撒克逊带披风上衣"
+    },
+    {
+        "text": "Padded_Saxon_Tunic",
+        "translation": "撒克逊衬里上衣"
+    },
+    {
+        "text": "Elite_Frisian_Tunic",
+        "translation": "弗里斯带披风上衣"
+    },
+    {
+        "text": "Pictish_Light_Armor",
+        "translation": "皮克特轻甲"
+    },
+    {
+        "text": "Briton_Tunic",
+        "translation": "布立吞上衣"
+    },
+    {
+        "text": "Simple_Briton_Tunic",
+        "translation": "简易布立吞上衣"
+    },
+    {
+        "text": "Briton_Light_Armor",
+        "translation": "布立吞轻甲"
+    },
+    {
+        "text": "Pictish_Tunic",
+        "translation": "皮克特上衣"
+    },
+    {
+        "text": "Goidelic_Hooded_Tunic",
+        "translation": "戈伊德尔连帽上衣"
+    },
+    {
+        "text": "Goidelic_Tunic",
+        "translation": "戈伊德尔上衣"
+    },
+    {
+        "text": "Goidelic_Long_Cloak",
+        "translation": "戈伊德尔长披风"
+    },
+    {
+        "text": "Goidelic_Trousers",
+        "translation": "戈伊德尔裤子"
+    },
+    {
+        "text": "Goidelic_Rich_Cloak",
+        "translation": "戈伊德尔华丽披风"
+    },
+    {
+        "text": "Goidelic_Light_Armor",
+        "translation": "戈伊德尔轻甲"
+    },
+    {
+        "text": "Cloaked_Goidelic_Tunic",
+        "translation": "带披风戈伊德尔上衣"
+    },
+    {
+        "text": "Hooded_Goidelic_Tunic",
+        "translation": "带兜帽戈伊德尔上衣"
+    },
+    {
+        "text": "Hooded_Goidelic_Light_Armor",
+        "translation": "带兜帽戈伊德尔轻甲"
+    },
+    {
+        "text": "Norse_Trousers",
+        "translation": "诺尔斯裤子"
+    },
+    {
+        "text": "Norse_Cloak",
+        "translation": "诺尔斯披风"
+    },
+    {
+        "text": "Frisian_Trousers",
+        "translation": "弗里斯裤子"
+    },
+    {
+        "text": "Pictish_Naked",
+        "translation": "皮克特赤膊"
+    },
+    {
+        "text": "Pictish_Cloak",
+        "translation": "皮克特披风"
+    },
+    {
+        "text": "Pictish_Hood",
+        "translation": "皮克特披风"
+    },
+    {
+        "text": "Cloaked_Pictish_Tunic",
+        "translation": "皮克特帽兜上衣"
+    },
+    {
+        "text": "Hooded_Pictish_Tunic",
+        "translation": "皮克特帽兜上衣"
+    },
+    {
+        "text": "Saxon_Dress",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "text": "Rich_Saxon_Dress",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "text": "Royal_Saxon_Dress",
+        "translation": "撒克逊皇家长裙"
+    },
+    {
+        "text": "Rich_Dress",
+        "translation": "贵妇长裙"
+    },
+    {
+        "text": "Dress",
+        "translation": "长裙"
+    },
+    {
+        "text": "Norse_Dress",
+        "translation": "诺尔斯长裙"
+    },
+    {
+        "text": "Rich_Norse_Dress",
+        "translation": "诺尔斯贵妇长裙"
+    },
+    {
+        "text": "Frisian_Tunic",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "text": "Simple_Tunic",
+        "translation": "短上衣"
+    },
+    {
+        "text": "Bear_Skin",
+        "translation": "橙色上衣"
+    },
+    {
+        "text": "Wolf_Skin",
+        "translation": "紫色上衣"
+    },
+    {
+        "text": "Veil",
+        "translation": "面纱"
+    },
+    {
+        "text": "Rich_Veil",
+        "translation": "女士面纱"
+    },
+    {
+        "text": "Saxon_Gambeson",
+        "translation": "撒克逊软甲"
+    },
+    {
+        "text": "Norse_Gambeson",
+        "translation": "诺尔斯软甲"
+    },
+    {
+        "text": "Angle_Gambeson",
+        "translation": "盎格鲁软甲"
+    },
+    {
+        "text": "Briton_Gambeson",
+        "translation": "布立吞长软甲"
+    },
+    {
+        "text": "Saxon_Long_Gambeson",
+        "translation": "撒克逊长软甲"
+    },
+    {
+        "text": "Frisian_Gambeson",
+        "translation": "弗里斯软甲"
+    },
+    {
+        "text": "Common_Gambeson",
+        "translation": "平民软甲"
+    },
+    {
+        "text": "Pictish_Gambeson",
+        "translation": "皮克特软甲"
+    },
+    {
+        "text": "Goidelic_Gambeson",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "text": "Norse_Long_Gambeson",
+        "translation": "诺尔斯长软甲"
+    },
+    {
+        "text": "Angle_Long_Gambeson",
+        "translation": "盎格鲁长软甲"
+    },
+    {
+        "text": "Common_Long_Gambeson",
+        "translation": "平民长软甲"
+    },
+    {
+        "text": "Frisian_Long_Gambeson",
+        "translation": "弗里斯长软甲"
+    },
+    {
+        "text": "Briton_Long_Gambeson",
+        "translation": "布立吞长软甲"
+    },
+    {
+        "text": "Frisian_Byrnie",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "text": "Common_Byrnie",
+        "translation": "带披风蓝钢重型锁子甲"
+    },
+    {
+        "text": "Pictish_Lorica",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "text": "Cloaked_Pictish_Lorica",
+        "translation": "外披毛皮的锁子甲"
+    },
+    {
+        "text": "Elite_Briton_Byrnie",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "text": "Elite_Saxon_Halsberg",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "text": "Common_Halsberg",
+        "translation": "长袖锁甲袍"
+    },
+    {
+        "text": "Saxon_Halsberg",
+        "translation": "撒克逊锁子甲"
+    },
+    {
+        "text": "Elite_Saxon_Lorica",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "text": "Frisian_Lorica",
+        "translation": "弗里斯长袖锁甲袍"
+    },
+    {
+        "text": "Briton_Byrnie",
+        "translation": "带披风蓝钢长袖锁甲袍"
+    },
+    {
+        "text": "Elite_Frisian_Lorica",
+        "translation": "弗里斯长袖锁甲袍"
+    },
+    {
+        "text": "Elite_Frisian_Halsberg",
+        "translation": "弗里斯长袖锁甲袍"
+    },
+    {
+        "text": "Goidelic_Lorica",
+        "translation": "戈伊德尔重型锁子甲"
+    },
+    {
+        "text": "Cloaked_Goidelic_Lorica",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "text": "Cloaked_Briton_Byrnie",
+        "translation": "带斗篷布立吞锁子甲"
+    },
+    {
+        "text": "Norse_Hringserks",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "text": "Frisian_Halsberg",
+        "translation": "弗里斯重型锁子甲"
+    },
+    {
+        "text": "Saxon_Lorica",
+        "translation": "撒克逊胸甲"
+    },
+    {
+        "text": "Angle_Halsberg",
+        "translation": "盎格鲁锁子甲"
+    },
+    {
+        "text": "Cloaked_Angle_Halsberg",
+        "translation": "带斗篷盎格鲁锁子甲"
+    },
+    {
+        "text": "Angle_Halsberg_with_Fur",
+        "translation": "外披毛皮的盎格鲁锁子甲"
+    },
+    {
+        "text": "Cloaked_Norse_Hringserks",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "text": "Norse_Hringserks_with_Fur",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "text": "Orm's_Lorica",
+        "translation": "奥姆锁子甲"
+    },
+    {
+        "text": "Scale_Lorica",
+        "translation": "鳞片胸甲"
+    },
+    {
+        "text": "Burlap_Tunic",
+        "translation": "麻布短袍"
+    },
+    {
+        "text": "Hood",
+        "translation": "风帽"
+    },
+    {
+        "text": "Phrygian",
+        "translation": "头巾"
+    },
+    {
+        "text": "Quality_Phrygian",
+        "translation": "优质头巾"
+    },
+    {
+        "text": "Decorated_Phrygian",
+        "translation": "带装饰的头巾"
+    },
+    {
+        "text": "Simple_Helm",
+        "translation": "简易头盔"
+    },
+    {
+        "text": "Old_Simple_Helm",
+        "translation": "老式简易头盔"
+    },
+    {
+        "text": "Simple_Helm_with_Leather",
+        "translation": "带皮护颈简易头盔"
+    },
+    {
+        "text": "Old_Simple_Helm_with_Leather",
+        "translation": "老式带皮护颈头盔"
+    },
+    {
+        "text": "Complete_Helm",
+        "translation": "全盔"
+    },
+    {
+        "text": "Old_Complete_Helm",
+        "translation": "旧式全盔"
+    },
+    {
+        "text": "Old_Helm_with_Nasal",
+        "translation": "老式带护鼻头盔"
+    },
+    {
+        "text": "Helm_with_Leather",
+        "translation": "带皮护颈头盔"
+    },
+    {
+        "text": "Old_Helm_with_Leather",
+        "translation": "老式带皮护颈头盔"
+    },
+    {
+        "text": "Helm_with_Mail",
+        "translation": "链甲护颈头盔"
+    },
+    {
+        "text": "Simple_Helm_with_Mail",
+        "translation": "简易链甲护颈头盔"
+    },
+    {
+        "text": "Old_Anglo_Saxon_Helm",
+        "translation": "老式全盔"
+    },
+    {
+        "text": "Elite_Anglo_Saxon_Helm",
+        "translation": "老式全盔"
+    },
+    {
+        "text": "Saxon_Helm",
+        "translation": "老式全盔"
+    },
+    {
+        "text": "Old_Helm",
+        "translation": "老式头盔"
+    },
+    {
+        "text": "Saxon_Helm_with_Leather",
+        "translation": "撒克逊带皮护颈头盔"
+    },
+    {
+        "text": "Old_Helm_with_Mail",
+        "translation": "老式链甲护颈头盔"
+    },
+    {
+        "text": "Nobleman_Anglo_Saxon_Helm",
+        "translation": "老式全盔"
+    },
+    {
+        "text": "Old_Norse_Helm",
+        "translation": "老式诺尔斯盔"
+    },
+    {
+        "text": "Old_Norse_Helm_with_Nasal",
+        "translation": "带护鼻老式诺尔斯盔"
+    },
+    {
+        "text": "Old_Norse_Helm_with_Mail",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "text": "Old_Complete_Norse_Helm",
+        "translation": "老式诺尔斯全盔"
+    },
+    {
+        "text": "Simple_Norse_Helm",
+        "translation": "简易诺尔斯盔"
+    },
+    {
+        "text": "Norse_Helm_with_Nasal",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "text": "Norse_Helm",
+        "translation": "诺尔斯盔"
+    },
+    {
+        "text": "Norse_Helm_with_Mail",
+        "translation": "诺尔斯链甲护颈盔"
+    },
+    {
+        "text": "Complete_Norse_Helm",
+        "translation": "诺尔斯全盔"
+    },
+    {
+        "text": "Old_Norse_Helm_with_Leather",
+        "translation": "老式带皮护颈诺尔斯盔"
+    },
+    {
+        "text": "Rich_Norse_Helm",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "text": "Norse_Helm_with_Leather",
+        "translation": "带皮护颈诺尔斯盔"
+    },
+    {
+        "text": "Elite_Norse_Helm",
+        "translation": "诺尔斯精英盔"
+    },
+    {
+        "text": "Elite_Norse_Helm_with_Leather",
+        "translation": "带皮护颈诺尔斯精英盔"
+    },
+    {
+        "text": "Elite_Norse_Helm_with_Mail",
+        "translation": "链甲护颈诺尔斯精英盔"
+    },
+    {
+        "text": "Noble_Helm",
+        "translation": "贵族盔"
+    },
+    {
+        "text": "Elf's_Helm",
+        "translation": "精灵之盔"
+    },
+    {
+        "text": "Hersir_Helm",
+        "translation": "赫希尔之盔"
+    },
+    {
+        "text": "Crown",
+        "translation": "王冠"
+    },
+    {
+        "text": "No_head",
+        "translation": "无头"
+    },
+    {
+        "text": "Sack",
+        "translation": "麻袋"
+    },
+    {
+        "text": "Wooden_Stick",
+        "translation": "木棍"
+    },
+    {
+        "text": "Troll's_Axe",
+        "translation": "巨人之斧"
+    },
+    {
+        "text": "Hunting_Knife",
+        "translation": "猎刀"
+    },
+    {
+        "text": "Broadseax",
+        "translation": "阔刀"
+    },
+    {
+        "text": "Langseax",
+        "translation": "长刀"
+    },
+    {
+        "text": "Ragnar's_Langseax",
+        "translation": "拉格纳之刀"
+    },
+    {
+        "text": "Elf's_Langseax",
+        "translation": "精灵之刀"
+    },
+    {
+        "text": "Sword",
+        "translation": "短剑"
+    },
+    {
+        "text": "Short_Sword",
+        "translation": "短剑"
+    },
+    {
+        "text": "Rich_Sword",
+        "translation": "贵族剑"
+    },
+    {
+        "text": "Ulfberth_Sword",
+        "translation": "贵族剑"
+    },
+    {
+        "text": "False_Ulfberth_Sword",
+        "translation": "贵族剑"
+    },
+    {
+        "text": "Briton_Sword",
+        "translation": "布立吞剑"
+    },
+    {
+        "text": "Rich_Briton_Sword",
+        "translation": "华丽的布立吞剑"
+    },
+    {
+        "text": "Goidelic_Noble_Long_Sword",
+        "translation": "戈伊德尔贵族长剑"
+    },
+    {
+        "text": "Goidelic_Long_Sword",
+        "translation": "戈伊德尔长剑"
+    },
+    {
+        "text": "Goidelic_Short_Sword",
+        "translation": "戈伊德尔短剑"
+    },
+    {
+        "text": "Widow_Maker",
+        "translation": "寡妇制造者"
+    },
+    {
+        "text": "Bandit_King_Sword",
+        "translation": "强盗王之剑"
+    },
+    {
+        "text": "Laufi",
+        "translation": "塞壬之歌"
+    },
+    {
+        "text": "Olvir's_Sword",
+        "translation": "奥维尔剑"
+    },
+    {
+        "text": "Nad",
+        "translation": "纳德之剑"
+    },
+    {
+        "text": "Draguandil",
+        "translation": "龙之剑"
+    },
+    {
+        "text": "Blynjubitr",
+        "translation": "布林朱庇特之剑"
+    },
+    {
+        "text": "Long_Axe",
+        "translation": "长战斧"
+    },
+    {
+        "text": "Short_Battle_Axe",
+        "translation": "短战斧"
+    },
+    {
+        "text": "Long_Hand_Axe",
+        "translation": "长手斧"
+    },
+    {
+        "text": "Hand_Axe",
+        "translation": "手斧"
+    },
+    {
+        "text": "Short_Hand_Axe",
+        "translation": "短手斧"
+    },
+    {
+        "text": "Big_Hand_Axe",
+        "translation": "重手斧"
+    },
+    {
+        "text": "Goidelic_Axe",
+        "translation": "戈伊德尔斧"
+    },
+    {
+        "text": "Goidelic_Long_Axe",
+        "translation": "戈伊德尔长斧"
+    },
+    {
+        "text": "Pictish_Axe",
+        "translation": "皮克特斧"
+    },
+    {
+        "text": "Short_Pictish_Axe",
+        "translation": "皮克特短斧"
+    },
+    {
+        "text": "Big_Pictish_Axe",
+        "translation": "皮克特重斧"
+    },
+    {
+        "text": "Goidelic_Hatchet",
+        "translation": "戈伊德尔短手斧"
+    },
+    {
+        "text": "Short_Goidelic_Hatchet",
+        "translation": "戈伊德尔短手斧"
+    },
+    {
+        "text": "Goidelic_Long_Hatchet",
+        "translation": "戈伊德尔长手斧"
+    },
+    {
+        "text": "Noble_Goidelic_Axe",
+        "translation": "戈伊德尔贵族斧"
+    },
+    {
+        "text": "Woodcutter",
+        "translation": "伐木斧"
+    },
+    {
+        "text": "Frankish_Battle_Axe",
+        "translation": "法兰克战斧"
+    },
+    {
+        "text": "Short_Staff",
+        "translation": "短棍"
+    },
+    {
+        "text": "Pitch_Fork",
+        "translation": "粪叉"
+    },
+    {
+        "text": "Shepherd's_Crook",
+        "translation": "牧羊杖"
+    },
+    {
+        "text": "Light_Spear",
+        "translation": "轻型矛"
+    },
+    {
+        "text": "War_Spear",
+        "translation": "战矛"
+    },
+    {
+        "text": "Heavy_Spear",
+        "translation": "重型矛"
+    },
+    {
+        "text": "Light_Long_Spear",
+        "translation": "轻型长矛"
+    },
+    {
+        "text": "Long_War_Spear",
+        "translation": "长战矛"
+    },
+    {
+        "text": "Heavy_Long_Spear",
+        "translation": "重型长矛"
+    },
+    {
+        "text": "Ray",
+        "translation": "权杖"
+    },
+    {
+        "text": "Gungnir",
+        "translation": "冈格尼尔"
+    },
+    {
+        "text": "Army_Standard",
+        "translation": "军旗"
+    },
+    {
+        "text": "5",
+        "translation": ""
+    },
+    {
+        "text": "1955",
+        "translation": ""
+    },
+    {
+        "text": "Dragon_Standard",
+        "translation": "龙旗"
+    },
+    {
+        "text": "Horn",
+        "translation": "号角"
+    },
+    {
+        "text": "Rawhide_Shield",
+        "translation": "生皮盾"
+    },
+    {
+        "text": "Rawhide_Round_Shield",
+        "translation": "生皮圆盾"
+    },
+    {
+        "text": "Convex_Shield",
+        "translation": "凸圆盾"
+    },
+    {
+        "text": "Berserkr_Shield",
+        "translation": "勇士盾"
+    },
+    {
+        "text": "Svear_Shield",
+        "translation": "斯维尔盾"
+    },
+    {
+        "text": "Danish_Shield",
+        "translation": "丹麦盾"
+    },
+    {
+        "text": "Northmathr_Shield",
+        "translation": "诺曼盾"
+    },
+    {
+        "text": "Gael_Round_Shield",
+        "translation": "盖尔圆盾"
+    },
+    {
+        "text": "Elf's_Shield",
+        "translation": "精灵之盾"
+    },
+    {
+        "text": "Painted_Convex_Shield",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "text": "Painted_Round_Shield",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "text": "Small_Round_Shield",
+        "translation": "小圆盾"
+    },
+    {
+        "text": "H_Shield",
+        "translation": "H形盾"
+    },
+    {
+        "text": "Square_Shield",
+        "translation": "方盾"
+    },
+    {
+        "text": "Simple_Javelins",
+        "translation": "简易标枪"
+    },
+    {
+        "text": "Skirmish_Javelins",
+        "translation": "战斗标枪"
+    },
+    {
+        "text": "Skirmish_Javelin",
+        "translation": "战斗标枪"
+    },
+    {
+        "text": "Heavy_Javelins",
+        "translation": "重标枪"
+    },
+    {
+        "text": "Heavy_Javelin",
+        "translation": "重标枪"
+    },
+    {
+        "text": "Horsemen_Javelins",
+        "translation": "骑手标枪"
+    },
+    {
+        "text": "Horseman_Javelin",
+        "translation": "骑手标枪"
+    },
+    {
+        "text": "Throwing_Spears",
+        "translation": "投矛"
+    },
+    {
+        "text": "Throwing_Spear",
+        "translation": "投矛"
+    },
+    {
+        "text": "Stones",
+        "translation": "石头"
+    },
+    {
+        "text": "Elite_Long_Bow",
+        "translation": "优质长弓"
+    },
+    {
+        "text": "Featured_Long_Bow",
+        "translation": "精制长弓"
+    },
+    {
+        "text": "Pictish_Crossbow",
+        "translation": "皮克特弩"
+    },
+    {
+        "text": "Dark_Hunter",
+        "translation": "暗黑猎人"
+    },
+    {
+        "text": "Eye-popping",
+        "translation": "瞠目结舌"
+    },
+    {
+        "text": "Sling_Lead",
+        "translation": "投石索用铅块"
+    },
+    {
+        "text": "1",
+        "translation": ""
+    },
+    {
+        "text": "600",
+        "translation": ""
+    },
+    {
+        "text": "Military_Sling",
+        "translation": "军用投石索"
+    },
+    {
+        "text": "Fustibalus",
+        "translation": "投石器"
+    },
+    {
+        "text": "Military_Fustibalus",
+        "translation": "军用投石器"
+    },
+    {
+        "text": "Torches",
+        "translation": "火把"
+    },
+    {
+        "text": "Lyre",
+        "translation": "里拉琴"
+    },
+    {
+        "text": "Lute",
+        "translation": "鲁特琴"
+    },
+    {
+        "text": "Instruments_End",
+        "translation": "InstrumentsEnd"
+    },
+    {
+        "text": "Court_Dress",
+        "translation": "侍女裙"
+    },
+    {
+        "text": "Siege_Stones",
+        "translation": "攻城用石"
+    },
+    {
+        "text": "13",
+        "translation": ""
+    },
+    {
+        "text": "4",
+        "translation": ""
+    },
+    {
+        "text": "Battle_Trophy",
+        "translation": "战利品"
+    },
+    {
+        "text": "War_Trophy",
+        "translation": "优良的战利品"
+    },
+    {
+        "text": "Epic_Trophy",
+        "translation": "极好的战利品"
+    },
+    {
+        "text": "Iniau_Horn",
+        "translation": "因里奥的号角"
+    },
+    {
+        "text": "Ring_of_Keys",
+        "translation": "钥匙串"
+    },
+    {
+        "text": "Bride_Dress",
+        "translation": "新娘装"
+    },
+    {
+        "text": "Crown_of_Flowers",
+        "translation": "花冠"
+    },
+    {
+        "text": "Bride_Shoes",
+        "translation": "新娘鞋"
+    },
+    {
+        "text": "Shirt",
+        "translation": "衬衫"
+    },
+    {
+        "text": "Thor's_Helmet",
+        "translation": "索尔之盔"
+    },
+    {
+        "text": "Thor's_Armor",
+        "translation": "索尔之甲"
+    },
+    {
+        "text": "Thor's_Boots",
+        "translation": "索尔之靴"
+    },
+    {
+        "text": "Thor's_Hammer",
+        "translation": "索尔之锤"
+    },
+    {
+        "text": "Deadly_Bow",
+        "translation": "致命的弓"
+    },
+    {
+        "text": "Deadly_Arrows",
+        "translation": "致命的箭"
+    },
+    {
+        "text": "{!}ship_data_array",
+        "translation": ""
+    },
+    {
+        "text": "{!}glove_animation",
+        "translation": ""
+    },
+    {
+        "text": "Oil",
+        "translation": "油"
+    },
+    {
+        "text": "Velvet",
+        "translation": "天鹅绒"
+    },
+    {
+        "text": "Pickaxe",
+        "translation": "镐"
+    },
+    {
+        "text": "Pitchfork",
+        "translation": "草叉"
+    },
+    {
+        "text": "Basket",
+        "translation": "篮子"
+    },
+    {
+        "text": "Torch",
+        "translation": "火把"
+    },
+    {
+        "text": "Boar",
+        "translation": "野猪"
+    },
+    {
+        "text": "Pig",
+        "translation": "猪"
+    },
+    {
+        "text": "Piglet",
+        "translation": "猪崽"
+    },
+    {
+        "text": "Sheep",
+        "translation": "羊"
+    },
+    {
+        "text": "Dog",
+        "translation": "狗"
+    },
+    {
+        "text": "Strange_broom",
+        "translation": "古怪的扫帚"
+    },
+    {
+        "text": "Kejserens_nye_Klaeder",
+        "translation": "皇帝的新衣"
+    },
+    {
+        "text": "Bite",
+        "translation": "螺丝"
+    },
+    {
+        "text": "Bear_Byrnie",
+        "translation": "熊皮链甲"
+    },
+    {
+        "text": "Wolf_Byrnie",
+        "translation": "狼皮胸甲"
+    },
+    {
+        "text": "Bear_Lorica",
+        "translation": "熊皮胸甲"
+    },
+    {
+        "text": "Wolf_Lorica",
+        "translation": "狼皮胸甲"
+    },
+    {
+        "text": "Norse_Konungr_Trophy",
+        "translation": "诺尔斯国王奖杯"
+    },
+    {
+        "text": "Vrenhin_Lloegr_Trophy",
+        "translation": "布立吞国王奖杯"
+    },
+    {
+        "text": "Ard_Ruire_Trophy",
+        "translation": "戈伊德尔大首领奖杯"
+    },
+    {
+        "text": "Brytenwalda_Trophy",
+        "translation": "盎格鲁国王奖杯"
+    },
+    {
+        "text": "Emissary_Tunic",
+        "translation": "使者外衣"
+    },
+    {
+        "text": "Ealdorman_Tunic",
+        "translation": "使者外衣"
+    },
+    {
+        "text": "Trader_Tunic",
+        "translation": "商人外衣"
+    },
+    {
+        "text": "Fine_Pictish_Dress",
+        "translation": "皮克特精致长裙"
+    },
+    {
+        "text": "Noble_Norse_Dress",
+        "translation": "诺尔斯贵妇长裙"
+    },
+    {
+        "text": "Thor's_Javelins",
+        "translation": "雷神的标枪"
+    },
+    {
+        "text": "Old_Seax",
+        "translation": "古老的刀"
+    },
+    {
+        "text": "Old_Spear",
+        "translation": "古老的矛"
+    },
+    {
+        "text": "Items_End",
+        "translation": "ItemsEnd"
+    }
+]

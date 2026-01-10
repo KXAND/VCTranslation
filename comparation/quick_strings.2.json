@@ -1,0 +1,2002 @@
+[
+    {
+        "text": "The_{s9}_of_{s3}_asked_you_to_recover_a_{s13}_stolen_from_him.^^Look_Into:^{s10}",
+        "translation": "{s3}的{s9}请你去找回他失窃的{s13}。^^前往以下地点寻找:^{s10}"
+    },
+    {
+        "text": "Yes,_{playername},_one_of_the_merchants_here_is_looking_to_expand,_and_he_needs_some_stone_for_that._Unfortunately,_with_all_the_fighting_around,_bandits_and_all_that,_he_was_unable_to_procure_the_stone_at_the_acceptable_price._Perhaps,_you_can_go_to_the_nearest_stone_quarry_and_get_{reg33}_loads_of_stone?",
+        "translation": "是的，{playername}，一个本地的商人正打算扩建他的商店，为此他需要一些石头。不幸的是，由于附近战火连绵，到处是强盗土匪，他没能找到价格合适的石头。也许你能帮他去附近的采石场带回{reg33}单位的石头？"
+    },
+    {
+        "text": "Yes,_{playername},_one_of_the_merchants_here_had_an_unusually_high_demand_for_salt_lately,_and_he_is_running_low._Unfortunately,_with_all_the_fighting_around,_bandits_and_all_that,_his_last_shipment_never_arrived,_and_he_was_unable_to_procure_the_salt_at_the_acceptable_price._Perhaps,_you_can_go_to_the_nearest_salt_mine_and_get_{reg33}_loads_of_salt_for_him?",
+        "translation": "是的，{playername}，你知道，由于有些地方战乱的问题，最近本地市场对盐的需求突然变得很高，而我们快要没有盐库存了。不幸的是，由于附近战火连绵，到处是强盗土匪，我们派去进口的商队也没有了回音。也许你能去附近的盐矿为我们带回{reg33}单位的盐？"
+    },
+    {
+        "text": "{s9}_of_{s3}_asked_you_to_bring_{reg33}_loads_of_{s33}.",
+        "translation": "{s3}的{s9}请你带回{reg33}单位的{s33}。"
+    },
+    {
+        "text": "--His_eyes_widen.--",
+        "translation": "——他的眼睛睁开——"
+    },
+    {
+        "text": "He_has_killed_many_people,_but_he_also_killed_my_mother._I_need_to_find_him!_(Phlegmatic)",
+        "translation": "他杀了很多人，但也杀了我的母亲，我必须找到他！（冷静）"
+    },
+    {
+        "text": "I_know,_but_he_must_die!_He_is_my_mortal_enemy_now!_Where_is_Sven,_Thonkrik?_(Melancholic)",
+        "translation": "我知道，但他必须死！他是我的仇人，我会杀掉他，斯温在哪，索里克？他在哪？（谨慎）"
+    },
+    {
+        "text": "Sven_had_the_audacity_to_attack_my_ship._He_will_pay_dearly!_Where_is_he?_(Choleric)",
+        "translation": "斯温有胆量攻击我当时正在乘坐的船只，并杀了所有人，他会付出代价的！他在哪？（易怒）"
+    },
+    {
+        "text": "Sven_is_my_goal_now._Anyone_who_gets_in_my_way_is_my_enemy!_Where_is_Sven?_(Sanguine)",
+        "translation": "斯温是我的目标。任何拦路的人都是我的敌人！斯温在哪？（嗜血）"
+    },
+    {
+        "text": "--He_looks_frightened.--",
+        "translation": "——他看起来很害怕。——"
+    },
+    {
+        "text": "Note_1:_Doccinga_fishermen_rescued_you_from_the_sea._Looks_like_you're_the_only_survivor._Sven_attacked_your_ship.",
+        "translation": "笔记1：斯温袭击了你乘坐的船，道琴嘉的渔民救了你。看来你是唯一的幸存者。"
+    },
+    {
+        "text": "{s9}_told_me_that_{s3},_jarl_of_{s1},_might_know_where_Sven_Bull_Neck_is.",
+        "translation": "{s9}告诉我说{s3}，{s1}的雅尔或许知道牛颈斯温在哪。"
+    },
+    {
+        "text": "--He_rubs_his_hands_nervously.--",
+        "translation": "——他很紧张地搓了搓手——"
+    },
+    {
+        "text": "--He_points_to_the_sea,_where_you_can_distinguish_three_sails.--",
+        "translation": "——他指向大海，你看到三艘船。——"
+    },
+    {
+        "text": "--He_seems_nervous,_not_gesturing_with_hands.--",
+        "translation": "——他看起来很紧张，不作任何手势。——"
+    },
+    {
+        "text": "Thonkrik_from_{s3}_told_you_that_{s9}_might_be_allied_with_Sven_Neck_Bull_in_his_attempt_to_capture_the_throne_of_Friese.",
+        "translation": "{s3}的索里克告诉你，{s9}可能和牛颈斯温结盟，并试图夺取弗里斯的王位。"
+    },
+    {
+        "text": "Note_4:_You_chose_to_kill_the_Viking_prisoner_in_{s3}.",
+        "translation": "笔记4：你决定杀掉{s3}的维京俘虏。"
+    },
+    {
+        "text": "Note_4:_You_chose_to_spare_the_life_the_Viking_prisoner_in_{s3}.",
+        "translation": "笔记4：你决定释放{s3}的维京俘虏。"
+    },
+    {
+        "text": "Note_2:_The_Viking_prisoner_in_{s3}_told_you_there_were_other_survivors_of_the_attack_on_the_Woden_Ric._They_seem_to_have_been_taken_to_a_hideout_that_Sven_Bull_Neck_has_in_Danmark.",
+        "translation": "笔记2：在道琴嘉的维京俘虏告诉你，还有其他人在那次袭击中幸存下来。他们似乎已经被送往牛颈斯温在丹麦的营地。"
+    },
+    {
+        "text": "{s11}_told_me_that_I_have_a_boat_waiting_for_me_at_a_beach_near_to_Doccinga._The_only_condition_is_to_take_his_daughter_with_me._It's_time_to_leave_Friese.",
+        "translation": "{s11}告诉我说在道琴嘉海滩附近有艘船等着我。现在是时候离开弗里斯了。"
+    },
+    {
+        "text": "_May_I_remind_you_that_currently_we_are_paying_medium_taxes_to_your_{reg59?ladyship:lordship}?",
+        "translation": "请允许我提醒您目前我们向您缴纳的税款在一个正常的范围内。"
+    },
+    {
+        "text": "_May_I_remind_you_that_currently_we_are_paying_low_taxes_to_your_{reg59?ladyship:lordship}?_We_are_infinitely_grateful_for_such_generosity.",
+        "translation": "请允许我提醒您目前我们向您缴纳的税款在一个偏低的位置。我们对您十分感激。"
+    },
+    {
+        "text": "_May_I_remind_you_that_currently_we_are_paying_high_taxes_to_your_{reg59?ladyship:lordship}?_Many_people_are_cursing_you_for_your_greed.",
+        "translation": "请允许我提醒您目前我们向您缴纳的税款在一个偏高的位置。许多人都在背后诅咒您的名字。"
+    },
+    {
+        "text": "Old_gods?_This_is_a_concern._I_have_never_faced_any_'god'_before._(Phlegmatic)",
+        "translation": "上古之神？这很有趣。我从来没见过任何的“神”。(冷静的)"
+    },
+    {
+        "text": "Tell_me_more_about_these_'gods'_and_how_are_they_watching_you._(Melancholic)",
+        "translation": "请详细描述一下这些“神”以及它们是如何监视你们的。(忧郁的)"
+    },
+    {
+        "text": "Look_at_me._I'm_here_with_you,_listening,_Caliacas._Tell_me_more_about_those_'gods'_that_watching_you._(Choleric)",
+        "translation": "看着我。有我在呢，继续说，卡利卡斯。那些“神”是怎么监视你们的？(暴躁的)"
+    },
+    {
+        "text": "Come_on_man,_no_need_to_be_sad._Now_I'm_here,_and_I'll_take_care_of_this_problem._Tell_me,_who_is_watching_you?_(Sanguine)",
+        "translation": "别怕，不要悲伤，不要心急。有我在呢，我会帮你们解决这个问题的。告诉我，是谁在监视你们？(嗜血的)"
+    },
+    {
+        "text": "Demons?_This_could_be_a_serious_problem,_indeed._(Phlegmatic)",
+        "translation": "魔鬼？嗯…这个问题似乎很严重。(冷静的)"
+    },
+    {
+        "text": "I_sure_hope_I_am_ready_to_face_a_'demon.'_(Melancholic)",
+        "translation": "希望我能准备好面对一个“魔鬼”。(忧郁的)"
+    },
+    {
+        "text": "Morrigan_is_a_pretty_name,_even_for_a_'demon.'_(Choleric)",
+        "translation": "莫莉卡是个好名字，就算对一个“魔鬼”来说也是。(暴躁的)"
+    },
+    {
+        "text": "Tuatha_De_Danann?_I_have_no_fear_of_'demons.'_(Sanguine)",
+        "translation": "达努神族？我不会害怕任何“恶魔”。(嗜血的)"
+    },
+    {
+        "text": "Caliacas_told_you_that_the_evil_attacking_them_is_an_ancient_demon_called_Morrigan,_the_Raven_Goddess,_who_leads_a_bunch_of_beasts._You've_discovered_that_you're_not_the_only_hero_destined_to_defeat_Morrigan,_and_have_to_meet_the_other_two_in_the_burnt_hut_of_the_old_man_who_worshiped_the_old_gods.",
+        "translation": "卡利卡斯告诉你攻击他们的是个来自远古的恶魔莫莉卡，乌鸦女神。她率领着一群野兽。你还了解到你不是唯一一个被选中去打败莫莉卡的勇士，还有两位在那可怜的老人被烧掉的小屋前等候着你。"
+    },
+    {
+        "text": "It_seems_that_there_is_no_problem_in_the_village._It_was_all_a_false_alarm._Now_you_just_have_to_wait_for_the_messenger_from_the_two_champions.",
+        "translation": "看起来村庄里似乎并无大碍。只是一次误报。现在你只需要等待另外两位勇士的信使抵达了。"
+    },
+    {
+        "text": "{s40}'s_Levy",
+        "translation": "{s40}的税吏"
+    },
+    {
+        "text": "He_is_not_commanding_any_men_at_the_moment.",
+        "translation": "他现在什么人也没有指挥。"
+    },
+    {
+        "text": "He_currently_commands_{reg0}_men{reg1?,_of_which_around_{reg1}_are_wounded:}.",
+        "translation": "他现在指挥了{reg0}人。{reg1?其中{reg1}人负伤。:}"
+    },
+    {
+        "text": "{s33}_lost_1_point_of_leadership",
+        "translation": "{s33}失去了1点统御技能"
+    },
+    {
+        "text": "{s33}_lost_1_point_of_charisma",
+        "translation": "{s33}失去了1点魅力"
+    },
+    {
+        "text": "{s33}_didn't_suffer_any_injuries",
+        "translation": "{s33}没有受任何伤"
+    },
+    {
+        "text": "I_am_the_leader_of_this_area._It_was_smart_for_you_to_ask_me.",
+        "translation": "我是这片土地的领袖。知道向我问问题，你还是蛮聪明的嘛。"
+    },
+    {
+        "text": "Looking_for_men_who_are_willing_to_risk_their_skin_for_glory_and_wealth,_eh?",
+        "translation": "我想找那些为了荣誉和财富而冒生命危险的人，有吗？"
+    },
+    {
+        "text": "Interesting._You're_looking_for_men_and_I,_by_coincidence,_know_people_in_the_area.",
+        "translation": "真有趣。你要找的人嘛，很巧，我正好知道。"
+    },
+    {
+        "text": "You_don't_trust_me._I_understand._I_may_be_new_here,_but_I_am_a_good_person._(Phlegmatic)",
+        "translation": "你不信我，我理解。我或许是个外来人，但我也是个好人。（冷静）"
+    },
+    {
+        "text": "I_don't_like_what_you_say._I_came_here_to_recruit._Why_waste_my_time?_(Melancholic)",
+        "translation": "我不喜欢你这么说。我来这里招人，为什么浪费我时间？（谨慎）"
+    },
+    {
+        "text": "Believe_me,_I_have_little_patience._We_can_do_things_the_easy_way,_or_the_hard_way._(Choleric)",
+        "translation": "相信我，我耐心不多。我们可以好好商量，或者动手。（易怒）"
+    },
+    {
+        "text": "I_see._Well,_you_look_like_someone_reasonable._Let's_negotiate..._(Sanguine).",
+        "translation": "明白。好吧，看起来你还有些内情。那我们讨论讨论吧……（嗜血）"
+    },
+    {
+        "text": "You,_a_good_person?_Ha!_Your_reputation_says_otherwise._Very_much_so.",
+        "translation": "你，是个好人？哈！你在这附近的名声倒是截然相反的。"
+    },
+    {
+        "text": "I_see_where_you_are_going._Well,_I'd_rather_deal_with_you_now_than_lose_sleep_waiting_for_you_to_kill_me._Your_reputation_is_completely_justified.",
+        "translation": "我知道你要去哪。与其在这里整夜不眠等你杀我，我还不如现在就解决你。你在这附近的名声能够完全证明你的为人。"
+    },
+    {
+        "text": "I_understand,_for_your_reputation_precedes_you._I'd_rather_negotiate_than_be_your_enemy.",
+        "translation": "我懂，你的名声高于一切。我宁可谈判而不想成为你的敌人。"
+    },
+    {
+        "text": "There_is_no_negotiation_between_the_cat_and_the_rat.",
+        "translation": "猫和老鼠之间没什么好谈的。"
+    },
+    {
+        "text": "I_see,_you_look_like_a_decent_person._Let's_talk.",
+        "translation": "你看起来像个正经人，那来谈谈吧。"
+    },
+    {
+        "text": "It_is_you_who_wastes_my_time_and_patience.",
+        "translation": "是你在浪费我的时间和耐心。"
+    },
+    {
+        "text": "You'll_get_nothing_with_threats.",
+        "translation": "你的威胁不会让你得到任何东西。"
+    },
+    {
+        "text": "Very_well._Let's_start_the_negotiation.",
+        "translation": "很好，那么开始谈判吧。"
+    },
+    {
+        "text": "I_don't_trust_you._Stop_wasting_my_time.",
+        "translation": "我不信任你，不要浪费我时间了。"
+    },
+    {
+        "text": "I_see_where_you_are_going._Well,_I'd_rather_deal_with_you_now_than_lose_sleep_waiting_for_you_to_kill_me.",
+        "translation": "我知道你要去哪。与其在这里整夜不眠等你杀我，我还不如现在就解决你。你在这附近的名声能够完全证明你的为人。"
+    },
+    {
+        "text": "Yes,_yes,_I_got_it._Your_way_or_your_way.",
+        "translation": "好的，好的，我懂了。你说了算。"
+    },
+    {
+        "text": "Negotiation?_Ha!_Find_yourself_a_friend,_for_you_can't_count_me_as_one!",
+        "translation": "谈判？哈！去找个朋友吧，因为我不算一个。"
+    },
+    {
+        "text": "I_see,_you_look_like_someone_with_a_silver_tongue._Well,_let's_talk.",
+        "translation": "好吧，看起来你还是能说会道的人，那么来谈谈吧。I"
+    },
+    {
+        "text": "Yes,_I_must_admit_you're_right.",
+        "translation": "是的，我得承认你说得对。"
+    },
+    {
+        "text": "Interesting._Seems_I'm_not_talking_to_an_idiot.",
+        "translation": "真有趣，看来我不是在和一个傻瓜说话。"
+    },
+    {
+        "text": "From_this_moment_on,_you_may_recruit_in_this_village.",
+        "translation": "从现在开始，你可以在这村庄招人。"
+    },
+    {
+        "text": "The_elder_of_the_village_of_{s3}_asked_you_to_bring_them_{reg5}_sacks_of_wheat.",
+        "translation": "{s3}村的村长要你搞到{reg5}袋谷物给他。"
+    },
+    {
+        "text": "The_elder_of_the_village_of_{s3}_asked_you_to_capture_and_bring_{reg5}_women_to_them_(as_prisoners).",
+        "translation": "{s13}村的村长要你训练{reg5}个农民以抵抗当地的强盗。"
+    },
+    {
+        "text": "I_see_your_problem,_but_wouldn't_it_be_unfair_to_those_women?",
+        "translation": "我了解你的问题，但难道这对那些女人公平吗？"
+    },
+    {
+        "text": "Hmmm,_why_can't_your_men_marry_women_from_a_nearby_village?",
+        "translation": "嗯哼，为什么你的士兵不能从附近的村庄娶女人？"
+    },
+    {
+        "text": "Your_men_should_really_learn_how_to_control_their,_errr..._instincts.",
+        "translation": "你的士兵真的很需要学会控制他们的，呃…生理冲动。"
+    },
+    {
+        "text": "Your_men_should_take_matters_into_their_own_hands,_don't_you_think?",
+        "translation": "你的士兵需要好好管住自己的手，你不这么认为吗？"
+    },
+    {
+        "text": "Interesting_problem,_and_even_more_interesting_solution...",
+        "translation": "有趣的问题，而解决的办法就更有趣了…"
+    },
+    {
+        "text": "Lonely_men_and_lack_of_women?_Looks_like_I'm_not_the_only_one...",
+        "translation": "孤独的男人，缺乏女人？看来我不是唯一一个…"
+    },
+    {
+        "text": "Huh,_poor_boys_have_to_show_off_and_no_one_is_paying_attention...",
+        "translation": "哈，可怜的男孩儿需要出风头，但没有人注意到…"
+    },
+    {
+        "text": "I_can_sympathize_with_your_men._Your_proposal_sounds_intriguing.",
+        "translation": "我很同情你的士兵，你的提议非常有趣。"
+    },
+    {
+        "text": "Your_men_are_patsies,_but_glorious_{playername}_is_always_up_to_the_challenge!",
+        "translation": "你的手下都是些懦夫，但光荣的{playername}从来不惧挑战！"
+    },
+    {
+        "text": "Unfair_you_say?_But_our_men_are_hard_working_and_well_off,_not_some_kind_of_drunks._If_you_take_these_women_from_a_poor_village,_or_find_some_refugees,_you_in_fact_will_be_doing_them_a_favor._A_good,_caring_husband,_plenty_of_food,_and_a_warm_house._What_more_could_a_good_wife_possibly_need?",
+        "translation": "你说不公平？但我们的手下都是一分气力换一分钱，也不是什么酒鬼。如果你把这些女人从一贫如洗的村子带出来，或者找到某个避难所，你其实是在帮她们。一个体贴的丈夫，衣食无忧，温暖的房子，除此以外一个好女人还需要其他东西吗？"
+    },
+    {
+        "text": "Well,_it's_a_long_story._Let's_just_say_our_relations_aren't_that_great,_given_their_past_transgressions._Our_men_will_be_ridiculed_if_they_attempt_to_court_any_of_those_ladies._I_can't_allow_my_men_to_be_humiliated,_especially_by_the_indolent_louts_inhabiting_that_place!",
+        "translation": "好吧，这是一个很长的故事，但考虑到他们之间的过节，要知道我们的关系并没那么好。如果我的手下提出要娶那些女人，就会被取笑，我可不许有人侮辱我的士兵，特别是那些懒鬼！"
+    },
+    {
+        "text": "My_good_{reg59?lady:lord},_I_fully_agree_with_you,_but_you_see,_we_need_more_hands_to_help_during_the_harvest_time._It_ain't_easy_to_work_the_fields_and_take_care_of_the_cattle._How_could_we_possibly_have_more_help_if_my_men_aren't_married?_And_to_be_honest,_men_do_behave_when_they_have_a_wife_and_kids_to_take_care_of.",
+        "translation": "我的好{reg59?女士:阁下}，我非常认同你，但你要知道，在农忙时节，我们非常需要人手，因为收割和照顾牲畜是非常辛苦的。如果我的手下娶不了老婆，谁还愿意干活呢？实话说，当男人有了妻儿之后，他们常常就注意自己的举止了。"
+    },
+    {
+        "text": "Ah,_my_{reg59?lady:lord}_gives_excellent_advice!_Unfortunately,_it_is_impossible_to_follow._Pity,_isn't_it?_You_see,_if_our_men_go_and_kidnap_those_women,_your_poor_humble_servant_will_most_assuredly_lose_his_head,_and_something_tells_me_that_is_not_the_outcome_my_head_and_I_desire.",
+        "translation": "啊，我的{reg59?女士:阁下}，你的建议太棒了！但可惜的是我们无法听从。太遗憾了，不是吗？你看，如果我们的手下跑去绑架那些女人，你卑微忠诚的仆人就肯定得掉脑袋了，这是我的脑袋和我自己不希望出现的结果。"
+    },
+    {
+        "text": "My_{reg59?lady:lord}_seems_somewhat_hesitant_about_this_situation._I_can_assure_you_the_solution_I_propose_is_quite_common_nowadays_among_us_common_folk._{reg59?Her:His}_Highness_shouldn't_put_too_much_thought_and_contemplation_into_the_everyday_events_of_lowly_folks_like_us._Your_help_will_undoubtedly_be_appreciated.",
+        "translation": "我的{reg59?女士:阁下}，看来你在这个问题上有点犹豫不决。我向你保证，我提出的办法现在是非常流行的，而陛下不需要为我们这些下等人的琐事整天操心。我们将非常感激你的帮助。"
+    },
+    {
+        "text": "Yes,_my_lord,_a_warrior_like_you_probably_spends_a_lot_more_time_with_his_mates_than_he_desires,_but_if_you_can_help_us_with_this_delicate_problem,_I_promise_you,_one_day,_when_you_are_tired_of_all_the_head-bashing_and_ready_to_retire,_you_can_always_come_back_here._We'll_get_you_a_nice_woman_to_warm_your_old,_achy_bones_at_night.",
+        "translation": "对，阁下，一个像你这样的战士，可能要在自己的同伴身上花费意料之外的时间。但要是你能帮助我们解决这个微妙的问题，我答应你，当你在某一天厌倦了敲碎脑袋的工作，打算退休了，你永远可以回到这里，我们会为你找一个可爱的女士每晚伺候你的。"
+    },
+    {
+        "text": "You're_absolutely_right,_{reg59?my_lady:my_lord}._Men_need_women_to_keep_them_focused_on_doing_things_that_are_pleasing_to_God._And_that_is_exactly_what_I'm_trying_to_accomplish_-_making_sure_my_men_follow_God's_path._I_hope_you_would_find_it_rewarding_to_help_these_poor_souls_to_fulfill_God's_will.",
+        "translation": "你说得非常对，我的{reg59?女士:阁下}。男人需要女人，帮助他们走在取悦上帝的正道上。而这就是我一直尝试实现的目标——确保我的手下都遵从上帝之道。希望你能理解，并实现上帝的旨意。"
+    },
+    {
+        "text": "Yes,_{reg59?my_lady:my_lord},_this_will_indeed_be_an_adventure_of_a_lifetime_for_you._Who_knows?_Maybe_it_will_be_so_much_to_your_liking_that_you_can_turn_it_into_a_profitable_business.",
+        "translation": "对，我的{reg59?女士:阁下}，对你来说这的确是人生的冒险，但谁知道呢，也许这正合你意，你将腰缠万贯？"
+    },
+    {
+        "text": "Glad_to_hear_that,_oh_most_valorous_one!_Perhaps_we_should_discuss_this_matter_in_more_detail...",
+        "translation": "真高兴听见这个消息，噢，最无畏的勇士！也许，我们该详细谈谈？"
+    },
+    {
+        "text": "My_dear_{reg59?lady:lord},_I_would_be_happy_to_pay_you_{reg25}_peningas.",
+        "translation": "亲爱的{reg59?女士:阁下}，我很乐意付你{reg25}先令。"
+    },
+    {
+        "text": "My_dear_{reg59?lady:lord},_I_am_only_a_poor_villager,_and_can_only_offer_you_{reg25}_peningas.",
+        "translation": "亲爱的{reg59?女士:阁下}，我只是一个穷苦的农民，只能付你{reg25}先令。"
+    },
+    {
+        "text": "My_dear_{reg59?lady:lord},_I_am_only_a_poor_villager._I_can_only_offer_you_{reg25}_peningas.",
+        "translation": "我尊敬的{reg59?女士:先生}，我只是一个贫穷的农民。我只能给您{reg25}先令。"
+    },
+    {
+        "text": "My_dear_{reg59?lady:lord},_you_sound_very_persuasive._I_would_be_happy_to_pay_you_{reg25}_peningas.",
+        "translation": "亲爱的{reg59?女士:阁下}，你说得很有道理，我很乐意付你{reg25}先令。"
+    },
+    {
+        "text": "My_dear_{reg59?lady:lord},_your_persuasion_and_charisma_are_hard_to_resist._I_would_be_delighted_to_pay_you_{reg25}_peningas.",
+        "translation": "亲爱的{reg59?女士:阁下}，你的魅力和说服力真是无法抵挡，我很乐意付你{reg25}先令。"
+    },
+    {
+        "text": "The_leader_of_the_village_of_{s3}_asked_you_to_bring_the_runaway_slave_back_to_the_village._Most_probably,_he_is_hiding_in_the_area_around_the_village.",
+        "translation": "{s3}的村庄长老请你去把逃跑的奴隶带回来。他很可能就藏在村庄周围。"
+    },
+    {
+        "text": "The_runaway_slave_is_now_forced_to_follow_you._Bring_him_back_to_the_leader_of_{s13}.",
+        "translation": "逃跑的奴隶被你抓住了。现在把他带回{s13}吧。"
+    },
+    {
+        "text": "The_elder_of_the_village_of_{s13}_asked_you_to_train_{reg5}_peasants_to_fight_against_local_bandits.",
+        "translation": "{s13}村的村长要你训练{reg5}个农民以抵抗当地的强盗。"
+    },
+    {
+        "text": "The_elder_of_the_village_of_{s3}_asked_you_to_bring_them_{reg5}_head_of_cattle.",
+        "translation": "{s3}的村庄长老请求你带给他们{reg5}头牛。"
+    },
+    {
+        "text": "--She_looks_puzzled_and_surprised.--",
+        "translation": "——她看起来又惊讶又疑惑。——"
+    },
+    {
+        "text": "--She_smiles,_happy_for_your_donation.--",
+        "translation": "——因为你的捐助，她非常开心。——"
+    },
+    {
+        "text": "{s16}_and_{s15}",
+        "translation": "{s16}和{s15}"
+    },
+    {
+        "text": "{s16},_{s15}",
+        "translation": "{s16}，{s15}"
+    },
+    {
+        "text": "I_can_smell_a_fat_purse_a_mile_away._Methinks_yours_could_do_with_some_lightening,_eh?",
+        "translation": "我在一英里外就嗅到了一个鼓鼓的钱包。我想你想让它变轻些，不是吗？"
+    },
+    {
+        "text": "Why,_it_be_another_traveller,_chance_met_upon_the_road!_I_should_warn_you,_country_here's_a_mite_dangerous_for_a_good_{reg59?woman:fellow}_like_you._But_for_a_small_donation_my_boys_and_I'll_make_sure_you_get_rightways_to_your_destination,_eh?",
+        "translation": "啊！这又是一个旅行者，让我给撞上了。我应该警告你，这里的郊外对于像你这样的一个好{人/人}是有点危险的。但是你要是给我们一点钱，我和我的兄弟们就可以保证你安全到达你的目的地，怎么样？"
+    },
+    {
+        "text": "Well,_well._Look_at_this!_You'd_best_start_coughing_up_some_silver,_friend,_or_me_and_my_boys'll_have_to_break_you.",
+        "translation": "来来来，看看这个！你最好乖乖交出一些银币，不然我和我的同伴就将好好招待你。"
+    },
+    {
+        "text": "There's_a_toll_for_passin'_through_this_land,_payable_to_us,_so_if_you_don't_mind_we'll_just_be_collectin'_our_due_from_your_purse...",
+        "translation": "交出买路钱，不然我就从你的钱包里收取我应得的那份……"
+    },
+    {
+        "text": "Another_fool_come_to_throw_{reg59?her:him}self_on_my_weapon,_eh?_Fine,_let's_fight!",
+        "translation": "又一个傻瓜过来把{他的/她的}身体往我剑上撞，是吗？那好，放马过来！"
+    },
+    {
+        "text": "We're_not_afraid_of_you,_{reg59?wench:sirrah}._Time_to_break_some_heads!",
+        "translation": "我们不怕你，{小子/小妞}。是时候打暴某些人的头了！"
+    },
+    {
+        "text": "That_was_a_mistake._Now_I'm_going_to_have_to_make_your_death_long_and_painful.",
+        "translation": "那是一个错误。现在我将慢慢把你折磨到死。"
+    },
+    {
+        "text": "Brave_words._Let's_see_you_back_them_up_with_deeds,_cur!",
+        "translation": "豪言壮语，让我看看你怎么用行动来支持它，坏蛋！"
+    },
+    {
+        "text": "Your_God_is_for_wimps_and_weaklings!_Across_the_rainbow_bridge_to_Walhalla_Odin's_waiting_for_me!",
+        "translation": "你的神虚弱无力！在通往瓦尔哈拉神殿的彩虹桥对岸奥丁神在等待我！"
+    },
+    {
+        "text": "I've_been_pondering_the_Christian_religion_for_a_while_now._Perhaps_it's_time_for_me_to_experience_fully_what_it_means_to_be_a_true_Christian._However,_I_can_hardly_be_baptized_while_wearing_chains!",
+        "translation": "我刚才仔细考虑了下我的基督教信仰，也许是时候完完全全的去体会一名真正基督徒的生活了。我向你保证，只要我自由了，我就会转信基督教。"
+    },
+    {
+        "text": "I've_always_felt_Christianity_was_to_my_liking,_especially_the_forgiving_part._Yes,_{playername},_I'm_a_true_Christian_now._As_soon_as_I_am_able_to_move_around_freely,_I_will_pay_a_visit_to_one_of_the_monasteries_and_will_pray_hard_for_my_sins_to_be_forgiven._Now,_let_me_go,_so_I_can_fulfill_the_will_of_the_mighty_Christian_God!",
+        "translation": "我一直觉得基督教很适合我，特别是其中关于救赎的部分。是的，{playername}，我现在是个真正的基督徒了。当我自由后，我会去拜访其中一座修道院，努力地为我的罪行祈求救赎。现在，请让我离开吧，让我全身心投入为万能的耶稣基督服务吧！"
+    },
+    {
+        "text": "I_see_no_reason_even_to_discuss_things_like_that_with_someone_like_you!",
+        "translation": "我甚至找不到和你这种人讨论这个问题的理由！"
+    },
+    {
+        "text": "Your_Odin_knows_nothing_more_but_how_to_force_people_to_kill_themselves._I_will_remain_a_Christian!",
+        "translation": "相信所谓的奥丁只是在慢性自杀！我永远不会放弃耶稣基督。"
+    },
+    {
+        "text": "I've_been_pondering_this_Christian_religion_for_a_while_now._It's_definitely_not_to_my_liking!_Too_much_time_is_spent_bending_your_knees_instead_of_swinging_an_axe._As_of_this_moment,_I_renounce_Christianity_and_return_to_the_true_gods_of_Odin,_Thor_and_Freya!",
+        "translation": "有关信仰的问题，我已经思考了很久了。现在我有了明确的答案！基督每天只会让人跪下祈祷，而不是挥动他的战斧！从现在起，我将重新回到众神的名下！"
+    },
+    {
+        "text": "You_know,_{playername},_I_only_recently_converted_to_Christianity,_and_still_remember_our_old_gods,_Odin,_Thor_and_Freya._Christianity_does_nothing_but_make_men_wimps_and_weaklings,_I_am_definitely_better_than_that._As_of_this_moment,_I'm_no_longer_Christian!",
+        "translation": "你知道，{playername}，我前段时间改信基督教了，但我仍然忘不了我们的众神，奥丁，索尔和芙蕾雅。基督教只会使人变得懦弱，而我当然不会允许那发生。所以，从现在起，我不再是基督教徒了！"
+    },
+    {
+        "text": "I_see_no_reason_to_even_discuss_things_like_that_with_someone_like_you!",
+        "translation": "我没有任何理由和你这种人谈话。"
+    },
+    {
+        "text": "Plain",
+        "translation": "普通"
+    },
+    {
+        "text": "Please_note_that_this_refinement_makes_the_weapon_cause_more_damage_but_also_makes_it_slower.",
+        "translation": "请注意，这种改良使武器造成更多的伤害，但也使得它更慢。"
+    },
+    {
+        "text": "This_is_the_{reg4?town:village}_of_{s5},_{reg59?madam:sir}.",
+        "translation": "这里是{s5}{reg4?镇:村}，{先生/夫人}。"
+    },
+    {
+        "text": "{s6}_Our_{reg4?town:village}_and_the_surrounding_lands_belong_to_you_of_course,_my_{reg59?lady:lord}.",
+        "translation": "{s6}我们的{reg4?城镇:村庄}与周围的土地当然是属于你的，{reg59?女士:阁下}。"
+    },
+    {
+        "text": "{s6}_Our_{reg4?town:village}_and_the_surrounding_lands_belong_to_{s7}_of_the_{s8}.",
+        "translation": "{s6}我们{reg4?镇:村}及周围的土地属于{s8}的{s7}。"
+    },
+    {
+        "text": "{s3}_and_{s5}",
+        "translation": "{s3}和{s5}"
+    },
+    {
+        "text": "{reg20?We_mostly_produce_{s5}_here:We_don't_produce_much_here_these_days}._If_you_would_like_to_learn_more,_you_can_speak_with_our_{reg4?mayor:village_elder}._He_is_nearby,_right_over_there.",
+        "translation": "{reg20?我们这里主要是出产{s5}:这些天我们这里几乎什么都没有出产}。如果你想了解更多的情况，你可以去问我们的{reg4?镇长:村长}。他就在附近，看，就在那边。"
+    },
+    {
+        "text": "Mind_your_manners_within_the_walls_and_we'll_have_no_trouble.",
+        "translation": "注意你的言行，我们就不会有任何麻烦。"
+    },
+    {
+        "text": "Bugger_off,_stranger._Can't_you_see_I_am_busy_watching_that_plump_wench_over_there?",
+        "translation": "走开，陌生人。你没看到我在看那边的丰满的婊子么？"
+    },
+    {
+        "text": "Make_sure_to_keep_your_hands_in_the_open,_and_no_funny_business_around_merchants'_booths.",
+        "translation": "管好你的手，不要到商贩摊子那里做些可笑的事。"
+    },
+    {
+        "text": "I'm_very_happy._You're_a_good_leader_who_knows_how_to_keep_his_men_happy!",
+        "translation": "我很高兴。你是一个知道如何保持部队士气的领导者。"
+    },
+    {
+        "text": "I'm_happy_to_be_here,_things_are_going_well,_and_I_think_of_getting_enough_wealth_to_buy_a_farm_and_pay_the_dowry_on_a_good_lass.",
+        "translation": "在这里我很高兴，事情正逐渐好转，我也在打算赚到足够的钱去买下一个小农场，然后娶妻生子，过安定的生活。"
+    },
+    {
+        "text": "Well_..._I_guess_things_could_be_better._If_things_continue_on_in_this_way,_I_will_think_about_leaving_this_shield_wall.",
+        "translation": "嗯…我想事情理应变得更好。如果再这样发展下去，我想我可能要离开了。"
+    },
+    {
+        "text": "Not_happy,_{playername}._Honestly,_I_think_you_should_improve_the_morale_of_this_shield_wall,_or_you_will_have_very_serious_problems_soon.",
+        "translation": "很不好，{playername}。实话实说，你真的需要提高一下士气了。不然你的问题可能就不只是一句很不好这么简单了。"
+    },
+    {
+        "text": "{s9}_told_me_that_I_could_find_answers_in_{s3}._I_need_to_ask_one_Thonkrik.",
+        "translation": "{s9}告诉我能够在{s3}找到答案。我要跟索里克谈谈。"
+    },
+    {
+        "text": "{reg1}.0",
+        "translation": "{reg1}.0"
+    },
+    {
+        "text": "{reg1}.00{reg2}",
+        "translation": "{reg1}.00{reg2}"
+    },
+    {
+        "text": "{reg1}.0{reg2}",
+        "translation": "{reg1}.0{reg2}"
+    },
+    {
+        "text": "{reg1}.{reg2}",
+        "translation": "{reg1}.{reg2}"
+    },
+    {
+        "text": "{s1}_{s2}",
+        "translation": "{s1}{s2}"
+    },
+    {
+        "text": "Next_Page",
+        "translation": "下一页"
+    },
+    {
+        "text": "Naval_Battle",
+        "translation": "海战"
+    },
+    {
+        "text": "Coastal_Assault_(Offense)",
+        "translation": "海岸突袭（进攻）"
+    },
+    {
+        "text": "Coastal_Assault_(Defense)",
+        "translation": "海岸突袭（防御）"
+    },
+    {
+        "text": "Players:",
+        "translation": "玩家："
+    },
+    {
+        "text": "Invaders:",
+        "translation": "入侵者："
+    },
+    {
+        "text": "Invasion_difficulty_(%):",
+        "translation": "入侵难度(%):"
+    },
+    {
+        "text": "Allow_Shield_Bash",
+        "translation": "允许盾击"
+    },
+    {
+        "text": "Allow_Falling_from_Horses",
+        "translation": "允许落马"
+    },
+    {
+        "text": "Allow_Shield_Wall_Bonuses",
+        "translation": "启用盾墙加成"
+    },
+    {
+        "text": "Remove_Stray_Horses_after_xxx_Seconds_(0=off)",
+        "translation": "在xxx秒之后杀死所有无人骑乘的马匹(0=关闭)"
+    },
+    {
+        "text": "Replace_All_Weapons_with_Deadly_Bow",
+        "translation": "将所有武器替换为致命的弓"
+    },
+    {
+        "text": "God_Mode",
+        "translation": "上帝模式"
+    },
+    {
+        "text": "-------Game_Description-------^",
+        "translation": "-------游戏简介-------^"
+    },
+    {
+        "text": "Game_Rules:^",
+        "translation": "游戏规则：^"
+    },
+    {
+        "text": "0",
+        "translation": "0"
+    },
+    {
+        "text": "Players:_{reg1}",
+        "translation": "玩家：{reg1}"
+    },
+    {
+        "text": "Command_enemy_troops",
+        "translation": "指挥敌人士兵"
+    },
+    {
+        "text": "Invaders",
+        "translation": "侵略者"
+    },
+    {
+        "text": "Extra_silver_for_troops:_{reg2}",
+        "translation": "部队额外开支：{reg2}"
+    },
+    {
+        "text": "{s0}_({reg1}s)",
+        "translation": "{s0}({reg1}s)"
+    },
+    {
+        "text": "Thor's_champion_has_been_killed!",
+        "translation": "索尔的冠军被杀了！"
+    },
+    {
+        "text": "You_have_killed_the_champion_and_gained_Thor's_favour!",
+        "translation": "你杀死冠军，获得了索尔的青睐！"
+    },
+    {
+        "text": "{s1}_has_killed_the_Champion_and_gained_Thor's_favour!",
+        "translation": "{s1}已经杀死冠军，获得了索尔的青睐！"
+    },
+    {
+        "text": "Thor_has_chosen_{s1}_as_his_new_champion!",
+        "translation": "索尔选择{s1}作为他新的冠军！"
+    },
+    {
+        "text": "^^Congratulations!^^You_have_survived_the_invasion!",
+        "translation": "^^恭喜！^^你在入侵中活了下来！"
+    },
+    {
+        "text": "New_enemies_are_coming!^Prepare_yourself!",
+        "translation": "新的敌人来了！^做好准备！"
+    },
+    {
+        "text": "{reg0}:{reg1}{reg2}_until_the_next_enemy_wave.",
+        "translation": "{reg0}：{reg1}{reg2}直到下一波敌人"
+    },
+    {
+        "text": "Enemies_left:_{reg1}",
+        "translation": "敌人离开：{reg1}"
+    },
+    {
+        "text": "Show_game_rules",
+        "translation": "显示游戏规则"
+    },
+    {
+        "text": "Admin_tools_panel",
+        "translation": "管理工具面板"
+    },
+    {
+        "text": "Change_game_type",
+        "translation": "更改游戏模式"
+    },
+    {
+        "text": "All_Players",
+        "translation": "所有玩家"
+    },
+    {
+        "text": "The",
+        "translation": ""
+    },
+    {
+        "text": "Candidate_#1:_{s1}",
+        "translation": "一号侯选者：{s1}"
+    },
+    {
+        "text": "Candidate_#2:_{s1}",
+        "translation": "二号侯选者：{s1}"
+    },
+    {
+        "text": "{s3}_of_the_{s4}_wishes_to_select_a_new_marshal_and_invites_his_vassals_for_a_counsel._{s1}_and_{s2}_are_the_likely_candidates.",
+        "translation": "{s3}的{s4}希望选择一个新的元帅，并要求封臣们投票，{s1}和{s2}是合适的候选人。"
+    },
+    {
+        "text": "Whom_do_you_wish_to_support?",
+        "translation": "你想支持谁？"
+    },
+    {
+        "text": "{s1}_gives_his_support_to_{s2}.",
+        "translation": "{s1}支持{s2}。"
+    },
+    {
+        "text": "Number_of_Supporters:_{reg0}",
+        "translation": "支持者的数目：{reg0}"
+    },
+    {
+        "text": "{s2}_has_heard_his_vassals'_counsel._He_selects_{s1}_as_the_marshal_of_the_{s3}.",
+        "translation": "{s2}听取大臣们的建议，选择{s1}作为{s3}的元帅。"
+    },
+    {
+        "text": "Strategy_Camera:_press_the_Enter_key.'",
+        "translation": "战场相机：按回车键"
+    },
+    {
+        "text": "Orders",
+        "translation": "命令"
+    },
+    {
+        "text": "Mount",
+        "translation": "上马"
+    },
+    {
+        "text": "Attack_Order",
+        "translation": "攻击命令"
+    },
+    {
+        "text": "Retreat",
+        "translation": "撤退"
+    },
+    {
+        "text": "Stand_Ground",
+        "translation": "站岗"
+    },
+    {
+        "text": "Charge",
+        "translation": "冲锋"
+    },
+    {
+        "text": "Follow_Me",
+        "translation": "随我来"
+    },
+    {
+        "text": "Hold_This_Position",
+        "translation": "坚守此地"
+    },
+    {
+        "text": "Spread_Out",
+        "translation": "散开"
+    },
+    {
+        "text": "Stand_Closer",
+        "translation": "聚拢"
+    },
+    {
+        "text": "Fall_Back",
+        "translation": "退后"
+    },
+    {
+        "text": "Advance",
+        "translation": "前进"
+    },
+    {
+        "text": "Dismount",
+        "translation": "下马"
+    },
+    {
+        "text": "Fire_At_Will",
+        "translation": "任意射击"
+    },
+    {
+        "text": "Hold_Your_Fire",
+        "translation": "停止射击"
+    },
+    {
+        "text": "Use_Blunt_Weapons",
+        "translation": "使用钝击武器"
+    },
+    {
+        "text": "Use_Any_Weapon",
+        "translation": "使用任意武器"
+    },
+    {
+        "text": "Ready",
+        "translation": "准备"
+    },
+    {
+        "text": "Wounded",
+        "translation": "受伤"
+    },
+    {
+        "text": "Dead",
+        "translation": "死亡"
+    },
+    {
+        "text": "Number_of_men_knocked_down:_{reg1}",
+        "translation": "死伤人数：{reg1}"
+    },
+    {
+        "text": "Number_of_men_left:_{reg1}",
+        "translation": "剩余人数：{reg1}"
+    },
+    {
+        "text": "Opponents_Beaten:_{reg1}",
+        "translation": "击倒对手数量：{reg1}"
+    },
+    {
+        "text": "Opponents_Remaining:_{reg1}",
+        "translation": "剩余对手数量：{reg1}"
+    },
+    {
+        "text": "Remain_in_retirement.",
+        "translation": "决定退休。"
+    },
+    {
+        "text": "Go_back_to_adventuring.",
+        "translation": "回到冒险。"
+    },
+    {
+        "text": "You_have_retired_at_level_{reg4}_after_{reg5}_days_of_adventuring.",
+        "translation": "你在经过{reg5}天的冒险到达{reg4}级的时候决定退休了。"
+    },
+    {
+        "text": "Effect_on_Score",
+        "translation": "得分影响"
+    },
+    {
+        "text": "Settlements_owned_by_you:_{reg0}",
+        "translation": "你的领地数：{reg0}"
+    },
+    {
+        "text": "Friendly_Settlements:_{reg0}",
+        "translation": "友军领地数：{reg0}"
+    },
+    {
+        "text": "Hostile_Settlements:_{reg0}",
+        "translation": "敌军领地数：{reg0}"
+    },
+    {
+        "text": "Friendly_Lords:_{reg0}",
+        "translation": "友军领主：{reg0}"
+    },
+    {
+        "text": "Enemy_Lords:_{reg0}",
+        "translation": "敌军领主：{reg0}"
+    },
+    {
+        "text": "Victories:_{reg0}",
+        "translation": "胜利：{reg0}"
+    },
+    {
+        "text": "Defeats:_{reg0}",
+        "translation": "失败：{reg0}"
+    },
+    {
+        "text": "Quests_Completed:_{reg0}",
+        "translation": "任务完成：{reg0}"
+    },
+    {
+        "text": "Companions_Found:_{reg0}",
+        "translation": "同伴加入人数：{reg0}"
+    },
+    {
+        "text": "Companions_Lost/Departed:_{reg0}",
+        "translation": "同伴失散人数：{reg0}"
+    },
+    {
+        "text": "Wealth:_{reg0}_peningas",
+        "translation": "财富：{reg0}先令"
+    },
+    {
+        "text": "Inventory:_{reg0}_peningas",
+        "translation": "库存：{reg0}先令"
+    },
+    {
+        "text": "Renown:_{reg0}",
+        "translation": "声望：{reg0}"
+    },
+    {
+        "text": "Experience:_{reg0}",
+        "translation": "经验：{reg0}"
+    },
+    {
+        "text": "Days_Passed:_{reg0}",
+        "translation": "天数：{reg0}"
+    },
+    {
+        "text": "Difficulty:_{reg0}%",
+        "translation": "难度：{reg0}%"
+    },
+    {
+        "text": "TOTAL_SCORE:_{reg0}",
+        "translation": "总分数：{reg0}"
+    },
+    {
+        "text": "Unpaid",
+        "translation": "未付"
+    },
+    {
+        "text": "Kingdom_Advisor:",
+        "translation": "王国顾问："
+    },
+    {
+        "text": "Kingdom_Tributes:",
+        "translation": "王国贡金："
+    },
+    {
+        "text": "Your_troops_are_unpaid!_Morale_has_dropped.",
+        "translation": "你的部队目前没有得到报酬！士气有所下降。"
+    },
+    {
+        "text": "{s30}{reg1},{reg2},{reg3},{reg4},{reg5},{reg6},{reg7},{reg8},{reg9},{reg10},{reg11},{reg12},{reg13},{reg14},{reg15},{reg16},{reg17},{reg18},{reg19},{reg20},{reg21},{reg22},{reg23},{reg24}/",
+        "translation": "{s30}{reg1}，{reg2}，{reg3}，{reg4}，{reg5}，{reg6}，{reg7}，{reg8}，{reg9}，{reg10}，{reg11}，{reg12}，{reg13}，{reg14}，{reg15}，{reg16}，{reg17}，{reg18}，{reg19}，{reg20}，{reg21}，{reg22}，{reg23}，{reg24}/"
+    },
+    {
+        "text": "F4_-_Complex_formations",
+        "translation": "F4-复杂编队"
+    },
+    {
+        "text": "F7_-_Memorize_div._placement",
+        "translation": "F7-记住div位置"
+    },
+    {
+        "text": "F8_-_Default_division_placement",
+        "translation": "F8-默认分配阵型"
+    },
+    {
+        "text": "F4_-_Ranks",
+        "translation": "F4-长蛇阵"
+    },
+    {
+        "text": "F5_-_Shield_Wall",
+        "translation": "F5-盾墙"
+    },
+    {
+        "text": "F6_-_Wedge",
+        "translation": "F6-楔形阵"
+    },
+    {
+        "text": "F7_-_Square",
+        "translation": "F7-方阵"
+    },
+    {
+        "text": "F8_-_No_Formation",
+        "translation": "F8-无阵型"
+    },
+    {
+        "text": "F1_-_Movement_orders",
+        "translation": "F1-移动命令"
+    },
+    {
+        "text": "F2_-_Formation_orders",
+        "translation": "F2-编队命令"
+    },
+    {
+        "text": "F3_-_Fire_orders",
+        "translation": "F3-开火命令"
+    },
+    {
+        "text": "Ranks",
+        "translation": "阵型"
+    },
+    {
+        "text": "Five_Rows",
+        "translation": "排成五行"
+    },
+    {
+        "text": "Shield_Wall",
+        "translation": "盾墙"
+    },
+    {
+        "text": "Four_Rows",
+        "translation": "排成四行"
+    },
+    {
+        "text": "Wedge",
+        "translation": "楔形阵"
+    },
+    {
+        "text": "Three_Rows",
+        "translation": "排成三行"
+    },
+    {
+        "text": "Square",
+        "translation": "方阵"
+    },
+    {
+        "text": "Two_Rows",
+        "translation": "排成二行"
+    },
+    {
+        "text": "No_Formation",
+        "translation": "无阵型"
+    },
+    {
+        "text": "Single_Line",
+        "translation": "排成一行"
+    },
+    {
+        "text": "Memorize_div._placement",
+        "translation": "原有阵型"
+    },
+    {
+        "text": "Default_division_placement",
+        "translation": "默认阵型"
+    },
+    {
+        "text": "____Y^Cancel",
+        "translation": "Y^取消"
+    },
+    {
+        "text": "____X^__Trait",
+        "translation": "X^特质"
+    },
+    {
+        "text": "____B^_Horse",
+        "translation": "B^马匹"
+    },
+    {
+        "text": "____A^_Creep",
+        "translation": "A^变化"
+    },
+    {
+        "text": "Extended_Formations_and_AI_Options",
+        "translation": "扩展阵型和AI选项"
+    },
+    {
+        "text": "Disable_mod_formations:_",
+        "translation": "禁用MOD单位："
+    },
+    {
+        "text": "Put_player_in_division:_",
+        "translation": "把玩家划分为："
+    },
+    {
+        "text": "Army_rotates_to_face_enemy_center:_",
+        "translation": "阵型始终朝向敌人的中心："
+    },
+    {
+        "text": "Prevent_AI_from_taking_defensive:_",
+        "translation": "阻止AI采取防御姿势："
+    },
+    {
+        "text": "Anno_Domini_867",
+        "translation": "公元867年"
+    },
+    {
+        "text": "We_are_in_the_ninth_century.^Long_gone_are_the_lights_of_Rome,^absorbed_by_the_tide_of_time,^yet_several_centuries_remain_until_the^golden_age_of_knights_and_princesses^to_come.^^It_is_a_brutal,_dark_and_ruthless^era_of_raw_strength_and_survival,^where_men_go_to_bed_every_night^praying_to_see_a_new_day.",
+        "translation": "我们正身处第九世纪。^罗马之光早已逝去，^时光荏苒，沧海桑田，^数个世纪以后，^骑士与公主的黄金时代^来临。^^这是一个蛮荒，黑暗与无情的年代，^只有赤裸裸的暴力以求得生存，^人们在每天闭上眼睛之前，^都要祈祷能看到第二天的晨光。"
+    },
+    {
+        "text": "It_is_the_age_of_the_Viking,^the_clans_of_Ireland,_the_ascension^of_Wessex_and_the_emergence_of_the^Kingdom_of_Alba.^^It_awaits_you...",
+        "translation": "这是维京人的年代，^爱尔兰的部落，^西撒克逊正在崛起，^奥尔本王国已经出现，^^这一切正在等待你…"
+    },
+    {
+        "text": "More",
+        "translation": "更多"
+    },
+    {
+        "text": "Campaign_Type",
+        "translation": "游戏类型"
+    },
+    {
+        "text": "ROYAL_SANDBOX_CAMPAIGN",
+        "translation": "国王沙盒模式"
+    },
+    {
+        "text": "LORDLY_SANDBOX_CAMPAIGN",
+        "translation": "领主沙盒模式"
+    },
+    {
+        "text": "STORYLINE_CAMPAIGN",
+        "translation": "故事模式"
+    },
+    {
+        "text": "SANDBOX_CAMPAIGN",
+        "translation": "沙盒模式"
+    },
+    {
+        "text": "Difficulty_Type",
+        "translation": "难度类型"
+    },
+    {
+        "text": "Impossible",
+        "translation": "不可能"
+    },
+    {
+        "text": "Full_Realism",
+        "translation": "完全写实"
+    },
+    {
+        "text": "Custom",
+        "translation": "定制"
+    },
+    {
+        "text": "Options",
+        "translation": "选项"
+    },
+    {
+        "text": "These_options_can_be_changed_later_in_the_camp_menu.",
+        "translation": "这些选项可以在之后的营地菜单里面更改。"
+    },
+    {
+        "text": "Reduced_to_1/4_(Easiest)",
+        "translation": "减少到1/4(最容易)"
+    },
+    {
+        "text": "Reduced_to_1/2_(Easy)",
+        "translation": "减少到1/2(容易)"
+    },
+    {
+        "text": "Reduced_to_1/2_(Easiest)",
+        "translation": "减少到1/2(最容易)"
+    },
+    {
+        "text": "Reduced_to_3/4_(Easy)",
+        "translation": "减少到3/4(容易)"
+    },
+    {
+        "text": "Slowest",
+        "translation": "最慢的"
+    },
+    {
+        "text": "Slower",
+        "translation": "更慢的"
+    },
+    {
+        "text": "Faster",
+        "translation": "更快的"
+    },
+    {
+        "text": "Fastest",
+        "translation": "最快的"
+    },
+    {
+        "text": "Less",
+        "translation": "更少"
+    },
+    {
+        "text": "Warning:_The_'{s1}'_and_'{s2}'_options_for_this_setting_can't_be_disabled_any_more_after_you_click_'{s3}.'",
+        "translation": "警告：你点击“{s3}”之后，此设置的{s1}和{s2}等选项不能修改。"
+    },
+    {
+        "text": "Choose_a_campaign_type!",
+        "translation": "选择一个战役模式！"
+    },
+    {
+        "text": "Storyline_Campaign:_Start_as_a_protagonist_in_a_story._Due_to_certain_perma-death_results,_ironman_save_mode_is_not_available.^^Sandbox_Campaign:_Start_a_long,_totally_free_play_game.^^Lordly_Sandbox_Campaign:_Start_as_a_lord.^^Royal_Sandbox_Campaign:_Start_as_a_king.",
+        "translation": "故事模式：作为一个故事的主角开始游戏。^^沙盒模式：开始一段漫长的，完全自由的游戏。^^领主沙盒模式：以领主身份开始游戏。^^国王沙盒模式：以国王身份开始游戏。"
+    },
+    {
+        "text": "Choose_a_difficulty_type!",
+        "translation": "选择一个难度！"
+    },
+    {
+        "text": "At_Beginner_level,_when_you_ask_permission_to_recruit_in_villages,_the_answer_is_always_positive_and_without_cost.",
+        "translation": "在初学者难度，只要你请求在乡村招募，就会被允许，而且没有花费。"
+    },
+    {
+        "text": "At_Beginner_level,_improving_troops_is_easier.",
+        "translation": "在初学者难度，提高军队更容易"
+    },
+    {
+        "text": "At_Beginner_level,_the_wages_of_the_player's_troops_are_reduced_40%._Additionally_the_loot_amount_in_monasteries_and_the_chance_to_capture_a_ship_are_increased.",
+        "translation": "在初学者难度，玩家的部队工资减少40%。此外，在寺庙的抢劫数额和捕捉船舶的机会增加。"
+    },
+    {
+        "text": "Stamina_is_calculated_from_Health_and_Athletic_skills_and_affects_physical_endurance_during_battle._When_a_character's_stamina_is_exhausted,_he_or_she_won't_be_able_to_run_and_his_or_her_weapons'_damage_will_be_halved.^^{s8}",
+        "translation": "耐力值取决于你的血量和运动技能，并影响着战斗中的防御能力。一旦角色的耐力耗尽，他或她将无法奔跑，而且武器的伤害减半。^^{s8}"
+    },
+    {
+        "text": "Your_skill_points_will_deteriorate_when_you_equip_heavy_armor._This_skill_brings_better_balance_to_the_game,_as_light_troops_become_more_important._Other_equipment_may_have_positive_effect_on_skills.^^{s8}",
+        "translation": "当你装备重型护甲时，你的技能点将会降低。这个设定会使游戏更加平衡，因为轻甲兵种将变得更加重要。^^{s8}"
+    },
+    {
+        "text": "Your_army_needs_regular_rest_in_a_settlement,_your_camp_site_or_your_refuge_from_time_to_time._Lack_of_rest_will_lower_your_troop_morale,_while_resting_will_improve_it.",
+        "translation": "你的部队需要适时在你的营地或庇护所里休息。缺乏休整将降低你的部队士气，而充分的休息能够提高士气。"
+    },
+    {
+        "text": "Your_enemies_will_cause_double_damage_while_you_cause_only_half.",
+        "translation": "你的敌人会造成双倍伤害，而你只造成一半伤害。"
+    },
+    {
+        "text": "Add_decapitation_to_battles.",
+        "translation": "加入斩首战。"
+    },
+    {
+        "text": "Disable_the_3D_view_in_settlement/village_menus_to_improve_the_loading_time_for_slower_machines.",
+        "translation": "禁用的据点/村庄菜单中的3Ｄ视图来改善机器的加载时间。"
+    },
+    {
+        "text": "Attack_while_holding_your_shield_(default:_hold_Right_Mouse_Button_+_Left_Mouse_Button)._The_short_delay_is_meant_to_keep_the_player_from_mistakenly_executing_a_shield_bash_during_normal_fighting.^^The_AI_will_also_be_able_to_use_this_ability.",
+        "translation": "攻击时，按住你的盾牌（默认：按住鼠标左键+鼠标左键）。"
+    },
+    {
+        "text": "The_divisions_of_the_player's_army_will_not_adopt_the_formations_of_shield_wall,_wedge,_or_square._Moreover,_the_F4_menu_that_contains_these_selections_will_no_longer_appear.^^The_default_ranks_formations_will_always_be_adopted_when_the_player_closes_ranks_beyond_the_point_needed_to_make_a_shoulder-to-shoulder_line.",
+        "translation": "勾选此项后，玩家部队的阵型不会采用盾墙、楔形或方形。^^此外，F4将不再出现相关的选项菜单。^^默认的阵型还是会有。"
+    },
+    {
+        "text": "When_multiple_divisions_are_placed,_they_will_set_up_to_face_the_center_of_the_enemy_forces._Without_this_option,_they_will_set_up_along_the_facing_that_the_player_has_when_he/she_places_them,_although_individual_divisions_will_still_turn_to_face_the_enemy.^^For_example,_with_the_option_OFF_and_the_player_facing_AWAY_from_the_attacker,_infantry_will_set_up_on_the_RIGHT_flank_rather_than_the_LEFT.",
+        "translation": "当部署多个队列，他们将面对敌军中心。^^若没有勾选此项，他们将面对玩家。^^当然还是有个别队列是转身面对敌人。"
+    },
+    {
+        "text": "The_army_opposing_the_player_never_takes_a_defensive_position_at_the_back_of_the_map,_but_will_always_charge_the_armies_of_the_player_and_his/her_allies.",
+        "translation": "敌军从不呆在地图后的防守位置，^^它只会进攻玩家以及盟军。"
+    },
+    {
+        "text": "Disable_music_in_battles_and_add_more_ambient_sounds.",
+        "translation": "在战斗中禁用音乐和添加更多的环境声音。"
+    },
+    {
+        "text": "Set_how_much_damage_is_done_to_your_character.",
+        "translation": "给你的角色设置多少伤害。"
+    },
+    {
+        "text": "Set_how_much_damage_is_done_to_your_army.",
+        "translation": "给你的军队设置多少伤害。"
+    },
+    {
+        "text": "Set_how_well_troops_fight._They_fight_worst_at_Beginner_level.",
+        "translation": "初学者水平战斗最差。"
+    },
+    {
+        "text": "Campaign_AI_affects_many_aspects_of_the_game,_like:^-_size_of_bandit_parties^-_renown_loss_in_battles^-_chance_of_recruiting_lords^-_taxes^-_how_lords_get_reinforcements^-_how_lords_respond_to_the_player's_requests",
+        "translation": "战略AI会影响游戏的许多方面，比如：^-土匪规模^-战斗的声誉损失^-成为领主的机会^-税^-领主如何得到增援^-领主如何回应玩家的要求。"
+    },
+    {
+        "text": "Set_the_running_speed_of_troops_in_battle.^^{s8}",
+        "translation": "设置部队在战斗中的运行速度。^^{s8}"
+    },
+    {
+        "text": "{s2}_{reg0}",
+        "translation": "{s2}{reg0}"
+    },
+    {
+        "text": "The_player_may_receive_specific,_debilitating_wounds_in_battle._Physicians_in_larger_towns_will_treat_these_wounds_for_a_price,_after_which_they_will_heal_within_a_few_days._Any_negative_effects_will_then_be_removed._If_wound_is_not_treated_after_some_time,_it_will_change_to_a_scar,_and_the_negative_effects_will_then_be_permanent.",
+        "translation": "玩家在战斗中可能会受到特殊的，使人衰弱的伤口。如果找大城镇的医生对这些伤口进行及时治疗，几天内就会愈合，不会有任何负面影响。如果伤口没有及时处理，就会形成一个伤疤，负面影响则是永久性的。"
+    },
+    {
+        "text": "Wounded_troops_take_damage_from_blood_loss.^^{s8}",
+        "translation": "伤员的伤口失血^^{s8}"
+    },
+    {
+        "text": "From_now_on,_spawn_33%_less_or_50%_more_bandits,_raiders,_etc.",
+        "translation": "减少33%或者增加50%的强盗袭击。"
+    },
+    {
+        "text": "Sets_the_player_as_commander_of_the_chosen_division._This_division_will_set_up_immediately_left_and_behind_the_player_on_Hold_and_Follow_commands_(Wedge_will_put_player_on_the_point)._Consider_it_for_bodyguard_divisions.",
+        "translation": "将玩家设定为队列的指挥官。这个队列将立即成立并跟随玩家接受命令。可以将它作为保镖队列。"
+    },
+    {
+        "text": "Equipment_may_get_damaged_in_battles,_depending_on_its_stats_and_the_weapon_maintenance_skill_of_the_party._Moreover,_weaponsmiths_and_armorers_offer_to_repair_your_equipment.^^{s8}",
+        "translation": "装备可能会在战斗中损坏，其程度取决于团队的武器维修技能。此外，你可以在武器锻造厂可以维修装备。^^{s8}"
+    },
+    {
+        "text": "Default",
+        "translation": "默认"
+    },
+    {
+        "text": "Randomize",
+        "translation": "随机"
+    },
+    {
+        "text": "Who_are_you?",
+        "translation": "你是谁？"
+    },
+    {
+        "text": "Be_careful_with_your_choices.^They_will_affect_your_attributes,_skills_and_dialogs,_among_other_things.",
+        "translation": "小心你的选择。^这些将影响到你其他的属性、技能和对话。"
+    },
+    {
+        "text": "Bio:",
+        "translation": "简介："
+    },
+    {
+        "text": "Gender:",
+        "translation": "性别："
+    },
+    {
+        "text": "Height:",
+        "translation": "身高："
+    },
+    {
+        "text": "Age:",
+        "translation": "年龄："
+    },
+    {
+        "text": "Personality:",
+        "translation": "性格："
+    },
+    {
+        "text": "Greatest_Virtue:",
+        "translation": "最大优点："
+    },
+    {
+        "text": "Ethnicity:",
+        "translation": "种族："
+    },
+    {
+        "text": "Kingdom:",
+        "translation": "王国："
+    },
+    {
+        "text": "Father's_Occupation:",
+        "translation": "父亲的职业："
+    },
+    {
+        "text": "Learnt_While_a_Child:",
+        "translation": "孩提时代的教育："
+    },
+    {
+        "text": "Vocation:",
+        "translation": "职业："
+    },
+    {
+        "text": "Religion:",
+        "translation": "宗教："
+    },
+    {
+        "text": "Female",
+        "translation": "女"
+    },
+    {
+        "text": "Male",
+        "translation": "男"
+    },
+    {
+        "text": "Normal",
+        "translation": "普通"
+    },
+    {
+        "text": "Tall",
+        "translation": "高"
+    },
+    {
+        "text": "Short",
+        "translation": "矮"
+    },
+    {
+        "text": "Young_(16-22_years_old)",
+        "translation": "青年（16-22岁）"
+    },
+    {
+        "text": "Adult_(23-40_years_old)",
+        "translation": "成年（23-40岁）"
+    },
+    {
+        "text": "Elder_(40_or_more_years_old)",
+        "translation": "老年（40岁以上）"
+    },
+    {
+        "text": "Sanguine",
+        "translation": "嗜血的"
+    },
+    {
+        "text": "Choleric",
+        "translation": "易怒的"
+    },
+    {
+        "text": "Melancholic",
+        "translation": "谨慎的"
+    },
+    {
+        "text": "Phlegmatic",
+        "translation": "冷静的"
+    },
+    {
+        "text": "Justice",
+        "translation": "正直的"
+    },
+    {
+        "text": "Temperance",
+        "translation": "克制的"
+    },
+    {
+        "text": "Fortitude",
+        "translation": "坚强的"
+    },
+    {
+        "text": "Wisdom",
+        "translation": "聪慧的"
+    },
+    {
+        "text": "Anglo-Saxon",
+        "translation": "盎格鲁-撒克逊"
+    },
+    {
+        "text": "Norse",
+        "translation": "诺尔斯"
+    },
+    {
+        "text": "Frisian",
+        "translation": "弗里斯"
+    },
+    {
+        "text": "Irish",
+        "translation": "爱尔兰"
+    },
+    {
+        "text": "Briton",
+        "translation": "布立吞"
+    },
+    {
+        "text": "Scoto-Pict",
+        "translation": "苏格兰-皮克特"
+    },
+    {
+        "text": "Foreigner",
+        "translation": "外国人"
+    },
+    {
+        "text": "{s0}",
+        "translation": "{s0}"
+    },
+    {
+        "text": "Outlaw",
+        "translation": "法外之徒"
+    },
+    {
+        "text": "Peasant",
+        "translation": "农夫"
+    },
+    {
+        "text": "Priest",
+        "translation": "牧师"
+    },
+    {
+        "text": "Craftsman",
+        "translation": "工匠"
+    },
+    {
+        "text": "Merchant",
+        "translation": "商人"
+    },
+    {
+        "text": "Noble",
+        "translation": "贵族"
+    },
+    {
+        "text": "Farming",
+        "translation": "耕作"
+    },
+    {
+        "text": "Stealing",
+        "translation": "盗窃"
+    },
+    {
+        "text": "Oratory",
+        "translation": "演讲"
+    },
+    {
+        "text": "Crafts",
+        "translation": "手艺"
+    },
+    {
+        "text": "Martial_Arts",
+        "translation": "武术"
+    },
+    {
+        "text": "Slave",
+        "translation": "奴隶"
+    },
+    {
+        "text": "Traveler",
+        "translation": "旅行者"
+    },
+    {
+        "text": "Hunter",
+        "translation": "偷猎者"
+    },
+    {
+        "text": "Landowner",
+        "translation": "地主"
+    },
+    {
+        "text": "Christian",
+        "translation": "基督教徒"
+    },
+    {
+        "text": "Pagan",
+        "translation": "多神教徒"
+    },
+    {
+        "text": "This_option_is_not_available_in_Lordly_or_Royal_Sandbox_modes.",
+        "translation": "这个选项在领主或国王沙盒模式中不可选取。"
+    },
+    {
+        "text": "Your_Kingdom",
+        "translation": "你的王国"
+    },
+    {
+        "text": "Name_^{playername}",
+        "translation": "名字^{playername}"
+    },
+    {
+        "text": "Level:",
+        "translation": "等级："
+    },
+    {
+        "text": "Health:",
+        "translation": "健康度："
+    },
+    {
+        "text": "Stamina:",
+        "translation": "耐力："
+    },
+    {
+        "text": "Renown:",
+        "translation": "名望："
+    },
+    {
+        "text": "Reputation:",
+        "translation": "声誉："
+    },
+    {
+        "text": "Right_to_Rule:",
+        "translation": "统治权："
+    },
+    {
+        "text": "Money:",
+        "translation": "钱："
+    },
+    {
+        "text": "Scandinavian_Gods",
+        "translation": "斯堪的纳维亚众神"
+    },
+    {
+        "text": "Can_read:",
+        "translation": "可以阅读："
+    },
+    {
+        "text": "Reading:",
+        "translation": "正在阅读："
+    },
+    {
+        "text": "No_books.",
+        "translation": "没有书。"
+    },
+    {
+        "text": "Trait:",
+        "translation": "特性："
+    },
+    {
+        "text": "Special_Trait:",
+        "translation": "特长："
+    },
+    {
+        "text": "Dungeon_Master",
+        "translation": "地牢大师"
+    },
+    {
+        "text": "Ladies'_Man",
+        "translation": "大众情人"
+    },
+    {
+        "text": "Wine_Connoisseur",
+        "translation": "鉴酒家"
+    },
+    {
+        "text": "Scars:",
+        "translation": "疤痕："
+    },
+    {
+        "text": "{reg1}",
+        "translation": "{reg1}"
+    },
+    {
+        "text": "Wounds:",
+        "translation": "伤口："
+    },
+    {
+        "text": "Enemies_Killed:",
+        "translation": "杀死敌人："
+    },
+    {
+        "text": "Enemies_Wounded:",
+        "translation": "伤害敌人："
+    },
+    {
+        "text": "Allies_Killed:",
+        "translation": "盟友死亡："
+    },
+    {
+        "text": "Allies_Wounded:",
+        "translation": "盟友受伤："
+    },
+    {
+        "text": "Story",
+        "translation": "故事"
+    },
+    {
+        "text": "Attributes/Skills",
+        "translation": "属性/技能"
+    },
+    {
+        "text": "Wounds",
+        "translation": "伤口"
+    },
+    {
+        "text": "Quest",
+        "translation": "任务"
+    },
+    {
+        "text": "Party",
+        "translation": "部队"
+    },
+    {
+        "text": "Relations",
+        "translation": "关系"
+    },
+    {
+        "text": "Budget",
+        "translation": "预算"
+    },
+    {
+        "text": "Statistics",
+        "translation": "统计数据"
+    },
+    {
+        "text": "Companions",
+        "translation": "同伴"
+    },
+    {
+        "text": "Factions",
+        "translation": "派系"
+    },
+    {
+        "text": "Known_Lords",
+        "translation": "已知的领主"
+    },
+    {
+        "text": "Courtship",
+        "translation": "恋爱"
+    },
+    {
+        "text": "Ships",
+        "translation": "船只"
+    },
+    {
+        "text": "Level:_{reg4}_^Days_of_Adventuring:_{reg5}.",
+        "translation": "等级：{reg4}^冒险的日子：{reg5}。"
+    },
+    {
+        "text": "Settlements_Owned_by_You:_{reg0}",
+        "translation": "您拥有的房产：{reg0}"
+    },
+    {
+        "text": "Hostile_Lords:_{reg0}",
+        "translation": "敌对领主：{reg0}"
+    },
+    {
+        "text": "You_need_to_be_the_ruler_of_your_faction_in_order_to_access_your_kingdom_control_panel.",
+        "translation": "你需要成为派系的统治者才能访问王国的控制面板。"
+    },
+    {
+        "text": "^^^^Wounds_Information:^^{s3}^^----------^^{s4}^^----------^^{s5}^^----------^^{s6}",
+        "translation": "^^^^伤口信息：^^{s3}^^----------^^{s4}^^----------^^{s5}^^----------^^{s6}"
+    },
+    {
+        "text": "Resume_Traveling",
+        "translation": "继续旅行"
+    },
+    {
+        "text": "Your_Camp",
+        "translation": "你的营地"
+    },
+    {
+        "text": "You_stop_to_rest.^Here_you_can_manage_your_camp's_resources.",
+        "translation": "你停下来休息。^你可以在这里管理营地的资源。"
+    },
+    {
+        "text": "Send_Scouts:",
+        "translation": "派遣侦察员："
+    },
+    {
+        "text": "^Sending_scouts_ahead_of_the_army_will_increase_your_chances_of_spotting_enemies._However,_these_men_always_move_very_exposed,_so_their_life_expectancy_is_low.",
+        "translation": "^派遣军队侦察员会增加发现敌人的机会。然而，这些人总是很容易暴露，因此他们的生存率很低。"
+    },
+    {
+        "text": "Thirty_men_are_needed.",
+        "translation": "需要三十人以上。"
+    },
+    {
+        "text": "Send_Foragers:",
+        "translation": "派出征粮队："
+    },
+    {
+        "text": "^Send_men_to_forage_as_your_army_travels._They_return_with_extra_food_every_half_day.",
+        "translation": "^派人为你的军队寻找食物。他们每隔半天将带来额外的食物。"
+    },
+    {
+        "text": "Forty_men_are_needed.",
+        "translation": "需要四十人以上。"
+    },
+    {
+        "text": "Fortify_Camp:",
+        "translation": "加强营地："
+    },
+    {
+        "text": "^Fortify_your_camp_with_basic_defences._The_men_engaged_in_this_difficult_work_will_need_a_reward_of_200_peningas,_or_you_could_face_troubles.",
+        "translation": "^巩固你营地的基本防御。从事这项艰巨工作的士兵需要200先令的奖励，否则你可能面临麻烦。"
+    },
+    {
+        "text": "Sixty_men_are_needed.",
+        "translation": "需要六十人以上。"
+    },
+    {
+        "text": "Your_Refuge",
+        "translation": "避难所"
+    },
+    {
+        "text": "Wait_Here",
+        "translation": "在这里等待"
+    },
+    {
+        "text": "Troop_Tree",
+        "translation": "部队升级树"
+    },
+    {
+        "text": "Second_Outfit",
+        "translation": "第二套装备"
+    },
+    {
+        "text": "Read_Book",
+        "translation": "阅读书本"
+    },
+    {
+        "text": "Retire",
+        "translation": "退休"
+    },
+    {
+        "text": "Recruit_Prisoners",
+        "translation": "招募俘虏"
+    },
+    {
+        "text": "Map_Colour",
+        "translation": "地图颜色"
+    },
+    {
+        "text": "Followers'_Camp",
+        "translation": "追随者的营地"
+    },
+    {
+        "text": "Visit_Camp",
+        "translation": "参观营地"
+    },
+    {
+        "text": "Check_Location",
+        "translation": "检查位置"
+    },
+    {
+        "text": "You_cannot_build_your_Refuge_so_close_to_a_settlement.",
+        "translation": "这里太靠近定居点，你不能建造避难所。"
+    },
+    {
+        "text": "These_too_close_to_a_settlement_for_camping.",
+        "translation": "这里太靠近某一建筑，无法扎营。"
+    },
+    {
+        "text": "You_cannot_read._You_can_learn_to_do_so_at_a_monastery.",
+        "translation": "您无法阅读。你可以在修道院学习阅读。"
+    },
+    {
+        "text": "Your_army_morale_is_low!",
+        "translation": "你队伍的士气低落！"
+    },
+    {
+        "text": "No_one_is_interested_this_time.",
+        "translation": "这个时候没有人感兴趣。"
+    },
+    {
+        "text": "Back_to_Siege",
+        "translation": "返回攻城"
+    },
+    {
+        "text": "Your_Siege_Camp",
+        "translation": "你的攻城营地"
+    },
+    {
+        "text": "You_are_besieging_the_enemy.^Here_you_can_manage_your_camp's_resources.",
+        "translation": "你正在攻城。^你可以在这里管理营地的资源。"
+    },
+    {
+        "text": "^Send_men_to_forage_nearby._They_return_with_extra_food_every_half_day.",
+        "translation": "^派人到附近寻找食物。他们每隔半天带回额外的食物。"
+    },
+    {
+        "text": "Your_Sea_Camp",
+        "translation": "你的海上营地"
+    },
+    {
+        "text": "The_ship_is_at_the_mercy_of_the_wind_when_you_stop_to_rest.^Here_you_can_manage_your_camp's_resources.",
+        "translation": "当你停下休息时，船只将受到风向的摆布。^你可以在这里管理营地的资源。"
+    },
+    {
+        "text": "Calm^^The_sails,_like_the_sea,_are_flat.",
+        "translation": "平静^^海面风平浪静。"
+    },
+    {
+        "text": "Light_breeze^^On_the_sea,_you_notice_some_small_wavelets.^The_sails_swell_a_little.",
+        "translation": "微风^^你注意到海上的阵阵微风。^船帆略微鼓起。"
+    },
+    {
+        "text": "Moderate_breeze^^Small_waves_with_breaking_crests_are_rolling_on_the_sea.^The_sails_fill_with_wind.",
+        "translation": "和风^^海面卷起一个个小波浪。^船帆鼓起了。"
+    },
+    {
+        "text": "Strong_breeze^^Moderate_waves_begin_to_form_larger_ones.^The_sails_are_swollen_tight_and_will_need_to_be_reefed_soon.",
+        "translation": "阵风^^海浪开始增大。^船帆完全鼓起了，马上需要收起来。"
+    },
+    {
+        "text": "High_wind^^There_are_many_breaking_waves_visible._The_sails_are_reefed.^There_is_some_chance_now_that_ships_will_be_damaged.",
+        "translation": "大风^^可以看见许多波浪。船帆收起来了。^船体有可能受损。"
+    },
+    {
+        "text": "Gale^^The_sea_is_violent._The_sails_are_almost_completely_reefed.^There_is_a_high_risk_of_a_damaged_hull.",
+        "translation": "强风^^波涛剧烈，船帆完全收起了。^船体很有可能受损。"
+    },
+    {
+        "text": "Storm^^The_waves_toss_about_the_ships,_which_threaten_to_capsize.",
+        "translation": "风暴^^船只完全听命于大浪，随时可能散架。"
+    },
+    {
+        "text": "Number_of_sailors:",
+        "translation": "水手数量："
+    },
+    {
+        "text": "{reg5}",
+        "translation": "{reg5}"
+    },
+    {
+        "text": "Speed_from_sailors:",
+        "translation": "水手速度："
+    },
+    {
+        "text": "{reg6}%",
+        "translation": "{reg6}%"
+    },
+    {
+        "text": "Fleet",
+        "translation": "舰队"
+    },
+    {
+        "text": "Followers_Camp",
+        "translation": "追随者营地"
+    },
+    {
+        "text": "Your_army_is_accompanied_by_followers_from_diverse_backgrounds.^^Followers_allow_you_to_access_important_services_quickly_and_provide_moral_support,_but_have_the_disadvantage_of_making_your_army_advance_more_slowly.^^You_can_drive_away_followers_any_time,_but_doing_so_will_have_an_impact_on_the_morale_of_your_army.^^You_can_increase_the_number_of_your_followers_with_people_you_meet_in_your_travels,_assigning_them_to_groups_such_as_priests,_women_and_others._You_may_assign_troops_from_your_army_to_the_group_of_followers_by_talking_with_them_from_your_army_menu.^^If_you_decide_to_reduce_the_size_of_your_army_below_300_men_or_if_your_army_suffers_high_losses_or_a_serious_defeat,_followers_may_abandon_you.",
+        "translation": "你的部队拥有来自不同背景的追随者。^^追随者允许您快速得到重要的服务，并提供士气上的支持，但缺点是有可能使你的部队前进速度减慢。^^您可以随时赶走追随者，但这样做会对你的军队的士气产生影响。^^你可以在旅途中遇到其他人，增加你的追随者人数，并将其设置分组，比如牧师，妇女和其他等。您可以通过部队菜单与追随者交谈，并设置分组。^^如果你决定将部队人数减少至300人以下，或者如果你的军队遭受重大损失或被敌人击败，如果你的追随者队伍没有被摧毁，他们可能会离弃你。"
+    },
+    {
+        "text": "Smith",
+        "translation": "铁匠"
+    },
+    {
+        "text": "Healer",
+        "translation": "医师"
+    },
+    {
+        "text": "Mules",
+        "translation": "骡子"
+    },
+    {
+        "text": "Slave_Trader",
+        "translation": "奴隶贩子"
+    },
+    {
+        "text": "Dismiss",
+        "translation": "解雇"
+    },
+    {
+        "text": "Kingdom_Report",
+        "translation": "王国报告："
+    },
+    {
+        "text": "{reg59?Queen:King}:",
+        "translation": "{reg59?女王:国王}："
+    },
+    {
+        "text": "{reg59?Queen:King}'s_Towns:",
+        "translation": "{reg59?女王:国王}的城镇："
+    },
+    {
+        "text": "{reg59?Queen:King}'s_Forts:",
+        "translation": "{reg59?女王:国王}的堡垒："
+    },
+    {
+        "text": "{reg59?Queen:King}'s_Villages:",
+        "translation": "{reg59?女王:国王}的村庄："
+    },
+    {
+        "text": "Lords:",
+        "translation": "领主："
+    },
+    {
+        "text": "Caravans:",
+        "translation": "大篷车："
+    },
+    {
+        "text": "Kingdom_Towns:",
+        "translation": "王国城镇："
+    },
+    {
+        "text": "Kingdom_Forts:",
+        "translation": "王国堡垒："
+    },
+    {
+        "text": "Kingdom_Villages:",
+        "translation": "王国村庄："
+    },
+    {
+        "text": "Places_without_Lord:",
+        "translation": "无主之地："
+    },
+    {
+        "text": "Prisoner_Lords:",
+        "translation": "俘虏贵族："
+    },
+    {
+        "text": "Minister:",
+        "translation": "首相："
+    },
+    {
+        "text": "Tax_Enforcement:",
+        "translation": "强行征税："
+    },
+    {
+        "text": "Yes_(costs_3000_peningas/week)",
+        "translation": "是（费用3000先令/每周）"
+    },
+    {
+        "text": "No_(tax_revenue_lower)",
+        "translation": "否（税收较低）"
+    },
+    {
+        "text": "{reg59?Queen:King}'s_Army_Size:",
+        "translation": "{reg59?女王:国王}军队规模："
+    },
+    {
+        "text": "Royal_Decree",
+        "translation": "王家法令"
+    },
+    {
+        "text": "Summary",
+        "translation": "总体"
+    },
+    {
+        "text": "Lords",
+        "translation": "贵族"
+    },
+    {
+        "text": "Diplomacy",
+        "translation": "外交"
+    },
+    {
+        "text": "Armies",
+        "translation": "军队"
+    },
+    {
+        "text": "Centers",
+        "translation": "封地"
+    },
+    {
+        "text": "Rename",
+        "translation": "重命名"
+    },
+    {
+        "text": "Make_a_Royal_Decree:^^Changing_orders_will_take_a_few_hours,^as_messengers_need_time_to_reach_your_vassals.^Once_you_select_your_order_click_DONE_for_confirmation.",
+        "translation": "下达一个王家法令：^^更换命令需要几个小时的时间，^因为信使需要时间来向你的下属传达信息。^当你选择好了命令，点击完成来确认。"
+    },
+    {
+        "text": "Gather_Our_Forces",
+        "translation": "召集我们的军队"
+    },
+    {
+        "text": "Defend_the_Kingdom",
+        "translation": "保卫王国"
+    },
+    {
+        "text": "Current_decree:_{s4}",
+        "translation": "当前命令：{s4}"
+    },
+    {
+        "text": "You_order_the_lords_to_present_themselves_with_their_household_armies.",
+        "translation": "你命令领主带领自己的士兵集合。"
+    },
+    {
+        "text": "You_order_the_kingdom_to_be_defended.",
+        "translation": "你命令领主保卫王国。"
+    },
+    {
+        "text": "You_cannot_do_this_now.",
+        "translation": "你现在不能做到这一点。"
+    },
+    {
+        "text": "Exhausted",
+        "translation": "筋疲力尽"
+    },
+    {
+        "text": "Very_Tired",
+        "translation": "很疲惫"
+    },
+    {
+        "text": "Tired",
+        "translation": "疲劳"
+    },
+    {
+        "text": "High",
+        "translation": "高"
+    },
+    {
+        "text": "What_name_would_you_like_to_give_to_your_refuge?",
+        "translation": "你想给怎么命名你的庇护所"
+    },
+    {
+        "text": "Save_it_as:_{s5}.",
+        "translation": "把它保存为：{s5}。"
+    },
+    {
+        "text": "From_Troop:_",
+        "translation": "来自部队："
+    }
+]

@@ -1,0 +1,2002 @@
+[
+    {
+        "text": "Villagers",
+        "translation": "村民们"
+    },
+    {
+        "text": "Ambush!_The_enemy_has_maneuvered_to_gain_a_good_position,_and_you_fell_into_an_ambush.^^Being_ambushed_puts_you_in_a_poor_and_disorganized_defensive_position,_and_your_men_will_have_morale_problems_and_reduced_ability_to_cause_damage_to_your_enemies.^^",
+        "translation": "埋伏！敌人设法获得一个好位置，你掉进了埋伏。^^掉进了埋伏将你的位置变成了一个难以防守的位置，并且你的士气将会出现问题，你的士兵无法对敌人造成有效的伤害。^^"
+    },
+    {
+        "text": "You_have_encountered_{s1}.^^The_warlord_encourages_his_men_with_a_rousing_speech._Your_enemies_have_very_high_morale.^^",
+        "translation": "你遇到{s1}。^^军阀用一个激动人心的演讲鼓舞他的士兵，你的敌人有很高的士气。^^"
+    },
+    {
+        "text": "You_have_encountered_{s1}.^^The_warlord_gathers_his_men_to_pray_and_invoke_the_protection_of_their_god._Your_enemies_have_high_morale.^^",
+        "translation": "你遇到{s1}.^^军阀集合他的人祈祷并且祈求神来保护他们，你的敌人士气高昂。^^"
+    },
+    {
+        "text": "You_have_encountered_{s1}.^^Before_we_were_prepared,_we_were_surprised_by_enemy_missile_troops._They_caused_some_casualties.^^",
+        "translation": "你遇到{s1}.^^我们准备冲锋之前，我们对他们的投射部队感到吃惊，他们对我们造成了人员伤亡。^^"
+    },
+    {
+        "text": "You_have_encountered_{s1}.",
+        "translation": "你遇到{s1}了。"
+    },
+    {
+        "text": "You_have_engaged_{s1}_while_they_were_raiding_{s3}.",
+        "translation": "你与{s1}开战了，他们曾经袭击过{s3}。"
+    },
+    {
+        "text": "You_were_caught_by_{s1}_while_your_forces_were_raiding_{s3}.",
+        "translation": "当你带着部下在{s3}掠夺的时候，被{s1}撞见了。"
+    },
+    {
+        "text": "{s2}^^You_overhear_one_of_your_more_experienced_men_grumbling_about_the_lack_of_a_battle_plan,_and_you_make_a_mental_note_to_find_someone_that_can_make_one.^^",
+        "translation": "{s2}^^你无意中听到你的一个资深士兵抱怨，你缺乏一个作战计划，并且你牢记这件事，打算找一个能办到的人。^^"
+    },
+    {
+        "text": "Your_men_feel_uneasy_about_attacking_innocents.",
+        "translation": "你的士兵因为攻击了无辜的人而感到不安。"
+    },
+    {
+        "text": "Your_men_feel_uneasy_about_attacking_traders.",
+        "translation": "你的士兵因为攻击了商人而感到不安。"
+    },
+    {
+        "text": "Your_men_feel_good_about_attacking_outlaws.",
+        "translation": "你的士兵因为攻击了不法之徒而感到高兴。"
+    },
+    {
+        "text": "Since_{s8}_has_a_good_reputation,_your_troops_feel_a_bit_more_confident_than_usual_when_attacked.",
+        "translation": "被人攻击从来不是好事，但因为{s8}有一个好名声，你的军队感到更加自信。"
+    },
+    {
+        "text": "Your_men_feel_uneasy_about_attacking_{s8},_who_is_loved_by_the_people.",
+        "translation": "你的士兵因为攻击了深受人们喜爱的{s8}而感到不安。"
+    },
+    {
+        "text": "Your_men_feel_uneasy_about_being_attacked_by_{s8},_because_he_is_feared.",
+        "translation": "你的士兵因为攻击了{s8}而感到不安，因为士兵们害怕他。"
+    },
+    {
+        "text": "Your_men_are_eager_to_attack_{s8},_because_he_is_hated.",
+        "translation": "你的士兵渴望杀了{s8}，因为他是令人憎恨的家伙。"
+    },
+    {
+        "text": "Board",
+        "translation": "驾船"
+    },
+    {
+        "text": "You_need_to_have_50_or_more_men_in_order_to_use_the_commander_panel.",
+        "translation": "你需要至少50个士兵才能使用指挥面板。"
+    },
+    {
+        "text": "{reg45}_will_be_lost.",
+        "translation": "{reg45}将会失去。"
+    },
+    {
+        "text": "You_were_victorious!",
+        "translation": "你获胜了！"
+    },
+    {
+        "text": "The_battle_was_lost._Your_forces_were_utterly_crushed.",
+        "translation": "这场战斗失败了。你的军队完全被击溃了。"
+    },
+    {
+        "text": "Your_companions_carry_you_away_from_the_fighting.",
+        "translation": "你的同伴把你从战场上运了出来。"
+    },
+    {
+        "text": "You_have_defeated_the_enemy.",
+        "translation": "你击败了敌人。"
+    },
+    {
+        "text": "You_have_retreated_from_the_fight.",
+        "translation": "你撤离了战场。"
+    },
+    {
+        "text": "^^Ally_Casualties:{s0}",
+        "translation": "^^友军伤亡：{s0}"
+    },
+    {
+        "text": "{s1}_of_the_{s3}_managed_to_escape.",
+        "translation": "{s3}的{s1}设法逃跑。"
+    },
+    {
+        "text": "Your_party_lost_{reg1}_morale.",
+        "translation": "你的军队减少了{reg1}士气。"
+    },
+    {
+        "text": "Your_party_gained_{reg1}_morale.",
+        "translation": "你的军队增加了{reg1}士气。"
+    },
+    {
+        "text": "Your_party_gained_{reg1}_morale_for_the_loot_you_shared.",
+        "translation": "因为你共享了战利品，你的军队增加了{reg1}士气。"
+    },
+    {
+        "text": "Your_party_lost_{reg1}_morale,_because_your_troops_think_you_keep_too_much_loot_for_yourself.",
+        "translation": "你的军队失去了{reg1}的士气，因为你的士兵认为你占有了太多的战利品。"
+    },
+    {
+        "text": "Some_of_your_tendons_have_been_damaged_in_the_battle._You_lose_1_strength.",
+        "translation": "你的一些肌腱在战斗中受伤了，你失去1点力量。"
+    },
+    {
+        "text": "The_wound_you_took_was_pretty_nasty_and_will_cause_you_to_limp_slightly_even_after_it_heals._You_lose_1_agility.",
+        "translation": "你受的伤很重，即使治好后还是有点行动不便。你失去1点敏捷。"
+    },
+    {
+        "text": "You_have_trouble_thinking_straight_after_the_battle,_perhaps_from_a_particularly_hard_hit_to_your_head,_and_frequent_headaches_now_plague_your_existence._Your_intelligence_is_reduced_by_1.",
+        "translation": "这场战斗结束以后，你发现你思考问题的时候有些困难，也许是因为战斗中你的头部挨了特别重的一击。而且现在你频繁地感到头痛。你的智力下降1点。"
+    },
+    {
+        "text": "Perhaps_I'm_getting_unlucky...",
+        "translation": "也许我的运气在变差……"
+    },
+    {
+        "text": "Retirement_is_starting_to_sound_better_and_better.",
+        "translation": "撤退听起来变得越来越动听。"
+    },
+    {
+        "text": "No_matter!_I_will_persevere!",
+        "translation": "没关系！我将继续坚持！"
+    },
+    {
+        "text": "What_did_I_do_to_deserve_this?",
+        "translation": "我该怎么做才能得到这些？"
+    },
+    {
+        "text": "I_suppose_it'll_make_for_a_good_story,_at_least...",
+        "translation": "我猜这些至少可以构造出一个很好的故事……"
+    },
+    {
+        "text": "Player_retreats_from_battle.",
+        "translation": "玩家退出战斗。"
+    },
+    {
+        "text": "You_have_{reg22}_head_of_cattle_grazing_here.",
+        "translation": "你有{reg22}头牛吃这里的草。"
+    },
+    {
+        "text": "{s8}_of_the_{s9}",
+        "translation": "{s9}的{s8}"
+    },
+    {
+        "text": "_As_you_reach_the_settlement,_you_are_greeted_by_your_men.",
+        "translation": "当你到达此地时，你的士兵迎接了你。"
+    },
+    {
+        "text": "_As_you_reach_the_settlement,_you_are_greeted_by_men_loyal_to_{s7}.",
+        "translation": "当你到达此地时，宣誓效忠你的领主{s7}来迎接了你。"
+    },
+    {
+        "text": "_You_are_greeted_by_men_loyal_to_you.",
+        "translation": "你受到了效忠于你的士兵的迎接。"
+    },
+    {
+        "text": "_You_are_greeted_by_men_loyal_to_{s7}.",
+        "translation": "你受到了效忠于你的{s7}的迎接。"
+    },
+    {
+        "text": "The_rulers_of_the_realms_are_troubled_by_your_offense_against_the_majesty_of_your_lord.",
+        "translation": "王国的统治者为你冒犯了你的领主而困恼。"
+    },
+    {
+        "text": "You_make_sure_they_see_that_their_lord,_{s11},_is_held_prisoner_by_your_army.",
+        "translation": "你确保他们看到了自己的领主{s11}，被你的军队俘虏。"
+    },
+    {
+        "text": "The_{reg6?town's:fort's}_food_stores_should_last_for_{reg3}_more_days.",
+        "translation": "好像{reg6?城镇里:城堡里}食品仓库中的存粮能够支持{reg3}天({reg7}/{reg8})。"
+    },
+    {
+        "text": "The_{reg6?town's:fort's}_food_stores_have_run_out_and_the_defenders_are_starving.",
+        "translation": "{reg6?城镇里:城堡里}食品仓库中已经没有存粮了，守城人员快要饿死了。"
+    },
+    {
+        "text": ">>Your_men_are_building_checkpoints_and_small_camps_around_{s4}_to_prevent_anyone_from_going_in_or_out.^^",
+        "translation": ">>你的士兵们正在建造环绕{s4}的防御工事以防止任何人随意进出。^^"
+    },
+    {
+        "text": ">>Your_perimeter_control_is_ready._You_have_set_a_perimeter_for_surveillance_around_{s4}._No_one_can_enter_or_leave_without_the_knowledge_of_your_men.^This_will_be_beneficial_especially_when_you_have_to_negotiate_the_surrender_of_the_castle_with_its_commander.^^",
+        "translation": ">>你的环形防御工事准备好了。你在{s4}周围建造了哨所，没有人可以在你的眼皮底下进入或者逃脱，这对你来说很有帮助，尤其是当你和守军指挥官谈判的时候。^^"
+    },
+    {
+        "text": ">>Your_men_are_ready_for_assault.^^",
+        "translation": ">>你的部下已经准备好突击。"
+    },
+    {
+        "text": ">>As_a_disciplined_army,_your_men_have_made_latrines,_pipelines,_and_a_pond_for_their_weekly_bath._A_healthy_camp_prevents_disease.^^",
+        "translation": ">>作为一支经验丰富的部队，你的士兵们有厕所，管道和水井来凉下来并每周清洗。一个健康的营帐将阻止疾病传播。"
+    },
+    {
+        "text": ">>Your_men_have_finished_building_mantlets._Now_you_can_use_them_to_protect_your_soldiers_in_the_vanguard_attack,_and_your_main_force_for_the_final_charge.^^",
+        "translation": ">>你的士兵们已经完成了挡箭牌的建造。现在你可以用它们保护你的前锋部队进攻，以及你的主力军。"
+    },
+    {
+        "text": ">>Your_men_have_finished_making_scaling_equipment.^^",
+        "translation": ">>你的士兵建造好了扩展设施。^^"
+    },
+    {
+        "text": ">>Your_attempt_to_find_a_traitor_in_the_settlement_has_failed.^^",
+        "translation": ">>你试图寻找叛徒的行动失败了。"
+    },
+    {
+        "text": ">>You_have_found_a_traitor_within_{s7}_that_has_supported_your_efforts_to_conquer_it._This_will_make_it_more_receptive_to_surrendering.^^",
+        "translation": ">>你在这{s7}里找到了一名叛徒并支持你占领它。这让敌人投降的几率更大了。"
+    },
+    {
+        "text": ">>Your_attempt_to_have_your_men_infiltrate_{s4}_has_failed.^^",
+        "translation": ">>你在{s4}的渗透计划失败了。"
+    },
+    {
+        "text": ">>Your_men_have_succeeded_in_infiltrating_{s4}_and_damaging_the_enemy.^^",
+        "translation": ">>你的人成功渗透进{s4}并让敌人受到了些损伤。"
+    },
+    {
+        "text": ">>You've_managed_to_pillage_the_crops_and_farms_nearby.^^",
+        "translation": ">>你设法掠夺附近的农田和庄稼。"
+    },
+    {
+        "text": ">>You_have_sent_men_to_find_a_traitor_in_{s4}.^^",
+        "translation": ">你派人去{s4}寻找叛徒。"
+    },
+    {
+        "text": ">>You_have_found_a_traitor_within_{s4}_that_has_supported_your_efforts_to_conquer_it._This_will_render_it_more_receptive_to_surrendering.^^",
+        "translation": ">>你在这{s4}里找到了一名叛徒并支持你占领它。这让敌人投降的几率更大了。"
+    },
+    {
+        "text": ">>Your_men_are_taking_crops_and_ransacking_farms_close_to_{s4}_on_your_orders._This_will_render_it_more_receptive_to_surrendering.^^",
+        "translation": ">>你的士兵在你的命令下掠夺{s4}周围的庄稼。这让敌人投降的几率更大了。"
+    },
+    {
+        "text": ">>You_have_sent_men_to_infiltrate_{s4}.^^",
+        "translation": ">>你派人渗透{s4}。"
+    },
+    {
+        "text": ">>Your_camp_smells_horrible._The_ground_is_muddy,_your_men_defecate_between_tents,_and_you_see_rats_running_here_and_there.^^",
+        "translation": ">>你的营地闻起来很糟糕。地面泥泞，你的士兵们在帐篷间排泄，你看到耗子到处跑。"
+    },
+    {
+        "text": ">>As_a_disciplined_army,_your_men_have_made_latrines,_pipelines_and_a_pond_for_their_weekly_bath._A_healthy_camp_prevents_disease.^^",
+        "translation": ">>作为一支经验丰富的部队，你的士兵们有厕所，管道和水井来凉下来并每周清洗。一个健康的营帐将阻止疾病传播。"
+    },
+    {
+        "text": ">>Your_men_are_digging_holes_for_latrines_and_taking_other_measures_to_prevent_disease.^^",
+        "translation": ">>你的人在挖洞做厕所和做其他类似的事情来防止疾病。"
+    },
+    {
+        "text": "You_need_to_have_more_than_250_men_for_this_job.",
+        "translation": "你需要超过250人来完成此项工作。"
+    },
+    {
+        "text": "You_need_to_have_at_least_40_men_in_order_to_assign_some_of_them_to_finding_a_traitor.",
+        "translation": "你至少需要分配40人来找叛徒。"
+    },
+    {
+        "text": "You_need_more_than_30_men,_or_sending_some_will_leave_your_camp_somewhat_unprotected.",
+        "translation": "你需要超过30人，否则派出士兵后你的营地将没有防备。"
+    },
+    {
+        "text": "You_need_to_have_more_than_10_men_in_order_to_do_this_job.",
+        "translation": "你需要超过10人来完成此项工作"
+    },
+    {
+        "text": "You_need_to_have_more_than_80_men_in_order_to_do_this.",
+        "translation": "你需要超过80人来完成此项工作"
+    },
+    {
+        "text": ">>The_assault_equipment_is_ready._The_troops_await_your_orders.^^",
+        "translation": ">>攻城设备已经准备好了，部队在听你待命。"
+    },
+    {
+        "text": ">>You_look_at_{s4}._Your_men_are_silent_while_they_await_your_order_to_attack._Your_muscles_are_tense,_hot_for_battle,_but_your_mind_is_cold_and_adrenaline_fills_your_veins^A_man_breathes_deeply._'Do_you_smell_that?'_he_asks,_'That_is_the_scent_of_glory.'_'Are_you_ready_to_seize_it?'^^",
+        "translation": ">>你看到了{s4}。你的战士们沉默着，等待着你的那向死亡冲锋的命令，你的肌肉紧张起来，为战斗而发热，但你的思维仍旧冷静，肾上腺素充满了你的全身。^一位士兵深呼一口气“你闻到了吗？”他问道，“这是荣耀的味道。”“你准备好攻占这里了吗？”"
+    },
+    {
+        "text": ">>The_steel_of_the_weapons_glitters,_banners_sway_in_the_wind_and_horns_sound._The_men_whisper,_many_pray,_ingratiate_themselves_with_their_god_before_facing_the_end_of_their_lives._Up_ahead_there_are_only_two_things:_victory_or_death.^War_..._war_never_changes.^^",
+        "translation": ">>金属制的武器闪着光，旗帜在风中狂舞并且号角声响了起来。战士们在低语，大多数是在祈祷，在面对他们生命中最后时刻前讨好他们所信奉的神。前方只有两件事：胜利或死亡。^战争…战争从未改变。"
+    },
+    {
+        "text": ">>Winter_is_the_worst_time_to_fight,_but_there_you_are_in_the_cold_months,_ready_to_undertake_the_conquest_of_{s4}._Many_people_think_you're_a_daredevil,_others_a_madman._But_no_one_knows_that_someday_you_will_be_Brytenwalda.^^",
+        "translation": ">>冬季是对于战斗来说最坏的时节，但是你正处于这最冷的几个月份当中，准备去着手攻占{s4}。许多人都认为你是个魔鬼，要么就是一个疯子。但是没有人知道，有一天你将成为不列颠统治者。^"
+    },
+    {
+        "text": ">>It's_summer_and_hot_--_maybe_too_hot_--_but,_at_that_moment,_you_do_not_feel_anything._As_always_before_a_battle,_you_set_aside_time_for_a_few_inevitable_memories_of_the_past..._Then_you_close_your_mind_and_ready_it_for_battle,_preparing_for_even_the_worst_case_--_death.^^",
+        "translation": ">>现在正是夏季，还是炎热的夏季，也许太热了。但是在这个时刻，你对什么都没有感觉。按照你的惯例，在战斗前，你总是会留出时间来回忆往事…那么，别再想这些了，准备战斗吧，甚至是最坏的情况：面对死亡。"
+    },
+    {
+        "text": ">>You_look_at_{s4}._Your_men_are_silent_while_waiting_for_your_order_to_charge_towards_death._Your_muscles_are_tense,_hot_for_battle,_your_mind_cold_and_adrenaline_fills_your_veins^A_man_breathes_deeply._'Do_you_smell_that?'_he_asks,_'That_is_the_scent_of_glory.'_'Are_you_ready_to_seize_it?'^^",
+        "translation": ">>你看到了{s4}。你的战士们沉默着，等待着你的那向死亡冲锋的命令，你的肌肉紧张起来，为战斗而发热，但你的思维仍旧冷静，肾上腺素充满了你的全身。^一位士兵深呼一口气“你闻到了吗？”他问道，“这是荣耀的味道。”“你准备好攻占这里了吗？”"
+    },
+    {
+        "text": ">>Your_men_have_finished_building_the_mantlets._Now_you_can_use_them_to_protect_your_soldiers_in_the_vanguard_attack,_and_your_main_force_for_the_final_charge.^^",
+        "translation": ">>你的士兵们已经完成了挡箭牌的建造。现在你可以用它们保护你的前锋部队进攻，以及你的主力军。"
+    },
+    {
+        "text": ">>Your_men_are_building_mantlets.^^",
+        "translation": ">>你的人在建造挡箭牌。"
+    },
+    {
+        "text": ">>Your_men_have_finished_building_the_ladders.^^",
+        "translation": ">>你的人建好了攻城梯。"
+    },
+    {
+        "text": ">>Your_men_are_building_assault_ladders.^^",
+        "translation": ">>你的人在建造攻城梯。"
+    },
+    {
+        "text": "{s4}_lost_between_40_and_50%_of_its_food_reserves.",
+        "translation": "{s4}失去了大约40到50%的库存粮草。"
+    },
+    {
+        "text": "{s4}_lost_between_50_and_60%_of_its_food_reserves.",
+        "translation": "{s4}失去了大约50到60%的库存粮草。"
+    },
+    {
+        "text": "{s4}_lost_between_30_and_40%_of_its_food_reserves.",
+        "translation": "{s4}失去了大约30到40%的库存粮草。"
+    },
+    {
+        "text": "{s4}_lost_between_10_and_20%_of_its_food_reserves.",
+        "translation": "{s4}失去了大约10到20%的库存粮草。"
+    },
+    {
+        "text": "{s4}_have_between_10_and_30%_of_its_garrison_sick_for_a_few_days.",
+        "translation": "{s4}失去了大约10到30%的库存粮草。"
+    },
+    {
+        "text": "It_should_have_food_stocks_for_{reg6}_days.^The_garrison_has_{reg5}_men.",
+        "translation": "^^这里有{reg5}名守军。^库存粮草能维持{reg6}天"
+    },
+    {
+        "text": "^^The_following_armies_are_currently_inside:",
+        "translation": "^^目前以下部队驻扎在内："
+    },
+    {
+        "text": "^{s3}_with_{reg1}_troops.",
+        "translation": "^{s3}有{reg1}名守军。^"
+    },
+    {
+        "text": "^^Commander,_this_town_is_one_big_rock._Many_before_us_have_fled_the_place_before_a_single_blow_was_exchanged,_so_we_must_keep_morale_up_among_the_men._The_path_to_the_main_gate_is_formidably_narrow_and_steep,_but_if_we_set_up_the_camp_and_build_a_battering_ram,_we_can_break_down_the_wall_at_the_back_entrance_of_the_town._When_the_wall_is_down,_we_can_charge_in_without_losing_breath._The_steps_up_to_the_town_center_are_fewer_there.",
+        "translation": "^^指挥官，这座城是块巨岩。我们中许多人在开战前就逃跑了，所以我们必须提高士兵们的士气。通往主城门的路狭窄且陡峭，但是如果我们扎营并建造一个攻城槌就能击破后城墙进入城镇中了。当墙倒下后，我们就不用提心吊胆地爬那窄小的攻城梯了。"
+    },
+    {
+        "text": "^^Alt_Clut,_the_rock_high_over_the_Clyde._This_is_the_mightiest_fortress_of_the_northern_Britons._Nobody_has_ever_taken_it_by_siege_in_your_day._Controlling_the_mouth_of_the_Clyde,_it_was_where_King_Riderch_Hael_fought_the_Bernicians_and_the_Picts.",
+        "translation": "^^克莱德之岩。不列颠北部最雄伟的堡垒。在你之前没人曾通过攻城夺下它。理查德·希尔国王曾守在克莱德的城门口与贝西尼亚人与皮克特人战斗。"
+    },
+    {
+        "text": "^^This_formidable_stronghold_is_the_jewel_of_the_Dumnonian_kingdom._Here_many_ships_from_Mediterannea_arrive_full_of_wine_and_luxuries._Legend_says_the_warlord,_Arthur,_was_born_here.",
+        "translation": "^^这座坚不可摧的要塞是多姆诺尼亚之宝。这里有来自迈德特兰尼亚的满载酒和奢侈品的船只。传说亚瑟王就是出生在此地。"
+    },
+    {
+        "text": "^^Dun_Taruo,_the_fortress_of_the_bull._This_place_seems_like_the_work_of_giants,_and_for_centuries,_the_Picts_have_known_its_reputation.",
+        "translation": "^^泰罗丘，公牛之堡垒。这个地方似乎是巨人建造的，并且数百年来，它在皮克特人中享有很高的声誉。"
+    },
+    {
+        "text": "^^The_seat_of_the_brave_Goutodin_warriors._From_here,_they_launched_their_attacks_against_the_Bernicians,_and_their_heroic_end_will_never_be_forgotten._You_can_almost_smell_their_courage_from_here,_even_though_Goutodin_disappeared_long_ago.",
+        "translation": "^^勇敢的高多汀（注：罗马时期不列颠东北部的一支布立吞人）战士的居所。他们在这里发动了对贝西尼亚人的攻击，并且他们英勇地战死将不会被世人所遗忘。你几乎都可以在这里闻到他们勇敢的气息。"
+    },
+    {
+        "text": "^^This_place_is_just_waiting_for_you_to_conquer_it.",
+        "translation": "^^这个地方等待着你来征服。"
+    },
+    {
+        "text": "As_a_last_defensive_effort,_you_retreat_to_the_main_hall_of_the_keep._You_and_your_remaining_soldiers_will_put_up_a_desperate_fight_here._If_you_are_defeated,_there's_no_other_place_to_fall_back_to.",
+        "translation": "你撤退到城堡的大厅里进行最后的防御。你和你手下残余的士兵将准备在这里接受一场恶战。如果你战败了，你就无路可退了。"
+    },
+    {
+        "text": "You've_been_driven_away_from_the_walls._Now_the_attackers_are_pouring_into_the_streets._If_you_can_defeat_them,_you_can_perhaps_turn_the_tide_and_save_the_day.",
+        "translation": "你被敌人从城墙上赶下去了，现在敌人大量涌入街道内。如果你能击败他们，你也许能扭转局势，反败为胜。"
+    },
+    {
+        "text": "You've_breached_the_town_walls,_but_the_stubborn_defenders_continue_to_resist_you_in_the_streets!_You'll_have_to_deal_with_them_before_you_can_attack_the_keep_at_the_heart_of_the_town.",
+        "translation": "你已经突破了城墙，但是那些顽固的守卫者继续在街道上抵抗你的攻击！你得消灭他们才能攻击城镇中心的城堡。"
+    },
+    {
+        "text": "The_town_centre_is_yours,_but_the_remaining_defenders_have_retreated_to_the_castle._It_must_fall_before_you_can_complete_your_victory.",
+        "translation": "这个城镇的镇广场是你的了，但是剩下的守卫者撤退到城堡里了。你要完全消灭他们才能取得完全的胜利。"
+    },
+    {
+        "text": "The_remaining_defenders_have_retreated_to_the_castle_as_a_last_defense._You_must_go_in_and_crush_any_remaining_resistance.",
+        "translation": "剩下的守卫撤退到城堡这个最后的防线。你必须冲进去清除剩余的抵抗力量。"
+    },
+    {
+        "text": "{s10}^^",
+        "translation": "{s10}^^"
+    },
+    {
+        "text": "{s10}You_may_decide_to_forbid_your_troops_from_harming_the_{reg2?town:fort},_if_you_want_to_conquer_it_for_your_faction,_but_your_troops_may_lose_morale._",
+        "translation": "{s10}你可以禁止你的手下掠夺{reg2?城镇:要塞}，如果你想为你的阵营征服它，不过你的部队会失去士气。"
+    },
+    {
+        "text": "{s10}You_can_allow_some_plundering_and_keep_the_{reg2?town:fort}._",
+        "translation": "{s10}你可以掠夺并占据{reg2?城镇:城堡}。"
+    },
+    {
+        "text": "However,_since_you_are_not_a_sworn_{reg59?follower:man}_of_{s9},_there_is_no_chance_he_would_recognize_you_as_the_{reg59?lady:lord}_of_this_{reg8?town:fort}.",
+        "translation": "然而，因为你不是{s9}的效忠者，他是绝对不会承认你是这个{reg8?城镇:城堡}的领主。"
+    },
+    {
+        "text": "The_enemy_has_been_forced_to_retreat._The_assault_is_over,_but_the_siege_continues.",
+        "translation": "敌人被迫撤退了。进攻停止了，但是围城还在继续。"
+    },
+    {
+        "text": "As_you_approach,_you_are_spotted_by_the_fort_guards,_who_welcome_you_and_open_the_gates_for_their_{reg59?queen:king}.",
+        "translation": "当你接近时，你被守卫发现了，他们打开了大门欢迎他们的{国王/女王}。"
+    },
+    {
+        "text": "As_you_approach,_you_are_spotted_by_the_fort_guards,_who_welcome_you_and_open_the_gates_for_their_{reg59?lady:lord}.",
+        "translation": "当你接近时，你被守卫发现了，他们打开了大门欢迎他们的{领主/夫人}。"
+    },
+    {
+        "text": "^Christians_aren't_welcome_here.",
+        "translation": "^基督徒不受欢迎。"
+    },
+    {
+        "text": "^Christians_are_accepted_here.",
+        "translation": "^基督教徒在此被接受。"
+    },
+    {
+        "text": "^Christians_are_in_the_majority_here.",
+        "translation": "^基督徒是这里的主流。"
+    },
+    {
+        "text": "^Christians_are_dominant_here.",
+        "translation": "^基督信仰在此根深蒂固。"
+    },
+    {
+        "text": "^This_village_is_a_bastion_of_your_faith.",
+        "translation": "^这个村子是你信仰的堡垒。"
+    },
+    {
+        "text": "^Rumor_has_it_that_Christian_faith_is_nothing_more_than_a_veil,_and_the_population_continues_to_worship_pagan_gods...",
+        "translation": "^有谣言说基督信仰不过是一个骗局，人们仍然信仰多神教……"
+    },
+    {
+        "text": "^Pagans_aren't_welcome_here.",
+        "translation": "^多神教徒不受欢迎。"
+    },
+    {
+        "text": "^Pagans_are_accepted_here.",
+        "translation": "^多神教徒在此被接受。"
+    },
+    {
+        "text": "^Pagans_are_in_the_majority_here.",
+        "translation": "^多神教徒是这里的主流。"
+    },
+    {
+        "text": "^Pagans_are_dominant_here.",
+        "translation": "^多神教信仰在此根深蒂固。"
+    },
+    {
+        "text": "^Rumor_has_it_that_old_pagan_gods_are_being_forgotten_in_favour_of_Christendom.",
+        "translation": "^有谣言说为了给基督教开路，旧式的多神教信仰已经被禁止。"
+    },
+    {
+        "text": "This_village_and_the_surrounding_lands_belong_to_you.",
+        "translation": "这村庄和附近的土地属于你。"
+    },
+    {
+        "text": "You_remember_that_this_village_and_the_surrounding_lands_belong_to_{s7}.",
+        "translation": "你记得这村子和周围的土地属于{s7}。"
+    },
+    {
+        "text": "These_lands_belong_to_no_one.",
+        "translation": "这些土地不属于任何人。"
+    },
+    {
+        "text": "The_village_is_infested_by_{reg8}_{s35}.",
+        "translation": "这个村庄受到{reg8}名{s35}的袭扰。"
+    },
+    {
+        "text": "The_village_has_been_pillaged._A_handful_of_souls_scatter_as_you_pass_through_the_burnt_out_houses.",
+        "translation": "村庄遭到了掠夺。当你经过那些烧焦的房屋的时候，无数冤魂萦绕不散……"
+    },
+    {
+        "text": "The_village_is_being_raided.",
+        "translation": "村庄受到了袭击。"
+    },
+    {
+        "text": "{s10}_{s12}^{s11}{s6}{s7}{s15}",
+        "translation": "{s10}{s12}^{s11}{s6}{s7}{s15}"
+    },
+    {
+        "text": "No_one_here_seems_to_be_willing_to_join_your_party.",
+        "translation": "这里好像没有人想加入你的部队。"
+    },
+    {
+        "text": "Try_as_you_might,_you_could_not_defeat_the_bandits._Infuriated,_they_raze_the_village_to_the_ground_to_punish_the_peasants,_and_then_leave_the_burning_wasteland_behind_to_find_greener_pastures_to_plunder.",
+        "translation": "不论你怎么努力，你都没有能打败这些强盗。强盗们十分生气地烧毁了村子来报复那些农民，然后离开这个烧焦的地方去寻找别的地方进行掠夺。"
+    },
+    {
+        "text": "castle",
+        "translation": "城堡"
+    },
+    {
+        "text": "The_{s17}_has_no_improvements.",
+        "translation": "{s17}没有升级的设施。"
+    },
+    {
+        "text": "The_{s17}_has_the_following_improvements:_{s18}.",
+        "translation": "{s17}拥有以下设施：{s18}。"
+    },
+    {
+        "text": "_(Christian_riots_could_cause:_{reg33}_relations_drop)",
+        "translation": "(基督徒暴乱：将会失去{reg33}好感)"
+    },
+    {
+        "text": "_(Pagan_riots_could_cause:_{reg33}_relations_drop)",
+        "translation": "(多神教徒暴乱：将会失去{reg33}好感)"
+    },
+    {
+        "text": "Your_enemies_beat_you_down_and_leave_you_for_dead.",
+        "translation": "你的敌人击倒了你，将你丢在战场上，静静等待死亡的降临……"
+    },
+    {
+        "text": "You_have_fallen._Your_enemies_quickly_search_your_body_for_every_coin_they_can_find,_then_vanish_into_the_night._They_have_left_you_alive,_if_only_barely.",
+        "translation": "你被击倒了。你的敌人马上搜寻了你的包裹，然后消失在了茫茫夜色中。但他们没想到你虽然奄奄一息，但还活着。"
+    },
+    {
+        "text": "Luckily,_some_of_your_companions_come_to_search_for_you_when_you_do_not_return_and_find_you_lying_by_the_side_of_the_road._They_hurry_you_to_safety_and_dress_your_wounds.",
+        "translation": "很幸运的是，你的一些同伴发现你没有回来就出来寻找你，并且发现你躺在路边。他们急忙把你抬带安全的地方并为你包扎伤口。"
+    },
+    {
+        "text": "Luckily,_some_passing_townspeople_find_you_lying_by_the_side_of_the_road_and_recognise_you_as_something_other_than_a_simple_beggar._They_carry_you_to_the_nearest_inn_and_dress_your_wounds.",
+        "translation": "很幸运的是，一些路过的镇民发现你躺在路边上，他们差点就把你当成乞丐了。他们把你抬到最近的旅馆里并为你包扎伤口。"
+    },
+    {
+        "text": "Going_through_the_bandits'_purses,_you_discover_a_dirty_torn_piece_of_vellum_with_the_word_'kill'_and_a_portion_of_your_name_still_visible._Turning_the_vellum_over,_you_see_the_scribbles_'Meet_me_in_{s3}.'",
+        "translation": "翻了翻土匪的钱包，你发现一块肮脏的破的牛皮纸与“杀死”，你的名字的一部分仍然可见。翻看另一面，你发现了'在{s3}和我会面。'"
+    },
+    {
+        "text": "Your_efforts_prove_successful,_and_some_people_have_changed_their_beliefs.",
+        "translation": "你的努力被证明是成功的，有些人已经改变了他们的信仰。"
+    },
+    {
+        "text": "Your_efforts_to_convert_people_have_failed_miserably.",
+        "translation": "你的努力是失败的。"
+    },
+    {
+        "text": "You_fail_to_steal_any_cattle.",
+        "translation": "你没能偷到一头牛。"
+    },
+    {
+        "text": "You_drive_away_{reg17}_head_of_cattle_from_the_village's_herd.",
+        "translation": "你从这个村庄的牛圈里赶走了{reg17}头牛。"
+    },
+    {
+        "text": "People_aren't_very_happy_with_your_presence_in_their_home.",
+        "translation": "人们对于你在他们地盘上的所作所为感到很不开心。"
+    },
+    {
+        "text": "^This_town_is_a_bastion_of_your_faith.",
+        "translation": "^这座城市是你信仰的堡垒。"
+    },
+    {
+        "text": "_As_you_reach_the_settlement,_you_are_greeted_by_your_men.^{s15}",
+        "translation": "当你到达这个地方的时候，你受到了你手下的人的欢迎。^{s15}"
+    },
+    {
+        "text": "{s11}^{s15}",
+        "translation": "{s11}^{s15}"
+    },
+    {
+        "text": "_As_you_reach_the_settlement,_you_are_greeted_by_men_loyal_to_{s7}.^{s15}",
+        "translation": "当你到达这个地方的时候，你受到了{s7}手下的人的欢迎。^{s15}"
+    },
+    {
+        "text": "_This_fort_seems_to_belong_to_no_one.^{s15}",
+        "translation": "这座堡垒似乎不属于任何人。^{s15}"
+    },
+    {
+        "text": "You_are_greeted_by_men_loyal_to_you.^{s15}",
+        "translation": "你受到了你手下的欢迎。^{s15}"
+    },
+    {
+        "text": "You_are_greeted_by_men_loyal_to_{s7}.^{s15}",
+        "translation": "你受到了{s7}手底下的人的欢迎。^{s15}"
+    },
+    {
+        "text": "_This_town_seems_to_belong_to_no_one.^{s15}",
+        "translation": "这座城市似乎不属于任何人。^{s15}"
+    },
+    {
+        "text": "_You_have_successfully_sneaked_in.",
+        "translation": "你成功潜入了。"
+    },
+    {
+        "text": "{s13}_A_tournament_will_be_held_here_soon.",
+        "translation": "{s13}一场比赛马上要开始了。"
+    },
+    {
+        "text": "{s10}_{s14}^{s11}{s12}{s13}",
+        "translation": "{s10}{s14}^{s11}{s12}{s13}"
+    },
+    {
+        "text": "An_expensive_horse_is_awarded_to_you_for_your_victory.",
+        "translation": "你获得了一匹昂贵的坐骑作为对你获胜的奖赏。"
+    },
+    {
+        "text": "A_fat_cow_is_awarded_to_you_for_your_victory.",
+        "translation": "你获得了一头肥壮的牛作为对你获胜的奖赏。"
+    },
+    {
+        "text": "You_are_given_a_beautiful_shirt_of_mail_adorned_with_a_pelt,_as_befits_a_mighty_warlord.",
+        "translation": "你获赠一件漂亮的毛皮装饰盔甲，它配得上你作为一位强大的首领的身份。"
+    },
+    {
+        "text": "They_give_you_a_fine_sword,_worthy_of_a_noble.",
+        "translation": "他们赠与你一柄贵族使用的剑作为对你的奖赏。"
+    },
+    {
+        "text": "They_appreciate_your_participation_in_the_competition_and_place_a_wreath_of_laurel_on_your_head.",
+        "translation": "他们很感谢你参加了比赛，他们给你戴上了光荣的花环。"
+    },
+    {
+        "text": "Moreover,_you_earn_{reg8}_peningas_from_the_clever_bets_you_placed_on_yourself...",
+        "translation": "另外，你聪明地在自己身上下了注，获得了{reg8}先令的回报。"
+    },
+    {
+        "text": "Victory_is_yours!_You_have_won_this_melee,_but_now_you_must_prepare_yourself_for_the_next_round._",
+        "translation": "你赢了！你在这场混战中获胜了，但是你得准备好进入下一轮比赛。"
+    },
+    {
+        "text": "You_have_been_bested_in_this_melee,_but_the_master_of_ceremonies_gives_special_recognition_to_your_skill_and_bravery,_allowing_you_to_take_part_in_the_next_round._",
+        "translation": "你在混战中被打败了，但是竞技场老板相当认可你的技能和勇气，允许你进入下一轮比赛。"
+    },
+    {
+        "text": "You_were_beaten._The_peasants_are_heartened_by_their_success,_but_the_lesson_you_wanted_to_teach_them_probably_didn't_get_through...",
+        "translation": "你被打败了，这些农民被他们的胜利所鼓舞，但是你想教给他们的东西他们可能没有真正掌握……"
+    },
+    {
+        "text": "After_beating_your_last_opponent,_you_explain_to_the_peasants_how_to_defend_themselves_better_against_such_an_attack._You_hope_that_they_will_take_the_experience_to_heart_and_be_better_prepared_next_time.",
+        "translation": "在你击倒最后一个对手后，你向这些农民解释怎样更好地防御这样的一击。希望他们能接受这些经验，下次能提前做好准备。"
+    },
+    {
+        "text": "The_bandits_are_broken!_Those_few_who_remain_alive_and_conscious_run_off_with_their_tails_between_their_legs,_terrified_of_the_peasants_and_their_new_champion.",
+        "translation": "这些强盗被打败了！那些还活着的和意识还清醒的都夹着尾巴逃跑了，他们惧怕这些农民和他们的新教官。"
+    },
+    {
+        "text": "Can't_merge_both_fleets_because_your_sea-king_skill_isn't_high_enough.",
+        "translation": "不能合并舰队，因为你的提督技能不够高"
+    },
+    {
+        "text": "Can't_merge_both_fleets_because_this_would_exceed_the_fleet_limit_of_seven_ships.",
+        "translation": "不能合并舰队，因为这将超过七艘舰队的限制。"
+    },
+    {
+        "text": "Fleets_merged.",
+        "translation": "舰队合并。"
+    },
+    {
+        "text": "The_trader_you_are_escorting_does_not_want_to_use_a_ferry.",
+        "translation": "你护送的商队不能使用渡轮"
+    },
+    {
+        "text": "The_ferry_station_is_too_small_and_can't_transport_a_marshal_and_his_whole_army.",
+        "translation": "轮渡站太小，不能运输领主和他的整个军队。"
+    },
+    {
+        "text": "You_can't_enter_the_port_because_you_are_not_welcome_in_this_town.",
+        "translation": "你不能进入这个港口，因为你在这里不受欢迎。"
+    },
+    {
+        "text": "You_can't_enter_the_port_because_you_are_not_welcome_in_this_town._Moreover,_this_town_can't_be_attacked_from_its_sea_side.",
+        "translation": "你不能进入这个港口，因为你在这里不受欢迎，而且你也无法从海上对这座城市发起攻击。"
+    },
+    {
+        "text": "You_can't_enter_the_port._You_already_have_a_fleet_in_the_port_and_your_sea-king_skill_isn't_high_enough_to_merge_both_fleets.",
+        "translation": "你不能进入这个港口。你在这个港口里已经有了一支舰队，而且你的提督技能不足够驾驭舰队合并之后船只的数目。"
+    },
+    {
+        "text": "You_can't_enter_the_port._You_already_have_a_fleet_in_the_port_and_you_can't_merge_both_fleets_because_this_would_exceed_the_fleet_limit_of_seven_ships.",
+        "translation": "你不能进入这个港口。你在这个港口里已经有了一支舰队，并且由于合计数目超过了7艘，你不能将这两支舰队合并。"
+    },
+    {
+        "text": "You_already_have_a_fleet_in_the_port._Do_you_want_to_merge_both_fleets?",
+        "translation": "你在这个港口里已经有了一支船队，你想将这两支船队合并吗？"
+    },
+    {
+        "text": "Unfortunately,_{reg3?You_are:{s1}_is}_unable_to_find_any_trade_goods_that_would_bring_a_profit.",
+        "translation": "不幸的是，{reg3?你:{s1}}找不到可以带来利润的贸易商品。"
+    },
+    {
+        "text": "^Buying_{s4}_here_and_selling_it_at_{s5}_would_bring_a_profit_of_{reg6}_peningas_per_item.{s3}",
+        "translation": "^在这里购进{s4}并在{s5}卖出的话，每一件商品可以为你带来{reg6}先令的利润。{s3}"
+    },
+    {
+        "text": "{reg3?You_find:{s1}_finds}_out_the_following:^{s3}",
+        "translation": "{reg3?你:{s1}}找到下列物品：^{s3}"
+    },
+    {
+        "text": "{s2}^{reg1}_{s1}_earned_{reg0}_experience.",
+        "translation": "{s2}^{reg1}个{s1}获得{reg0}点经验。"
+    },
+    {
+        "text": "{s2}^{s1}_earned_an_additional_{reg0}_experience.",
+        "translation": "{s2}^{s1}获得了{reg0}点额外的经验。"
+    },
+    {
+        "text": "^You_earned_{reg0}_experience.{s2}",
+        "translation": "^你获得了{reg0}点经验。{s2}"
+    },
+    {
+        "text": "The_training_didn't_go_well_at_all.",
+        "translation": "训练进行得很糟糕。"
+    },
+    {
+        "text": "The_training_didn't_go_very_well.",
+        "translation": "训练进行得不太好。"
+    },
+    {
+        "text": "The_training_went_quite_well.",
+        "translation": "训练进行得很好。"
+    },
+    {
+        "text": "The_training_went_very_well.",
+        "translation": "训练进行得非常好。"
+    },
+    {
+        "text": "The_training_went_perfectly.",
+        "translation": "训练进行得很完美。"
+    },
+    {
+        "text": "You_fall_on_the_ground_with_multiple_injuries._Each_time_your_heart_beats_more_slowly_and_your_vision_fades_away..._This_battle_was_too_much_for_you,_and_death_rides_to_meet_you.^^While_life_escapes,_you_hope_that_someone_will_just_remember_that_there_was_once_someone_special_called_{playername}.",
+        "translation": "你带着浑身的伤口，倒在地上——心脏越跳越慢，视线渐渐模糊。你在战斗中失败了，死亡正缓缓而来。^^在生命消逝之际，你只是希望有人会记得，曾经有一个叫做{playername}的人。"
+    },
+    {
+        "text": "After_losing_the_sea_battle,_you_manage_to_escape_with_one_of_your_ships.",
+        "translation": "海战失败之后，你趴在浮木上漂了好久，经过的渔民们将你带回了附近的村庄。你失去了你所有的船只和士兵。"
+    },
+    {
+        "text": "Your_enemies_take_you_prisoner.",
+        "translation": "你被敌人俘虏了。"
+    },
+    {
+        "text": "{s13}_asked_you_to_report_to_him_with_at_least_{reg13}_troops.",
+        "translation": "{s13}要你带着至少{reg13}人去向他报告。"
+    },
+    {
+        "text": "{s13}_ordered_you_to_join_the_assault_against_{s14}.",
+        "translation": "{s13}命令你参加对{s14}的攻击。"
+    },
+    {
+        "text": "Kingdom_Fails_to_Respond:_The_{s1}_has_not_responded_to_the_{s2}'s_provocations,_and_{s3}_suffers_a_loss_of_face_among_{reg4?her:his}_more_bellicose_subjects...",
+        "translation": "王国没有反应：{s1}没有回应{s2}的挑衅。并且{s3}将会丢面子。{reg4?她:他}更加好战...."
+    },
+    {
+        "text": "There_has_been_an_alleged_border_incident:_{s9}",
+        "translation": "有涉嫌边境事件：{s9}"
+    },
+    {
+        "text": "There_has_been_an_alleged_border_incident:_the_people_of_the_{s4}_are_considering_war_against_the_{s3}.",
+        "translation": "发生了一起所谓的国境纷争，{s4}的人正考虑发动对{s3}的战争。"
+    },
+    {
+        "text": "Border_incident:_Word_reaches_you_that_{s9}._Though_you_don't_know_whether_or_not_the_rumors_are_true,_you_do_know_one_thing_--_this_seemingly_minor_incident_has_raised_passions_among_the_people_of_the_{s4},_making_it_easier_for_them_to_go_to_war_against_the_{s3}...",
+        "translation": "边境事件：消息送达到你{s9}。虽然你不知道是否谣言是真的，你知道一件事——这个看似微小的事件引发了{s4}，的人民之间的激情，让他们更容易去对抗{s3}..."
+    },
+    {
+        "text": "The_great_lords_of_your_kingdom_plan_to_gather_at_the_great_hall_of_{s15}_in_{s10}_for_a_feast",
+        "translation": "你国的大领主，计划为{s15}在{s10}的大厅举办一场盛宴。"
+    },
+    {
+        "text": "^{s64}^",
+        "translation": "^{s64}^"
+    },
+    {
+        "text": "^^Note_that_as_long_as_you_remain_marshal,_the_lords_of_the_realm_will_be_expecting_you_to_lead_them_on_campaign._So,_if_you_are_awaiting_a_feast,_either_for_a_wedding_or_for_other_purposes,_you_may_wish_to_resign_the_marshalship_by_speaking_to_your_liege.",
+        "translation": "^^记住只要你还是元帅，领主们就会希望你能领导他们取得战役的胜利。所以，如果你期待一场宴会，不管是为了庆祝婚礼还是别的什么，你或许需要和你向君主请求辞去你的元帅职位。"
+    },
+    {
+        "text": "Strange..._You've_been_asleep,_but_you_can't_remember_any_nightmares._What_you_remember_clearly_are_Viking_warriors_boarding_the_Woden_Ric,_plunging_their_weapons_into_the_bodies_of_the_captain_and_sailors,_and_Bodo,_the_Cantabrian,_defending_himself_like_a_lion_until_cornered._You_hear_his_words_in_your_consciousness,_'{playername}!_Fight!_I_am_yet_with_you!'^^You_remember_the_death_--_your_death_--_when_your_enemies_fell_upon_you._You_still_feel_the_wooden_floor_of_the_boat_smash_into_your_cheek_before_you_could_hardly_breathe_a_goodbye_to_the_world._Your_eyes_met_your_mother's,_just_before_the_end,_as_a_huge_Viking,_dressed_in_iron_--_could_he_be_Sven?_--_cracked_her_head_with_his_spear_and_threw_her_body_to_the_side.^^You_crawled,_leaving_a_trail_of_blood,_preferring_to_give_your_body_to_the_fish,_but_you_remember_no_more.^^Are_you_dead?_But_if_you're_dead,_why_do_you_feel_the_sore_muscles_of_your_body,_or_the_heat_from_a_nearby_fire?_How_is_it_that_you_can_clench_your_hands,_open_your_eyes_and_distinguish_the_beams_of_a_roof_over_you?^^And_if_you're_alive,_who_has_saved_you,_why_and_how?",
+        "translation": "奇怪，你不是睡着了吗，但是你记不得你做了什么梦。你唯一记得清楚的是维京战士们登上了沃登里克号，把武器刺进了船长和水手们的身体……哦，还有博多，那个坎塔布里亚人，战斗起来就像一只走投无路的雄狮，你还清醒的时候他好像在说：“{playername}！战斗！我与你共进退！”^^你记得死亡——你的死亡，当你在敌人的面前倒下的时候。在你向这个世界告别之前，你还能感觉到船上的木板狠狠地撞在你脸上的疼痛。你看见了你的母亲，就在一切终结之前，一个身形硕大的维京人，穿着铁甲——他会是斯温吗？——击碎了她的头，并把她的尸体抛到一边。^^你慢慢往前蠕动，身后留下一串血迹，宁可拿自己去喂鱼，但你什么都不记得了。^^你死了吗？但如果你死了，为什么你能感觉到身上肌肉的酸痛。或者火炉发出的温暖？为什么你能紧紧攥着拳头，张开双眼并且看到房顶上透出的光亮？^^如果你还活着，那么是谁救了你，为什么？"
+    },
+    {
+        "text": "It_is_night,_and_the_monastery_seems_quiet.",
+        "translation": "现在是晚上，修道院笼罩在平静的氛围里。"
+    },
+    {
+        "text": "The_monks_bless_you,_and_you_continue_on_your_way.",
+        "translation": "僧侣们为你祈祷，你继续踏上了你的旅途。"
+    },
+    {
+        "text": "You_don't_have_enough_silver._How_embarrassing!",
+        "translation": "你的钱不够，多么尴尬！"
+    },
+    {
+        "text": "You_need_to_have_more_men_for_this.",
+        "translation": "想要做这个的话，你需要更多的人手。"
+    },
+    {
+        "text": "It_is_night,_and_the_hof_seems_quiet.",
+        "translation": "现在是晚上，霍夫看起来似乎挺安静。"
+    },
+    {
+        "text": "The_gothi_has_sacrificed_animals_to_appease_the_gods_on_your_behalf.",
+        "translation": "gothi牺牲了动物为了你的利益来安抚众神。"
+    },
+    {
+        "text": "You_are_now_a_pagan,_a_follower_of_Odin_and_the_other_Norse_gods.",
+        "translation": "你现在是一名多神教徒，奥丁与诺尔斯众神的追随者。"
+    },
+    {
+        "text": "The_majority_of_your_troops_is_Pagan_and_supports_your_action.",
+        "translation": "你队伍中的大部分人是多神教徒，他们支持你的举动。"
+    },
+    {
+        "text": "The_majority_of_your_troops_is_Christian_and_hates_your_action.",
+        "translation": "你队伍中的大部分人是基督徒，他们憎恶你的行为。"
+    },
+    {
+        "text": "In_the_arms_of_the_dead_abbot,_your_men_find_'The_Cathach_of_Colum_Cille.'",
+        "translation": "在死去的修道院院长的怀抱里，你的人找到了“科伦希尔之经”。"
+    },
+    {
+        "text": "The_majority_of_your_troops_are_Christian_and_support_your_action.",
+        "translation": "大部分你的部队都是基督教并且支持你的行动。"
+    },
+    {
+        "text": "The_majority_of_your_troops_are_pagan_and_hate_your_action.",
+        "translation": "大部分你的部队都是多神教徒，讨厌你的行动。"
+    },
+    {
+        "text": "{s3}_is_in_danger._Save_the_village_from_Sven_Bull_Neck's_assault,_before_the_village_is_destroyed!_You_will_need_a_good_number_of_troops_to_repel_the_Viking_attack!",
+        "translation": "{s3}有危险！在这个村庄被摧毁之前，从牛颈斯温的袭击中拯救它！你需要足够多的士兵来抵挡维京人的攻击！"
+    },
+    {
+        "text": "Return_to_{s3}_and_interrogate_the_prisoner.",
+        "translation": "回到{s3}审问犯人。"
+    },
+    {
+        "text": "Return_when_you_have_fifty-five_or_fewer_men_in_your_party.",
+        "translation": "当你部队人数少于55人时再回来复命。"
+    },
+    {
+        "text": "You_have_saved_{s3}._Perhaps_now_is_a_good_time_to_ask_{s9}_about_his_involvement_with_Sven.",
+        "translation": "你拯救了{s3}，或许现在是问问{s9}关于他和斯温的关系的好时机。"
+    },
+    {
+        "text": "{s9}_did_not_come_to_the_aid_of_{s3}._Thonkrik_suspects_that_the_jarl_is_in_an_alliance_with_Sven_Bull_Neck._Maybe_it's_time_to_talk_to_him,_or_you_can_go_directly_to_the_king_to_tell_him_about_{s9}'s_betrayal.",
+        "translation": "{s9}并没有前来援助{s3}。索里克怀疑雅尔是牛颈斯温的同谋，是时候和他谈谈了，或者你也可以直接去找国王，告知他{s9}的背叛。"
+    },
+    {
+        "text": "Loot_Thiaderd's_camp.",
+        "translation": "洗劫泰德的营地。"
+    },
+    {
+        "text": "Ahead,_in_a_small_camp,_there_are_some_women_and_children,_the_families_of_the_rebels._They_look_scared,_not_knowing_where_to_flee.^^Among_these_people_are_the_wife_and_son_of_Thiaderd._It_is_a_difficult_choice._Maybe_they_will_seek_revenge_in_the_future,_but_they_aren't_warriors.",
+        "translation": "前方有一个小营地，那儿有女人和小孩——叛军的妻子和孩子。他们看起来很恐惧，不知道该往哪儿跑。^^这些人当中有泰德的妻子和孩子。这真是一个困难的选择，或许他们在将来会寻求复仇，但他们不是战士。"
+    },
+    {
+        "text": "A_small_camp_stands_next_to_a_river._You_see_women_and_children_between_the_cottages,_watching_warily._A_number_of_men,_few_in_number_but_with_an_aggressive_demeanor,_come_to_meet_you._A_very_tall_man_leads_them.",
+        "translation": "河边有一个小营地，你可以看见村舍间的女人和孩子。一伙男人——人数很少，但是十分咄咄逼人——前来和你面谈。一个个子很高的人领导着他们。"
+    },
+    {
+        "text": "Note_2:_You_chose_to_kill_Thiaderd's_wife_and_son.",
+        "translation": "笔记2：你选择杀死泰德的妻子和孩子。"
+    },
+    {
+        "text": "Thiaderd_is_dead._You've_accomplished_your_mission.",
+        "translation": "泰德死了，你完成了任务。"
+    },
+    {
+        "text": "Note_2:_You_chose_to_respect_the_life_of_Thiaderd's_wife_and_son.",
+        "translation": "笔记2：你选择尊重泰德的妻子和儿子的生命。"
+    },
+    {
+        "text": "Note_2:_You_chose_to_leave_Thiaderd's_wife_and_son_alive.",
+        "translation": "笔记2：你选择留着泰德的妻子和儿子的性命。"
+    },
+    {
+        "text": "You_need_room_for_at_least_one_more_member_in_your_army_to_continue!",
+        "translation": "你的部队需要至少一个空格以容纳新成员。"
+    },
+    {
+        "text": "^^In_the_middle_of_the_fort,_you_see_some_prisoners_prepared_for_sale._Could_your_mother_be_among_them?",
+        "translation": "^^在要塞的空地中，你看到一群奴隶正在被出售，你的母亲也在其中么？"
+    },
+    {
+        "text": "Note_2:_In_Sven's_hideout,_you_found_Bodo,_one_of_the_travelers_from_the_Woden_Ric._Thanks_to_Bodo,_you_learn_the_fate_of_Woden_Ric_after_the_Viking_attack._Your_mother_is_still_alive,_thanks_to_the_item_Bodo_gave_her,_but_the_item_made_her_very_valuable_to_the_Vikings.",
+        "translation": "笔记2：在斯温的藏身处，你找到了博多，沃登里克号上的旅行者之一。通过博多，你知道了维京人袭击之后，沃登里克号上幸存者的下落。你的母亲现在还活着，多亏了博多塞给她那个东西，那个东西使得她对于维京人来说非常重要。"
+    },
+    {
+        "text": "Return_when_you_have_thirty_or_fewer_men_in_your_party.",
+        "translation": "当你的部队人数少于25人时回来复命。"
+    },
+    {
+        "text": "You_think_of_Thora,_who_visits_you_every_night,_a_beautiful_woman_who_could_give_you_many_children.",
+        "translation": "你想起了索拉，那个每天晚上来找你的女人，这个漂亮的女孩或许可以给你生很多很多孩子。"
+    },
+    {
+        "text": "You_think_of_Thora,_who_visits_Egil_every_night._She_is_a_beautiful_woman_protected_by_her_father._She_does_not_have_to_worry_about_anything_other_than_being_happy.",
+        "translation": "你想起了索拉，那个每晚来找埃吉尔的女人。她是她父亲的掌上明珠，她无忧无虑，不需要担心任何事情。"
+    },
+    {
+        "text": "You_think_of_Thora,_a_beautiful_woman_protected_by_her_father._She_does_not_have_to_worry_about_anything_other_than_being_happy.",
+        "translation": "你想起了索拉。她是她父亲的掌上明珠，她无忧无虑，不需要担心任何事情。"
+    },
+    {
+        "text": "One_of_the_greatest_battles_known_between_West_Seaxe_and_the_Danes_was_fought_here._You_have_memories_of_that_day,_because_you_took_part_in_it.",
+        "translation": "西撒克逊和丹麦人之间最著名的几场战斗中的一场，就是在这里爆发的。你肯定记得那一天的事情，因为你参加过那次战斗。"
+    },
+    {
+        "text": "This_place,_destroyed_by_your_men,_is_nothing_but_ash_and_rubble.",
+        "translation": "这个地方已被你的人摧毁，除了碎石和灰尘之外，一无所遗。"
+    },
+    {
+        "text": "Garrison:_{reg5}_(limit:_{reg0})^^_Having_your_men_garrison_the_refuge,_like_for_castles_and_cities,_allows_them_to_rest_away_from_the_dangers_of_road_and_battle_and_reduces_their_maintenance_cost.",
+        "translation": "驻军：{reg5}(极限：{reg0})^^你的队伍在避难所里就如同在城堡和城市一样能够得到休息，远离行军路途中的危险，远离厮杀。他们的维护费用也会减少。"
+    },
+    {
+        "text": "You_need_to_hire_a_cook_first.",
+        "translation": "你需要先雇佣一个厨师。"
+    },
+    {
+        "text": "It_is_night,_and_your_refuge_seems_quiet,_with_some_men_watching_while_others_are_asleep.",
+        "translation": "晚上了，你的避难所看起来一切安好，在其他人睡觉的时候也有人在警戒。"
+    },
+    {
+        "text": "Your_garrison_size_exceeds_the_maximum_allowed_number_of_soldiers_that_can_be_stationed_at_your_refuge._This_will_produce_discontent_among_men_and_desertions!",
+        "translation": "你的驻军规模超过了庇护所最大允许的数量，这会导致你的士兵不满及开小差！"
+    },
+    {
+        "text": "Garrison_limit:_{reg0}",
+        "translation": "驻军上限：{reg0}"
+    },
+    {
+        "text": "The_ramshackle_prison_at_your_refuge_is_not_very_secure._Your_captain_suggests_not_to_keep_lords_here!",
+        "translation": "避难所里面的破旧监狱很不安全。你的队长建议你不要把领主关押在这里。"
+    },
+    {
+        "text": "You_do_not_have_enough_money_to_pay_men_to_demolish_your_refuge.",
+        "translation": "你付不起雇人拆毁避难所的钱。"
+    },
+    {
+        "text": "Refuge_demolished!",
+        "translation": "避难所被拆毁了！"
+    },
+    {
+        "text": "Your_men_think_you've_done_an_honorable_thing_by_paying_for_Egil's_funeral_expenses,_despite_that_he_turned_against_you.",
+        "translation": "你的手下对你以德报怨、花钱安排埃吉尔葬礼的行为表示赞许。"
+    },
+    {
+        "text": "Note_Egil:_Egil_turned_against_you_when_you_decided_to_give_the_letter_to_West_Seaxe._He_attacked_you,_and_you_had_to_kill_him._As_he_was_loved_by_all,_you_decided_to_pay_for_and_attend_his_funeral.",
+        "translation": "埃吉尔的笔记：在你决定把信件交给西撒克逊后，埃吉尔背叛了你。他攻击了你，你无奈之下只得杀了他。因为他深受大家的喜爱，所以你决定花钱安排他的葬礼。"
+    },
+    {
+        "text": "Your_men_think_you've_done_an_honorable_thing_by_paying_for_Egil's_funeral_expenses,_despite_how_he_turned_against_you.",
+        "translation": "在埃吉尔这么背叛你后，你还能花钱安排他的葬礼。你的人对此表示赞许。"
+    },
+    {
+        "text": "Message",
+        "translation": "Message信息"
+    },
+    {
+        "text": "Your_men_cry_for_Egil's_betrayal,_and_they_mourn_his_death._Many_of_them_liked_him;_some_would_have_liked_him_as_a_leader.",
+        "translation": "你的人为埃吉尔的背叛感到悲痛，他们悼念他的死亡。许多人爱戴他，有些人甚至把他当做领袖一样来爱戴。"
+    },
+    {
+        "text": "Note_Egil:_Egil_turned_against_you_when_you_decided_to_give_the_letter_to_West_Seaxe._He_attacked_you,_and_you_had_to_kill_him._You_let_your_men_bury_him.",
+        "translation": "埃吉尔的笔记：在你决定把信件交给西撒克逊后，埃吉尔背叛了你。他攻击了你，你无奈之下只得杀了他。你让你的人把他埋了。"
+    },
+    {
+        "text": "Your_men_cry_for_Egil's_death,_but_they_obey_your_orders._Now_they_think_you're_a_tough_leader_who_does_not_forgive_traitors.",
+        "translation": "你的人为埃吉尔的死感到悲痛，但是他们遵循了你的命令。现在他们开始把你看作是不轻饶叛徒的铁腕领袖了。"
+    },
+    {
+        "text": "Note_Egil:_Egil_turned_against_you_when_you_decided_to_give_the_letter_to_West_Seaxe._He_attacked_you,_and_you_had_to_kill_him._You_didn't_even_let_your_men_bury_him.",
+        "translation": "埃吉尔的笔记：在你决定把信件交给西撒克逊后，埃吉尔背叛了你。他攻击了你，你无奈之下只得杀了他。你甚至不准你的人埋葬他。"
+    },
+    {
+        "text": "Shortly_after_landing,_as_if_he_had_been_watching_you,_a_messenger_appears_riding_towards_you._You_notice_the_dark_circles_under_his_eyes,_as_if_he_went_days_without_sleeping,_and_his_horse_seems_to_be_on_the_verge_of_exhaustion._Finally,_he_takes_a_breath_and_exclaims:^^",
+        "translation": "在登陆不久后，一个盯了你很久的信使骑马向你走来。你注意到了他的黑眼圈，就像是好几天没睡了一样，他的马看起来就要撑不住了。终于，他吸了一口气并大声说：^^"
+    },
+    {
+        "text": "{s4}'{playername},_my_jarl,_Rathbarth_Ragnarsson,_has_dispatched_messengers_to_find_you_after_merchants_brought_news_that_you_had_left_Frankia_for_Englaland._He_wants_you_to_join_his_brother_Halfdan_in_Readingum,_as_he_is_leading_a_final_assault_on_West_Seaxe._We_advanced_from_East_Engle_with_a_great_army_and_set_up_a_fortified_camp_at_Readingum._We_plundered_the_area,_but_Aethelred_and_Aelfred_gathered_the_fyrd_in_Witan_Ceaster_and_attacked_us._Luckily,_they_were_repelled.^^Now_the_king_of_West_Seaxe,_assisted_by_his_brother_Aelfred,_has_retreated_west,_to_Aescesdun,_where_they_gather_a_huge_army_to_fight_us._Your_help_is_needed,_as_Halfdan_wants_to_go_against_them_before_they_get_more_men._We_fear_that_this_will_be_the_mother_of_all_battles!_If_we_win,_West_Seaxe_will_be_ours!^^Jarl_Rathbarth_told_me_especially_to_mention_that_Sven_Bull_Neck_is_with_Aelfred_and_fights_in_his_army.'",
+        "translation": "{s4}“{playername}，我的主人拉弗伯斯·拉格纳逊在听商人说你离开法兰克前往英国后，就派出信使来找你了。他想让你加入他弟兄哈弗丹在雷丁镇的部队，他正在那里指挥对西撒克逊的最后突击。我们从东盎格鲁带着一支大军前进，在雷丁镇建立了强化营地，我们洗劫了那块区域。但是阿尔弗雷德和艾弗德调集了维坦要塞的民兵来攻打我们。幸运的是他们被击退了。^^现在西撒克逊的国王在他弟弟艾弗德的帮助下西撤到了阿先顿，他们在那里又聚集了一支大军准备打我们。因为哈弗丹想在他们聚集到更多人之前和他们交战，所以我们需要你的帮助。恐怕这只是一系列战斗的开始！只要我们赢了，西撒克逊就是我们的了！^^拉弗伯斯主人告诉我要特别提醒你一下，牛颈斯温就在艾弗德的部队里头。”"
+    },
+    {
+        "text": "{s4}'{playername},_my_ealdorman,_Aelfred_Aethelwulfing,_has_dispatched_messengers_to_find_you_after_merchants_brought_news_that_you_had_left_Frankia_for_Englaland._He_wants_you_to_join_him_as_soon_as_possible._He_is_moving_around_the_kingdom_to_gather_an_army_as_the_Danish_advance_against_West_Seaxe.^^They_advanced_from_East_Engle_with_a_great_army_and_set_up_a_fortified_camp_at_Readingum,_from_where_they_plundered_the_area._Our_king,_Aethelred,_and_Aelfred_gathered_the_Fyrd_in_Witan_Ceaster_and_attacked_the_Danish_in_Readingum,_but_they_were_repelled._Now_they_are_in_Aescesdun_gathering_men_and_preparing_to_face_the_Danish_again!_God_protect_us,_we_will_go_against_the_Danish_with_the_entire_fyrd!_If_this_fails,_West_Seaxe_will_be_lost_with_the_rest_of_Englaland!^^Ealdorman_Aelfred_told_me_especially_to_mention_that_Sven_Bull_Neck_is_with_Halfdan_and_fights_in_his_army.'",
+        "translation": "{s4}“{playername}，我的郡长艾弗德·埃塞尔沃夫在听商人说你离开法兰克前往英国后，就派出信使来找你了。他想让你尽快加入他的队伍。因为丹麦人在向西撒克逊进军，所以他在王国周围召集军队。^^他们从西盎格鲁带着一支大军前进，在雷丁镇建立了强化营地，并且洗劫了那里。我们的国王阿尔弗雷德和艾弗德调集了维坦要塞的民兵去攻打在雷丁镇的丹麦人，但是他们击退了我们。现在他们在阿先顿聚集军队准备再去打丹麦人！愿上帝保佑我们，我们会动用所有民兵去对抗丹麦人！如果我们输了，西撒克逊就会和英格兰剩下的地方一样失陷了！^^郡长艾弗德告诉我要特别提醒你一下，牛颈斯温就在哈弗丹的队伍里头。”"
+    },
+    {
+        "text": "You_met_Orm_the_Black_in_single_combat_and_killed_him.",
+        "translation": "你与黑人奥姆决斗并且杀了他。"
+    },
+    {
+        "text": "Your_party_has_gained_morale.",
+        "translation": "你的部队士气增加了。"
+    },
+    {
+        "text": "You_met_{s1}_in_single_combat_and_won.",
+        "translation": "你与{s1}决斗并且赢了。"
+    },
+    {
+        "text": "This_warrior",
+        "translation": "这个战士"
+    },
+    {
+        "text": "The_enemy_party_has_lost_morale.",
+        "translation": "敌人的部队丧失了士气。"
+    },
+    {
+        "text": "You_met_{s1}_in_single_combat_and_lost.",
+        "translation": "你与{s1}决斗，但是输了。"
+    },
+    {
+        "text": "Your_party_has_lost_morale.",
+        "translation": "你的部队士气低落。"
+    },
+    {
+        "text": "The_low_morale_of_your_army_has_led_some_men_to_conspire_against_you._One_of_your_warriors_committed_the_imprudence_of_talking_too_much_while_you_could_hear_him._Feeling_exposed,_the_warrior_has_insulted_you_publicly_and_has_challenged_you_to_a_duel_for_leadership..._A_duel_to_the_death.",
+        "translation": "由于你的部队士气低落，一些人企图推翻你的领导。其中一名战士不小心说漏了嘴，你听到了这些。事情暴露以后，战士们公开辱骂你，向你提出决斗挑战，希望借此夺权……一场关乎生死的决斗。"
+    },
+    {
+        "text": "The_problems_of_morale_of_your_army_have_moved_one_of_your_warriors_to_propose_himself_a_candidate_to_replace_you._He_has_challenged_you_to_a_duel_to_the_death...",
+        "translation": "你部队中的士气问题导致一名战士准备自己取代你的位置。他向你提出死亡决斗挑战。"
+    },
+    {
+        "text": "Morale_is_so_low,_a_warrior_insults_you_when_you_go_near_him,_accusing_you_of_being_a_bad_leader._Then_he_challenges_you_to_a_duel._The_victor_occupies_your_post.",
+        "translation": "士气过于低下，一个战士在你走近他的时候侮辱了你，指责你不是个称职的领袖。然后他向你发起决斗。胜者将取代你现在的位置。"
+    },
+    {
+        "text": "The_Assembly_has_taken_up_your_case._You_must_quickly_go_to_the_assembly_near_{s3},_lest_they_decide_against_you.",
+        "translation": "议事会接受了你的案件。你必须尽快赶去{s3}附近的议事会，以免他们决定对抗你。"
+    },
+    {
+        "text": "Note_Reginhard:_Reginhard_betrayed_you_before_the_Assembly,_and_you_had_to_kill_him_in_a_holmgang_decreed_by_the_Assembly.",
+        "translation": "雷因哈德的笔记：雷因哈德在议事会上背叛了你，因此你不得不在一场由议事会主持的决斗中杀了他。最后你将埃吉尔赶走了，因为他的他的傲慢和不敬冒犯了你。"
+    },
+    {
+        "text": "Note_Egil:_Reginhard_betrayed_you_before_the_Assembly,_but_you_forgave_him._However,_Egil_did_not_accept_your_decision,_and_you_had_to_kill_him_in_a_holmgang_by_the_laws_of_the_Assembly.",
+        "translation": "埃吉尔的笔记：雷因哈德在议事会上背叛了你，但你饶了他一命。不管怎样，埃吉尔并不认同你的做法。因此你不得不在一场你死我活的决斗中杀死了他。^你原谅了雷因哈德的背叛行为，并让他继续留在你的团队。"
+    },
+    {
+        "text": "The_holmgang_is_over._It's_time_to_meet_Asbjorn_in_{s3}.",
+        "translation": "决斗结束了。是时候去{s3}见见阿斯比恩了。"
+    },
+    {
+        "text": "Before_you_left_for_your_trip_to_Frankia,_someone_sent_a_messenger_to_inform_you_that_someone_will_meet_you_at_a_place_called_Boar_Grove,_near_{s3}._There_you_must_find_the_house_of_the_lumberjack.",
+        "translation": "在你离去前往法兰克之前，有人派信使告诉你他会在一个叫野猪林的地方与你会面，就在{s3}的修道院附近。你得在那里找到伐木工的屋子。"
+    },
+    {
+        "text": "Through_the_trees,_you_can_barely_see_a_hut._The_trees_sough_gently_in_the_wind,_and_some_birds_sing,_but_you_see_no_one.",
+        "translation": "树林之中你勉强看到了一间小屋。树林在风的吹动下发出平柔的飒飒声，鸟儿也在吟唱，但你不见一人。"
+    },
+    {
+        "text": "Through_the_trees,_you_can_barely_see_the_hut,_now_empty,_where_you_met_Beda.",
+        "translation": "树林之中你勉强看到了一间小屋，这是你和贝达会面的地方，现在这里空无一人。"
+    },
+    {
+        "text": "You_arrive_at_a_deep_forest.",
+        "translation": "你到了森林深处。"
+    },
+    {
+        "text": "Through_the_trees,_you_can_barely_see_the_hut,_now_abandoned_since_you_killed_the_old_hero_who_once_lived_in_it.",
+        "translation": "树林之中你勉强看到了一间小屋。在你杀了住在这里的老英雄之后，这里成为无主之地了。"
+    },
+    {
+        "text": "You_stay_hidden,_watching_the_camp_from_afar_and_avoiding_Saxon_lookouts_and_patrols.",
+        "translation": "你保持隐蔽，观察着远处的营地，躲避撒克逊人的警戒和巡逻。"
+    },
+    {
+        "text": "You_stay_hidden,_watching_the_camp_from_afar_and_avoiding_Danish_lookouts_and_patrols.",
+        "translation": "你保持隐蔽，观察着远处的营地，躲避丹麦人的警戒和巡逻。"
+    },
+    {
+        "text": "Aelfred_gives_the_order,_and_horns_call_men_outside_the_camp._You_follow_the_brother_of_the_king_of_West_Seaxe_outside,_where_his_men_have_formed_the_ranks._They_are_led_by_officers_and_waiting.^^There_is_a_tense_silence_filled_with_nerves_and_worry._The_Saxon_warriors_know_that_the_fate_of_West_Seaxe_hangs_by_a_thread._If_they_fall_defeated,_nothing_will_keep_the_Danish_from_plundering_their_houses_and_enslaving_their_families.",
+        "translation": "艾弗德发出了命令，号角声召集了营地外的人们。你在外面跟着西撒克逊国王的兄弟，他的兵士组成了线阵。军官领着他们就位。^^这儿如死一般的寂静，沉寂之中弥漫着紧张和担忧。撒克逊战士知道西撒克逊的命运悬于一线。一旦他们失败了，丹麦人就会势如破竹，洗劫他们的家园，奴役他们的家人。"
+    },
+    {
+        "text": "Halfdan_gives_the_order,_and_horns_call_men_outside_the_camp._You_follow_Ragnar's_son_outside,_where_his_men_have_formed_ranks._They_are_led_by_officers_and_waiting.^^The_Danish_warriors_are_animated_and_some_even_joke,_motivated_by_the_recent_victory_over_their_enemies,_but_all_voices_fall_silent_when_Halfdan_arrives_before_them.",
+        "translation": "哈弗丹发出了命令，号角声召集了营地外的人们。你在外面跟着拉格纳之子，他的兵士组成了线阵。军官领着他们就位。^^丹麦战士一个个生龙活虎，有的甚至开起了玩笑，他们为近期的胜利所激励。但是当哈弗丹到了他们面前时，一切归于沉寂。"
+    },
+    {
+        "text": "West_Seaxe",
+        "translation": "西撒克逊人"
+    },
+    {
+        "text": "Danish",
+        "translation": "丹麦人"
+    },
+    {
+        "text": "You_notice_that_Aelfred_is_coming_towards_you._It_was_he_who_saved_the_day_with_his_charge_when_the_Danish_tried_to_gain_the_hill._Without_that_improvisation,_probably_you_would_all_be_dead_now...",
+        "translation": "你注意到艾弗德朝你走来。当丹麦人企图占领山丘时，是他的冲锋挽回了局势。如果不是这点，恐怕你现在已经是一具死尸了……"
+    },
+    {
+        "text": "Halfdan_walks_towards_you._You_see_him_covered_in_blood,_but_he_is_smiling._He_knows_that_without_you_and_your_army,_he_would_have_lost_that_battle.",
+        "translation": "哈弗丹朝你走来。你看到他全身都是血，但他仍笑着。他知道如果没有你和你的军队，他可能会输了那场战斗。"
+    },
+    {
+        "text": "Your_followers_decided_to_leave_you.",
+        "translation": "你的追随者决定离开你。"
+    },
+    {
+        "text": "You_chose_to_disperse_your_followers.",
+        "translation": "你决定解散你的追随者。"
+    },
+    {
+        "text": "You_notice_that_a_group_of_men_approaching_you._It_is_led_by_a_tall_man._This_must_be_Eadric,_the_man_mentioned_by_Aelfred.",
+        "translation": "你注意到一群人朝你走来。为首的是一个高个子。那一定就是艾弗德提到过的艾德里克了。"
+    },
+    {
+        "text": "You_notice_that_a_group_of_men_approaching_you._It_is_led_by_a_tall_man._This_must_be_Arnvid,_the_man_mentioned_by_Halfdan.",
+        "translation": "你注意到一群人朝你走来。为首的是一个高个子。那一定就是哈弗丹提到过的安维德了。"
+    },
+    {
+        "text": "You_aren't_ready_to_face_Sven._Return_when_you_have_over_one_hundred_men_in_your_shield_wall.",
+        "translation": "你没有准备好面对斯温。撤退时，有超过一百人在你的盾墙中。"
+    },
+    {
+        "text": "The_abbot_of_Finian,_near_{s3}_in_Eriu,_has_asked_for_your_presence._Apparently,_he_has_an_important_mission_to_offer._He_is_offering_1000_peningas_just_for_you_to_appear_in_front_of_him.",
+        "translation": "菲尼安修道院的神父，埃里尤附近的{s3}，请求你的会面。很显然，他有一个重要的任务需要你帮忙。只要你出现在他面前，就会给你1000先令。"
+    },
+    {
+        "text": "The_other_two_champions_have_followed_Morrigan_to_her_lair_and_sent_a_messenger_to_inform_you_where_they_are._They_await_your_arrival_before_attacking._The_moment_is_here_to_go_to_Morrigan's_lair.",
+        "translation": "另外两个护卫跟随莫莉卡到她的巢穴并且派信使告诉你他们在哪里。他们在攻击前等待你的到来。马上去莫莉卡的巢穴。"
+    },
+    {
+        "text": "Near_the_end_of_the_world,_where_the_waves_beat_the_cliffs_and_the_albatrosses_nest,_there_is_a_little_rough_valley,_barely_visible_from_a_distance._A_cave_is_hidden_there._You_cannot_control_it;_Morrigan_song_resonates_in_your_head,_and_you_feel_your_lips_move_to_it._It_breathes_magic...^^Far_from_the_cave,_half_hidden_by_rocks,_you_can_distinguish_the_two_champions_with_a_few_men._They_seem_to_have_left_the_bulk_of_their_army_hidden_elsewhere_to_avoid_attracting_attention._They_wait.^^But_when_you_take_a_step_toward_them,_the_song_intensifies._This_time,_it_is_not_in_your_mind..._Morrigan's_beasts_attack_you!",
+        "translation": "在世界的尽头，海浪拍打着峭壁和信天翁的巢，有一个小山谷，从远处隐约可见。有一个隐藏的山洞，你找不到它;莫莉卡的歌在你的脑海中产生了共鸣，你觉得你的嘴唇在张开。它在呼吸魔法…^^在洞穴不远处有一半被岩石挡住，你可以区分出两个护卫和一些士兵，他们似乎已经离开他们的军队隐藏在别的地方，以免吸引注意力。他们在等待。^^但当你靠近他们的时候，歌声更加嘹亮，不是在你的脑海里....莫莉卡的野兽开始攻击你了！"
+    },
+    {
+        "text": "The_battle_was_tough_and_pushed_you_near_the_valley._Your_men_stayed_behind,_protecting_the_rear,_because_they_realized_numbers_are_useless_in_the_narrow_valley._It_is_time_to_seek_the_support_of_the_other_champions_and_move_towards_Morrigan_before_her_forces_reorganize.",
+        "translation": "这场战斗是艰难的，把你逼向附近的山谷。你的士兵留下来作为掩护。因为他们意识到在狭窄的山谷里是发挥不了人数优势的。在莫莉卡部队重组之前，是时候寻求另一个领主的支持了。"
+    },
+    {
+        "text": "The_mystery_of_Morrigan_having_been_solved,_it_seems_that_the_fog_dissipates_and_the_world_regains_its_colors._You_leave_behind_the_cave_and_the_terror.",
+        "translation": "神秘的莫莉卡已经被解决了，雾看起来开始消散了，世界又恢复了原来的样貌。你离开了洞穴。"
+    },
+    {
+        "text": "Mael_Bresail's_farm_is_the_typical_Irish_farmhouse_--_a_large_main_house_with_smaller_buildings_about_it,_all_surrounded_by_a_palisade.",
+        "translation": "普雷西尔王子的农场主要是典型的爱尔兰农舍——一个大房子周围有很多小的建筑，所有建筑都用栅栏包围。"
+    },
+    {
+        "text": "You_settle_into_the_seat_of_honor_in_the_great_hall_of_the_house._The_best_mead_and_wine_brought_from_Frankia_are_at_your_disposal._The_tastiest_dishes_fill_the_room_with_their_aroma_and_delight_your_palate._It_is_one_of_the_best_symbels_you've_ever_enjoyed._Your_men_have_fun,_looking_happy._The_hours_pass_without_you_noticing.^^Suddenly,_you_realize_that_all_the_women_have_left_the_room._What_is_happening?_A_burning_smell_irritates_your_nostrils._When_you_investigate_its_origin,_you_see_fire_in_the_walls_of_the_house._Someone_yells,_'Fire!'_The_alarm_is_raised,_but_when_one_of_your_men_rushes_to_the_entrance,_he_finds_the_door_barred_from_outside.^^Mael_Bresail_has_betrayed_you_and_tries_to_burn_you_inside._If_you_do_not_hurry_to_find_a_way_out,_everyone_will_die_soon,_suffocated_by_smoke_and_burned_by_fire.",
+        "translation": "你坐在大厅的最荣耀之处。来自弗朗基最好的蜜酒和葡萄酒，美味的菜肴，让房间充满香味，取悦你的味蕾。这是你此生最享受的时刻，你的士兵也很享受，他们看起来很快乐。^^忽然，你意识到所有的女人都离开了房间，发生了什么？强烈的烟味刺激着你的鼻子，你在房子的墙上看到了火。有人大喊，“着火了！”。警报已经响起，但当你的一个士兵跑向门口时却发现门被反锁了。^^普雷西尔王子已经出卖了你，他要烧死你。如果你不马上找到出路，大家都得完蛋，令人窒息的烟雾和熊熊燃烧的大火。"
+    },
+    {
+        "text": "You_have_managed_to_escape_the_fire_trap_set_by_Mael_Bresail_to_kill_you,_but_it_seems_that_you're_not_safe_yet...",
+        "translation": "你虽逃过普雷西尔王子设的火陷阱，但你仍然不够安全…"
+    },
+    {
+        "text": "Mael_Bresail_had_betrayed_you,_but_you_escaped_from_the_flames_of_his_hall_and_defeated_the_men_who_had_wanted_to_kill_you._Now,_this_site_only_brings_bad_memories_to_mind.",
+        "translation": "普雷西尔王子背叛了你，但你逃离了他的火焰大厅，击败了想要杀你的人。现在，这个地方只会带来不好的回忆。"
+    },
+    {
+        "text": "Part_of_your_food_was_destroyed.",
+        "translation": "你的部分食物坏掉了。"
+    },
+    {
+        "text": "Your_men_think_that_you_are_a_strong_leader.",
+        "translation": "你的手下认为你是个强力的领导者。"
+    },
+    {
+        "text": "While_your_messengers_try_to_negotiate_with_the_enemy_raiders,_a_squad_of_your_men_appears_by_chance,_and_a_battle_begins._Your_men_manage_to_destroy_the_looters_and_fix_the_problem,_but_at_the_cost_of_some_lives.^^Your_casualties:_{s8}^^Enemy_casualties:_{s10}",
+        "translation": "当你的信使试图和敌人的突袭队交涉时，你的一队人马碰巧出现了，一场战斗开始了。你的士兵试图消灭突袭者从而解决问题，但代价是失去了一些战士。"
+    },
+    {
+        "text": "The_enemy_raiders_accept_the_deal,_take_the_money,_and_promise_not_to_attack_your_supplies_for_some_weeks.",
+        "translation": "敌人的突袭队接受了交易，拿走了钱并承诺在接下来几周内不会攻击你的补给队。"
+    },
+    {
+        "text": "The_raiders_take_the_money,_kill_the_messengers,_and_continue_to_damage_your_supply_routes.",
+        "translation": "敌人的突袭队收下了钱，却杀死了信使，继续骚扰你的补给线。"
+    },
+    {
+        "text": "You_don't_have_enough_silver._You_order_water_to_be_rationed_and_wells_to_be_dug.",
+        "translation": "你没有足够的钱。你命令定量配给水，同时挖井。"
+    },
+    {
+        "text": "the_enemy_thinks_reinforcements_will_soon_arrive.",
+        "translation": "敌人认为增援马上就要到了。"
+    },
+    {
+        "text": "fear_and_discontent_are_spreading_inside.",
+        "translation": "里面弥漫着恐惧和不满。"
+    },
+    {
+        "text": "he_likes_the_wife_of_his_former_master,_and_he_will_fight_by_your_side_if_you_give_her_to_him_after_the_conquest.",
+        "translation": "他喜欢他前任主人的妻子，如果你承诺在战胜后把她交给他，他就会为你作战。"
+    },
+    {
+        "text": "the_enemy's_morale_is_low,_and_we_should_attack.",
+        "translation": "敌人士气低落，我们应该进攻了。"
+    },
+    {
+        "text": "wergild_is_paid.",
+        "translation": "赎金已付。"
+    },
+    {
+        "text": "The_wergild_is_paid_and_your_warrior_whipped.",
+        "translation": "赎金已付，你的战士精神焕发。"
+    },
+    {
+        "text": "Your_men_think_you're_heartless_and_fear_you.",
+        "translation": "你的人觉得你没有良心，并感到害怕。"
+    },
+    {
+        "text": "You_feel_happy.",
+        "translation": "你感到快乐。"
+    },
+    {
+        "text": "You_feel_good_for_helping.",
+        "translation": "帮助别人让你感觉良好。"
+    },
+    {
+        "text": "New_troops_join_your_party.",
+        "translation": "新的士兵加入了你的队伍。"
+    },
+    {
+        "text": "The_bandits_leave,_angry.",
+        "translation": "土匪气愤地离开了。"
+    },
+    {
+        "text": "Your_men_kill_all_the_bandits.",
+        "translation": "你的士兵杀了所有匪徒。"
+    },
+    {
+        "text": "At_night,_some_of_your_men_make_off_with_happy_widows.",
+        "translation": "你的一些士兵在晚上和妓女一起私奔了。"
+    },
+    {
+        "text": "Your_enemies_appreciate_your_pity._Perhaps_this_will_help_you_when_you_negotiate_their_surrender.",
+        "translation": "你的敌人欣赏你的怜悯之举。也许这会对你协商他们的投降事宜会有帮助。"
+    },
+    {
+        "text": "You_know_that_in_the_coming_days,_dozens_of_children,_women_and_elderly_will_die_before_your_eyes,_languishing_from_hunger.",
+        "translation": "你知道接下来的日子无数孩子、女人、老人都会因饥饿而死在你面前。"
+    },
+    {
+        "text": "Your_officer_seems_upset.",
+        "translation": "你的官员看起来有些沮丧。"
+    },
+    {
+        "text": "Your_men_think_that_you_are_a_very_strong_leader.",
+        "translation": "你的人认为你是个强力的领导者。"
+    },
+    {
+        "text": "Your_officer_seems_happy.",
+        "translation": "你的官员看起来挺高兴。"
+    },
+    {
+        "text": "The_wife_is_pregnant,_and_the_officer_asks_for_a_high_compensation._To_avoid_rumors_and_problems,_you_pay.",
+        "translation": "这个女人是个孕妇，官员请求高额赔偿，这样就可以免除谣言和麻烦，你照做了。"
+    },
+    {
+        "text": "{s1}_of_the_{s2}.",
+        "translation": "{s2}的{s1}"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._Your_proposal_has_been_accepted_and_{s10}_has_been_released_from_captivity.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。你的建议被{s11}接受了，而且{s10}已经被释放了。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._Your_proposal_was_not_accepted_and_{s10}_will_remain_captive._Here_you_have_your_money_back.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。你的建议没有被{s11}接受，而{s10}依然在俘虏中。你的赎金被退还了。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_will_meet_you_and_will_follow_you_as_soon_as_possible.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}将会尽快与你会合并跟随你的队伍。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_says_you're_not_the_one_to_give_orders.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}说你不是对他发号施令的人。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_says_that_it_would_hardly_be_proper_as_you_don't_have_authority_for_it.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}说此事不妥，你无权发号施令。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_has_better_things_to_do_than_follow_your_orders.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}有要事在身，不能听从你的命令。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_is_busy_and_cannot_follow_orders_at_this_time.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}有要事在身，不能听从你的命令。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_will_go_to_{s10}_as_soon_as_possible.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}会尽快赶到{s10}驻扎。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message.:_{s9}_will_go_patrol_around_{s10}_as_soon_as_possible.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}会尽快赶到{s10}附近巡逻。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_will_go_patrol_around_{s10}_as_soon_as_possible.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}会尽快赶到{s10}附近巡逻。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_will_go_to_besiege_{s10}_as_soon_as_possible.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}会尽快包围{s10}。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_says_you're_not_one_to_give_orders.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}说你不是对他发号施令的人。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_says_that_would_hardly_be_proper_as_you_don't_have_authority_for_it.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}说此事不妥，你无权发号施令。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_was_busy_and_did_not_receive_me._His_men_threatened_to_kill_me_if_I_insisted.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}正在忙碌没有回复我。他的手下拿着武器赶我离开。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_is_surprised_by_your_insult,_especially_when_there_was_no_enmity_between_you._He_says_that_he_will_ignore_it_this_time,_but_do_not_provoke_him_again.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}因你的侮辱而吃惊，特别是你们两人之间并无龃龉。他说这次可以忽略不计，请勿再犯。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_was_greatly_angered_by_your_insult,_falling_fully_under_the_provocation_of_your_challenge._He_called_his_men_to_arms,_and_I_think_he_will_advance_against_you.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}被你的侮辱所震惊，正火冒三丈。他在集结人马，我想他很快就会朝你进军。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_has_not_fallen_for_your_provocation._He_answered_to_not_waste_more_of_his_time.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}对你的挑衅不为所动。他不希望浪费自己的时间在你身上。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_has_not_fallen_for_your_provocation,_but_he_has_retaliated_with_insults_difficult_to_repeat_but_all_very_descriptive._And_he_said_that_if_you_had_a_problem_for_which_you_had_the_courage_to_look_for_him,_he_would_love_to_teach_you_some_manners.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}对你的挑衅不为所动，但他向你回敬了一段文绉绉的言辞。他还说如果你缺乏直接面对他的勇气，他很乐意给你一点帮助。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_was_busy_and_did_not_receive_me._However,_his_men_took_the_gift_and_divided_it_among_themselves,_threatening_to_kill_me_if_I_insisted_on_delivering_your_message.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}正在忙碌没有回复我。然而，他的手下瓜分了你送去的礼物，并威胁说如果我坚持传达信息，就要取我性命。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_thanks_you_for_your_gift,_and_says_he_will_make_the_next_feast_in_your_honor.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}对你的礼物十分感谢，并会以你名义举行下一次的盛宴。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_took_your_gift_and_gave_it_to_his_men,_saying_it_is_the_tribute_of_a_coward._His_response_was_that_he_would_be_your_enemy_forever._Nothing_can_change_that_after_everything_that_has_happened_between_the_two_of_you.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}拿过你的礼物并交给了他的手下，说这是一个懦夫的贡品。他的回复是由于你们之间的过节，他将是你永远的敌人。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_is_encouraged_to_know_you_have_an_interest_in_resolving_the_differences_and_bad_relations_between_you._Although_still_there_are_many_things_to_resolve,_this_is_a_good_start,_and_he_accepts_your_gift.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}对你有意改善关系的表现感到鼓舞。即使还有许多尚待解决的问题，但这是一个好开始，他接受了你的礼物。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_did_not_accept_the_gift,_but_his_men_took_me_where_I_was_going._Sorry,_I_lost_the_treasure.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}并没有接受礼物，但他的手下在我回来时截住我了。抱歉，我丢了那些礼物。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_did_not_want_to_meet_me,_saying_he_was_busy_and_does_not_like_to_discuss_these_things_with_a_lowly_messenger.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}没有接见我，并说他很忙，也不愿意跟我这样的卑微信使见面。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_accepts_your_alliance_proposal._From_now_on,_{s2}_is_your_ally.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}接受了你的结盟提议。从现在开始，{s2}就是你的盟友了。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_accepts_your_truce_proposal._From_now_on,_{s2}_and_you_are_at_peace.'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}接受了你的停战协议。从现在开始，{s2}与你暂时保持和平。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_did_not_appear_surprised_by_your_declaration_of_war_because_you_are_scum_whom_nobody_can_trust.^^From_now_on,_you_are_at_war_with_{s2}'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}对你的宣战并不感到意外，说这是因为你是一个不可相信的渣滓。^^从现在开始，{s2}与你处于敌对状态。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_was_very_offended_by_your_desire_to_provoke_a_war_and_promises_to_send_messengers_everywhere_to_publicize_your_villainy.^^From_now_on,_you_are_at_war_with_{s2}'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}被你挑起战争的意欲激怒了，并发誓要将你的恶行广而告之。^^从现在开始，{s2}与你处于敌对状态。”"
+    },
+    {
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'I_have_returned_with_the_answer_to_your_message._{s9}_was_very_offended_by_your_war_declaration._He_called_you_treacherous_rat_and_said_you_would_pay_dearly.^^From_now_on,_you_are_at_war_with_{s2}'",
+        "translation": "一名信使疾驰而来。他停在你面前，深呼吸一口气喊道：^^“给你的回信来了。{s9}被你的宣战激怒了。他称你为无耻小人，并说你将恶有恶报。^^从现在开始，{s2}与你处于敌对状态。”"
+    },
+    {
+        "text": "The_other_man_is_not_very_happy_and_criticizes_you_when_you_leave,_generating_unfavorable_rumors.",
+        "translation": "另一个人很不高兴，并在你离开后大发牢骚，散布对你不利的谣言。"
+    },
+    {
+        "text": "Neither_man_is_happy_or_unhappy._You_seem_to_have_found_a_balance.",
+        "translation": "没有人显得高兴或不高兴。你好像达到了一种平衡。"
+    },
+    {
+        "text": "The_two_men_are_not_very_happy_and_criticize_you_when_you_leave,_generating_unfavorable_rumors.",
+        "translation": "这两个人很不高兴，并在你离开后大发牢骚，散布对你不利的谣言。"
+    },
+    {
+        "text": "People_in_{s4}_think_that_you_will_not_guarantee_their_families'_protection_against_those_who_abuse_their_power_under_your_favor._Rumors_spread_that_you_are_a_bad_{reg59?lady:lord}.",
+        "translation": "在{s4}的人们认为你难以履行保护他们家人免遭暴力威胁的承诺。传言说你是一个不合格的{reg59?女士:领主}。"
+    },
+    {
+        "text": "People_in_{s4}_think_that_you_will_not_guarantee_their_families'_protection_because_the_messenger_will_not_be_punished._Rumors_spread_that_you_are_unjust.",
+        "translation": "在{s4}的人们认为你难以履行保护他们家人的承诺，因为那名信使未被惩罚。传言说你是不义之人。"
+    },
+    {
+        "text": "People_in_{s4}_think_that_you_will_not_guarantee_their_families'_protection_because_the_messenger_will_not_be_punished,_but_at_least_their_fellow_citizen_will_not_be_punished._However,_your_men_are_not_happy_with_your_generosity_to_a_man_who_attacked_someone_under_your_protection.",
+        "translation": "在{s4}的人们认为你难以履行保护他们家人的承诺，因为那名信使未被惩罚，但至少他们自己的同胞也没有被惩罚。尽管如此，你的手下对你的慷概大度并不理解。"
+    },
+    {
+        "text": "People_in_{s4}_think_that_you_will_guarantee_their_families'_protection,_and_they_seem_happy._However,_you_men_are_not_happy_that_you_will_kill_their_companion.",
+        "translation": "在{s4}的人们认为你能够履行保护他们家人的承诺，他们看来很高兴。尽管如此，你的手下对你即将杀死自己同伴的决定并不高兴。"
+    },
+    {
+        "text": "The_local_leader_is_upset_with_you_and_talks_bad_about_you_to_the_elites_of_{s4}.",
+        "translation": "当地的首领对你感到失望，并向{s4}的上层人物说你的坏话。"
+    },
+    {
+        "text": "People_in_{s4}_are_surprised_by_your_drastic_measures,_and_everyone_seems_more_willing_to_follow_your_rules.",
+        "translation": "在{s4}的人们对你的严厉措施感到意外，而且每个人看来都更愿意听从你的规则。"
+    },
+    {
+        "text": "Farmers_in_{s4}_are_concerned_about_their_daughters_as_you_favor_the_powerful_who_take_advantage_of_their_weakness.",
+        "translation": "在{s4}的农民们对自己的女儿更加着紧，因为你恃强凌弱的表现。"
+    },
+    {
+        "text": "Farmers_in_{s4}_are_reassured_when_you_pay,_while_the_local_leader_is_happy_not_to_be_punished.",
+        "translation": "在{s4}的农民们在你付账之后消除了疑虑，通识当地首领对自己不被惩罚感到高兴。"
+    },
+    {
+        "text": "The_outcome_of_the_trial_has_seriously_shaken_the_people_of_{s4}_and_has_called_into_question_your_authority.",
+        "translation": "在{s4}的人们被审判的结果极大的震惊了，而且他们开始质疑你的权力。"
+    },
+    {
+        "text": "Your_men_think_you're_a_weak_leader_who_is_easily_manipulated.",
+        "translation": "你的手下认为你是一个软弱的领导，容易受人操纵。"
+    },
+    {
+        "text": "Your_men_seem_uncomfortable,_and_some_of_them_leave_you._You_should_try_to_improve_morale_of_the_rest_soon.",
+        "translation": "你的手下看来很不舒服，有一些人离开了你。你应该尽快提升余下部队的士气。"
+    },
+    {
+        "text": "Your_men_seem_uncomfortable,_but_no_one_says_a_word._It_looks_like_you_got_a_little_more_respect,_but_should_strive_to_improve_their_morale.",
+        "translation": "你的手下看来很不舒服，但没有人口出怨言。看来你拥有相当的威望，但应该尽力提升士气。"
+    },
+    {
+        "text": "Your_men_seem_uncomfortable._You_should_try_to_improve_morale_of_the_rest_soon.",
+        "translation": "你的手下看起来不太舒服，你应该在下次休息时尽快提高士气。"
+    },
+    {
+        "text": "Eventually_the_man_dies_in_torment_while_your_soldiers_try_to_force_him_to_pay_his_taxes._His_last_words_were,_'Boys,_beyond,_where_you_are,_I_am_coming.'_The_city_is_shocked_by_his_death,_and_many_people_complain_about_you_in_{s4}.",
+        "translation": "你的士兵为了逼迫这个人缴税，最终将他折磨致死。他的遗言是：“我在天国的孩子啊，你们在哪里，我要来了。”整个城市因他的死亡而震动，许多在{s4}的人们对你大发牢骚。"
+    },
+    {
+        "text": "The_man_seems_calmed_by_your_words._You_see_in_his_eyes_an_infinite_sadness,_but_he_promises_to_pay_his_taxes_in_the_memory_of_his_boys.",
+        "translation": "这个男人被你的言辞所说服。你在他的眼中看到了无尽的悲哀，但他承诺会为了自己逝去的孩子们缴纳税款。"
+    },
+    {
+        "text": "Your_renown_with_your_warriors_suffers,_as_does_your_money_bag,_but_the_people_of_{s4}_seem_happy_with_the_money_you_have_given_them.",
+        "translation": "你在手下中的威望以及自己的钱包大大受损，但是在{s4}的人们看来对你的赐予非常高兴。"
+    },
+    {
+        "text": "Your_men_push_the_crowd,_injuring_some._Suddenly,_the_people_turn_against_them,_causing_some_casualties_before_being_dispersed.",
+        "translation": "你的手下推开聚拢的人群，并伤害了其中的一些人。突然之间，人们奋起反抗，并在被驱散前对你的队伍造成了伤亡。"
+    },
+    {
+        "text": "You_run_through_the_back_door_while_the_crowd_calls_you_a_coward_and_miser,_even_as_they_continue_to_beg_for_money.",
+        "translation": "人群还在继续乞求钱财，即使他们也在痛骂你为懦夫和守财奴，这时你从后门溜走了。"
+    },
+    {
+        "text": "People_think_the_measure_is_fair_to_both.",
+        "translation": "人们认为这一措施是合理的．"
+    },
+    {
+        "text": "The_tree_owner_is_not_very_happy_and_criticizes_you_when_you_leave,_generating_unfavorable_rumors.",
+        "translation": "树的主人很不高兴，并在你离开后大发牢骚，散布对你不利的谣言。"
+    },
+    {
+        "text": "The_man_who_cut_the_trees_is_not_very_happy_and_criticizes_you_when_you_leave,_generating_unfavorable_rumors.",
+        "translation": "砍树的人很不高兴，并在你离开后大发牢骚，散布对你不利的谣言。"
+    },
+    {
+        "text": "People_in_{s4}_are_happy_because_you_responded_to_their_needs.",
+        "translation": "在{s4}的人们对你的有求必应而倍感振奋。"
+    },
+    {
+        "text": "People_in_{s4}_are_unhappy_with_you_because_you_don't_respond_to_their_needs.",
+        "translation": "在{s4}的人们很不高兴，因为你没有回应他们的诉求。"
+    },
+    {
+        "text": "People_in_{s4}_appreciate_your_help,_but_were_expecting_more.",
+        "translation": "在{s4}的人们感谢你的帮助，他们还希望得到更多。"
+    },
+    {
+        "text": "Although_the_local_leader_supports_your_position_in_{s4},_your_men_think_it_is_a_disgrace_to_have_the_boy_among_them.",
+        "translation": "尽管你在{s4}得到了当地的首领的支持，你的手下还是认为让那个男孩留下是一件不光彩的事情。"
+    },
+    {
+        "text": "Although_the_local_leader_pays_you_well,_your_men_think_it_is_a_disgrace_to_have_the_boy_among_them.",
+        "translation": "尽管当地首领向你付了一个好价钱，你的手下还是认为让那个男孩留下是一件不光彩的事情。"
+    },
+    {
+        "text": "The_local_leader_leverages_his_position_to_undermine_yours_in_{s4}_as_punishment_for_you_not_accepting_his_son.",
+        "translation": "当地首领利用自己的地位减损了你的影响力，作为对你不接纳他儿子的一种惩罚。"
+    },
+    {
+        "text": "During_the_night,_at_a_fire_ceremony_and_dance,_the_girl_is_burned_as_an_offering_to_the_gods.",
+        "translation": "在晚上欢歌热舞的仪式中，那个女孩被作为对众神的祭品而活活烧死。"
+    },
+    {
+        "text": "People,_superstitious,_are_angry_with_you._Some_time_later,_you_find_out_that_another_girl_was_sacrificed.",
+        "translation": "迷信的人们对你非常愤怒。一段时间后你发现另一个女孩被献祭了。"
+    },
+    {
+        "text": "The_physician_you_send_manages_to_save_some_lives_and_prevent_the_epidemic_from_spreading_to_other_areas.",
+        "translation": "你送去的医师设法挽救了一些人的性命，成功阻止了瘟疫的传播。"
+    },
+    {
+        "text": "The_epidemic_wipes_out_the_population_of_the_village._Although_your_measures_prevented_anyone_from_spreading_the_disease_beyond_{s4},_many_lost_relatives_who_lived_in_the_village._The_rumor_spreads_that_you_are_a_murderer.",
+        "translation": "这场瘟疫吞噬了这座村庄的所有性命。尽管你的措施阻止了瘟疫的向外传播，但是许多人失去了住在当地的亲人。传言说你是一个杀人凶手。"
+    },
+    {
+        "text": "{s4}_is_a_Christian_settlement,_and_everyone_obeys_your_orders_quickly._Somehow_it_seems_that_your_prayers_are_successful_and_the_girl_and_the_child_survive.",
+        "translation": "{s4}是一个信奉基督教的地方，所有人都很快服从了你的命令。不知怎地，你的祈祷看来奏效了，那个女孩和那个孩子都存活下来了。"
+    },
+    {
+        "text": "{s4}_is_a_pagan_settlement,_and_nobody_obeys_your_orders._It_seems_that_your_prayers_weren't_necessary,_for_the_girl_and_the_child_survive.",
+        "translation": "{s4}是一个信奉多神教的地方，没有人服从你的命令。看来你的祈祷是多此一举，因为那个女孩和那个孩子都存活下来了。"
+    },
+    {
+        "text": "{s4}_is_a_Christian_settlement,_and_nobody_obeys_your_orders._It_seems_that_the_wise-woman_wasn't_necessary,_for_the_girl_and_the_child_survive.",
+        "translation": "{s4}是一个信奉基督教的地方，没有人服从你的命令。看来向女神的祈祷多此一举，因为那个女孩和那个孩子都存活下来了。"
+    },
+    {
+        "text": "{s4}_is_a_pagan_settlement,_and_everyone_obeys_your_orders_quickly._Somehow,_it_seems_that_wise-woman's_support_let_the_girl_and_the_child_survive.",
+        "translation": "{s4}是一个信奉多神教的地方，所有人都很快服从了你的命令。不知怎地，看来女神的眷顾让那个女孩和那个孩子都存活下来了。"
+    },
+    {
+        "text": "Your_men_are_happy_that_you_are_concerned_about_their_welfare,_especially_when_they_make_sacrifices_for_you.",
+        "translation": "你对你的手下的福利表现出关注，因此他们都显得高兴，特别是当他们愿意为你而牺牲自己的时候。"
+    },
+    {
+        "text": "The_sum_is_enough_for_the_local_lord_to_fulfill_his_duty,_but_it_is_not_munificent._The_man_is_grateful,_but_not_happy.",
+        "translation": "这笔钱足够让当地的领主履行自己的职责，但是称不上慷慨。他对你表示感谢，但并不十分高兴。"
+    },
+    {
+        "text": "Your_men_are_angry_that_you_do_not_back_a_man_who_spent_his_money_to_serve_you._They_fear_that_your_stinginess_will_affect_them_next.",
+        "translation": "因为你没有支持一个花费自己钱财服务于你的人，你的手下显得愤怒。他们担心你的吝啬将会对自己造成影响。"
+    },
+    {
+        "text": "The_rumor_that_you_refuse_to_buy_the_relic_leads_the_faithful_to_curse_your_name.",
+        "translation": "传言说因为你拒绝购买那件遗物，所以那些信徒在诅咒你的名字。"
+    },
+    {
+        "text": "The_monk_is_removed_from_your_presence,_distressed._In_{s4},_the_inhabitants_are_happy_that_you_respect_their_beliefs.",
+        "translation": "这个僧侣在被赶走时面带愤懑。在{s4}的居民因为你尊重了他们的信仰而感到高兴。"
+    },
+    {
+        "text": "The_relic_causes_a_stir_among_the_faithful,_who_flock_to_see_it_and_praise_your_name_for_its_purchase.",
+        "translation": "这件遗物在信徒之中引起一阵骚动，他们纷纷前来围观，并赞颂你的慷慨。"
+    },
+    {
+        "text": "The_monk_is_happy_to_use_the_relic_to_evangelize_the_pagans_of_{s4}._They,_on_the_other_hand,_curse_your_name.",
+        "translation": "这个僧侣高兴地利用这件遗物，向{s4}的异教徒传教布道。而在另一边，那些信仰多神教的人在诅咒你的名字。"
+    },
+    {
+        "text": "The_rich_woman's_husband,_who_happens_to_be_a_large_landowner_in_{s4},_becomes_very_angry_with_you_and_damages_your_reputation.",
+        "translation": "这个贵妇人的丈夫，刚好是{s4}的一名贵族，他对你非常愤怒，并在破坏你的名声。"
+    },
+    {
+        "text": "The_poor_people_in_{s4}_get_angry_when_you_give_the_child_to_a_rich_woman_without_making_a_sincere_determination.",
+        "translation": "在{s4}的人们对你表示愤懑，因为你将孩子判给贵妇人的决定并非出于公正。"
+    },
+    {
+        "text": "Everyone_in_{s4}_thinks_you've_been_wise_and_just_to_find_the_mother_of_the_child_and_return_the_baby,_while_punishing_the_liar_without_being_influenced_by_her_wealth.",
+        "translation": "在{s4}的所有人都认为你找到了孩子的真正母亲这一举动是明智而正义的，而且你惩罚了那个妄图收买你的骗子。"
+    },
+    {
+        "text": "The_crowd_kills_the_rich_woman._The_rich_woman's_husband,_who_happens_to_be_a_large_landowner_in_{s4},_becomes_very_angry_with_you_and_damages_your_reputation.",
+        "translation": "围观的人群杀死了贵妇人。这个贵妇人的丈夫，刚好是{s4}的一名贵族，他对你非常愤怒，并在破坏你的名声。"
+    },
+    {
+        "text": "The_poor_people_in_{s4}_get_angry_when_you_give_the_child_to_a_rich_woman_without_making_a_sincere_determination._Some_disturbances_ending_in_violence_occur._During_the_fighting,_many_citizens_die_before_retiring,_but_you_also_lose_some_men.",
+        "translation": "在{s4}的穷人们对你表示愤懑，因为你将孩子判给贵妇人的决定并非出于公正。骚乱演变成暴力冲突，许多市民在战斗中被杀死，而你也损失了一些人手。"
+    },
+    {
+        "text": "The_people_of_{s4}_do_not_want_their_children_to_starve_for_your_tax,_and_are_openly_against_you.",
+        "translation": "在{s4}的人们不愿意让自己的孩子因为你的苛捐重税而挨饿，决定公开反对你。"
+    },
+    {
+        "text": "The_people_of_{s4}_are_very_happy_for_your_help_in_hard_times.",
+        "translation": "在{s4}的人们对你的雪中送炭非常感激。"
+    },
+    {
+        "text": "The_people_of_{s4}_are_angry_that_you_don't_care_about_their_problems.",
+        "translation": "在{s4}的人们因为你的铁石心肠而表示愤怒。"
+    },
+    {
+        "text": "The_people_of_{s4}_think_that_this_is_bread_for_today_and_hunger_for_tomorrow,_but_they_understand_that_these_things_happen.",
+        "translation": "在{s4}的人们认为这不过是今天吃饱明天挨饿，但他们觉得这是不可避免的。"
+    },
+    {
+        "text": "The_witch_leaves_the_town_for_an_unknown_destination.",
+        "translation": "女巫离开了，让这座城镇面对未知的命运。"
+    },
+    {
+        "text": "The_witch_appreciates_your_confidence_and_leaves_her_old_job_to_worship_the_old_gods_openly.",
+        "translation": "女巫欣赏你的自信，并让她礼拜旧神的工作公之于众。"
+    },
+    {
+        "text": "The_witch-hunt_costs_some_innocent_lives,_causing_unrest_among_the_population.",
+        "translation": "追捕女巫的行动导致一些无辜的人丧命，让人们感到不安。"
+    },
+    {
+        "text": "{s4}_is_a_Christian_settlement,_so_in_the_end,_your_orders_are_obeyed.",
+        "translation": "{s4}是一个信奉基督教的地方，所以最终你的命令得到了服从。"
+    },
+    {
+        "text": "{s4}_is_a_pagan_settlement,_so_there_is_much_anger_when_the_tree_is_felled.",
+        "translation": "{s4}是一个信奉多神教的地方，所以当这棵树被砍到时你引起了人们的愤怒。"
+    },
+    {
+        "text": "{s4}_is_a_Christian_settlement,_and_the_murder_of_the_missionary_and_his_followers_shocks_the_population._They_are_terrified_of_you.",
+        "translation": "{s4}是一个信奉基督教的地方，杀害传教士和他的随从的行为震动了当地的人们。他们非常惧怕你。"
+    },
+    {
+        "text": "{s4}_is_a_pagan_settlement,_and_the_murder_of_the_missionary_and_his_followers_is_supported._Soon_after,_you_find_out_that_the_missionary_is_canonized_as_Saint_Cuthberh.",
+        "translation": "{s4}是一个信奉多神教的地方，杀害传教士和他的随从的行为得到了当地人的支持。不久之后，你听说那名传教士被追封为圣肯德贝尔。"
+    },
+    {
+        "text": "The_missionary_and_his_followers_leave_{s4},_escorted_by_your_men,_without_much_fuss.",
+        "translation": "传教士和他的随从在你的队伍护卫下离开了{s4}，他们并没有大惊小怪。"
+    },
+    {
+        "text": "Your_men_appreciate_your_concern_for_their_families.",
+        "translation": "你的手下很感激你对他们家人的照顾。"
+    },
+    {
+        "text": "Your_men_are_unhappy_that_you_don't_take_care_of_their_widows.",
+        "translation": "你的手下并不高兴，因为你对他们的家人毫不关心。"
+    },
+    {
+        "text": "Your_men_are_unhappy_that_you_don't_take_care_of_their_widows,_but_understand_you_are_strapped_at_the_moment.",
+        "translation": "你的士兵不高兴因为你不照顾他们的寡妇，但马上他们理解你身无分文。"
+    },
+    {
+        "text": "Your_men_are_upset_that_you_won't_take_care_of_their_widows_if_they_are_killed.",
+        "translation": "你的手下十分沮丧，因为你将不会在他们牺牲后照顾他们的家人。"
+    },
+    {
+        "text": "Your_men_are_happy_to_hear_that_you_care_about_their_families.",
+        "translation": "你的手下倍感安慰，因为你对他们的家人表示关心。"
+    },
+    {
+        "text": "Your_men_are_very_happy_that_you_protect_their_families.",
+        "translation": "你的手下倍感安慰，因为你保护了他们的家人。"
+    },
+    {
+        "text": "Your_followers_feel_that_you_will_protect_them_at_any_cost,_but_the_people_in_{s4}_are_not_very_happy_with_your_decision._They_criticize_you_when_you_leave,_generating_unfavorable_rumors.",
+        "translation": "你的手下认为你将不惜代价保护他们，但在{s4}的人们对你的决定并不高兴。他们在你离开后大发牢骚，散布不利于你的谣言。"
+    },
+    {
+        "text": "Your_followers_feel_that_you_do_not_protect_them_as_they_deserve_for_their_services,_but_the_people_in_{s4}_are_very_happy_with_your_decision._The_rumor_spreads_that_you_are_just.",
+        "translation": "你的手下认为你难以完全保护他们，但在{s4}的人们对你的决定感到满意。传言说你是一个公正的人。"
+    },
+    {
+        "text": "Your_followers_feel_that_you_do_not_protect_them_as_they_deserve_for_their_services._The_people_in_{s4}_are_not_very_happy_with_your_decision._They_criticize_you_when_you_leave,_generating_unfavorable_rumors.",
+        "translation": "你的手下认为你难以完全保护他们，在{s4}的人们对你的决定并不高兴。他们在你离开后大发牢骚，散布不利于你的谣言。"
+    },
+    {
+        "text": "To_arms!_Some_citizens_have_revolted_and_try_to_kill_you!",
+        "translation": "拿起武器！一些市民正要反抗并尝试杀死你！"
+    },
+    {
+        "text": "Your_men_charge_down_the_streets,_using_the_sword_at_the_slightest_provocation,_avenging_their_fallen_fellows._A_bloodbath_ensues_as_the_people_of_{s4}_flee_to_their_homes_to_hide.",
+        "translation": "你的士兵冲向街头，使用最小程度的暴力，为他们倒下的同伴报复。当{s4}的市民们纷纷逃回家中躲藏起来后，一场大屠杀接踵而至。"
+    },
+    {
+        "text": "Your_men_are_very_angry_that_you_have_taken_no_action_against_the_murder_of_their_fellows._Meanwhile,_local_leaders_try_to_quell_the_hatred_against_you_in_{s4}.",
+        "translation": "因为你对杀死自己手下的凶手没有采取行动，所以同伴们都非常愤怒。在{s4}的当地首领试图平复人们对你的仇恨。"
+    },
+    {
+        "text": "Mercilessly_your_men_kill_anyone_that_crosses_their_way,_then_enter_the_houses,_killing_all_men_over_14_years_of_age._The_fame_of_your_cruelty_travels_as_the_wind._Fear_seizes_all_who_talk_about_you._Now_{s4}_is_pacified,_but_the_cost_has_been_very_high.",
+        "translation": "你的士兵无情地杀死所有拦在面前的人，然后闯进民居里，处决所有十四岁以上的男人。你残酷的名声风一般传遍了各地，人们对你噤若寒蝉。现在{s4}成为了一座空城，付出的代价空前高昂。"
+    },
+    {
+        "text": "Your_men_return_with_300_peningas_and_two_survivors.",
+        "translation": "你的士兵带着300先令和两个幸存者回来了。"
+    },
+    {
+        "text": "A_messenger_sent_from_{s12}_arrives_and_gives_you_a_present_of_silver_and_jewelry_in_appreciation_of_your_friendship.",
+        "translation": "一名来自{s12}的使者携着银子和珠宝而来，这是对你的友谊的馈赠。"
+    },
+    {
+        "text": "A_messenger_sent_from_{s12}_arrives_and_gives_you_a_message_with_all_kinds_of_insults_and_profanities,_{s12}_invites_you_to_go_and_look_for_him_if_you_have_guts_which_{s12}_believes_you_don't,_as_you're_a_notorious_coward.",
+        "translation": "一名来自{s12}的信使带着各种侮辱和亵渎而来，请你壮起胆子前来{s12}探访。但{s12}相信你不敢，因为你是一个臭名昭著的懦夫。"
+    },
+    {
+        "text": "Your_fame_grows_with_the_bard's_song,_but_soon_he_replaces_your_name_with_that_of_another_lord_who_pays_him.",
+        "translation": "你的名声随着吟游诗人的颂唱而远扬，但很快他就把你的名字换成另一个出价更高的领主。"
+    },
+    {
+        "text": "Your_fame_grows_higher_with_the_bard_song.",
+        "translation": "你的名声随着吟游诗人的颂唱而远扬。"
+    },
+    {
+        "text": "Beggars_everywhere_bless_your_name_when_you_pass_by_and_celebrate_your_generosity.",
+        "translation": "各地的乞丐在你路过时欢呼着你的名字，并赞颂你的慷慨大方。"
+    },
+    {
+        "text": "Beggars_soon_tire_of_following_you.",
+        "translation": "乞丐们很快就厌倦了跟随你的队伍。"
+    },
+    {
+        "text": "You_laugh_to_see_how_sprightly_these_broken-down_old_fellows_can_actually_run.",
+        "translation": "当看见这些老不死的家伙能跑得多快时，你捧腹大笑。"
+    },
+    {
+        "text": "The_young_noble_prefers_to_flee_rather_than_duel_with_you!",
+        "translation": "年轻的贵族们宁可速速逃离，而不敢与你决斗！"
+    },
+    {
+        "text": "The_word_spreads_that_it_is_easy_to_insult_you_and_diminish_your_reputation!",
+        "translation": "传闻说侮辱你和你的名声简直易如反掌！"
+    },
+    {
+        "text": "The_woman_and_her_husband_are_happy_for_your_generosity!",
+        "translation": "这对夫妻对你的慷慨十分感激！"
+    },
+    {
+        "text": "Other_men_join_in_and_also_leave_to_help_their_families.",
+        "translation": "其他人加入进来，开始帮助他们的家人。"
+    },
+    {
+        "text": "The_rumors_hurt_your_fame_a_little,_but_soon_the_merchant_gets_tired_of_your_lack_of_interest.",
+        "translation": "这些传闻对你的名声略微有损，但很快这个商人已经对此厌倦了。"
+    },
+    {
+        "text": "The_man_accepts_the_money_and_stops_circulating_rumors.",
+        "translation": "这个人收了你的钱财，不再传播谣言了。"
+    },
+    {
+        "text": "A_new_rumor_that_you're_a_murderer_and_a_tyrant_spreads_among_the_population_after_the_death_of_the_merchant!",
+        "translation": "当这个商人死后，有新的传闻说你是一名杀人凶手和暴君。"
+    },
+    {
+        "text": "The_animal_runs_free_without_looking_back.",
+        "translation": "这头动物头也不回地逃跑了。"
+    },
+    {
+        "text": "You_increase_your_meat_reserves.",
+        "translation": "你改善了队伍的伙食。"
+    },
+    {
+        "text": "Three_veterans_join_your_army.",
+        "translation": "三名老兵加入了你的队伍。"
+    },
+    {
+        "text": "The_veterans_leave,_defaming_your_name.",
+        "translation": "这些老兵离开了，并在背后中伤你。"
+    },
+    {
+        "text": "Among_the_bodies,_your_men_find_1000_peningas.",
+        "translation": "在这些尸体身上，你的手下找到了1000先令。"
+    },
+    {
+        "text": "A_group_of_six_women_joins_your_army.",
+        "translation": "这六个女人加入了你的队伍。"
+    },
+    {
+        "text": "The_crane_was_a_symbol_of_war_for_the_ancient_Celts._Your_men_are_impressed_by_your_knowledge_and_grateful_that_the_gods_are_with_them.",
+        "translation": "鹤是古代凯尔特人的战争标志。你的手下对你的博学印象深刻，并因为众神的眷顾而倍感振奋。"
+    },
+    {
+        "text": "Your_men_pass_by_the_bird_without_noticing_it.",
+        "translation": "你的手下路过了这只鸟儿，根本没有注意到它。"
+    },
+    {
+        "text": "The_crane_was_a_symbol_of_war_for_the_ancient_Celts._Your_ignorance_troubles_your_men,_and_they_begin_to_doubt_your_fitness_to_lead.",
+        "translation": "鹤是古代凯尔特人的战争标志。士兵们被你的无知而感到担忧，开始怀疑你是否一名合格的领导者。"
+    },
+    {
+        "text": "Your_men_resent_the_punishment,_but_recognize_your_authority._The_action_sets_a_precedent_for_discipline.",
+        "translation": "你的士兵对你的惩罚感到不满，但他们认可了你的权威。此举成为了纪律的训诫。"
+    },
+    {
+        "text": "Offended_by_your_contempt_for_his_request,_the_farmer_leaves_and_spreads_the_claim_of_your_villainy.",
+        "translation": "因为你对这名农夫的请求不屑一顾，他在离开后四处散布传言说你是一个恶霸。"
+    },
+    {
+        "text": "You_spend_time_with_the_priest's_wife,_and_when_her_husband_returns,_you_escape_to_the_stable_without_being_seen!",
+        "translation": "你与牧师的妻子共度良宵，当她的丈夫回来时，你安全地藏到了马厩！"
+    },
+    {
+        "text": "Three_Hirdmenn_join_your_army!",
+        "translation": "三名佣兵加入了你的队伍！"
+    },
+    {
+        "text": "The_man's_eyes_sadly_follow_you_while_you_go_on_your_way.",
+        "translation": "当你扬长而去时，这个人一直悲哀地看着你。"
+    },
+    {
+        "text": "You_feel_good_for_helping_him.",
+        "translation": "你在帮助了他后感觉良好。"
+    },
+    {
+        "text": "When_you_give_him_armor_and_food,_he_proves_to_be_a_mighty_warrior.",
+        "translation": "当你给他提供了装备和食物后，他向你证明了自己是一名强大的武士。"
+    },
+    {
+        "text": "The_bandits_turn_away,_greatly_disappointed.",
+        "translation": "这些土匪转头离开，满带失望。"
+    },
+    {
+        "text": "After_two_hours,_the_bandits_return_with_some_loot_and_someone's_head...",
+        "translation": "两个小时后，这些土匪带着某人的头颅和战利品回来了…"
+    },
+    {
+        "text": "On_the_remains_of_a_corpse_are_a_sword_and_armor_of_a_king._They_turn_out_to_be_magnificent_weapons,_once_the_rust_is_removed_to_reveal_their_high_quality._Now_they_are_yours_--_if_you_do_not_mind_the_bad_luck_that_attends_grave_robbers.",
+        "translation": "除了这具骨骸，剩下的是一位国王的佩剑和护甲。一旦除去表面的锈蚀，这些都是极佳的装备——只要你不介意背负盗墓贼的坏运气。"
+    },
+    {
+        "text": "Someday,_perhaps,_you_might_have_the_honor_of_being_buried_like_a_king.",
+        "translation": "可能在某一天，你也会像一位国王那样风光大葬。"
+    },
+    {
+        "text": "Meat_is_a_welcome_addition_to_the_diet_of_your_men.",
+        "translation": "你的士兵总是对增加伙食里的荤菜表示欢迎。"
+    },
+    {
+        "text": "Two_berserkir_join_your_army!",
+        "translation": "两个熊皮狂战士加入你的军队！"
+    },
+    {
+        "text": "Two_ulfhednar_join_your_army!",
+        "translation": "两个狼皮狂战士加入你的军队！"
+    },
+    {
+        "text": "Your_men_gather_around,_cheering_and_betting._The_atmosphere_is_tense._Suddenly,_the_disputes_around_you_become_more_widespread._Other_men_draw_their_weapons,_and_a_fight_on_a_larger_scale_ensues._Before_you_can_impose_order_again,_several_men_die.",
+        "translation": "你的士兵聚在一起欢呼和赌博。突然你周围的士兵开始更加普遍的起了争执，一些人拿起了武器，并且开始了战斗。在你喝令他们之前，有一些人死了。"
+    },
+    {
+        "text": "Your_reputation_increases_among_your_men_when_you_return_to_the_road,_leaving_behind_two_corpses_hanging_from_a_tree.",
+        "translation": "你的声誉会增加你的士兵当你回到路上，留下两个尸体挂在树上。"
+    },
+    {
+        "text": "Your_men_complain_of_not_being_able_to_enjoy_a_good_fight,_seeing_that_drunkenness_on_campaign_is_punishable_by_few_lashes.",
+        "translation": "你的士兵抱怨无法享受良好的战斗，有些喝醉的在互相攻击。"
+    },
+    {
+        "text": "The_merchant_takes_the_money_and_gives_you_a_heavy_package_wrapped_in_a_long_cloth._When_you_unwrap_it_and_discover_that_he_has_sold_you_a_normal_sword,_the_merchant_is_already_well_away.",
+        "translation": "商人给了你钱和一个裹着长布的包裹。当你打开它，发现他已经卖给你一把普通的剑，商人已经走得远远的了。"
+    },
+    {
+        "text": "The_merchant_takes_his_leave_and_goes_back_the_way_he_came.",
+        "translation": "商人带着货物离开并且回到了他来时的路。"
+    },
+    {
+        "text": "Your_men_attack_the_farm,_kill_the_farmer_and_his_slaves,_and_return_with_a_bounty_of_food.",
+        "translation": "你的士兵袭击了农场，杀死农夫和他的奴隶，并且带回了丰富的食物。"
+    },
+    {
+        "text": "Your_men_think_you're_a_weak_leader_unable_to_take_action_against_who_insult_him.",
+        "translation": "你的士兵认为你是一个软弱的领导人无法对侮辱他的人采取行动。"
+    },
+    {
+        "text": "The_men_take_the_money_and_let_you_go_on_your_way.",
+        "translation": "男人给你钱，让你走。"
+    },
+    {
+        "text": "Without_warning,_you_order_your_men_to_attack._The_two_strangers_try_to_flee_but_are_killed_by_your_warriors._No_one_comes_to_reinforce_them.",
+        "translation": "没有警告，你命令你的人攻击。两个陌生人试图逃跑，但被你的战士杀死。没有人来保护他们。"
+    },
+    {
+        "text": "The_two_men_move_aside_when_you_ignore_them_and_continue_your_way._No_one_attacks_your_army._It_was_all_a_lie.",
+        "translation": "两个人被除去当你忽视他们并且继续你的旅途的时候，没人攻击你的军队。这一切都是谎言。"
+    },
+    {
+        "text": "The_scout,_who_has_stolen_money,_spreads_the_rumor_among_your_men_that_you_are_greedy.",
+        "translation": "侦察员，一个偷钱的家伙，在传播谣言你是贪婪的。"
+    },
+    {
+        "text": "The_scout_hides_his_treasure_without_anyone_else_knowing.",
+        "translation": "没有任何人知道童子军隐藏的宝藏。"
+    },
+    {
+        "text": "The_distribution_of_the_coins_brings_happiness_to_the_rest_of_your_men,_and_they_think_that_you_are_a_fair_leader.",
+        "translation": "派发钱给士兵让他们感到幸福，他们认为你是个公平的领导者"
+    },
+    {
+        "text": "The_men_head_home,_disappointed.",
+        "translation": "士兵失望的回家了。"
+    },
+    {
+        "text": "The_farmers_give_you_thanks_and_promise_to_name_the_next_one_of_their_children_after_you.",
+        "translation": "农民感谢你，并承诺之后下一个孩子的名字将会有你。"
+    },
+    {
+        "text": "The_farmers_give_you_thanks._They_seem_relieved_and_very_happy.",
+        "translation": "农民感谢你，他们似乎松了一口气，非常高兴。"
+    },
+    {
+        "text": "The_farmers_thank_you._Perhaps_their_lord_will_understand_the_situation.",
+        "translation": "农民们谢谢你。也许他们的主会了解情况。"
+    },
+    {
+        "text": "The_farmers_thank_you,_although_they_are_not_happy_with_your_counsel._It_will_cost_the_lives_of_many_of_their_children_next_winter.",
+        "translation": "农民们谢谢你，虽然他们不满意你的顾问。它将花费很多东西为孩子过下一个冬天的生活。"
+    },
+    {
+        "text": "She_thanks_you_and_heads_for_the_nearest_town.",
+        "translation": "她感谢你，并且向最近的城镇出发。"
+    },
+    {
+        "text": "She_thanks_you_profusely_and_heads_back_to_her_village,_a_little_weak_from_the_ordeal.",
+        "translation": "她再三感谢你并且返回自己的村庄，从折磨中脱离她看起来有点虚弱。"
+    },
+    {
+        "text": "The_days_get_longer_and_the_bony_grip_of_winter_loosens._Green_leaves_crown_the_trees_once_more._",
+        "translation": "白天逐渐增长，寒冬慢慢褪去。绿叶正在重新覆盖树冠。"
+    },
+    {
+        "text": "The_sun_greets_you_early_in_the_morning_and_sends_you_to_bed_at_night.",
+        "translation": "清晨时，阳光向你问候；深夜里，月亮伴你入眠。"
+    },
+    {
+        "text": "As_nature_becomes_a_plethora_of_colours,_people_replenish_their_stores_and_prepare_for_winter.",
+        "translation": "当自然界的色彩日渐丰富，人们开始为过冬囤积物资。"
+    },
+    {
+        "text": "The_night_steals_from_the_day_and_grows_long,_while_the_frost_threatens_to_do_away_with_the_weak_and_the_old.",
+        "translation": "夜晚窃取了白天的时光，逐渐增长，此时寒霜开始让老弱者感到不安。"
+    },
+    {
+        "text": "Temporary_quarters_are_not_a_good_place_to_hold_prisoners._{reg1}_prisoners_have_escaped.",
+        "translation": "临时宿舍不是一个好地方来关押囚犯。{reg1}犯人逃脱了。"
+    },
+    {
+        "text": "You_have_become_a_berserker._When_you_go_berserk,_you_gain_great_speed_and_strength_in_the_heat_of_battle,_but_this_brutal_ferocity_turns_your_vision_red._(Use_key_T_to_increase_your_power_strike)",
+        "translation": "你成为了狂战士。在战场上进入狂暴状态后，你的速度和力量将大幅增加，同时你的视线将变得通红。（按T来增加你的强击）"
+    },
+    {
+        "text": "Your_studies_in_poetry_and_rhetoric_have_been_productive._This_newly_acquired_skill_in_oratory_will_increase_your_leadership_in_battle_as_you_urge_on_your_men_in_combat._(Use_key_T_to_evoke_a_war_cry)",
+        "translation": "你在诗歌和文学方面的学习卓有成效。这项新习得的技能将在战斗中提高你的领导力，而你的战吼会提高士兵们的士气。（按T发起战吼）"
+    },
+    {
+        "text": "The_exhausting_athletics_regimen_you_have_applied_to_your_troops_makes_them_faster_and_more_maneuverable_in_battle._They_show_their_new_confidence_by_taunting_their_enemies._(Use_key_T_to_evoke_a_shield_taunt)",
+        "translation": "你对士兵们筋疲力竭的体能训练让他们变得强壮了，他们将在战场上更加灵活。现在盾嘲这个技能将展现出他们出色的灵敏性。（按T发起盾嘲）"
+    },
+    {
+        "text": "Your_incessant_concern_about_the_maintenance_of_your_men's_shields_and_armors_makes_it_harder_for_the_enemy_to_wound_them._They_show_their_new_confidence_by_beating_their_shields._(Use_key_T_to_evoke_a_shield_taunt)",
+        "translation": "你对士兵们在使用盾牌这方面的训练让他们的防御更加出色，敌人难以伤害他们。盾嘲将展现他们铁骨技能的提升。（按T发起盾嘲）"
+    },
+    {
+        "text": "On_this_day,_the_foreman_couldn't_even_pay_the_wages,_so_he_paid_with_produced_goods_instead.",
+        "translation": "今天，工头甚至支付不起工资，所以他用部分货物抵押了工资。"
+    },
+    {
+        "text": "However,_on_this_day_you_learned_something_from_your_work.",
+        "translation": "但是，你从今天的工作中学到了些新知识。"
+    },
+    {
+        "text": "However,_on_this_day_you_achieved_a_lot_and_were_paid_double.",
+        "translation": "但是，你这天做了很多工作，得到了双倍的报酬。"
+    },
+    {
+        "text": "However,_you_befriended_some_workers_from_{s2}.",
+        "translation": "但是，你帮助了一些来自{s2}的工人。"
+    },
+    {
+        "text": "One_lord_can_disembark_here_with_you.",
+        "translation": "一位领主可以与你在这里一起下船。"
+    },
+    {
+        "text": "{reg1}_lords_can_disembark_here_with_you.",
+        "translation": "有{reg1}个首领能和你一起登陆。"
+    },
+    {
+        "text": "One_lord_will_lose_track_of_you._He_must_disembark_at_the_next_port_and_then_come_find_you.",
+        "translation": "一个首领会在下个港口登陆并跟随你的踪迹与你会合。"
+    },
+    {
+        "text": "{reg1}_lords_will_lose_track_of_you._They_must_disembark_at_the_next_port_and_then_come_find_you.",
+        "translation": "有{reg1}个首领会在下个港口登陆并跟随你的踪迹与你会合。"
+    },
+    {
+        "text": "One_lord_can_embark_here_with_you.",
+        "translation": "在你旁边有个首领能和你一起登陆。"
+    },
+    {
+        "text": "{reg1}_lords_can_embark_here_with_you.",
+        "translation": "有{reg1}个首领能和你一起登陆。"
+    },
+    {
+        "text": "One_lord_will_lose_track_of_you._He_must_embark_at_the_next_port_and_then_come_find_you.",
+        "translation": "一个首领会在下个港口登陆并跟随你的踪迹与你会合。"
+    }
+]

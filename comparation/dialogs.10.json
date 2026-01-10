@@ -1,0 +1,2502 @@
+[
+  {
+    "text": "Do_I_indeed!_There's_a_group_of_bandits_infesting_the_town,_and_I'm_at_the_end_of_my_rope_as_to_how_to_deal_with_them._They've_been_ambushing_and_robbing_townspeople_under_the_cover_of_night._Then_they_fade_away,_quick_as_lightning,_when_the_guards_finally_show_up._We've_not_been_able_to_catch_a_one_of_them._They_only_attack_lone_people,_never_daring_to_show_themselves_when_there's_a_group_about._I_need_someone_who_can_take_on_these_bandits_alone_and_win._That_seems_to_be_the_only_way_of_bringing_them_to_justice._Are_you_up_to_the_task?",
+    "old_translation": "我真的要这样做！有一伙土匪骚扰我们的城镇。我已经失去耐性来想怎么处理他们。他们趁着夜晚袭击、抢劫镇民，然后在卫兵出现之前像闪电般退去。我们没办法抓住他们中的一个。他们只袭击单独的人，绝不在众人面前展现自己。我需要一个人能独自对付这些土匪。看来这是给他们带来正义的审判的唯一的方法。你能胜任这个任务吗？",
+    "translation": "我还真得要这样！镇里被一伙土匪闹得鸡犬不宁，我已经束手无策。他们趁夜伏击抢劫镇民，等卫兵赶到，又像闪电一样消失。我们一个都没逮住。他们只敢对落单的人下手，人多时绝不露面。我需要有人能独自收拾这帮土匪，这似乎是唯一能让他们伏法的办法。你接得下这活儿吗？"
+  },
+  {
+    "text": "There's_a_group_of_bandits_infesting_the_town,_and_I'm_at_the_end_of_my_rope_as_to_how_to_deal_with_them._They've_been_ambushing_and_robbing_townspeople_under_the_cover_of_night._Then_they_fade_away,_quick_as_lightning,_when_the_guards_finally_show_up._We've_not_been_able_to_catch_a_one_of_them._They_only_attack_lone_people,_never_daring_to_show_themselves_when_there's_a_group_about._I_need_someone_who_can_take_on_these_bandits_alone_and_win._That_seems_to_be_the_only_way_of_bringing_them_to_justice._Are_you_up_to_the_task?",
+    "old_translation": "有一伙土匪骚扰我们的城镇。我已经失去耐性来想怎么处理他们。他们趁着夜晚袭击、抢劫镇民，然后在卫兵出现之前像闪电般退去。我们没办法抓住他们中的一个。他们只袭击单独的人，绝不在众人面前展现自己。我需要一个人能独自对付这些土匪。看来这是给他们带来正义的审判的唯一的方法。你能胜任这个任务吗？",
+    "translation": "镇里被一伙土匪闹得鸡犬不宁，我已经束手无策。他们趁夜伏击抢劫镇民，等卫兵赶到，又像闪电一样消失。我们一个都没逮住。他们只敢对落单的人下手，人多时绝不露面。我需要有人能独自收拾这帮土匪，这似乎是唯一能让他们伏法的办法。你接得下这活儿吗？"
+  },
+  {
+    "text": "Killing_bandits?_Why,_certainly!",
+    "old_translation": "杀土匪？没问题！",
+    "translation": "杀土匪？当然没问题！"
+  },
+  {
+    "text": "My_apologies,_I'm_not_interested.",
+    "old_translation": "我道歉，我对这个没兴趣。",
+    "translation": "抱歉，我没兴趣。"
+  },
+  {
+    "text": "That_takes_a_weight_off_my_shoulders,_{playername}._You_can_expect_a_fine_reward_if_you_come_back_successful._Just_don't_get_yourself_killed,_eh?",
+    "old_translation": "这对我来说可是一个不小的负担，{playername}。如果你能成功的回来你就能赢得一笔不菲的奖金。别被人杀了，嗯？",
+    "translation": "这下我可算松了口气，{playername}。要是你凯旋而归，少不了丰厚奖赏。可别把命丢了，嗯？"
+  },
+  {
+    "text": "One_of_the_merchants_here_is_looking_for_herdsmen_to_take_his_cattle_to_the_market_in_{s13}.",
+    "old_translation": "一位当地商人正在寻找牧民把他的畜群送到{s13}的市场。",
+    "translation": "这里有个商人正找牧民把牛群赶到{s13}的市场。"
+  },
+  {
+    "text": "The_cattle_herd_must_be_at_{s13}_within_30_days._Sooner_is_better,_much_better,_but_it_must_be_absolutely_no_later_than_30_days._If_you_can_do_that,_I'd_be_willing_to_pay_you_{reg8}_peningas_for_your_trouble._Interested?",
+    "old_translation": "这些牲畜必须在30天内到达{s13}，而且越早越好，但无论如何不能晚于30天。如果你办成了，我就会给你{reg8}先令，感兴趣吗？",
+    "translation": "牛群必须在30天内赶到{s13}，越早越好，但绝不能超过30天。办成的话，我付你{reg8}银便士辛苦费，干不干？"
+  },
+  {
+    "text": "Aye,_I_can_take_the_herd_to_{s13}.",
+    "old_translation": "好的，我可以把牛牵到{s13}。",
+    "translation": "行，我把牛群赶到{s13}。"
+  },
+  {
+    "text": "I_am_sorry,_but_no.",
+    "old_translation": "很抱歉，不行。",
+    "translation": "抱歉，我做不到。"
+  },
+  {
+    "text": "Splendid._You_can_find_the_herd_right_outside_the_town._After_you_take_the_animals_to_{s13},_come_back_to_me_and_you_will_get_your_pay.",
+    "old_translation": "非常好，你马上就能在城镇外找到牛群。当你把它们送达{s13}后，就回来领你的赏钱吧。",
+    "translation": "好极了，牛群就在镇外。你把牲口送到{s13}后回来找我领钱。"
+  },
+  {
+    "text": "No_problem._I_will_bring_your_{s13}_back.",
+    "old_translation": "没事，我会把你的{s13}带回来。",
+    "translation": "没问题，我会把你的{s13}带回来。"
+  },
+  {
+    "text": "Aye,_I_will_bring_you_{reg33}_loads_of_{s33}.",
+    "old_translation": "好的，我会带来{reg33}个{s33}。",
+    "translation": "好，我会给你运来{reg33}车{s33}。"
+  },
+  {
+    "text": "Splendid._Good_luck_on_finding_the_rascal_and_bringing_my_{s13}_back.",
+    "old_translation": "太好了。祝你找到那个淘气鬼并把我{s13}带回来。",
+    "translation": "太好了，祝你找到那混蛋并把我{s13}带回来。"
+  },
+  {
+    "text": "Splendid._Bring_{reg33}_loads_of_{s33}_here,_and_I_will_reimburse_you_for_your_expenses.",
+    "old_translation": "太好了，把{reg33}个{s33}带给我，我就会给你不小的报酬。",
+    "translation": "太好了，把{reg33}车{s33}运来，我就给你报销花费。"
+  },
+  {
+    "text": "I_am_afraid_I_can't_offer_you_a_job_right_now.",
+    "old_translation": "我很抱歉我现在没法帮忙。",
+    "translation": "恐怕我现在没活儿给你。"
+  },
+  {
+    "text": "My_good_{reg59?madam:sir}._Our_village_is_grateful_for_your_help._Thanks_to_the_{reg5}_head_of_cattle_you_have_brought,_we_can_now_raise_our_own_herd.",
+    "old_translation": "我的好{reg59?女士:先生}，整个村庄都对你非常感激。多亏有了你送来的{reg5}头牲畜，现在我们也能养活自己了。",
+    "translation": "好心的{reg59?女士:先生}，全村都感激你。多亏你送来的{reg5}头牲口，我们也能养自己的牛群了。"
+  },
+  {
+    "text": "My_good_{reg59?madam:sir}._Our_village_is_grateful_for_your_help._The_slave_will_be_punished_now.",
+    "old_translation": "好心的{reg59?女士:先生}。我们村庄非常需要你的帮助，那些奴隶必须被惩罚。",
+    "translation": "好心的{reg59?女士:先生}，我们村感激你出手。那奴隶现在就得受罚。"
+  },
+  {
+    "text": "My_good_{reg59?madam:sir}._You_tried,_but_you_returned_without_the_slave._I_guess_you_couldn't_find_him...",
+    "old_translation": "好心的{reg59?女士:先生}。你尽力了，但也没找到奴隶。我猜你找不到他了……",
+    "translation": "好心的{reg59?女士:先生}，你尽力了，可还是没能带回奴隶。我想你找不到他了……"
+  },
+  {
+    "text": "My_good_{reg59?lady:lord},_please,_is_there_anything_I_can_do_for_you?",
+    "old_translation": "我的好{reg59?女士:大人}，请问我能帮你什么吗？",
+    "translation": "好心的{reg59?女士:大人}，请问我能为您做点什么？"
+  },
+  {
+    "text": "I_do_not_think_we_can_get_more_information._It_seems_that_your_fate,_your_Wyrd,_takes_you_to_Danmark,_my_friend.",
+    "old_translation": "我想我们不能得到更多情报了。看来命运女神要把你引向丹麦，我的朋友。",
+    "translation": "我想我们问不出更多消息了。朋友，看来你的命运——你的Wyrd——正把你带往丹麦。"
+  },
+  {
+    "text": "{playername},_the_prisoner_is_waiting_to_be_interrogated._He_may_have_some_information.",
+    "old_translation": "{playername}，这个囚犯正在等待接受审讯，他也许知道些什么。",
+    "translation": "{playername}，囚犯正等着受审，他可能知道些情报。"
+  },
+  {
+    "text": "Wyrd_bith_ful_araed!",
+    "old_translation": "好吧，差不多就到{s21}了，我们能自己走完剩下的路。这是付给你的…{reg14}先令。感谢你的护送，祝你好运。",
+    "translation": "命运无可违抗！"
+  },
+  {
+    "text": "{playername},_you_are_here!_Thank_God!_Viking_ships_are_coming!_It's_Sven_Bull_Neck!_He_wants_to_destroy_us.",
+    "old_translation": "{playername}，你来了！感谢上帝！维京战船正要袭击我们！那是牛颈斯温！他要把我们统统杀光。",
+    "translation": "{playername}，你可来了！感谢上帝！维京长船杀来了！是“牛颈”斯温！他要灭了我们。"
+  },
+  {
+    "text": "Sorry,_{reg59?my_lady:man}._It_is_late,_and_I_have_to_be_back_at_home._I_will_see_you_with_the_new_day.",
+    "old_translation": "谢谢你把我送回来！我简直等不及要看见家人了，再见。",
+    "translation": "抱歉，{reg59?小姐:老兄}，天晚了，我得回家。新的一天再见。"
+  },
+  {
+    "text": "Welcome_to_{s9}..._Oh,_wait!_You_are_the_{reg59?lady:man}_we_found_in_the_sea!_Nice_to_see_you,_most_assuredly!_I_didn't_dare_hope_to_see_you_alive_again._That_healer_may_yet_prove_worthy_of_the_legacy_of_his_father,_God_rest_his_soul!",
+    "old_translation": "欢迎来到{s9}…噢，等等！你正是我们在海里找到的那个{reg59?女士:男人}！幸会，这不是客套话！我不敢奢望能够再次看见你，大概那个医师还是继承了他父亲的一些技艺，愿他安息！",
+    "translation": "欢迎来到{s9}……咦，等等！你就是我们在海里救起的那个{reg59?女士:男人}！真高兴再见到你，千真万确！我原本不敢指望你还能活着。看来那位医师终究继承了他父亲的本事，愿其父安息！"
+  },
+  {
+    "text": "Are_you_Thonkrik?_My_name_is_{playername},_and_I_am_in_debt_to_Doccinga.",
+    "old_translation": "你是索里克吗？我的名字是{playername}，我欠了道琴嘉一条命。",
+    "translation": "你是索里克吗？我叫{playername}，欠道琴嘉一条命。"
+  },
+  {
+    "text": "Thonkrik_from_Doccinga?_I_am_{playername}._I_have_some_questions.",
+    "old_translation": "你是来自道琴嘉的索里克吗？我是{playername}。我有一些问题要问你。",
+    "translation": "道琴嘉的索里克？我是{playername}，想问你几句。"
+  },
+  {
+    "text": "That_isn't_necessary._No_debt,_my_friend!_Rescuing_others_from_distress_at_sea_is_the_duty_of_every_fisherman!_^We_found_you_unconscious,_clinging_to_a_plank_and_led_by_the_tide._Fortunately,_you_were_not_far_from_the_coast.",
+    "old_translation": "你太客气了，你不欠我们什么，朋友！在海上救人是每一名渔民的职责！^我们当时发现你抓紧着一块木板，已经失去意识并在随波逐流。走运的是，你离海岸不远。",
+    "translation": "不必客气，朋友！海上救人，是渔民的本分！^我们发现你抱着木板，昏迷不醒，被潮水推来。好在离海岸不远。"
+  },
+  {
+    "text": "Well,_{playername},_go_ahead.",
+    "old_translation": "好吧，{playername}，尽管问。",
+    "translation": "好吧，{playername}，尽管问。"
+  },
+  {
+    "text": "We_were_traveling_on_a_ship,_the_Woden_Ric,_and_were_attacked_by_Vikings!_That's_the_reason_you_found_me_in_the_sea.",
+    "old_translation": "我们正在一条船上航行，沃登里克号，然后被维京人袭击了！这就是你在海里发现我的缘故。",
+    "translation": "我们乘沃登里克号航行，被维京人袭击！所以你才在海里发现我。"
+  },
+  {
+    "text": "I_know_the_Woden_Ric!_It_made_landfall_at_Doccinga_many_times,_because_it_had_passengers_seeking_cures_for_the_most_terrible_ills._^The_father_of_the_healer_who_has_healed_you_was_a_man_well_known_for_his_skills_in_many_parts,_and_thousands_of_people_left_everything_to_come_here._Now_that_man_has_died,_and_unfortunately_his_son_does_not_have_his_father's_magic._^I_am_sorry_to_hear_that_the_Woden_Ric_was_attacked_by_Vikings...",
+    "old_translation": "我知道沃登里克号！它曾经多次在道琴嘉靠岸，因为总有旅客来这里寻求治疗绝症的奇迹。^那位救了你的医生的父亲，正是远近闻名的神医，无数人曾经抛下一切来到这里。但现在他已经去世了，而不幸的是他的儿子没有继承这一神力。^我对于沃登里克号被维京人袭击的消息非常遗憾…",
+    "translation": "我认得沃登里克号！它常靠道琴嘉，总有旅客来求治绝症。^救你的那位医师，他父亲远近闻名，无数人抛家赶来。如今老人去世，儿子却没继承那份神力。^听说沃登里克号遭维京人袭击，我很难过……"
+  },
+  {
+    "text": "I_was_one_of_those_people._My_mother_was_sick,_and_now,_maybe_she..._is_dead.",
+    "old_translation": "我就是那些人之中的一个，我的母亲病了，而此时此刻，她大概…死了。",
+    "translation": "我就是那些人之一。母亲病了，现在她也许……已经不在。"
+  },
+  {
+    "text": "My_mother_traveled_with_me._Did_you_find_other_people_or..._corpses_where_you_found_me?",
+    "old_translation": "我的母亲和我一同前来。你当时有没有发现其他人，或者…任何尸体？",
+    "translation": "母亲与我同行。你们发现我时，还有别人或……尸体吗？"
+  },
+  {
+    "text": "The_sea_brings_swollen_corpses_and_wrecks_to_our_shores_sometimes,_but_nobody_lately._Usually,_Vikings_take_prisoners_to_sell_as_slaves...",
+    "old_translation": "大海不时会将尸体或者残骸冲到我们岸边，但最近并没有任何情况。通常，维京人会带走俘虏并卖掉…",
+    "translation": "大海偶尔会把浮尸和残骸冲上岸，最近却没有。维京人通常把俘虏卖作奴隶……"
+  },
+  {
+    "text": "Thonkrik,_our_ship_was_attacked_by_Sven_Bull_Neck._Have_you_heard_of_this_name_before?",
+    "old_translation": "索里克，我们的船是被牛颈斯温袭击的，你听说过这个名字吗？",
+    "translation": "索里克，我们的船被“牛颈”斯温袭击，你听过这名字吗？"
+  },
+  {
+    "text": "{s1}^^Sven_Bull_Neck?_Oh,_my_good_God!_It_is_a_miracle_then_that_you_are_alive._Sven_is_a_murderer,_and_his_men_are_demons._He_takes_no_prisoners,_kills_the_whole_crew,_and_burns_the_ship_with_the_corpses_inside._^He_does_not_look_for_riches._Sven_is_more_ambitious._Each_year_we_pay_a_lot_of_money_to_him_to_leave_us_in_peace.",
+    "old_translation": "{s1}^^牛颈斯温？我的上帝！你能活下来真是奇迹。斯温是一个杀人如麻的海盗，他的手下都是魔鬼。他从不留下活口，总是把所有船员灭口，然后把船只和尸体一起烧掉。^斯温的野心远不止钱财，我们每年都给他贡纳一大笔钱才能保证这里的安全。",
+    "translation": "{s1}^^“牛颈”斯温？老天！你能活着真是奇迹。斯温杀人如麻，手下如鬼。他从不留活口，杀光船员，再把船和尸体一起烧。^他不为财，野心更大。我们每年得交重金换平安。"
+  },
+  {
+    "text": "He_killed_my_mother,_so_now_I'll_kill_him!_Tell_me,_where_I_can_find_Sven?",
+    "old_translation": "他杀了我的母亲，而我将亲手杀死他！告诉我，哪里能找到斯温？",
+    "translation": "他杀了我母亲，我要亲手宰了他！告诉我，哪里能找到斯温？"
+  },
+  {
+    "text": "My_mother_may_have_been_doomed_regardless,_but_he'll_pay_for_attacking_ME!_Where_is_Sven?",
+    "old_translation": "我的母亲早晚也要完了，但他要因为袭击我而付出代价！斯温在哪儿？",
+    "translation": "母亲或许难逃一死，但他敢动我，就得付出代价！斯温在哪？"
+  },
+  {
+    "text": "{s3}^^To_seek_Sven?_Are_you_crazy?_You_are_not_listening_to_me!_Look_around?_See_those_men_training_here?_They_are_hardened_warriors,_sent_by_our_jarl!_They_are_here_to_defend_us_from_Sven's_attacks._And_we_are_lucky!_Other_villages_don't_enjoy_as_much_importance_to_the_jarl._^No,_no,_I_know_nothing_about_Sven!",
+    "old_translation": "{s3}^^想找斯温？你活得不耐烦了吗？你根本听不懂我的话！看看四周，看到那些正在训练的士兵吗？他们都是顽强的士兵，是我们的领主派来的！他们在这里正是为了防止斯温的袭击。我们已经非常走运了！其他村子对于雅尔没有那么重要，因此倍加煎熬。^噢，不，我对斯温一无所知！",
+    "translation": "{s3}^^找斯温？你疯了？看看四周训练的汉子，都是雅尔派来的硬骨头！他们守在这儿，就是防斯温。我们算走运，别的村子可没这待遇。^不，不，我对斯温一无所知！"
+  },
+  {
+    "text": "And_so_what?_They_are_not_looking_for_Sven._Where_is_Sven?_I_want_an_answer_now!",
+    "old_translation": "那又怎么样？他们又不是在追捕斯温。他在哪儿？我现在就要答案！",
+    "translation": "那又怎样？他们又不是去抓斯温。他在哪？立刻回答！"
+  },
+  {
+    "text": "Thonkrik,_I_need_your_help._Don't_you_know_I_can_help_you_kill_Sven?",
+    "old_translation": "索里克，我需要你的帮助，难道你不知道我可以帮你杀死斯温吗？",
+    "translation": "索里克，我需要你帮忙。难道你不想让我替你除掉斯温？"
+  },
+  {
+    "text": "I_don't_have_an_answer_for_you._I_am_but_a_simple_villager_who_yet,_I_may_point_out,_retains_his_head._If_you_are_so_intent_on_your_own_destruction,_you_should_ask_the_jarl_of_Kennemer._God_has_given_you_a_second_chance,_saving_your_life,_but_now_you_intend_to_waste_it._Good_luck,_but_I_cannot_help_more.",
+    "old_translation": "我无法回答。不得不提醒你，我只是一个想要保住脑袋的小小的村长。如果你那么急着找死，你应该去问肯尼莫的雅尔。老天爷已经给你第二次机会，救过你的命了，但你现在竟然要浪费它。祝你好运，我没法再帮你了。",
+    "translation": "我答不上来。我只是想保脑袋的小村长。你非要送死，就去问肯尼莫的雅尔。老天给你第二次命，你却要浪费。祝你好运，我帮不了更多。"
+  },
+  {
+    "text": "Thanks_for_everything.",
+    "old_translation": "谢谢你为我做的一切。",
+    "translation": "多谢你的一切。"
+  },
+  {
+    "text": "{s1}^^{playername},_look_at_yourself!_You_are_weak,_puny!_Almost_dead_just_weeks_ago_saved_by_lowly_fishermen._You've_lost_all_your_possessions._You_don't_have_weapons,_resources_or_men._I_don't_know_where_Sven_keeps_his_hideout,_but_if_you_go_there_someday,_you_will_meet_your_death.",
+    "old_translation": "{s1}^^{playername}，看看你自己！又小又弱，在几周前被一个卑微的渔夫救起时，已经半死不活了。你身无分文，又身无寸铁，更加没有任何资源或士兵。我不知道斯温的藏身之地在哪儿，但如果某天你找到的话，就离死亡不远了。",
+    "translation": "{s1}^^{playername}，瞧瞧你自己！又弱又小，几周前还被渔夫拖回半条命。你一无所有，没武器、没资源、没手下。我不知道斯温的老巢，可你一旦找去，就是送死。"
+  },
+  {
+    "text": "I_don't_fear_death,_Thonkrik._I_know_what_I_want_to_do,_and_it_is_to_kill_Sven._Farewell!",
+    "old_translation": "我不怕死，索里克。我知道自己的使命是什么，那就是杀死斯温。再见！",
+    "translation": "我不怕死，索里克。我知道自己要做什么：杀死斯温。再会！"
+  },
+  {
+    "text": "I_see_you_don't_know_anything._Thanks_for_everything._Farewell.",
+    "old_translation": "看来你什么都不知道。非常感谢这一切，再见。",
+    "translation": "看来你一无所知。还是谢谢你，再见。"
+  },
+  {
+    "text": "I_see_the_determination_in_your_eyes._Here,_take_these_few_coins_and_my_advice_along_with_them:_find_a_job_and_forget_about_Sven._Otherwise,_feel_free_to_ask_the_jarl_of_Kennemer,_he_might_be_able_to_help_you.",
+    "old_translation": "我能从你的眼里看到坚定的决心。来，拿着这点钱，还有我给你的建议：找份工作，忘掉斯温。否则，就去找肯尼莫的雅尔吧，他也许能够帮你。",
+    "translation": "我看得出你眼里的决心。拿着这几枚钱，再听一句劝：找份活干，忘了斯温。不然就去问肯尼莫的雅尔，他也许能帮你。"
+  },
+  {
+    "text": "You_are_right._I_don't_know_anything,_but_you_can_ask_the_jarl_of_Kennemer._Please_take_some_food._You_have_a_long_journey_ahead_of_you.",
+    "old_translation": "你说得对，我什么都不知道，但你可以去问肯尼莫的雅尔。请带上这些食物吧，你的路还很长。",
+    "translation": "你说得对，我什么都不知道。去问肯尼莫的雅尔吧。带上这些食物，前路还长。"
+  },
+  {
+    "text": "Calm_down,_Thonkrik!_I'm_here_to_help.",
+    "old_translation": "冷静点，索里克！我来帮忙了。",
+    "translation": "冷静，索里克！我来帮忙。"
+  },
+  {
+    "text": "The_young_people_of_the_village_have_gathered_on_the_beach_with_the_king's_troops_to_try_to_prevent_the_landing_of_Sven_Bull_Neck,_but_they_are_few._Thanks_for_coming_to_our_aid!",
+    "old_translation": "村庄的年轻人都聚集在海滩了，和国王的士兵一起阻止牛颈斯温的登陆，但是他们人手不足。很感谢你来援助！",
+    "translation": "村里的年轻人已和国王的兵一起守在海滩，阻止“牛颈”斯温登陆，可人手太少。感谢你来援！"
+  },
+  {
+    "text": "Finally,_Sven_is_near._He_will_pay_greatly_for_what_he_did_to_me.",
+    "old_translation": "终于，斯温近在眼前了。他会为对我做出的一切付出沉痛的代价。",
+    "translation": "终于，斯温就在附近。他对我所做的一切，必将付出沉重代价。"
+  },
+  {
+    "text": "Where_are_the_men_of_{s4}?_",
+    "old_translation": "{s4}的人在哪里？",
+    "translation": "{s4}的人在哪里？"
+  },
+  {
+    "text": "{s2}^^Those_boats_are_Sven's,_that's_for_sure._He_always_leads_them._But_this_many_men..._I've_never_heard_of_Sven_Bull_Neck_attacking_a_village_with_so_many._It_looks_like_an_invasion!",
+    "old_translation": "{s2}^^这些船一定是斯温的，他总是带着这些。但是人这么多……我还没听说过牛颈斯温带这么多人来攻击一个小小的村庄的。这看起来像是一场入侵！",
+    "translation": "{s2}^^那些船肯定是斯温的，他总是亲自带队。可这么多人……我从没听说“牛颈”斯温带这么多人手来攻村。这像是一场入侵！"
+  },
+  {
+    "text": "{s4}_will_not_come,_I_know._Some_of_the_people_here_sent_messengers,_too,_like_you_and_the_king,_but_he_did_not_respond.^^Normally,_I_would_not_talk_about_this_openly,_for_they_are_Danish_problems,_but_{s4}_has_left_my_people_to_their_fate._In_fact,_I_fear_that_all_this_is_because_of_him.",
+    "old_translation": "我知道{s4}不会来的。也有些人像你和国王一样送出了信使，但是没有回信。^^通常来说，因为这是和有关丹麦人的麻烦，所以我不会公开的谈论这些。但{s4}让我的人民听天由命了。事实上，恐怕这都是因为他的缘故。",
+    "translation": "我知道{s4}不会来。这里也有人像你和国王一样派了信使，却毫无回音。^^按说我不会公开谈论这些丹麦人的麻烦，但{s4}把我的人民弃之不顾。恐怕这一切皆因他而起。"
+  },
+  {
+    "text": "{s2}^^I_know_people_who_work_in_the_jarl's_house,_and_it_is_rumored_that_he_aspires_to_the_throne_of_Friese..._I_should_not_say_this,_but_Sven_Bull_Neck_has_been_there_in_the_past.^I_fear_that_these_boats_are_attacking_Doccinga_to_bring_Sven's_warriors_to_help_the_jarl_capture_the_throne,_but_these_are_just_my_assumptions.",
+    "old_translation": "{s2}^^我认识在雅尔家里干活的人，他们流传着他觊觎弗里斯王位的流言……我不该说这个的，但是牛颈斯温以前呆过那里。^^我担心这些船攻击道琴嘉是为斯温的战士开辟前路，这样他们就能帮助贵族夺取王位了，但这些只是我的猜想。",
+    "translation": "{s2}^^我认识在雅尔家干活的人，他们传言他觊觎弗里斯王位……我不该说，可“牛颈”斯温曾去过那里。^我担心这些船攻打道琴嘉，是想让斯温的战士助雅尔夺位，但这只是我的猜测。"
+  },
+  {
+    "text": "Damn_traitor._He's_been_playing_with_me.",
+    "old_translation": "该死的叛徒，他一直在戏弄我！",
+    "translation": "该死的叛徒，他一直在耍我。"
+  },
+  {
+    "text": "I'll_take_care_of_that_issue_later._Right_now,_I_have_to_stop_an_invasion.",
+    "old_translation": "我稍后会处理这些。而现在，我要制止这场侵略。",
+    "translation": "这事以后再说。眼下，我得阻止这场入侵。"
+  },
+  {
+    "text": "Be_careful_with_him,_he_is_a_dangerous_man.",
+    "old_translation": "小心，他是个危险人物。",
+    "translation": "小心他，此人危险。"
+  },
+  {
+    "text": "Ic_bancie_the!_Thank_you_for_coming_to_help,_{playername}._I_will_join_my_people_now._A_huskarl_from_the_king_leads_the_defense.",
+    "old_translation": "谢谢老天爷！{playername}，谢谢你的援助。我现在会赶去我的人那里。国王的一名大臣在指挥防御。",
+    "translation": "谢天谢地！{playername}，多谢你来援。我这就去找族人。国王的一名侍卫正指挥防御。"
+  },
+  {
+    "text": "Follow_his_orders._Please_fight_with_us!_Good_luck.",
+    "old_translation": "从他的命令。请和我们并肩作战吧！祝好运！",
+    "translation": "听他的号令。请与我们并肩作战！祝好运。"
+  },
+  {
+    "text": "What_you_want_to_do_with_the_prisoner?",
+    "old_translation": "你想怎么处理这个俘虏？",
+    "translation": "你想怎么处置这名俘虏？"
+  },
+  {
+    "text": "Kill_him!_He_is_a_murderer_and_does_not_deserve_to_live.",
+    "old_translation": "杀了他！他是个凶手，罪该处死。",
+    "translation": "杀了他！他是凶手，不配活着。"
+  },
+  {
+    "text": "Free_him._I_don't_want_his_blood_to_weigh_on_our_hands.",
+    "old_translation": "释放他，我不想再有人死了。",
+    "translation": "放了他。我不想再沾血。"
+  },
+  {
+    "text": "It_will_be_done_as_you_have_said._As_for_you,_what_will_you_do_now?",
+    "old_translation": "会照着你说的做的。现在你准备做什么？",
+    "translation": "就按你说的办。那你接下来打算做什么？"
+  },
+  {
+    "text": "In_Friese,_I'm_not_wanted._I've_earned_powerful_enemies_against_whom_I_cannot_fight_now,_Thonkrik._My_priority_is_my_mother._I_must_save_her._I_will_try_finding_passage_to_Danmark_on_some_ship_and_looking_for_Sven_Bull_Neck._Maybe_we_will_never_meet_again...",
+    "old_translation": "我在弗里斯还没被通缉，索里克，我树敌太多，现在还没有力量和这些劲敌作战。我得先救出我的母亲。我会试着搭船去丹麦，然后去找牛颈斯温。可能我们会就此永别了……",
+    "translation": "在弗里斯，我已无处容身。我树敌太多，如今无力对抗，索里克。母亲是我头等大事，我必须救她。我会设法搭船去丹麦，寻找“牛颈”斯温。也许我们后会无期……"
+  },
+  {
+    "text": "I_know_you'll_be_back_someday...",
+    "old_translation": "我知道有朝一日你会归来的……",
+    "translation": "我知道总有一天你会回来……"
+  },
+  {
+    "text": "Yes,_with_an_army._The_jarls_and_the_king_of_Friese_will_pay_for_what_they_have_done_to_me.",
+    "old_translation": "是的，带着一支军队。弗里斯的贵族和国王会为他们对我所做的一切付出代价。",
+    "translation": "是的，带着一支大军。弗里斯雅尔与国王将为他们的所作所为付出代价。"
+  },
+  {
+    "text": "No,_I_hate_this_land._You_will_not_see_me_again.",
+    "old_translation": "不，我恨这片土地。你永远不会再看到我了。",
+    "translation": "不，我恨这片土地。你不会再见到我。"
+  },
+  {
+    "text": "It_is_possible._If_I_return,_I_will_stop_in_Doccinga_to_say_hello,_friend.",
+    "old_translation": "可能吧。如果我回来了，我会在道琴嘉停下，来和你打招呼。",
+    "translation": "也许吧。若我归来，会在道琴嘉停步，向朋友问好。"
+  },
+  {
+    "text": "I_understand_it._You're_a_{reg59?woman:man}_haunted_by_revenge:_Sven,_Sigurd,_and_now_the_jarl_of_Kennemer._I_hope_you_find_peace_someday.",
+    "old_translation": "我理解。你是一个被仇恨所驱使的{reg59?女人:男人}，你恨斯温，恨西格德，现在恨肯尼莫的雅尔。我希望你有朝一日能够平静下来。",
+    "translation": "我明白。你是个被复仇驱使的{reg59?女人:男人}：斯温、西格德，如今又是肯尼莫雅尔。愿你终得安宁。"
+  },
+  {
+    "text": "Then,_may_fate_accept_that_someday_you_will_make_your_way_back.",
+    "old_translation": "那么，愿你日后能够归来。",
+    "translation": "那么，愿命运允许你他日归来。"
+  },
+  {
+    "text": "So_I_hope!_The_people_of_Doccinga_love_and_admire_you._Here_you_will_always_find_a_bed_to_sleep_on_and_fire_to_warm_up_by.",
+    "old_translation": "我正期望如此！道琴嘉的人民爱戴你，这里永远都会是你的安身之地。",
+    "translation": "我也如此希望！道琴嘉人民敬爱你，这里永远有床有火等你。"
+  },
+  {
+    "text": "Now,_I_need_to_find_a_boat_that_is_traveling_to_Ribe...",
+    "old_translation": "现在，我希望找艘去里伯的船……",
+    "translation": "现在，我得找艘去里伯的船……"
+  },
+  {
+    "text": "I_can_help_you_with_that._One_of_the_Sven's_boats_was_left_behind_relatively_undamaged_and_has_been_repaired_in_secret._It_is_our_gift_to_you_for_saving_us._The_ship_awaits_you_at_a_beach_near_Doccinga..._and_also_someone_else_is_waiting_for_you_there._I_have_a_favor_to_ask,_{playername}.",
+    "old_translation": "我能帮你。斯温的一条船几乎毫发未损，并且已经被偷偷修好了。这是为报答你拯救我们的礼物。船只停靠在道琴嘉附近的海滩……也有别的人在那边等着你。{playername}，我请你帮个忙。",
+    "translation": "我可以帮你。斯温的一条船受损轻微，已被暗中修好，是我们答谢你救命的礼物。船停在道琴嘉附近海滩……还有人在那儿等你。{playername}，我求你一件事。"
+  },
+  {
+    "text": "You_remember_I_told_you_that_someone_was_in_the_house_of_the_jarl_of_Kennemer?_Someone_passing_me_information?_Well_that_person_is_my_daughter._The_jarl_snatched_her_to_serve_in_his_house_as_a_maid_for_his_wife._She_managed_to_escape_from_Kennemer,_and_now_I_want_you_to_take_her_along._If_the_jarl_finds_her,_he'd_take_her_back_to_his_house,_or_maybe_he_would_kill_her._I_need_you_to_do_this_for_me,_{playername},_and_the_boat_is_yours.",
+    "old_translation": "你记得我告诉过你在肯尼莫的雅尔家里干活的人吗？就是那个给我传递信息的人，其实那是我女儿。那个贵族把她抢去他家里给他老婆当佣人了。她想从肯尼莫逃出来，我希望你能够带着她一起。如果那个雅尔找到了她，她就会再次被迫回去，很可能还会被杀了。{playername}，我很需要你帮我这个忙。",
+    "translation": "你记得我提过有人在肯尼莫雅尔府里给我传信吗？那人是我女儿。雅尔抓她去服侍夫人。她已逃出肯尼莫，我想请你带她同行。若雅尔抓她回去，她必死无疑。{playername}，帮我这个忙，船就归你。"
+  },
+  {
+    "text": "I'll_take_her_with_me_and_will_protect_her.",
+    "old_translation": "我会带着她一起，并且保护她。",
+    "translation": "我会带她一起走，并保护她。"
+  },
+  {
+    "text": "No._Where_I'm_going_is_no_place_for_a_girl._I_cannot_protect_her._She_should_stay_here.",
+    "old_translation": "不，我不能带着一个女孩去那个地方。我保护不了她。她应该留在这里。",
+    "translation": "不行。我要去的地方不是女孩该去的。我护不住她。她得留在这儿。"
+  },
+  {
+    "text": "Do_not_make_me_beg,_my_friend._Do_you_think_you_have_several_ships_to_choose_from?_There_is_no_other_mode_of_transportation_for_you._With_Sven's_attacks,_merchants_take_weeks_to_come_back_here._You_don't_know_what_they_did_to_my_daughter_in_Kennemer,_{playername}..._I_do_not_want_her_warming_again_the_bed_of_any_of_the_jarl's_men._Sorry,_but_there_is_no_choice:_the_ship_and_my_daughter_go_together.",
+    "old_translation": "我的朋友，难道要让我乞求你吗？你不要以为你还能坐别的船，你别无选择了。在斯温的攻击下，商人得过好几周才会回来。你不知道他们在肯尼莫对我女儿做了些什么，{playername}……我不希望她再被雅尔的手下睡了。对不起，但这别无选择：你只能带着我的女儿一起坐船走。",
+    "translation": "别逼我哀求，朋友。你以为还有别的船可选？你只剩这条路。斯温的袭击让商人几周后才能回来。你不知道他们在肯尼默对我女儿做了什么，{playername}……我不想再让她去暖雅尔手下任何一个人的床。抱歉，但没得选：船和女儿，必须一起带走。"
+  },
+  {
+    "text": "Well,_I'll_take_her_and_the_ship._Farewell,_Thonkrik.",
+    "old_translation": "好吧，我会带着她上船。索里克，再见。",
+    "translation": "好，我带她上船。再会，索里克。"
+  },
+  {
+    "text": "Wes_gesund,_my_friend.",
+    "old_translation": "祝你好运，朋友。",
+    "translation": "保重，朋友。"
+  },
+  {
+    "text": "Wes_gesund.",
+    "old_translation": "再见。",
+    "translation": "保重。"
+  },
+  {
+    "text": "Good_day,_{reg59?madam:sir},_and_welcome_to_{s9}._I_am_the_leader_of_this_village.",
+    "old_translation": "{reg59?女士:先生}，日安，欢迎来到{s9}。我是这个村的村长。",
+    "translation": "{reg59?夫人:先生}，日安，欢迎来到{s9}。我是本村的村长。"
+  },
+  {
+    "text": "Welcome_to_{s9},_my_{reg59?lady:lord}._We_were_rejoiced_by_the_news_that_you_are_the_new_{reg59?lady:lord}_of_our_humble_village._I_am_the_village_elder_and_I_will_be_honoured_to_serve_you_in_any_way_I_can.",
+    "old_translation": "{reg59?女士:大人}，欢迎来到{s9}。我们很高兴你能够成为我们这个小村子的新{reg59?领主:领主}。我是这个村的长老，我会尽我所能为您服务。",
+    "translation": "欢迎来到{s9}，我的{reg59?女士:大人}。得知您成为我们小村的新{reg59?领主:领主}，我们欣喜万分。我是村长老，愿尽绵薄之力为您效劳。"
+  },
+  {
+    "text": "{reg59?My_lady:My_lord},_you_honour_our_humble_village_with_your_presence.{s33}",
+    "old_translation": "{reg59?女士:大人}，您的到来使我们这个小村子蓬荜生辉。{s33}",
+    "translation": "{reg59?夫人:大人}，您的到来让敝村蓬荜生辉。{s33}"
+  },
+  {
+    "text": "Good_day,_{reg59?madam:sir},_and_welcome_to_{s9}._I_am_the_local_leader_of_this_village.",
+    "old_translation": "{reg59?女士:先生}，日安，欢迎来到{s9}。我是这个村的村长。",
+    "translation": "{reg59?夫人:先生}，日安，欢迎来到{s9}。我是本村的村长。"
+  },
+  {
+    "text": "Good_day._I_am_happy_to_see_you_back.",
+    "old_translation": "日安，很高兴看到你回来了。",
+    "translation": "日安，很高兴又见到你。"
+  },
+  {
+    "text": "Sure,_Thonkrik._Take_me_to_him._It_is_time_for_some_words.",
+    "old_translation": "当然，索里克。带我去见他。是时候谈谈了。",
+    "translation": "当然，索里克。带我去见他，该谈谈了。"
+  },
+  {
+    "text": "I_am_looking_for_someone_who_may_or_may_not_be_a_ghost.",
+    "old_translation": "我在找一个人，或者一个鬼。",
+    "translation": "我在找一个不知是人是鬼的家伙。"
+  },
+  {
+    "text": "A_ghost?_Hah!_Ghosts_don't_appear_during_the_day!_Try_finding_him_at_night!",
+    "old_translation": "鬼？噢！鬼才不会白天出现！晚上找吧！",
+    "translation": "鬼？哈！鬼可不会大白天现身！晚上再来找吧！"
+  },
+  {
+    "text": "A_ghost?_Ghosts_don't_appear_on_their_own!_You_need_to_walk_by_him_to_wake_him_up.",
+    "old_translation": "鬼？鬼不会自己冒出来！你自己去找他吧。",
+    "translation": "鬼？鬼不会自己冒出来！你得从他身边走过，把他惊醒。"
+  },
+  {
+    "text": "Have_you_seen_any_{s22}-playing_guards_around_here?",
+    "old_translation": "你在附近见过{s22}演奏没有？",
+    "translation": "你在附近见过吹{s22}的守卫吗？"
+  },
+  {
+    "text": "Strangers_come_and_go_to_our_village,_{reg59?madam:sir},_but_I_doubt_you'll_run_into_him_at_this_hour_of_the_night._You_would_have_better_luck_during_the_day.",
+    "old_translation": "{reg59?女士:先生}，我们村庄来往着许多陌生人，但恐怕你在这深更半夜碰不到人。你白天来会更好。",
+    "translation": "{reg59?夫人:先生}，陌生人来来往往，可这深更半夜怕遇不上。白天来运气更好。"
+  },
+  {
+    "text": "Strangers_come_and_go_to_our_village,_{reg59?madam:sir}._Haven't_heard_or_seen_anyone_like_that,_but_if_he_is_hiding_here,_you_might_be_able_to_find_him_if_you_look_around.",
+    "old_translation": "经常有陌生人在我们村了。我从来都没听说过，但如果他在这里，你在附近找找或许就找到了。",
+    "translation": "{reg59?夫人:先生}，陌生人常在我们村进出。我没听说这样的人，但若他藏在这儿，你四处找找也许能发现。"
+  },
+  {
+    "text": "Strangers_come_and_go_to_our_village,_{reg59?madam:sir}._I_have_heard_some_sweet_sounds_of_a_{s22}_lately,_but_don't_know_if..._hmm..._You_are_welcome_to_look_around.",
+    "old_translation": "陌生人在我们村子来来往往，{reg59?女士:先生}。之前我听过一些关于{s22}的好话，但我不知道有没有这个人……嗯……你可以到处转转。",
+    "translation": "{reg59?夫人:先生}，陌生人往来不断。前阵子我倒是听见{s22}的悦耳声，可不知是不是……嗯……您请自便，四处看看。"
+  },
+  {
+    "text": "Caliacas?_The_abbot_of_Finian_sent_me.",
+    "old_translation": "卡利卡斯？菲尼安修道院院长刚给我你的消息。",
+    "translation": "卡利卡斯？菲尼安修道院长派我来的。"
+  },
+  {
+    "text": "Caliacas?_Is_everything_well?_We_received_your_message.",
+    "old_translation": "卡利卡斯？你还好吧？我们收到了你的口信。",
+    "translation": "卡利卡斯？你还好吗？我们收到了你的口信。"
+  },
+  {
+    "text": "Your_village_is_safe._You_will_not_have_more_problems_with_Morrigan.",
+    "old_translation": "你的村子是安全的，莫莉卡不会给你造成更多的麻烦。",
+    "translation": "你的村子安全了，莫莉甘不会再添乱。"
+  },
+  {
+    "text": "Ah,_the_abbot_is_a_good_man_to_respond_to_our_call_so_promptly!_I_asked_him_for_three_heroes,_and_in_fact,_three_heroes_have_come!_You_are_the_last_to_arrive,_so_you_are_the_most_anticipated,_since_the_evil_that_has_befallen_our_land_is_terrible_indeed._Many_have_died,_others_have_fled,_and_the_few_that_remain_can_hardly_keep_their_sanity.",
+    "old_translation": "啊，院长可真是个好人，能这么及时的回应我们的呼救！我请求他带着三位英雄过来，事实上，那三位英雄已经来了！你是最后一个到达的人，所以你是最值得期待的，事实上自从恶魔降临在我们的大陆上以来，许多人已经死去，另一些人已经逃离，剩下的人几乎无法保持理智。",
+    "translation": "啊，院长真是好人，这么快就回应求援！我求他派三位英雄，果然来了三位！你是最晚到的，却最让人期待，毕竟降临我们土地的邪恶实在可怕。许多人丧命，更多人逃散，剩下的人也难保神智。"
+  },
+  {
+    "text": "Stop!_Three_heroes?_What_do_you_mean?",
+    "old_translation": "等等！三位英雄？你是什么意思？",
+    "translation": "等等！三位英雄？什么意思？"
+  },
+  {
+    "text": "Three_heroes?_You_do_not_need_so_many._You_have_me._Dismiss_them.",
+    "old_translation": "三位英雄？你并不需要那么多英雄，你只需要我就够了，解雇他们吧。",
+    "translation": "三位英雄？用不着那么多，有我就够了，把他们都打发走。"
+  },
+  {
+    "text": "The_evil_that_afflicts_us_is_magical,_so_we_must_fight_it_with_magic._Three_is_the_number_of_the_old_gods,_so_the_old_man_said_three_should_be_the_number_of_heroes._Any_other_number_will_fail_and_die._At_first,_we_did_not_believe_him,_you_understand._We_are_Christians,_and_our_priest_said_the_old_man_was_a_pagan_and_should_be_burned,_and_that's_what_we_did._But_we_were_idiots._The_old_gods_are_still_here,_and_they_want_revenge._Now_the_old_man_is_dead_and_cannot_aid_us_more,_and_our_priest_has_disappeared.",
+    "old_translation": "恶魔使用魔法来折磨我们，所以我们必须要用魔法来反击它。因为古神有三个，所以老人常说英雄应该有三个。如果不是三个人的话他们将会以失败和死亡告终。首先，我们并不相信他，你必须明白，我们是基督教徒，我们的牧师说那些老人都是异教徒应该被烧死，这就是我们所应该做的。但是我们都是白痴，旧神仍然存在着，他们想要向我们报复。现在老人已经死了，再也不能帮助我们。并且我们的牧师也消失了。",
+    "translation": "折磨我们的邪恶是魔法，所以我们必须以魔法对抗。三属于旧神之数，老人说英雄也该是三人。任何别的数目都会失败、死亡。起初我们不信，你明白，我们是基督徒，神父说那老人是多神教徒，该烧死，我们就这么干了。可我们是蠢货。旧神仍在，他们要复仇。如今老人死了，再帮不了我们，神父也失踪了。"
+  },
+  {
+    "text": "You_burned_the_poor_old_man?_You_deserve_what_you're_going_through!",
+    "old_translation": "你烧死了那些可怜的老人吗？你要为你所做的事情付出代价！",
+    "translation": "你们烧了那可怜的老人？活该遭这罪！"
+  },
+  {
+    "text": "No_doubt,_that_old_man_had_something_to_do_with_this._Better_to_solve_this_without_him.",
+    "old_translation": "毫无疑问，那个老人和这件事有关。没有他能更好的解决这件事。",
+    "translation": "毫无疑问，那老人跟这事脱不了干系。最好别再靠他。"
+  },
+  {
+    "text": "What_else_did_this_old_man_say?",
+    "old_translation": "这个老人还说了什么？",
+    "translation": "这老人还说了什么？"
+  },
+  {
+    "text": "Do_our_women_and_children_also_deserve_this?_And_that_old_man_was_not_poor._He_prayed_to_demons,_performed_rituals,_and_sacrificed_animals._He_lived_in_a_hut_from_which_he_sold_potions_and_ointments._Many_believe_that_it_was_because_of_him_that_all_this_evil_is_happening_to_us._That_he_invoked_something..._Therefore,_when_our_priest_ordered_us_to_burn_the_old_man,_we_locked_him_up_in_his_hut_and_burned_it_to_the_ground,_listening_all_the_while_to_his_screams_and_curses.",
+    "old_translation": "那么那些妇女和孩子们也应该付出代价吗？并且那个老人并不可怜。他向恶魔祈祷、并且拿动物做祭品去执行仪式。他住在一个小屋并且售卖药剂。许多人相信是这个老人召唤的东西导致不幸的事发生在我们身上。所以，当我们的牧师命令我们去烧死那个老人的时候，我们把他关进他的小屋里，并且在周围点火，听着他在大火中的尖叫和诅骂。",
+    "translation": "我们的女人和孩子也活该吗？况且那老人并不可怜。他向恶魔祈祷，举行仪式，拿动物献祭。他住在小屋里卖药水和膏药。许多人相信，我们遭这些祸就是他召来的东西害的。于是神父下令烧他，我们就把他锁在屋里，连房一起烧光，一路听着他的尖叫和诅咒。"
+  },
+  {
+    "text": "We_should_not_have_burned_him._That_old_man_was_powerful._He_prayed_to_demons,_performed_rituals,_and_sacrificed_animals._He_lived_in_a_hut_from_which_he_sold_potions_and_ointments._Many_believe_that_it_was_because_of_him_that_all_this_evil_is_happening_to_us._That_he_invoked_something..._Therefore,_when_our_priest_ordered_us_to_burn_the_old_man,_we_locked_him_up_in_his_hut_and_burned_it_to_the_ground,_listening_all_the_while_to_his_screams_and_curses._The_only_advice_he_left_us_was_that_we_should_bring_three_heroes,_or_the_evil_that_lurks_around_us_will_end_up_destroying_us.",
+    "old_translation": "我们不应该把他烧死。那个老人十分强大。他向恶魔祈祷，并且拿动物作为祭品去执行仪式。他住在他卖药水和药膏的小屋里。许多人认为在我们身上发生的所有糟糕的事情都是因为他。因为他召唤了一些东西…因此，当我们的牧师命令我们把这个老人烧死的时候，我们把他关在他的小屋里，就地放火烧了这间木屋，并且听着他在大火中的尖叫和诅咒。他留给我们的唯一的建议是，我们应该带着三个英雄，否则潜伏在我们周围的恶魔最终将毁灭我们。",
+    "translation": "我们不该烧他。那老人有法力。他向恶魔祈祷，举行仪式，拿动物献祭。他住在小屋里卖药水和膏药。许多人相信，我们遭这些祸就是他召来的东西害的。于是神父下令烧他，我们就把他锁在屋里，连房一起烧光，一路听着他的尖叫和诅咒。他留给我们的唯一忠告是：必须带来三位英雄，否则潜伏的邪恶终将毁灭我们。"
+  },
+  {
+    "text": "That_old_man_was_powerful._He_prayed_to_demons,_performed_rituals,_and_sacrificed_animals._He_lived_in_a_hut_from_which_he_sold_potions_and_ointments._Many_believe_that_it_was_because_of_him_that_all_this_evil_is_happening_to_us._That_he_invoked_something..._Before_our_priest_ordered_us_to_burn_him,_he_told_us_that_we_should_bring_three_heroes,_or_the_evil_that_lurks_around_us_will_end_up_destroying_us.",
+    "old_translation": "那个老人十分强大。他向恶魔祈祷，并且拿动物作为祭品去执行仪式。他住在他卖药水和药膏的小屋里。许多人认为在我们身上发生的所有糟糕的事情都是因为他。因为他召唤了一些东西…因此，当我们的牧师命令我们把这个老人烧死的时候，我们把他关在他的小屋里，就地放火烧了这间木屋，并且听着他在大火中的尖叫和诅咒。他留给我们的唯一的建议是，我们应该带着三个英雄，否则潜伏在我们周围的恶魔最终将毁灭我们。",
+    "translation": "那老人有法力。他向恶魔祈祷，举行仪式，拿动物献祭。他住在小屋里卖药水和膏药。许多人相信，我们遭这些祸就是他召来的东西害的。在神父下令烧他之前，他就告诉我们：必须带来三位英雄，否则潜伏的邪恶终将毁灭我们。"
+  },
+  {
+    "text": "You_were_right_to_call_three_heroes_then.",
+    "old_translation": "你是对的，然后去告诉那三位英雄。",
+    "translation": "你们当初召来三位英雄是对的。"
+  },
+  {
+    "text": "What_evil_is_attacking_you?",
+    "old_translation": "什么恶魔在攻击你？",
+    "translation": "什么邪恶在袭击你们？"
+  },
+  {
+    "text": "Yes,_I_think_it_was_the_right_thing_to_do._I'm_also_glad_that_the_abbot_respected_my_reasons,_for_anyone_might_have_thought_us_to_be_heretics.",
+    "old_translation": "是的，我认为这是正确的做法。我也很高兴院长尊重我的劝说，因为任何人都有可能认为我们是异教徒。",
+    "translation": "是的，我认为做得对。我也高兴院长尊重我的理由，毕竟谁都可能把我们当异端。"
+  },
+  {
+    "text": "A_month_or_so_ago,_a_shepherd_disappeared._A_few_days_later,_we_found_his_dismembered_body_near_an_old_tree._That_scared_us,_because_an_animal_would_never_do_that_to_a_man._After_that,_nobody_left_the_village_without_a_companion,_but_that_did_not_help._A_few_days_later,_a_group_of_people_was_attacked._Women_and_children_disappeared,_and_we_later_found_them_dismembered.",
+    "old_translation": "一个月之前，一个牧羊人不见了。几天之后我们在附近的一颗树下发现了他被肢解的尸体。这让我们都很害怕，因为动物不可能会对人类那么做。自从那之后所有人都会结伴出村子，但那并没有什么用。几天之后有一群人被攻击了，孩子和妇女都消失了直到后来我们才发现他们被肢解的尸体。",
+    "translation": "大约一个月前，一个牧羊人失踪。几天后，我们在一棵老树旁发现他支离破碎的尸体。大家吓坏了，因为野兽不会这样对人。之后没人再敢独自出村，可还是没用。几天后，一群人遭袭，女人和孩子消失，后来也被发现肢解。"
+  },
+  {
+    "text": "--His_hands_tremble_as_he_speaks.--^^Then_we_hired_a_group_of_Norsemen_for_a_lot_of_money,_but_evil_did_the_same_to_them_as_to_our_people,_and_their_dismembered_bodies_were_soon_food_for_the_crows.^^Then_the_old_man_told_us_to_invite_three_heroes._Then_we_burned_him.",
+    "old_translation": "--当他说话的时候他的手在颤抖--^^然后我们花了很多钱雇佣一群北欧人，但是恶魔对他们做了和对我们一样的事，他们被肢解的尸体不久就成为了乌鸦的食物^^那个老人叫我们去邀请三位英雄，然后我们烧死了他。",
+    "translation": "——他说话时双手发抖——^^然后我们花大价钱雇了一群诺斯人，可邪恶照样撕碎他们，尸体很快成了乌鸦的食粮。^^接着老人叫我们请三位英雄，我们就把他烧了。"
+  },
+  {
+    "text": "Did_you_ask_your_lord_for_help?",
+    "old_translation": "你们会找你们的主来帮助你们吗？",
+    "translation": "你们没向领主求援？"
+  },
+  {
+    "text": "You_talk_about_evil._Why_suspect_the_supernatural?",
+    "old_translation": "你们讨论恶魔，为什么要怀疑不可思议的事情呢？",
+    "translation": "你们张口就是邪恶，为何认定是超自然？"
+  },
+  {
+    "text": "--He_sighs_heavily.--^^Yes,_that_was_the_first_thing_we_did._He_sent_a_group_of_twenty_warriors._They_were_found_dead_and_dismembered_a_few_days_later._Now_our_lord_says_he_cannot_send_more_men._He_needs_them_for_his_wars._Since_he_had_left_us_to_our_own_devices,_we_asked_the_abbot.",
+    "old_translation": "--他重重地叹了口气--^^是的这是我们做的第一件事。他派了二十个战士，几天后他们被发现已经死亡并且被肢解了。现在我们的主说他不能派遣更多的人。为了他的战争他需要他们。自从他不再对我们的事情加以干涉之后，我们都只能依靠院长。",
+    "translation": "——他重重叹气——^^当然，那是我们最先做的事。他派了二十名战士，几天后全被肢解而死。如今领主说不能再派人，他要打仗。既然他不管我们，我们便去求院长。"
+  },
+  {
+    "text": "The_old_gods_are_back,_thirsty_for_blood_after_so_many_centuries.^^They_have_not_only_killed_people_and_warriors,_but_we_have_seen_them_watching_the_village_from_afar._They_announce_they_are_coming_for_us._One_of_these_days,_the_fog_will_fall,_and_then_we_all_will_die.",
+    "old_translation": "旧神已经回来了，在之后的几个世纪他渴望鲜血^^他们不仅仅杀死平民和战士，但我们已经察觉到他们正在远处看着这个村庄。他们宣布他们将会为我们的鲜血而来。也许在某一天，大雾将至，我们都会死去。",
+    "translation": "旧神归来，渴血数百年。^^他们不仅杀人、杀战士，还在远处窥视村庄，宣告要取我们性命。哪天大雾一起，我们就全得死。"
+  },
+  {
+    "text": "When_there_is_fog,_we_can_hear_their_singing_and_the_howl_of_their_wolves._We_can_even_see_their_figures_between_dark_wisps_of_fog._The_creatures_are_huge._Well,_all_except_her.",
+    "old_translation": "当大雾降临的时候，我们能听见他们的歌声和他们的狼的嚎叫声。我们甚至可以在缕缕的黑雾之间看到他们的身影。他们是巨大的。当然，除了她。",
+    "translation": "起雾时，我们能听见他们的歌声和狼嚎，甚至能在黑雾间看见身影。那些家伙身形巨大，除了她。"
+  },
+  {
+    "text": "Her?_A_woman?",
+    "old_translation": "她？一个女人？",
+    "translation": "她？一个女人？"
+  },
+  {
+    "text": "No,_not_a_woman,_she_is_something_else..._The_ancient_gods_have_sent_her_to_kill_us_all.",
+    "old_translation": "不，不是一个女人，她像是某种其他生物……古老的神已经把她派来来杀死我们所有人",
+    "translation": "不，不是女人，是别的东西……古神派她来杀光我们。"
+  },
+  {
+    "text": "--He_lowers_his_voice_to_a_whisper.--^^She_is_Morrigan,_the_Phantom_Queen,_the_pagan_goddess_of_battle_and..._carnal_encounters._She_was_worshipped_before_Saint_Patrick_brought_us_the_word_of_Christ.",
+    "old_translation": "--他降低了声音细细低语着--^^她是莫莉卡，幽灵女王，异教徒的战争女神和……性欲的肆虐处。之前她崇拜圣帕特里克带给我们的救世主。",
+    "translation": "——他压低声音——^^她是莫莉甘，幻影女王，多神教徒的战争与……情欲女神。圣帕特里克传基督福音之前，人们就敬拜她。"
+  },
+  {
+    "text": "A_shield-maiden?",
+    "old_translation": "是盾女？",
+    "translation": "盾女？"
+  },
+  {
+    "text": "What!_Please_speak_lower._Morrigan_might_hear_us._No,_she_is_powerful_through_magic_rather_than_through_physical_strength.",
+    "old_translation": "什么！请说话小声点。莫莉卡可能会听到我们的谈话。不，她通过强大的魔法监视到我们而不是强大的力量。",
+    "translation": "什么！请小声。莫莉甘可能听见。不，她强在魔法，而非蛮力。"
+  },
+  {
+    "text": "My_grandfather_told_me_stories_about_her._The_Raven_Goddess_selects_who_is_going_to_be_slain_and_takes_the_blood_from_their_hearts,_along_with_their_valor._When_they_arrive_on_the_battlefield,_they_are_already_doomed.^^She_appears_as_a_beautiful_dark_haired_woman_or_sometimes_as_a_crow._A_beautiful_maiden_dressed_with_a_hooded_cloak,_my_grandfather_said._She_is_usually_to_be_found_by_a_river,_washing_the_clothes_of_men_about_to_die._Centuries_ago,_she_was_one_of_the_Tuatha_De_Danann,_the_demons_that_ruled_the_island_before_the_Gaels_arrived._Now_she_lives_in_Sidhe,_the_Underworld,_whose_entry_is_the_ancient_mounds.",
+    "old_translation": "我的祖父曾告诉过我她的一个故事。乌鸦女神可以选择杀死任何人并且从他们的心脏里连同血液和勇气一起抽取出来。当他们到达战场时，他们的命运已经注定。^^她看起来是个有着美丽的黑色头发的女人，有时是一只乌鸦。一个美丽的少女穿着连帽斗篷，我的祖父说。她通常出现在河边，洗着那些将要死去的男人的衣服。几个世纪之前，在戈伊德尔人还没到达这片大陆的时候，她是达努神族的一员，那些恶魔统治着大陆。现在她住在仙冢，一个地下世界，入口在古老的废墟之中。",
+    "translation": "祖父给我讲过她。乌鸦女神挑选谁将战死，并吸走他们心脏的血与勇气。人未上战场，便已注定死亡。^^她或显黑发美人，或化乌鸦。祖父说，她常穿兜帽斗篷，在河边洗将死之人的衣。几百年前，她是达努神族之一，戈伊德尔人到来前统治此岛的恶魔。如今她居于仙冢——地下世界，入口就在古坟。"
+  },
+  {
+    "text": "She_has_left_Sidhe_and_has_brought_her_beasts_with_her._She_will_destroy_us_unless_some_hero_defeats_her_and_sends_her_back_to_her_world.",
+    "old_translation": "她已经离开了仙冢，并且带着自己的野兽。她将会毁灭我们除非有某个英雄将她击败并且送回她的世界。",
+    "translation": "她已离开仙冢，带着野兽而来。除非有英雄击败她，把她赶回彼界，否则我们必亡。"
+  },
+  {
+    "text": "I_am_that_hero._Where_might_I_find_her?",
+    "old_translation": "我就是哪个英雄。我能在哪里找到她？",
+    "translation": "我就是那英雄。去哪儿找她？"
+  },
+  {
+    "text": "I_do_not_believe_in_this_Morrigan,_but_I'll_put_an_end_to_the_murderers_of_your_people.",
+    "old_translation": "我不相信有莫莉卡这个人，但我会找到那个杀人犯并且结束他的生命。",
+    "translation": "我不信这莫莉甘，但我会替你的人民了结那些凶手。"
+  },
+  {
+    "text": "She_can't_be_defeated_by_one_hero,_so_three_were_summoned._You_should_find_them_first.",
+    "old_translation": "她不可能被一个人击败，所以要找到三位英雄。你应该先去找他们。",
+    "translation": "她绝非一人可敌，于是三位英雄被召唤而来。你得先找到他们。"
+  },
+  {
+    "text": "The_fog_always_comes_from_the_coast,_and_with_it_come_Morrigan_and_her_beasts._You_have_to_go_there_if_you_want_to_find_her._The_other_two_heroes_await_you_near_the_burned_hut_of_the_old_man,_a_few_hours_away_from_this_village._They_are_looking_for_more_clues_as_they_await_you._Be_warned!_When_you_leave_this_village_and_move_towards_the_coast,_be_alert_and_flee_from_the_fog,_as_Morrigan_and_her_animals_could_catch_you_before_the_three_of_you_are_joined.",
+    "old_translation": "迷雾总是从海岸的方向弥漫过来，随之而来的是莫莉卡和她的野兽们。如果你想找到她，你必须去那里。其他两个英雄正在那个燃烧着的老人的木屋附近等着你，那儿离这个村庄要几个小时的路程。他们正在寻找更多的线索，因为他们在等待你。小心！当你离开这个村子向海岸走去的时候，要警惕和躲避迷雾，因为莫莉卡和她的野兽们能在三个英雄来之前抓住你。",
+    "translation": "雾总自海岸涌来，莫莉甘与她的野兽随之而至。若想寻她，你就得去那儿。另两位英雄在老人被焚的小屋旁等你，离村不过数时辰。他们一边等你，一边继续搜寻线索。当心！一旦离村朝海岸去，务必警惕并躲开迷雾，否则莫莉甘与她的野兽会在你们三人会合前逮住你。"
+  },
+  {
+    "text": "I_pray_Morrigan_attacks_me,_so_I_get_my_reward_sooner.",
+    "old_translation": "我希望莫莉卡来攻击我，这样我就可以快点得到奖赏。",
+    "translation": "我巴不得莫莉甘来攻我，好让我早点领赏。"
+  },
+  {
+    "text": "I_will_be_alert,_thank_you._Farewell,_then.",
+    "old_translation": "我会小心的，谢谢你。再见了。",
+    "translation": "我会留神，多谢。就此别过。"
+  },
+  {
+    "text": "I'm_glad_to_see_you_alive._Where_are_the_other_champions?_I_hope_they_are_well._After_you_had_left,_we_saw_go_behind_you_the_beasts_of_Morrigan,_and_we_feared_the_worst!",
+    "old_translation": "我很高兴看到你还活着。其他的士兵呢？我希望他们仍然安然无恙。在你离开之后我们看见你后面跟着莫莉卡的野兽，我们很害怕你会出事。",
+    "translation": "真高兴看见你还活着。另外两位勇士呢？但愿他们无恙。你走后，我们看见莫莉甘的野兽尾随你，真怕最坏的事已发生！"
+  },
+  {
+    "text": "Yes,_everybody_is_fine._You_called_me_back_for_this?",
+    "old_translation": "是的，每个人都很好。你叫我回来就是为了这个？",
+    "translation": "是，大家都好。你把我叫回来就为这事？"
+  },
+  {
+    "text": "Morrigan_attacked_me,_but_I_am_fine,_and_the_other_champions,_too.",
+    "old_translation": "莫莉卡攻击了我，但我没有什么事，其他人也一样。",
+    "translation": "莫莉甘袭击了我，但我没事，其他勇士也没事。"
+  },
+  {
+    "text": "Err,_yes,_sorry._I_sent_the_messenger_to_warn_you_of_the_danger._Since_you_are_all_well,_I_guess_he_succeeded_in_his_mission._My_intention_was_not_to_cause_you_to_come_here,_but_I_understand_how_you_might_have_interpreted_it_that_way.",
+    "old_translation": "呃，是的，抱歉。我派遣我的信使来警告你们危险。既然你们安然无恙，我想他已经很成功的完成了自己的使命。我的目的不是让你来这里，但是我理解你可能会那样解释。",
+    "translation": "呃，对不住。我派信使去示警，既然你们都平安，想来他已把口信带到。我本无意让你折返，但也明白你为何会如此理解。"
+  },
+  {
+    "text": "That's_what_I_thought._Morrigan_wanted_to_take_you_by_surprise._We_saw_his_wolves_and_bears_following_in_your_steps,_and_a_brave_lad_volunteered_to_go_to_the_hut_of_the_old_pagan_to_warn_you.",
+    "old_translation": "这就是我的想法。莫莉卡想突袭你。我们看见她的狼和野兽在你的身后跟着。",
+    "translation": "我正是这么想的。莫莉甘想打你个措手不及。我们看见她的狼与熊一路跟着你，一名勇敢的小伙子自告奋勇跑去那位多神教老人的小屋报信。"
+  },
+  {
+    "text": "Well,_the_other_champions_will_send_me_notice_of_where_Morrigan's_camp_is.",
+    "old_translation": "好了，其他士兵将会通知我莫莉卡阵营在哪里。",
+    "translation": "好了，另外两位勇士会传信告诉我莫莉甘的营地在哪。"
+  },
+  {
+    "text": "I_lost_some_men_in_the_battle_with_Morrigan._I_need_warriors.",
+    "old_translation": "我在和莫莉卡战斗的时候失去了很多士兵。我需要士兵。",
+    "translation": "与莫莉甘一战我折了些人手，我需要战士。"
+  },
+  {
+    "text": "I'll_wait_here_for_the_messenger_with_news_about_Morrigan's_lair._Send_mead_and_women_to_my_quarters.",
+    "old_translation": "我会在这里等待莫莉卡的巢穴那里带来的消息。我把四分之一的女人和蜂蜜酒送了过去。",
+    "translation": "我就在这等信使带来莫莉甘巢穴的消息。给我屋里送蜜酒和女人。"
+  },
+  {
+    "text": "In_that_case,_{playername},_you're_free_to_roam_the_village._Relax_here_or_go_hunting_nearby,_but_beware_of_the_fog._We_have_prepared_the_big_house_for_you_and_your_men,_may_its_previous_occupants_rest_in_peace.",
+    "old_translation": "在这种情况下{playername}，你可以自由的在村庄里走动。在这里休息或者去附近打猎，但要小心那些雾。我们已经为你和你的士兵准备好的大房子，可能它以前的住户已经永远的安息了。",
+    "translation": "既如此，{playername}，你可在村里随意走动。留下歇息或去附近打猎都行，但要提防迷雾。我们已为你和部下备好大屋，愿其旧主安息。"
+  },
+  {
+    "text": "My_{reg59?lady:lord},_many_of_our_young_people_want_to_fight_to_avenge_what_happened._I_do_not_like_sending_them_to_their_deaths,_but_I_could_allow_some_to_join_you._Just_promise_me_you'll_take_care_of_them,_because_they_are_heedless_and_impulsive.",
+    "old_translation": "我的{reg59?女士:先生}，许多年轻人因为最近发生的事情想要去复仇去战斗。我不想让他们去白白送死，但我可以让他们加入你。只要答应我好好照顾他们，因为他们都太鲁莽和冲动了。",
+    "translation": "我的{reg59?女士:先生}，许多年轻人想为发生的事复仇。我不愿送他们去死，但可让一些人随你同行。只求你答应照顾好他们，他们鲁莽又冲动。"
+  },
+  {
+    "text": "My_{reg59?lady:lord},_many_of_our_young_people_want_to_fight_to_avenge_what_happened._However,_I_would_be_sending_them_to_their_deaths,_as_they_are_heedless_and_impulsive._Sorry.",
+    "old_translation": "我的{reg59?女士:先生}，许多年轻人因为最近发生的事情想要去复仇去战斗。我不能让他们白白去送死，因为他们太鲁莽和冲动了，抱歉。",
+    "translation": "我的{reg59?女士:先生}，许多年轻人想为发生的事复仇。可他们鲁莽冲动，我若答应便是送他们去死。抱歉。"
+  },
+  {
+    "text": "It_will_be_done,_my_{reg59?lady:lord}._The_large_house_is_for_you_and_your_men,_may_its_previous_occupants_rest_in_peace._I_will_send_our_best_food_and_mead._Our_young_girls_will_serve_you_and_keep_you_company._It's_the_least_we_can_do_for_our_saviors._You_are_free_to_roam_the_village_or_go_hunting_nearby,_but_beware_of_the_fog.",
+    "old_translation": "马上就好，我的{reg59?女士:先生}。我们已经为你和你的士兵准备好的大房子，可能它以前的住户已经永远的安息了。我将会送上我们最好的食物和蜂蜜酒。我们的年轻姑娘将会服侍你并且让你感觉愉快。这是我们最后能为我们的救世主所做的了。你可以自由的在村庄里走动。在这里休息或者去附近打猎，但要小心那些雾。",
+    "translation": "遵命，我的{reg59?女士:先生}。大屋已为你和部下备好，愿其旧主安息。我会送上最好的食物与蜜酒，让年轻姑娘服侍陪伴。这是我们能为救命恩人做的最起码的事。你可在村里随意走动，或去附近打猎，但要提防迷雾。"
+  },
+  {
+    "text": "The_large_house_is_for_you_and_your_men,_may_its_previous_occupants_rest_in_peace._I_will_send_our_food_and_mead,_but_excuse_me,_my_{reg59?lady:lord}_--_we_prefer_to_keep_our_young_girls_far_from_your_men,_as_is_proper._You_are_free_to_roam_the_village_or_go_hunting_nearby,_but_beware_of_the_fog.",
+    "old_translation": "我们已经为你和你的士兵准备好的大房子，可能它以前的住户已经永远的安息了。我将会送上我们最好的食物和蜂蜜酒，但是抱歉，我的{reg59?女士:先生}--我们更愿意让年轻姑娘远离你的人，这是比较合适的。你可以自由的在村庄里走动。在这里休息或者去附近打猎，但要小心那些雾。",
+    "translation": "大屋已为你和部下备好，愿其旧主安息。我会送上食物与蜜酒，但请恕我，我的{reg59?女士:先生}——按礼俗，我们愿让年轻姑娘远离诸位。你可在村里随意走动，或去附近打猎，但要提防迷雾。"
+  },
+  {
+    "text": "Sure._I_will_take_good_care_of_them.",
+    "old_translation": "当然，我会照顾好他们的。",
+    "translation": "放心，我会好好照看他们。"
+  },
+  {
+    "text": "Then_it_would_be_better_to_leave_those_boys_with_their_mothers.",
+    "old_translation": "让这些男孩离开母亲的怀抱才是最好的。",
+    "translation": "那还是让这些男孩留在母亲身边更好。"
+  },
+  {
+    "text": "I_can_think_of_{reg5}_youths_whom_I_suspect_would_join_you._Does_that_suit_you?",
+    "old_translation": "我能想到{reg5}我怀疑年轻人将会加入你。这适合你吗？",
+    "translation": "我想到{reg5}个年轻人，估计他们愿随你去。你觉得如何？"
+  },
+  {
+    "text": "Any_you_can_spare_are_welcome.",
+    "old_translation": "感谢你所做的一切。",
+    "translation": "你能抽调的人，我都欢迎。"
+  },
+  {
+    "text": "No,_they_please_me_not.",
+    "old_translation": "不，他们并不给我面子。",
+    "translation": "不，他们不合我意。"
+  },
+  {
+    "text": "Thank_you_for_your_hospitality,_Caliacas._We_will_wait_here_until_we_receive_information_on_where_Morrigan's_lair_is._Then_we_will_finish_her_off_and_bring_peace_back_to_your_people.",
+    "old_translation": "谢谢你的款待，卡利卡斯。我们会在这里等待，直到我们收到信息莫莉卡的老巢在哪里。然后我们将制裁她并且给你的人民重新带来和平。",
+    "translation": "感谢你的款待，卡利卡斯。我们在此等候莫莉甘巢穴的消息，然后便结果她，让你的人民重归和平。"
+  },
+  {
+    "text": "--His_face_shows_a_disproportionate_joy._He_seems_barely_able_to_keep_himself_from_hugging_you.--^^You..._you_are_a_hero,_my_friend!_You_saved_this_village,_and_we_will_be_eternally_grateful.^Everyone_in_this_village_knows_what_you_have_done._You_will_always_be_welcome_here_as_a_hero._I_also_give_you_one_of_my_children,_the_youngest,_to_join_your_army_and_serve_under_your_name._His_name_is_Bran,_and_he_is_very_dear_to_me.",
+    "old_translation": "--他的脸上几乎无法掩饰自己内心的快乐，他几乎无法阻止自己拥抱你。--^^你……你是一个英雄！我的朋友！你拯救了这个村子，并且我们将永远感激你！^这个村里每个人都知道你为我们做了什么。在这里你将会被作为一个英雄永远受到欢迎。我也让我最小的一个孩子加入你的军队并且为你服务。他的名字是布兰，并且是我最珍爱的一个孩子。",
+    "translation": "——他脸上露出难以抑制的喜悦，几乎忍不住要拥抱你。——^^你……你是英雄，我的朋友！你救了这个村子，我们永世感激。^村里人人都知道你的功绩。这里永远欢迎你这位英雄。我把最小的孩子交给你，让他加入你的军队，为你效力。他叫布兰，是我最疼爱的孩子。"
+  },
+  {
+    "text": "Thanks,_Caliacas._I_will_take_good_care_of_him.",
+    "old_translation": "谢谢卡利卡斯，我会照顾好她的。",
+    "translation": "谢谢你，卡利卡斯。我会好好照顾他。"
+  },
+  {
+    "text": "That's_not_necessary._I_can't_guarantee_his_safety.",
+    "old_translation": "这是不必要的，我不能保证他的安全。",
+    "translation": "不必了，我无法保证他的安全。"
+  },
+  {
+    "text": "You_have_saved_many_lives_here._Thanks,_{playername}!_Return_to_the_abbot_of_Finian._I'm_sure_he_is_ready_to_reward_you_and_hear_the_good_news._Good_luck,_my_friend.",
+    "old_translation": "你拯救了这里的许多人，谢谢{playername}！回到菲尼安修道院去找院长。我相信他已经准备好奖励你，并且想听到这个好消息。祝你好运，我的朋友。",
+    "translation": "你在这里救了许多性命。谢谢你，{playername}！回菲尼安修道院找院长吧，他一定准备好奖赏你，也想听这好消息。祝你好运，我的朋友。"
+  },
+  {
+    "text": "Sorry,_but_the_decision_is_taken._I_am_not_a_rich_man,_but_my_children_are_strong_and_healthy,_and_I_find_no_better_way_to_reward_you_for_what_you've_done.",
+    "old_translation": "抱歉但我已经决定我不是一个有钱的男人，但我的孩子们很强壮和健康，我找不到更好的方法来为你所做的一切来奖励你。",
+    "translation": "抱歉，我已经决定了。我不是富人，但我的孩子们都强壮健康，我想不出更好的办法来报答你。"
+  },
+  {
+    "text": "I_am_looking_for_a_man_by_the_name_of_{s4}._I_was_told_he_might_be_hiding_here.",
+    "old_translation": "我在找一个名叫{s4}的人。我被告知他就藏在这里。",
+    "translation": "我在找一个叫{s4}的人。听说他可能藏在这里。"
+  },
+  {
+    "text": "Strangers_come_and_go_to_our_village,_{reg59?madam:sir}._If_he_is_hiding_here,_you_will_surely_find_him_if_you_look_around.",
+    "old_translation": "很多陌生人出没我们的村子，{reg59?女士:先生}，如果他躲在这，你四处转转肯定能找到他。",
+    "translation": "陌生人来来往往，{reg59?女士:先生}。若他真躲在这儿，你四处看看就能找到。"
+  },
+  {
+    "text": "Do_you_have_any_tasks_I_can_help_you_with?",
+    "old_translation": "大人，你有什么任务可以给我做吗？",
+    "translation": "有什么任务需要我帮忙吗？"
+  },
+  {
+    "text": "I_want_to_buy_some_supplies._I_will_pay_with_silver.",
+    "old_translation": "我想买一些补给品。我将会付现金的。",
+    "translation": "我想买些补给，用银币付账。"
+  },
+  {
+    "text": "I_need_to_raise_the_levy.",
+    "old_translation": "我需要提高征税。",
+    "translation": "我得征召民兵。"
+  },
+  {
+    "text": "Very_well._We_can_raise_{reg33}_people._Do_you_want_to_proceed?_Please,_keep_in_mind_that_taking_men_away_from_the_fields_will_negatively_impact_our_village.",
+    "old_translation": "很好，我们可以提高{reg33}，你想要继续吗？请记住把士兵远离我们村庄以免产生不好的影响。",
+    "translation": "好的，我们能召集{reg33}人。要继续吗？请记住，把男人从田里抽走，村子会受损失。"
+  },
+  {
+    "text": "Hmm,_no,_I_don't_want_to_do_that.",
+    "old_translation": "嗯，不，我不想这样做。",
+    "translation": "嗯，不，我不想这么做。"
+  },
+  {
+    "text": "Yes,_please_call_up_all_the_eligible_men._And_get_your_gear,_too.",
+    "old_translation": "嗯，是的请叫所有符合条件的人来，并且拿上你的装备。",
+    "translation": "好，请召集所有符合条件的人，你也带上装备。"
+  },
+  {
+    "text": "As_you_wish,_{playername}.",
+    "old_translation": "如你所愿{playername}。",
+    "translation": "遵命，{playername}。"
+  },
+  {
+    "text": "What_would_you_like_us_to_do?",
+    "old_translation": "你要我们做什么？",
+    "translation": "你要我们做什么？"
+  },
+  {
+    "text": "I_don't_require_your_services_any_longer...",
+    "old_translation": "我再也不需要你的服务……",
+    "translation": "我不再需要你们效力……"
+  },
+  {
+    "text": "Thank_you._We'll_be_happy_to_go_back_home.",
+    "old_translation": "谢谢你！我们很高兴能够回家。",
+    "translation": "谢谢你，我们很高兴能回家。"
+  },
+  {
+    "text": "I_would_like_to_set_a_new_tax_rate_for_this_fort.",
+    "old_translation": "我想为这个堡垒规定一项新的税率。",
+    "translation": "我想为这座堡垒设定新税率。"
+  },
+  {
+    "text": "Certainly._What_taxes_do_you_want_us_to_pay_you?",
+    "old_translation": "当然，你需要多少的税率。",
+    "translation": "当然，您要我们缴多少税？"
+  },
+  {
+    "text": "Most_certainly._We_shall_abide_by_your_most_gracious_order.",
+    "old_translation": "当然，我们应该遵守你的规定。",
+    "translation": "当然，我们必遵从您的仁令。"
+  },
+  {
+    "text": "I_would_like_to_set_a_new_tax_rate_for_this_village.",
+    "old_translation": "我想规定一项新的税率为这个村庄。",
+    "translation": "我想为这个村庄设定新税率。"
+  },
+  {
+    "text": "Of_course,_{reg59?madam:sir}._Do_you_want_to_buy_goods_or_cattle?",
+    "old_translation": "当然，{reg59?女士:先生}。你想要买东西或者买牛吗？",
+    "translation": "当然，{reg59?女士:先生}。您要买货物还是牲口？"
+  },
+  {
+    "text": "I_want_to_buy_food_and_supplies.",
+    "old_translation": "我想买食品和补给品。",
+    "translation": "我要买食物和补给。"
+  },
+  {
+    "text": "We_have_some_food_and_other_supplies_in_our_storehouse._Come_and_have_a_look.",
+    "old_translation": "我们的仓库里面有一些食物和其他补给品。过来看看。",
+    "translation": "仓库里有些食物和别的补给，过来看看。"
+  },
+  {
+    "text": "I_want_to_buy_some_cattle.",
+    "old_translation": "我想买些牛。",
+    "translation": "我想买些牛。"
+  },
+  {
+    "text": "I_have_{reg25}_head_of_cattle_that_I_would_like_to_gift_to_your_village.",
+    "old_translation": "我有{reg25}头牛，我把这送给你，当做是给你们村的礼物。",
+    "translation": "我有{reg25}头牛，想作为礼物送给贵村。"
+  },
+  {
+    "text": "Yes,_definitely._Our_people_will_be_extremely_grateful_for_such_a_generous_gift.",
+    "old_translation": "是的，当然。我们的人民对这慷慨的礼物表示万分感谢。",
+    "translation": "是的，当然。我们的人民对这慷慨的礼物感激不尽。"
+  },
+  {
+    "text": "I_changed_my_mind._I_don't_need_to_buy_anything.",
+    "old_translation": "我改主意了，我什么都不想买了。",
+    "translation": "我改主意了，我什么都不想买。"
+  },
+  {
+    "text": "Have_you_seen_any_enemies_around_here_recently?",
+    "old_translation": "你最近在这周围看到敌人了吗？",
+    "translation": "你最近在这附近看到敌人了吗？"
+  },
+  {
+    "text": "I_am_sorry,_{reg59?madam:sir}._We_have_neither_seen_nor_heard_of_any_war_parties_in_this_area.",
+    "old_translation": "{reg59?女士:先生}，很抱歉。我们在这块区域没看到，也没听说过任何敌人。",
+    "translation": "{reg59?女士:先生}，很抱歉。我们在这块区域既没看到，也没听说任何敌军。"
+  },
+  {
+    "text": "Hmm._Let_me_think_about_it...",
+    "old_translation": "呃，让我考虑一下……",
+    "translation": "嗯，让我想想……"
+  },
+  {
+    "text": "No,_{reg59?madam:sir}._We_haven't_seen_any_war_parties_in_this_area_for_some_time.",
+    "old_translation": "不，{reg59?女士:先生}。我们有段时间没在这块区域见到敌人了。",
+    "translation": "没有，{reg59?女士:先生}。我们在这块区域已经有一段时间没见到敌军了。"
+  },
+  {
+    "text": "Well,_I_guess_that_was_all.",
+    "old_translation": "我想，你说完了。",
+    "translation": "我想，就这些了。"
+  },
+  {
+    "text": "My_{reg59?lady:lord},_I_can_beat_and_torture_your_enemies_for_your_pleasure_or_if_you_want_to_make_an_enemy_lord_do_something._For_example,_you_can_force_an_enemy_lord_to_grant_permission_to_court_his_daughter_or_sister,_if_such_permission_is_hard_to_gain_for_you_by_any_other_means._Or_you_can_force_the_lord_to_grant_you_parts_of_his_rents_from_his_fief_for_some_time_in_exchange_for_freedom._If_the_lord_is_pagan_and_married,_you_can_try_to_force_him_to_divorce_his_wife._Then,_of_course,_you_will_be_free_to_pursue_her_as_a_free_woman.",
+    "old_translation": "我的{reg59?女士:先生}，只要你高兴我能殴打或者折磨你的敌人，如果你想让你的敌人的主做点什么。例如，您可以迫使敌人的主允许向女儿或姐妹求婚，如果这样的许可是很难以任何其他方式被允许的话。或者你可以迫使主在一段时间内从他的封地赐予你他的部分地租，以换取自由。如果和异教徒结婚的话，你可以强迫他们离婚。之后，当然，你可以去追求她。",
+    "translation": "我的{reg59?女士:先生}，我可以为您殴打或折磨敌人，供您取乐，或者帮您迫使敌方领主就范。例如，您可以逼敌方领主同意您追求他的女儿或妹妹，若用其他手段难以获得许可。也可以逼他把封地的一部分租金让渡给您，换取自由。若那领主是多神教徒且已婚，您还可逼他休妻，之后您便可自由追求那位女子。"
+  },
+  {
+    "text": "Thank_you._That_was_informative.",
+    "old_translation": "谢谢你！这很有用。",
+    "translation": "谢谢你，这消息很有用。"
+  },
+  {
+    "text": "My_{reg59?lady:lord},_what_can_I_do_for_you?",
+    "old_translation": "我的{reg59?女士:先生}，我能为你做什么？",
+    "translation": "我的{reg59?女士:先生}，我能为您做什么？"
+  },
+  {
+    "text": "Torturer?_What_is_it_you_can_do?",
+    "old_translation": "拷问者？你可以做什么？",
+    "translation": "拷问者？你能做什么？"
+  },
+  {
+    "text": "I'd_like_you_to_have_a_little_chat_with_one_of_the_prisoners.",
+    "old_translation": "我想让你和一个囚犯聊会天。",
+    "translation": "我想让你和一名囚犯聊聊。"
+  },
+  {
+    "text": "Nothing,_I'm_just_checking_the_prison_out.",
+    "old_translation": "没什么，我只是来检查监狱。",
+    "translation": "没什么，我只是来查看监狱。"
+  },
+  {
+    "text": "Whom_do_you_want_me_to_talk_to?",
+    "old_translation": "你想让我跟谁聊天？",
+    "translation": "你想让我和谁谈？"
+  },
+  {
+    "text": "Alright,_what_do_you_want_me_to_do_with_{s10}?",
+    "old_translation": "好吧，你想让我对{s10}做什么？",
+    "translation": "好吧，你想让我对{s10}做什么？"
+  },
+  {
+    "text": "Dump_that_bucket_of_water_on_him._Maybe_then_he'll_come_back_to_life.",
+    "old_translation": "给他泼一桶水，或许他会醒过来。",
+    "translation": "把那桶水泼到他身上，也许他会清醒过来。"
+  },
+  {
+    "text": "I'd_like_you_to_hit_his_face,_but_be_careful._He_hasn't_been_ransomed_yet.",
+    "old_translation": "我想让你打他的脸，但是小心点，他还没被赎回去。",
+    "translation": "我想让你打他的脸，但小心点，他还没被赎回。"
+  },
+  {
+    "text": "Just_beat_him_up..._a_little_bit,_but_be_gentle.",
+    "old_translation": "只是打他……但是温柔点。",
+    "translation": "就揍他几下……轻一点，别太狠。"
+  },
+  {
+    "text": "Warm_up_that_iron_rod._Let's_see_how_well_he_can_handle_the_heat.",
+    "old_translation": "加热一根铁棒，让我们看看他能不能好好的承受热量。",
+    "translation": "把那根铁棒烧热，让我们看看他能不能扛住。"
+  },
+  {
+    "text": "Very_well,_I_will_do_that.",
+    "old_translation": "很好，我会做那个的。",
+    "translation": "很好，我这就去办。"
+  },
+  {
+    "text": "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaah",
+    "old_translation": "啊啊啊啊啊啊啊啊啊啊啊",
+    "translation": "啊啊啊啊啊啊啊啊啊啊啊"
+  },
+  {
+    "text": "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaah!!!!!!!!",
+    "old_translation": "呃啊啊啊啊啊啊啊啊！！！！",
+    "translation": "呃啊啊啊啊啊啊啊啊！！！！"
+  },
+  {
+    "text": "Whoooosh!!!!!!!!",
+    "old_translation": "哦，天哪！！",
+    "translation": "呼——！！！！！"
+  },
+  {
+    "text": "Looks_like_he's_alive,_but_he_needs_to_recover_a_little_bit_for_further_conversations.",
+    "old_translation": "看起来他还活着，但他需要恢复一会才能继续交谈。",
+    "translation": "看来他还活着，但得先恢复一下才能继续谈话。"
+  },
+  {
+    "text": "Looks_like_that_one_fell_short._Shall_we_try_something_else?",
+    "old_translation": "看起来这个人还没享受完，我们要不要试试其他手段？",
+    "translation": "看来这招还不够，要不要换点别的？"
+  },
+  {
+    "text": "I_think_the_prisoner_has_passed_out.",
+    "old_translation": "我想犯人可能晕过去了。",
+    "translation": "我想犯人已经昏过去了。"
+  },
+  {
+    "text": "I_need_you_to_set_a_large_fire_on_the_outskirts_of_this_village.",
+    "old_translation": "我要你在这个村郊放一把大火。",
+    "translation": "我要你在村外放一把大火。"
+  },
+  {
+    "text": "We_have_already_agreed_upon_this,_{reg59?my_lady:sir}._I_will_do_my_best._You_can_trust_me.",
+    "old_translation": "{reg59?女士:先生}，我们已经同意了。我会尽我所能。请你相信我。",
+    "translation": "{reg59?女士:先生}，我们已经说定了。我会尽力而为，你可以相信我。"
+  },
+  {
+    "text": "A_fire,_{reg59?madam:sir}!_Fires_are_dangerous!_Why_would_you_want_such_a_thing?",
+    "old_translation": "一场大火，{reg59?女士:先生}！火是很危险的！为什么你想要这个？",
+    "translation": "一场大火，{reg59?女士:先生}！火很危险！你为什么要这么做？"
+  },
+  {
+    "text": "I_believe_that_we_have_already_discussed_this_issue,_{reg59?my_lady:sir}.",
+    "old_translation": "我相信我们已经讨论过这个问题了，{reg59?女士:先生}。",
+    "translation": "我相信我们已经谈过这事了，{reg59?女士:先生}。"
+  },
+  {
+    "text": "We_talked_about_this_before,_{reg59?madam:sir}._Your_previous_offers_were_low_compared_to_risk_you_want_me_to_take.",
+    "old_translation": "我们已经讨论过这个问题了，{reg59?女士:先生}，而对于你之前的提议，我们的关系不足以让我们冒险做你要我们做的。",
+    "translation": "我们之前谈过了，{reg59?女士:先生}。比起你要我冒的风险，你之前的出价太低。"
+  },
+  {
+    "text": "I_have_my_reasons,_and_you_will_have_yours_--_a_purse_of_silver._Will_you_do_it,_or_not?",
+    "old_translation": "我有我要这么做的原因，而你做了之后也有你的好处——一包赏钱。你干还是不干？",
+    "translation": "我有我的理由，你也会有你的好处——一袋银便士。你干，还是不干？"
+  },
+  {
+    "text": "Given_the_risk_you_are_taking,_you_are_entitled_to_know_my_plan.",
+    "old_translation": "鉴于你要冒的险，你有权知道我的计划。",
+    "translation": "既然你要冒险，你有权知道我的计划。"
+  },
+  {
+    "text": "I_wish_to_rescue_a_prisoner_from_{s4}._When_you_light_the_fire,_the_guards_in_{s4}_will_see_the_smoke,_and_some_of_them_will_rush_outside_to_see_what_is_going_on._",
+    "old_translation": "我打算从{s4}营救一名囚犯。当你点起火，{s4}的守卫就会看到浓烟，然后他们当中就会有人冲出来看个究竟。",
+    "translation": "我要从{s4}救一名囚犯。你点起火后，{s4}的守卫会看见烟，其中一些人会冲出来查看。"
+  },
+  {
+    "text": "As_you_wish,_{reg59?my_lady:sir}._You_have_been_a_good_friend_to_this_village,_and,_even_though_there_is_a_risk,_we_should_be_glad_to_return_the_favor._When_do_you_want_this_fire_to_start?",
+    "old_translation": "遵命，{reg59?女士:先生}。你是这个村子的朋友，并且，即使要经历这场风险，我们也十分高兴能报答你。你想要什么时候放火？",
+    "translation": "遵命，{reg59?女士:先生}。你是本村的朋友，就算有风险，我们也乐意回报。你想什么时候点火？"
+  },
+  {
+    "text": "I'm_sorry,_{reg59?my_lady:sir}._You_will_forgive_me_for_saying_this,_but_we_don't_exactly_have_good_reason_to_trust_you._This_is_too_dangerous.",
+    "old_translation": "{reg59?女士:先生}，抱歉。请原谅我这么说，但你没有充足的理由能够让我们信任。这事情太危险了。",
+    "translation": "{reg59?女士:先生}，抱歉。恕我直言，我们没有足够理由信任你，这太危险了。"
+  },
+  {
+    "text": "As_you_say,_{reg59?my_lady:sir},_but_in_doing_this,_we_are_taking_a_very_great_risk._What's_in_it_for_us?",
+    "old_translation": "{reg59?女士:先生}，我们依你说的做。但做这个是有很大风险的。我们从中能得到什么好处？",
+    "translation": "{reg59?女士:先生}，照你说的做，可我们冒了极大风险，我们有什么好处？"
+  },
+  {
+    "text": "I_can_give_you_100_peningas.",
+    "old_translation": "我可以给你100先令。",
+    "translation": "我可以给你100银便士。"
+  },
+  {
+    "text": "I_can_give_you_200_peningas.",
+    "old_translation": "我可以给你200先令。",
+    "translation": "我可以给你200银便士。"
+  },
+  {
+    "text": "I_can_give_you_300_peningas.",
+    "old_translation": "我可以给你300先令。",
+    "translation": "我可以给你300银便士。"
+  },
+  {
+    "text": "This_is_madness._I_cannot_take_such_a_risk.",
+    "old_translation": "这太疯狂了。我不能冒这个险。",
+    "translation": "这太疯狂了，我不能冒这种险。"
+  },
+  {
+    "text": "Then_let's_increase_your_reward_to_200_peningas.",
+    "old_translation": "那我把报酬加到200先令。",
+    "translation": "那我把报酬提到200银便士。"
+  },
+  {
+    "text": "Then_let's_increase_your_reward_to_300_peningas.",
+    "old_translation": "那我把报酬加到300先令。",
+    "translation": "那我把报酬提到300银便士。"
+  },
+  {
+    "text": "Then_let's_increase_your_reward_to_300_peningas._This_is_my_last_offer.",
+    "old_translation": "那我把报酬加到300先令，这是我的底线了。",
+    "translation": "那我把报酬提到300银便士，这是我的最后出价。"
+  },
+  {
+    "text": "Very_well._You_are_asking_me_to_take_a_very_great_risk,_but_I_will_do_it._When_do_you_want_this_fire_to_start?",
+    "old_translation": "很好。你要我去冒很大的风险，但是我会去做的。你打算什么时候放火？",
+    "translation": "好。你要我冒很大风险，但我会去做。你想什么时候点火？"
+  },
+  {
+    "text": "I_cannot_do_such_a_dangerous_thing_for_200_peningas.",
+    "old_translation": "我不能为了区区200先令就去冒这么大的风险。",
+    "translation": "我不能为区区200银便士冒这么大的险。"
+  },
+  {
+    "text": "Continue_with_your_preparations._One_hour_from_now,_I_need_that_fire.",
+    "old_translation": "继续你的准备工作。一个小时以后，我需要那场火。",
+    "translation": "继续准备。一小时后，我要看到火起。"
+  },
+  {
+    "text": "Do_this_in_at_the_stroke_of_midnight._I_will_wait_exactly_one_hour.",
+    "old_translation": "午夜时分动手。我会等待一个小时整。",
+    "translation": "午夜钟声响起时动手。我会整整等一小时。"
+  },
+  {
+    "text": "Very_well,_{reg59?my_lady:sir}._We_will_make_our_preparations._Now_you_make_yours.",
+    "old_translation": ".很好，{reg59?女士:先生}。我们去做准备了。你也可以准备吧。",
+    "translation": "很好，{reg59?女士:先生}。我们去准备，你也去准备吧。"
+  },
+  {
+    "text": "As_you_wish,_{reg59?my_lady:sir}._May_the_heavens_protect_you.",
+    "old_translation": "遵命，{reg59?女士:先生}。愿老天保佑你。",
+    "translation": "遵命，{reg59?女士:先生}。愿上天护佑你。"
+  },
+  {
+    "text": "I'm_looking_for_men_who_are_willing_to_follow_me._I_am_recruiting...",
+    "old_translation": "这个村子里有愿意跟着我去打仗的人吗？我在招募新兵……",
+    "translation": "我在找愿意跟随我的人。我正在招募……"
+  },
+  {
+    "text": "I_can_protect_this_village_from_harm_--_for_a_fee.",
+    "old_translation": "我能够保护这个村子，当然了，要收保护费。",
+    "translation": "我能保护这个村子免遭伤害——得付点钱。"
+  },
+  {
+    "text": "Ach,_not_another_one!_For_the_sake_of_our_families,_I_will_pay_your_fee.",
+    "old_translation": "哼，又来了一个！好吧，为了家庭，我付保护费。",
+    "translation": "唉，又来一个！为了家人，我付你钱。"
+  },
+  {
+    "text": "You_have_done_well._Your_families_will_thank_you.",
+    "old_translation": "你做的很好，你的家人会感谢你的。",
+    "translation": "你干得不错，你的家人会感激你。"
+  },
+  {
+    "text": "Hah,_you_joker,_you..._You_don't_fool_me_one_bit!",
+    "old_translation": "哈，你个骗子，你……你从我这再也骗不到一分钱了！",
+    "translation": "哈，你这滑头……你一点也骗不了我！"
+  },
+  {
+    "text": "Are_there_any_stray_dogs_here?",
+    "old_translation": "这里有流浪狗吗？",
+    "translation": "这儿有流浪狗吗？"
+  },
+  {
+    "text": "Yes,_recently_I_saw_a_stray_dog._He_was_begging_for_food,_but_nobody_here_needs_a_new_dog._I_think_he_is_currently_sitting_somewhere_around_here.",
+    "old_translation": "是的，最近我看到了一只流浪狗。他需要食物，但没有人在这里需要一条新的狗。我想它正在附近的某个地方坐着。",
+    "translation": "有，最近我看到一只流浪狗。它讨吃的，可村里没人想再养狗。我想它就在附近蹲着。"
+  },
+  {
+    "text": "No,_I_haven't_seen_any_stray_dog_here_recently._",
+    "old_translation": "不，我最近还没有看到任何流浪狗在这里。",
+    "translation": "没有，我最近没见着流浪狗。"
+  },
+  {
+    "text": "We_have_{reg5}_head_of_cattle,_each_for_{reg6}_peningas._How_many_do_you_want_to_buy?",
+    "old_translation": "我们有{reg5}头牛，每头牛{reg6}先令。你想买多少头？",
+    "translation": "我们有{reg5}头牛，每头{reg6}银便士。你想买几头？"
+  },
+  {
+    "text": "I_am_afraid_we_have_no_cattle_left_in_the_village,_{reg59?madam:sir}.",
+    "old_translation": "{reg59?女士:先生}，我恐怕村子里面已经没有牛了。",
+    "translation": "{reg59?女士:先生}，恐怕村里已经没牛了。"
+  },
+  {
+    "text": "One.",
+    "old_translation": "一。",
+    "translation": "一。"
+  },
+  {
+    "text": "Two.",
+    "old_translation": "二。",
+    "translation": "二。"
+  },
+  {
+    "text": "Three.",
+    "old_translation": "三。",
+    "translation": "三。"
+  },
+  {
+    "text": "Four.",
+    "old_translation": "四。",
+    "translation": "四。"
+  },
+  {
+    "text": "Five.",
+    "old_translation": "五。",
+    "translation": "五。"
+  },
+  {
+    "text": "Six.",
+    "old_translation": "五。",
+    "translation": "六。"
+  },
+  {
+    "text": "Seven.",
+    "old_translation": "七。",
+    "translation": "七。"
+  },
+  {
+    "text": "Eight.",
+    "old_translation": "八。",
+    "translation": "八。"
+  },
+  {
+    "text": "I_will_tell_the_herders_to_round_up_the_animals_and_bring_them_to_you,_{reg59?madam:sir}._I_am_sure_you_will_be_satisfied_with_your_purchase.",
+    "old_translation": "我会告诉牧人把牲畜聚集起来带给你的，{reg59?女士:先生}。我很肯定你会十分满意。",
+    "translation": "我会让牧人把牲口赶来给你，{reg59?女士:先生}。包你满意。"
+  },
+  {
+    "text": "Forget_it!_Why_would_I_help_an_enemy_of_the_kingdom?",
+    "old_translation": "别打主意了！你有何理由要我帮助敌国的人？",
+    "translation": "算了吧！我凭什么帮王国的敌人？"
+  },
+  {
+    "text": "Forget_it!_In_this_community,_you_are_not_welcome.",
+    "old_translation": "别打主意了！在这里你不受欢迎！",
+    "translation": "算了吧！这地方不欢迎你。"
+  },
+  {
+    "text": "Unfortunately,_I_know_of_no_one_that_may_be_interested.",
+    "old_translation": "抱歉，没人对这感兴趣！",
+    "translation": "可惜，我找不到感兴趣的人。"
+  },
+  {
+    "text": "Sure._You_are_welcome!",
+    "old_translation": "当然，欢迎您！",
+    "translation": "当然，欢迎！"
+  },
+  {
+    "text": "You_do_not_look_like_anyone_special._A_wanderer_like_many_others,_with_promises_and_words,_but_nothing_more._Why_should_I_help_you_find_recruits?",
+    "old_translation": "你看起来就是个普通人，和其他的冒险者一样，满怀誓言，但也就如此了。你有何理由让我帮你征募？",
+    "translation": "你看着没什么特别，不过是个漂泊者，满嘴空话。我凭什么帮你招兵？"
+  },
+  {
+    "text": "I_know_you're_someone_feared._I'm_not_sure_many_men_would_want_to_join_you.",
+    "old_translation": "我知道有些人对你怀有恐惧之心。我不确定是否有人会加入你。",
+    "translation": "我知道有人怕你。我不确定有没有人愿意跟你。"
+  },
+  {
+    "text": "What_I_can_say...",
+    "old_translation": "我能说什么呢……",
+    "translation": "我还能说什么……"
+  },
+  {
+    "text": "I'll_take_some_men_that_might_be_nothing_but_trouble_and_you_would_even_get_paid_for_that.",
+    "old_translation": "我会把一些麻烦的家伙带到这里，不过你还是得付钱。",
+    "translation": "我会带几个可能只会惹麻烦的家伙来，而你甚至还能拿到报酬。"
+  },
+  {
+    "text": "You_know_my_reputation._Avoid_damage_to_your_people._Give_me_permission.",
+    "old_translation": "你知道我是什么样的人的。在作出承诺之前，最好考虑清楚。",
+    "translation": "你知道我的名声。别让你的人受伤。给我许可。"
+  },
+  {
+    "text": "Take_these_300_peningas_for_any_inconvenience_I_may_have_caused.",
+    "old_translation": "拿这300先令吧，当作是带来不便的补偿。",
+    "translation": "收下这300银便士，算是我带来不便的补偿。"
+  },
+  {
+    "text": "I_see_I_did_not_come_at_a_good_time._We'll_talk_again_another_day._Farewell.",
+    "old_translation": "看来我来的不是时候，我们改天再谈吧，再见！",
+    "translation": "看来我来得不是时候。改日再谈。再会。"
+  },
+  {
+    "text": "Let's_get_down_to_business._Now,_listen_carefully.",
+    "old_translation": "我们开始着手去做吧。现在，仔细听着。",
+    "translation": "咱们谈正事。现在，仔细听。"
+  },
+  {
+    "text": "I_think_this_conversation_is_over._Farewell.",
+    "old_translation": "我认为谈话该到此为止了。再见。",
+    "translation": "我想谈话到此为止。再会。"
+  },
+  {
+    "text": "Your_silver_is_music_to_my_ears._Now,_let_us_talk.",
+    "old_translation": "你的银子哗哗响真是动听。我们开始谈吧。",
+    "translation": "你的银子在我耳里就是音乐。现在，咱们谈吧。"
+  },
+  {
+    "text": "I_am_an_honest_person._Do_you_think_I'll_take_your_bribe?_This_conversation_is_over._Farewell.",
+    "old_translation": "我是个诚实的人。你认为我会接受你的贿赂吗？谈话到此为止。再见。",
+    "translation": "我为人正直。你以为我会收你的贿赂？谈话结束。再会。"
+  },
+  {
+    "text": "Yes,_I_have_heard_of_your_iniquity_and_what_you_do_against_people._Let's_see...",
+    "old_translation": "是的，我听说过你的恶名以及你是怎样对待人民的……我们来看看。",
+    "translation": "没错，我听说过你的恶行，也听说过你怎么对付百姓。咱们走着瞧……"
+  },
+  {
+    "text": "My_influence_here_is_vast._Many_listen_to_what_I_say_and_do_what_I_suggest._I_will_not_allow_you_to_take_men_who_work_the_land,_but_there_are_others..._landless_losers_that_contribute_nothing_more_than_misery_to_the_community._I_could_ask_them_to_join_you,_but_you_don't_look_like_much_of_a_leader_to_follow._You_will_likely_take_them_to_their_deaths,_and_they_will_never_return._Surely,_even_people_like_them_don't_deserve_such_a_fate.",
+    "old_translation": "我对这儿的人有着深远的影响。大家都听我的并照我说的做。我不会允许你带走在这片土地上劳作的人，但至于其他一些人……一些没有土地的窝囊废对我们一点用都没，只会徒增困扰。我可以让他们加入你……但是你看起来不像是一个称职的领袖，你很可能会把他们带入死亡之路，从而永不归来。是啊，即使这样的人也不至于接受这样的命运。",
+    "translation": "我在这儿影响极大，众人听我说话，也照我的意思办。我不会让你带走耕地的劳力，但另一些人……无地的废物，除了给村子添苦添乱，一无是处。我可以让他们跟你走，可你看起来不像值得追随的首领。你多半会带他们去送死，让他们再也回不来。就算那种人，也不该落得如此下场。"
+  },
+  {
+    "text": "Of_course,_your_time_and_help_will_be_rewarded.",
+    "old_translation": "当然，你所花费的时间、给予的帮助会得到补偿的。",
+    "translation": "当然，你的时间和帮助都会得到回报。"
+  },
+  {
+    "text": "I_see_what_you_trying_to_say,_old_man._Here,_take_these_500_peningas.",
+    "old_translation": "老头子，我知道你想说什么。拿着吧，500先令。",
+    "translation": "老头子，我明白你的意思。拿着，这500银便士。"
+  },
+  {
+    "text": "I_think_I_did_not_come_at_a_good_time._Let_us_talk_some_other_day._Farewell.",
+    "old_translation": "看来我来的不是时候。我们改天再谈吧。再见。",
+    "translation": "看来我来得不是时候。改日再谈。再会。"
+  },
+  {
+    "text": "Of_course,_let's_talk_about_that_now.",
+    "old_translation": "当然，我们现在就开始谈吧。",
+    "translation": "当然，咱们现在就谈。"
+  },
+  {
+    "text": "It_doesn't_make_sense_to_discuss_things_that_are_so_vague._I_think_that_I've_been_wasting_my_time_with_you._Farewell.",
+    "old_translation": "讨论这些含糊不清的事情真是无聊。我觉得你在浪费我的时间。再见。",
+    "translation": "谈这些含糊不清的东西毫无意义。我觉得我在浪费时间。再会。"
+  },
+  {
+    "text": "Well,_you_have_my_permission_to_take_those_troublemakers_off_my_hands._I_think_they_are_eager_for_adventure_anyway._You_may_go_to_the_center_of_the_village_and_take_anyone_loitering_there._For_every_recruit_you_take_from_this_village,_I'll_take_a_commission.",
+    "old_translation": "很好，我现在给你许可了，你可以把那些闹事者带走了。我想他们也很急于冒险吧。你可以去村子中央带走四处游荡的人。你所征募的每个人我都会给予相应的授权。",
+    "translation": "好，我允许你把那些闹事者带走。我想他们正渴望冒险。你去村中心，把在那儿闲逛的人带走。每带走一名新兵，我得抽一份佣金。"
+  },
+  {
+    "text": "Indeed._I_brought_you_{reg5}_sacks_of_grain.",
+    "old_translation": "的确。我给你带了{reg5}麻袋的麦子。",
+    "translation": "确实。我给你带了{reg5}袋麦子。"
+  },
+  {
+    "text": "My_good_{reg59?lady:lord}._You_have_saved_us_from_hunger_and_desperation._We_cannot_thank_you_enough,_but_you'll_always_be_in_our_prayers._The_village_of_{s13}_will_not_forget_what_you_have_done_for_us.",
+    "old_translation": "啊，感谢{reg59?女士:大人}您。您把我们从饥饿和绝望中拯救了出来。我们没有足够的东西献给您，但我们会永远为您祈祷。{s13}的村庄永远不会忘记您的大恩大德。",
+    "translation": "好{reg59?女士:大人}，您把我们从饥饿与绝望中救出。我们无以为报，唯有日日为您祈祷。{s13}村永不忘您的恩情。"
+  },
+  {
+    "text": "Thank_you,_{reg59?madam:sir}._We_are_praying_for_your_success_every_day.",
+    "old_translation": "谢谢你，{reg59?女士:先生}。我们会祈祷你日日成功。",
+    "translation": "谢谢您，{reg59?女士:先生}。我们日日为您祈祷成功。"
+  },
+  {
+    "text": "Ah,_I_am_sorry_to_hear_that,_{reg59?madam:sir}._I'll_try_to_think_of_something_else.",
+    "old_translation": "很抱歉听到这个，{reg59?女士:先生}。我去想想别的。",
+    "translation": "很遗憾听到这个消息，{reg59?女士:先生}。我再想别的办法。"
+  },
+  {
+    "text": "Well,_{reg59?her:his}_Highness_is_already_engaged_with_a_task_helping_us._We_cannot_ask_more_from_you.",
+    "old_translation": "那么，{reg59?女士:先生}，你已经帮过我们一次了。我们不能再请求你一次了。",
+    "translation": "{reg59?她:他}殿下已在相助，我们不能再劳烦您。"
+  },
+  {
+    "text": "No,_{reg59?madam:sir}._We_don't_have_any_other_tasks_for_you.",
+    "old_translation": "不，{reg59?女士:先生}，我们不需要你的帮忙。",
+    "translation": "不了，{reg59?女士:先生}，我们暂无其他事需要您帮忙。"
+  },
+  {
+    "text": "{reg59?My_good_lady:My_good_lord},_our_village_has_been_going_through_such_hardships_lately._The_harvest_has_been_bad,_and_recently_some_merciless_bandits_took_away_our_wheat_that_we_had_reserved_for_the_planting_season._If_we_cannot_find_some_seed_soon,_we_will_not_be_able_to_plant_our_fields_and_then_we_will_have_nothing_to_eat_for_the_coming_year._If_you_can_help_us,_we_would_be_indebted_to_you_forever.",
+    "old_translation": "{reg59?我尊敬的女士:我尊敬的先生}，我们村子最近的光景很不好。收成很差，还有些冷血的强盗抢走了我们为播种季贮存的小麦。如果我们还弄不到种子的话，那我们就种不了地了，后一年也就会没吃的了。如果你能帮助我们，我们会永远对你感恩戴德的。",
+    "translation": "{reg59?我尊敬的女士:我尊敬的先生}，近来村子苦不堪言。收成糟糕，又有冷血强盗抢走我们留种的麦子。若再找不到种子，我们就种不了地，来年便无粮可吃。若您肯相助，我们永世感恩。"
+  },
+  {
+    "text": "Hmmm._How_much_grain_do_you_need?",
+    "old_translation": "嗯。你们需要多少谷物？",
+    "translation": "嗯，你们需要多少谷物？"
+  },
+  {
+    "text": "I_can't_be_bothered_with_this._Ask_help_from_someone_else.",
+    "old_translation": "我不想为此讨麻烦，去找其他人帮忙吧。",
+    "translation": "我可懒得管这事，去找别人帮忙吧。"
+  },
+  {
+    "text": "I_think_{reg5}_packs_of_grain_will_let_us_start_the_planting._I_hope_that_we_can_find_charitable_people_to_help_us_with_the_rest.",
+    "old_translation": "我想{reg5}袋谷物就足够让我们开始播种。非常希望，我们能找到好心的人们帮我们解决剩下的部分。",
+    "translation": "我想{reg5}袋谷物就够我们下种。但愿能遇到好心人，再帮我们把剩下的补齐。"
+  },
+  {
+    "text": "Then_I_will_go_and_find_you_the_grain_you_need.",
+    "old_translation": "好了，我去找你们需要的那些谷物了。",
+    "translation": "那我去给你找需要的谷物。"
+  },
+  {
+    "text": "I_am_afraid_I_don't_have_time_for_this._You'll_need_to_find_help_elsewhere.",
+    "old_translation": "很抱歉，我没有时间干这个。你需要到其它地方寻求帮助。",
+    "translation": "抱歉，我抽不出空。你得另寻他人。"
+  },
+  {
+    "text": "Thank_you,_{reg59?madam:sir}._We'll_be_praying_for_you_night_and_day.",
+    "old_translation": "谢谢你，{reg59?女士:先生}。我们会为你日夜祈祷的。",
+    "translation": "谢谢你，{reg59?女士:先生}。我们会日夜为你祈祷。"
+  },
+  {
+    "text": "Yes,_{reg59?madam:sir},_of_course._I_am_sorry_if_I_have_bothered_you_with_our_troubles.",
+    "old_translation": "是的，{reg59?女士:先生}，当然。我很抱歉我们给你带来的麻烦。",
+    "translation": "是的，{reg59?女士:先生}，当然。若给你添了麻烦，还请见谅。"
+  },
+  {
+    "text": "{reg59?My_good_lady:My_good_lord},_we_have_a_bit_of_a_problem_on_our_hands._Although_the_harvest_was_good,_and_we_are_not_doing_that_badly_either,_too_many_of_our_men_can't_marry,_because_there_are_not_enough_women_in_our_village,_only_God_knows_why._That_brings_about_unnecessary_tension_among_our_men,_and_with_it_all_kind_of_rowdy_behavior_and_incessant_fistfights._You_look_like_a_{reg59?lady:man}_of_the_sword._Would_you_be_able_to_capture_and_bring_us_some_young_women_so_our_poor_men_can_stop_fighting_and_start_farming?",
+    "old_translation": "我的好{reg59?女士:大人}，我们目前遇到了一点问题。现在收成还不错，我们干得也不赖，但太多的男子无法成家立室了，因为村子里没有足够的女人，天知道这是为什么。你看，这个问题带来了不必要的麻烦，随之而来的是种种躁动和斗殴。你看起来是一位使剑的{reg59?女士:大人}，你能为我们带来一些年轻女性并以此制止村中的种种麻烦事呢？",
+    "translation": "{reg59?我的好女士:我的好大人}，我们眼下有点麻烦。虽说收成不错，日子还过得去，可村里女人太少，天晓得为何，许多汉子娶不上妻。这惹得他们焦躁，整日打架滋事。你像是使剑的{reg59?女士:大人}，能否帮我们掳些年轻姑娘回来，让汉子们安心种地？"
+  },
+  {
+    "text": "I_am_not_a_kidnapper._Ask_someone_else_to_help_you.",
+    "old_translation": "我不是一个绑架犯，去找别的人吧。",
+    "translation": "我不是绑匪，另请高明。"
+  },
+  {
+    "text": "Yes,_{reg59?my_lady:my_lord},_of_course._I_am_sorry_if_I_have_bothered_you_with_our_troubles.",
+    "old_translation": "好的，我的{reg59?女士:大人}，当然。很抱歉叨扰你了。",
+    "translation": "好的，我的{reg59?女士:大人}，当然。打扰了，还请包涵。"
+  },
+  {
+    "text": "I'm_not_sure_how_common_this_is..._Why_not_ask_your_lord_to_help_you?",
+    "old_translation": "我不知道这种事情有多么普遍，你曾找过自己的领主帮忙吗？",
+    "translation": "我不清楚这事多常见……为何不找你们的领主帮忙？"
+  },
+  {
+    "text": "That_sounds_fascinating._Perhaps_I_will_take_you_up_on_that_offer_when_I'm_ready...",
+    "old_translation": "听起来很有趣，也许我能帮你，如果可能的话…",
+    "translation": "听起来倒有趣，等我准备好了，也许真会接这活儿……"
+  },
+  {
+    "text": "You_seem_to_know_a_lot_about_women,_my_good_man._This_all_seems_so_logical_now.",
+    "old_translation": "你看起来很懂女人，好心人。现在一切都顺理成章了。",
+    "translation": "你挺懂女人啊，好心人。这下我全明白了。"
+  },
+  {
+    "text": "I_have_to_admit_I'm_really_excited_about_undertaking_this_mission.",
+    "old_translation": "我必须承认我对这个任务非常期待。",
+    "translation": "得承认，我对这趟差事很动心。"
+  },
+  {
+    "text": "Perhaps_we_should,_I_can_smell_a_good_reward_coming_my_way.",
+    "old_translation": "也许吧，我能嗅到赏金的味道。",
+    "translation": "也许该干一票，我已经闻到赏金的味儿了。"
+  },
+  {
+    "text": "Would_you_consider_taking_some_of_my_women_warriors_instead?",
+    "old_translation": "不如你考虑一下我们队伍中的女战士？",
+    "translation": "不如考虑带几个我的女战士去？"
+  },
+  {
+    "text": "I_have_to_admit_that_you_make_a_lot_of_sense.",
+    "old_translation": "我不得不承认你说得很有道理。",
+    "translation": "我不得不承认，你说得有理。"
+  },
+  {
+    "text": "Your_men_lack_willpower,_but_they're_lowly_peasants_after_all...",
+    "old_translation": "你的人缺乏意志力，但毕竟他们只是卑微的农民…",
+    "translation": "你的人缺意志力，不过毕竟只是卑微农夫……"
+  },
+  {
+    "text": "Sorry,_but_you_have_failed_to_convince_me.",
+    "old_translation": "抱歉，但你没有说服我。",
+    "translation": "抱歉，你没能说服我。"
+  },
+  {
+    "text": "Well,_we_will_highly_appreciate_your_{reg59?Ladyship's:Lordship's}_helping_us._What_kind_of_reward_do_you_have_in_mind?",
+    "old_translation": "好吧，我们非常感激您的帮助，您想要什么样的奖赏呢？",
+    "translation": "好，我们万分感激{reg59?女士:大人}的援手。你想要什么报酬？"
+  },
+  {
+    "text": "I_am_glad_that_you_can_be_made_to_see_reason._Your_{reg59?Ladyship's:Lordship's}_help_will_be_most_appreciated,_of_course.",
+    "old_translation": "很高兴你能够明白事理。我们对您的援助无比感激。",
+    "translation": "很高兴你能讲理。自然，我们对{reg59?女士:大人}的帮助感激不尽。"
+  },
+  {
+    "text": "Yes,_my_{reg59?lady:lord},_these_men_are_weak._They're_chock_full_of_temptations._Wouldn't_it_make_sense_for_you_to_help_them_be_at_peace_with_themselves?_Your_help,_of_course,_will_be_appreciated.",
+    "old_translation": "对，我的{reg59?女士:大人}，这些人都很软弱，他们容易受到诱惑。难道这不就是您帮助我们的理由吗？当然，您的努力不会白费的。",
+    "translation": "是啊，我的{reg59?女士:大人}，这些人软弱，满脑子诱惑。你帮他们求得安宁，岂不正好？你的功劳，我们自会重谢。"
+  },
+  {
+    "text": "I_apologize,_my_{reg59?lady:lord},_but_my_men_hardly_need_spear-wielding_warrior_wives._They_need_women_who_can_work_the_fields_and_take_care_of_the_animals,_not_pull_a_knife_out_when_an_argument_arises.",
+    "old_translation": "抱歉，我的{reg59?女士:大人}，但我的人不需要舞刀弄枪的妻子。他们需要的是能够干农活、照顾牲畜的女人，而不是在吵架时会拔刀的战士。",
+    "translation": "抱歉，我的{reg59?女士:大人}，我这些兄弟可不要拿矛的悍妻。他们要的是能下地干活、照料牲口的女人，而不是一吵架就拔刀的战士。"
+  },
+  {
+    "text": "Well,_your_{reg59?Ladyship:Lordship}_could_possibly_understand_how_asking_our_lord_to_help_us_in_a_delicate_matter_such_this_could_be_dangerous_for_one's_well-being._You,_on_the_other_hand,_are_an_outsider,_and_your_aid_will_be_rewarded.",
+    "old_translation": "好吧，我的{reg59?女士:大人}，你应该很清楚，难道我们能在这件微妙的事情上向我们的领主求助吗？我们是不会冒这种风险的。而你，正好相反，是一名局外人，你可以为此得到一笔奖励。",
+    "translation": "{reg59?女士:大人}该明白，就这种敏感事去求领主，怕是要掉脑袋的。而你是个外人，出手相助，我们必有重赏。"
+  },
+  {
+    "text": "Your_{reg59?Ladyship:Lordship}_will_always_be_welcome_in_our_village,_especially_if_he_helps_us_with_this_delicate_problem._I_assure_you,_our_gratitude_is_not_limited_just_to_this_invitation.",
+    "old_translation": "如果{reg59?女士:大人}能够为我们解决这个微妙的难题，我们村子将永远向您敞开。我向你保证，我们的感激之情将以涌泉相报。",
+    "translation": "只要{reg59?女士:大人}肯帮我们解决这棘手难题，我们村永远欢迎你。我保证，这份感激不止一句空话。"
+  },
+  {
+    "text": "My_{reg59?lady:lord},_I'm_old_and_have_seen_and_heard_a_lot_of_things._I_can_definitely_see_the_way_the_world_works._Women_play_a_very_important_role_in_men's_lives,_inspiring_and_guiding_them._If_you_can_help_us_with_our_little_problem,_we_will_find_a_way_to_show_our_gratitude.",
+    "old_translation": "我的{reg59?女士:大人}，我是一名长者，我很清楚这个世界是怎么运转的。而女人在男人的生活中扮演着极其重要的角色，时刻激励并引导着他们。如果你为我们解决这个小问题，我们肯定会想办法报答你。",
+    "translation": "我的{reg59?女士:大人}，我年事已高，见多识广。女人对男人至关重要，既能激励，也能引导。若你帮我们解决这小麻烦，我们定有厚报。"
+  },
+  {
+    "text": "Yes,_my_{reg59?lady:lord},_you_really_should_be_excited._Judging_from_the_sparkles_in_your_eyes,_you_are_really_up_to_this_little_challenge,_aren't_you?_We_are,_too,_your_Highness,_as_it_will_relieve_our_men_of_their_anxiety._Your_help,_of_course,_will_be_duly_appreciated.",
+    "old_translation": "对，我的{reg59?女士:大人}，你真该期待。从你焦灼的眼光能看出来，你已经准备好迎接这个小小的挑战了，不是吗？我们也一样，大人，因为这将解决我们男人的焦虑了。当然，你的帮助将得到我们的报答。",
+    "translation": "是的，我的{reg59?女士:大人}，您确实该兴奋。从您眼里的闪光来看，您已准备好迎接这个小挑战，对吧？我们也一样，殿下，因为这能让我们的人不再焦虑。当然，您的帮助必将得到应有的回报。"
+  },
+  {
+    "text": "My_{reg59?lady's:lord's}_intuition_is_second_to_none._What_kind_of_reward_can_you_smell?",
+    "old_translation": "我的{reg59?女士:大人}，您的直觉真是无与伦比。您嗅到了什么样的奖赏？",
+    "translation": "我的{reg59?女士:大人}，您的直觉无人能及。您嗅到了什么样的奖赏？"
+  },
+  {
+    "text": "Cash,_my_good_man._{reg25}_of_it,_give_or_take.",
+    "old_translation": "银子，好家伙。一共有{reg25}先令，差不多吧。",
+    "translation": "银子，好伙计。一共{reg25}银便士，差不多。"
+  },
+  {
+    "text": "Perhaps_you're_right._What's_in_it_for_me?",
+    "old_translation": "也许你是对的，我有什么好处？",
+    "translation": "也许你说的对。我能得到什么好处？"
+  },
+  {
+    "text": "I'm_sure_my_efforts_will_be_appreciated,_but_I'd_like_something_more_tangible,_like_cash.",
+    "old_translation": "我相信我的努力是不会白费的，但我希望得到更加实际的东西，比如银子。",
+    "translation": "我相信我的努力会被感激，但我想要更实在的东西，比如银子。"
+  },
+  {
+    "text": "Yes,_I_will_help_you,_but_I_would_require_something_more_tangible_than_appreciation.",
+    "old_translation": "对，我会帮你，但我需要比感激之情更加实际的东西。",
+    "translation": "好，我会帮你，但我需要比感激更实在的东西。"
+  },
+  {
+    "text": "Sorry,_but_you_failed_to_convince_me.",
+    "old_translation": "不好意思，但你没有说服我。",
+    "translation": "抱歉，你没能说服我。"
+  },
+  {
+    "text": "Oh,_I_see._{reg59?Her_ladyship:His_lordship}_desires_coins._How_many_would_{reg59?she:he}_like?",
+    "old_translation": "噢，我懂了，我的{reg59?女士:大人}，您是想要一些银子，那么要多少呢？",
+    "translation": "哦，明白了。{reg59?女爵:爵爷}想要银币。{reg59?她:他}想要多少？"
+  },
+  {
+    "text": "I_think_{reg25}_peningas_would_suffice.",
+    "old_translation": "我想{reg25}先令就够了。",
+    "translation": "我想{reg25}银便士就够了。"
+  },
+  {
+    "text": "I_think_we_can_settle_on_{reg25}_peningas.",
+    "old_translation": "我们就以{reg25}先令成交吧。",
+    "translation": "我们就以{reg25}银便士成交吧。"
+  },
+  {
+    "text": "I_think_you_misunderstood_me._I_don't_need_your_money._How_many_women_do_you_need?",
+    "old_translation": "我想你误会了，我不需要你的钱，你想要多少女人？",
+    "translation": "你误会了，我不需要你的钱。你需要多少女人？"
+  },
+  {
+    "text": "{reg25}_peningas_-_I_think_your_village_can_handle_this_amount.",
+    "old_translation": "{reg25}先令——我认为你的村子给得起这个价。",
+    "translation": "{reg25}银便士——我相信你们村子出得起。"
+  },
+  {
+    "text": "Hmmm,_alright,_{reg25}_peningas_will_do._How_many_women_do_you_need?",
+    "old_translation": "嗯哼，好吧，就{reg25}先令。你需要多少女人？",
+    "translation": "嗯，好吧，{reg25}银便士。你要多少女人？"
+  },
+  {
+    "text": "Hmmm,_{reg25}_peningas_is_far_too_little._I_have_better_things_to_do._Good_day.",
+    "old_translation": "嗯哼，{reg25}先令太少了，我还有别的事情。再见。",
+    "translation": "嗯，{reg25}银便士太少了，我还有别的事。告辞。"
+  },
+  {
+    "text": "I_think_{reg5}_women_will_be_enough_for_now.",
+    "old_translation": "我想{reg5}个女人就够了。",
+    "translation": "我想{reg5}个女人暂时够了。"
+  },
+  {
+    "text": "Then_I_will_go_and_find_you_the_women_you_need.",
+    "old_translation": "那么我就去为你找女人了。",
+    "translation": "那我去给你找需要的女人。"
+  },
+  {
+    "text": "Thank_you,_{reg59?my_lady:my_lord}._May_your_paths_guide_you_to_the_best_women.",
+    "old_translation": "谢谢你，我的{reg59?女士:大人}，愿您得到上帝的指引。",
+    "translation": "谢谢你，我的{reg59?女士:大人}，愿道路指引你找到最好的女人。"
+  },
+  {
+    "text": "Indeed._I_have_brought_you_{reg5}_women,_as_you_requested.",
+    "old_translation": "就这样，这些就是你要的{reg5}个女人。",
+    "translation": "正是。我按你的要求带来了{reg5}个女人。"
+  },
+  {
+    "text": "My_good_{reg59?lady:lord},_you_are_a_true_savior_for_our_village._We_cannot_thank_you_enough,_but_you'll_always_be_in_our_prayers._The_men_of_{s13}_will_not_forget_what_you_have_done_for_us._We_will_all_name_our_first_{reg59?daughter:son}_after_you!",
+    "old_translation": "我的好{reg59?女士:大人}，您是我们村子的救星。我们感激不尽，会为您日夜祈祷的。{s13}的人不会忘记您的大恩大德。我们都会把我们的第一个{reg59?女儿:儿子}叫您的名字。",
+    "translation": "我的好{reg59?女士:大人}，您是我们村真正的救星。我们感激不尽，会日夜为您祈祷。{s13}的男人不会忘记您的恩情。我们将用您的名字给第一个{reg59?女儿:儿子}命名！"
+  },
+  {
+    "text": "One_of_our_slaves_has_overwhelmed_his_owner_and_fled._You_look_like_a_{reg59?woman:man}_of_war_strong_enough_to_capture_him._Would_you_be_able_to_find_him_and_bring_him_back?_He_cannot_have_gone_far._He_must_be_hiding_somewhere_next_to_the_village.",
+    "old_translation": "其中有一个奴隶不堪重负逃跑了。你看起来像强大到足以住他。你能找到他并把他带回来吗？他不可能会走远。他一定躲在附近的某个地方。",
+    "translation": "我们的一个奴隶打倒了主人逃了。您看起来像是能擒住他的{reg59?女战士:战士}。您能把他抓回来吗？他跑不远，一定躲在村子附近。"
+  },
+  {
+    "text": "I_will_find_him_and_bring_him_back.",
+    "old_translation": "我会找到他并且把他带回来的。",
+    "translation": "我会找到他并把他带回来。"
+  },
+  {
+    "text": "I'm_no_slave_hunter.",
+    "old_translation": "我不是奴隶猎人。",
+    "translation": "我不是捕奴人。"
+  },
+  {
+    "text": "I_am_afraid_I_don't_have_time_for_this_now.",
+    "old_translation": "现在我恐怕没有那个闲工夫。",
+    "translation": "我现在恐怕没空。"
+  },
+  {
+    "text": "You_will?_Oh,_splendid!_Thank_you,_{reg59?madam:sir}._He_must_be_hiding_somewhere_near_our_village.",
+    "old_translation": "你会的吗？哦，太好了。谢谢你。{reg59?女士:先生}。他一定藏在我们村附近的某个地方。",
+    "translation": "您愿意？太好了！谢谢您，{reg59?夫人:先生}。他一定藏在村子附近。"
+  },
+  {
+    "text": "Yes,_of_course_{reg59?madam:sir}._Well,_we_will_find_someone_else_for_the_job.",
+    "old_translation": "是的，当然{reg59?女士:先生}。好吧，我们会找其他人来做这份工作的。",
+    "translation": "好的，{reg59?夫人:先生}。我们会另找人手。"
+  },
+  {
+    "text": "Greetings,_traveller.",
+    "old_translation": "你好旅行者。",
+    "translation": "你好，旅人。"
+  },
+  {
+    "text": "Greetings._What_are_you_doing_here_in_the_middle_of_nowhere?",
+    "old_translation": "你好，你在这荒郊野外做什么？",
+    "translation": "你好，你在这荒郊野外做什么？"
+  },
+  {
+    "text": "I_ran_away_from_a_nearby_village,_and_I'm_hiding_here_trying_to_decide_what_to_do_next.",
+    "old_translation": "我从附近的的村子逃走了，现在我躲在这里想以后去哪里。",
+    "translation": "我从附近的村子逃出来，躲在这里想下一步该怎么办。"
+  },
+  {
+    "text": "Anything_else_you_want_to_know?",
+    "old_translation": "你还有什么想知道的？",
+    "translation": "你还有什么想问的吗？"
+  },
+  {
+    "text": "Why_did_you_run_away?",
+    "old_translation": "你为什么要逃走？",
+    "translation": "你为什么要逃？"
+  },
+  {
+    "text": "My_master_has_beaten_me_on_more_than_one_occasion._I_could_not_stand_it_any_longer.",
+    "old_translation": "我的主人一次又一次地鞭打我，我都无力站起来了。",
+    "translation": "主人一次次打我，我再也忍不下去了。"
+  },
+  {
+    "text": "I'm_here_to_bring_you_back_to_your_master.",
+    "old_translation": "我是来吧你带回去的。",
+    "translation": "我是来把你带回去的。"
+  },
+  {
+    "text": "I'm_begging_you,_{reg59?madam:sir}._Anything_but_that._Death_awaits_me_there.",
+    "old_translation": "我求你了，{reg59?女士:先生}。我什么都可以做但不能去走这条死路啊。",
+    "translation": "求您了，{reg59?女士:先生}。怎样都行，唯独别让我回去，那是死路一条。"
+  },
+  {
+    "text": "I_care_very_little_about_your_destiny._Follow_me!",
+    "old_translation": "那让我来为你的命运添砖加瓦吧，你必须跟我来！",
+    "translation": "你的死活与我无关，跟我走！"
+  },
+  {
+    "text": "If_death_is_awaiting_you_anyway,_I_will_kill_you_right_here.",
+    "old_translation": "反正你都是死路一条了，我就在这里把你杀了吧。",
+    "translation": "反正都是死，不如我现在就送你上路。"
+  },
+  {
+    "text": "In_that_case,_I_will_defend_myself.",
+    "old_translation": "如果是这样，那我就只能自救了。",
+    "translation": "那就别怪我自卫了。"
+  },
+  {
+    "text": "Join_my_war_band,_and_you_won't_have_to_go_back_to_your_master.",
+    "old_translation": "加入我的部队，我就不会把你带到你主人那里。",
+    "translation": "加入我的战团，就不用回主人那儿了。"
+  },
+  {
+    "text": "Then_leave_now._I_will_pretend_I_haven't_seen_you.",
+    "old_translation": "那就快走吧，我会假装没看见你。",
+    "translation": "那就快走，我当没见过你。"
+  },
+  {
+    "text": "Thank_you_so_much,_{reg59?madam:sir}!",
+    "old_translation": "感谢你的大恩大德，{reg59?女士:先生}。",
+    "translation": "多谢您的大恩，{reg59?女士:先生}！"
+  },
+  {
+    "text": "We_are_suffering_greatly_at_the_hands_of_a_group_of_bandits._They_take_our_food_and_livestock,_and_kill_anyone_who_doesn't_obey_them_immediately._Our_men_are_angry_that_we_cannot_defend_ourselves,_but_we_are_only_simple_farmers..._However,_with_some_help,_I_think_that_some_of_the_people_here_could_be_more_than_that._We_just_need_an_experienced_warrior_to_teach_us_how_to_fight.",
+    "old_translation": "我们正遭受某人控制的土匪的洗劫。他们拿走我们的食物和牲畜，并且立即杀死不屈从他们的村民。我们很愤怒我们无法保卫自己，我们只是质朴的农民……然而，如果经过一些简单的训练，这里的一些人能够比他们更强。我们需要一个久经沙场的战士来教会我们如何战斗。",
+    "translation": "我们被一伙土匪折磨得够呛。他们抢粮抢牲口，稍有不从就杀人。男人们气愤却无力，我们只是普通农夫……可只要有人指点，我相信不少人能拿起武器。我们需要一位经验丰富的战士教我们怎么战斗。"
+  },
+  {
+    "text": "I_can_teach_you_how_to_defend_yourself.",
+    "old_translation": "我可以教你们如何保卫自己。",
+    "translation": "我可以教你们自卫。"
+  },
+  {
+    "text": "You_peasants_have_no_business_taking_up_arms._Just_pay_the_bandits_and_be_off_with_it.",
+    "old_translation": "你们农民没必要拿起武器。给土匪钱然后就当什么都没发生。",
+    "translation": "你们农民拿刀干什么？给土匪点钱，息事宁人。"
+  },
+  {
+    "text": "You_will?_Oh,_splendid!_We_would_be_deeply_indebted_to_you,_{reg59?madam:sir}._I'll_instruct_the_village_folk_to_assemble_here_and_receive_your_training._If_you_can_teach_us_how_to_defend_ourselves,_I_promise_you'll_receive_everything_we_can_give_you_in_return_for_your_efforts.",
+    "old_translation": "你同意了？啊，真是太好了！{reg59?女士:先生}，我们深深地感激你。我会认村里人聚集到这里让你训练。如果你能够教会我们如何保护自己，我承诺我们会尽一切可能报答你的。",
+    "translation": "真的？太好了！{reg59?女士:先生}，我们感激不尽。我这就召集村民来受训。只要您肯教我们自保，我们一定倾尽所有回报。"
+  },
+  {
+    "text": "Yes,_of_course_{reg59?madam:sir}._Thank_you_for_your_counsel.",
+    "old_translation": "是的，当然，{reg59?女士:先生}。感谢你的建议。",
+    "translation": "是，{reg59?女士:先生}，多谢指点。"
+  },
+  {
+    "text": "Bandits_have_driven_away_our_cattle._Our_pastures_are_empty._If_we_had_just_a_few_head_of_cattle,_we_could_start_to_raise_a_herd_again.",
+    "old_translation": "土匪把我们的牛都牵走了，我们的牧场空了。如果我们能再有几头牛，那么我们又可以继续发展畜牧业了。",
+    "translation": "土匪把牛都赶走了，牧场空荡荡的。只要有几头牛，我们就能重新起群。"
+  },
+  {
+    "text": "How_many_animals_do_you_need?",
+    "old_translation": "你需要多少头？",
+    "translation": "你要多少头？"
+  },
+  {
+    "text": "I_don't_have_time_for_this._Ask_help_from_someone_else.",
+    "old_translation": "我没有时间听你华丽的辩解。不要再在这件事情上打扰我了。",
+    "translation": "我没空，找别人去。"
+  },
+  {
+    "text": "I_think_{reg5}_head_of_cattle_will_suffice_for_a_small_herd.",
+    "old_translation": "我认为{reg5}头牛足够了。",
+    "translation": "我想{reg5}头牛就够起个小群了。"
+  },
+  {
+    "text": "Then_I_will_bring_you_the_cattle_you_need.",
+    "old_translation": "那么我将把你需要的牛带回来。",
+    "translation": "那我就把牛给你带回来。"
+  },
+  {
+    "text": "Yes,_{reg59?madam:sir},_of_course._I_am_sorry_to_have_bothered_you_with_our_troubles.",
+    "old_translation": "是的，{reg59?女士:先生}，当然。我很抱歉我们麻烦你了。",
+    "translation": "是，{reg59?女士:先生}，打扰您了，抱歉。"
+  },
+  {
+    "text": "Thank_you,_{reg59?madam:sir},_but_we_do_not_really_need_anything_right_now.",
+    "old_translation": "谢谢你，{reg59?女士:先生}，但我们现在确实不需要什么帮助。",
+    "translation": "谢谢你，{reg59?女士:先生}，但我们现在确实不需要什么。"
+  },
+  {
+    "text": "{reg59?My_lady:My_lord},_you_honour_my_humble_shop_with_your_presence.",
+    "old_translation": "{reg59?我的女士:我的大人}，你的到来让我这小店铺蓬荜生辉。",
+    "translation": "{reg59?我的女士:我的大人}，您的光临让寒舍蓬荜生辉。"
+  },
+  {
+    "text": "Welcome_{reg59?madam:sir}._What_can_I_do_for_you?",
+    "old_translation": "欢迎，{reg59?女士:先生}。我能为你做些什么？",
+    "translation": "欢迎，{reg59?女士:先生}。我能为您做些什么？"
+  },
+  {
+    "text": "Hogni,_the_port_master_of_Ribe_sends_these_furs_to_you.",
+    "old_translation": "里伯的港口主管给你带了些毛皮。",
+    "translation": "霍格尼，里伯的港务长托我把这些毛皮交给您。"
+  },
+  {
+    "text": "Finally!_I_spent_weeks_waiting_for_this_delivery._Thanks,_but_do_not_expect_a_tip._It_has_come_very_late.",
+    "old_translation": "终于！我等这趟货等了很久了，谢谢！不过就不给你小费了，来得太迟了。",
+    "translation": "终于！我等这批货等了好几周。谢了，但别指望小费，来得太晚了。"
+  },
+  {
+    "text": "A_man_sent_me_to_see_you._His_name_is_Reginhard.",
+    "old_translation": "一个人派我来见你。他的名字是雷因哈德。",
+    "translation": "有人让我来找您，他叫雷因哈德。"
+  },
+  {
+    "text": "I_know_who_Reginhard_is,_and_it_is_not_a_name_that_it_pleases_me_to_hear._I_have_no_time_for_people_coming_from_him.",
+    "old_translation": "我知道雷因哈德是谁，这名字让我不高兴。我没时间见他派来的人。",
+    "translation": "我知道雷因哈德是谁，这名字我听了就烦。他派来的人，我一概没空搭理。"
+  },
+  {
+    "text": "Wait!_I_just_want_to_make_a_donation_to_the_widows_and_orphans_in_this_town.",
+    "old_translation": "等等！我只是想捐点款给这个镇子的寡妇和孤儿。",
+    "translation": "等等！我只是想给镇上的寡妇和孤儿捐点钱。"
+  },
+  {
+    "text": "{s2}^^Err,_I_do_not_expect_this_from_Reginhard._How_much_is_your_donation?_We_accept_100,_300_and_600_peningas.",
+    "old_translation": "{s2}^^呃，我没想到雷因哈德会这样做。捐多少？我们接受100、300、600先令的捐款。",
+    "translation": "{s2}^^呃，我没想到雷因哈德会这么做。您打算捐多少？我们接受100、300、600银便士。"
+  },
+  {
+    "text": "These_children_deserve_a_better_future._Donate_600_peningas.",
+    "old_translation": "这些孩子需要一个更好的未来。捐600先令。",
+    "translation": "这些孩子值得更好的未来。我捐600银便士。"
+  },
+  {
+    "text": "I_think_300_peningas_will_allow_many_families_to_get_through_the_next_winter.",
+    "old_translation": "我觉得300先令应该够许多家庭过冬了。",
+    "translation": "我觉得300银便士能让不少家庭熬过下一个冬天。"
+  },
+  {
+    "text": "I_will_donate_100_peningas.",
+    "old_translation": "我会捐100先令。",
+    "translation": "我捐100银便士。"
+  },
+  {
+    "text": "I_do_not_have_enough_money_to_make_a_good_donation._I_will_come_back_later.",
+    "old_translation": "我捐不了足够多的钱。我下次再来。",
+    "translation": "我手头不够，没法好好捐，改天再来。"
+  },
+  {
+    "text": "{s2}^^Many_people_will_be_grateful_to_you_and_Reginhard._God_bless_you.",
+    "old_translation": "{s2}^^许多人会很感激你和雷因哈德的。愿上帝保佑你。",
+    "translation": "{s2}^^许多人会感激您和雷因哈德。愿上帝保佑您。"
+  },
+  {
+    "text": "I_want_to_buy_a_few_items..._and_perhaps_sell_some.",
+    "old_translation": "我要在你这买点东西……可能也要卖点。",
+    "translation": "我想买点东西……也许再卖点。"
+  },
+  {
+    "text": "Sure,_sure..._Here,_have_a_look_at_my_stock...",
+    "old_translation": "当然。当然……这里，我的宝贝都在这了……",
+    "translation": "当然，当然……来，看看我的货……"
+  },
+  {
+    "text": "What_goods_should_I_buy_here_to_trade_with_other_towns?",
+    "old_translation": "这里有什么特产我可以带去别的城市卖的吗？",
+    "translation": "这里有什么货适合我买了去别的城镇倒卖？"
+  },
+  {
+    "text": "That_information_can_be_best_obtained_from_caravan_masters_and_travelling_merchants._If_you_want,_I_can_send_you_to_the_district_where_foreign_merchants_stay_at_when_they_come_to_the_town._If_you_spend_some_time_there_and_listen_to_the_talk,_you_can_learn_a_lot_about_what_to_buy_and_where_to_sell_it.",
+    "old_translation": "关于这个你最好去商队头领和旅行的商人那里打听一下。如果你愿意我可以带你去外地商人们在这城市落脚的地方。如果你去好好和他们谈谈，从他们那你会打听到有什么好买卖做。",
+    "translation": "这事最好去问商队头领和行脚商人。愿意的话，我可以带您去外地商人到本城时落脚的那片街区。您在那儿多待会儿，听听他们聊天，就能知道该买什么、去哪儿卖。"
+  },
+  {
+    "text": "Then_I'll_go_and_spend_some_time_with_these_merchants.",
+    "old_translation": "看来我要马上动身去找那些商人了。",
+    "translation": "那我这就去找那些商人聊聊。"
+  },
+  {
+    "text": "I_have_no_time_for_this_right_now.",
+    "old_translation": "我现在可没时间去啊。",
+    "translation": "我现在可没空。"
+  },
+  {
+    "text": "Good_day,_friend._If_you've_come_to_watch_the_tournaments,_you've_come_in_vain._There_won't_be_a_tournament_here_any_time_soon.",
+    "old_translation": "你好啊。如果你是为了看比赛来的很不巧你白来了。这段时间不会有任何比赛。",
+    "translation": "日安，朋友。要是您来看比武，那白跑了，近期这儿不会办比赛。"
+  },
+  {
+    "text": "Tournaments?_So_they_hold_the_tournaments_here...",
+    "old_translation": "比赛？他们暂停了比赛……",
+    "translation": "比武？这么说他们在这儿办过……"
+  },
+  {
+    "text": "Yes._You_should_see_this_place_during_one_of_the_tournament_fights._Everyone_from_the_town_and_nearby_villages_comes_here._The_crowd_becomes_mad_with_excitement._Anyway,_as_I_said,_there_won't_be_an_event_here_soon,_so_there_isn't_much_to_see._Except,_there_is_an_official_duel_every_now_and_then,_and_of_course_we_have_melee_fights_almost_every_day.",
+    "old_translation": "是的。在比赛期间你真应该来看看。这个城里和附近几个村子的人都会过来。观众们都非常兴奋。不管怎样，就像我说的，最近不会有任何比赛，所以这里没什么可看的。当然，除了不时举办的正式的比赛，我们这里几乎每天都有真剑决斗。",
+    "translation": "没错。比赛时您真该来看看，城里和附近村子的人都会涌过来，人群兴奋得发狂。总之，近期没赛事，没什么可瞧的。不过偶尔有正式决斗，几乎天天还有混战。"
+  },
+  {
+    "text": "Tell_me_about_the_melee_fights.",
+    "old_translation": "和我说说真剑决斗。",
+    "translation": "给我讲讲混战。"
+  },
+  {
+    "text": "The_fighters_and_knights_get_bored_waiting_for_the_next_tournament,_so_they_have_invented_the_training_melee._It_is_a_simple_idea_really._Fighters_jump_into_the_arena_with_a_weapon._There_are_no_rules,_no_teams._Everyone_beats_at_each_other_until_there_is_only_one_fighter_left_standing._Sounds_like_fun,_eh?",
+    "old_translation": "格斗家们和骑士们都在无聊的等待着下一场比赛，所以他们就发明了训练赛。非常简单。参赛者拿着武器进入比赛场。没有规则，不分队伍。大家互相对战直到最后一个站着的人为止。听起来还不错吧？",
+    "translation": "骑士和斗士等下场比赛等得无聊，就发明了训练混战。主意很简单：拿上武器跳进场地，没规则，没队伍，大家互砍，直到最后一人站着。听起来有趣吧？"
+  },
+  {
+    "text": "There_is,_actually._Some_of_the_wealthy_townsmen_offer_prizes_for_those_fighters_who_show_great_skill_in_the_fights._If_you_can_beat_{reg1}_opponents_before_going_down,_you'll_earn_{reg11}_peningas._You'll_get_{reg12}_peningas_for_striking_down_at_least_{reg2}_opponents,_{reg13}_peningas_if_you_can_defeat_{reg3}_opponents,_and_{reg14}_peningas_if_you_can_survive_long_enough_to_beat_{reg4}_opponents._If_you_can_manage_to_be_the_last_{reg59?fighter:man}_standing,_you'll_earn_the_great_prize_of_the_fights,_{reg15}_peningas._Sounds_good,_eh?",
+    "old_translation": "有啊，实际上，一些有钱的镇民拿了钱出来，专门奖励那些在战斗中表现出色的人。如果你能战胜{reg1}个对手，你会得到{reg11}先令；打倒{reg2}个对手是{reg12}先令；要是你能打败{reg3}个对手，那你会得到{reg13}先令；假如你命够大，能打败{reg4}个对手，那你会得到{reg14}先令；如若你成了最后一个{reg59?斗士:人}，那{reg15}先令的大奖就归你了。听起来够刺激吧？",
+    "translation": "确实有。一些有钱的镇民会为在战斗中表现突出的斗士设奖。如果你能打倒{reg1}名对手才倒下，就能赢得{reg11}银便士；打倒至少{reg2}名对手，拿{reg12}银便士；打败{reg3}名对手，得{reg13}银便士；若能撑到击败{reg4}名对手，就有{reg14}银便士。要是你能成为最后站着的{reg59?斗士:人}，大奖{reg15}银便士就归你。听着不错吧？"
+  },
+  {
+    "text": "Some_of_the_wealthy_townsmen_offer_prizes_for_those_fighters_who_show_great_skill_in_the_fights._If_you_can_beat_{reg1}_opponents_before_going_down,_you'll_earn_{reg11}_peningas._You'll_get_{reg12}_peningas_for_striking_down_at_least_{reg2}_opponents,_{reg13}_peningas_if_you_can_defeat_{reg3}_opponents,_and_{reg14}_peningas_if_you_can_survive_long_enough_to_beat_{reg4}_opponents._If_you_can_manage_to_be_the_last_{reg59?fighter:man}_standing,_you'll_earn_the_great_prize_of_the_fights,_{reg15}_peningas._Sounds_good,_eh?",
+    "old_translation": "一些有钱的镇民拿了钱出来，专门奖励那些在战斗中表现出色的人。如果你能战胜{reg1}个对手，你会得到{reg11}先令；打倒{reg2}个对手是{reg12}先令；要是你能打败{reg3}个对手，那你会得到{reg13}先令；假如你命够大，能打败{reg4}个对手，那你会得到{reg14}先令；如若你成了最后一个{reg59?斗士:人}，那{reg15}先令的大奖就归你了。听起来够刺激吧？",
+    "translation": "一些有钱的镇民会为在战斗中表现突出的斗士设奖。如果你能打倒{reg1}名对手才倒下，就能赢得{reg11}银便士；打倒至少{reg2}名对手，拿{reg12}银便士；打败{reg3}名对手，得{reg13}银便士；若能撑到击败{reg4}名对手，就有{reg14}银便士。要是你能成为最后站着的{reg59?斗士:人}，大奖{reg15}银便士就归你。听着不错吧？"
+  },
+  {
+    "text": "Can_I_join_too?",
+    "old_translation": "我能加入吗？",
+    "translation": "我也能参加吗？"
+  },
+  {
+    "text": "Ha_ha._You_would_have_to_be_out_of_your_mind_not_to._Of_course._The_melee_fights_are_open_to_all._Actually,_there_is_going_to_be_a_fight_soon._You_can_go_and_hop_in_if_you_want_to.",
+    "old_translation": "哈哈。当然了，如果不去你才真的疯了。无论什么人都可以参加真剑决斗。实际上马上就要举行决斗了。如果你愿意，马上就可以参加。",
+    "translation": "哈哈，除非疯了才不去。当然，混战对所有人开放。其实马上就有场战斗，想上场随时跳进去。"
+  },
+  {
+    "text": "Hello._You_seem_to_be_new_here._Care_to_share_your_name?",
+    "old_translation": "你好。你好象是刚来的吧。怎么称呼你？",
+    "translation": "你好，看起来你是生面孔。敢问尊姓大名？"
+  },
+  {
+    "text": "Well_met,_{playername}._I_am_the_master_of_the_tournaments_here_at_{s1}._Talk_to_me_if_you_want_to_join_the_fights.",
+    "old_translation": "很高兴遇见你，{playername}。我是{s1}竞技场的老板。如果你想参加比赛或是下注，就来找我。",
+    "translation": "幸会，{playername}。我是{s1}的竞技场主。想参赛或下注，尽管找我。"
+  },
+  {
+    "text": "Ha-ha,_that's_quite_the_bruise_you're_sporting,_but_don't_worry._Everybody_gets_trounced_once_in_awhile._The_important_thing_is_to_pick_yourself_up,_dust_yourself_off_and_keep_fighting._That's_what_champions_do.",
+    "old_translation": "哈哈，受了重伤？不要担心，人总会受伤。最重要的是你得站起来，拍掉身上的灰尘，继续打下去，这样才能成为一个冠军。",
+    "translation": "哈哈，这块瘀青够显眼，别担心，谁都挨过揍。关键是爬起来，拍掉尘土，继续战斗，这才是冠军所为。"
+  },
+  {
+    "text": "Hey,_you_managed_to_take_down_{reg8}_opponents._Not_bad,_but_that_won't_bring_you_any_prize_money._Now,_if_I_were_you,_I_would_go_back_there_and_show_everyone_what_I_can_do...",
+    "old_translation": "嘿，你打败了{reg8}个对手。不错，不过你拿不到钱。如果我是你，我会打回去，让人们看看我的拳头。",
+    "translation": "嘿，你干掉了{reg8}名对手，不赖，可还拿不到奖金。换作我，就回去再让大家见识本事……"
+  },
+  {
+    "text": "You_put_up_quite_a_good_fight_there._Good_moves._You_definitely_show_promise._And_you_earned_a_prize_of_{reg10}_peningas_for_knocking_down_{reg8}_opponents.",
+    "old_translation": "你打得不错，好看，和你吹嘘的一样。打败了{reg8}个对手，这{reg10}先令是你的了。",
+    "translation": "你打得漂亮，身手不错，很有潜力。击倒{reg8}名对手，这份奖励{reg10}银便士归你了。"
+  },
+  {
+    "text": "That_was_a_good_fight_you_put_up_there._You_managed_to_take_down_no_less_than_{reg8}_opponents._And_of_course,_you_earned_a_prize_money_of_{reg10}_peningas.",
+    "old_translation": "非常不错的战斗，你打败了{reg8}个对手，这{reg10}先令全是你的了。",
+    "translation": "打得精彩！你足足放倒了{reg8}名对手，奖金{reg10}银便士当然归你。"
+  },
+  {
+    "text": "Your_performance_was_amazing!_You_are_without_doubt_a_very_skilled_fighter._Not_everyone_can_knock_down_{reg8}_people_in_the_fights._Of_course,_you_deserve_a_prize_with_that_performance:_{reg10}_peningas._Nice,_eh?",
+    "old_translation": "太令人震惊了！毫无疑问你是当之无愧的战斗好手。不是每个人都能干掉{reg8}个人。这是你应得的奖励：{reg10}先令，不错吧？",
+    "translation": "表现惊人！你无疑是高手，不是谁都能在场上干掉{reg8}人。这份奖励{reg10}银便士你拿得理所应当，不错吧？"
+  },
+  {
+    "text": "That_was_damned_good_fighting,_{playername}._You_have_very_good_moves,_excellent_tactics._And_you_earned_a_prize_of_{reg10}_peningas_for_knocking_down_{reg8}_opponents.",
+    "old_translation": "这场战斗太他妈精彩了，{playername}。你的动作和技巧真是漂亮。你打败了{reg8}个对手，你有资格获得{reg10}先令。",
+    "translation": "打得真他妈精彩，{playername}。你的动作和战术都漂亮。击倒{reg8}名对手，奖金{reg10}银便士归你。"
+  },
+  {
+    "text": "Congratulations_champion!_Your_fight_there_was_something_to_remember!_You_managed_to_be_the_last_fighter_standing_beating_down_everyone_else._And_of_course,_you_won_the_grand_prize_of_the_fights:_{reg10}_peningas.",
+    "old_translation": "恭喜你，冠军！你的战斗将会被世人所铭记！你成了最后挺立的人，你理所当然应得大奖：{reg10}先令。",
+    "translation": "恭喜，冠军！你的战斗令人难忘！你站到最后，击败所有人，大奖{reg10}银便士自然归你。"
+  },
+  {
+    "text": "Hello,_{playername}._Good_to_see_you_again.",
+    "old_translation": "你好{playername}。很高兴又见到你了。",
+    "translation": "你好，{playername}。又见面了，真高兴。"
+  },
+  {
+    "text": "What_would_you_like_to_do?",
+    "old_translation": "你想做点什么？",
+    "translation": "你想做点什么？"
+  },
+  {
+    "text": "About_the_melee_fights...",
+    "old_translation": "关于真剑决斗。",
+    "translation": "关于真剑混战……"
+  },
+  {
+    "text": "Will_there_be_a_tournament_in_nearby_towns_soon?",
+    "old_translation": "这段时间这附近的地方会有比赛吗？",
+    "translation": "附近城镇很快会有锦标赛吗？"
+  },
+  {
+    "text": "{reg2?There_won't_be_any_tournaments_any_time_soon.:{reg1?Tournaments_are:A_tournament_is}_going_to_be_held_at_{s15}.}",
+    "old_translation": "{reg2?最近都不会有任何比赛。:在{s15}，{reg1?比赛:一场比赛}要开始了。}",
+    "translation": "{reg2?最近都不会有任何比赛。:{reg1?比赛:一场比赛}将在{s15}举行。}"
+  },
+  {
+    "text": "There_will_be_a_fight_here_soon._You_can_go_and_jump_in_if_you_like.",
+    "old_translation": "很快就要有比赛了。你要参加就要快啊。",
+    "translation": "这里马上有场战斗，想参加就跳进去。"
+  },
+  {
+    "text": "Good._That's_what_I_am_going_to_do.",
+    "old_translation": "好的。我正要这样做呢。",
+    "translation": "好，我这就去。"
+  },
+  {
+    "text": "Thanks,_but_I_will_give_my_bruises_some_time_to_heal.",
+    "old_translation": "谢谢。但是我上次的伤还没好呢。",
+    "translation": "多谢，不过我得让瘀青先养养。"
+  },
+  {
+    "text": "Good_{reg59?girl:man}._That's_clever_of_you.",
+    "old_translation": "好的，{reg59?姑娘:兄弟}。你真明智。",
+    "translation": "好{reg59?姑娘:兄弟}，你够明智。"
+  },
+  {
+    "text": "Actually,_can_you_tell_me_about_the_rewards_again?",
+    "old_translation": "那个，你能再跟我说一下报酬吗？",
+    "translation": "那个，能再跟我说一遍奖励吗？"
+  },
+  {
+    "text": "Hello,_{reg59?girl:boy}._If_you_have_any_prisoners,_I_will_be_happy_to_buy_them_from_you.",
+    "old_translation": "你好啊，{reg59?姑娘:小伙}。如果你有俘虏，我会非常乐意全买下来的。",
+    "translation": "你好啊，{reg59?姑娘:小伙}。有俘虏的话，我乐意全买下。"
+  },
+  {
+    "text": "When_you_take_more_prisoners,_bring_them_to_me._I_pay_well.",
+    "old_translation": "如果你又抓到俘虏了，把他们带过来。我不会亏待你。",
+    "translation": "再抓到俘虏就带来，我出好价。"
+  },
+  {
+    "text": "I'll_give_you_nothing_but_cold_steel,_you_scum!",
+    "old_translation": "除了让你尝尝我手里的兵刃的滋味，我没什么可以给你的，你这个人渣！",
+    "translation": "我能给你的只有冰冷的刀锋，人渣！"
+  },
+  {
+    "text": "There's_no_need_to_fight._I_can_pay_for_free_passage.",
+    "old_translation": "没必要打架，我能付得起过路费。",
+    "translation": "没必要动手，我可以付买路钱。"
+  },
+  {
+    "text": "Silver_without_blood,_that's_our_favourite_kind!_Hmm,_having_a_look_at_you,_I_reckon_you_could_easily_come_up_with_{reg5}_peningas._Pay_it,_and_we'll_let_you_be_on_your_way.",
+    "old_translation": "只谋财不害命，这是我们最希望见到的！嗯，看你面相，我估摸着你能很容易拿出{reg5}先令。拿出来，我们就让你继续上路。",
+    "translation": "不流血就能拿银子，我们最乐意！嗯，看你样子，掏{reg5}银便士应该不难。给了就放你走。"
+  },
+  {
+    "text": "Very_well,_take_it.",
+    "old_translation": "好吧。这些钱你拿去吧。",
+    "translation": "行，拿去吧。"
+  },
+  {
+    "text": "That's_too_bad._I_guess_we'll_just_have_to_sell_you_into_slavery._Take_{reg59?her:him},_lads!",
+    "old_translation": "这太糟了。我想我们可能要把你当奴隶卖了。抓住{reg59?她:他}，兄弟们上！",
+    "translation": "那就可惜了，只好把你卖作奴隶。兄弟们，把{reg59?她:他}拿下！"
+  },
+  {
+    "text": "Hey,_I've_heard_of_you!_You_slaughter_us_freebooters_like_dogs,_and_now_you_expect_us_to_let_you_go_for_a_few_stinking_coins?_Forget_it._You_gave_us_no_quarter,_and_you'll_get_none_from_us.",
+    "old_translation": "嘿，我听说过你的名字！你把我们劫掠者像狗一样的屠杀，现在你希望我们为了这几个臭钱放你走？做梦去吧。你没给我们留任何后路，现在你也别想有。",
+    "translation": "嘿，我听过你！你把我们自由劫掠者当狗杀，如今想靠几个臭钱脱身？做梦！你不留活路，我们也一样。"
+  },
+  {
+    "text": "Heh,_that_wasn't_so_hard,_was_it?_All_right,_we'll_let_you_go_now._Be_off.",
+    "old_translation": "嘿，也没有很难吧，不是吗？好了，你们可以走了。快点滚。",
+    "translation": "嘿，也没多难，对吧？好了，滚吧。"
+  },
+  {
+    "text": "Eh?_What_is_it?",
+    "old_translation": "啊？这是什么？",
+    "translation": "嗯？什么事？"
+  },
+  {
+    "text": "Time_to_hand_over_that_big_purse_of_yours,_isn't_it?",
+    "old_translation": "是时候交出你的钱袋了吧，你说是不是？",
+    "translation": "是时候把你的大钱袋交出来了吧？"
+  },
+  {
+    "text": "Your_luck_has_run_out,_wretch._Prepare_to_die!",
+    "old_translation": "你的好运到头了，无耻的狗杂种。准备去死！",
+    "translation": "你的好运到头了，杂种，受死！"
+  },
+  {
+    "text": "Why_wouldn't_you_hand_over_yours,_scum?",
+    "old_translation": "你怎么不交出你自己的，人渣？",
+    "translation": "你怎么不先交出自己的，人渣？"
+  },
+  {
+    "text": "Do_you_know_whom_you_are_talking_to?_I_will_not_kill_you_if_you_join_me.",
+    "old_translation": "你知道你在和谁说话么？如果你加入我们我就不会杀了你。",
+    "translation": "知道你在跟谁说话吗？归顺我，就饶你一命。"
+  },
+  {
+    "text": "Yes,_I've_heard_of_you._They_say_your_men_get_the_best_loot._Forgive_us,_and_we_will_be_delighted_to_join_such_a_fierce_leader.",
+    "old_translation": "是的，你的名字如雷贯耳。他们说你的部队有上等的战利品。原谅我，我们会很乐意跟随这样一个凶猛的领袖。",
+    "translation": "对，我听过你。都说你的人抢得最好。恕我们冒犯，愿追随如此勇猛的首领。"
+  },
+  {
+    "text": "We_would_consider_your_offer_if_you_added_{reg0}_peningas_to_it.",
+    "old_translation": "如果你能多给{reg0}先令，那我就考虑接受你的提议。",
+    "translation": "再加{reg0}银便士，我们就考虑。"
+  },
+  {
+    "text": "Peningas_come_to_me_more_easily_than_quality_fighters_do._Welcome_to_my_army.",
+    "old_translation": "钱财易得，精兵难求，欢迎加入。",
+    "translation": "银便士易得，精兵难求，欢迎入队。"
+  },
+  {
+    "text": "Now_I_know_why_they_call_you_bandits._Never_mind.",
+    "old_translation": "算了，我现在知道为什么他们叫你们强盗了。",
+    "translation": "现在我明白大家为何叫你们强盗了，算了。"
+  },
+  {
+    "text": "And_I_for_my_part_welcome_such_doughty_men!",
+    "old_translation": "那我的话，欢迎这些猛士的加入！",
+    "translation": "那我欢迎这些勇士加入！"
+  },
+  {
+    "text": "On_second_thought,_I_want_fighters_more_loyal_to_me_than_the_spoils._Never_mind.",
+    "old_translation": "算了，我改主意了，我想要忠诚于我的战士而不是墙头草。",
+    "translation": "罢了，我要的是忠于我的战士，不是见利忘义之徒。"
+  },
+  {
+    "text": "Huh._I've_always_fancied_being_called_'Killer.'_Time_to_make_me_a_new_name.",
+    "old_translation": "哈。我好像一直被叫做“杀手”。看来现在得有一个新名字了。",
+    "translation": "哈，我一直想甩掉‘杀手’这名字，今天正好换个新的。"
+  },
+  {
+    "text": "Here's_my_second_thought:_eat_my_steel!",
+    "old_translation": "我再三考虑之下，决定：让你们都去死！",
+    "translation": "我改主意了：吃我一剑！"
+  },
+  {
+    "text": "Never_mind,_I_have_no_business_with_you.",
+    "old_translation": "算了，我不想和你有任何瓜葛。",
+    "translation": "算了，我跟你没瓜葛。"
+  },
+  {
+    "text": "Do_you_want_us_to_follow_you?",
+    "old_translation": "你想让我们跟着你吗？",
+    "translation": "你要我们跟你走吗？"
+  },
+  {
+    "text": "Yes._Let_us_ride_together.",
+    "old_translation": "是，让我们一起走吧。",
+    "translation": "是，一起上路。"
+  },
+  {
+    "text": "No._Not_at_this_time.",
+    "old_translation": "不，这次不行。",
+    "translation": "不，这次不行。"
+  },
+  {
+    "text": "Unfortunately,_you_do_not_have_room_in_your_party_for_us.",
+    "old_translation": "很不幸。你队伍里没有多余的空间容纳我们了。",
+    "translation": "可惜，你的队伍没空位容下我们。"
+  },
+  {
+    "text": "We_are_at_your_command.",
+    "old_translation": "我们现在听你的指挥。",
+    "translation": "我们听候你的命令。"
+  },
+  {
+    "text": "You_will_not_capture_me_again._Not_this_time.",
+    "old_translation": "你不会抓到我的。至少这次不会。",
+    "translation": "这次你休想再抓住我。"
+  },
+  {
+    "text": "You_don't_have_a_chance_against_me._Give_up.",
+    "old_translation": "你没可能赢得了我的。投降吧。",
+    "translation": "你毫无胜算，投降吧。"
+  },
+  {
+    "text": "I_will_give_up_when_you_are_dead!",
+    "old_translation": "等你死了我再投降也不迟啊！",
+    "translation": "等你死了我就投降！"
+  },
+  {
+    "text": "I_beg_you!_Please_leave_us_alone.",
+    "old_translation": "求求你，放过我们。",
+    "translation": "求求你，放过我们。"
+  },
+  {
+    "text": "Do_you_think_you_can_run_away_from_me?_You_will_be_my_prisoner_or_die!",
+    "old_translation": "你以为你能逃得掉吗？你只有两个选择，投降或者死！",
+    "translation": "你以为逃得掉？要么做我的俘虏，要么死！"
+  },
+  {
+    "text": "Very_well,_we'll_leave_you_in_peace_this_time._Do_not_oppose_us_again.",
+    "old_translation": "好吧，这次我们就发善心放过你，但是记住，下一次你就不会有这么好的运气了。",
+    "translation": "好，这次我们放你一条生路，别再与我们为敌。"
+  },
+  {
+    "text": "Haven't_you_got_any_mercy?_Well,_we_will_fight_you_to_the_last_man!",
+    "old_translation": "你就没有一点怜悯之心吗？好吧，我们会誓死抵抗。",
+    "translation": "你就没有半点怜悯？好，我们誓死奋战到底！"
+  },
+  {
+    "text": "Hmmm._Ten_peningas_for_each_looter_makes_{reg1}_peningas_for_all_{reg0}_of_them.",
+    "old_translation": "嗯，每一个劫匪值10先令，这里有{reg0}个人，一共就是{reg1}先令，。",
+    "translation": "嗯，每个劫匪值10银便士，{reg0}人一共{reg1}银便士。"
+  },
+  {
+    "text": "Let_me_see._You've_brought_{reg0}_bandits,_so_20_peningas_for_each_comes_up_to_{reg1}_peningas.",
+    "old_translation": "让我看看，你带来了{reg0}个强盗，每人20先令那么一共就是{reg1}先令。",
+    "translation": "让我算算，你带来{reg0}个强盗，每人20银便士，总共{reg1}银便士。"
+  },
+  {
+    "text": "Well,_well,_you've_captured_{reg0}_brigands._Each_one_is_worth_30_peningas,_so_I'll_give_you_{reg1}_for_them_in_total.",
+    "old_translation": "嗯嗯，你抓了{reg0}个土匪。他们每个值30先令，所以我一共给你{reg1}先令。",
+    "translation": "不错，你抓了{reg0}个土匪，每人30银便士，我总共给你{reg1}银便士。"
+  },
+  {
+    "text": "I_suppose_that'll_be_all,_then.",
+    "old_translation": "我估计这样就可以了，还有吗。",
+    "translation": "就这样吧，还有事吗？"
+  },
+  {
+    "text": "Yes,_{reg59?Lady:Lord}_{s1}?",
+    "old_translation": "是的，{reg59?女士:大人}？",
+    "translation": "是，{reg59?女士:大人}{s1}？"
+  },
+  {
+    "text": "{s1},_redeem_yourself_in_the_eyes_of_Odin,_and_rid_yourself_of_that_Christian_weakling_God!",
+    "old_translation": "{s1}，在奥丁的注视下赎罪吧，摆脱基督教软弱的神吧！",
+    "translation": "{s1}，在奥丁眼前赎罪，抛弃那软弱的基督伪神！"
+  },
+  {
+    "text": "{s1},_repent_of_your_sins_and_accept_the_one_true_Lord,_our_saviour,_Jesus_Christ!",
+    "old_translation": "{s1}，为你的罪过忏悔，并接受唯一的主吧，我们的救世主，耶稣基督！",
+    "translation": "{s1}，为你的罪忏悔，归向唯一的真主、我们的救主耶稣基督！"
+  },
+  {
+    "text": "Wonderful_news,_you're_free_to_go!",
+    "old_translation": "好消息，你自由了！",
+    "translation": "好消息，你可以走了！"
+  },
+  {
+    "text": "On_the_second_thought,_maybe_you_should_stay_my_prisoner",
+    "old_translation": "再三考虑，你还是留在这里吧。",
+    "translation": "再想想，你还是留下来当我的俘虏吧。"
+  },
+  {
+    "text": "Whatever_suits_you!",
+    "old_translation": "随你喜欢！",
+    "translation": "随你喜欢！"
+  },
+  {
+    "text": "I_will_not_forget_this_act_of_Honor!",
+    "old_translation": "我不会忘记你的义举！",
+    "translation": "我不会忘记你的这份荣誉之举！"
+  },
+  {
+    "text": "You_will_remain_my_prisoner_until_one_of_your_relatives_reimburses_me_for_you.",
+    "old_translation": "在你的亲属付钱之前，你一直都会是我的俘虏。",
+    "translation": "在你亲属付赎金之前，你都得做我的俘虏。"
+  },
+  {
+    "text": "Truly,_this_is_beneath_you.",
+    "old_translation": "真的，你说了算。",
+    "translation": "说真的，这由你决定。"
+  },
+  {
+    "text": "I_trust_you_will_be_as_understanding_when_I_hunt_you_down_like_the_dog_you_are!",
+    "old_translation": "而我相信以后当我在追杀你的时候，你会像一条狗一样逃跑！",
+    "translation": "等我把你当狗一样追杀时，希望你也能这么理解！"
+  },
+  {
+    "text": "I_see_you_have_some_fine_armor_and_weapons_in_good_condition...",
+    "old_translation": "我觉得你有不错的铠甲和武器……",
+    "translation": "看来你有不错的铠甲和武器……"
+  },
+  {
+    "text": "Yes,_and_what_is_it_to_you?",
+    "old_translation": "是的，但这和你有什么关系？",
+    "translation": "是，那又怎样？"
+  },
+  {
+    "text": "Nothing,_just_admiring.",
+    "old_translation": "没事，就说说。",
+    "translation": "没事，随口说说。"
+  },
+  {
+    "text": "Perhaps,_it's_time_to_share_it_with_someone_needy.",
+    "old_translation": "或许，你该和别人分享一些东西了吧。",
+    "translation": "也许，是时候把它分给真正需要的人了。"
+  },
+  {
+    "text": "Eh?",
+    "old_translation": "嗯？",
+    "translation": "嗯？"
+  },
+  {
+    "text": "I'd_like_to_try_on_your_{s13}.",
+    "old_translation": "我想试试你的{s13}。",
+    "translation": "我想试试你的{s13}。"
+  },
+  {
+    "text": "I_don't_think_you'll_need_your_{s13}_any_time_soon.",
+    "old_translation": "我觉得你不再需要{s13}了。",
+    "translation": "我觉得你短期内用不着{s13}了。"
+  },
+  {
+    "text": "Nothing,_just_joking.",
+    "old_translation": "开个玩笑罢了。",
+    "translation": "没事，开个玩笑。"
+  },
+  {
+    "text": "Hah!_I_think_you_are_thinking_of_having_fun_at_my_expense.",
+    "old_translation": "啊，那太好了。",
+    "translation": "哈！我看你是想拿我寻开心。"
+  },
+  {
+    "text": "I_am_not_joking._Remove_your_{s13}_and_hand_it_over_to_me!",
+    "old_translation": "我不是开玩笑，把你的{s13}交给我！",
+    "translation": "我不是开玩笑。脱下你的{s13}，交给我！"
+  },
+  {
+    "text": "You_are_nothing_but_a_common_thief,_{playername}._I_will_always_remember_this!",
+    "old_translation": "你这个窃贼，{playername}。我这辈子会记住你的！",
+    "translation": "你不过是个小毛贼，{playername}。我一辈子都会记住今天！"
+  },
+  {
+    "text": "Hey,_you!",
+    "old_translation": "喂，你！",
+    "translation": "嘿，说你呢！"
+  },
+  {
+    "text": "I_will_set_you_and_the_rest_of_your_lot_free,_if_you_attack_my_enemies.",
+    "old_translation": "如果你答应袭击我的敌人，我就放你和你的手下离开。",
+    "translation": "只要你去攻打我的敌人，我就放你和你的同伴自由。"
+  },
+  {
+    "text": "Do_not_try_running_away_or_trying_something_stupid._I_am_watching_you.",
+    "old_translation": "不要想逃跑或是做别的什么蠢事，我盯着你呢。",
+    "translation": "别想着逃跑或耍花样，我盯着你。"
+  },
+  {
+    "text": "I_can't_stand_the_sight_of_you!_Die!",
+    "old_translation": "我受不了你了！去死吧！",
+    "translation": "我一刻都不想再看到你！受死吧！"
+  },
+  {
+    "text": "It_could_be_the_mead_talking,_but_today_I_really_feel_like_setting_you_free.",
+    "old_translation": "也许是我喝多了吧，但今天我真的想放你走。",
+    "translation": "可能是蜜酒上头，但今天我真想放你走。"
+  },
+  {
+    "text": "Oh,_thank_you,_your_Highness.__God_bless_you!",
+    "old_translation": "噢，谢谢您，大人，老天爷保佑您！",
+    "translation": "噢，谢谢您，大人，老天保佑您！"
+  },
+  {
+    "text": "I_would_like_to_offer_you_a_place_in_my_shield_wall.",
+    "old_translation": "我想邀请你加入我的队伍。",
+    "translation": "我想邀你加入我的盾墙。"
+  },
+  {
+    "text": "Yes,_{reg59?madam:sir}._I_swear_on_my_mothers_grave_I_will_serve_you,_my_{reg59?lady:lord}!",
+    "old_translation": "好的，{reg59?女士:大人}。我以母亲坟墓的名义发誓，我会誓死追随您，我的{reg59?女士:大人}！",
+    "translation": "遵命，{reg59?女士:大人}。我凭母亲的坟墓起誓，将效忠您，我的{reg59?女士:大人}！"
+  },
+  {
+    "text": "It_would_be_best_if_your_highness_just_let_me_go_home,_I'm_not_interested.",
+    "old_translation": "如果大人愿意放我回家就最好不过了。我不感兴趣。",
+    "translation": "大人若能放我回家就最好了，我没兴趣。"
+  },
+  {
+    "text": "In_my_shield_wall,_we_are_all_treated_as_equals.__I_expect_your_obedience_and_also_your_trust.",
+    "old_translation": "我对我的士兵一视同仁，我期待你的服从，以及你的信任。",
+    "translation": "在我的盾墙里，人人平等。我要你的服从，也要你的信任。"
+  },
+  {
+    "text": "I_will_obey_your_wishes,_my_{reg59?lady:lord}.__I_swear!",
+    "old_translation": "我会服从您的一切命令，{reg59?女士:大人}，我发誓！",
+    "translation": "我会遵从您的意志，{reg59?女士:大人}，我发誓！"
+  },
+  {
+    "text": "Sorry,_but_I_really_don't_have_space_for_you_at_the_moment.",
+    "old_translation": "抱歉，但我队伍里已经没有位置了。",
+    "translation": "抱歉，我队里现在没空位了。"
+  },
+  {
+    "text": "Excellent_news.",
+    "old_translation": "好消息。",
+    "translation": "好消息。"
+  },
+  {
+    "text": "No,_I_swear_I_won't.",
+    "old_translation": "我发誓我不会。",
+    "translation": "不，我发誓绝不会。"
+  },
+  {
+    "text": "Sorry,_but_I_am_not_your_puppet!",
+    "old_translation": "对不起，我不是你的玩偶！",
+    "translation": "对不起，我不是你的傀儡！"
+  },
+  {
+    "text": "It_sounds_intriguing._Which_enemy_do_you_have_in_mind?",
+    "old_translation": "听起来很有趣，你想让我袭击谁？",
+    "translation": "听起来有意思，你想让我打谁？"
+  },
+  {
+    "text": "Very_well,_what_do_you_want_me_to_do?",
+    "old_translation": "很好，你想让我干什么？",
+    "translation": "好，你要我做什么？"
+  },
+  {
+    "text": "I_want_you_to_attack_{s34}.",
+    "old_translation": "我想让你袭击{s34}。",
+    "translation": "我要你去袭击{s34}。"
+  },
+  {
+    "text": "I_want_you_to_attack_{s35}.",
+    "old_translation": "我想让你袭击{s35}。",
+    "translation": "我要你去袭击{s35}。"
+  },
+  {
+    "text": "Very_well,_we_will_try_to_attack_{s33}.",
+    "old_translation": "很好，我们会去袭击{s33}的。",
+    "translation": "很好，我们会试着袭击{s33}。"
+  },
+  {
+    "text": "Very_well,_we_will_attack_{s33}.",
+    "old_translation": "很好，我们会去袭击{s33}的。",
+    "translation": "很好，我们会袭击{s33}。"
+  },
+  {
+    "text": "I_will_show_you_how_to_use_your_weapons_properly,_so_next_time_you_will_not_surrender,_coward!",
+    "old_translation": "我会教你怎么正确地使用武器，这样你下次就不会投降了，懦夫！",
+    "translation": "我来教你怎么正确使用武器，下次你就不会投降了，懦夫！"
+  },
+  {
+    "text": "Please,_{reg59?lady:sir},_don't_kill_me._There_is_no_honor_in_killing_someone_who_can't_defend_himself.",
+    "old_translation": "求求你，{reg59?女士:大人}，不要杀我。杀死手无寸铁的人是不光彩的事情。",
+    "translation": "求你了，{reg59?女士:大人}，别杀我。杀死无法自卫的人毫无荣耀可言。"
+  },
+  {
+    "text": "There_may_be_no_honor,_but_I_will_feel_better_after_I_separate_your_head_from_your_shoulders!",
+    "old_translation": "的确不光彩，但在我把你的头砍掉之后，我会很高兴！",
+    "translation": "也许没有荣耀，但等我让你的脑袋和肩膀分家，我会痛快得多！"
+  },
+  {
+    "text": "You're_right._I'd_better_use_pumpkins_for_my_practice.",
+    "old_translation": "你说得对，我还是用南瓜来练习吧。",
+    "translation": "你说得对，我还是用南瓜练手吧。"
+  },
+  {
+    "text": "(One_swing_of_your_weapon_cuts_off_the_prisoner's_head,_and_it_rolls_across_the_floor.)",
+    "old_translation": "（你一下就砍下了俘虏的头颅，它沿着山滚下去，飞得很高，然后集中一块岩石。）",
+    "translation": "（你挥动武器，一下斩下俘虏的头颅，脑袋滚落在地。）"
+  },
+  {
+    "text": "Greetings,_{reg59?my_lady:your_lordship}._How_can_I_serve_you_today?",
+    "old_translation": "你好，{reg59?我尊敬的女士:我尊敬的阁下}。我能为你做些什么吗？",
+    "translation": "向您致意，{reg59?我的女士:阁下}。今天我能为您效劳吗？"
+  },
+  {
+    "text": "Good_day._What_can_I_do_for_you?",
+    "old_translation": "你好。我能为你做什么？",
+    "translation": "日安。我能为您做些什么？"
+  },
+  {
+    "text": "I_want_to_buy_a_new_weapon._Show_me_your_wares.",
+    "old_translation": "我想买件新武器。让我看看你都有些什么。",
+    "translation": "我想买件新武器。让我看看你的货。"
+  },
+  {
+    "text": "I_am_looking_for_some_equipment._Show_me_what_you_have.",
+    "old_translation": "我想弄点新装备。让我看看你都有些什么。",
+    "translation": "我在找些装备。让我看看你有什么。"
+  },
+  {
+    "text": "I_am_thinking_of_buying_a_horse.",
+    "old_translation": "我想挑匹好马。",
+    "translation": "我想买一匹马。"
+  },
+  {
+    "text": "Ah,_yes_{reg59?madam:sir}._These_arms_are_the_best_you'll_find_anywhere.",
+    "old_translation": "是啊，{reg59?女士:先生}。你找不到更好的武器了。",
+    "translation": "啊，是的，{reg59?女士:先生}。这些兵器别处找不到更好的了。"
+  },
+  {
+    "text": "Of_course,_{reg59?madam:sir}._No_better_prices_in_all_the_land!",
+    "old_translation": "当然，{reg59?女士:先生}。这片大陆上没有比我卖得更便宜的了！",
+    "translation": "当然，{reg59?女士:先生}。全国都找不到更公道的价！"
+  },
+  {
+    "text": "You_have_a_fine_eye_for_horses,_{reg59?madam:sir}._You_won't_find_better_beasts_than_these_anywhere_else.",
+    "old_translation": "你很了解马啊，{reg59?女士:先生}。你不会找到比我这更好的马了。",
+    "translation": "您眼光真好，{reg59?女士:先生}。别处可找不到比这些更棒的骏马。"
+  },
+  {
+    "text": "I_want_to_refine_one_of_my_weapons.",
+    "old_translation": "我想修理我的一件武器。",
+    "translation": "我想精炼我的一件武器。"
+  },
+  {
+    "text": "Which_one?",
+    "old_translation": "哪个？",
+    "translation": "哪一件？"
+  },
+  {
+    "text": "Hmm,_let_me_take_a_look..._Your_{s7}_is_{s8}._I_think_I_will_be_able_to_make_it_{s9}_for_{reg1}_peningas._{s10}",
+    "old_translation": "嗯，我来看看……你这个是{s8}{s7}。我想我可以把它打造成{s9}{s7}，需要{reg1}先令。{s10}",
+    "translation": "嗯，我看看……你的{s7}是{s8}。我想我能把它精炼成{s9}，要{reg1}银便士。{s10}"
+  },
+  {
+    "text": "Hmm,_let_me_take_a_look..._There_is_nothing_I_can_do_for_your_{s7}._I_can't_refine_it.",
+    "old_translation": "嗯，我来看看……你的{s7}没什么需要修理的了。",
+    "translation": "嗯，我看看……你的{s7}已经没法再精炼了。"
+  },
+  {
+    "text": "Agreed!",
+    "old_translation": "好！",
+    "translation": "成交！"
+  },
+  {
+    "text": "Here_you_have_your_{s7}_back._It's_refined.",
+    "old_translation": "你的{s7}，还给你，修好了。",
+    "translation": "你的{s7}拿回去，已经精炼好了。"
+  },
+  {
+    "text": "I_want_to_refine_one_of_my_armor_parts.",
+    "old_translation": "我想精炼我的装备。",
+    "translation": "我想精炼我的一件护甲部件。"
+  },
+  {
+    "text": "Tell_me,_what_are_people_talking_about_these_days?",
+    "old_translation": "告诉我，大家最近都在谈些什么？",
+    "translation": "告诉我，最近大家都在聊些什么？"
+  }
+]

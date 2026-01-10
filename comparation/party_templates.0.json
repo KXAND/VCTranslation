@@ -1,0 +1,298 @@
+[
+    {
+        "text": "none",
+        "translation": "none{***}"
+    },
+    {
+        "text": "Rescued_Prisoners",
+        "translation": "被救的俘虏"
+    },
+    {
+        "text": "Enemy",
+        "translation": "敌人"
+    },
+    {
+        "text": "Hero_Party",
+        "translation": "英雄部队"
+    },
+    {
+        "text": "Village_Defenders",
+        "translation": "村庄卫队"
+    },
+    {
+        "text": "Cattle_Herd",
+        "translation": "牛群"
+    },
+    {
+        "text": "Thieves",
+        "translation": "盗贼"
+    },
+    {
+        "text": "Young_Warriors",
+        "translation": "青年勇士"
+    },
+    {
+        "text": "Northmenn",
+        "translation": "诺曼强盗"
+    },
+    {
+        "text": "Vikingarnir",
+        "translation": "维京强盗"
+    },
+    {
+        "text": "Veteran_Renegades",
+        "translation": "老练叛军"
+    },
+    {
+        "text": "Robbers",
+        "translation": "强盗"
+    },
+    {
+        "text": "Renegades",
+        "translation": "叛军"
+    },
+    {
+        "text": "Masterless_Fighters",
+        "translation": "无主斗士"
+    },
+    {
+        "text": "Danish_Elite_Vikingarnir",
+        "translation": "丹麦精英维京强盗"
+    },
+    {
+        "text": "Renegade_Fianna",
+        "translation": "费奥纳的叛徒"
+    },
+    {
+        "text": "Thieving_Franks",
+        "translation": "盗贼"
+    },
+    {
+        "text": "Raiding_Franks",
+        "translation": "盗贼"
+    },
+    {
+        "text": "Masterless_Men",
+        "translation": "散兵游勇"
+    },
+    {
+        "text": "Merchant_Caravan",
+        "translation": "商人的商队"
+    },
+    {
+        "text": "Troublesome_Bandits",
+        "translation": "难对付的强盗"
+    },
+    {
+        "text": "Bandits_Awaiting_Ransom",
+        "translation": "等待赎金的强盗"
+    },
+    {
+        "text": "Kidnapped_Girl",
+        "translation": "被绑架的女孩"
+    },
+    {
+        "text": "Village_Farmers",
+        "translation": "村民"
+    },
+    {
+        "text": "Unremarkable_Travellers",
+        "translation": "不显眼的旅行者"
+    },
+    {
+        "text": "Runaway_Serfs",
+        "translation": "逃跑的农奴"
+    },
+    {
+        "text": "Ordinary_Townsman",
+        "translation": "普通的市民"
+    },
+    {
+        "text": "Sacrificed_Messenger",
+        "translation": "献祭信使"
+    },
+    {
+        "text": "Scouts",
+        "translation": "侦察队"
+    },
+    {
+        "text": "Messenger",
+        "translation": "信使"
+    },
+    {
+        "text": "Raiders",
+        "translation": "突袭者"
+    },
+    {
+        "text": "Raider_Captives",
+        "translation": "猎俘队"
+    },
+    {
+        "text": "Trader",
+        "translation": "商队"
+    },
+    {
+        "text": "Prisoner_Train",
+        "translation": "运俘队"
+    },
+    {
+        "text": "Default_Prisoners",
+        "translation": "逃走的俘虏"
+    },
+    {
+        "text": "Routed_Enemies",
+        "translation": "溃军"
+    },
+    {
+        "text": "Reinforcements",
+        "translation": "增援部队"
+    },
+    {
+        "text": "War_Party",
+        "translation": "战团"
+    },
+    {
+        "text": "a_Northmenn_longphort",
+        "translation": "诺曼港垒"
+    },
+    {
+        "text": "a_Vikingarnir_longphort",
+        "translation": "维京港垒"
+    },
+    {
+        "text": "a_veteran_renegades'_camp",
+        "translation": "老练叛军营地"
+    },
+    {
+        "text": "a_robbers'_den",
+        "translation": "强盗老巢"
+    },
+    {
+        "text": "a_renegades'_camp",
+        "translation": "叛军营地"
+    },
+    {
+        "text": "a_fighters_camp",
+        "translation": "斗士营地"
+    },
+    {
+        "text": "a_Danish_longphort",
+        "translation": "丹麦港垒"
+    },
+    {
+        "text": "the_kidnappers'_hideout",
+        "translation": "绑架者藏身处"
+    },
+    {
+        "text": "Band_of_Robbers",
+        "translation": "强盗团"
+    },
+    {
+        "text": "Christian_Clergy",
+        "translation": "基督教牧师"
+    },
+    {
+        "text": "Pagan_Priests",
+        "translation": "多神教祭司"
+    },
+    {
+        "text": "Frankish_Raiders",
+        "translation": "法兰克突袭者"
+    },
+    {
+        "text": "Danish_Vikingr",
+        "translation": "丹麦维京强盗"
+    },
+    {
+        "text": "Vikingr",
+        "translation": "维京强盗"
+    },
+    {
+        "text": "Norwegian_Vikingr",
+        "translation": "挪威维京强盗"
+    },
+    {
+        "text": "Swedish_Vikingr",
+        "translation": "瑞典维京强盗"
+    },
+    {
+        "text": "Smoke",
+        "translation": "烟"
+    },
+    {
+        "text": "Epic_Viking_Fleet",
+        "translation": "传奇维京船队"
+    },
+    {
+        "text": "port",
+        "translation": "港口"
+    },
+    {
+        "text": "your_ships",
+        "translation": "你的船"
+    },
+    {
+        "text": "Fisher",
+        "translation": "渔船"
+    },
+    {
+        "text": "Traveller",
+        "translation": "旅行者"
+    },
+    {
+        "text": "Slave_Trader",
+        "translation": "贩奴船"
+    },
+    {
+        "text": "Sea_King",
+        "translation": "提督"
+    },
+    {
+        "text": "Walrus_Hunter",
+        "translation": "海象猎人"
+    },
+    {
+        "text": "Viking_Raider",
+        "translation": "维京突袭者"
+    },
+    {
+        "text": "Ambushers",
+        "translation": "伏击者"
+    },
+    {
+        "text": "Ship",
+        "translation": "船"
+    },
+    {
+        "text": "Sven's_Raiders",
+        "translation": "斯温的突袭队"
+    },
+    {
+        "text": "Sven's_Hideout",
+        "translation": "斯温的藏身处"
+    },
+    {
+        "text": "Sigurd's_Men",
+        "translation": "西格德的战士"
+    },
+    {
+        "text": "West_Seaxe_Foragers",
+        "translation": "西撒克逊征粮队"
+    },
+    {
+        "text": "West_Seaxe_Patrol",
+        "translation": "西撒克逊巡逻队"
+    },
+    {
+        "text": "Boar_Herd",
+        "translation": "野猪群"
+    },
+    {
+        "text": "Hideout",
+        "translation": "藏身处"
+    },
+    {
+        "text": "Levy",
+        "translation": "税吏"
+    }
+]

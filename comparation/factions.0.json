@@ -1,0 +1,170 @@
+[
+    {
+        "text": "No_Faction",
+        "translation": "NoFaction{***}"
+    },
+    {
+        "text": "Commoners",
+        "translation": "平民"
+    },
+    {
+        "text": "Outlaws",
+        "translation": "不法之徒"
+    },
+    {
+        "text": "Neutral",
+        "translation": "中立者"
+    },
+    {
+        "text": "Innocents",
+        "translation": "无辜者"
+    },
+    {
+        "text": "Merchants",
+        "translation": "商人"
+    },
+    {
+        "text": "Norse",
+        "translation": "诺尔斯"
+    },
+    {
+        "text": "Saxon",
+        "translation": "撒克逊"
+    },
+    {
+        "text": "Angle",
+        "translation": "盎格鲁"
+    },
+    {
+        "text": "Brittonic",
+        "translation": "布立吞"
+    },
+    {
+        "text": "Goidelic",
+        "translation": "戈伊德尔"
+    },
+    {
+        "text": "Pictish",
+        "translation": "皮克特"
+    },
+    {
+        "text": "Player_Faction",
+        "translation": "玩家阵营"
+    },
+    {
+        "text": "Player's_Supporters",
+        "translation": "某个意淫王国"
+    },
+    {
+        "text": "Kingdom_of_Danmark",
+        "translation": "丹麦王国"
+    },
+    {
+        "text": "Kingdom_of_Northvegr",
+        "translation": "挪威王国"
+    },
+    {
+        "text": "Kingdom_of_Laithlind",
+        "translation": "雷弗莱王国"
+    },
+    {
+        "text": "Kingdom_of_Friese",
+        "translation": "弗里斯王国"
+    },
+    {
+        "text": "Kingdom_of_West_Seaxe",
+        "translation": "西撒克逊王国"
+    },
+    {
+        "text": "Kingdom_of_East_Engle",
+        "translation": "东盎格里亚王国"
+    },
+    {
+        "text": "Kingdom_of_Mierce",
+        "translation": "麦西亚王国"
+    },
+    {
+        "text": "Kingdom_of_Northhymbre",
+        "translation": "诺森布里亚王国"
+    },
+    {
+        "text": "Kingdom_of_Gwynedd",
+        "translation": "格温特王国"
+    },
+    {
+        "text": "Kingdom_of_Brycheiniog",
+        "translation": "拜卡灵王国"
+    },
+    {
+        "text": "Kingdom_of_Alt_Clut",
+        "translation": "奥卡勒王国"
+    },
+    {
+        "text": "Kingdom_of_Cornubia",
+        "translation": "康比亚王国"
+    },
+    {
+        "text": "Kingdom_of_Glywyssing",
+        "translation": "格莱永王国"
+    },
+    {
+        "text": "Kingdom_of_Uladh",
+        "translation": "阿尔斯特王国"
+    },
+    {
+        "text": "Kingdom_of_Laigin",
+        "translation": "雷金王国"
+    },
+    {
+        "text": "Kingdom_of_Mumain",
+        "translation": "穆梅殷王国"
+    },
+    {
+        "text": "Kingdom_of_Connachta",
+        "translation": "卡内塔王国"
+    },
+    {
+        "text": "Ui_Neill_of_Aileach",
+        "translation": "欧莱克王国"
+    },
+    {
+        "text": "Kingdom_of_Mide",
+        "translation": "迈德王国"
+    },
+    {
+        "text": "Kingdom_of_Alban",
+        "translation": "奥尔本王国"
+    },
+    {
+        "text": "Tribe_of_Osraige",
+        "translation": "奥斯里部落"
+    },
+    {
+        "text": "Christians",
+        "translation": "基督徒"
+    },
+    {
+        "text": "Pagans",
+        "translation": "多神教徒"
+    },
+    {
+        "text": "Manhunters",
+        "translation": "赏金猎人"
+    },
+    {
+        "text": "Deserters",
+        "translation": "乱军"
+    },
+    {
+        "text": "Sea_Warriors",
+        "translation": "海盗"
+    },
+    {
+        "text": "Forest_Bandits",
+        "translation": "绿林强盗"
+    },
+    {
+        "text": "Adventurers",
+        "translation": "冒险家"
+    }
+]

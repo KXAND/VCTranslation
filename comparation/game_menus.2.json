@@ -1,0 +1,570 @@
+[
+    {
+        "text": "This_missionary_is_wrong._Have_him_and_his_followers_burn_for_the_gods.",
+        "translation": "这个传教士是错误的，应该将他和追随者献祭给众神。"
+    },
+    {
+        "text": "This_missionary_is_wrong._Have_those_Christians_abandon_this_village_in_peace.",
+        "translation": "这个传教士是错误的，让那些基督徒离开村子。"
+    },
+    {
+        "text": "A_woman_from_a_nearby_village_comes_to_you_claiming_that_one_of_your_men_who_died_recently_was_her_husband._She_asks_for_assistance_to_take_care_of_the_remains.",
+        "translation": "一个来自附近村庄的女人声称，你最近死去的士兵之中有一个是她的丈夫。她请求帮忙善后和处理尸体。"
+    },
+    {
+        "text": "Give_her_monetary_assistance_and_send_for_a_priest.",
+        "translation": "资助她，并为她派遣一名牧师。"
+    },
+    {
+        "text": "Do_nothing._This_isn't_my_problem.",
+        "translation": "什么都不做，这不关我事。"
+    },
+    {
+        "text": "Unluckily,_I_do_not_have_money_for_this.",
+        "translation": "抱歉，我无能为力。"
+    },
+    {
+        "text": "The_most_important_local_leader_comes_to_you_with_a_request._'My_{reg59?lady:lord},_would_it_not_show_your_great_mercy_and_honor_to_provide_for_those_who_have_suffered_while_serving_under_you?_We_have_dozens_of_maimed,_lame_and_aged_ex-warriors_begging_for_coin_in_the_streets_and_many_families_who_have_lost_fathers_and_husbands_in_your_battles._We_need_to_reward_and_protect_your_loyal_supporters,_or_else_men_might_be_hesitant_in_the_future_to_be_in_your_shield_wall.",
+        "translation": "一位最重要的地方首领向你提出了一个请求：“我的{reg59?女士:阁下}，你会对那些因对你效忠而受苦的人们展示你的宽宏大量么？很多残废、瘸腿和年迈的老兵在街头乞讨，还有很多家庭因为你的战争而失去了丈夫和父亲。我们需要奖励以及保护那些忠实的支持者们，还有那些以后可能会成为你麾下一员的年轻人。”"
+    },
+    {
+        "text": "It_isn't_my_fault_my_men_don't_save_their_wealth_for_their_families.",
+        "translation": "这不关我事，我的手下没有为自己的家庭准备后路，是他们自己的错。"
+    },
+    {
+        "text": "We_should_support_our_veterans_and_their_families_(800_peningas).",
+        "translation": "我们应该帮助老兵和他们的家庭。（800先令）"
+    },
+    {
+        "text": "Open_my_coffers._All_families_shall_receive_support_(2000_peningas).",
+        "translation": "打开我的金库，让所有家庭都得到帮助。（2000先令）"
+    },
+    {
+        "text": "I_have_no_money_for_this_unexpected_expense.",
+        "translation": "我没钱付这些额外的价格。"
+    },
+    {
+        "text": "A_seemingly_straightforward_case_is_brought_before_you._Yesterday,_the_accused_man_broke_into_the_victim's_house_and_removed_large_amounts_of_wealth._Many_people_saw_him,_and_the_missing_items_were_discovered_in_his_house._The_victim_is_an_influential_supporter_of_the_previous_lord,_had_actually_served_as_a_councillor_and_was_known_to_be_of_doubtful_loyalty._The_accused,_on_the_other_hand,_happens_to_be_one_of_your_most_vocal_supporters_and_a_major_donor_to_your_cause.",
+        "translation": "有一个貌似很简单的案件要交给你。昨天，被告人破入被害人的家并卷走了大量财产。很多人都看到了，而且丢失的财物都在他家找到。但受害人是前任领主的一个有影响力的支持者和参赞，但是他的忠诚让人怀疑。而另一方面，被告人是你最忠实的支持者而且曾经给你支持了很多财物。"
+    },
+    {
+        "text": "Ignoring_the_evidence,_you_settle_in_your_man's_favor.",
+        "translation": "无视证据，你渐渐地在士兵的心中占据了最重要的位置。"
+    },
+    {
+        "text": "The_evidence_is_clear,_and_the_accused_is_found_guilty.",
+        "translation": "证据很明显表明了被告人有罪。"
+    },
+    {
+        "text": "Both_parties_are_in_the_wrong._You_exile_them_and_confiscate_all_material.",
+        "translation": "双方都有错。你把他们都流放了并没收了这案件的所有证据。"
+    },
+    {
+        "text": "A_seemingly_straightforward_case_is_brought_before_you._Yesterday,_the_accused_man_broke_into_the_victim's_house_and_removed_large_amounts_of_wealth._Many_people_saw_him,_and_the_missing_items_were_discovered_in_his_house._But_the_victim_is_an_influential_supporter_of_the_previous_lord,_had_actually_served_as_a_councillor_and_was_known_to_be_of_doubtful_loyalties._The_accused,_on_the_other_hand,_happens_to_be_one_of_your_most_vocal_supporters_and_has_donated_much_money_to_your_cause.",
+        "translation": "有一个貌似很简单的案件要交给你。昨天，被告人破入被害人的家并卷走了大量财产。很多人都看到了，而且丢失的财物都在他家找到。但受害人是前任领主的一个有影响力的支持者和参赞，但他的忠诚让人怀疑。而另一方面，被告人是你最忠实的支持者而且曾经给你支持了很多财物。"
+    },
+    {
+        "text": "The_evidence_is_clear,_and_the_accused_is_found_guilty!",
+        "translation": "证据确凿，被告被判有罪！"
+    },
+    {
+        "text": "You_claim_both_parties_are_in_the_wrong._You_exile_them_and_confiscate_all_material.",
+        "translation": "你说双方都是错的。你放逐了他们，没收所有和本案有关的材料。"
+    },
+    {
+        "text": "Your_relation_with_{s4}_is_very_bad._As_you_walk_its_streets,_people_look_at_you_hatefully_and_make_gestures_behind_your_back._You_get_beyond_a_corner,_and_you're_safe_--_until_several_people_begin_to_emerge._Ordinary_citizens_are_tired_of_your_government_and_begin_to_insult_you._Finally,_someone_becomes_bold_enough_to_pull_a_knife_and_attack_you.",
+        "translation": "你和{s4}的关系很糟糕。你走在大街上，人们都很痛恨地看着你并在你背后做了手势，等你到了没人的地方你就认为你安全了————直到一群人的出现。本地居民也厌倦了你的管理并开始辱骂你。终于，有人大胆地拔出了小刀并袭击你。"
+    },
+    {
+        "text": "Defend_yourself.",
+        "translation": "自我防御。"
+    },
+    {
+        "text": "An_angry_mob_insulted_your_name,_blamed_a_group_of_your_warriors_walking_the_streets_for_all_their_ills,_and_attacked_and_killed_them_all._You_should_improve_your_relations_with_{s4}_as_soon_as_possible.",
+        "translation": "你的一队战士在街道上行走时被一群愤怒暴民袭击并杀害了。你最好尽快和{s4}搞好关系。"
+    },
+    {
+        "text": "Order_your_men_to_kill_the_perpetrators_and_seize_their_possessions.",
+        "translation": "命令你的人杀掉这些肇事者并抓捕相关人员。"
+    },
+    {
+        "text": "I_will_not_rule_by_fear._I_have_to_improve_relations_by_other_means.",
+        "translation": "我不用恐惧来统治。我会和这里的人搞好关系的。"
+    },
+    {
+        "text": "Exterminate_the_population_of_the_entire_city_and_repopulate_it_with_people_that_are_more_loyal.",
+        "translation": "把反对你的人统统杀光并把支持你的人拉进来"
+    },
+    {
+        "text": "The_sound_of_a_galloping_horse_pierces_the_cold_morning,_and_you_run_outside_to_find_a_watchman_dismounting._He_tells_you_that_a_strange_ship_carrying_men_who_speak_a_foreign_language_has_been_shipwrecked_on_the_coast_nearby._What_do_you_do?",
+        "translation": "马蹄的声音刺穿了寒冷的早晨，当你走出门时看到卫兵从马上下来。他告诉你说有一艘陌生的船上载着一群说外语的人在附近的海滩靠岸了。你准备怎么做？"
+    },
+    {
+        "text": "Send_men_to_search_for_valuables._If_there_are_any_survivors,_kill_them.",
+        "translation": "派人去抢贵重物品。活口统统杀掉。"
+    },
+    {
+        "text": "Send_men_to_investigate._If_there_are_any_survivors,_recruit_them.",
+        "translation": "派人去侦查，如有幸存者，招募他们。"
+    },
+    {
+        "text": "You've_heard_that_a_bard_has_composed_a_song_about_your_noble_deeds.",
+        "translation": "你听说一个诗人到处歌颂你的高贵行为。"
+    },
+    {
+        "text": "Excellent_news!",
+        "translation": "好消息！"
+    },
+    {
+        "text": "Reward_him_with_300_peningas._Let_this_song_be_played_across_the_land.",
+        "translation": "赏他300先令，让他的诗歌传遍整个大陆。"
+    },
+    {
+        "text": "Tales_of_your_successes_spread_around_the_country._Everywhere_you_go,_your_procession_is_surrounded_by_beggars.",
+        "translation": "你的故事在全国范围你流传。你走到哪里都有一群乞丐围着你。"
+    },
+    {
+        "text": "Allocate_200_peningas_to_an_alms_fund.",
+        "translation": "施舍200先令给他们"
+    },
+    {
+        "text": "Ignore_them.",
+        "translation": "无视他们。"
+    },
+    {
+        "text": "Beggars,_huh?_Release_the_hounds!",
+        "translation": "要饭的？放狗咬他们！"
+    },
+    {
+        "text": "A_young_noble_spreads_rumors_about_your_mother._Accusations_of_working_in_the_world's_oldest_profession_are_the_more_delicate_ones.",
+        "translation": "一个青年贵族到处散播你母亲的坏话。指责她正在从事世上最古老最细腻的职业。"
+    },
+    {
+        "text": "I_challenge_him_to_a_duel!",
+        "translation": "我要和他决斗！"
+    },
+    {
+        "text": "It's_just_talk.",
+        "translation": "就是说说罢了。"
+    },
+    {
+        "text": "You_encounter_one_of_your_soldiers'_wives._She_begs_you_to_release_her_husband_from_his_contract._The_harvest_was_poor_this_year,_and_his_wages_can't_feed_the_whole_family._If_he_could_come_back_and_work_on_the_field,_they_might_survive.",
+        "translation": "你遇到一名部下的妻子，她求你和她丈夫解除合同。今年收成不好，他的工资养不了他的全家，如果他回去种田的话或许他全家还能活下来。"
+    },
+    {
+        "text": "This_can't_be!_Here,_take_200_peningas.",
+        "translation": "这可不行！拿走这200先令吧。"
+    },
+    {
+        "text": "You_release_her_husband_from_his_duties.",
+        "translation": "你让你的部下回家了。"
+    },
+    {
+        "text": "A_local_naysayer_is_spreading_false_rumors_about_you._While_most_of_the_stories_are_just_pure_nonsense,_sooner_or_later_people_will_believe_them.",
+        "translation": "当地有人在散播你的谣言，他说的全都是荒诞的故事，但迟早会有人相信他。"
+    },
+    {
+        "text": "Let_him_say_what_he_wants._Every_man_has_his_rights.",
+        "translation": "他想说就说吧，每个人都有自己的权力。"
+    },
+    {
+        "text": "Ask_him_to_stop._One_hundred_peningas_might_help.",
+        "translation": "用100先令让他闭嘴。"
+    },
+    {
+        "text": "Silence_him_permanently.",
+        "translation": "让他永远闭嘴。"
+    },
+    {
+        "text": "You_are_travelling_through_the_forest_and_you_suddenly_spot_a_wild_hare_trapped_in_the_snare._What_do_you_do?",
+        "translation": "你穿越森林时发现一只动物被困在陷阱里了，你该怎么做？"
+    },
+    {
+        "text": "Free_the_animal.",
+        "translation": "放了那动物。"
+    },
+    {
+        "text": "Clench_the_snare_and_kill_the_animal!",
+        "translation": "收了陷阱把动物给杀了！"
+    },
+    {
+        "text": "Pass_by_the_animal_and_ignore_it.",
+        "translation": "不管它。"
+    },
+    {
+        "text": "You_receive_news_that_a_group_of_veteran_warriors_has_heard_of_your_fame_and_wishes_to_join_you._However,_they_ask_more_pay_than_you_typically_pay_for_such_troops.",
+        "translation": "你接到消息说一群资深的战士闻风而来要加入你的部队。然而，他们要求得到更高的工资。"
+    },
+    {
+        "text": "I_do_not_need_more_troops.",
+        "translation": "我不想再要人了。"
+    },
+    {
+        "text": "Kill_them._Surely_they_will_yield_some_good_loot.",
+        "translation": "杀了他们，或许还能抢到一笔钱。"
+    },
+    {
+        "text": "You_receive_news_that_a_number_of_women_express_interest_in_becoming_camp_followers.",
+        "translation": "你接到消息说一群妇女想参加随营队伍。"
+    },
+    {
+        "text": "I_do_not_need_more_mouths_to_feed.",
+        "translation": "我不想要喂更多的嘴了。"
+    },
+    {
+        "text": "You_receive_news_that_a_group_of_street_musicians_wishes_to_join_you_as_army_musicians_and_a_standard_bearer.",
+        "translation": "你接到消息说一群街道音乐家想以军乐手的身份加入你的队伍。"
+    },
+    {
+        "text": "You_see_a_crane_circling_above_your_party.",
+        "translation": "你看到一只鹳在空中盘旋。"
+    },
+    {
+        "text": "Tell_your_men_that_the_crane_symbolizes_victory!",
+        "translation": "告诉你的人鹳意味着胜利！"
+    },
+    {
+        "text": "Ignore_it.",
+        "translation": "不管它。"
+    },
+    {
+        "text": "The_cranes_signify_bad_fortune,_but_you_have_faith_in_your_men!",
+        "translation": "告诉你的人鹳意味着不祥的预兆，但你和他们命运与共！"
+    },
+    {
+        "text": "A_country_farmer_stands_before_you_on_the_road_with_a_weeping_girl_behind_him._He_points_his_finger_accusingly_at_one_of_your_men,_saying_that_he_raped_his_daughter_and_must_be_punished.",
+        "translation": "你的去路被一个农民和他背后正在哭泣的女孩挡住了。他的手指向你的一个部下，他说那人强奸了自己的女儿，必须受到惩罚。"
+    },
+    {
+        "text": "Brand_the_man_and_cast_him_out_of_your_party.",
+        "translation": "给这人烙上刻印并永远地驱逐出部队。"
+    },
+    {
+        "text": "It_is_a_hard_world,_and_a_man_must_take_what_he_can.",
+        "translation": "这世道不太平，男人也是有需要的。"
+    },
+    {
+        "text": "After_hours,_while_your_army_rests_near_a_village,_the_priest's_wife_comes_to_see_you_(alone)_while_her_husband_is_away.",
+        "translation": "一段时间后，你的部队在附近的村庄休息，一个牧师的妻子在她丈夫不在的时候单独见你。"
+    },
+    {
+        "text": "You_agree.",
+        "translation": "接见她"
+    },
+    {
+        "text": "You_refuse.",
+        "translation": "拒绝她"
+    },
+    {
+        "text": "Your_fame_and_popularity_have_attracted_young_Norsemen_to_your_cause.",
+        "translation": "你的威名吸引了一群青年勇士想要加入你的部队。"
+    },
+    {
+        "text": "Accept_them.",
+        "translation": "接受他们。"
+    },
+    {
+        "text": "You_spot_a_poor_man_on_the_road._He_looks_tired._You_send_one_of_your_men_to_ask_him_why_he_is_in_the_wilderness_alone._He_says_that_men_robbed_him,_and_if_he_doesn't_get_some_money_soon,_he_will_starve._He_says_he_served_in_the_army_once,_and_will_make_a_loyal_warrior.",
+        "translation": "你在路上发现一个可怜的人。他看上去很累。您让人问他为什么在孤身一人在这里。他说他被抢劫，如果他不弄点钱他很快就会饿死。他说，他曾经是一名军人，并会成为忠诚的战士以报答你的恩泽。"
+    },
+    {
+        "text": "Life's_not_fair._Give_him_nothing.",
+        "translation": "人生而不平等，什么都不给他。"
+    },
+    {
+        "text": "Give_him_enough_money_to_eat_for_a_day_(10_peningas).",
+        "translation": "只给他一天的饭钱（10先令）。"
+    },
+    {
+        "text": "Give_him_money_for_several_days_(200_peningas).",
+        "translation": "只给他几天的饭钱（200先令）。"
+    },
+    {
+        "text": "Pay_him_and_suggest_he_join_your_army.",
+        "translation": "给他钱并让他加入部队。"
+    },
+    {
+        "text": "A_group_of_bandits_approaches_your_camp._As_your_men_reach_for_their_arms,_the_bandits_put_down_their_weapons_and_say_they_come_in_peace._The_leader_of_the_bandits_approaches_you_and_asks_if_they_may_join_you.",
+        "translation": "一群土匪接近你的营地。当你的人拿起时武器，土匪们放下武器，他们说是为和平而来。土匪的领袖接近你，并询问他们是否可以加入你们。"
+    },
+    {
+        "text": "Of_course!_My_party_always_welcomes_bloodthirsty_men!",
+        "translation": "当然！我的部队永远欢迎嗜血的男人！"
+    },
+    {
+        "text": "Prove_yourselves_worthy_by_raiding_a_village!",
+        "translation": "用劫掠村庄来证明自己吧！"
+    },
+    {
+        "text": "You_come_across_the_grave_of_an_old_forgotten_warlord.",
+        "translation": "你到了一个被人们遗忘的领主古墓。"
+    },
+    {
+        "text": "Rifle_it_for_loot!",
+        "translation": "去挖坟劫掠！"
+    },
+    {
+        "text": "Tend_to_the_grave_and_pay_your_respects.",
+        "translation": "到墓碑前祈祷以表示尊敬。"
+    },
+    {
+        "text": "You_come_across_unguarded_cattle_from_a_nearby_village",
+        "translation": "你在村庄附近看到了一群没人看管的牛群。"
+    },
+    {
+        "text": "Return_the_animals_to_the_village_and_ask_for_no_reward.",
+        "translation": "把这些牛还回去并不要报酬。"
+    },
+    {
+        "text": "I_will_return_the_animals_and_demand_a_reward.",
+        "translation": "我会还回牛群，但也是要报酬的。"
+    },
+    {
+        "text": "Dinner!_Round_up_and_slaughter_the_animals.",
+        "translation": "吃晚餐！把动物围起来杀掉。"
+    },
+    {
+        "text": "Your_fame_and_popularity_have_attracted_two_berserkir_to_your_cause.",
+        "translation": "你的名誉和声望吸引了两个熊皮狂战士想加入你。"
+    },
+    {
+        "text": "Your_fame_and_popularity_have_attracted_two_ulfhednar_to_your_cause.",
+        "translation": "你的名誉和声望吸引了两个狼皮狂战士想加入你。"
+    },
+    {
+        "text": "During_a_break,_some_of_your_men,_drunk,_start_to_fight_for_the_last_drink_of_mead._Both_draw_their_weapons_and_appear_ready_to_kill.",
+        "translation": "在休息中，一部分的你的手下，醉酒了，开始为最后的一瓶密酒打架。双方都剑拔弩张准备杀死对方。"
+    },
+    {
+        "text": "Allow_them_to_fight_for_the_amusement_of_the_rest_of_your_men.",
+        "translation": "允许他们继续打斗下去并以此娱乐你的部下。"
+    },
+    {
+        "text": "You_prohibit_drinking_while_on_campaign._Punish_both_drunks_with_death.",
+        "translation": "下战时禁酒令并处死这两个醉汉。"
+    },
+    {
+        "text": "Stop_the_fight_and_punish_the_men_with_lashes.",
+        "translation": "停止这次打斗并以鞭刑处罚这两个醉汉。"
+    },
+    {
+        "text": "As_you_travel,_a_man_dressed_in_long_robes_approaches_your_army._When_you_grant_him_an_audience,_he_says_he_can_sell_you_Caledfwlch,_the_legendary_sword_of_King_Arthur,_for_8000_peningas.",
+        "translation": "在旅行中，你遇到了一个穿着长袍的男人，他说他可以卖给你卡里德福洛斯---亚瑟王的传奇之剑，定价8000个先令。"
+    },
+    {
+        "text": "Buy_the_sword.",
+        "translation": "购买这把剑。"
+    },
+    {
+        "text": "You_have_no_money_to_pay_the_sword.",
+        "translation": "你没有钱去购买这把剑。"
+    },
+    {
+        "text": "I'm_not_interested.",
+        "translation": "我没有兴趣。"
+    },
+    {
+        "text": "As_you_travel,_you_come_upon_a_farm._Instead_of_showing_customary_hospitality,_the_farmer_bars_all_the_entries_and_puts_his_slaves,_armed,_at_the_door._Still,_you_know_they_are_no_match_for_your_men.",
+        "translation": "在旅行中，你来到了一个农场。与普通的农场的热情好客大不相同，这些农民封锁了所有的入口并让他们的奴隶武装着，看守着门口，不过，你知道他们并不是你的战士的对手。"
+    },
+    {
+        "text": "Attack_and_burn_the_farm_as_punishment.",
+        "translation": "进攻并且烧掉这个农场以示惩戒。"
+    },
+    {
+        "text": "Move_on._It's_not_worth_stopping.",
+        "translation": "离开，这并不值得让整个军队停下。"
+    },
+    {
+        "text": "Two_men_stop_your_army._They_tell_you_that_you_are_surrounded_by_five_hundred_warriors,_ready_to_attack_if_you_don't_pay_them_2000_peningas.",
+        "translation": "两个男人阻停了你的军队。他们告诉你你已经被五百个勇士包围了，他们时刻准备着发起进攻如果你不支付2000先令。"
+    },
+    {
+        "text": "Pay_them.",
+        "translation": "支付。"
+    },
+    {
+        "text": "Attack!",
+        "translation": "进攻！"
+    },
+    {
+        "text": "Go_on_your_way.",
+        "translation": "离开。"
+    },
+    {
+        "text": "One_of_you_scouts_shows_up_with_a_bag_on_his_back._You_don't_want_to_appear_suspicious,_but_a_fight-ready_soldier_would_never_carry_such_a_bag._It_sounds_like..._many_heavy_coins._You_decide_to.",
+        "translation": "一个你的斥候带来了一个袋子，你不想让他觉得你可疑，但是一个准备着战斗的战士永远不会带着这样一个袋子。听起来像是许多沉重的硬币，你决定"
+    },
+    {
+        "text": "Confiscate_the_bag_and_punish_the_soldier.",
+        "translation": "没收袋子并惩罚这个士兵。"
+    },
+    {
+        "text": "Allow_him_to_keep_it._He_risks_his_life_for_you,_so_he_deserves_it.",
+        "translation": "容许他保留这个袋子，他为你出生入死，他享有这个权利。"
+    },
+    {
+        "text": "Force_him_to_share_the_benefits_with_the_whole_army.",
+        "translation": "强迫他与整个军队分享这些金子。"
+    },
+    {
+        "text": "Your_soldiers_come_with_an_old_man._After_a_long_conversation,_he_admits_his_group_wants_to_join_your_army_and_leave_their_village._Accepting_them_could_cause_problems_with_their_lords._You_decide_to:",
+        "translation": "你的战士们带着一个老人出现了。在一段老生常谈之后，他告诉你他的村民们愿意加入你的军队并离开这个村子。接受他的请求会让他们的领主愤怒，你决定："
+    },
+    {
+        "text": "Not_get_involved_in_local_rebellions.",
+        "translation": "不要在当地的暴动中插手。"
+    },
+    {
+        "text": "Not_help_him_and_send_his_dead_body_to_the_village.",
+        "translation": "不帮他并且把他的尸体送到村子里。"
+    },
+    {
+        "text": "You_could_use_extra_men.",
+        "translation": "你需要一些人手。"
+    },
+    {
+        "text": "While_you_camp,_a_delegation_of_people_from_nearby_approach._They_say_they_have_had_a_bad_harvest_and_ask_you_for_money_to_feed_their_children.",
+        "translation": "当你扎营的时候，附近的一个代表团出现了。他们说他们遇到了差的收成，并向你乞讨钱来养他们的孩子。"
+    },
+    {
+        "text": "Give_them_4000_peningas.",
+        "translation": "给他们4000个先令。"
+    },
+    {
+        "text": "Give_them_1000_peningas.",
+        "translation": "给他们1000个先令。"
+    },
+    {
+        "text": "You_tell_them_you_do_not_have_enough_money_to_share.",
+        "translation": "你告诉他们你没有足够的钱。"
+    },
+    {
+        "text": "While_you_camp,_a_delegation_of_people_from_nearby_approach._They_seem_to_have_a_problem_with_their_lord_and_want_your_advice._Apparently,_Vikings_have_ransacked_the_area,_so_they_are_poor_now,_but_must_still_pay_taxes_to_their_lord._As_their_lord_did_not_protect_them_from_the_Vikings,_they_ask_whether_they_should_not_pay_and_prepare_to_fight_if_their_lord_attacks_them_or_whether_they_should_pay_and_let_their_families_starve.",
+        "translation": "当你扎营的时候，附近的一个代表团出现了。他们看起来与他们的领主不和而来寻求你的建议。在维京人的洗劫之后，他们变得非常贫穷，但是他们必须向他们的领主缴税。他们的领主并没有从维京人的刀剑下保护他们，他们要在准备反戈一击，如果他们的领主袭击他们;或交收税金，让他们的家人挨饿之间做出选择。"
+    },
+    {
+        "text": "Give_them_8000_peningas_for_paying_their_taxes_and_buying_food.",
+        "translation": "给他们8000先令让他们交税并购买食物。"
+    },
+    {
+        "text": "Give_them_4000_peningas_for_paying_their_taxes.",
+        "translation": "给他们4000先令让他们交税。"
+    },
+    {
+        "text": "You_tell_them_they_should_fight_rather_than_pay.",
+        "translation": "你告诉他们应该战斗而不交税金。"
+    },
+    {
+        "text": "They_should_pay,_for_their_lord_would_kill_more_of_them_than_hunger.",
+        "translation": "他们应该交税金，因为他们的领主比饥饿更会杀人。"
+    },
+    {
+        "text": "Along_the_way,_you_find_a_sick_woman._Her_skin_has_a_yellow_tone,_and_she_coughs_constantly._She's_from_a_nearby_village,_but_as_no_one_there_knows_how_to_cure_her_illness,_they_have_sent_her_to_the_roadside_to_see_if_a_traveler_knows_a_cure.",
+        "translation": "在路上，你找到了一个身患重病的女人，她的皮肤显露黄斑，而她不断地在咳嗽。她来自附近的一个村庄，不过无人能够治好她的疾病，他们把她留在那儿，希望过往者知道些能治好她的线索。"
+    },
+    {
+        "text": "Give_her_1000_peningas_to_hire_a_good_physician.",
+        "translation": "给她1000先令去找一位医者。"
+    },
+    {
+        "text": "As_the_best_physician,_{reg3?you_order:{s3}_orders}_a_blood-letting.",
+        "translation": "作为最好的医者，{reg3?你决定:{s3}决定}放血治疗。"
+    },
+    {
+        "text": "Ignore_her._Her_illness_could_be_contagious.",
+        "translation": "离开她，她的疾病可能会传染。"
+    },
+    {
+        "text": "A_small_camp_is_established_for_troops_you_want_to_leave_in_this_place_for_the_moment.^^(Select_the_troops_you_wish_to_leave_in_this_camp_and_press_the_Give_button_to_transfer_them.)",
+        "translation": "部队扎了一个小营地，你想先离开一小会。^^（选择你要留在营地的士兵，按给出取回键转换。）"
+    },
+    {
+        "text": "Take_a_look_at_the_troops.",
+        "translation": "管理部队"
+    },
+    {
+        "text": "FINAL_",
+        "translation": "最终"
+    },
+    {
+        "text": "You_are_able_to_capture_one_of_the_enemy's_ships._It's_a_{s2},_but_due_to_the_fight,_the_'{s1}'_is_in_a_bad_condition._Do_you_want_to_add_this_ship_to_your_fleet_nevertheless?",
+        "translation": "你能够俘虏敌人的一艘船，那是一艘{s2}，但由于之前的战斗，“{s1}”的状况很恶劣。你想把这条船加入到你的舰队吗？"
+    },
+    {
+        "text": "Add_the_ship_to_your_fleet.",
+        "translation": "加入它。"
+    },
+    {
+        "text": "Leave_the_ship_behind.",
+        "translation": "把船丢弃。"
+    },
+    {
+        "text": "Go_to_Sandbox_mode?",
+        "translation": "开始沙盒模式？"
+    },
+    {
+        "text": "You_are_starting_a_sea_travel.",
+        "translation": "你开始一趟海上之旅。"
+    },
+    {
+        "text": "The_morale_of_some_troops_is_low._They_start_a_mutiny.",
+        "translation": "一些部队的士气低落。他们发动了兵变。"
+    },
+    {
+        "text": "After_the_mutiny,_the_situation_calms_down.",
+        "translation": "兵变后局势平静了下来。"
+    },
+    {
+        "text": "Before_long,_your_limbs_tire_of_the_monotonous_work,_but,_as_agreed,_you_work_for_an_entire_day.",
+        "translation": "不久，你的四肢由于单调乏味的工作变的劳累，但仍然能支持你工作一整天的时间。"
+    },
+    {
+        "text": "Content,_you_look_back_on_a_day_of_honest_labour,_but_then,_looking_at_your_wages,_you_think_that_a_life_of_honest_labour_seems_to_be_a_rather_meager_existence.^^{s7}",
+        "translation": "你回忆了一天辛勤劳动。但是看了看自己的酬劳，你认为一个辛勤劳动的人的生活似乎是贫穷的。^^{s7}"
+    },
+    {
+        "text": "You_are_currently_marshal._You_attempt_to_disembark._{s1}_{s2}^^Do_you_want_to_disembark_now_or_wait?",
+        "translation": "你正在整顿部队并且试图上岸{s1}{s2}^^你想现在上岸还是等会？"
+    },
+    {
+        "text": "Wait.",
+        "translation": "等等。"
+    },
+    {
+        "text": "You_are_currently_marshal._You_attempt_to_embark._{s1}_{s2}^^Do_you_want_to_embark_now_or_wait?",
+        "translation": "你正在整顿部队并且试图上船。{s1}{s2}^^你想现在上船还是等会？"
+    },
+    {
+        "text": "You_have_encountered_{s1}._What_do_you_want_to_do?",
+        "translation": "你找到了{s1}。你希望干点什么？"
+    },
+    {
+        "text": "Go_hunting.",
+        "translation": "去狩猎。"
+    },
+    {
+        "text": "You_have_encountered_a_hideout._What_do_you_want_to_do?",
+        "translation": "你找到了一个藏身之处，你希望干点什么？"
+    },
+    {
+        "text": "Not_now.",
+        "translation": "不是现在。"
+    },
+    {
+        "text": "Choose_a_new_goal.",
+        "translation": "选择一个新的目标。"
+    },
+    {
+        "text": "This_save_game_appears_to_have_been_ruined_by_the_bug_in_v2.049._We_recommend_restoring_the_game_from_last_savegame_backup.sav_or_your_computer_files_backup._Do_you_wish_to_try_to_reconstruct_the_game,_instead?",
+        "translation": ""
+    },
+    {
+        "text": "Yes,_attempt_to_reconstruct_save_game.",
+        "translation": ""
+    },
+    {
+        "text": "No,_I_will_look_for_a_game_saved_before_v2.049.",
+        "translation": ""
+    }
+]
