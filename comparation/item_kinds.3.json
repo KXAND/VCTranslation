@@ -1,0 +1,3002 @@
+[
+    {
+        "id": "itm_angle_helmet1",
+        "text": "Noble_Helm",
+        "old_translation": "",
+        "translation": "贵族盔"
+    },
+    {
+        "id": "itm_angle_helmet1_pl",
+        "text": "Noble_Helm",
+        "old_translation": "",
+        "translation": "贵族盔"
+    },
+    {
+        "id": "itm_angle_helmet2",
+        "text": "Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈头盔"
+    },
+    {
+        "id": "itm_angle_helmet2_pl",
+        "text": "Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈头盔"
+    },
+    {
+        "id": "itm_angle_helmet3",
+        "text": "Helm_with_Mail",
+        "old_translation": "",
+        "translation": "链甲护颈头盔"
+    },
+    {
+        "id": "itm_angle_helmet3_pl",
+        "text": "Helm_with_Mail",
+        "old_translation": "",
+        "translation": "链甲护颈头盔"
+    },
+    {
+        "id": "itm_angle_helmet4",
+        "text": "Helm_with_Mail",
+        "old_translation": "",
+        "translation": "链甲护颈头盔"
+    },
+    {
+        "id": "itm_angle_helmet4_pl",
+        "text": "Helm_with_Mail",
+        "old_translation": "",
+        "translation": "链甲护颈头盔"
+    },
+    {
+        "id": "itm_angle_helmet5",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_angle_helmet5_pl",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_angle_helmet6",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_angle_helmet6_pl",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_elf_helmet",
+        "text": "Elf's_Helm",
+        "old_translation": "",
+        "translation": "精灵之盔"
+    },
+    {
+        "id": "itm_elf_helmet_pl",
+        "text": "Elf's_Helm",
+        "old_translation": "",
+        "translation": "精灵之盔"
+    },
+    {
+        "id": "itm_noble_helm_smith",
+        "text": "Noble_Helm",
+        "old_translation": "",
+        "translation": "贵族盔"
+    },
+    {
+        "id": "itm_noble_helm_smith_pl",
+        "text": "Noble_Helm",
+        "old_translation": "",
+        "translation": "贵族盔"
+    },
+    {
+        "id": "itm_hersir_helm",
+        "text": "Hersir_Helm",
+        "old_translation": "",
+        "translation": "赫希尔之盔"
+    },
+    {
+        "id": "itm_hersir_helm_pl",
+        "text": "Hersir_Helm",
+        "old_translation": "",
+        "translation": "赫希尔之盔"
+    },
+    {
+        "id": "itm_crown1",
+        "text": "Crown",
+        "old_translation": "",
+        "translation": "王冠"
+    },
+    {
+        "id": "itm_crown1_pl",
+        "text": "Crown",
+        "old_translation": "",
+        "translation": "王冠"
+    },
+    {
+        "id": "itm_sarranid_horseman_helmet",
+        "text": "No_head",
+        "old_translation": "",
+        "translation": "无头"
+    },
+    {
+        "id": "itm_sarranid_horseman_helmet_pl",
+        "text": "No_head",
+        "old_translation": "",
+        "translation": "无头"
+    },
+    {
+        "id": "itm_saco_enlacabeza",
+        "text": "Sack",
+        "old_translation": "",
+        "translation": "麻袋"
+    },
+    {
+        "id": "itm_saco_enlacabeza_pl",
+        "text": "Sack",
+        "old_translation": "",
+        "translation": "麻袋"
+    },
+    {
+        "id": "itm_wooden_stick",
+        "text": "Wooden_Stick",
+        "old_translation": "",
+        "translation": "木棍"
+    },
+    {
+        "id": "itm_wooden_stick_pl",
+        "text": "Wooden_Stick",
+        "old_translation": "",
+        "translation": "木棍"
+    },
+    {
+        "id": "itm_club_hard",
+        "text": "Club",
+        "old_translation": "",
+        "translation": "棍棒"
+    },
+    {
+        "id": "itm_club_hard_pl",
+        "text": "Club",
+        "old_translation": "",
+        "translation": "棍棒"
+    },
+    {
+        "id": "itm_club_troll",
+        "text": "Troll's_Axe",
+        "old_translation": "",
+        "translation": "巨人之斧"
+    },
+    {
+        "id": "itm_club_troll_pl",
+        "text": "Troll's_Axe",
+        "old_translation": "",
+        "translation": "巨人之斧"
+    },
+    {
+        "id": "itm_knife",
+        "text": "Hunting_Knife",
+        "old_translation": "",
+        "translation": "猎刀"
+    },
+    {
+        "id": "itm_knife_pl",
+        "text": "Hunting_Knife",
+        "old_translation": "",
+        "translation": "猎刀"
+    },
+    {
+        "id": "itm_knife2",
+        "text": "Hunting_Knife",
+        "old_translation": "",
+        "translation": "猎刀"
+    },
+    {
+        "id": "itm_knife2_pl",
+        "text": "Hunting_Knife",
+        "old_translation": "",
+        "translation": "猎刀"
+    },
+    {
+        "id": "itm_knife3",
+        "text": "Hunting_Knife",
+        "old_translation": "",
+        "translation": "猎刀"
+    },
+    {
+        "id": "itm_knife3_pl",
+        "text": "Hunting_Knife",
+        "old_translation": "",
+        "translation": "猎刀"
+    },
+    {
+        "id": "itm_knife4",
+        "text": "Hunting_Knife",
+        "old_translation": "",
+        "translation": "猎刀"
+    },
+    {
+        "id": "itm_knife4_pl",
+        "text": "Hunting_Knife",
+        "old_translation": "",
+        "translation": "猎刀"
+    },
+    {
+        "id": "itm_knife5",
+        "text": "Hunting_Knife",
+        "old_translation": "",
+        "translation": "猎刀"
+    },
+    {
+        "id": "itm_knife5_pl",
+        "text": "Hunting_Knife",
+        "old_translation": "",
+        "translation": "猎刀"
+    },
+    {
+        "id": "itm_longseax1",
+        "text": "Broadseax",
+        "old_translation": "",
+        "translation": "阔刀"
+    },
+    {
+        "id": "itm_longseax1_pl",
+        "text": "Broadseax",
+        "old_translation": "",
+        "translation": "阔刀"
+    },
+    {
+        "id": "itm_longseax2",
+        "text": "Broadseax",
+        "old_translation": "",
+        "translation": "阔刀"
+    },
+    {
+        "id": "itm_longseax2_pl",
+        "text": "Broadseax",
+        "old_translation": "",
+        "translation": "阔刀"
+    },
+    {
+        "id": "itm_longseax3",
+        "text": "Broadseax",
+        "old_translation": "",
+        "translation": "阔刀"
+    },
+    {
+        "id": "itm_longseax3_pl",
+        "text": "Broadseax",
+        "old_translation": "",
+        "translation": "阔刀"
+    },
+    {
+        "id": "itm_longseax4",
+        "text": "Broadseax",
+        "old_translation": "",
+        "translation": "阔刀"
+    },
+    {
+        "id": "itm_longseax4_pl",
+        "text": "Broadseax",
+        "old_translation": "",
+        "translation": "阔刀"
+    },
+    {
+        "id": "itm_longseax5",
+        "text": "Broadseax",
+        "old_translation": "",
+        "translation": "阔刀"
+    },
+    {
+        "id": "itm_longseax5_pl",
+        "text": "Broadseax",
+        "old_translation": "",
+        "translation": "阔刀"
+    },
+    {
+        "id": "itm_longseax6",
+        "text": "Langseax",
+        "old_translation": "",
+        "translation": "长刀"
+    },
+    {
+        "id": "itm_longseax6_pl",
+        "text": "Langseax",
+        "old_translation": "",
+        "translation": "长刀"
+    },
+    {
+        "id": "itm_longseax7",
+        "text": "Langseax",
+        "old_translation": "",
+        "translation": "长刀"
+    },
+    {
+        "id": "itm_longseax7_pl",
+        "text": "Langseax",
+        "old_translation": "",
+        "translation": "长刀"
+    },
+    {
+        "id": "itm_longseax8",
+        "text": "Langseax",
+        "old_translation": "",
+        "translation": "长刀"
+    },
+    {
+        "id": "itm_longseax8_pl",
+        "text": "Langseax",
+        "old_translation": "",
+        "translation": "长刀"
+    },
+    {
+        "id": "itm_longseax9",
+        "text": "Langseax",
+        "old_translation": "",
+        "translation": "长刀"
+    },
+    {
+        "id": "itm_longseax9_pl",
+        "text": "Langseax",
+        "old_translation": "",
+        "translation": "长刀"
+    },
+    {
+        "id": "itm_longseax10",
+        "text": "Langseax",
+        "old_translation": "",
+        "translation": "长刀"
+    },
+    {
+        "id": "itm_longseax10_pl",
+        "text": "Langseax",
+        "old_translation": "",
+        "translation": "长刀"
+    },
+    {
+        "id": "itm_seax_1",
+        "text": "Seax",
+        "old_translation": "",
+        "translation": "刀"
+    },
+    {
+        "id": "itm_seax_1_pl",
+        "text": "Seax",
+        "old_translation": "",
+        "translation": "刀"
+    },
+    {
+        "id": "itm_seax_2",
+        "text": "Seax",
+        "old_translation": "",
+        "translation": "刀"
+    },
+    {
+        "id": "itm_seax_2_pl",
+        "text": "Seax",
+        "old_translation": "",
+        "translation": "刀"
+    },
+    {
+        "id": "itm_seax_3",
+        "text": "Seax",
+        "old_translation": "",
+        "translation": "刀"
+    },
+    {
+        "id": "itm_seax_3_pl",
+        "text": "Seax",
+        "old_translation": "",
+        "translation": "刀"
+    },
+    {
+        "id": "itm_seax_4",
+        "text": "Seax",
+        "old_translation": "",
+        "translation": "刀"
+    },
+    {
+        "id": "itm_seax_4_pl",
+        "text": "Seax",
+        "old_translation": "",
+        "translation": "刀"
+    },
+    {
+        "id": "itm_seax_5",
+        "text": "Seax",
+        "old_translation": "",
+        "translation": "刀"
+    },
+    {
+        "id": "itm_seax_5_pl",
+        "text": "Seax",
+        "old_translation": "",
+        "translation": "刀"
+    },
+    {
+        "id": "itm_ragnar_seax",
+        "text": "Ragnar's_Langseax",
+        "old_translation": "",
+        "translation": "拉格纳之刀"
+    },
+    {
+        "id": "itm_ragnar_seax_pl",
+        "text": "Ragnar's_Langseax",
+        "old_translation": "",
+        "translation": "拉格纳之刀"
+    },
+    {
+        "id": "itm_elf_seax",
+        "text": "Elf's_Langseax",
+        "old_translation": "",
+        "translation": "精灵之刀"
+    },
+    {
+        "id": "itm_elf_seax_pl",
+        "text": "Elf's_Langseax",
+        "old_translation": "",
+        "translation": "精灵之刀"
+    },
+    {
+        "id": "itm_spatha",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_spatha_pl",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_spatha_2",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_spatha_2_pl",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_spatha_3",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_spatha_3_pl",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_spatha_4",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_spatha_4_pl",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_spatha_5",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_spatha_5_pl",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_spatha_6",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_spatha_6_pl",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_spatha_7",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_spatha_7_pl",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_spatha_8",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_spatha_8_pl",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_sword",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_sword_pl",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_sword_2",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_sword_2_pl",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_sword_3",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_sword_3_pl",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_sword_4",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_sword_4_pl",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_sword_5",
+        "text": "Short_Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_sword_5_pl",
+        "text": "Short_Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_sword_6",
+        "text": "Short_Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_sword_6_pl",
+        "text": "Short_Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_sword_7",
+        "text": "Short_Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_sword_7_pl",
+        "text": "Short_Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_sword_8",
+        "text": "Short_Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_sword_8_pl",
+        "text": "Short_Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_new_sword1",
+        "text": "Short_Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_new_sword1_pl",
+        "text": "Short_Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_new_sword2",
+        "text": "Short_Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_new_sword2_pl",
+        "text": "Short_Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_new_sword3",
+        "text": "Short_Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_new_sword3_pl",
+        "text": "Short_Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_new_sword4",
+        "text": "Short_Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_new_sword4_pl",
+        "text": "Short_Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_new_sword5",
+        "text": "Short_Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_new_sword5_pl",
+        "text": "Short_Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_new_sword6",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_new_sword6_pl",
+        "text": "Sword",
+        "old_translation": "",
+        "translation": "短剑"
+    },
+    {
+        "id": "itm_noble_sword",
+        "text": "Rich_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_sword_pl",
+        "text": "Rich_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_sword_2",
+        "text": "Ulfberth_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_sword_2_pl",
+        "text": "Ulfberth_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_sword_3",
+        "text": "False_Ulfberth_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_sword_3_pl",
+        "text": "False_Ulfberth_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_sword_4",
+        "text": "Rich_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_sword_4_pl",
+        "text": "Rich_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_sword_5",
+        "text": "Ulfberth_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_sword_5_pl",
+        "text": "Ulfberth_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_sword_6",
+        "text": "False_Ulfberth_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_sword_6_pl",
+        "text": "False_Ulfberth_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_old_swordv",
+        "text": "Briton_Sword",
+        "old_translation": "",
+        "translation": "布立吞剑"
+    },
+    {
+        "id": "itm_old_swordv_pl",
+        "text": "Briton_Sword",
+        "old_translation": "",
+        "translation": "布立吞剑"
+    },
+    {
+        "id": "itm_old_swordv2",
+        "text": "Briton_Sword",
+        "old_translation": "",
+        "translation": "布立吞剑"
+    },
+    {
+        "id": "itm_old_swordv2_pl",
+        "text": "Briton_Sword",
+        "old_translation": "",
+        "translation": "布立吞剑"
+    },
+    {
+        "id": "itm_old_swordv3",
+        "text": "Briton_Sword",
+        "old_translation": "",
+        "translation": "布立吞剑"
+    },
+    {
+        "id": "itm_old_swordv3_pl",
+        "text": "Briton_Sword",
+        "old_translation": "",
+        "translation": "布立吞剑"
+    },
+    {
+        "id": "itm_old_swordv4",
+        "text": "Briton_Sword",
+        "old_translation": "",
+        "translation": "布立吞剑"
+    },
+    {
+        "id": "itm_old_swordv4_pl",
+        "text": "Briton_Sword",
+        "old_translation": "",
+        "translation": "布立吞剑"
+    },
+    {
+        "id": "itm_old_swordv5",
+        "text": "Briton_Sword",
+        "old_translation": "",
+        "translation": "布立吞剑"
+    },
+    {
+        "id": "itm_old_swordv5_pl",
+        "text": "Briton_Sword",
+        "old_translation": "",
+        "translation": "布立吞剑"
+    },
+    {
+        "id": "itm_old_swordv6",
+        "text": "Briton_Sword",
+        "old_translation": "",
+        "translation": "布立吞剑"
+    },
+    {
+        "id": "itm_old_swordv6_pl",
+        "text": "Briton_Sword",
+        "old_translation": "",
+        "translation": "布立吞剑"
+    },
+    {
+        "id": "itm_old_swordv7",
+        "text": "Briton_Sword",
+        "old_translation": "",
+        "translation": "布立吞剑"
+    },
+    {
+        "id": "itm_old_swordv7_pl",
+        "text": "Briton_Sword",
+        "old_translation": "",
+        "translation": "布立吞剑"
+    },
+    {
+        "id": "itm_noble_sword_7",
+        "text": "Rich_Briton_Sword",
+        "old_translation": "",
+        "translation": "华丽的布立吞剑"
+    },
+    {
+        "id": "itm_noble_sword_7_pl",
+        "text": "Rich_Briton_Sword",
+        "old_translation": "",
+        "translation": "华丽的布立吞剑"
+    },
+    {
+        "id": "itm_noble_sword_8",
+        "text": "Rich_Briton_Sword",
+        "old_translation": "",
+        "translation": "华丽的布立吞剑"
+    },
+    {
+        "id": "itm_noble_sword_8_pl",
+        "text": "Rich_Briton_Sword",
+        "old_translation": "",
+        "translation": "华丽的布立吞剑"
+    },
+    {
+        "id": "itm_noble_sword_9",
+        "text": "Rich_Briton_Sword",
+        "old_translation": "",
+        "translation": "华丽的布立吞剑"
+    },
+    {
+        "id": "itm_noble_sword_9_pl",
+        "text": "Rich_Briton_Sword",
+        "old_translation": "",
+        "translation": "华丽的布立吞剑"
+    },
+    {
+        "id": "itm_noble_sword_10",
+        "text": "Rich_Briton_Sword",
+        "old_translation": "",
+        "translation": "华丽的布立吞剑"
+    },
+    {
+        "id": "itm_noble_sword_10_pl",
+        "text": "Rich_Briton_Sword",
+        "old_translation": "",
+        "translation": "华丽的布立吞剑"
+    },
+    {
+        "id": "itm_noble_sword_11",
+        "text": "Rich_Briton_Sword",
+        "old_translation": "",
+        "translation": "华丽的布立吞剑"
+    },
+    {
+        "id": "itm_noble_sword_11_pl",
+        "text": "Rich_Briton_Sword",
+        "old_translation": "",
+        "translation": "华丽的布立吞剑"
+    },
+    {
+        "id": "itm_noble_sword_12",
+        "text": "Rich_Briton_Sword",
+        "old_translation": "",
+        "translation": "华丽的布立吞剑"
+    },
+    {
+        "id": "itm_noble_sword_12_pl",
+        "text": "Rich_Briton_Sword",
+        "old_translation": "",
+        "translation": "华丽的布立吞剑"
+    },
+    {
+        "id": "itm_noble_sword_13",
+        "text": "Rich_Briton_Sword",
+        "old_translation": "",
+        "translation": "华丽的布立吞剑"
+    },
+    {
+        "id": "itm_noble_sword_13_pl",
+        "text": "Rich_Briton_Sword",
+        "old_translation": "",
+        "translation": "华丽的布立吞剑"
+    },
+    {
+        "id": "itm_noble_swordv",
+        "text": "False_Ulfberth_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_swordv_pl",
+        "text": "False_Ulfberth_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_swordv3",
+        "text": "False_Ulfberth_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_swordv3_pl",
+        "text": "False_Ulfberth_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_swordv4",
+        "text": "Ulfberth_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_swordv4_pl",
+        "text": "Ulfberth_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_swordv5",
+        "text": "Rich_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_swordv5_pl",
+        "text": "Rich_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_swordv6",
+        "text": "Rich_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_swordv6_pl",
+        "text": "Rich_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_swordv7",
+        "text": "Rich_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_noble_swordv7_pl",
+        "text": "Rich_Sword",
+        "old_translation": "",
+        "translation": "贵族剑"
+    },
+    {
+        "id": "itm_irish_long_sword1",
+        "text": "Goidelic_Noble_Long_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔贵族长剑"
+    },
+    {
+        "id": "itm_irish_long_sword1_pl",
+        "text": "Goidelic_Noble_Long_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔贵族长剑"
+    },
+    {
+        "id": "itm_irish_long_sword2",
+        "text": "Goidelic_Noble_Long_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔贵族长剑"
+    },
+    {
+        "id": "itm_irish_long_sword2_pl",
+        "text": "Goidelic_Noble_Long_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔贵族长剑"
+    },
+    {
+        "id": "itm_irish_long_sword3",
+        "text": "Goidelic_Long_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔长剑"
+    },
+    {
+        "id": "itm_irish_long_sword3_pl",
+        "text": "Goidelic_Long_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔长剑"
+    },
+    {
+        "id": "itm_irish_long_sword4",
+        "text": "Goidelic_Long_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔长剑"
+    },
+    {
+        "id": "itm_irish_long_sword4_pl",
+        "text": "Goidelic_Long_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔长剑"
+    },
+    {
+        "id": "itm_irish_long_sword5",
+        "text": "Goidelic_Long_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔长剑"
+    },
+    {
+        "id": "itm_irish_long_sword5_pl",
+        "text": "Goidelic_Long_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔长剑"
+    },
+    {
+        "id": "itm_irish_long_sword6",
+        "text": "Goidelic_Long_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔长剑"
+    },
+    {
+        "id": "itm_irish_long_sword6_pl",
+        "text": "Goidelic_Long_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔长剑"
+    },
+    {
+        "id": "itm_irish_long_sword7",
+        "text": "Goidelic_Long_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔长剑"
+    },
+    {
+        "id": "itm_irish_long_sword7_pl",
+        "text": "Goidelic_Long_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔长剑"
+    },
+    {
+        "id": "itm_irish_long_sword8",
+        "text": "Goidelic_Long_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔长剑"
+    },
+    {
+        "id": "itm_irish_long_sword8_pl",
+        "text": "Goidelic_Long_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔长剑"
+    },
+    {
+        "id": "itm_irish_short_sword1",
+        "text": "Goidelic_Short_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔短剑"
+    },
+    {
+        "id": "itm_irish_short_sword1_pl",
+        "text": "Goidelic_Short_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔短剑"
+    },
+    {
+        "id": "itm_irish_short_sword2",
+        "text": "Goidelic_Short_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔短剑"
+    },
+    {
+        "id": "itm_irish_short_sword2_pl",
+        "text": "Goidelic_Short_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔短剑"
+    },
+    {
+        "id": "itm_irish_short_sword3",
+        "text": "Goidelic_Short_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔短剑"
+    },
+    {
+        "id": "itm_irish_short_sword3_pl",
+        "text": "Goidelic_Short_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔短剑"
+    },
+    {
+        "id": "itm_championsword1",
+        "text": "Goidelic_Champion_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔勇士剑"
+    },
+    {
+        "id": "itm_championsword1_pl",
+        "text": "Goidelic_Champion_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔勇士剑"
+    },
+    {
+        "id": "itm_championsword2",
+        "text": "Goidelic_Champion_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔勇士剑"
+    },
+    {
+        "id": "itm_championsword2_pl",
+        "text": "Goidelic_Champion_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔勇士剑"
+    },
+    {
+        "id": "itm_widow_maker",
+        "text": "Widow_Maker",
+        "old_translation": "",
+        "translation": "寡妇制造者"
+    },
+    {
+        "id": "itm_widow_maker_pl",
+        "text": "Widow_Maker",
+        "old_translation": "",
+        "translation": "寡妇制造者"
+    },
+    {
+        "id": "itm_suttonhoosword2",
+        "text": "Bandit_King_Sword",
+        "old_translation": "",
+        "translation": "强盗王之剑"
+    },
+    {
+        "id": "itm_suttonhoosword2_pl",
+        "text": "Bandit_King_Sword",
+        "old_translation": "",
+        "translation": "强盗王之剑"
+    },
+    {
+        "id": "itm_siren_song",
+        "text": "Laufi",
+        "old_translation": "",
+        "translation": "塞壬之歌"
+    },
+    {
+        "id": "itm_siren_song_pl",
+        "text": "Laufi",
+        "old_translation": "",
+        "translation": "塞壬之歌"
+    },
+    {
+        "id": "itm_sword_of_war",
+        "text": "Olvir's_Sword",
+        "old_translation": "",
+        "translation": "奥维尔剑"
+    },
+    {
+        "id": "itm_sword_of_war_pl",
+        "text": "Olvir's_Sword",
+        "old_translation": "",
+        "translation": "奥维尔剑"
+    },
+    {
+        "id": "itm_sword_premium1",
+        "text": "Nad",
+        "old_translation": "",
+        "translation": "纳德之剑"
+    },
+    {
+        "id": "itm_sword_premium1_pl",
+        "text": "Nad",
+        "old_translation": "",
+        "translation": "纳德之剑"
+    },
+    {
+        "id": "itm_sword_premium2",
+        "text": "Draguandil",
+        "old_translation": "",
+        "translation": "龙之剑"
+    },
+    {
+        "id": "itm_sword_premium2_pl",
+        "text": "Draguandil",
+        "old_translation": "",
+        "translation": "龙之剑"
+    },
+    {
+        "id": "itm_sword_premium3",
+        "text": "Blynjubitr",
+        "old_translation": "",
+        "translation": "布林朱庇特之剑"
+    },
+    {
+        "id": "itm_sword_premium3_pl",
+        "text": "Blynjubitr",
+        "old_translation": "",
+        "translation": "布林朱庇特之剑"
+    },
+    {
+        "id": "itm_hatchet",
+        "text": "Axe",
+        "old_translation": "",
+        "translation": "斧"
+    },
+    {
+        "id": "itm_hatchet_pl",
+        "text": "Axe",
+        "old_translation": "",
+        "translation": "斧"
+    },
+    {
+        "id": "itm_axe",
+        "text": "Axe",
+        "old_translation": "",
+        "translation": "斧"
+    },
+    {
+        "id": "itm_axe_pl",
+        "text": "Axe",
+        "old_translation": "",
+        "translation": "斧"
+    },
+    {
+        "id": "itm_axe_2",
+        "text": "Short_Axe",
+        "old_translation": "",
+        "translation": "短战斧"
+    },
+    {
+        "id": "itm_axe_2_pl",
+        "text": "Short_Axe",
+        "old_translation": "",
+        "translation": "短战斧"
+    },
+    {
+        "id": "itm_hand_axe",
+        "text": "Short_Axe",
+        "old_translation": "",
+        "translation": "短战斧"
+    },
+    {
+        "id": "itm_hand_axe_pl",
+        "text": "Short_Axe",
+        "old_translation": "",
+        "translation": "短战斧"
+    },
+    {
+        "id": "itm_axe_3",
+        "text": "Long_Axe",
+        "old_translation": "",
+        "translation": "长战斧"
+    },
+    {
+        "id": "itm_axe_3_pl",
+        "text": "Long_Axe",
+        "old_translation": "",
+        "translation": "长战斧"
+    },
+    {
+        "id": "itm_axe_4",
+        "text": "Long_Axe",
+        "old_translation": "",
+        "translation": "长战斧"
+    },
+    {
+        "id": "itm_axe_4_pl",
+        "text": "Long_Axe",
+        "old_translation": "",
+        "translation": "长战斧"
+    },
+    {
+        "id": "itm_one_handed_war_axe_a",
+        "text": "Short_Battle_Axe",
+        "old_translation": "",
+        "translation": "短战斧"
+    },
+    {
+        "id": "itm_one_handed_war_axe_a_pl",
+        "text": "Short_Battle_Axe",
+        "old_translation": "",
+        "translation": "短战斧"
+    },
+    {
+        "id": "itm_one_handed_war_axe_b",
+        "text": "Short_Battle_Axe",
+        "old_translation": "",
+        "translation": "短战斧"
+    },
+    {
+        "id": "itm_one_handed_war_axe_b_pl",
+        "text": "Short_Battle_Axe",
+        "old_translation": "",
+        "translation": "短战斧"
+    },
+    {
+        "id": "itm_one_handed_war_axe_c",
+        "text": "Short_Battle_Axe",
+        "old_translation": "",
+        "translation": "短战斧"
+    },
+    {
+        "id": "itm_one_handed_war_axe_c_pl",
+        "text": "Short_Battle_Axe",
+        "old_translation": "",
+        "translation": "短战斧"
+    },
+    {
+        "id": "itm_one_handed_war_axe_d",
+        "text": "Short_Battle_Axe",
+        "old_translation": "",
+        "translation": "短战斧"
+    },
+    {
+        "id": "itm_one_handed_war_axe_d_pl",
+        "text": "Short_Battle_Axe",
+        "old_translation": "",
+        "translation": "短战斧"
+    },
+    {
+        "id": "itm_one_handed_war_axe_e",
+        "text": "Long_Battle_Axe",
+        "old_translation": "",
+        "translation": "长战斧"
+    },
+    {
+        "id": "itm_one_handed_war_axe_e_pl",
+        "text": "Long_Battle_Axe",
+        "old_translation": "",
+        "translation": "长战斧"
+    },
+    {
+        "id": "itm_one_handed_war_axe_f",
+        "text": "Long_Battle_Axe",
+        "old_translation": "",
+        "translation": "长战斧"
+    },
+    {
+        "id": "itm_one_handed_war_axe_f_pl",
+        "text": "Long_Battle_Axe",
+        "old_translation": "",
+        "translation": "长战斧"
+    },
+    {
+        "id": "itm_axe_5",
+        "text": "Long_Hand_Axe",
+        "old_translation": "",
+        "translation": "长手斧"
+    },
+    {
+        "id": "itm_axe_5_pl",
+        "text": "Long_Hand_Axe",
+        "old_translation": "",
+        "translation": "长手斧"
+    },
+    {
+        "id": "itm_axe_6",
+        "text": "Hand_Axe",
+        "old_translation": "",
+        "translation": "手斧"
+    },
+    {
+        "id": "itm_axe_6_pl",
+        "text": "Hand_Axe",
+        "old_translation": "",
+        "translation": "手斧"
+    },
+    {
+        "id": "itm_axe_7",
+        "text": "Short_Hand_Axe",
+        "old_translation": "",
+        "translation": "短手斧"
+    },
+    {
+        "id": "itm_axe_7_pl",
+        "text": "Short_Hand_Axe",
+        "old_translation": "",
+        "translation": "短手斧"
+    },
+    {
+        "id": "itm_axe_8",
+        "text": "Short_Hand_Axe",
+        "old_translation": "",
+        "translation": "短手斧"
+    },
+    {
+        "id": "itm_axe_8_pl",
+        "text": "Short_Hand_Axe",
+        "old_translation": "",
+        "translation": "短手斧"
+    },
+    {
+        "id": "itm_axe_9",
+        "text": "Hand_Axe",
+        "old_translation": "",
+        "translation": "手斧"
+    },
+    {
+        "id": "itm_axe_9_pl",
+        "text": "Hand_Axe",
+        "old_translation": "",
+        "translation": "手斧"
+    },
+    {
+        "id": "itm_axe_10",
+        "text": "Big_Hand_Axe",
+        "old_translation": "",
+        "translation": "重手斧"
+    },
+    {
+        "id": "itm_axe_10_pl",
+        "text": "Big_Hand_Axe",
+        "old_translation": "",
+        "translation": "重手斧"
+    },
+    {
+        "id": "itm_pictish_hatchet",
+        "text": "Goidelic_Axe",
+        "old_translation": "",
+        "translation": "戈伊德尔斧"
+    },
+    {
+        "id": "itm_pictish_hatchet_pl",
+        "text": "Goidelic_Axe",
+        "old_translation": "",
+        "translation": "戈伊德尔斧"
+    },
+    {
+        "id": "itm_pictish_hatchet2",
+        "text": "Goidelic_Axe",
+        "old_translation": "",
+        "translation": "戈伊德尔斧"
+    },
+    {
+        "id": "itm_pictish_hatchet2_pl",
+        "text": "Goidelic_Axe",
+        "old_translation": "",
+        "translation": "戈伊德尔斧"
+    },
+    {
+        "id": "itm_pictish_hatchet3",
+        "text": "Goidelic_Long_Axe",
+        "old_translation": "",
+        "translation": "戈伊德尔长斧"
+    },
+    {
+        "id": "itm_pictish_hatchet3_pl",
+        "text": "Goidelic_Long_Axe",
+        "old_translation": "",
+        "translation": "戈伊德尔长斧"
+    },
+    {
+        "id": "itm_pictish_hatchet4",
+        "text": "Goidelic_Long_Axe",
+        "old_translation": "",
+        "translation": "戈伊德尔长斧"
+    },
+    {
+        "id": "itm_pictish_hatchet4_pl",
+        "text": "Goidelic_Long_Axe",
+        "old_translation": "",
+        "translation": "戈伊德尔长斧"
+    },
+    {
+        "id": "itm_pictish_hatchet5",
+        "text": "Pictish_Axe",
+        "old_translation": "",
+        "translation": "皮克特斧"
+    },
+    {
+        "id": "itm_pictish_hatchet5_pl",
+        "text": "Pictish_Axe",
+        "old_translation": "",
+        "translation": "皮克特斧"
+    },
+    {
+        "id": "itm_pictish_hatchet6",
+        "text": "Pictish_Axe",
+        "old_translation": "",
+        "translation": "皮克特斧"
+    },
+    {
+        "id": "itm_pictish_hatchet6_pl",
+        "text": "Pictish_Axe",
+        "old_translation": "",
+        "translation": "皮克特斧"
+    },
+    {
+        "id": "itm_pictish_hatchet7",
+        "text": "Pictish_Axe",
+        "old_translation": "",
+        "translation": "皮克特斧"
+    },
+    {
+        "id": "itm_pictish_hatchet7_pl",
+        "text": "Pictish_Axe",
+        "old_translation": "",
+        "translation": "皮克特斧"
+    },
+    {
+        "id": "itm_pictish_hatchet8",
+        "text": "Short_Pictish_Axe",
+        "old_translation": "",
+        "translation": "皮克特短斧"
+    },
+    {
+        "id": "itm_pictish_hatchet8_pl",
+        "text": "Short_Pictish_Axe",
+        "old_translation": "",
+        "translation": "皮克特短斧"
+    },
+    {
+        "id": "itm_pictish_hatchet9",
+        "text": "Big_Pictish_Axe",
+        "old_translation": "",
+        "translation": "皮克特重斧"
+    },
+    {
+        "id": "itm_pictish_hatchet9_pl",
+        "text": "Big_Pictish_Axe",
+        "old_translation": "",
+        "translation": "皮克特重斧"
+    },
+    {
+        "id": "itm_pictish_hatchet10",
+        "text": "Big_Pictish_Axe",
+        "old_translation": "",
+        "translation": "皮克特重斧"
+    },
+    {
+        "id": "itm_pictish_hatchet10_pl",
+        "text": "Big_Pictish_Axe",
+        "old_translation": "",
+        "translation": "皮克特重斧"
+    },
+    {
+        "id": "itm_pictish_hatchet11",
+        "text": "Goidelic_Hatchet",
+        "old_translation": "",
+        "translation": "戈伊德尔短手斧"
+    },
+    {
+        "id": "itm_pictish_hatchet11_pl",
+        "text": "Goidelic_Hatchet",
+        "old_translation": "",
+        "translation": "戈伊德尔短手斧"
+    },
+    {
+        "id": "itm_pictish_hatchet12",
+        "text": "Goidelic_Hatchet",
+        "old_translation": "",
+        "translation": "戈伊德尔短手斧"
+    },
+    {
+        "id": "itm_pictish_hatchet12_pl",
+        "text": "Goidelic_Hatchet",
+        "old_translation": "",
+        "translation": "戈伊德尔短手斧"
+    },
+    {
+        "id": "itm_pictish_hatchet13",
+        "text": "Short_Goidelic_Hatchet",
+        "old_translation": "",
+        "translation": "戈伊德尔短手斧"
+    },
+    {
+        "id": "itm_pictish_hatchet13_pl",
+        "text": "Short_Goidelic_Hatchet",
+        "old_translation": "",
+        "translation": "戈伊德尔短手斧"
+    },
+    {
+        "id": "itm_pictish_hatchet14",
+        "text": "Short_Goidelic_Hatchet",
+        "old_translation": "",
+        "translation": "戈伊德尔短手斧"
+    },
+    {
+        "id": "itm_pictish_hatchet14_pl",
+        "text": "Short_Goidelic_Hatchet",
+        "old_translation": "",
+        "translation": "戈伊德尔短手斧"
+    },
+    {
+        "id": "itm_pictish_hatchet15",
+        "text": "Goidelic_Long_Hatchet",
+        "old_translation": "",
+        "translation": "戈伊德尔长手斧"
+    },
+    {
+        "id": "itm_pictish_hatchet15_pl",
+        "text": "Goidelic_Long_Hatchet",
+        "old_translation": "",
+        "translation": "戈伊德尔长手斧"
+    },
+    {
+        "id": "itm_pictish_hatchet16",
+        "text": "Goidelic_Long_Hatchet",
+        "old_translation": "",
+        "translation": "戈伊德尔长手斧"
+    },
+    {
+        "id": "itm_pictish_hatchet16_pl",
+        "text": "Goidelic_Long_Hatchet",
+        "old_translation": "",
+        "translation": "戈伊德尔长手斧"
+    },
+    {
+        "id": "itm_pictish_hatchet17",
+        "text": "Noble_Goidelic_Axe",
+        "old_translation": "",
+        "translation": "戈伊德尔贵族斧"
+    },
+    {
+        "id": "itm_pictish_hatchet17_pl",
+        "text": "Noble_Goidelic_Axe",
+        "old_translation": "",
+        "translation": "戈伊德尔贵族斧"
+    },
+    {
+        "id": "itm_pictish_hatchet18",
+        "text": "Noble_Goidelic_Axe",
+        "old_translation": "",
+        "translation": "戈伊德尔贵族斧"
+    },
+    {
+        "id": "itm_pictish_hatchet18_pl",
+        "text": "Noble_Goidelic_Axe",
+        "old_translation": "",
+        "translation": "戈伊德尔贵族斧"
+    },
+    {
+        "id": "itm_long_axe_b",
+        "text": "Woodcutter",
+        "old_translation": "",
+        "translation": "伐木斧"
+    },
+    {
+        "id": "itm_long_axe_b_pl",
+        "text": "Woodcutter",
+        "old_translation": "",
+        "translation": "伐木斧"
+    },
+    {
+        "id": "itm_frankish_axe",
+        "text": "Frankish_Battle_Axe",
+        "old_translation": "",
+        "translation": "法兰克战斧"
+    },
+    {
+        "id": "itm_frankish_axe_pl",
+        "text": "Frankish_Battle_Axe",
+        "old_translation": "",
+        "translation": "法兰克战斧"
+    },
+    {
+        "id": "itm_staff",
+        "text": "Staff",
+        "old_translation": "",
+        "translation": "棍"
+    },
+    {
+        "id": "itm_staff_pl",
+        "text": "Staff",
+        "old_translation": "",
+        "translation": "棍"
+    },
+    {
+        "id": "itm_quarter_staff",
+        "text": "Short_Staff",
+        "old_translation": "",
+        "translation": "短棍"
+    },
+    {
+        "id": "itm_quarter_staff_pl",
+        "text": "Short_Staff",
+        "old_translation": "",
+        "translation": "短棍"
+    },
+    {
+        "id": "itm_pitch_fork",
+        "text": "Pitch_Fork",
+        "old_translation": "",
+        "translation": "粪叉"
+    },
+    {
+        "id": "itm_pitch_fork_pl",
+        "text": "Pitch_Fork",
+        "old_translation": "",
+        "translation": "粪叉"
+    },
+    {
+        "id": "itm_battle_fork",
+        "text": "Shepherd's_Crook",
+        "old_translation": "",
+        "translation": "牧羊杖"
+    },
+    {
+        "id": "itm_battle_fork_pl",
+        "text": "Shepherd's_Crook",
+        "old_translation": "",
+        "translation": "牧羊杖"
+    },
+    {
+        "id": "itm_light_spear1",
+        "text": "Light_Spear",
+        "old_translation": "",
+        "translation": "轻型矛"
+    },
+    {
+        "id": "itm_light_spear1_pl",
+        "text": "Light_Spear",
+        "old_translation": "",
+        "translation": "轻型矛"
+    },
+    {
+        "id": "itm_light_spear2",
+        "text": "Light_Spear",
+        "old_translation": "",
+        "translation": "轻型矛"
+    },
+    {
+        "id": "itm_light_spear2_pl",
+        "text": "Light_Spear",
+        "old_translation": "",
+        "translation": "轻型矛"
+    },
+    {
+        "id": "itm_light_spear3",
+        "text": "Light_Spear",
+        "old_translation": "",
+        "translation": "轻型矛"
+    },
+    {
+        "id": "itm_light_spear3_pl",
+        "text": "Light_Spear",
+        "old_translation": "",
+        "translation": "轻型矛"
+    },
+    {
+        "id": "itm_light_spear4",
+        "text": "Light_Spear",
+        "old_translation": "",
+        "translation": "轻型矛"
+    },
+    {
+        "id": "itm_light_spear4_pl",
+        "text": "Light_Spear",
+        "old_translation": "",
+        "translation": "轻型矛"
+    },
+    {
+        "id": "itm_war_spear1",
+        "text": "War_Spear",
+        "old_translation": "",
+        "translation": "战矛"
+    },
+    {
+        "id": "itm_war_spear1_pl",
+        "text": "War_Spear",
+        "old_translation": "",
+        "translation": "战矛"
+    },
+    {
+        "id": "itm_war_spear2",
+        "text": "War_Spear",
+        "old_translation": "",
+        "translation": "战矛"
+    },
+    {
+        "id": "itm_war_spear2_pl",
+        "text": "War_Spear",
+        "old_translation": "",
+        "translation": "战矛"
+    },
+    {
+        "id": "itm_war_spear3",
+        "text": "War_Spear",
+        "old_translation": "",
+        "translation": "战矛"
+    },
+    {
+        "id": "itm_war_spear3_pl",
+        "text": "War_Spear",
+        "old_translation": "",
+        "translation": "战矛"
+    },
+    {
+        "id": "itm_heavy_spear1",
+        "text": "Heavy_Spear",
+        "old_translation": "",
+        "translation": "重型矛"
+    },
+    {
+        "id": "itm_heavy_spear1_pl",
+        "text": "Heavy_Spear",
+        "old_translation": "",
+        "translation": "重型矛"
+    },
+    {
+        "id": "itm_heavy_spear2",
+        "text": "Heavy_Spear",
+        "old_translation": "",
+        "translation": "重型矛"
+    },
+    {
+        "id": "itm_heavy_spear2_pl",
+        "text": "Heavy_Spear",
+        "old_translation": "",
+        "translation": "重型矛"
+    },
+    {
+        "id": "itm_heavy_spear3",
+        "text": "Heavy_Spear",
+        "old_translation": "",
+        "translation": "重型矛"
+    },
+    {
+        "id": "itm_heavy_spear3_pl",
+        "text": "Heavy_Spear",
+        "old_translation": "",
+        "translation": "重型矛"
+    },
+    {
+        "id": "itm_long_light_spear1",
+        "text": "Light_Long_Spear",
+        "old_translation": "",
+        "translation": "轻型长矛"
+    },
+    {
+        "id": "itm_long_light_spear1_pl",
+        "text": "Light_Long_Spear",
+        "old_translation": "",
+        "translation": "轻型长矛"
+    },
+    {
+        "id": "itm_long_light_spear2",
+        "text": "Light_Long_Spear",
+        "old_translation": "",
+        "translation": "轻型长矛"
+    },
+    {
+        "id": "itm_long_light_spear2_pl",
+        "text": "Light_Long_Spear",
+        "old_translation": "",
+        "translation": "轻型长矛"
+    },
+    {
+        "id": "itm_long_war_spear1",
+        "text": "Long_War_Spear",
+        "old_translation": "",
+        "translation": "长战矛"
+    },
+    {
+        "id": "itm_long_war_spear1_pl",
+        "text": "Long_War_Spear",
+        "old_translation": "",
+        "translation": "长战矛"
+    },
+    {
+        "id": "itm_long_war_spear2",
+        "text": "Long_War_Spear",
+        "old_translation": "",
+        "translation": "长战矛"
+    },
+    {
+        "id": "itm_long_war_spear2_pl",
+        "text": "Long_War_Spear",
+        "old_translation": "",
+        "translation": "长战矛"
+    },
+    {
+        "id": "itm_long_heavy_spear1",
+        "text": "Heavy_Long_Spear",
+        "old_translation": "",
+        "translation": "重型长矛"
+    },
+    {
+        "id": "itm_long_heavy_spear1_pl",
+        "text": "Heavy_Long_Spear",
+        "old_translation": "",
+        "translation": "重型长矛"
+    },
+    {
+        "id": "itm_long_heavy_spear2",
+        "text": "Heavy_Long_Spear",
+        "old_translation": "",
+        "translation": "重型长矛"
+    },
+    {
+        "id": "itm_long_heavy_spear2_pl",
+        "text": "Heavy_Long_Spear",
+        "old_translation": "",
+        "translation": "重型长矛"
+    },
+    {
+        "id": "itm_new_mace",
+        "text": "Ray",
+        "old_translation": "",
+        "translation": "权杖"
+    },
+    {
+        "id": "itm_new_mace_pl",
+        "text": "Ray",
+        "old_translation": "",
+        "translation": "权杖"
+    },
+    {
+        "id": "itm_premium_spear1",
+        "text": "Gungnir",
+        "old_translation": "",
+        "translation": "冈格尼尔"
+    },
+    {
+        "id": "itm_premium_spear1_pl",
+        "text": "Gungnir",
+        "old_translation": "",
+        "translation": "冈格尼尔"
+    },
+    {
+        "id": "itm_standard",
+        "text": "Army_Standard",
+        "old_translation": "",
+        "translation": "军旗"
+    },
+    {
+        "id": "itm_standard_pl",
+        "text": "Army_Standard",
+        "old_translation": "",
+        "translation": "军旗"
+    },
+    {
+        "id": "-50.000000",
+        "text": "5",
+        "old_translation": "",
+        "translation": ""
+    },
+    {
+        "id": "-50.000000_pl",
+        "text": "1955",
+        "old_translation": "",
+        "translation": ""
+    },
+    {
+        "id": "itm_standard_dragon",
+        "text": "Dragon_Standard",
+        "old_translation": "",
+        "translation": "龙旗"
+    },
+    {
+        "id": "itm_standard_dragon_pl",
+        "text": "Dragon_Standard",
+        "old_translation": "",
+        "translation": "龙旗"
+    },
+    {
+        "id": "itm_horn",
+        "text": "Horn",
+        "old_translation": "",
+        "translation": "号角"
+    },
+    {
+        "id": "itm_horn_pl",
+        "text": "Horn",
+        "old_translation": "",
+        "translation": "号角"
+    },
+    {
+        "id": "itm_horn_multi",
+        "text": "Horn",
+        "old_translation": "",
+        "translation": "号角"
+    },
+    {
+        "id": "itm_horn_multi_pl",
+        "text": "Horn",
+        "old_translation": "",
+        "translation": "号角"
+    },
+    {
+        "id": "itm_wooden_shield",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_wooden_shield_pl",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_06",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_06_pl",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_07",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_07_pl",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_10",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_10_pl",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_11",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_11_pl",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_08",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_08_pl",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_09",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_09_pl",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_12",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_12_pl",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_13",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_13_pl",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_01",
+        "text": "Rawhide_Shield",
+        "old_translation": "",
+        "translation": "生皮盾"
+    },
+    {
+        "id": "itm_viking_shield_round_01_pl",
+        "text": "Rawhide_Shield",
+        "old_translation": "",
+        "translation": "生皮盾"
+    },
+    {
+        "id": "itm_viking_shield_round_02",
+        "text": "Rawhide_Shield",
+        "old_translation": "",
+        "translation": "生皮盾"
+    },
+    {
+        "id": "itm_viking_shield_round_02_pl",
+        "text": "Rawhide_Shield",
+        "old_translation": "",
+        "translation": "生皮盾"
+    },
+    {
+        "id": "itm_viking_shield_round_03",
+        "text": "Rawhide_Shield",
+        "old_translation": "",
+        "translation": "生皮盾"
+    },
+    {
+        "id": "itm_viking_shield_round_03_pl",
+        "text": "Rawhide_Shield",
+        "old_translation": "",
+        "translation": "生皮盾"
+    },
+    {
+        "id": "itm_viking_shield_round_14",
+        "text": "Rawhide_Shield",
+        "old_translation": "",
+        "translation": "生皮盾"
+    },
+    {
+        "id": "itm_viking_shield_round_14_pl",
+        "text": "Rawhide_Shield",
+        "old_translation": "",
+        "translation": "生皮盾"
+    },
+    {
+        "id": "itm_viking_shield_round_15",
+        "text": "Rawhide_Shield",
+        "old_translation": "",
+        "translation": "生皮盾"
+    },
+    {
+        "id": "itm_viking_shield_round_15_pl",
+        "text": "Rawhide_Shield",
+        "old_translation": "",
+        "translation": "生皮盾"
+    },
+    {
+        "id": "itm_viking_shield_round_04",
+        "text": "Rawhide_Round_Shield",
+        "old_translation": "",
+        "translation": "生皮圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_04_pl",
+        "text": "Rawhide_Round_Shield",
+        "old_translation": "",
+        "translation": "生皮圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_05",
+        "text": "Rawhide_Round_Shield",
+        "old_translation": "",
+        "translation": "生皮圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_05_pl",
+        "text": "Rawhide_Round_Shield",
+        "old_translation": "",
+        "translation": "生皮圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_16",
+        "text": "Rawhide_Round_Shield",
+        "old_translation": "",
+        "translation": "生皮圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_16_pl",
+        "text": "Rawhide_Round_Shield",
+        "old_translation": "",
+        "translation": "生皮圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_17",
+        "text": "Rawhide_Round_Shield",
+        "old_translation": "",
+        "translation": "生皮圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_17_pl",
+        "text": "Rawhide_Round_Shield",
+        "old_translation": "",
+        "translation": "生皮圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_18",
+        "text": "Rawhide_Round_Shield",
+        "old_translation": "",
+        "translation": "生皮圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_18_pl",
+        "text": "Rawhide_Round_Shield",
+        "old_translation": "",
+        "translation": "生皮圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_19",
+        "text": "Rawhide_Round_Shield",
+        "old_translation": "",
+        "translation": "生皮圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_19_pl",
+        "text": "Rawhide_Round_Shield",
+        "old_translation": "",
+        "translation": "生皮圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_20",
+        "text": "Rawhide_Round_Shield",
+        "old_translation": "",
+        "translation": "生皮圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_20_pl",
+        "text": "Rawhide_Round_Shield",
+        "old_translation": "",
+        "translation": "生皮圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_21",
+        "text": "Rawhide_Round_Shield",
+        "old_translation": "",
+        "translation": "生皮圆盾"
+    },
+    {
+        "id": "itm_viking_shield_round_21_pl",
+        "text": "Rawhide_Round_Shield",
+        "old_translation": "",
+        "translation": "生皮圆盾"
+    },
+    {
+        "id": "itm_shield_1",
+        "text": "Convex_Shield",
+        "old_translation": "",
+        "translation": "凸圆盾"
+    },
+    {
+        "id": "itm_shield_1_pl",
+        "text": "Convex_Shield",
+        "old_translation": "",
+        "translation": "凸圆盾"
+    },
+    {
+        "id": "itm_shield_2",
+        "text": "Convex_Shield",
+        "old_translation": "",
+        "translation": "凸圆盾"
+    },
+    {
+        "id": "itm_shield_2_pl",
+        "text": "Convex_Shield",
+        "old_translation": "",
+        "translation": "凸圆盾"
+    },
+    {
+        "id": "itm_shield_3",
+        "text": "Convex_Shield",
+        "old_translation": "",
+        "translation": "凸圆盾"
+    },
+    {
+        "id": "itm_shield_3_pl",
+        "text": "Convex_Shield",
+        "old_translation": "",
+        "translation": "凸圆盾"
+    },
+    {
+        "id": "itm_shield_4",
+        "text": "Convex_Shield",
+        "old_translation": "",
+        "translation": "凸圆盾"
+    },
+    {
+        "id": "itm_shield_4_pl",
+        "text": "Convex_Shield",
+        "old_translation": "",
+        "translation": "凸圆盾"
+    },
+    {
+        "id": "itm_shield_5",
+        "text": "Convex_Shield",
+        "old_translation": "",
+        "translation": "凸圆盾"
+    },
+    {
+        "id": "itm_shield_5_pl",
+        "text": "Convex_Shield",
+        "old_translation": "",
+        "translation": "凸圆盾"
+    },
+    {
+        "id": "itm_shield_6",
+        "text": "Convex_Shield",
+        "old_translation": "",
+        "translation": "凸圆盾"
+    },
+    {
+        "id": "itm_shield_6_pl",
+        "text": "Convex_Shield",
+        "old_translation": "",
+        "translation": "凸圆盾"
+    },
+    {
+        "id": "itm_shield_6_2",
+        "text": "Convex_Shield",
+        "old_translation": "",
+        "translation": "凸圆盾"
+    },
+    {
+        "id": "itm_shield_6_2_pl",
+        "text": "Convex_Shield",
+        "old_translation": "",
+        "translation": "凸圆盾"
+    },
+    {
+        "id": "itm_shield_7",
+        "text": "Berserkr_Shield",
+        "old_translation": "",
+        "translation": "勇士盾"
+    },
+    {
+        "id": "itm_shield_7_pl",
+        "text": "Berserkr_Shield",
+        "old_translation": "",
+        "translation": "勇士盾"
+    },
+    {
+        "id": "itm_shield_8",
+        "text": "Berserkr_Shield",
+        "old_translation": "",
+        "translation": "勇士盾"
+    },
+    {
+        "id": "itm_shield_8_pl",
+        "text": "Berserkr_Shield",
+        "old_translation": "",
+        "translation": "勇士盾"
+    },
+    {
+        "id": "itm_shield_9",
+        "text": "Berserkr_Shield",
+        "old_translation": "",
+        "translation": "勇士盾"
+    },
+    {
+        "id": "itm_shield_9_pl",
+        "text": "Berserkr_Shield",
+        "old_translation": "",
+        "translation": "勇士盾"
+    },
+    {
+        "id": "itm_shield_10",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_shield_10_pl",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_shield_11",
+        "text": "Rawhide_Shield",
+        "old_translation": "",
+        "translation": "生皮盾"
+    },
+    {
+        "id": "itm_shield_11_pl",
+        "text": "Rawhide_Shield",
+        "old_translation": "",
+        "translation": "生皮盾"
+    },
+    {
+        "id": "itm_shield_12",
+        "text": "Svear_Shield",
+        "old_translation": "",
+        "translation": "斯维尔盾"
+    },
+    {
+        "id": "itm_shield_12_pl",
+        "text": "Svear_Shield",
+        "old_translation": "",
+        "translation": "斯维尔盾"
+    },
+    {
+        "id": "itm_shield_13",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_shield_13_pl",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_shield_14",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_shield_14_pl",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_shield_15",
+        "text": "Rawhide_Shield",
+        "old_translation": "",
+        "translation": "生皮盾"
+    },
+    {
+        "id": "itm_shield_15_pl",
+        "text": "Rawhide_Shield",
+        "old_translation": "",
+        "translation": "生皮盾"
+    },
+    {
+        "id": "itm_shield_16",
+        "text": "Rawhide_Shield",
+        "old_translation": "",
+        "translation": "生皮盾"
+    },
+    {
+        "id": "itm_shield_16_pl",
+        "text": "Rawhide_Shield",
+        "old_translation": "",
+        "translation": "生皮盾"
+    },
+    {
+        "id": "itm_shield_17",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_shield_17_pl",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_shield_18",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_shield_18_pl",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_shield_19",
+        "text": "Danish_Shield",
+        "old_translation": "",
+        "translation": "丹麦盾"
+    },
+    {
+        "id": "itm_shield_19_pl",
+        "text": "Danish_Shield",
+        "old_translation": "",
+        "translation": "丹麦盾"
+    },
+    {
+        "id": "itm_shield_20",
+        "text": "Northmathr_Shield",
+        "old_translation": "",
+        "translation": "诺曼盾"
+    },
+    {
+        "id": "itm_shield_20_pl",
+        "text": "Northmathr_Shield",
+        "old_translation": "",
+        "translation": "诺曼盾"
+    },
+    {
+        "id": "itm_shield_21",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_shield_21_pl",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_gael_bigroundshield_01",
+        "text": "Gael_Round_Shield",
+        "old_translation": "",
+        "translation": "盖尔圆盾"
+    },
+    {
+        "id": "itm_gael_bigroundshield_01_pl",
+        "text": "Gael_Round_Shield",
+        "old_translation": "",
+        "translation": "盖尔圆盾"
+    },
+    {
+        "id": "itm_gael_bigroundshield_02",
+        "text": "Gael_Round_Shield",
+        "old_translation": "",
+        "translation": "盖尔圆盾"
+    },
+    {
+        "id": "itm_gael_bigroundshield_02_pl",
+        "text": "Gael_Round_Shield",
+        "old_translation": "",
+        "translation": "盖尔圆盾"
+    },
+    {
+        "id": "itm_gael_bigroundshield_03",
+        "text": "Gael_Round_Shield",
+        "old_translation": "",
+        "translation": "盖尔圆盾"
+    },
+    {
+        "id": "itm_gael_bigroundshield_03_pl",
+        "text": "Gael_Round_Shield",
+        "old_translation": "",
+        "translation": "盖尔圆盾"
+    },
+    {
+        "id": "itm_gael_bigroundshield_04",
+        "text": "Gael_Round_Shield",
+        "old_translation": "",
+        "translation": "盖尔圆盾"
+    },
+    {
+        "id": "itm_gael_bigroundshield_04_pl",
+        "text": "Gael_Round_Shield",
+        "old_translation": "",
+        "translation": "盖尔圆盾"
+    },
+    {
+        "id": "itm_gael_bigroundshield_05",
+        "text": "Gael_Round_Shield",
+        "old_translation": "",
+        "translation": "盖尔圆盾"
+    },
+    {
+        "id": "itm_gael_bigroundshield_05_pl",
+        "text": "Gael_Round_Shield",
+        "old_translation": "",
+        "translation": "盖尔圆盾"
+    },
+    {
+        "id": "itm_gael_bigroundshield_06",
+        "text": "Gael_Round_Shield",
+        "old_translation": "",
+        "translation": "盖尔圆盾"
+    },
+    {
+        "id": "itm_gael_bigroundshield_06_pl",
+        "text": "Gael_Round_Shield",
+        "old_translation": "",
+        "translation": "盖尔圆盾"
+    },
+    {
+        "id": "itm_gael_bigroundshield_07",
+        "text": "Gael_Round_Shield",
+        "old_translation": "",
+        "translation": "盖尔圆盾"
+    },
+    {
+        "id": "itm_gael_bigroundshield_07_pl",
+        "text": "Gael_Round_Shield",
+        "old_translation": "",
+        "translation": "盖尔圆盾"
+    },
+    {
+        "id": "itm_elf_shield",
+        "text": "Elf's_Shield",
+        "old_translation": "",
+        "translation": "精灵之盾"
+    },
+    {
+        "id": "itm_elf_shield_pl",
+        "text": "Elf's_Shield",
+        "old_translation": "",
+        "translation": "精灵之盾"
+    },
+    {
+        "id": "itm_tab_shield_round_c",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_c_pl",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_01_device",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_01_device_pl",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_01_nodevice",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_01_nodevice_pl",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_02_device",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_02_device_pl",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_02_nodevice",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_02_nodevice_pl",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_03_device",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_03_device_pl",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_03_nodevice",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_03_nodevice_pl",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_04_device",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_04_device_pl",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_04_nodevice",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_04_nodevice_pl",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_05_device",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_05_device_pl",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_05_nodevice",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_05_nodevice_pl",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_06_device",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_06_device_pl",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_06_nodevice",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_06_nodevice_pl",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_07_device",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_07_device_pl",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_07_nodevice",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_07_nodevice_pl",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_08_device",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_08_device_pl",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_08_nodevice",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_08_nodevice_pl",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_09_device",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_09_device_pl",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_09_nodevice",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_09_nodevice_pl",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_10_device",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_10_device_pl",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_10_nodevice",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_10_nodevice_pl",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_11_device",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_11_device_pl",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_11_nodevice",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_11_nodevice_pl",
+        "text": "Painted_Convex_Shield",
+        "old_translation": "",
+        "translation": "彩绘凸圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_12_device",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_12_device_pl",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_12_nodevice",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_round_12_nodevice_pl",
+        "text": "Painted_Round_Shield",
+        "old_translation": "",
+        "translation": "彩绘圆盾"
+    },
+    {
+        "id": "itm_tab_shield_small_round_c",
+        "text": "Small_Round_Shield",
+        "old_translation": "",
+        "translation": "小圆盾"
+    },
+    {
+        "id": "itm_tab_shield_small_round_c_pl",
+        "text": "Small_Round_Shield",
+        "old_translation": "",
+        "translation": "小圆盾"
+    },
+    {
+        "id": "itm_small_roundsh1",
+        "text": "Small_Round_Shield",
+        "old_translation": "",
+        "translation": "小圆盾"
+    },
+    {
+        "id": "itm_small_roundsh1_pl",
+        "text": "Small_Round_Shield",
+        "old_translation": "",
+        "translation": "小圆盾"
+    },
+    {
+        "id": "itm_small_roundsh2",
+        "text": "Small_Round_Shield",
+        "old_translation": "",
+        "translation": "小圆盾"
+    },
+    {
+        "id": "itm_small_roundsh2_pl",
+        "text": "Small_Round_Shield",
+        "old_translation": "",
+        "translation": "小圆盾"
+    }
+]

@@ -1,2002 +1,3002 @@
 [
     {
+        "id": "qstr_Breaking_camp...",
         "text": "Breaking_camp...",
-        "translation": "终止宿营……"
+        "old_translation": "拔营起程……",
+        "translation": "拔营起程……"
     },
     {
+        "id": "qstr_The_poem_the_bard_ha",
         "text": "The_poem_the_bard_had_written_for_{s33}_didn't_seem_to_work_very_well.",
-        "translation": "吟游诗人为{s33}写的诗似乎没有打动她。"
+        "old_translation": "吟游诗人为{s33}写的诗似乎没起什么作用。",
+        "translation": "吟游诗人为{s33}写的诗似乎没起什么作用。"
     },
     {
+        "id": "qstr_Poem_for_a_lady",
         "text": "Poem_for_a_lady",
-        "translation": "给女士的诗"
+        "old_translation": "献给女士的诗",
+        "translation": "献给女士的诗"
     },
     {
+        "id": "qstr_{s33}_seemed_to_like",
         "text": "{s33}_seemed_to_like_the_poem_the_bard_had_written_for_her.",
-        "translation": "{s33}似乎喜欢这首吟游诗人为她写的诗。"
+        "old_translation": "{s33}似乎很喜欢吟游诗人为她写的诗。",
+        "translation": "{s33}似乎很喜欢吟游诗人为她写的诗。"
     },
     {
+        "id": "qstr_The_bard_s_poem_abou",
         "text": "The_bard's_poem_about_you_seems_to_be_spreading_through_the_land.",
-        "translation": "吟游诗人讲述你的诗正在广泛传播。"
+        "old_translation": "吟游诗人歌颂你的诗篇正在各地流传。",
+        "translation": "吟游诗人歌颂你的诗篇正在各地流传。"
     },
     {
+        "id": "qstr_Fame_spreads",
         "text": "Fame_spreads",
-        "translation": "名声传播"
+        "old_translation": "名声远播",
+        "translation": "名声远播"
     },
     {
+        "id": "qstr_People_say_that_{s31",
         "text": "People_say_that_{s31}_found_a_buried_Viking_hoard_on_{s32}'s_property._The_lords_came_to_blows_over_its_ownership.",
-        "translation": "人们说{s31}发现了一个埋葬维京{s32}财产墓穴。主对它的所有权争议进行平息。"
+        "old_translation": "人们说{s31}在{s32}的领地里挖到了埋藏的维京宝藏，诸位领主为争夺所有权大打出手。",
+        "translation": "人们说{s31}在{s32}的领地里挖到了埋藏的维京宝藏，诸位领主为争夺所有权大打出手。"
     },
     {
+        "id": "qstr_People_say_that_{s31}",
         "text": "People_say_that_{s31}_or_his_servants_are_stealing_cattle_from_{s32}'s_property._That_made_{s32}_furious.",
-        "translation": "人们说{s31}或仆人偷了{s32}的财产。那使得{s32}愤怒。"
+        "old_translation": "人们说{s31}或其手下从{s32}的牧场偷牛，令{s32}勃然大怒。",
+        "translation": "人们说{s31}或其手下从{s32}的牧场偷牛，令{s32}勃然大怒。"
     },
     {
+        "id": "qstr_People_say_that_{s31}_",
         "text": "People_say_that_{s31}_served_one_of_{s32}'s_bodyguards_a_horn_of_poisoned_mead._{s32}_is_infuriated.",
-        "translation": "人们说{s31}侍从之一{s32}一杯毒酒{s32}激怒了。"
+        "old_translation": "人们说{s31}给{s32}的一名侍卫递了一杯毒蜜酒，{s32}怒不可遏。",
+        "translation": "人们说{s31}给{s32}的一名侍卫递了一杯毒蜜酒，{s32}怒不可遏。"
     },
     {
+        "id": "qstr_People_say_that_{s31}_t",
         "text": "People_say_that_{s31}_tried_to_bribe_some_of_{s32}'s_bodyguards_to_get_access_to_the_household,_but_{s32}_found_out.",
-        "translation": "人们说{s31}试图贿赂一些{s32}的保镖进入家庭，但{s32}被发现。"
+        "old_translation": "人们说{s31}试图贿赂{s32}的侍卫混入宅邸，却被{s32}当场识破。",
+        "translation": "人们说{s31}试图贿赂{s32}的侍卫混入宅邸，却被{s32}当场识破。"
     },
     {
+        "id": "qstr_People_say_that_a_ru",
         "text": "People_say_that_a_rumor_spread_by_an_unknown_traveller_failed_to_incite_enmity_between_{s31}_and_{s32}.",
-        "translation": "人们说，谣言传播的一个未知的旅行者未能煽动{s31}和{s32}之间的敌意。"
+        "old_translation": "人们说，一位无名旅者散布的谣言未能挑拨{s31}与{s32}的关系。",
+        "translation": "人们说，一位无名旅行者散布的谣言未能挑拨{s31}与{s32}的关系。"
     },
     {
+        "id": "qstr_{s33}",
         "text": "{s33}",
+        "old_translation": "{s33}",
         "translation": "{s33}"
     },
     {
+        "id": "qstr_Rumors",
         "text": "Rumors",
-        "translation": "谣言"
+        "old_translation": "传言",
+        "translation": "传言"
     },
     {
+        "id": "qstr_{playername}_is_beli",
         "text": "{playername}_is_believed_to_be_behind_the_recent_derogatory_rumors_involving_{s32}_and_{s31}.",
-        "translation": "{playername}被认为是最近的贬损的谣言背后涉及{s32}和{s31}."
+        "old_translation": "人们相信，最近关于{s32}与{s31}的恶言谣言，幕后推手正是{playername}。",
+        "translation": "人们相信，最近关于{s32}与{s31}的恶言谣言，幕后推手正是{playername}。"
     },
     {
+        "id": "qstr_A_recent_rumor_alleg",
         "text": "A_recent_rumor_alleges_that_{s32}_hides_behind_his_bodyguards_in_battles.",
-        "translation": "最近传闻宣称{s32}隐藏在他的保镖背后战斗。"
+        "old_translation": "最新传闻称，{s32}在战场上总躲在侍卫身后。",
+        "translation": "最新传闻称，{s32}在战场上总躲在侍卫身后。"
     },
     {
+        "id": "qstr_A_recent_rumor_allege",
         "text": "A_recent_rumor_alleges_that_{s32}_is_practicing_some_kind_of_perverted_rituals_in_his_mead_hall.",
-        "translation": "最近传闻宣称{s32}在他的庄园里练习某种扭曲的仪式。"
+        "old_translation": "最新传闻称，{s32}在蜜酒厅里行某种邪异仪式。",
+        "translation": "最新传闻称，{s32}在蜜酒厅里行某种邪异仪式。"
     },
     {
+        "id": "qstr_A_recent_rumor_alleges",
         "text": "A_recent_rumor_alleges_that_{s32}_is_very_fond_of_his_new_mare,_if_you_know_what_I_mean.",
-        "translation": "最近传闻宣称{s32}很喜欢他的新母马，如果你明白我的意思。"
+        "old_translation": "最新传闻称，{s32}对新来的母马宠爱有加，你懂的。",
+        "translation": "最新传闻称，{s32}对新来的母马宠爱有加，你懂的。"
     },
     {
+        "id": "qstr_A_recent_rumor_alleges_",
         "text": "A_recent_rumor_alleges_that_{s32}_would_rather_wield_a_drinking_horn_than_a_sword.",
-        "translation": "最近传闻宣称{s32}相比起剑更想有一个角杯。"
+        "old_translation": "最新传闻称，{s32}宁举角杯，不握长剑。",
+        "translation": "最新传闻称，{s32}宁举角杯，不握长剑。"
     },
     {
+        "id": "qstr_People_say_that_a_rum",
         "text": "People_say_that_a_rumor_spread_by_an_unknown_traveller_about_{s32}_failed_to_damage_his_reputation.",
-        "translation": "人们说，一个谣言传播的一个未知的旅行者{s32}没有损害他的名誉。"
+        "old_translation": "人们说，一位无名旅者关于{s32}的谣言并未损害他的名声。",
+        "translation": "人们说，一位无名旅行者关于{s32}的谣言并未损害他的名声。"
     },
     {
+        "id": "qstr_{playername}_is_belie",
         "text": "{playername}_is_believed_to_be_behind_the_recent_rumors_about_{s32}'s_indiscretions.",
-        "translation": "{playername}被认为是在传播最近的谣言{s32}不明智的行为。"
+        "old_translation": "人们相信，最近关于{s32}失德之举的谣言，幕后正是{playername}。",
+        "translation": "人们相信，最近关于{s32}失德之举的谣言，幕后正是{playername}。"
     },
     {
+        "id": "qstr_A_recent_rumor_sprea",
         "text": "A_recent_rumor_spread_by_an_unknown_traveller_alleges_that_{s32}_is_intriguing_against_{s31}.",
-        "translation": "未知的旅行者声称最近的谣言传播{s32}反对{s31}."
+        "old_translation": "一位无名旅者散播的传闻称，{s32}正在密谋反对{s31}。",
+        "translation": "一位无名旅行者散播的传闻称，{s32}正在密谋反对{s31}。"
     },
     {
+        "id": "qstr_People_say_that_a_rumo",
         "text": "People_say_that_a_rumor_spread_by_an_unknown_traveller_about_{s32}_being_a_disloyal_vassal_failed_to_incite_enmity_between_{s32}_and_{s31}.",
-        "translation": "人说，一个谣言传播的一个未知的旅行者{s32}作为一个不忠的领主之间未能煽动{s32}和{s31}之间的敌意。"
+        "old_translation": "人们说，无名旅者散布“{s32}是不忠封臣”的谣言，却未能激起{s32}与{s31}的仇怨。",
+        "translation": "人们说，无名旅行者散布“{s32}是不忠封臣”的谣言，却未能激起{s32}与{s31}的仇怨。"
     },
     {
+        "id": "qstr_{playername}_is_believ",
         "text": "{playername}_is_believed_to_be_behind_the_recent_rumors_about_{s32}'s_disloyalty.",
-        "translation": "{playername}被认为是在最近的谣言{s32}不忠。"
+        "old_translation": "众人相信，{playername}是近来关于{s32}不忠谣言的幕后推手。",
+        "translation": "众人相信，{playername}是近来关于{s32}不忠谣言的幕后推手。"
     },
     {
+        "id": "qstr_It_seems_that_{s31}_",
         "text": "It_seems_that_{s31}_has_found_recent_stories_about_{s32}'s_infidelity_plausible.",
-        "translation": "看来，{s31}发现最近的故事关于{s32}不忠的可能。"
+        "old_translation": "看来，{s31}觉得最近关于{s32}不忠的说法颇为可信。",
+        "translation": "看来，{s31}觉得最近关于{s32}不忠的说法颇为可信。"
     },
     {
+        "id": "qstr_It_appears_{s31}_has",
         "text": "It_appears_{s31}_has_dismissed_recent_stories_about_{s32}'s_infidelity_as_nothing_but_his_enemies'_gossip.",
-        "translation": "似乎{s31}驳斥了最近的故事关于{s32}不忠的，除了他的敌人的流言蜚语。"
+        "old_translation": "似乎{s31}把最近关于{s32}不忠的传闻斥为敌人无根之谣。",
+        "translation": "似乎{s31}把最近关于{s32}不忠的传闻斥为敌人无根之谣。"
     },
     {
+        "id": "qstr_It_seems_that_{s31}_h",
         "text": "It_seems_that_{s31}_has_found_recent_stories_about_{s32}'s_disloyalty_quite_plausible.",
-        "translation": "看来，{s31}发现最近的故事关于{s32}不忠的似乎很有道理。"
+        "old_translation": "看来，{s31}认为最近关于{s32}不忠的谣言很有道理。",
+        "translation": "看来，{s31}觉得最近关于{s32}不忠的说法颇为可信。"
     },
     {
+        "id": "qstr_It_appears_that_{s31",
         "text": "It_appears_that_{s31}_has_dismissed_recent_stories_about_{s32}'s_disloyalty_as_nothing_but_his_enemies'_gossip.",
-        "translation": "似乎{s31}驳斥了最近的故事{s32}不忠，除了他敌人对他的流言蜚语。"
+        "old_translation": "似乎{s31}将最近关于{s32}不忠的传闻当作敌人嚼舌，一笑置之。",
+        "translation": "似乎{s31}把最近关于{s32}不忠的传言当作敌人嚼舌，一笑置之。"
     },
     {
+        "id": "qstr_It_seems_that_{s31}_w",
         "text": "It_seems_that_{s31}_was_not_amused_after_{s32}_was_found_to_be_involved_in_a_cattle-thieving_scheme.",
-        "translation": "看来，{s31}没有被逗乐{s32}被发现参与偷牛的计划。"
+        "old_translation": "看来，{s31}对{s32}卷入偷牛阴谋一事并不觉得好笑。",
+        "translation": "看来，{s31}对{s32}卷入偷牛阴谋一事并不觉得好笑。"
     },
     {
+        "id": "qstr_It_appears_{s32}_had",
         "text": "It_appears_{s32}_had_managed_to_avoid_being_linked_to_a_recent_murder,_and_his_relations_with_{s31}_didn't_suffer.",
-        "translation": "似乎{s32}设法避免最近的谋杀，并且他的关系和{s31}没有受到影响。"
+        "old_translation": "似乎{s32}成功撇清与最近谋杀案的干系，他与{s31}的关系并未受损。",
+        "translation": "似乎{s32}成功撇清与最近谋杀案的干系，他与{s31}的关系并未受损。"
     },
     {
+        "id": "qstr_Winter_is_the_worst_",
         "text": "Winter_is_the_worst_time_for_war._It's_cold,_it_rains_too_much_and_food_is_scarce._In_winter,_men_would_rather_shelter_by_the_fire_than_campaign._Watch_your_morale_and_your_food_stores.",
-        "translation": "冬天是战争的最坏时机。寒冷，潮湿，食物稀缺。人们在冬天里宁可躲在室内而不是在外作战。注意你的士气和食物库存。"
+        "old_translation": "冬天最不宜征战。天寒地冻，雨水连绵，粮草难继。士卒宁围炉取暖，也不愿披甲远行。务必留心士气与存粮。",
+        "translation": "冬天最不宜征战。天寒地冻，雨水连绵，粮草难继。士卒宁围炉取暖，也不愿披甲远行。务必留心士气与存粮。"
     },
     {
+        "id": "qstr_{s40}_decided_to_bec",
         "text": "{s40}_decided_to_become_an_adventurer_near_{s39}",
-        "translation": "{s40}决定成为一个探险家{s39}"
+        "old_translation": "{s40}决定在{s39}附近踏上冒险之路。",
+        "translation": "{s40}决定在{s39}附近踏上冒险之路。"
     },
     {
+        "id": "qstr_It_seems_your_soldie",
         "text": "It_seems_your_soldiers_had_a_good_time_and_helped_themselves_to_some_of_the_drinks_in_your_inventory.",
-        "translation": "看起来你的士兵用你库存里的饮料度过了一段好时光。"
+        "old_translation": "看来你的士兵痛饮库存美酒，度过了一段快活时光。",
+        "translation": "看来你的士兵痛饮库存美酒，度过了一段快活时光。"
     },
     {
+        "id": "qstr_It_seems_someone_wen",
         "text": "It_seems_someone_went_through_your_inventory_and_stole_some_of_your_{s33}.",
-        "translation": "似乎有盗贼进入你的仓库并偷走了你一些{s33}。"
+        "old_translation": "似乎有人翻遍你的仓库，偷走了若干{s33}。",
+        "translation": "似乎有人翻遍你的仓库，偷走了若干{s33}。"
     },
     {
+        "id": "qstr_{s22}",
         "text": "{s22}",
+        "old_translation": "{s22}",
         "translation": "{s22}"
     },
     {
+        "id": "qstr_{s1}_of_{s2}_has_bee",
         "text": "{s1}_of_{s2}_has_been_released_from_captivity.",
-        "translation": "{s2}中的{s1}已被释放。"
+        "old_translation": "{s2}的{s1}已获释。",
+        "translation": "{s2}的{s1}已获释。"
     },
     {
+        "id": "qstr_{s33}_was_beaten_up_",
         "text": "{s33}_was_beaten_up_and_thrown_into_dungeon_by_an_angry_crowd_in_{s34}.",
-        "translation": "{s33}被{s34}的居民殴打并被丢进了监狱。"
+        "old_translation": "{s33}在{s34}被愤怒的民众痛殴后丢进地牢。",
+        "translation": "{s33}在{s34}被愤怒的民众痛殴后丢进地牢。"
     },
     {
+        "id": "qstr_{s33}_s_attempts_to_",
         "text": "{s33}'s_attempts_to_influence_people_of_{s34}_have_failed.",
-        "translation": "{s33}提高在{s34}的影响力的行动失败了。"
+        "old_translation": "{s33}试图影响{s34}民众，却无功而返。",
+        "translation": "{s33}试图影响{s34}民众，却无功而返。"
     },
     {
+        "id": "qstr_The_people_of_{s34}_",
         "text": "The_people_of_{s34}_hate_you_so_much_that_the_guards_did_not_allow_{s33}_to_enter.",
-        "translation": "{s34}的人们非常恨你，{s33}被守卫拒之门外。"
+        "old_translation": "{s34}的百姓恨你入骨，守卫拒绝让{s33}入城。",
+        "translation": "{s34}的百姓恨你入骨，守卫拒绝让{s33}入城。"
     },
     {
+        "id": "qstr_A_livestock_epidemic",
         "text": "A_livestock_epidemic_has_killed_{reg4}_cattle_in_{s4}.",
-        "translation": "一场瘟疫杀死了在{s4}的{reg4}头牲口。"
+        "old_translation": "一场畜疫在{s4}夺走了{reg4}头牛的性命。",
+        "translation": "一场畜疫在{s4}夺走了{reg4}头牛的性命。"
     },
     {
+        "id": "qstr_A_livestock_epidemic_",
         "text": "A_livestock_epidemic_has_killed_{reg5}_sheep_in_{s4}.",
-        "translation": "一场瘟疫杀死了在{s4}的{reg5}只羊。"
+        "old_translation": "一场畜疫在{s4}夺走了{reg5}只羊的性命。",
+        "translation": "一场畜疫在{s4}夺走了{reg5}只羊的性命。"
     },
     {
+        "id": "qstr_A_livestock_epidemic_h",
         "text": "A_livestock_epidemic_has_killed_{reg4}_cattle_and_{reg5}_sheep_in_{s4}.",
-        "translation": "一场瘟疫杀死了在{s4}的{reg4}头牛和{reg5}只羊。"
+        "old_translation": "{s4}爆发畜疫，{reg4}头牛和{reg5}只羊病死。",
+        "translation": "{s4}爆发畜疫，{reg4}头牛和{reg5}只羊病死。"
     },
     {
+        "id": "qstr_You_receive_a_messag",
         "text": "You_receive_a_message_from_{s1}_demanding_lands_to_support_them_in_a_style_that_befits_them.",
-        "translation": "你收到来自{s1}的口信要求你用合适的方式支持他们。"
+        "old_translation": "你收到{s1}的口信，要求你以配得上他们身份的方式赐予土地以作支持。",
+        "translation": "你收到{s1}的口信，要求你以配得上他们身份的方式赐予土地以作支持。"
     },
     {
+        "id": "qstr_You_receive_a_message",
         "text": "You_receive_a_message_from_{s1}_reminding_you_of_your_obligations_to_provide_for_your_vassals.",
-        "translation": "你收到来自{s1}的口信提醒你作为封臣的义务。"
+        "old_translation": "你收到{s1}的口信，提醒你须履行供养封臣的义务。",
+        "translation": "你收到{s1}的口信，提醒你须履行供养封臣的义务。"
     },
     {
+        "id": "qstr_Your_men_made_some_d",
         "text": "Your_men_made_some_delicious_butter_from_cow's_milk.",
-        "translation": "你的士兵用牛奶做了一些美味的奶油。"
+        "old_translation": "你的部下用牛奶制出了美味的奶油。",
+        "translation": "你的部下用牛奶制出了美味的奶油。"
     },
     {
+        "id": "qstr_A_livestock_epidemic_ha",
         "text": "A_livestock_epidemic_has_killed_{reg5}_of_your_cattle_at_a_farmstead_near_{s4}.",
-        "translation": "一场瘟疫杀死了在{s4}附近农庄的{reg5}头牛。"
+        "old_translation": "{s4}附近的农场爆发畜疫，你的{reg5}头牛病死。",
+        "translation": "{s4}附近的农场爆发畜疫，你的{reg5}头牛病死。"
     },
     {
+        "id": "qstr_A_livestock_epidemic_has",
         "text": "A_livestock_epidemic_has_killed_{reg4}_cattle_and_{reg5}_of_your_cattle_at_a_farmstead_near_{s4}.",
-        "translation": "一场瘟疫杀死了{reg4}头牛。包括你在{s4}附近农庄的{reg5}头牛。"
+        "old_translation": "畜疫爆发，{reg4}头牛病死，其中包括你在{s4}附近农场的{reg5}头牛。",
+        "translation": "畜疫爆发，{reg4}头牛病死，其中包括你在{s4}附近农场的{reg5}头牛。"
     },
     {
+        "id": "qstr_Your_party_is_spotte",
         "text": "Your_party_is_spotted_by_{s1}.",
-        "translation": "你的部队被{s1}发现了。"
+        "old_translation": "你的队伍被{s1}发现。",
+        "translation": "你的队伍被{s1}发现。"
     },
     {
+        "id": "qstr_Your_men_have_nothin",
         "text": "Your_men_have_nothing_to_eat!",
-        "translation": "你的部队没有东西吃了！"
+        "old_translation": "你的部下断粮了！",
+        "translation": "你的部下断粮了！"
     },
     {
+        "id": "qstr_{reg1}_{s1}_{reg2?ha",
         "text": "{reg1}_{s1}_{reg2?have:has}_escaped_from_your_party_during_the_night.",
-        "translation": "{reg1}个{s1}{reg2?已:已}趁着夜色逃离了你的队伍。"
+        "old_translation": "{reg1}个{s1}{reg2?已:已}趁夜逃离队伍。",
+        "translation": "{reg1}个{s1}{reg2?已:已}趁夜逃离队伍。"
     },
     {
+        "id": "qstr_{s1}_of_the_{s3}_has",
         "text": "{s1}_of_the_{s3}_has_been_released_from_captivity.",
-        "translation": "{s3}的{s1}已经被释放了。"
+        "old_translation": "{s3}的{s1}已获释。",
+        "translation": "{s3}的{s1}已获释。"
     },
     {
+        "id": "qstr_{s1}_is_no_longer_in",
         "text": "{s1}_is_no_longer_infested_by_bandits_at_night.",
-        "translation": "{s1}不再在夜里被匪盗困扰。"
+        "old_translation": "{s1}夜间不再受山贼侵扰。",
+        "translation": "{s1}夜间不再受山贼侵扰。"
     },
     {
+        "id": "qstr_{s1}_has_won_the_tou",
         "text": "{s1}_has_won_the_tournament_at_{s2}.",
-        "translation": "{s1}赢得了在{s2}的比赛。"
+        "old_translation": "{s1}在{s2}的比武大会中夺魁。",
+        "translation": "{s1}在{s2}的比武大会中夺魁。"
     },
     {
+        "id": "qstr_You_pay_for_accommod",
         "text": "You_pay_for_accommodation.",
-        "translation": "你支付了宿金。"
+        "old_translation": "你支付了宿费。",
+        "translation": "你支付了宿费。"
     },
     {
+        "id": "qstr__Your_tactics_skill_",
         "text": "_Your_tactics_skill_has_increased_by_1.",
-        "translation": "你的战术技能提高1级。"
+        "old_translation": "你的战术技能提升1级。",
+        "translation": "你的战术技能提升1级。"
     },
     {
+        "id": "qstr__Your_persuasion_ski",
         "text": "_Your_persuasion_skill_has_increased_by_1.",
-        "translation": "你的说服力技能提高1级。"
+        "old_translation": "你的说服力技能提升1级。",
+        "translation": "你的说服力技能提升1级。"
     },
     {
+        "id": "qstr__Your_leadership_ski",
         "text": "_Your_leadership_skill_has_increased_by_1.",
-        "translation": "你的统御技能提高1级。"
+        "old_translation": "你的统御技能提升1级。",
+        "translation": "你的统御技能提升1级。"
     },
     {
+        "id": "qstr__Your_intelligence_h",
         "text": "_Your_intelligence_has_increased_by_1.",
-        "translation": "你的智力提高1点。"
+        "old_translation": "你的智力提升1点。",
+        "translation": "你的智力提升1点。"
     },
     {
+        "id": "qstr__Your_trade_skill_ha",
         "text": "_Your_trade_skill_has_increased_by_1.",
-        "translation": "你的交易技能提高1级。"
+        "old_translation": "你的交易技能提升1级。",
+        "translation": "你的交易技能提升1级。"
     },
     {
+        "id": "qstr__Your_weapon_master_",
         "text": "_Your_weapon_master_skill_has_increased_by_1.",
-        "translation": "你的武器掌握技能提高1级。"
+        "old_translation": "你的武器掌握技能提升1级。",
+        "translation": "你的武器掌握技能提升1级。"
     },
     {
+        "id": "qstr__Your_engineer_skill",
         "text": "_Your_engineer_skill_has_increased_by_1.",
-        "translation": "你的工程学技能提高1级。"
+        "old_translation": "你的工程学技能提升1级。",
+        "translation": "你的工程学技能提升1级。"
     },
     {
+        "id": "qstr_You_have_finished_re",
         "text": "You_have_finished_reading_{s1}.{s2}",
+        "old_translation": "你已经读完了{s1}。{s2}",
         "translation": "你已经读完了{s1}。{s2}"
     },
     {
+        "id": "qstr_Book_Read",
         "text": "Book_Read",
+        "old_translation": "读书",
         "translation": "读书"
     },
     {
+        "id": "qstr_Christian_monastery",
         "text": "Christian_monastery",
+        "old_translation": "基督教修道院",
         "translation": "基督教修道院"
     },
     {
+        "id": "qstr_Christian_church",
         "text": "Christian_church",
+        "old_translation": "基督教教堂",
         "translation": "基督教教堂"
     },
     {
+        "id": "qstr_shrine_to_Norse_gods",
         "text": "shrine_to_Norse_gods",
-        "translation": "诺尔斯神龛"
+        "old_translation": "诺尔斯神龛",
+        "translation": "诺斯神龛"
     },
     {
+        "id": "qstr_temple_to_Odin",
         "text": "temple_to_Odin",
+        "old_translation": "奥丁神庙",
         "translation": "奥丁神庙"
     },
     {
+        "id": "qstr_People_of_{s24}_are_",
         "text": "People_of_{s24}_are_unhappy_with_your_religious_intolerance,_and_destroyed_{s25}.",
-        "translation": "{s24}的人们对你的宗教偏向不能接受，并毁掉了{s25}。"
+        "old_translation": "{s24}的人们对你的宗教偏向不能接受，并毁掉了{s25}。",
+        "translation": "{s24}的人们不满你的宗教偏狭，毁掉了{s25}。"
     },
     {
+        "id": "qstr_You_have_{reg0}_days",
         "text": "You_have_{reg0}_days_to_finish_this_quest.",
+        "old_translation": "你还有{reg0}天来完成这个任务。",
         "translation": "你还有{reg0}天来完成这个任务。"
     },
     {
+        "id": "qstr_{s1}_is_scouted.",
         "text": "{s1}_is_scouted.",
-        "translation": "{s1}已经侦察过了。"
+        "old_translation": "{s1}已经侦察过了。",
+        "translation": "{s1}已侦察完毕。"
     },
     {
+        "id": "qstr_{s1}_has_switched_fr",
         "text": "{s1}_has_switched_from_the_{s2}_to_the_{s3}.",
-        "translation": "{s1}从{s2}的手上转移到{s3}。"
+        "old_translation": "{s1}从{s2}的手上转移到{s3}。",
+        "translation": "{s1}从{s2}转投{s3}。"
     },
     {
+        "id": "qstr_The_merchants__rest_",
         "text": "The_merchants'_rest_hall_in_{s1}_adds_to_its_prosperity.",
-        "translation": "在{s1}的交易大厅增加了当地的繁荣度。"
+        "old_translation": "在{s1}的交易大厅增加了当地的繁荣度。",
+        "translation": "{s1}的商人驿馆提升了当地繁荣度。"
     },
     {
+        "id": "qstr_Christian_monastery_",
         "text": "Christian_monastery_at_{s33}_improves_Christian_faith_in_{s34}.",
-        "translation": "在{s33}的基督教堂提高了{s34}的信仰度。"
+        "old_translation": "在{s33}的基督教堂提高了{s34}的信仰度。",
+        "translation": "{s33}的基督教修道院增强了{s34}的基督信仰。"
     },
     {
+        "id": "qstr_Pagan_hof_at_{s33}_r",
         "text": "Pagan_hof_at_{s33}_reduces_Christian_faith_in_{s34}.",
-        "translation": "在{s33}的多神教神庙降低了{s34}的基督信仰度。"
+        "old_translation": "在{s33}的多神教神庙降低了{s34}的基督信仰度。",
+        "translation": "{s33}的多神教神庙削弱了{s34}的基督信仰。"
     },
     {
+        "id": "qstr_The_scriptorium_in_{",
         "text": "The_scriptorium_in_{s1}_adds_to_your_renown.",
-        "translation": "在{s1}的缮写室增加了你的声望。"
+        "old_translation": "在{s1}的缮写室增加了你的声望。",
+        "translation": "{s1}的缮写室为你赢得声望。"
     },
     {
+        "id": "qstr_Due_to_the_good_word",
         "text": "Due_to_the_good_word_Christian_clergymen_spread_about_you,_your_relationship_with_the_{s1}_improves.",
-        "translation": "由于基督教牧师对你的积极宣传，你与{s1}的关系改善了。"
+        "old_translation": "由于基督教牧师对你的积极宣传，你与{s1}的关系改善了。",
+        "translation": "基督教神职人员为你美言，你与{s1}的关系因此改善。"
     },
     {
+        "id": "qstr_Due_to_the_bad_word_",
         "text": "Due_to_the_bad_word_Christian_clergymen_spread_about_you,_your_relationship_with_the_{s1}_declines.",
-        "translation": "由于基督教牧师对你的负面宣传，你与{s1}的关系恶化了。"
+        "old_translation": "由于基督教牧师对你的负面宣传，你与{s1}的关系恶化了。",
+        "translation": "由于基督教牧师四处说你坏话，你与{s1}的关系恶化。"
     },
     {
+        "id": "qstr_{s1}_has_become_host",
         "text": "{s1}_has_become_hostile_to_you_due_to_your_mistreatment_of_Christian_subjects.",
-        "translation": "{s1}变得对你充满敌意，因为你亵渎基督教。"
+        "old_translation": "{s1}变得对你充满敌意，因为你亵渎基督教。",
+        "translation": "因你虐待基督教臣民，{s1}与你为敌。"
     },
     {
+        "id": "qstr_Faction_became_hosti",
         "text": "Faction_became_hostile",
-        "translation": "成为敌对派系"
+        "old_translation": "成为敌对派系",
+        "translation": "派系变为敌对"
     },
     {
+        "id": "qstr_Due_to_the_good_word_",
         "text": "Due_to_the_good_word_influential_pagans_spread_about_you,_your_relationship_with_the_{s1}_improves.",
-        "translation": "由于多神教教徒对你的积极宣传，你与{s1}的关系改善了。"
+        "old_translation": "由于多神教教徒对你的积极宣传，你与{s1}的关系改善了。",
+        "translation": "由于有影响力的多神教徒为你美言，你与{s1}的关系改善。"
     },
     {
+        "id": "qstr_Due_to_the_bad_word_i",
         "text": "Due_to_the_bad_word_influential_pagans_spread_about_you,_your_relationship_with_the_{s1}_declines.",
-        "translation": "由于多神教教徒对你的负面宣传，你与{s1}的关系恶化了。"
+        "old_translation": "由于多神教教徒对你的负面宣传，你与{s1}的关系恶化了。",
+        "translation": "由于有影响力的多神教徒说你坏话，你与{s1}的关系恶化。"
     },
     {
+        "id": "qstr_{s1}_has_become_hosti",
         "text": "{s1}_has_become_hostile_to_you_due_to_your_mistreatment_of_Pagan_subjects.",
-        "translation": "{s1}变得对你充满敌意，因为你亵渎多神教。"
+        "old_translation": "{s1}因你虐待多神教徒而与你为敌。",
+        "translation": "因你虐待多神教徒，{s1}与你为敌。"
     },
     {
+        "id": "qstr_{s13}_has_too_many_t",
         "text": "{s13}_has_too_many_troops_garrisoned_in_and_may_be_picked_by_marshal_to_levy_soldiers.",
-        "translation": "{s13}有太多的军队驻守并且领主可能会征兵。"
+        "old_translation": "{s13}驻军过多，元帅可能来此征兵。",
+        "translation": "{s13}驻军过多，元帅可能来此征兵。"
     },
     {
+        "id": "qstr_most",
         "text": "most",
+        "old_translation": "最多",
         "translation": "最多"
     },
     {
+        "id": "qstr_half",
         "text": "half",
+        "old_translation": "一半",
         "translation": "一半"
     },
     {
+        "id": "qstr_some",
         "text": "some",
+        "old_translation": "一些",
         "translation": "一些"
     },
     {
+        "id": "qstr_few",
         "text": "few",
+        "old_translation": "几个",
         "translation": "几个"
     },
     {
+        "id": "qstr_There_are_too_many_m",
         "text": "There_are_too_many_men_in_your_Refuge._Some_of_them_became_unhappy_and_deserted!",
-        "translation": "你的庇护所容纳了太多的人，一些士兵变得不开心而离开了。"
+        "old_translation": "你的庇护所人满为患，有人心生不满，已逃离！",
+        "translation": "你的庇护所人满为患，有人不满，已逃离！"
     },
     {
+        "id": "qstr_Refuge_Garrison",
         "text": "Refuge_Garrison",
+        "old_translation": "庇护所驻军",
         "translation": "庇护所驻军"
     },
     {
+        "id": "qstr_You_receive_word_tha",
         "text": "You_receive_word_that_the_trainer_at_{s1}_has_completed_his_task.",
-        "translation": "你收到一条信息——{s1}的教官已经完成了他的任务。"
+        "old_translation": "你得知{s1}的教练已完成任务。",
+        "translation": "你得知{s1}的教练已完成任务。"
     },
     {
+        "id": "qstr_TEST:_I_moved_Lords_",
         "text": "TEST:_I_moved_Lords_to_St_Helena.",
-        "translation": "TEST：我移动领主去圣海伦娜。"
+        "old_translation": "TEST：我把领主迁往圣赫勒拿。",
+        "translation": "TEST：我把领主迁往圣赫勒拿。"
     },
     {
+        "id": "qstr_TEST:_I_bring_Lords_",
         "text": "TEST:_I_bring_Lords_back.",
-        "translation": "TEST：我带领主回来。"
+        "old_translation": "TEST：我把领主带回。",
+        "translation": "TEST：我把领主带回。"
     },
     {
+        "id": "qstr_Physicians_in_larger",
         "text": "Physicians_in_larger_towns_can_treat_the_wounds_for_a_price,_after_which_they_will_heal_within_a_few_days._Any_negative_effects_will_then_be_removed.",
-        "translation": "各大城镇的医师在获得报酬后，他们会在几天之内为你进行治疗。所有负面影响将被移除。"
+        "old_translation": "大城镇的医生收钱治伤，几天即可痊愈，所有负面效果随之消失。",
+        "translation": "大城镇的医生收钱治伤，几天即可痊愈，所有负面效果随之消失。"
     },
     {
+        "id": "qstr_You_are_wounded",
         "text": "You_are_wounded",
+        "old_translation": "你负伤了",
         "translation": "你负伤了"
     },
     {
+        "id": "qstr_{s1}You_have_only_on",
         "text": "{s1}You_have_only_one_day_left_to_take_care_of_{reg7}_of_your_injuries._Visit_a_physician_in_a_larger_town_to_do_so.^^",
-        "translation": "{s1}你只剩下一天时间治疗自己的{reg7}伤势了。尽快到各大城镇拜访医师。^^"
+        "old_translation": "{s1}你只剩一天处理{reg7}处伤势，请速往大城镇就医。^^",
+        "translation": "{s1}你只剩一天处理{reg7}处伤势，请速往大城镇就医。^^"
     },
     {
+        "id": "qstr_{s1}{reg7}_of_your_i",
         "text": "{s1}{reg7}_of_your_injuries_{reg8?have:has}_become_permanent_because_{reg8?they_haven't_been:it_wasn't}_tended.^^",
-        "translation": "{s1}由于缺乏治疗，你的{reg7}伤情之一已经变成永久的缺陷。"
+        "old_translation": "{s1}因未获治疗，你的{reg7}处伤势已转为永久创伤。^^",
+        "translation": "{s1}因未获治疗，你的{reg7}处伤势已转为永久创伤。^^"
     },
     {
+        "id": "qstr_{s1}{reg7}_of_your_w",
         "text": "{s1}{reg7}_of_your_wounds_{reg8?are:is}_cured,_and_your_related_abilities_aren't_limited_any_more.",
-        "translation": "{s1}你的{reg7}伤口被治好了，你的能力不再因此受到限制。"
+        "old_translation": "{s1}你的{reg7}处伤口痊愈，相关能力不再受限。",
+        "translation": "{s1}你的{reg7}处伤口痊愈，相关能力不再受限。"
     },
     {
+        "id": "qstr_{s1}",
         "text": "{s1}",
+        "old_translation": "{s1}",
         "translation": "{s1}"
     },
     {
+        "id": "qstr_Wound_Report",
         "text": "Wound_Report",
+        "old_translation": "伤势报告",
         "translation": "伤势报告"
     },
     {
+        "id": "qstr_A_ship_has_been_buil",
         "text": "A_ship_has_been_built_for_you_in_{s0}.",
-        "translation": "你在{s0}的一艘船舶完成了。"
+        "old_translation": "你的船已在{s0}建成。",
+        "translation": "你的船已在{s0}建成。"
     },
     {
+        "id": "qstr_Ship_finished",
         "text": "Ship_finished",
-        "translation": "船舶完成"
+        "old_translation": "船舶完工",
+        "translation": "船舶完工"
     },
     {
+        "id": "qstr_{s0}_has_recovered_f",
         "text": "{s0}_has_recovered_from_being_raided.",
-        "translation": "{s0}从劫掠后得到了恢复。"
+        "old_translation": "{s0}已从劫掠中恢复。",
+        "translation": "{s0}已从劫掠中恢复。"
     },
     {
+        "id": "qstr_By_now_you_have_more",
         "text": "By_now,_you_have_more_than_one_ship._In_a_sea_battle_you_can_give_a_'stand_ground'_or_'charge'_command_to_your_ships_by_giving_it_to_class_number_nine,_like_you_give_commands_to_a_troop_class_in_a_field_battle._The_first_troops_in_your_army_list_will_be_together_with_you_on_the_flagship._The_other_troops_will_be_in_the_following_ships._You_can_change_your_flagship_in_a_port_and_while_camping_on_the_sea._If_you_are_next_to_a_coast_you_can_also_split_your_fleet_while_camping_on_the_sea_or_search_for_the_closest_landing_point_with_a_right_click_on_your_party.",
-        "translation": "目前你拥有不止一条船了。在海战中，你可以向你的船队下令“驻守”或“冲锋”，方法如同你在陆战中向部队下令。部队的第一分组将是你的旗舰，其他则是随舰。你可以在一个港口或在海上驻停时更换旗舰。如果你在海岸线附近或者寻找一处登陆点，右键点击你的部队，可以将船队分开。"
+        "old_translation": "目前你已拥有不止一艘船。海战时，你可以像给陆上部队下令那样，向编号为9的船队发出“坚守”或“冲锋”指令。部队列表最前的士兵会与你同处旗舰，其余则分乘后续船只。你可以在港口或海上扎营时更换旗舰；若靠近海岸，也可在海上扎营时拆分舰队，或右键点击部队寻找最近的登陆点。",
+        "translation": "如今你已拥有不止一艘船。海战时，你可以像给陆上部队下令那样，向编号9的船队下达“坚守”或“冲锋”指令。部队列表最前的士兵会与你同处旗舰，其余则分乘后续船只。你可以在港口或海上扎营时更换旗舰；若靠近海岸，也可在海上扎营时拆分舰队，或右键点击部队寻找最近的登陆点。"
     },
     {
+        "id": "qstr_Ship_management",
         "text": "Ship_management",
+        "old_translation": "船只管理",
         "translation": "船只管理"
     },
     {
+        "id": "qstr_Your_troops_are_angr",
         "text": "Your_troops_are_angry,_because_they_hate_to_spend_the_night_on_sea.",
-        "translation": "你的士兵非常愤怒，因为他们讨厌在海上过夜。"
+        "old_translation": "你的士兵愤怒不已，因为他们痛恨在海上过夜。",
+        "translation": "你的士兵愤怒不已，因为他们痛恨在海上过夜。"
     },
     {
+        "id": "qstr_Your_troops_feel_une",
         "text": "Your_troops_feel_uneasy_about_crossing_the_sea.",
-        "translation": "你的士兵忧虑于渡海。"
+        "old_translation": "你的士兵对渡海感到不安。",
+        "translation": "你的士兵对渡海感到不安。"
     },
     {
+        "id": "qstr_Severe_weather_has_d",
         "text": "Severe_weather_has_damaged_the_{s1}_({s7}).",
-        "translation": "恶劣的天气袭击了{s1}({s7})。"
+        "old_translation": "恶劣天气重创了{s1}（{s7}）。",
+        "translation": "恶劣天气重创了{s1}（{s7}）。"
     },
     {
+        "id": "qstr_Severe_weather_has_de",
         "text": "Severe_weather_has_destroyed_the_{s1}_({s7}).",
-        "translation": "恶劣的天气毁灭了{s1}({s7})。"
+        "old_translation": "恶劣天气摧毁了{s1}（{s7}）。",
+        "translation": "恶劣天气摧毁了{s1}（{s7}）。"
     },
     {
+        "id": "qstr_vSeason",
         "text": "vSeason",
-        "translation": ""
+        "old_translation": "vSeason",
+        "translation": "vSeason"
     },
     {
+        "id": "qstr_vWindStrength",
         "text": "vWindStrength",
-        "translation": ""
+        "old_translation": "vWindStrength",
+        "translation": "vWindStrength"
     },
     {
+        "id": "qstr_The_weather_changed_",
         "text": "The_weather_changed_to:_'Calm'",
+        "old_translation": "天气变化：“无风”",
         "translation": "天气变化：“无风”"
     },
     {
+        "id": "qstr_The_weather_changed_t",
         "text": "The_weather_changed_to:_'Light_breeze'",
+        "old_translation": "天气变化：“轻风”",
         "translation": "天气变化：“轻风”"
     },
     {
+        "id": "qstr_The_weather_changed_to",
         "text": "The_weather_changed_to:_'Moderate_breeze'",
+        "old_translation": "天气变化：“和风”",
         "translation": "天气变化：“和风”"
     },
     {
+        "id": "qstr_The_weather_changed_to:",
         "text": "The_weather_changed_to:_'Strong_breeze'",
+        "old_translation": "天气变化：“强风”",
         "translation": "天气变化：“强风”"
     },
     {
+        "id": "qstr_The_weather_changed_to:_",
         "text": "The_weather_changed_to:_'High_wind'",
+        "old_translation": "天气变化：“疾风”",
         "translation": "天气变化：“疾风”"
     },
     {
+        "id": "qstr_The_weather_changed_to:__",
         "text": "The_weather_changed_to:_'Gale'",
+        "old_translation": "天气变化：“大风”",
         "translation": "天气变化：“大风”"
     },
     {
+        "id": "qstr_The_weather_changed_to:__S",
         "text": "The_weather_changed_to:_'Storm'",
+        "old_translation": "天气变化：“狂风”",
         "translation": "天气变化：“狂风”"
     },
     {
+        "id": "qstr_The_operation_of_the",
         "text": "The_operation_of_the_slave_market_in_{s33}_reduces_your_reputation.",
-        "translation": "在{s33}建造的奴隶市场降低了你的荣誉。"
+        "old_translation": "在{s33}经营奴隶市场，使你的声望受损。",
+        "translation": "在{s33}经营奴隶市场，使你的声望受损。"
     },
     {
+        "id": "qstr_DEBUG_rebellion:_che",
         "text": "DEBUG_rebellion:_checking_faction_{s1}_on_day_{reg1}",
-        "translation": "DEBUGrebellion:checkingfaction{s1}onday{reg1}{***}"
+        "old_translation": "DEBUGrebellion：checkingfaction{s1}onday{reg1}",
+        "translation": "DEBUG rebellion: checking faction {s1} on day {reg1}"
     },
     {
+        "id": "qstr_DEBUG_rebellion:_fac",
         "text": "DEBUG_rebellion:_faction_{s1}_reborn_on_day_{reg1}",
-        "translation": "DEBUGrebellion:faction{s1}rebornonday{reg1}{***}"
+        "old_translation": "DEBUGrebellion：faction{s1}rebornonday{reg1}",
+        "translation": "DEBUG rebellion: faction {s1} reborn on day {reg1}"
     },
     {
+        "id": "qstr__Possible_Rebellion_",
         "text": "(Possible_Rebellion)_Rumors_say_that_{s14}_recruits_from_your_kingdom_despite_your_leadership.",
-        "translation": "(可能的叛乱)谣言说{s14}仍然活着。"
+        "old_translation": "（可能的叛乱）传言称，尽管你统御有方，{s14}仍在你的王国招兵买马。",
+        "translation": "（可能的叛乱）传言称，尽管你统御有方，{s14}仍在你的王国招兵买马。"
     },
     {
+        "id": "qstr__Possible_Rebellion__",
         "text": "(Possible_Rebellion)_Rumors_say_that_{s14}_will_surely_attempt_to_restore_his_kingdom.",
-        "translation": "(可能的叛乱)谣言说{s14}与他秘密的会面。"
+        "old_translation": "（可能的叛乱）传言说{s14}必将试图复国。",
+        "translation": "（可能的叛乱）传言说{s14}必将试图复国。"
     },
     {
+        "id": "qstr__Possible_Rebellion__R",
         "text": "(Possible_Rebellion)_Rumors_say_that_{s14}_is_still_alive.",
-        "translation": "(可能的叛乱)谣言说人们赞成恢复{s14}."
+        "old_translation": "（可能的叛乱）传言说{s14}仍然活着。",
+        "translation": "（可能的叛乱）传言说{s14}仍然活着。"
     },
     {
+        "id": "qstr__Possible_Rebellion__Ru",
         "text": "(Possible_Rebellion)_Rumors_say_that_{s14}_is_stockpiling_weapons_and_is_seeking_support_among_the_Franks.",
-        "translation": "(可能的叛乱)谣言说{s14}组建一只军队以恢复王位。"
+        "old_translation": "（可能的叛乱）传言说{s14}正在囤积武器，并在法兰克人中寻求支持。",
+        "translation": "（可能的叛乱）传言说{s14}正在囤积武器，并在法兰克人中寻求支持。"
     },
     {
+        "id": "qstr__Possible_Rebellion__Rum",
         "text": "(Possible_Rebellion)_Rumors_say_that_{s14}_meets_in_secret_with_his_faithful.",
-        "translation": "(可能的叛乱)谣言说{s14}在囤积武器。"
+        "old_translation": "（可能的叛乱）传言说{s14}与忠仆秘密会面。",
+        "translation": "（可能的叛乱）传言说{s14}与忠仆秘密会面。"
     },
     {
+        "id": "qstr__Possible_Rebellion__Rumo",
         "text": "(Possible_Rebellion)_Rumors_say_that_people_favor_the_restoration_of_{s14}.",
-        "translation": "(可能的叛乱)谣言说{s14}在囤积武器并且在法兰克寻求支持。"
+        "old_translation": "（可能的叛乱）传言说民众支持恢复{s14}的王位。",
+        "translation": "（可能的叛乱）传言说民众支持恢复{s14}的王位。"
     },
     {
+        "id": "qstr__Possible_Rebellion__Rumor",
         "text": "(Possible_Rebellion)_Rumors_say_that_{s14}_is_gathering_an_army_to_regain_his_throne.",
-        "translation": "(可能的叛乱)谣言说{s14}组建一只军队以恢复王位。"
+        "old_translation": "（可能的叛乱）传言说{s14}正在集结军队以夺回王位。",
+        "translation": "（可能的叛乱）传言说{s14}正在集结军队，想夺回王位。"
     },
     {
+        "id": "qstr__Possible_Rebellion__Rumors",
         "text": "(Possible_Rebellion)_Rumors_say_that_{s14}_is_stockpiling_weapons.",
-        "translation": "(可能的叛乱)谣言说{s14}在囤积武器。"
+        "old_translation": "（可能的叛乱）传言说{s14}正在囤积武器。",
+        "translation": "（可能的叛乱）传言说{s14}正在囤积武器。"
     },
     {
+        "id": "qstr__",
         "text": "_",
+        "old_translation": "",
         "translation": ""
     },
     {
+        "id": "qstr_Congratulations!_You",
         "text": "Congratulations!_You've_managed_to_imprison_seven_or_more_lords_at_{s13}._You_really_are_a_true_dungeon_master.",
-        "translation": "恭喜你！你设法关押7个或更多的领主在{s13}。你是一个真正的地牢主人。"
+        "old_translation": "恭喜你！你已在{s13}囚禁了七位或更多领主，你确实是真正的地牢主宰。",
+        "translation": "恭喜你！你已在{s13}囚禁了七名或更多领主，堪称真正的地牢主宰。"
     },
     {
+        "id": "qstr_Dungeon_master_Achie",
         "text": "Dungeon_master_Achievement",
-        "translation": "地下城城主的成就"
+        "old_translation": "地牢主宰成就",
+        "translation": "地牢主宰成就"
     },
     {
+        "id": "qstr_Congratulations!_You_",
         "text": "Congratulations!_You've_managed_to_make_five_or_more_women_your_lovers._Ladies_must_be_heads_over_heels_for_you,_so_certainly_you_must_feel_proud_to_be_in_such_a_demand._Keep_up_the_good_work!",
-        "translation": "恭喜你！你设法拥有五个或更多的女情人。女士们必须向你低头，所以你当然可以为你有这样的一个需求感到骄傲。保持良好的工作！"
+        "old_translation": "恭喜你！你已让五位或更多女子成为你的情人。女士们必定为你倾倒，你大可因这份魅力而自豪。再接再厉！",
+        "translation": "恭喜你！你已让五位或更多女子成为你的情人。女士们必定为你倾倒，你大可因这份魅力自豪。再接再厉！"
     },
     {
+        "id": "qstr_Skirt_Chaser_Achieve",
         "text": "Skirt_Chaser_Achievement",
-        "translation": "好色之徒的成就"
+        "old_translation": "裙下之臣成就",
+        "translation": "裙下之臣成就"
     },
     {
+        "id": "qstr_Congratulations!_You_v",
         "text": "Congratulations!_You've_managed_to_tuck_away_25_or_more_barrels_of_wine_in_your_household_storage,_a_great_feat_considering_you_are_in_the_part_of_the_world_more_known_for_mead_and_ale._Either_you_have_a_drinking_problem,_or_you_are_a_true_wine_connoisseur.",
-        "translation": "恭喜你！你设法囤积25或更多桶酒在你的家中。一个伟大的壮举鉴于你在世界各地喝了许多麦芽酒和蜂蜜酒。你是一个酗酒的酒鬼，或者你是一个真正的葡萄酒鉴赏家。"
+        "old_translation": "恭喜你！你在家中储藏了二十五桶或更多的葡萄酒，考虑到此地以蜂蜜酒与麦芽酒闻名，这堪称壮举。要么你嗜酒成性，要么你是真正的葡萄酒行家。",
+        "translation": "恭喜你！你在家中储藏了二十五桶或更多葡萄酒，此地以蜂蜜酒和麦芽酒闻名，这堪称壮举。要么你嗜酒成性，要么你是真正的葡萄酒行家。"
     },
     {
+        "id": "qstr_Wine_Connoisseur_Ach",
         "text": "Wine_Connoisseur_Achievement",
-        "translation": "葡萄酒鉴赏家的成就"
+        "old_translation": "葡萄酒行家成就",
+        "translation": "葡萄酒行家成就"
     },
     {
+        "id": "qstr_{s33}_revokes_your_r",
         "text": "{s33}_revokes_your_right_to_recruit_in_{s34}_due_to_bad_relations_between_you_two.",
-        "translation": "{s33}撤销了你在{s34}的募兵权，因为你俩之间关系不好。"
+        "old_translation": "{s33}因与你关系恶劣，撤销了你在{s34}的募兵权。",
+        "translation": "{s33}因与你关系恶劣，撤销了你在{s34}的募兵权。"
     },
     {
+        "id": "qstr_The_village_leader_o",
         "text": "The_village_leader_of_{s34}_revokes_your_right_to_recruit_due_to_bad_relations_between_you_and_his_village.",
-        "translation": "{s34}的长老撤销了你的募兵权，因为你和这个村庄的关系不好。"
+        "old_translation": "{s34}的长老因你与该村关系恶劣，撤销了你的募兵权。",
+        "translation": "{s34}的长老因你与该村关系恶劣，撤销了你的募兵权。"
     },
     {
+        "id": "qstr_fixing_banners;_plea",
         "text": "fixing_banners;_please_reset_your_banner",
-        "translation": "修改旗帜"
+        "old_translation": "正在修复旗帜；请重新设置你的旗帜",
+        "translation": "正在修复旗帜；请重新设置你的旗帜"
     },
     {
+        "id": "qstr_unable_to_restore_ba",
         "text": "unable_to_restore_banner_{reg0}_assigned_to_troop_{reg1}",
-        "translation": "无法复原旗帜{reg0}被分配给队伍{reg1}"
+        "old_translation": "无法复原分配给部队{reg1}的旗帜{reg0}",
+        "translation": "无法复原分配给部队{reg1}的旗帜{reg0}"
     },
     {
+        "id": "qstr_Prisoners_revolted!_",
         "text": "Prisoners_revolted!_near_{s33}",
-        "translation": "囚犯起义了！在{s33}附近。"
+        "old_translation": "俘虏在{s33}附近暴动！",
+        "translation": "俘虏在{s33}附近暴动！"
     },
     {
+        "id": "qstr_Your_gift_sent_to_{s",
         "text": "Your_gift_sent_to_{s13}_appeared_to_improve_your_relations_with_him.",
-        "translation": "你的礼物送到{s13}来改善你与他的关系。"
+        "old_translation": "你送给{s13}的礼物似乎改善了你与他的关系。",
+        "translation": "你送给{s13}的礼物似乎改善了你与他的关系。"
     },
     {
+        "id": "qstr_Gift_Sent_to_Lord",
         "text": "Gift_Sent_to_Lord",
-        "translation": "礼物送给主"
+        "old_translation": "献给领主的礼物",
+        "translation": "献给领主的礼物"
     },
     {
+        "id": "qstr_Tutorial",
         "text": "Tutorial",
+        "old_translation": "教程",
         "translation": "教程"
     },
     {
+        "id": "qstr_Recruiting_warriors",
         "text": "Recruiting_warriors",
+        "old_translation": "招募战士",
         "translation": "招募战士"
     },
     {
+        "id": "qstr_Your_troops_feel_ref",
         "text": "Your_troops_feel_refreshed_from_the_night's_rest.",
-        "translation": "经过一晚上休息后，你的部队精神焕发："
+        "old_translation": "经过一夜休息，你的部队精神焕发。",
+        "translation": "经过一夜休息，你的部队精神焕发。"
     },
     {
+        "id": "qstr_Your_men_need_rest_o",
         "text": "Your_men_need_rest_or_their_morale_will_suffer.",
-        "translation": "你的战士需要好好休息，否则他们的士气将会下降。"
+        "old_translation": "你的战士必须休息，否则士气会受损。",
+        "translation": "你的战士必须休息，否则士气会受损。"
     },
     {
+        "id": "qstr_Foragers",
         "text": "Foragers",
+        "old_translation": "征粮队",
         "translation": "征粮队"
     },
     {
+        "id": "qstr_Scouts",
         "text": "Scouts",
+        "old_translation": "侦察兵",
         "translation": "侦察兵"
     },
     {
+        "id": "qstr_Morale",
         "text": "Morale",
+        "old_translation": "士气",
         "translation": "士气"
     },
     {
+        "id": "qstr_Each_day_of_the_sieg",
         "text": "Each_day_of_the_siege,_you_need_to_cover_a_number_of_expenses._You_pay_for_rewards,_digging_latrines,_cleaning_stables,_buying_and_bringing_water_and_food,_cooking,_entertaining_the_troops...",
-        "translation": "每天的围攻，你需要支付一些费用。你支付报酬，挖掘厕所，清洁马厩，购买、携带水和食物，烹饪。真是有趣的军队……"
+        "old_translation": "围攻期间，每天都要花钱：犒赏、挖厕、清厩、买水运粮、做饭、逗乐……",
+        "translation": "围攻期间，每天都要花钱：犒赏、挖厕、清厩、买水运粮、做饭、逗乐……"
     },
     {
+        "id": "qstr_You_do_not_have_mone",
         "text": "You_do_not_have_money_to_cover_the_basic_expenses_of_a_siege._This_greatly_undermines_morale.",
-        "translation": "你没有钱来支付围攻所需的基本费用。这大大削弱了士气。"
+        "old_translation": "你没钱支付围攻的基本开销，士气大挫。",
+        "translation": "你没钱支付围攻的基本开销，士气大挫。"
     },
     {
+        "id": "qstr_{reg65?my_Lady:my_Lo",
         "text": "{reg65?my_Lady:my_Lord}",
-        "translation": "{reg65?尊敬的女士:阁下}"
+        "old_translation": "{reg65?我的女士:我的大人}",
+        "translation": "{reg65?我的女士:我的大人}"
     },
     {
+        "id": "qstr_{reg65?My_Lady:My_Lo",
         "text": "{reg65?My_Lady:My_Lord}",
-        "translation": "{reg65?尊敬的女士:阁下}"
+        "old_translation": "{reg65?我的女士:我的大人}",
+        "translation": "{reg65?我的女士:我的大人}"
     },
     {
+        "id": "qstr_{reg65?madame:sir}",
         "text": "{reg65?madame:sir}",
+        "old_translation": "{reg65?夫人:先生}",
         "translation": "{reg65?夫人:先生}"
     },
     {
+        "id": "qstr_{reg65?Madame:Sir}",
         "text": "{reg65?Madame:Sir}",
+        "old_translation": "{reg65?夫人:先生}",
         "translation": "{reg65?夫人:先生}"
     },
     {
+        "id": "qstr_Dog",
         "text": "Dog",
+        "old_translation": "狗",
         "translation": "狗"
     },
     {
+        "id": "qstr_Welcome_landlubber._",
         "text": "Welcome,_landlubber._I_am_the_shipwright_here.",
-        "translation": "欢迎你的到来，我是这里的船匠。"
+        "old_translation": "欢迎，旱鸭子。我是这里的造船师。",
+        "translation": "欢迎，旱鸭子。我是这里的造船师。"
     },
     {
+        "id": "qstr_Welcome_{reg59?lady:",
         "text": "Welcome,_{reg59?lady:lord}_{playername}.",
-        "translation": "欢迎你的到来，{playername}阁下。"
+        "old_translation": "欢迎，{reg59?女士:大人}{playername}。",
+        "translation": "欢迎，{reg59?女士:大人}{playername}。"
     },
     {
+        "id": "qstr_Welcome_{reg59?madam",
         "text": "Welcome,_{reg59?madame:sir}.",
-        "translation": "欢迎你的到来{reg59?女士:先生}。"
+        "old_translation": "欢迎，{reg59?夫人:先生}。",
+        "translation": "欢迎，{reg59?夫人:先生}。"
     },
     {
+        "id": "qstr_Welcome.",
         "text": "Welcome.",
-        "translation": "欢迎你的到来。"
+        "old_translation": "欢迎。",
+        "translation": "欢迎。"
     },
     {
+        "id": "qstr_Your_ship_is_in_a_ba",
         "text": "Your_ship_is_in_a_bad_condition._You_should_consider_repairing_it_here_in_my_shipyard.",
-        "translation": "你的船看起来有点糟糕。你应该考虑下在我这里修理修理。"
+        "old_translation": "你的船状况糟糕，该在我的船厂修一修。",
+        "translation": "你的船状况糟糕，该在我的船厂修一修。"
     },
     {
+        "id": "qstr_The_{s7}_is_the_most",
         "text": "The_{s7}_is_the_most_glorious_ship_I_have_ever_seen._It_is_a_great_honour,_my_{reg59?lady:lord},_to_have_her_here_in_our_port.",
-        "translation": "{s7}是我这辈子见过的最好的船。能让这艘船停泊在我的港口真是我的荣幸。"
+        "old_translation": "{s7}是我此生见过最荣耀的船只。能让它停泊在我的港口，是我的莫大荣幸，我的{reg59?夫人:大人}。",
+        "translation": "{s7}是我此生见过最荣耀的船只。能让它停泊在我的港口，是我的莫大荣幸，我的{reg59?夫人:大人}。"
     },
     {
+        "id": "qstr_Your_ship_is_of_poor",
         "text": "Your_ship_is_of_poor_quality._You_may_want_to_consider_buying_a_better_ship_from_me.",
-        "translation": "你的船破烂不堪。你或许会想在我这里买艘更好的船。"
+        "old_translation": "你的船质量太差，或许该考虑从我这里买艘更好的。",
+        "translation": "你的船质量太差，或许该考虑从我这里买艘更好的。"
     },
     {
+        "id": "qstr_That_s_a_decent_ship",
         "text": "That's_a_decent_ship_you_have_there.",
-        "translation": "你这船看上去挺像样的。"
+        "old_translation": "你这艘船还算不错。",
+        "translation": "你这艘船还算不错。"
     },
     {
+        "id": "qstr_Your_ship_the_{s7}_i",
         "text": "Your_ship,_the_{s7},_is_marvellous._My_workers_could_apply_some_fresh_varnish_and_paint_if_you_like.",
-        "translation": "你的船，{s7}真是非同一般。我的工人们可以为你上漆涂色，如果你愿意的话。"
+        "old_translation": "你的船，{s7}，真是非凡。若你愿意，我的工人可以给它重新上漆。",
+        "translation": "你的船，{s7}，真是非凡。若你愿意，我的工人可以给它重新上漆。"
     },
     {
+        "id": "qstr_The_{s7}_is_a_wonder",
         "text": "The_{s7}_is_a_wonderful_ship._I'm_happy_to_see_her_in_my_port.",
-        "translation": "{s7}是艘好船，我很高兴这船能在我港口里停泊。"
+        "old_translation": "{s7}是艘好船，我很高兴它停泊在我的港口。",
+        "translation": "{s7}是艘好船，我很高兴它停泊在我的港口。"
     },
     {
+        "id": "qstr_{s2}_{s3}",
         "text": "{s2}_{s3}",
+        "old_translation": "{s2}{s3}",
         "translation": "{s2}{s3}"
     },
     {
+        "id": "qstr_You_are_already_in_{",
         "text": "You_are_already_in_{s1}.",
+        "old_translation": "你已经在{s1}了。",
         "translation": "你已经在{s1}了。"
     },
     {
+        "id": "qstr__and_your_troops",
         "text": "_and_your_troops",
+        "old_translation": "还有你的部队",
         "translation": "还有你的部队"
     },
     {
+        "id": "qstr_There_is_a_ship_that",
         "text": "There_is_a_ship_that_can_bring_you{s3}_to_the_port_of_{s1}_for_{reg1}_peningas.",
-        "translation": "有一艘船可以把你从{s3}带到{s1}的港口，花费{reg1}先令。"
+        "old_translation": "有一艘船可载你从{s3}前往{s1}港，费用{reg1}银便士。",
+        "translation": "有一艘船可载你从{s3}前往{s1}港，费用{reg1}银便士。"
     },
     {
+        "id": "qstr_I_changed_my_mind.",
         "text": "I_changed_my_mind.",
-        "translation": "我改变主意了。"
+        "old_translation": "我改主意了。",
+        "translation": "我改主意了。"
     },
     {
+        "id": "qstr_For_a_ship_of_this_s",
         "text": "For_a_ship_of_this_size,_I_don't_have_enough_timber,_tar_and_wool,_so_I_need_you_to_bring_these_extra_items._",
-        "translation": "我可没有足够的木料，柏油和羊毛来弄这种大小的船，所以我需要你把这些东西都带过来。"
+        "old_translation": "这种尺寸的船，我手头木料、柏油和羊毛都不够，你得额外带来这些物资。",
+        "translation": "这种尺寸的船，我手头木料、柏油和羊毛都不够，你得额外带来这些物资。"
     },
     {
+        "id": "qstr___He_indicates_the_f",
         "text": "--He_indicates_the_far_side_of_the_bay_with_his_arm.--",
-        "translation": "——他的手指向海湾的另一边。——"
+        "old_translation": "——他抬臂指向海湾对岸。——",
+        "translation": "——他抬臂指向海湾对岸。——"
     },
     {
+        "id": "qstr_Now_you_must_join_th",
         "text": "Now_you_must_join_the_fleet_led_by_Sven_Bull_Neck_and_Harald_Haraldsson,_which_soon_leaves_Ribe_for_Englaland._Your_destiny_once_again_leads_you_to_other_lands.",
-        "translation": "现在你必须加入牛颈斯温和哈罗德·哈罗德逊带领的舰队，他们很快就要离开里伯了。你的使命将带领你到另一片土地上。"
+        "old_translation": "现在你必须加入“牛颈”斯温与哈拉尔·哈拉尔松率领的舰队，他们即将从里伯启航前往英格兰。命运再次引你前往他乡。",
+        "translation": "现在你必须加入“牛颈”斯温与哈拉尔·哈拉尔松率领的舰队，他们即将从里伯启航前往英格兰。命运再次引你前往他乡。"
     },
     {
+        "id": "qstr___His_eyes_shine.__",
         "text": "--His_eyes_shine.--",
-        "translation": "——他两眼放光。——"
+        "old_translation": "——他双眼放光。——",
+        "translation": "——他双眼放光。——"
     },
     {
+        "id": "qstr_The_port_master_of_R",
         "text": "The_port_master_of_Ribe_gave_you_the_location_of_Sven's_hideout:_southeast_of_{s3}._Go_there_to_rescue_the_Woden_Ric_prisoners.",
-        "translation": "里伯的港口主管告诉你斯温的藏身之处：{s3}的东南方。去那里救出沃登里克号的俘虏。"
+        "old_translation": "里伯的港口主管告诉你斯温的藏身处：{s3}东南。去那里救出沃登里克号的俘虏。",
+        "translation": "里伯的港口主管告诉你斯温的藏身处：{s3}东南。去那里救出沃登里克号的俘虏。"
     },
     {
+        "id": "qstr___He_approaches_you_",
         "text": "--He_approaches_you_until_you_can_smell_the_cheap_beer_on_his_breath.--",
-        "translation": "——他靠近你，你都能闻到他口里廉价啤酒的气味。——"
+        "old_translation": "——他凑近，你都能闻到他呼吸里的廉价啤酒味。——",
+        "translation": "——他凑近，你都能闻到他呼吸里的廉价啤酒味。——"
     },
     {
+        "id": "qstr___He_looks_with_a_pe",
         "text": "--He_looks_with_a_perverse_look.--",
-        "translation": "——他看起来有点反常。——"
+        "old_translation": "——他露出诡异的目光。——",
+        "translation": "——他露出诡异的目光。——"
     },
     {
+        "id": "qstr_The_port_master_of_Ri",
         "text": "The_port_master_of_Ribe_wants_a_book_called_'The_Cathach_of_Colum_Cille,'_which_is_in_Gleann_Da_Loch,_a_monastery_near_{s3},_in_Eriu,_Hibernia.",
-        "translation": "里伯的港口主管想要一本叫做“科伦希尔之经”的书，那书在格伦达洛谷，{s3}附近的修道院，那是在爱尔兰的海伯利亚。"
+        "old_translation": "里伯的港口主管想要一本名为《圣科伦巴护战书》的经书，它藏在爱尔兰的格伦达洛修道院，就在{s3}附近。",
+        "translation": "里伯的港口主管想要一本名为《圣科伦巴护战书》的经书，它藏在爱尔兰{s3}附近的格伦达洛修道院。"
     },
     {
+        "id": "qstr_The_port_master_from",
         "text": "The_port_master_from_Ribe_gave_you_the_location_of_Sven's_hideout:_southeast_of_{s3}._Go_there_to_rescue_the_Woden_Ric_prisoners.",
-        "translation": "里伯的港口主管告诉你斯温的藏身之处：{s3}的东北方。去那里救出沃登里克号的俘虏。"
+        "old_translation": "里伯的港口主管告诉你斯温的藏身处：{s3}东南。去那里救出沃登里克号的俘虏。",
+        "translation": "里伯的港口主管告诉你斯温的藏身处：{s3}东南。去那里救出沃登里克号的俘虏。"
     },
     {
+        "id": "qstr___He_gives_you_a_str",
         "text": "--He_gives_you_a_strange_look.--",
-        "translation": "——他奇怪地瞥了你一眼。——"
+        "old_translation": "——他奇怪地看了你一眼。——",
+        "translation": "——他奇怪地看了你一眼。——"
     },
     {
+        "id": "qstr_The_port_master_of_{",
         "text": "The_port_master_of_{s4}_wants_you_to_deliver_a_pack_of_furs_to_{s3}_in_Eriu,_to_the_local_merchant,_called_Hogni.",
-        "translation": "{s4}的港口主管想要你把一批皮毛带到爱尔兰的{s3}，给当地的一个叫霍格尼的商人。"
+        "old_translation": "{s4}的港口主管要你带一批皮毛到爱尔兰的{s3}，交给当地商人霍格尼。",
+        "translation": "{s4}的港口主管要你带一批皮毛到爱尔兰的{s3}，交给本地商人霍格尼。"
     },
     {
+        "id": "qstr_The_port_master_from_",
         "text": "The_port_master_from_{s4}_gave_you_the_location_of_Odin's_cave:_near_{s3}._Go_there_to_recover_Bodo's_letter.",
-        "translation": "{s4}的港口主管告诉你阿提利的秘密洞穴的位置：{s3}附近。去那里找到博多的信。"
+        "old_translation": "{s4}的港口主管告诉你奥丁之穴的位置：就在{s3}附近。去那里取回博多的信。",
+        "translation": "{s4}的港口主管告诉你奥丁之穴的位置：就在{s3}附近。去那里取回博多的信。"
     },
     {
+        "id": "qstr_The_port_master_from_R",
         "text": "The_port_master_from_Ribe_gave_you_the_location_of_Odin's_cave:_near_{s3}._Go_there_to_recover_Bodo's_letter.",
-        "translation": "{s4}的港口主管告诉你阿提利的秘密洞穴的位置：{s3}附近。去那里找到博多的信。"
+        "old_translation": "里伯的港口主管告诉你奥丁之穴的位置：就在{s3}附近。去那里取回博多的信。",
+        "translation": "里伯的港口主管告诉你奥丁之穴的位置：就在{s3}附近。去那里取回博多的信。"
     },
     {
+        "id": "qstr_Embark_on_your_boat_",
         "text": "Embark_on_your_boat,_join_the_fleet,_and_lead_it_to_Douar-an-Enez.",
-        "translation": "登上你的船并加入舰队去当纳莱斯。"
+        "old_translation": "登上你的船，加入舰队，并率领它前往杜瓦讷内。",
+        "translation": "登上你的船，加入舰队，并率领它前往杜瓦讷内。"
     },
     {
+        "id": "qstr_Perhaps_there_is_a_l",
         "text": "Perhaps_there_is_a_little_time_left_until_the_end_of_the_world._(Phlegmatic)",
-        "translation": "或许世界末日很快就到了。（冷静）"
+        "old_translation": "也许离世界末日还有一点点时间。（冷静）",
+        "translation": "也许离世界末日还有一点点时间。（冷静）"
     },
     {
+        "id": "qstr_You_re_right!_The_co",
         "text": "You're_right!_The_coming_of_the_Vikings_shows_that_it's_truly_the_End!_(Melancholic)",
-        "translation": "你说得对！维京人来了，一切都要结束了！（谨慎）"
+        "old_translation": "你说得对！维京人的到来正说明末日已至！（忧郁）",
+        "translation": "你说得对！维京人的到来正说明末日已至！（忧郁）"
     },
     {
+        "id": "qstr_The_Bible_also_says_",
         "text": "The_Bible_also_says_that_a_king_will_unite_all_the_earth._I_am_that_king._(Choleric)",
-        "translation": "圣经上也说一个国王会统一全世界，而我就是那个国王。（易怒）"
+        "old_translation": "圣经也说过，将有一位君王统御大地。那人就是我。（暴躁）",
+        "translation": "圣经也说过，将有一位君王统御大地。那人就是我。（暴躁）"
     },
     {
+        "id": "qstr_A_change_in_the_worl",
         "text": "A_change_in_the_world_just_makes_more_opportunity_for_the_bold,_that's_all._(Sanguine)",
-        "translation": "世界的变动将为勇敢者提供更多机会，就是这样。（嗜血）"
+        "old_translation": "世界变动，不过是给勇者更多机会罢了。（热血）",
+        "translation": "世界变动，不过是给勇者更多机会罢了。（热血）"
     },
     {
+        "id": "qstr_I_appreciate_your_re",
         "text": "I_appreciate_your_reassuring_words,_but_I'm_afraid_that_the_end_of_the_world_has_already_been_set,_and_nothing_that_we_do_or_say_will_alter_it._All_we_can_do_is_wait_and_fight_until_the_armies_of_God_come.",
-        "translation": "你说的这话让我放心，但我相信世界的毁灭已成定局，我们之后什么都说不了做不了。我们能做的也只有等待和战斗，直到神的军队的到来。"
+        "old_translation": "我感激你的安慰，但恐怕世界终结早已注定，我们说什么做什么都无法改变。只能等待并战斗，直到上帝的军队降临。",
+        "translation": "我感激你的安慰，但恐怕世界终结早已注定，我们说什么做什么都无法改变。只能等待并战斗，直到上帝的军队降临。"
     },
     {
+        "id": "qstr_Exactly!_West_Seaxe_",
         "text": "Exactly!_West_Seaxe_is_the_last_bastion_of_the_faithful,_but_it_will_succumb_to_the_hordes_despite_all_its_efforts._We're_all_going_to_die!_Leave_me_alone,_I_do_not_want_to_talk_any_more.",
-        "translation": "就是这个意思。西撒克逊是信徒们的最后堡垒，但它将被迫屈服于那帮人，我们都会死！让我一个人待着，我不想再说了。"
+        "old_translation": "正是如此！西撒克逊是信徒最后的堡垒，却仍会被蛮族攻陷。我们都会死！别管我，我不想再谈。",
+        "translation": "正是如此！西撒克逊是信徒最后的堡垒，却仍会被蛮族攻陷。我们都会死！别管我，我不想再谈。"
     },
     {
+        "id": "qstr_Your_self_confidence",
         "text": "Your_self-confidence_comforts_me,_but_I_must_inform_you_that_the_king_will_be_defeated_by_the_army_of_evil._Only_the_arrival_of_the_army_of_God_will_save_the_world._However,_if_you_ever_become_the_king,_it_will_be_a_pleasure_to_fight_and_die_beside_you.",
-        "translation": "你的自信安慰了我，但我必须告诉你国王会被邪恶大军打败，只有神的军队的到来才能拯救世界。然而，如果你成为国王，我会很乐意与你并肩作战战死沙场。"
+        "old_translation": "你的自信让我安心，但我必须告诉你，国王终将被邪恶大军击败，唯有上帝的军队才能拯救世界。不过，若你成为国王，我会欣然与你并肩赴死。",
+        "translation": "你的自信让我安心，但我必须告诉你，国王终将被邪恶大军击败，唯有上帝的军队才能拯救世界。不过，若你成为国王，我会欣然与你并肩赴死。"
     },
     {
+        "id": "qstr_I_m_surprised_that_y",
         "text": "I'm_surprised_that_you_can_see_any_benefit_in_the_misfortunes_of_others._You're_definitely_more_ruthless_than_I_had_thought.",
-        "translation": "你很惊讶你能从其他人的不幸中看到能够获利的地方，你比我想象的还要残忍。"
+        "old_translation": "你竟能从他人不幸中看出好处，实在比我所想的更冷酷。",
+        "translation": "你竟能从他人不幸中看出好处，实在比我所想的更冷酷。"
     },
     {
+        "id": "qstr_You_need_to_rid_your",
         "text": "You_need_to_rid_yourself_of_arrogance._(Phlegmatic)",
-        "translation": "你需要摆脱自大的缺点。（冷静）"
+        "old_translation": "你该放下傲慢。（冷静）",
+        "translation": "你该放下傲慢。（冷静）"
     },
     {
+        "id": "qstr_I_am_always_willing_",
         "text": "I_am_always_willing_to_learn._Thanks,_Egil._(Melancholic)",
-        "translation": "我一直都乐意学习，谢谢你，埃吉尔。（谨慎）"
+        "old_translation": "我一直乐于学习。谢谢你，埃吉尔。（忧郁）",
+        "translation": "我一直乐于学习。谢谢你，埃吉尔。（忧郁）"
     },
     {
+        "id": "qstr_I_think_it_s_clear_t",
         "text": "I_think_it's_clear_that_Fate_is_more_favorable_to_me_than_to_you._(Choleric)",
-        "translation": "与你相比，命运女神更加喜欢我。（易怒）"
+        "old_translation": "显然，命运女神更眷顾我，而非你。（暴躁）",
+        "translation": "显然，命运女神更眷顾我，而非你。（暴躁）"
     },
     {
+        "id": "qstr_Silence!_You_shall_n",
         "text": "Silence!_You_shall_not_disrespect_my_authority!_(Sanguine)",
-        "translation": "闭嘴！你不能如此羞辱我的威严！（嗜血）"
+        "old_translation": "闭嘴！休得辱我威严！（热血）",
+        "translation": "闭嘴！休得辱我威严！（热血）"
     },
     {
+        "id": "qstr_Yes_I_pretended_to_b",
         "text": "Yes,_I_pretended_to_be_modest._Well,_it's_something_that_comes_naturally_to_me,_but_arrogance_is_good_for_a_leader._You_should_learn_to_be_a_bit_arrogant_when_needed_--_that_is_part_of_my_advice_--_and_men_should_see_your_confidence._Your_orders_must_be_sharp,_and_anyone_who_does_not_follow_them_has_to_be_punished._This_is_what_I_value_in_a_leader,_and_I'm_glad_you_listened._But_enough_talking.",
-        "translation": "是的，我也想保持中立。好吧，有些事自然而然就发生在我身上了，但傲慢是好领袖所拥有的品质。你也需要学会变地傲慢点——这也是我的建议——能让你的人看到你的自信。你必须一言九鼎，不听从命令的人就要受到惩罚。这就是领袖的价值，我也很高兴你能听进去。就说这么多了。"
+        "old_translation": "没错，我假装谦逊。其实谦逊于我自然而然，但领袖需要傲慢。你也该学会适时傲慢——这是我的忠告——让部下看见你的自信。命令必须斩钉截铁，违令者必受罚。这就是我看重的领袖品质，很高兴你听了进去。话就到此。",
+        "translation": "没错，我假装谦逊。其实谦逊于我自然而然，但领袖需要傲慢。你也该学会适时傲慢——这是我的忠告——让部下看见你的自信。命令必须斩钉截铁，违令者必受罚。这就是我看重的领袖品质，很高兴你听了进去。话就到此。"
     },
     {
+        "id": "qstr_I_understand._Someon",
         "text": "I_understand._Someone_like_you_does_not_have_my_experience_and_my_knowledge._It_is_important_that_you_try_to_learn_from_me,_{playername}._Try_to_be_like_me,_someone_whom_people_admire_and_respect._I_would_also_suggest_that_you_be_the_first_into_battle,_setting_an_example_for_your_men,_and_share_silver_with_your_men_without_greed._Those_are_my_tips._Now_I_have_things_to_do.",
-        "translation": "我懂，像你这样的人没有我的经验和知识。能从我这里学东西对你来说很重要，{playername}。要像我一样成为受尊敬的对象。我也建议你在战场冲锋陷阵，给你的人做个表率，也能和你的人在没有冲突的情况下分享战利品。这就是我的提醒了。现在我们做些该做的吧。"
+        "old_translation": "我懂，像你这样的人没有我的阅历与学识。{playername}，你得向我学习，努力成为受人敬仰的人。我还建议你冲锋在前，为部下立榜样，并不吝与他们分享银钱。这些是我的忠告。我还有事要办。",
+        "translation": "我懂，像你这样的人没有我的阅历与学识。{playername}，你得向我学习，努力成为受人敬仰的人。我还建议你冲锋在前，为部下立榜样，并不吝与他们分享银钱。这些是我的忠告。我还有事要办。"
     },
     {
+        "id": "qstr_Your_men_see_the_way",
         "text": "Your_men_see_the_way_Egil_treats_you,_and_you_lose_authority.",
-        "translation": "你的人看到埃吉尔如何对待你，让你失去了一些威严。"
+        "old_translation": "你的部下看见埃吉尔如何待你，你的威信便受损。",
+        "translation": "你的部下看见埃吉尔如何待你，你的威信便受损。"
     },
     {
+        "id": "qstr_And_people_say_that_",
         "text": "And_people_say_that_I'm_arrogant!_But_what_can_I_say?_Well,_I_like_it._That's_what_I_value_most_in_a_leader:_his_ability_to_demonstrate_self-confidence_and_to_convince_others_with_his_charisma._You're_right._I_have_nothing_to_teach_you.",
-        "translation": "人们说我是傲慢的人，那我还有什么话可说？好吧，我喜欢这样。我认为领袖最有价值的东西是：能够展现自信的能力，以及吸引人的魅力。你说得对，我也没什么教你的了。"
+        "old_translation": "人们还说我傲慢！我还能说什么？我就喜欢这样。我最看重领袖的，正是那份自信与魅力。你说得对，我已无物可教。",
+        "translation": "人们还说我傲慢！我还能说什么？我就喜欢这样。我最看重领袖的，正是那份自信与魅力。你说得对，我已无物可教。"
     },
     {
+        "id": "qstr_I_only_pretended_to_",
         "text": "I_only_pretended_to_give_advice,_but_it_is_clear_you_do_not_wish_to_listen._Well,_you_gave_an_order,_demonstrating_your_authority,_but_that_doesn't_mean_you're_a_good_leader._I'll_comply,_shut_up_and_return_to_my_chores.",
-        "translation": "我也只想给你一些建议，虽然说你看起来也不大乐意听。好的，你下个命令，来展示你的威严，但这并不意味着你是个优秀的领袖。我会遵守，闭嘴并回到自己的工作。"
+        "old_translation": "我只是假装给了点建议，可你显然不想听。好吧，你下令了，摆出了威风，但这不代表你就是好领袖。我会照办，闭嘴，回去干活。",
+        "translation": "我只是假装给了点建议，可你显然不想听。好吧，你下令了，摆出了威风，但这不代表你就是好领袖。我会照办，闭嘴，回去干活。"
     },
     {
+        "id": "qstr_I_am_just_a_poor_far",
         "text": "I_am_just_a_poor_farmer_here._Talk_to_the_farmstead_reeve_over_there.",
-        "translation": "我只是这里的一个贫农，去找那边的农场主管吧。"
+        "old_translation": "我只是个穷苦农民。去找那边的农庄总管谈吧。",
+        "translation": "我只是个穷苦农民。去找那边的农庄总管谈吧。"
     },
     {
+        "id": "qstr_I_just_work_the_fiel",
         "text": "I_just_work_the_fields_here._Talk_to_the_farmstead_reeve_over_there.",
-        "translation": "我只是在这里工作的，去找那边的农场主管吧。"
+        "old_translation": "我只在这儿种地。去找那边的农庄总管谈吧。",
+        "translation": "我只在这儿种地。去找那边的农庄总管谈吧。"
     },
     {
+        "id": "qstr_Stranger_go_talk_to_",
         "text": "Stranger,_go_talk_to_the_farmstead_reeve_over_there_if_you_want_to_do_business_here.",
-        "translation": "陌生人，如果你有生意要谈，去找那边的农场主管吧。"
+        "old_translation": "陌生人，想在这儿做买卖，就去找那边的农庄总管。",
+        "translation": "陌生人，想在这儿做买卖，就去找那边的农庄总管。"
     },
     {
+        "id": "qstr__Relation:_{reg0}",
         "text": "_Relation:_{reg0}",
+        "old_translation": "关系：{reg0}",
         "translation": "关系：{reg0}"
     },
     {
+        "id": "qstr_{s12}I_want_to_plund",
         "text": "{s12}I_want_to_plunder_and_retain_{s1}_for_myself._{s2}",
-        "translation": "{s12}我想掠夺和保留{s1}给我{s2}"
+        "old_translation": "{s12}我想把{s1}抢来留给自己。{s2}",
+        "translation": "{s12}我想把{s1}抢来留给自己。{s2}"
     },
     {
+        "id": "qstr__no_fiefs_",
         "text": "(no_fiefs)",
+        "old_translation": "（没有封地）",
         "translation": "（没有封地）"
     },
     {
+        "id": "qstr__fiefs:_{s0}_",
         "text": "(fiefs:_{s0})",
+        "old_translation": "（封地：{s0}）",
         "translation": "（封地：{s0}）"
     },
     {
+        "id": "qstr___The_child_looks_at",
         "text": "--The_child_looks_at_you_with_funny_eyes_and_laughs.--",
-        "translation": "——孩子饶有兴趣地看着你，笑起来了——"
+        "old_translation": "——孩子用古怪的眼神看着你，笑了起来——",
+        "translation": "——孩子用古怪的眼神看着你，笑了起来——"
     },
     {
+        "id": "qstr_My_mother_told_me_no",
         "text": "My_mother_told_me_not_to_talk_to_strangers._Bye!",
-        "translation": "我妈妈告诉我不要和陌生人说话，再见。"
+        "old_translation": "妈妈叫我别跟陌生人说话。再见！",
+        "translation": "妈妈叫我别跟陌生人说话。再见！"
     },
     {
+        "id": "qstr_Running_is_fun!_I_ca",
         "text": "Running_is_fun!_I_can_run_faster_than_you_can!_Do_you_want_to_race_me?",
-        "translation": "跑步很有趣！我跑得比你快！你想看看吗？"
+        "old_translation": "跑步真好玩！我比你跑得快！要不要比一比？",
+        "translation": "跑步真好玩！我比你跑得快！要不要比一比？"
     },
     {
+        "id": "qstr_We_are_landless_poor",
         "text": "We_are_landless,_poor_and_persecuted._Life_has_led_us_to_this,_{reg59?girlie:mate}._No_sudden_moves_or_we'll_run_you_through.",
-        "translation": "我们没有土地，贫穷又饱受迫害。生活所迫，{reg59?小妞:伙计}。请别轻举妄动，我们马上离开。"
+        "old_translation": "我们无地、贫穷、受迫害。生活逼我们如此，{reg59?姑娘:伙计}。别乱动，不然就捅了你。",
+        "translation": "我们无地、贫穷、受迫害。生活逼我们如此，{reg59?姑娘:伙计}。别乱动，不然就捅了你。"
     },
     {
+        "id": "qstr_Luckily_for_you_you_",
         "text": "Luckily_for_you,_you_caught_me_in_a_good_mood._Give_us_all_your_coin_and_I_might_just_let_you_live.",
-        "translation": "你很走运，我现在心情不错。把所有钱交出来，我或许可以让你活下去。"
+        "old_translation": "算你走运，我今天心情好。把钱全交出来，我或许留你一条命。",
+        "translation": "算你走运，我今天心情好。把钱全交出来，我或许留你一条命。"
     },
     {
+        "id": "qstr_This_a_robbery_eh?_I",
         "text": "This_a_robbery,_eh?_I'm_givin'_you_one_chance_to_hand_over_everythin'_you_got,_or_me_and_my_mates'll_kill_you._Understand?",
-        "translation": "这是一次抢劫，明白不？我给你一个机会交出你所有的东西，否则我和我的兄弟们将杀了你，明白不？"
+        "old_translation": "这是抢劫，懂吗？给你一次机会，把身上所有东西交出来，不然我和兄弟们就宰了你。明白？",
+        "translation": "这是抢劫，懂吗？给你一次机会，把身上所有东西交出来，不然我和兄弟们就宰了你。明白？"
     },
     {
+        "id": "qstr_big",
         "text": "big",
+        "old_translation": "大",
         "translation": "大"
     },
     {
+        "id": "qstr_medium_sized",
         "text": "medium_sized",
+        "old_translation": "中等",
         "translation": "中等"
     },
     {
+        "id": "qstr_small",
         "text": "small",
+        "old_translation": "小",
         "translation": "小"
     },
     {
+        "id": "qstr_don_t_",
         "text": "don't_",
+        "old_translation": "不要",
         "translation": "不要"
     },
     {
+        "id": "qstr_Note_4:_{s9}_has_sen",
         "text": "Note_4:_{s9}_has_sent_men_to_kill_you._They_ambushed_you_by_the_river,_and_although_you_have_survived_their_attack,_you_sleep_less_calmly_now.",
-        "translation": "笔记4：{s9}派人来杀你了。他们就在河边埋伏着，虽然你活下来了，但你从此难以安寝。"
+        "old_translation": "笔记4：{s9}派人来杀你。他们在河边埋伏，虽然你活了下来，如今却再难安睡。",
+        "translation": "笔记4：{s9}派人来杀你。他们在河边埋伏，虽然你活了下来，如今却再难安睡。"
     },
     {
+        "id": "qstr___A_large_group_of_S",
         "text": "--A_large_group_of_Saxons_gets_in_your_way._Their_leader_steps_forward_and_raises_a_hand.--",
-        "translation": "——一大批撒克逊人拦住了你的去路，他们的首领走出来并举手示意。——"
+        "old_translation": "——一大群撒克逊人挡住去路，他们的首领上前举手示意。——",
+        "translation": "——一大群撒克逊人挡住去路，他们的首领上前举手示意。——"
     },
     {
+        "id": "qstr_we_have_made_very_li",
         "text": "we_have_made_very_little_progress_so_far",
-        "translation": "到目前为止，我们基本没有什么进展"
+        "old_translation": "我们至今几乎毫无进展。",
+        "translation": "我们至今几乎毫无进展。"
     },
     {
+        "id": "qstr_we_have_succeeded_in",
         "text": "we_have_succeeded_in_gaining_some_ground,_but_we_still_have_a_long_way_to_go",
-        "translation": "我们成功占领了一些土地，但是我们还有很长的一段路要走"
+        "old_translation": "我们已夺得些许土地，但前路仍长。",
+        "translation": "我们已夺得些许土地，但前路仍长。"
     },
     {
+        "id": "qstr_we_have_become_a_sig",
         "text": "we_have_become_a_significant_force,_and_we_have_an_even_chance_of_victory",
-        "translation": "我们现在成了显赫一方的势力了，我们很有机会能赢得最终的胜利。"
+        "old_translation": "我们已成一方强权，胜负各半。",
+        "translation": "我们已成一方强权，胜负各半。"
     },
     {
+        "id": "qstr_we_are_winning_the_w",
         "text": "we_are_winning_the_war,_but_our_enemies_are_still_holding_on.",
-        "translation": "我们赢得了这场战争，但是我们的敌人还在顽强抵抗"
+        "old_translation": "我们正赢得战争，敌人却仍在顽抗。",
+        "translation": "我们正赢得战争，敌人却仍在顽抗。"
     },
     {
+        "id": "qstr_we_are_on_the_verge_",
         "text": "we_are_on_the_verge_of_victory._The_remaining_enemies_pose_no_threat,_but_we_still_need_to_hunt_them_down.",
-        "translation": "我们已经接近最终的胜利了。残余的敌人完全够不成威胁，但是我们仍然需要将他们赶尽杀绝。"
+        "old_translation": "胜利在望，残敌不足为患，但仍需斩草除根。",
+        "translation": "胜利在望，残敌不足为患，但仍需斩草除根。"
     },
     {
+        "id": "qstr_Warlord",
         "text": "Warlord",
+        "old_translation": "方伯",
         "translation": "军阀"
     },
     {
+        "id": "qstr_Note_5:_You_fell_in_",
         "text": "Note_5:_You_fell_in_love_with_Morrigan.",
-        "translation": "笔记5：你和莫莉卡相爱了。"
+        "old_translation": "笔记5：你与莫莉甘相恋。",
+        "translation": "笔记5：你与莫莉甘相恋。"
     },
     {
+        "id": "qstr_{s21}_seems_happy._{",
         "text": "{s21}_seems_happy._{s21}_looks_pleased.",
-        "translation": "{s21}看起来很高兴。{s21}看来挺开心。"
+        "old_translation": "{s21}似乎很高兴。{s21}看起来挺开心。",
+        "translation": "{s21}似乎很高兴。{s21}看起来挺开心。"
     },
     {
+        "id": "qstr___She_smiles.__",
         "text": "--She_smiles.--",
-        "translation": "——她微笑了——"
+        "old_translation": "——她微微一笑——",
+        "translation": "——她微微一笑——"
     },
     {
+        "id": "qstr___He_mutters_somethi",
         "text": "--He_mutters_something_under_his_breath_as_if_talking_to_someone_unseen.--",
-        "translation": "——他嘴里嘟囔着，好像在和看不到的人说话。——"
+        "old_translation": "——他低声嘟囔，仿佛与看不见的人交谈——",
+        "translation": "——他低声嘟囔，仿佛与看不见的人交谈——"
     },
     {
+        "id": "qstr___He_seems_very_nerv",
         "text": "--He_seems_very_nervous_and_scared.--",
-        "translation": "——他看起来非常紧张恐惧。——"
+        "old_translation": "——他显得极度紧张与恐惧——",
+        "translation": "——他显得极度紧张与恐惧——"
     },
     {
+        "id": "qstr_Please_calm_down._I_",
         "text": "Please_calm_down._I_am_not_your_enemy._Take_a_deep_breath_and_tell_me_about_my_mother._(Phlegmatic)",
-        "translation": "请冷静，我不是你的敌人。深呼吸一下，再告诉关于我母亲的事情。（冷静）"
+        "old_translation": "请冷静，我不是敌人。深呼吸，告诉我关于我母亲的事。（冷静）",
+        "translation": "请冷静，我不是敌人。深呼吸，告诉我关于我母亲的事。（冷静）"
     },
     {
+        "id": "qstr_You_re_making_me_wor",
         "text": "You're_making_me_worried..._very_worried..._Please_calm_down_and_tell_me_about_my_mother._(Melancholic)",
-        "translation": "你让我非常担心……请冷静下来，并告诉我关于我妈妈的事。（谨慎）"
+        "old_translation": "你让我忧心忡忡……请冷静，告诉我关于我母亲的事。（忧郁）",
+        "translation": "你让我忧心忡忡……请冷静，告诉我关于我母亲的事。（忧郁）"
     },
     {
+        "id": "qstr_Relax!_You_re_talkin",
         "text": "Relax!_You're_talking_to_a_friend,_and_I_can_protect_you_from_whoever_would_hurt_you._(Choleric)",
-        "translation": "别紧张，我没有恶意，而我将保护你免遭任何人的伤害。（易怒）"
+        "old_translation": "别慌！我是朋友，我会护你周全。（暴躁）",
+        "translation": "别慌！我是朋友，我会护你周全。（暴躁）"
     },
     {
+        "id": "qstr_Calm_down_and_tell_m",
         "text": "Calm_down_and_tell_me_about_my_mother!_Otherwise,_I_swear,_your_corpse_will_be_answering_my_questions._(Sanguine)",
-        "translation": "冷静下来，告诉我关于我母亲的事情！否则，我发誓，只有你的尸体会回答我的问题。（嗜血）"
+        "old_translation": "冷静！告诉我母亲的事！否则，你的尸体来答话！（热血）",
+        "translation": "冷静！告诉我母亲的事！否则，你的尸体来答话！（热血）"
     },
     {
+        "id": "qstr_Thank_you_for_being_",
         "text": "Thank_you_for_being_so_understanding._I've_had_a_hard_day_today._I'm_better_now._Listen,_I_have_important_things_to_say.",
-        "translation": "感谢你的理解。今天太糟糕了，我感觉好点了。听着，我有重要的事情要说。"
+        "old_translation": "多谢体谅。今日难熬，我已好些。听着，我有要事相告。",
+        "translation": "多谢体谅。今日难熬，我已好些。听着，我有要事相告。"
     },
     {
+        "id": "qstr_Please_please_do_not",
         "text": "Please,_please,_do_not_be_anxious!_When_Sven_was_anxious,_he_cut_off_the_fingers_of_those_who_bothered_him._Look,_I'm_better,_and_I'll_tell_you_important_things.",
-        "translation": "请别那么着急！斯温在焦急时，会把那些打扰他的人的手指全部砍下来。看，我现在好多了，我有重要的事情要说。"
+        "old_translation": "别紧张！斯温焦躁时，会剁掉打扰者的手指。看，我好了，我有要事说。",
+        "translation": "别紧张！斯温焦躁时，会剁掉打扰者的手指。看，我好了，我有要事说。"
     },
     {
+        "id": "qstr_Oh_well_yes_I_trust_",
         "text": "Oh,_well,_yes,_I_trust_you._She_told_me_to_trust_you._I'm_going_to_tell_you_everything.",
-        "translation": "哦，好，好的，我相信你。她告诉我要相信你。我告诉你所有事情。"
+        "old_translation": "哦，好，我信你。她让我信你。我全告诉你。",
+        "translation": "哦，好，我信你。她让我信你。我全告诉你。"
     },
     {
+        "id": "qstr_Oh_my_god..._Do_not_",
         "text": "Oh_my_god..._Do_not_kill_me!_Do_not_kill_me!_I'm_very_quiet._I'll_kiss_the_ground_you_walk_on._I_will_be_your_servant,_even_your_slave._I'll_tell_you_everything_I_know.",
-        "translation": "天啊……别杀我！别杀我！我冷静下来了，我会亲吻你走过的地方。我是你的仆人，奴仆，我什么事情都告诉你。"
+        "old_translation": "天啊……别杀我！别杀我！我安静了，我愿吻你足下的尘土。我愿为仆，为奴隶，把所知全告诉你。",
+        "translation": "天啊……别杀我！别杀我！我安静了，我愿吻你足下的尘土。我愿为仆，为奴隶，把所知全告诉你。"
     },
     {
+        "id": "qstr___He_seems_calmer.__",
         "text": "--He_seems_calmer.--",
-        "translation": "——他看起来冷静点了。——"
+        "old_translation": "——他看起来平静了些——",
+        "translation": "——他看起来平静了些——"
     },
     {
+        "id": "qstr_In_Boar_Grove_you_fo",
         "text": "In_Boar_Grove,_you_found_a_priest_named_Beda_who_had_been_a_slave_of_your_mother._He_was_freed_so_that_he_could_find_you_and_remind_you_about_your_mother's_love._You_finally_managed_to_get_news_about_your_mother._You_are_now_one_step_closer_to_finding_her.^^Finally,_you_are_ready_to_sail_to_Douar-an-Enez._Talk_to_the_old_captain_at_the_port._He_is_always_near_ships.",
-        "translation": "在野猪林，你找到了一个名叫贝达的牧师，他曾经是你母亲的仆人。他现在自由了，因此前来告诉你关于你母亲的事情。你终于能有关于妈妈的消息了，再进一步寻找你就能找到她了。在港口找老船长。他总是在船附近。"
+        "old_translation": "在野猪林，你找到了一位名叫贝达的牧师，他曾是你母亲的奴隶。他被释放，只为找到你，提醒你母亲的爱。你终于得到了母亲的消息，离找到她又近了一步。^^终于，你准备启航前往杜瓦讷内。去港口找老队长，他总在船边。",
+        "translation": "在野猪林，你找到了一位名叫贝达的牧师，他曾是你母亲的奴隶。他被释放，只为找到你，提醒你母亲的爱。你终于得到了母亲的消息，离找到她又近了一步。^^终于，你准备启航前往杜瓦讷内。去港口找老队长，他总在船边。"
     },
     {
+        "id": "qstr___He_smiles.__",
         "text": "--He_smiles.--",
-        "translation": "——他笑了起来。——"
+        "old_translation": "——他微笑。——",
+        "translation": "——他微笑。——"
     },
     {
+        "id": "qstr___He_closes_his_eyes",
         "text": "--He_closes_his_eyes_for_a_few_seconds,_as_if_searching_for_the_right_words.--",
-        "translation": "——他闭上他的双眼，似乎是在找恰当的语句。——"
+        "old_translation": "——他闭上眼几秒，像在寻找合适的词句。——",
+        "translation": "——他闭上眼几秒，像在寻找合适的词句。——"
     },
     {
+        "id": "qstr___He_takes_a_deep_br",
         "text": "--He_takes_a_deep_breath_and_then_responds_slowly,_calmly.--",
-        "translation": "——他深吸了一口气，缓慢并且平静。——"
+        "old_translation": "——他深吸一口气，缓缓而平静地回答。——",
+        "translation": "——他深吸一口气，缓缓而平静地回答。——"
     },
     {
+        "id": "qstr_Asbjorn_has_joined_y",
         "text": "Asbjorn_has_joined_your_party_to_make_sure_you_join_the_fleet._Besides_that,_he_has_offered_to_accompany_your_band_and_serve_as_a_physician._Now_it_is_time_to_get_the_port_master_of_{s3}_to_take_you_to_the_Viking_fleet_departing_for_Englaland.",
-        "translation": "阿斯比恩加入了你的部队，他是来保证你加入舰队的。除此之外，他还申请以医师的身份服务。现在是时候回到{s3}，告诉港口主管你准备好出发了。"
+        "old_translation": "阿斯比恩加入了你的队伍，确保你加入舰队。此外，他主动提出随行，担任医生。现在，该让{s3}的港口主管送你去驶往英格兰的维京舰队了。",
+        "translation": "阿斯比恩加入了你的队伍，确保你加入舰队。此外，他主动提出随行，担任医生。现在，该让{s3}的港口主管送你去驶往英格兰的维京舰队了。"
     },
     {
+        "id": "qstr___Bodo_seems_excited",
         "text": "--Bodo_seems_excited.--",
-        "translation": "——博多看起来很兴奋。——"
+        "old_translation": "——博多显得很兴奋。——",
+        "translation": "——博多显得很兴奋。——"
     },
     {
+        "id": "qstr___He_smiles_at_you._",
         "text": "--He_smiles_at_you.--",
-        "translation": "——他对你微笑。——"
+        "old_translation": "——他朝你微笑。——",
+        "translation": "——他朝你微笑。——"
     },
     {
+        "id": "qstr___He_takes_the_lette",
         "text": "--He_takes_the_letter_from_your_hands.--",
-        "translation": "——他从你手中拿过了信。——"
+        "old_translation": "——他从你手中接过信。——",
+        "translation": "——他从你手中接过信。——"
     },
     {
+        "id": "qstr___He_looks_up_from_t",
         "text": "--He_looks_up_from_the_page_and_turns_to_you.--",
-        "translation": "——看完之后他把信还给了你——"
+        "old_translation": "——他抬离信纸，转向你。——",
+        "translation": "——他抬离信纸，转向你。——"
     },
     {
+        "id": "qstr_Bodo_s_letter_has_fa",
         "text": "Bodo's_letter_has_fallen_into_your_hands,_and_you_have_decided_that_you'll_figure_out_what_to_do_with_it_once_you're_done_with_the_Assembly_and_current_problems._For_now,_you_will_tell_{s9}_that_the_letter_was_burned_in_the_attack_on_Odin's_cave,_to_assure_him_that_{s11}_cannot_use_it_against_him.",
-        "translation": "博多的信落到你手里了，而且你决定在解决了议事会的事情后，再做进一步的打算。现在，你要告诉{s9}说信在与阿提利的战斗中被烧掉了，并保证{s11}不会用这个来对付他。"
+        "old_translation": "博多的信落入你手，你决定先解决集结地和眼前的问题，再处理它。眼下，你会告诉{s9}，信在奥丁之穴遇袭时被烧毁，确保{s11}无法用它对付他。",
+        "translation": "博多的信落入你手，你决定先解决集结地和眼前的问题，再处理它。眼下，你会告诉{s9}，信在奥丁之穴遇袭时被烧毁，确保{s11}无法用它对付他。"
     },
     {
+        "id": "qstr_Brunhild_thinks_that",
         "text": "Brunhild_thinks_that_you_are_a_weak_leader.",
+        "old_translation": "伯伦希尔认为你是个软弱的领袖。",
         "translation": "伯伦希尔认为你是个软弱的领袖。"
     },
     {
+        "id": "qstr_Reginhard_thinks_tha",
         "text": "Reginhard_thinks_that_you_are_a_weak_leader.",
+        "old_translation": "雷因哈德认为你是个软弱的领袖。",
         "translation": "雷因哈德认为你是个软弱的领袖。"
     },
     {
+        "id": "qstr_Bodo_thinks_that_you",
         "text": "Bodo_thinks_that_you_are_a_weak_leader.",
+        "old_translation": "博多认为你是个软弱的领袖。",
         "translation": "博多认为你是个软弱的领袖。"
     },
     {
+        "id": "qstr_Brunhild_has_advised",
         "text": "Brunhild_has_advised_that_you_go_first_to_an_enemy_of_{s9},_{s11},_for_support_before_you_place_yourself_in_the_hands_of_the_son_of_Ragnar.",
-        "translation": "伯伦希尔建议你先找到{s9}的敌人，{s11}，以在当你将自己交给拉格纳之子之前获得支持。"
+        "old_translation": "伯伦希尔建议你先去找{s9}的敌人{s11}寻求支持，再把自己交到拉格纳之子手中。",
+        "translation": "伯伦希尔建议你先去找{s9}的敌人{s11}寻求支持，再把自己交到拉格纳之子手中。"
     },
     {
+        "id": "qstr_I_m_not_sure_I_want_",
         "text": "I'm_not_sure_I_want_to_hear_what_you_are_going_to_say._(Phlegmatic)",
-        "translation": "我不认为自己想听你的意见。（冷静）"
+        "old_translation": "我不想听你接下来要说的话。（冷静）",
+        "translation": "我不想听你接下来要说的话。（冷静）"
     },
     {
+        "id": "qstr_You_are_worrying_me_",
         "text": "You_are_worrying_me,_Bodo._What_do_you_have_to_say?_Out_with_it_already!_(Melancholic)",
-        "translation": "你在让我担心，博多。你想说什么赶紧说！（谨慎）"
+        "old_translation": "你让我担心，博多。有什么就快说！（忧郁）",
+        "translation": "你让我担心，博多。有什么就快说！（忧郁）"
     },
     {
+        "id": "qstr_I_m_very_calm..._Tru",
         "text": "I'm_very_calm..._Trust_me,_you_wouldn't_like_to_see_me_nervous._I_have_little_patience._Speak,_or_I'll_beat_you_up._(Choleric)",
-        "translation": "我很冷静…相信我——你不会想看见我焦急的样子。我耐性有限，说吧，否则我就揍你。（易怒）"
+        "old_translation": "我很冷静……相信我，你不会想看到我焦躁。我耐性有限，开口，否则我揍你。（暴躁）",
+        "translation": "我很冷静……相信我，你不会想看到我焦躁。我耐性有限，开口，否则我揍你。（暴躁）"
     },
     {
+        "id": "qstr_Whatever_you_have_to",
         "text": "Whatever_you_have_to_say,_say_it._I_prepared_myself_for_this_moment_a_long_time_ago._(Sanguine)",
-        "translation": "你想说什么就说吧，我已经在很久之前就做好准备了。（嗜血）"
+        "old_translation": "不管你要说什么，尽管说。我早已为此刻做好准备。（热血）",
+        "translation": "不管你要说什么，尽管说。我早已为此刻做好准备。（热血）"
     },
     {
+        "id": "qstr_I_understand_my_frie",
         "text": "I_understand,_my_friend,_but_you_must_know..._everything.",
-        "translation": "我懂，朋友，但你也得知道……所有事情。"
+        "old_translation": "我明白，朋友，但你必须知道……一切。",
+        "translation": "我明白，朋友，但你必须知道……一切。"
     },
     {
+        "id": "qstr_Stay_calm_please._I_",
         "text": "Stay_calm,_please._I'll_tell_you_everything.",
-        "translation": "保持冷静，拜托了。我会告诉你所有事情。"
+        "old_translation": "请冷静。我会告诉你一切。",
+        "translation": "请冷静。我会告诉你一切。"
     },
     {
+        "id": "qstr_No_need_to_be_aggres",
         "text": "No_need_to_be_aggressive._You_know_my_loyalty_to_my_friends_is_unquestionable._Now,_open_your_ears.",
-        "translation": "别那么冲动。你知道我对朋友的忠诚。现在，听清楚了。"
+        "old_translation": "别这么咄咄逼人。你知道我对朋友的忠诚不容置疑。现在，竖起耳朵听好了。",
+        "translation": "别这么咄咄逼人。你知道我对朋友的忠诚不容置疑。现在，竖起耳朵听好了。"
     },
     {
+        "id": "qstr_I_admire_your_strong",
         "text": "I_admire_your_strong_blood._I'll_tell_you_everything.",
-        "translation": "我佩服你的坚强，那我就说了。"
+        "old_translation": "我佩服你血脉里的坚韧。我会把一切都告诉你。",
+        "translation": "我佩服你血脉里的坚韧。我会把一切都告诉你。"
     },
     {
+        "id": "qstr___He_puts_his_hand_o",
         "text": "--He_puts_his_hand_on_your_shoulder_and_smiles_sadly.--",
-        "translation": "——他把手放在你的肩膀并很悲伤地笑着。——"
+        "old_translation": "——他把手搭在你肩上，露出悲伤的微笑。——",
+        "translation": "——他把手搭在你肩上，露出悲伤的微笑。——"
     },
     {
+        "id": "qstr___He_sighs_impatient",
         "text": "--He_sighs_impatiently.--",
-        "translation": "——他看起来有点不耐烦。——"
+        "old_translation": "——他不耐烦地叹了口气。——",
+        "translation": "——他不耐烦地叹了口气。——"
     },
     {
+        "id": "qstr___He_steps_back_take",
         "text": "--He_steps_back,_takes_a_deep_breath,_and_looks_you_in_the_eyes.--",
-        "translation": "——他退后一步，作了个深呼吸，并看着你的眼睛——"
+        "old_translation": "——他后退一步，深吸一口气，直视你的眼睛。——",
+        "translation": "——他后退一步，深吸一口气，直视你的眼睛。——"
     },
     {
+        "id": "qstr_Sven_wanted_you_but_",
         "text": "Sven_wanted_you,_but_how_did_he_know_where_to_find_you?_Who_betrayed_us?_(Wisdom)",
-        "translation": "斯温想抓你，但他怎么知道在哪里找你？谁背叛了我们？（聪慧）"
+        "old_translation": "斯温想抓你，可他怎么知道去哪儿找你？是谁出卖了我们？（聪慧）",
+        "translation": "斯温想抓你，可他怎么知道去哪儿找你？是谁出卖了我们？（聪慧）"
     },
     {
+        "id": "qstr_Your_redemption_and_",
         "text": "Your_redemption_and_my_goal_are_coincident._(Fortitude)",
-        "translation": "你的复仇和我的目标是一致的。（坚强）"
+        "old_translation": "你的救赎与我的目标恰好重合。（坚强）",
+        "translation": "你的救赎与我的目标恰好重合。（坚强）"
     },
     {
+        "id": "qstr_I_understand_that_wh",
         "text": "I_understand_that_what_happened_was_caused_by_you,_but_it's_not_your_fault._(Temperance)",
-        "translation": "我知道事情是因为你而发生的，但这不是你的错。（耐心）"
+        "old_translation": "我明白事情因你而起，但这并非你的过错。（耐心）",
+        "translation": "我明白事情因你而起，但这并非你的过错。（耐心）"
     },
     {
+        "id": "qstr_You_re_responsible_f",
         "text": "You're_responsible_for_what_happened._After_Sven,_you_shall_pay_with_your_life._(Justice)",
-        "translation": "你得为发生的一切负责。斯温死后，你也得付出生命的代价。（正直）"
+        "old_translation": "你得为发生的一切负责。斯温死后，你就得偿命。（正直）",
+        "translation": "你得为发生的一切负责。斯温死后，你就得偿命。（正直）"
     },
     {
+        "id": "qstr___He_sighs_with_anno",
         "text": "--He_sighs_with_annoyance.--",
-        "translation": "——他看起来很烦恼。——"
+        "old_translation": "——他懊恼地叹了口气。——",
+        "translation": "——他懊恼地叹了口气。——"
     },
     {
+        "id": "qstr___He_lowers_his_head",
         "text": "--He_lowers_his_head,_embarrassed._His_hands_fidget.--",
-        "translation": "——他放下他的手，十分尴尬，紧张不安。——"
+        "old_translation": "——他低下头，满脸尴尬，双手局促不安。——",
+        "translation": "——他低下头，满脸尴尬，双手局促不安。——"
     },
     {
+        "id": "qstr___He_strains_his_fac",
         "text": "--He_strains_his_face_and_stares_at_you_without_blinking.--",
-        "translation": "——他立刻变了脸色并目不转睛地瞪着你。——"
+        "old_translation": "——他绷紧了脸，一眨不眨地瞪着你。——",
+        "translation": "——他绷紧了脸，一眨不眨地瞪着你。——"
     },
     {
+        "id": "qstr_Info:",
         "text": "Info:",
+        "old_translation": "信息：",
         "translation": "信息："
     },
     {
+        "id": "qstr_Regarding_that_matte",
         "text": "Regarding_that_matter,_I_thought_that_the_Woden_Ric_was_safe,_but_I_was_wrong._(Wisdom)",
-        "translation": "根据情况，我本以为沃登里克号很安全，但我错了。（聪慧）"
+        "old_translation": "关于那件事，我原以为沃登里克号很安全，可我错了。（聪慧）",
+        "translation": "关于那件事，我原以为沃登里克号很安全，可我错了。（聪慧）"
     },
     {
+        "id": "qstr_Note_Bodo:_Bodo_feel",
         "text": "Note_Bodo:_Bodo_feels_indirectly_responsible_for_the_death_of_the_people_of_the_Woden_Ric.",
-        "translation": "博多的笔记：博多觉得自己间接地要为沃登里克号的惨剧负责。"
+        "old_translation": "博多的笔记：博多觉得自己间接导致了沃登里克号众人的死亡。",
+        "translation": "博多的笔记：博多觉得自己间接导致了沃登里克号众人的死亡。"
     },
     {
+        "id": "qstr_So_our_paths_have_me",
         "text": "So_our_paths_have_met,_my_friend._I'll_tell_you_the_rest._Then_we_can_work_together_against_our_mutual_enemy._(Fortitude)",
-        "translation": "我们命运与共，朋友。我会告诉你其他的事，然后联合起来对付共同敌人。（坚强）"
+        "old_translation": "于是我们的道路交汇了，朋友。我会把剩下的都告诉你。然后联手对付共同的敌人。（坚强）",
+        "translation": "于是我们的道路交汇了，朋友。我会把剩下的都告诉你。然后联手对付共同的敌人。（坚强）"
     },
     {
+        "id": "qstr_Note_Bodo:_Bodo_felt",
         "text": "Note_Bodo:_Bodo_felt_indirectly_responsible_for_the_death_of_the_people_of_the_Woden_Ric,_but_you_forgave_him.",
-        "translation": "博多的笔记：博多感到自己间接上该为沃登里克号的惨剧负责，但你原谅了他。"
+        "old_translation": "博多的笔记：博多感到自己间接导致了沃登里克号众人的死亡，但你原谅了他。",
+        "translation": "博多的笔记：博多感到自己间接导致了沃登里克号众人的死亡，但你原谅了他。"
     },
     {
+        "id": "qstr_Thanks_for_your_trus",
         "text": "Thanks_for_your_trust._I_hope_to_be_worthy_of_it._(Temperance)",
-        "translation": "感谢你的信任。希望这是值得的。（耐心）"
+        "old_translation": "感谢你的信任。但愿我配得上它。（耐心）",
+        "translation": "感谢你的信任。但愿我配得上它。（耐心）"
     },
     {
+        "id": "qstr_That_would_be_just._",
         "text": "That_would_be_just._I'd_pay_for_the_damage_caused._When_Sven_Bull_Neck_is_dead,_I_will_put_my_neck_under_your_sword._(Justice)",
-        "translation": "这很公平，我为此也付出了代价。当牛颈斯温死后，我会把自己的脖子放在你的剑下。（正直）"
+        "old_translation": "这样才公平。我愿为造成的损害付出代价。等“牛颈”斯温一死，我就把脖子搁在你的剑下。（正直）",
+        "translation": "这样才公平。我愿为造成的损害付出代价。等“牛颈”斯温一死，我就把脖子搁在你的剑下。（正直）"
     },
     {
+        "id": "qstr_Note_Bodo:_Bodo_is_i",
         "text": "Note_Bodo:_Bodo_is_indirectly_responsible_for_the_death_of_the_people_of_the_Woden_Ric._Your_sense_of_justice_dictates_that_he_must_die_when_Sven_Bull_Neck_is_dead,_to_atone_for_his_guilt._You've_committed_yourself_to_kill_him.",
-        "translation": "博多的笔记：博多感到自己间接上该为沃登里克号的惨剧负责，你的正义感要求他必须在牛颈斯温死后为此赎罪，你承诺要杀死他。"
+        "old_translation": "博多的笔记：博多间接导致了沃登里克号众人的死亡。你的正义感要求他在“牛颈”斯温死后以死赎罪。你已立誓要杀他。",
+        "translation": "博多的笔记：博多间接导致了沃登里克号众人的死亡。你的正义感要求他在“牛颈”斯温死后以死赎罪。你已立誓要杀他。"
     },
     {
+        "id": "qstr___He_shrugs.__",
         "text": "--He_shrugs.--",
+        "old_translation": "——他耸了耸肩。——",
         "translation": "——他耸了耸肩。——"
     },
     {
+        "id": "qstr_Finally_all_roads_le",
         "text": "Finally,_all_roads_lead_to_{s11}_'Snake_in_the_Eye.'_Sven_Bull_Neck_has_taken_your_mother_to_him,_because_{s11}_wants_an_object_that_Bodo_gave_your_mother_and_ask_her_for_very_important_information_he_told_her._Sven_thinks_your_mother_is_the_carrier_of_the_object_instead_of_Bodo._Therefore,_she_is_still_alive._You_must_hurry,_before_Sven_discovers_the_deception_and_kills_her.",
-        "translation": "终于，所有证据都指向“蛇眼”{s11}。牛颈斯温已经带走了你的母亲，因为{s11}想要得到博多给你母亲的一件东西，并告诉了她很重要。斯温认为你的母亲才是这东西的主人，而不是博多。因此，她还活着。你必须赶快在斯温察觉并杀了她之前找到她！"
+        "old_translation": "终于，所有线索都指向“蛇眼”{s11}。“牛颈”斯温已把你母亲带去见他，因为{s11}想要博多交给你母亲的一件东西，还要她透露曾告诉她的重要消息。斯温以为你母亲才是那东西的携带者，而非博多，因此她仍活着。你必须赶在斯温识破骗局并杀她之前行动。",
+        "translation": "终于，所有线索都指向“蛇眼”{s11}。“牛颈”斯温已把你母亲带去见他，因为{s11}想要博多交给你母亲的一件东西，还要她透露曾告诉她的重要消息。斯温以为你母亲才是那东西的携带者，而非博多，因此她仍活着。你必须赶在斯温识破骗局并杀她之前行动。"
     },
     {
+        "id": "qstr_Finally_all_roads_lea",
         "text": "Finally,_all_roads_lead_to_{s11}_'Snake_in_the_Eye.'_Sven_Bull_Neck_has_taken_your_mother_with_him,_because_{s11}_wants_an_object_that_Bodo_gave_your_mother_and_information_he_told_her._Sven_thinks_your_mother_is_the_carrier_of_the_object_instead_of_Bodo._Therefore,_she_is_still_alive._You_must_hurry,_before_Sven_discovers_the_deception_and_kills_her.",
-        "translation": "终于，所有证据都指向“蛇眼”{s11}。牛颈斯温已经带走了你的母亲，因为{s11}想要得到博多给你母亲的一件东西，并告诉了她很重要。斯温认为你的母亲才是这东西的主人，而不是博多。因此，她还活着。你必须赶快在斯温察觉并杀了她之前找到她！"
+        "old_translation": "终于，所有线索都指向“蛇眼”{s11}。“牛颈”斯温已把你母亲带走，因为{s11}想要博多交给你母亲的一件东西，以及她曾被告知的情报。斯温以为你母亲才是那东西的携带者，而非博多，因此她仍活着。你必须赶在斯温识破骗局并杀她之前行动。",
+        "translation": "终于，所有线索都指向“蛇眼”{s11}。“牛颈”斯温已把你母亲带走，因为{s11}想要博多交给你母亲的一件东西，以及她曾被告知的情报。斯温以为你母亲才是那东西的携带者，而非博多，因此她仍活着。你必须赶在斯温识破骗局并杀她之前行动。"
     },
     {
+        "id": "qstr___He_takes_the_mead_",
         "text": "--He_takes_the_mead_jug_to_his_lips,_drinks_long,_and_then_he_just_looks_at_you.--",
-        "translation": "——他把酒杯送到嘴边，喝了很久，再看你。——"
+        "old_translation": "——他举起蜜酒壶，长饮一口，然后只是看着你。——",
+        "translation": "——他举起蜜酒壶，长饮一口，然后只是看着你。——"
     },
     {
+        "id": "qstr_You_don_t_trust_me._",
         "text": "You_don't_trust_me._I_understand;_I_am_new_here._Maybe_I_should_leave._(Phlegmatic)",
-        "translation": "你不信我。我理解，我是这里的过客，或许我该走了。（冷静）"
+        "old_translation": "你不信我。我理解；我是新来的。也许我该离开。（冷静）",
+        "translation": "你不信我。我理解；我是新来的。也许我该离开。（冷静）"
     },
     {
+        "id": "qstr_I_see..._Something_m",
         "text": "I_see..._Something_makes_you_nervous._(Melancholic)",
-        "translation": "看得出来……有些事情让你很紧张。（谨慎）"
+        "old_translation": "我明白了……有什么让你不安。（忧郁）",
+        "translation": "我明白了……有什么让你不安。（忧郁）"
     },
     {
+        "id": "qstr_Look_at_me._Who_else",
         "text": "Look_at_me._Who_else_that_comes_to_this_mead_hall_sits_with_you?_Nobody!_(Choleric)",
-        "translation": "看着我。除了你我这里还有谁？没人！（易怒）"
+        "old_translation": "看着我。来到这间蜜酒厅的人里，还有谁肯陪你坐？没有！（暴躁）",
+        "translation": "看着我。来到这间蜜酒厅的人里，还有谁肯陪你坐？没有！（暴躁）"
     },
     {
+        "id": "qstr_You_looked_like_some",
         "text": "You_looked_like_someone_that_would_appreciate_a_friend,_but_I_can_go_again._(Sanguine)",
-        "translation": "你看起来是个能让朋友信任的人，我会再去一次的。(乐观)"
+        "old_translation": "你看起来像是会珍惜朋友的人，但我也可以再离开。（热血）",
+        "translation": "你看起来像是会珍惜朋友的人，但我也可以再离开。（热血）"
     },
     {
+        "id": "qstr_{s21}_seems_happy.",
         "text": "{s21}_seems_happy.",
-        "translation": "{s21}看起来很开心。"
+        "old_translation": "{s21}看起来很高兴。",
+        "translation": "{s21}看起来很高兴。"
     },
     {
+        "id": "qstr_Please_do_not_leave!",
         "text": "Please,_do_not_leave!_Let's_keep_talking_and_drinking_together!",
-        "translation": "请不要离开！让我们继续边喝边谈！"
+        "old_translation": "请不要走！让我们继续边喝边聊！",
+        "translation": "请不要走！让我们继续边喝边聊！"
     },
     {
+        "id": "qstr_Nervous?_Me?_No_mate",
         "text": "Nervous?_Me?_No,_mate._I_am_dangerous.",
-        "translation": "你觉得我只是神经质？不，伙计。我是危险的人。"
+        "old_translation": "紧张？我？不，伙计。我才是危险的那个。",
+        "translation": "紧张？我？不，伙计。我才是危险的那个。"
     },
     {
+        "id": "qstr_I_ve_just_gotten_to_",
         "text": "I've_just_gotten_to_know_you._How_do_I_know_that_someone_has_not_sent_you_to_extract_information?",
-        "translation": "我刚刚才认识你，我觉得你可能是别人派来想从我口中挖出点什么的人。"
+        "old_translation": "我才刚认识你。怎知不是有人派你来套话？",
+        "translation": "我才刚认识你。怎知不是有人派你来套话？"
     },
     {
+        "id": "qstr___He_smiles_drinks_a",
         "text": "--He_smiles,_drinks_again,_and_you_see_the_mead_overflow_his_lips_and_course_down_his_chin._He_belches.--",
-        "translation": "——他微笑了一会，然后又喝了喝酒，你看着蜂蜜酒流出了他的嘴巴，并沿着他下巴流了下来。之后他又打了个嗝。——"
+        "old_translation": "——他微笑，再次饮酒，蜜酒溢出唇角，顺着下巴流下。他打了个嗝。——",
+        "translation": "——他微笑，再次饮酒，蜜酒溢出唇角，顺着下巴流下。他打了个嗝。——"
     },
     {
+        "id": "qstr___He_seems_not_hear_",
         "text": "--He_seems_not_hear_you._Joy_crosses_his_face_at_an_idea_that_he_has_in_mind.--",
-        "translation": "——他似乎没听到你说什么。当他脑中想到了什么东西的时候，愉悦流露在他的脸上。——"
+        "old_translation": "——他似乎没听见你。想到什么主意，他脸上掠过喜悦。——",
+        "translation": "——他似乎没听见你。想到什么主意，他脸上掠过喜悦。——"
     },
     {
+        "id": "qstr_{s11}_wants_you_to_m",
         "text": "{s11}_wants_you_to_make_a_donation_for_Frisian_widows_and_orphans_to_Adda_in_{s4}._Her_shop_is_on_the_wharf.",
-        "translation": "{s11}想要你找到{s4}的艾达，为弗里斯寡妇和孤儿捐款。她的商店在码头处。"
+        "old_translation": "{s11}要你向{s4}的艾达捐款，救济弗里斯寡妇与孤儿。她的铺子在码头。",
+        "translation": "{s11}要你向{s4}的艾达捐款，救济弗里斯寡妇与孤儿。她的铺子在码头。"
     },
     {
+        "id": "qstr___He_looks_happy_to_",
         "text": "--He_looks_happy_to_hear_your_words.--",
-        "translation": "——他听到你的话好像很高兴。——"
+        "old_translation": "——他听到你的话，面露喜色。——",
+        "translation": "——他听到你的话，面露喜色。——"
     },
     {
+        "id": "qstr___He_looks_at_you_wi",
         "text": "--He_looks_at_you_with_deep_concern.--",
-        "translation": "——他深切地望着你。——"
+        "old_translation": "——他忧心忡忡地望着你。——",
+        "translation": "——他忧心忡忡地望着你。——"
     },
     {
+        "id": "qstr_You_have_decided_to_",
         "text": "You_have_decided_to_give_the_letter_of_the_king_of_Asturias_to_the_king_of_West_Seaxe._Take_it_to_{s11}.",
-        "translation": "你决定把阿斯图里亚斯国王的信带给西撒克逊的国王，把它带到{s11}。"
+        "old_translation": "你已决定把阿斯图里亚斯国王的信交给西撒克逊国王。把它带给{s11}。",
+        "translation": "你已决定把阿斯图里亚斯国王的信交给西撒克逊国王。把它带给{s11}。"
     },
     {
+        "id": "qstr_You_have_decided_to_g",
         "text": "You_have_decided_to_give_the_letter_to_Ragnar's_sons._Take_it_to_{s11}.",
-        "translation": "你决定把信交给拉格纳之子，把它带到{s11}。"
+        "old_translation": "你已决定把信交给拉格纳的儿子们。把它带给{s11}。",
+        "translation": "你已决定把信交给拉格纳的儿子们。把它带给{s11}。"
     },
     {
+        "id": "qstr___Bodo_seems_overcom",
         "text": "--Bodo_seems_overcome_with_joy.--",
-        "translation": "--博多似乎喜出望外--"
+        "old_translation": "——博多喜不自胜。——",
+        "translation": "——博多喜不自胜。——"
     },
     {
+        "id": "qstr_Note_Bodo:_With_your",
         "text": "Note_Bodo:_With_your_decision_to_deliver_the_letter_of_the_king_of_Asturias_to_the_Danish,_Bodo_felt_betrayed._The_Cantabrian_has_left_your_party_and_threatened_you_with_death_if_you_return_to_find_him.",
-        "translation": "博多的笔记：因为你将阿斯图里亚斯国王的信给了丹麦人，博多感到自己被出卖了。这名坎塔布里亚人已经离开了你的队伍，并以死亡来威胁你，让你不要再去找他。"
+        "old_translation": "博多的笔记：因为你将阿斯图里亚斯国王的信交给丹麦人，博多感到被出卖。这位坎塔布里亚人已离开队伍，并威胁若你再去找他，便取你性命。",
+        "translation": "博多笔记：因你决定把阿斯图里亚斯国王的信交给丹麦人，博多感到被出卖。这位坎塔布里亚人已离开队伍，并威胁你若再去找他，便取你性命。"
     },
     {
+        "id": "qstr___His_face_goes_from",
         "text": "--His_face_goes_from_bewilderment_to_uncontrolled_fury.--",
-        "translation": "——他的脸从困惑变得怒不可遏。——"
+        "old_translation": "——他的脸从困惑转为无法遏制的狂怒。——",
+        "translation": "——他的脸从困惑转为无法遏制的狂怒。——"
     },
     {
+        "id": "qstr___Brunhild_comes_up_",
         "text": "--Brunhild_comes_up_to_you_and_hugs_you_tightly.--",
-        "translation": "——伯伦希尔向你走来，然后紧紧地拥抱你。——"
+        "old_translation": "——伯伦希尔走近，紧紧抱住你。——",
+        "translation": "——伯伦希尔走近，紧紧抱住你。——"
     },
     {
+        "id": "qstr___His_eyes_are_a_wel",
         "text": "--His_eyes_are_a_well_of_sorrow,_and_tears_ply_his_cheeks.--",
-        "translation": "——他的眼中充满了悲伤，眼泪在脸颊上流着。——"
+        "old_translation": "——他的双眼盛满悲伤，泪水滑过脸颊。——",
+        "translation": "——他的双眼盛满悲伤，泪水滑过脸颊。——"
     },
     {
+        "id": "qstr___Egil_bares_his_tee",
         "text": "--Egil_bares_his_teeth._He_seems_angry.--",
-        "translation": "——埃吉尔露出了他的牙齿，似乎很生气。——"
+        "old_translation": "——埃吉尔龇牙咧嘴，显然怒火中烧。——",
+        "translation": "——埃吉尔龇牙咧嘴，显然怒火中烧。——"
     },
     {
+        "id": "qstr_Note_Reginhard:_Regi",
         "text": "Note_Reginhard:_Reginhard_betrayed_you_at_the_Assembly,_and_you_had_to_kill_him_in_a_holmgang_decreed_by_the_Assembly._In_the_end,_you_drove_Egil_out_of_your_party,_offended_by_his_insolence_and_disrespect.",
-        "translation": "雷因哈德的笔记：雷因哈德在议事会之前背叛了你，你不得不在议事会裁决下的决斗杀了他。"
+        "old_translation": "雷因哈德的笔记：雷因哈德在集结地背叛了你，你只得在集结地裁定的决斗中将他杀死。最终，你因他的傲慢无礼而将埃吉尔逐出队伍。",
+        "translation": "雷因哈德笔记：雷因哈德在集结地背叛了你，你只得在集结地裁定的决斗中将他杀死。最终，你因他的傲慢无礼而将埃吉尔逐出队伍。"
     },
     {
+        "id": "qstr_Your_men_think_that_",
         "text": "Your_men_think_that_Egil_could_be_a_good_leader.",
-        "translation": "你的人认为你是个强势的领袖。"
+        "old_translation": "你的人认为埃吉尔本可成为一位好领袖。",
+        "translation": "你的人认为埃吉尔本可成为一位好领袖。"
     },
     {
+        "id": "qstr___He_seems_surprised",
         "text": "--He_seems_surprised,_but_the_surprise_is_soon_overtaken_by_intense_anger.--",
-        "translation": "——他看起来很惊讶，但是惊讶很快就被强烈的愤怒代替了。——"
+        "old_translation": "——他先是一惊，随即被强烈的愤怒吞没。——",
+        "translation": "——他先是一惊，随即被强烈的愤怒吞没。——"
     },
     {
+        "id": "qstr_Your_men_think_that_y",
         "text": "Your_men_think_that_you_are_a_strong_leader,_but_they_will_miss_the_charisma_of_Egil.",
-        "translation": "你的人认为你是个软弱的领袖。"
+        "old_translation": "你的人认为你是强有力的领袖，但他们会怀念埃吉尔的魅力。",
+        "translation": "你的人认为你是强有力的领袖，但他们会怀念埃吉尔的魅力。"
     },
     {
+        "id": "qstr_Note_Egil:_Reginhard",
         "text": "Note_Egil:_Reginhard_betrayed_you_at_the_Assembly,_but_you_spared_his_life._However,_Egil_did_not_accept_your_decision,_and_you_had_to_kill_him_in_a_holmgang_by_the_laws_of_Thing.^In_the_end,_you_drove_Reginhard_out_of_your_party,_unable_to_forgive_his_betrayal.",
-        "translation": "埃吉尔的笔记：雷因哈德在议事会之前背叛了你，但你原谅了他。但是，埃吉尔不接受你的决定，你不得不依着议事会的判决在一场决斗中杀了他。"
+        "old_translation": "埃吉尔的笔记：雷因哈德在集结地背叛了你，你却饶他一命。然而埃吉尔不接受你的决定，你只得依庭法在决斗中杀了他。最终，你将雷因哈德逐出队伍，无法原谅他的背叛。",
+        "translation": "埃吉尔笔记：雷因哈德在集结地背叛了你，你却饶他一命。然而埃吉尔不接受你的决定，你只得依庭法在决斗中杀了他。最终，你将雷因哈德逐出队伍，无法原谅他的背叛。"
     },
     {
+        "id": "qstr_Note_Egil:_Reginhard_",
         "text": "Note_Egil:_Reginhard_betrayed_you_at_the_Assembly,_but_you_spared_his_life._However,_Egil_did_not_accept_your_decision,_and_you_had_to_kill_him_in_a_holmgang_by_the_laws_of_Thing.^In_the_end,_you_killed_Reginhard,_too,_unable_to_forgive_his_betrayal.",
-        "translation": "埃吉尔的笔记：雷因哈德在议事会上背叛了你，但你饶了他一命。不管怎样，埃吉尔并不认同你的做法。因此你不得不在一场你死我活的决斗中杀死了他。^最后，你因为不能原谅他的背叛，将雷因哈德逐出了你的团队。"
+        "old_translation": "埃吉尔的笔记：雷因哈德在集结地背叛了你，你却饶他一命。然而埃吉尔不接受你的决定，你只得依庭法在决斗中杀了他。最终，你也因无法原谅背叛而杀了雷因哈德。",
+        "translation": "埃吉尔笔记：雷因哈德在集结地背叛了你，你却饶他一命。然而埃吉尔不接受你的决定，你只得依庭法在决斗中杀了他。最终，你也因无法原谅背叛而杀了雷因哈德。"
     },
     {
+        "id": "qstr_Note_Egil:_Reginhard_b",
         "text": "Note_Egil:_Reginhard_betrayed_you_at_the_Assembly,_but_you_spared_his_life._However,_Egil_did_not_accept_your_decision,_and_you_had_to_kill_him_in_a_holmgang_by_the_laws_of_Thing.^You_forgave_Reginhard_of_treason_and_let_him_remain_in_your_company.",
-        "translation": "埃吉尔的笔记：雷因哈德在议事会上背叛了你，但你饶了他一命。不管怎样，埃吉尔并不认同你的做法。因此你不得不在一场你死我活的决斗中杀死了他。^最后，你因为不能原谅他的背叛，所以也杀了雷因哈德。"
+        "old_translation": "埃吉尔的笔记：雷因哈德在集结地背叛了你，你却饶他一命。然而埃吉尔不接受你的决定，你只得依庭法在决斗中杀了他。你原谅了雷因哈德的叛国，让他继续留在身边。",
+        "translation": "埃吉尔笔记：雷因哈德在集结地背叛了你，你却饶他一命。然而埃吉尔不接受你的决定，你只得依庭法在决斗中杀了他。你原谅了雷因哈德的叛国，让他继续留在身边。"
     },
     {
+        "id": "qstr___Reginhard_gathers_",
         "text": "--Reginhard_gathers_his_things_and_leaves.--",
-        "translation": "——雷因哈德带上了他的东西，离开了。——"
+        "old_translation": "——雷因哈德收拾行囊，转身离去。——",
+        "translation": "——雷因哈德收拾行囊，转身离去。——"
     },
     {
+        "id": "qstr_Your_men_think_that_yo",
         "text": "Your_men_think_that_you_are_a_weak_leader_who_can't_punish_treachery.",
-        "translation": "你的人认为你是个有力的领袖。"
+        "old_translation": "你的人认为你是无法惩处背叛的软弱领袖。",
+        "translation": "你的人认为你是无法惩处背叛的软弱领袖。"
     },
     {
+        "id": "qstr___You_approach_Regin",
         "text": "--You_approach_Reginhard_and_slice_deep_into_his_neck_with_a_knife._You_watch_how_he_collapses,_losing_blood,_until_his_eyes_are_closed.--",
-        "translation": "——你靠近了雷因哈德，用一把刀深深地捅进了他的脖子。你看着他瘫倒，流血，直到他的眼睛闭上。——"
+        "old_translation": "——你逼近雷因哈德，一刀深深割进他的脖颈。你看着他瘫倒、流血，直至阖眼。——",
+        "translation": "——你逼近雷因哈德，一刀深深割进他的脖颈。你看着他瘫倒、流血，直至阖眼。——"
     },
     {
+        "id": "qstr_Your_men_think_that_you",
         "text": "Your_men_think_that_you_are_a_strong_leader_who_harshly_punishes_treachery.",
-        "translation": "你的人认为你是一个强有力的领导者，但他们将会挂念埃吉尔的魅力。"
+        "old_translation": "你的人认为你是严惩背叛的强势领袖。",
+        "translation": "你的人认为你是严惩背叛的强势领袖。"
     },
     {
+        "id": "qstr___He_seems_happy_to_",
         "text": "--He_seems_happy_to_hear_your_words.--",
-        "translation": "——他听到你的消息后似乎很高兴。——"
+        "old_translation": "——他听到你的话，面露喜色。——",
+        "translation": "——他听到你的话，面露喜色。——"
     },
     {
+        "id": "qstr_Your_men_think_that_you_",
         "text": "Your_men_think_that_you_are_a_weak_leader_who_allows_betrayal.",
-        "translation": "你的人认为你是一个不能惩罚背信弃义之人的软弱领导者。"
+        "old_translation": "你的人认为你是纵容背叛的软弱领袖。",
+        "translation": "你的人认为你是纵容背叛的软弱领袖。"
     },
     {
+        "id": "qstr___He_pushes_the_jar_",
         "text": "--He_pushes_the_jar_aside_and_drops_his_head.--",
-        "translation": "——他把罐子丢到一边，然后低下了头。——"
+        "old_translation": "——他把罐子推到一旁，垂下头。——",
+        "translation": "——他把罐子推到一旁，垂下头。——"
     },
     {
+        "id": "qstr___He_looks_at_you_wit",
         "text": "--He_looks_at_you_with_tears_in_his_eyes.--",
-        "translation": "——他用泪光闪闪的眼睛看着你。——"
+        "old_translation": "——他含泪望着你。——",
+        "translation": "——他含泪望着你。——"
     },
     {
+        "id": "qstr_Reginhard_has_joined",
         "text": "Reginhard_has_joined_you._He_informs_you_that_Thiaderd_and_his_men_are_at_the_foot_of_the_mountains_due_east_of_Dorestad._Thiaderd's_group_is_strong._Perhaps_you_ought_to_be_accompanied_by_a_large_group_of_men_who_support_you.",
-        "translation": "雷因哈德已经加入了你。他告诉你泰德和他的人在杜里斯特东面的山脚下。泰德的队伍很强，也许你应该带着一大群士兵。"
+        "old_translation": "雷因哈德已经加入了你。他告诉你提亚德尔和他的人就在杜里斯特正东的山脚下。提亚德尔的队伍很强，也许你应该带上一大群支持你的战士。",
+        "translation": "雷因哈德已加入你。他告诉你，提亚德尔和他的人就在杜里斯特正东的山脚下。提亚德尔的队伍很强，也许你该带上一大群支持你的战士。"
     },
     {
+        "id": "qstr_{s21}_seems_unhappy.",
         "text": "{s21}_seems_unhappy.",
+        "old_translation": "{s21}看起来不高兴。",
         "translation": "{s21}看起来不高兴。"
     },
     {
+        "id": "qstr_high",
         "text": "high",
+        "old_translation": "高",
         "translation": "高"
     },
     {
+        "id": "qstr_low",
         "text": "low",
+        "old_translation": "低",
         "translation": "低"
     },
     {
+        "id": "qstr_normal",
         "text": "normal",
+        "old_translation": "一般",
         "translation": "一般"
     },
     {
+        "id": "qstr_Christianity",
         "text": "Christianity",
+        "old_translation": "基督教",
         "translation": "基督教"
     },
     {
+        "id": "qstr_Norse_gods",
         "text": "Norse_gods",
-        "translation": "诺尔斯的众神"
+        "old_translation": "诺斯的众神",
+        "translation": "诺斯的众神"
     },
     {
+        "id": "qstr_The_subjects_of_our_",
         "text": "The_subjects_of_our_kingdom_officially_believe_in_{s4}._Collected_records_indicate_{reg13}_people_have_adopted_our_faith.",
-        "translation": "我们王国的子民基本上信奉{s4}。有记录说明{reg13}人接受我们的信仰。"
+        "old_translation": "我们王国的子民正式信奉{s4}。汇总记录显示已有{reg13}人皈依我们的信仰。",
+        "translation": "我们王国的子民正式信奉{s4}。汇总记录显示已有{reg13}人皈依我们的信仰。"
     },
     {
+        "id": "qstr_The_subjects_of_our_k",
         "text": "The_subjects_of_our_kingdom_officially_believe_in_{s4}._Collected_records_indicate_{reg13}_people_have_given_up_our_faith.",
-        "translation": "我们王国的子民基本上信奉{s4}。有记录说明{reg13}人放弃我们的信仰。"
+        "old_translation": "我们王国的子民正式信奉{s4}。汇总记录显示已有{reg13}人背弃我们的信仰。",
+        "translation": "我们王国的子民正式信奉{s4}。汇总记录显示已有{reg13}人背弃我们的信仰。"
     },
     {
+        "id": "qstr_the_{s12}",
         "text": "the_{s12}",
+        "old_translation": "{s12}",
         "translation": "{s12}"
     },
     {
+        "id": "qstr_the_{s11}_and_{s12}",
         "text": "the_{s11}_and_{s12}",
+        "old_translation": "{s11}和{s12}",
         "translation": "{s11}和{s12}"
     },
     {
+        "id": "qstr_the_{s11}_{s12}",
         "text": "the_{s11},_{s12}",
+        "old_translation": "{s11}，{s12}",
         "translation": "{s11}，{s12}"
     },
     {
+        "id": "qstr_We_are_quite_happy_n",
         "text": "We_are_quite_happy_not_to_be_at_war_with_anyone.",
-        "translation": "我们很高兴目前没有和任何人交战。"
+        "old_translation": "我们很高兴目前没有与任何人交战。",
+        "translation": "我们很高兴目前没有与任何人交战。"
     },
     {
+        "id": "qstr_We_are_at_war_with_{",
         "text": "We_are_at_war_with_{s12}.",
-        "translation": "我们正在和{s12}交战。"
+        "old_translation": "我们正与{s12}交战。",
+        "translation": "我们正与{s12}交战。"
     },
     {
+        "id": "qstr___He_seems_pleased._",
         "text": "--He_seems_pleased.--",
-        "translation": "——他看起来似乎很高兴。——"
+        "old_translation": "——他看起来很高兴。——",
+        "translation": "——他看起来很高兴。——"
     },
     {
+        "id": "qstr___He_seems_upset.__",
         "text": "--He_seems_upset.--",
-        "translation": "——他看起来似乎有点生气。——"
+        "old_translation": "——他看起来有些生气。——",
+        "translation": "——他看起来有些生气。——"
     },
     {
+        "id": "qstr___He_seems_distresse",
         "text": "--He_seems_distressed.--",
-        "translation": "——他看起来有点苦恼。——"
+        "old_translation": "——他看起来有些苦恼。——",
+        "translation": "——他看起来有些苦恼。——"
     },
     {
+        "id": "qstr___He_looks_at_you_with",
         "text": "--He_looks_at_you_with_his_shoulders_slumped._He_looks_dejected.--",
-        "translation": "——他看着你，但他的肩膀完全垂了下去。他看起来就像是一个完全沮丧的人。——"
+        "old_translation": "——他看着你，肩膀耷拉着，神情沮丧。——",
+        "translation": "——他看着你，肩膀耷拉着，神情沮丧。——"
     },
     {
+        "id": "qstr___He_looks_with_grie",
         "text": "--He_looks_with_grief.--",
+        "old_translation": "——他悲伤地望着你。——",
         "translation": "——他悲伤地望着你。——"
     },
     {
+        "id": "qstr___He_spits_on_the_gr",
         "text": "--He_spits_on_the_ground,_his_features_hard,_sadness_giving_way_to_anger--",
-        "translation": "——他吐在了地上，五官扭曲，愤怒比悲伤显露得更多。——"
+        "old_translation": "——他朝地上啐了一口，面容紧绷，悲伤已被愤怒取代。——",
+        "translation": "——他朝地上啐了一口，面容紧绷，悲伤已被愤怒取代。——"
     },
     {
+        "id": "qstr_Thiaderd_is_dead._Br",
         "text": "Thiaderd_is_dead._Bring_the_news_to_the_jarl_of_{s3}.",
-        "translation": "泰德死了。把这个消息带给{s3}的雅尔。"
+        "old_translation": "提亚德尔死了。把消息带给{s3}的雅尔。",
+        "translation": "提亚德尔死了。把消息带给{s3}的雅尔。"
     },
     {
+        "id": "qstr___He_looks_over_your",
         "text": "--He_looks_over_your_shoulder_into_the_distance.--",
-        "translation": "——他沿着你的肩膀看向了远方。——"
+        "old_translation": "——他越过你的肩头望向远方。——",
+        "translation": "——他越过你的肩头望向远方。——"
     },
     {
+        "id": "qstr___He_puts_his_hand_on",
         "text": "--He_puts_his_hand_on_your_shoulder_and_smiles.--",
-        "translation": "——他把他的手放上了你的肩膀然后微笑着。——"
+        "old_translation": "——他把手搭在你肩上，微微一笑。——",
+        "translation": "——他把手搭在你肩上，微微一笑。——"
     },
     {
+        "id": "qstr___He_turns_away_from",
         "text": "--He_turns_away_from_you_with_a_grimace.--",
-        "translation": "——他转头来做了个鬼脸。——"
+        "old_translation": "——他皱着眉转身背对你。——",
+        "translation": "——他皱着眉转身背对你。——"
     },
     {
+        "id": "qstr___He_nods._You_note_",
         "text": "--He_nods._You_note_the_concern_in_his_eyes.--",
-        "translation": "——他点了点头。你注意到他眼里的关注。——"
+        "old_translation": "——他点了点头。你看见他眼里的担忧。——",
+        "translation": "——他点了点头。你看见他眼里的担忧。——"
     },
     {
+        "id": "qstr_{playername}_when_we",
         "text": "{playername},_when_we_started_our_long_walk,_few_people_had_the_courage_to_support_me._Fewer_still_were_willing_to_put_their_lives_at_risk_for_my_cause,_but_you_didn't_hesitate_to_throw_yourself_at_my_enemies._We_have_gone_through_a_lot_together,_and_there_were_times_I_came_close_to_losing_all_hope,_but_we_prevailed._It_is_now_time_for_me_to_leave_your_shield_wall_and_take_what's_rightfully_mine._From_now_on,_I_will_carry_out_the_great_responsibility_of_ruling_the_{s3}._There_still_lie_many_challenges_ahead,_and_I_count_on_your_help_in_overcoming_those._Of_course,_you_will_always_be_my_foremost_vassal.",
-        "translation": "{playername}，当我们开始走这条漫漫长路的时候，很少有人有勇气来支持我。而更少的人会愿意为我们这件事冒生命危险。但你在将自己置于敌人之中时并没有丝毫犹豫。我们已经一起经历了太多东西，有那么几次我差点就失去了所有的希望。但我们赢了。现在是时候让我离开你的盾墙，并把本来属于我的东西拿回来。从现在开始，我将肩负着最大的责任心来统治{s3}。前方还会有许多的挑战，而我依靠着你能帮我克服这些。当然，你会一直成为我最重要的部下。"
+        "old_translation": "{playername}，我们踏上这条漫漫长路时，敢支持我的人寥寥无几。肯为我的事业冒生命危险的人更少，可你毫不犹豫扑向敌人。我们并肩闯过无数难关，我曾几度绝望，但我们终究挺了过来。如今，我该离开你的盾墙，取回属于我的东西。从今往后，我将肩负统治{s3}的重任。前路仍多艰险，我仰仗你助我渡过。你当然永远是我最倚重的封臣。",
+        "translation": "{playername}，我们踏上这条漫漫长路时，敢支持我的人寥寥无几。肯为我的事业冒生命危险的人更少，可你毫不犹豫扑向敌人。我们并肩闯过无数难关，我曾几度绝望，但我们终究挺了过来。如今，我该离开你的盾墙，取回属于我的东西。从今往后，我将肩负统治{s3}的重任。前路仍多艰险，我仰仗你助我渡过。你当然永远是我最倚重的封臣。"
     },
     {
+        "id": "qstr_Find_and_speak_with_",
         "text": "Find_and_speak_with_{s3}_of_the_{s4}_to_give_him_your_oath_of_homage.",
-        "translation": "找到{s4}的{s3}并和他对话，向他宣誓效忠。"
+        "old_translation": "找到{s4}的{s3}，向他宣誓效忠。",
+        "translation": "找到{s4}的{s3}，向他宣誓效忠。"
     },
     {
+        "id": "qstr__We_will_of_course_n",
         "text": "_We_will_of_course_need_to_wait_until_the_realm_is_no_longer_on_campaign.",
-        "translation": "我们当然得等到国家不再进行战役了。"
+        "old_translation": "我们自然得等王国结束征战。",
+        "translation": "我们自然得等王国结束征战。"
     },
     {
+        "id": "qstr_The_fort_has_been_de",
         "text": "The_fort_has_been_defended_by_lions,_and_we_leave_it_with_our_heads_high._You_can_guarantee_our_safety?",
-        "translation": "要塞被雄狮保护着，而我们只能高昂着头离开，你能保障我们的安全吗？"
+        "old_translation": "要塞由雄狮把守，我们昂着头离开。你能保证我们安全？",
+        "translation": "要塞由雄狮把守，我们昂着头离开。你能保证我们安全？"
     },
     {
+        "id": "qstr_Well_I_guess_I_can_a",
         "text": "Well,_I_guess_I_can_admit_defeat._We_will_leave_the_fort,_but_I_want_your_promise_that_you_will_not_attack_us.",
-        "translation": "好吧我想我可以承认失败，我想你会对我们好点吧？"
+        "old_translation": "好吧，我认输。我们撤出要塞，但你要保证不攻击我们。",
+        "translation": "好吧，我认输。我们撤出要塞，但你要保证不攻击我们。"
     },
     {
+        "id": "qstr_We_are_ready_to_leav",
         "text": "We_are_ready_to_leave_this_fort_to_you_and_march_away_if_you_give_me_your_word_of_honour_that_you'll_let_us_leave_unmolested.",
-        "translation": "我们已经准备好了，如果你向我发誓我们可以平安离开这里的话，我们会留下这个要塞给你然后离开。"
+        "old_translation": "若你以荣誉起誓让我们安然离去，我们愿把要塞交给你，然后撤军。",
+        "translation": "只要你以荣誉担保让我们安然离开，我们愿把这座要塞交给你，然后撤军。"
     },
     {
+        "id": "qstr_There_comes_a_time_w",
         "text": "There_comes_a_time_when_every_good_leader_must_be_responsible_for_the_welfare_of_his_men._We_leave_the_fort._I_want_your_promise_that_you_will_not_attack_us.",
-        "translation": "有时一个好的领导者应该保证他的人能得到好点的福利，你会对我们许下这个诺言吗？"
+        "old_translation": "每个好领袖终须为部下福祉负责。我们放弃要塞。我要你保证不攻击我们。",
+        "translation": "每个好领袖终究得为部下的安危负责。我们放弃要塞。我要你保证不攻击我们。"
     },
     {
+        "id": "qstr_You_re_nothing_but_s",
         "text": "You're_nothing_but_scum._You_should_leave_before_we_kill_you.",
-        "translation": "你这个人渣，你最好在我们杀了你之前离开。"
+        "old_translation": "你不过是个渣滓，趁我们动手前快滚。",
+        "translation": "你不过是个渣滓，趁我们动手前快滚。"
     },
     {
+        "id": "qstr_You_re_wasting_your_",
         "text": "You're_wasting_your_time._Attack_us_--_if_you_have_the_courage.",
-        "translation": "你在浪费你的时间——如果你有勇气这么做的话。"
+        "old_translation": "你在浪费时间。有种就来攻。",
+        "translation": "你在浪费时间。有种就来攻。"
     },
     {
+        "id": "qstr_You_have_called_me_f",
         "text": "You_have_called_me_for_this?_We_would_never_surrender_to_the_likes_of_you.",
-        "translation": "你就为了这么点事情叫我？我们永远不会向你这样的人投降的！"
+        "old_translation": "你就为这事找我？我们绝不会向你这种人投降！",
+        "translation": "你就为这事找我？我们绝不会向你这种人投降！"
     },
     {
+        "id": "qstr_Surrender?_Hah!_We_c",
         "text": "Surrender?_Hah!_We_can_hold_these_walls_until_we_all_die_of_old_age,_while_you_most_assuredly_won't.",
-        "translation": "投降？哈！我们可以守住这道城墙直到老死！"
+        "old_translation": "投降？哈！我们守得住这墙，直到老死，而你们肯定撑不到那天。",
+        "translation": "投降？哈！我们能守到白发苍苍，而你们肯定撑不到那天。"
     },
     {
+        "id": "qstr_8000",
         "text": "8000",
+        "old_translation": "8000",
         "translation": "8000"
     },
     {
+        "id": "qstr_5000.",
         "text": "5000.",
+        "old_translation": "5000。",
         "translation": "5000。"
     },
     {
+        "id": "qstr_3000",
         "text": "3000",
+        "old_translation": "3000",
         "translation": "3000"
     },
     {
+        "id": "qstr_2000.",
         "text": "2000.",
+        "old_translation": "2000。",
         "translation": "2000。"
     },
     {
+        "id": "qstr_1000",
         "text": "1000",
+        "old_translation": "1000",
         "translation": "1000"
     },
     {
+        "id": "qstr_{s6}_has_joined_your",
         "text": "{s6}_has_joined_your_party.",
-        "translation": "{s6}加入了你的部队。"
+        "old_translation": "{s6}加入了你的队伍。",
+        "translation": "{s6}加入了你的队伍。"
     },
     {
+        "id": "qstr_{s1}_Rebels",
         "text": "{s1}_Rebels",
+        "old_translation": "{s1}叛军",
         "translation": "{s1}叛军"
     },
     {
+        "id": "qstr_I_am_{s4}_the_ruler_",
         "text": "I_am_{s4},_the_ruler_of_the_{s6}",
+        "old_translation": "我是{s4}，{s6}的统治者。",
         "translation": "我是{s4}，{s6}的统治者。"
     },
     {
+        "id": "qstr_I_am_{s4}_a_vassal_o",
         "text": "I_am_{s4},_a_vassal_of_the_{s6}",
+        "old_translation": "我是{s4}，{s6}的封臣。",
         "translation": "我是{s4}，{s6}的封臣。"
     },
     {
+        "id": "qstr_{s7}_and_{s8}",
         "text": "{s7}_and_{s8}",
+        "old_translation": "{s7}和{s8}",
         "translation": "{s7}和{s8}"
     },
     {
+        "id": "qstr_{s9}{reg5?_and_the_l",
         "text": "{s9}{reg5?_and_the_lord_of_{s8}.:.",
-        "translation": "{s9}{reg5?而且是{s8}的领主。:。}"
+        "old_translation": "{s9}{reg5?而且是{s8}的领主。：。}",
+        "translation": "{s9}{reg5?而且是{s8}的领主。：。}"
     },
     {
+        "id": "qstr_My_name_is_{s4}_and_",
         "text": "My_name_is_{s4},_and_I_come_from_{s8}._I_am_looking_for_adventure_and_glory_on_the_battlefield.",
-        "translation": "我是{s4}我从{s8}而来，我在战场上寻找冒险和荣耀。"
+        "old_translation": "我叫{s4}，来自{s8}。我在战场上寻找冒险与荣耀。",
+        "translation": "我叫{s4}，来自{s8}。我在战场上寻找冒险与荣耀。"
     },
     {
+        "id": "qstr___The_ugly_face_of_a",
         "text": "--The_ugly_face_of_a_smiling_man_appears_before_you.--",
-        "translation": "——一个微笑着的男人的丑陋的脸出现在你面前。——"
+        "old_translation": "——一张带着笑容的丑陋面孔出现在你面前。——",
+        "translation": "——一张带着笑容的丑陋面孔出现在你面前。——"
     },
     {
+        "id": "qstr_Fergus_Mael_Bresail_",
         "text": "Fergus,_Mael_Bresail's_man_at_the_farm,_told_you_that_the_feast_was_prepared_for_twenty-five_people._You_must_bring_more_companions.",
-        "translation": "费格斯告诉你，普雷西尔王子的士兵在农场，宴会可以接待25个人。你必须带来更多伙伴。"
+        "old_translation": "梅尔·布雷塞尔在农场的部下费格斯告诉你，宴会已备好二十五人的席位。你必须带上更多同伴。",
+        "translation": "梅尔·布雷塞尔在农场的部下费格斯告诉你，宴会已备好二十五人的席位。你必须带上更多同伴。"
     },
     {
+        "id": "qstr_Fergus_Mael_Bresail_s",
         "text": "Fergus,_Mael_Bresail's_man_at_the_farm,_told_you_that_the_feast_was_prepared_for_twenty-five_people._You_must_dismiss_or_leave_the_rest_of_your_men_at_a_nearby_camp._Then,_return_to_him.",
-        "translation": "费格斯告诉你，普雷西尔王子在农场，宴会只能接待25个人。你必须解雇或者在附近的营地离开他们，之后再回去。"
+        "old_translation": "梅尔·布雷塞尔在农场的部下费格斯告诉你，宴会只备了二十五人的席位。你必须把其余部下遣散或留在附近营地，然后再回来找他。",
+        "translation": "梅尔·布雷塞尔在农场的部下费格斯告诉你，宴会只备了二十五人的席位。你必须把其余部下遣散或留在附近营地，然后再回来找他。"
     },
     {
+        "id": "qstr_Around_you_everybody",
         "text": "Around_you,_everybody_becomes_busy_on_the_farm_as_the_feast_starts.",
-        "translation": "你周围，每个人都在农场的盛宴开始时变得忙碌。"
+        "old_translation": "盛宴开始，你四周的农场顿时忙碌起来。",
+        "translation": "盛宴开始，你四周的农场顿时忙碌起来。"
     },
     {
+        "id": "qstr_The_chronicler_has_p",
         "text": "The_chronicler_has_promised_to_write_about_your_life_and_proclaim_to_the_world_that_you_are_Konungr_of_the_Norse_if_you_subjugate_the_Norse_towns:_{s3},_{s9}_and_{s11}.",
-        "translation": "记录者已答应写关于你的事迹并且向世界公布，你是全斯堪的纳维亚的统治者，如果你征服诺尔斯城镇{s3}，{s9}和{s11}。"
+        "old_translation": "编年史官已允诺，若你征服诺斯人的城镇{s3}、{s9}和{s11}，他将为你立传，并向世人宣告你是诺斯人的康戈尔。",
+        "translation": "编年史官已允诺，若你征服诺斯人的城镇{s3}、{s9}和{s11}，他将为你立传，并向世人宣告你是诺斯人的康戈尔。"
     },
     {
+        "id": "qstr_The_chronicler_has_pr",
         "text": "The_chronicler_has_promised_to_write_about_your_life_and_proclaim_to_the_world_that_you_are_the_Vrenhin_Lloegr_if_you_subjugate_the_Briton_towns:_{s3},_{s9}_and_{s11}.",
-        "translation": "记录者已答应写关于你的事迹并且向世界公布，你是全布立吞的统治者，如果你征服布立吞城镇：{s3}，{s9}和{s11}。"
+        "old_translation": "编年史官已允诺，若你征服布立吞人的城镇{s3}、{s9}和{s11}，他将为你立传，并向世人宣告你是布立吞人的至高王。",
+        "translation": "编年史官已允诺，若你征服布立吞人的城镇{s3}、{s9}和{s11}，他将为你立传，并向世人宣告你是布立吞人的至高王。"
     },
     {
+        "id": "qstr_The_chronicler_has_pro",
         "text": "The_chronicler_has_promised_to_write_about_your_life_and_proclaim_to_the_world_that_you_are_the_Ard_Ruire_of_Eriu_if_you_subjugate_the_Goidelic_towns:_{s3},_{s9}_and_{s11}.",
-        "translation": "记录者已答应写关于你的事迹并且向世界公布，你是全爱尔兰的统治者，如果你征服戈伊德尔城镇{s3}，{s9}和{s11}。"
+        "old_translation": "编年史官已允诺，若你征服盖尔人的城镇{s3}、{s9}和{s11}，他将为你立传，并向世人宣告你是爱尔兰的至尊大王。",
+        "translation": "编年史官已允诺，若你征服盖尔人的城镇{s3}、{s9}和{s11}，他将为你立传，并向世人宣告你是爱尔兰的至尊大王。"
     },
     {
+        "id": "qstr_The_chronicler_has_prom",
         "text": "The_chronicler_has_promised_to_write_about_your_life_and_proclaim_to_the_world_that_you_are_the_Brytenwalda_over_all_Englaland_if_you_subjugate_the_Angle_and_Saxon_towns:_{s3},_{s9}_and_{s11}.",
-        "translation": "记录者已答应写关于你的事迹并且向世界公布，你是全英格兰统治者了，如果你征服盎格鲁和撒克逊城镇：{s3}，{s9}和{s11}."
+        "old_translation": "编年史官已允诺，若你征服盎格鲁与撒克逊人的城镇{s3}、{s9}和{s11}，他将为你立传，并向世人宣告你是不列颠共主。",
+        "translation": "编年史官已许诺，若你征服盎格鲁与撒克逊人的城镇：{s3}、{s9}和{s11}，他将为你立传，并向世人宣告你是不列颠共主。"
     },
     {
+        "id": "qstr_Mael_Bresail_has_use",
         "text": "Mael_Bresail_has_used_you_to_kill_Flaithbertach's_children._Now,_many_of_the_lords_of_northern_Ireland_hate_you_for_being_a_murderer_of_royalty._Your_options_are_limited,_but_it_seems_that_all_involve_meeting_with_Mael_Bresail_on_his_farm_near_{s3}._He_promised_to_give_you_a_lot_of_peningas._Whatever_you_decide_at_this_meeting_will_determine_your_destiny.",
-        "translation": "普雷西尔王子利用你杀死了弗莱厄蒂的子嗣。现在，许多北爱尔兰贵族都痛恨你，因为你是杀死皇族的凶手。你没有太多选择，为今之计是去普雷西尔王子的农场附近见他{s3}。他答应给你很多钱，无论你做什么决定这都会改变你的命运。"
+        "old_translation": "梅尔·布雷塞尔利用你除掉了弗莱厄蒂的小孩们。如今，爱尔兰北部的许多领主因你弑杀王族而憎恨你。你的选择所剩无几，但似乎都得前往{s3}附近梅尔·布雷塞尔的农场与他见面。他答应给你一大笔银便士。你在这次会面中的决定将左右你的命运。",
+        "translation": "梅尔·布雷塞尔利用你除掉了弗莱厄蒂的小孩们。如今，爱尔兰北部的许多领主因你弑杀王族而憎恨你。你的选择所剩无几，但似乎都得前往{s3}附近梅尔·布雷塞尔的农场与他见面。他答应给你一大笔银便士。你在这次会面中的决定将左右你的命运。"
     },
     {
+        "id": "qstr_Mael_Bresail_has_used",
         "text": "Mael_Bresail_has_used_you_to_kill_Flaithbertach's_children._Now,_many_of_the_lords_of_northern_Ireland_hate_you_for_being_a_murderer_of_royalty._Your_options_are_limited,_but_it_seems_that_all_involve_meeting_with_Mael_Bresail_on_his_farm_near_{s3}._Whatever_you_decide_at_this_meeting_will_determine_your_destiny.",
-        "translation": "普雷西尔王子利用你杀死了弗莱厄蒂的子嗣。现在，许多北爱尔兰贵族都痛恨你，因为你是杀死皇族的凶手。你没有太多选择，为今之计是去普雷西尔王子的农场附近见他{s3}。无论你做什么决定这都会改变你的命运。"
+        "old_translation": "梅尔·布雷塞尔利用你除掉了弗莱厄蒂的小孩们。如今，爱尔兰北部的许多领主因你弑杀王族而憎恨你。你的选择所剩无几，但似乎都得前往{s3}附近梅尔·布雷塞尔的农场与他见面。你在这次会面中的决定将左右你的命运。",
+        "translation": "梅尔·布雷塞尔利用你除掉了弗莱厄蒂的小孩们。如今，爱尔兰北部的许多领主因你弑杀王族而憎恨你。你的选择所剩无几，但似乎都得前往{s3}附近梅尔·布雷塞尔的农场与他见面。你在这次会面中的决定将左右你的命运。"
     },
     {
+        "id": "qstr_Note_4:_You_chose_to",
         "text": "Note_4:_You_chose_to_spare_Mael_Bresail's_life._Both_of_you_made_oaths_to_not_cross_ways_ever_again.",
-        "translation": "笔记4：你选择给普雷西尔王子一条生路。你们再也不会干扰到对方的生活。"
+        "old_translation": "笔记4：你选择饶梅尔·布雷塞尔一命。你们二人立誓永不再相犯。",
+        "translation": "笔记4：你选择饶梅尔·布雷塞尔一命。你们二人立誓永不再相犯。"
     },
     {
+        "id": "qstr_Note_4:_Morrigan_for",
         "text": "Note_4:_Morrigan_forces_you_to_end_the_life_of_Mael_Bresail.",
-        "translation": "笔记4：莫莉卡迫使你结束普雷西尔王子的生命。"
+        "old_translation": "笔记4：莫莉甘逼你亲手结束梅尔·布雷塞尔的生命。",
+        "translation": "笔记4：莫莉甘逼你亲手结束梅尔·布雷塞尔的生命。"
     },
     {
+        "id": "qstr_Note_4:_You_killed_M",
         "text": "Note_4:_You_killed_Mael_Bresail_in_revenge_for_his_ambush_on_the_farm.",
-        "translation": "笔记4：你在农场杀死了普雷西尔王子来报复他的伏击。"
+        "old_translation": "笔记4：你为了报复他在农场的伏击，杀死了梅尔·布雷塞尔。",
+        "translation": "笔记4：你为了报复他在农场的伏击，杀死了梅尔·布雷塞尔。"
     },
     {
+        "id": "qstr_Morrigan_has_died._R",
         "text": "Morrigan_has_died._Return_to_the_abbot_to_get_your_reward_and_maybe_some_answers.",
-        "translation": "莫莉卡已经死了，回去领取奖励和一些答案。"
+        "old_translation": "莫莉甘已死。回去找修道院院长领取奖赏，也许还能得到一些答案。",
+        "translation": "莫莉甘已死。回去找修道院院长领取奖赏，也许还能得到一些答案。"
     },
     {
+        "id": "qstr_Note_3:_You_chose_to",
         "text": "Note_3:_You_chose_to_kill_Morrigan.",
-        "translation": "笔记3：你选择杀死莫莉卡。"
+        "old_translation": "笔记3：你选择杀死莫莉甘。",
+        "translation": "笔记3：你选择杀死莫莉甘。"
     },
     {
+        "id": "qstr_Oh_I_m_no_murderer..",
         "text": "Oh,_I'm_no_murderer..._I_am_only_trying_to_help_Bal_Luighne._(Phlegmatic)",
-        "translation": "噢，我并没有想谋杀谁…我只是想帮助巴尔伦。(冷静的)"
+        "old_translation": "哦，我可不是凶手……我只是想帮助巴尔伦。（冷静）",
+        "translation": "哦，我可不是凶手……我只是想帮助巴尔伦。（冷静）"
     },
     {
+        "id": "qstr_My_duty_is_but_to_pr",
         "text": "My_duty_is_but_to_protect_the_people_of_Bal_Luighne._(Melancholic)",
-        "translation": "保护巴尔伦是我的责任，我只是做了我应该做的。(忧郁的)"
+        "old_translation": "我的职责只是保护巴尔伦的人民。（忧郁）",
+        "translation": "我的职责只是保护巴尔伦的人民。（忧郁）"
     },
     {
+        "id": "qstr_I_am_not_a_murderer.",
         "text": "I_am_not_a_murderer._You_attacked_Bal_Luighne,_and_now_I_will_kill_you._(Choleric)",
-        "translation": "我并不是在谋杀谁。你攻击了巴尔伦，所以我现在将要杀了你。(暴躁的)"
+        "old_translation": "我不是凶手。你袭击了巴尔伦，现在我要杀了你。（暴躁）",
+        "translation": "我不是凶手。你袭击了巴尔伦，现在我要杀了你。（暴躁）"
     },
     {
+        "id": "qstr_My_only_goal_is_to_k",
         "text": "My_only_goal_is_to_kill_you_for_what_you_did_to_Bal_Luighne,_witch_(Sanguine)",
-        "translation": "我唯一的目标就是要杀了你，因为你对巴尔伦所做的一切，你这个巫婆(嗜血的)"
+        "old_translation": "我唯一的目标就是杀了你，因为你对巴尔伦所做的一切，女巫。（热血）",
+        "translation": "我唯一的目标就是杀了你，因为你对巴尔伦所做的一切，女巫。（热血）"
     },
     {
+        "id": "qstr_Morrigan_has_joined_",
         "text": "Morrigan_has_joined_your_party._Return_to_the_abbot_to_get_your_reward_and_maybe_some_answers.",
-        "translation": "莫莉卡加入了你的队伍。回到修道院长那里去取得你的报酬，也许还有某些问题的答案。"
+        "old_translation": "莫莉甘加入了你的队伍。回去找修道院院长领取奖赏，也许还能得到一些答案。",
+        "translation": "莫莉甘加入了你的队伍。回去找修道院院长领取奖赏，也许还能得到一些答案。"
     },
     {
+        "id": "qstr_Note_3:_You_chose_to_",
         "text": "Note_3:_You_chose_to_spare_the_life_of_Morrigan_and_seek_answers_from_Mael_Bresail._Morrigan_has_joined_your_shield_wall.",
-        "translation": "笔记3：你选择放莫莉卡一条生路，去普雷西尔王子那里寻找答案。莫莉卡现在成为了你的部队的一份子。"
+        "old_translation": "笔记3：你选择饶莫莉甘一命，并去梅尔·布雷塞尔那里寻找答案。莫莉甘已加入你的盾墙。",
+        "translation": "笔记3：你选择饶莫莉甘一命，并去梅尔·布雷塞尔那里寻找答案。莫莉甘已加入你的盾墙。"
     },
     {
+        "id": "qstr_My_parents_gave_me_t",
         "text": "My_parents_gave_me_the_name_of_{playername}._I_am_the_third_champion_you_were_waiting_for._(Phlegmatic)",
-        "translation": "我的父母为我取名为{playername}。我就是你们在等待的第三个勇者。(冷静的)"
+        "old_translation": "我的父母给我取名{playername}。我就是你们等待的第三位勇士。（冷静）",
+        "translation": "我的父母给我取名{playername}。我就是你们等待的第三位勇士。（冷静）"
     },
     {
+        "id": "qstr_Well_I_am_{playernam",
         "text": "Well,_I_am_{playername},_the_third_champion._(Melancholic)",
-        "translation": "你们好，我是{playername}，第三个勇者。(忧郁的)"
+        "old_translation": "嗯，我是{playername}，第三位勇士。（忧郁）",
+        "translation": "嗯，我是{playername}，第三位勇士。（忧郁）"
     },
     {
+        "id": "qstr_My_name_is_{playerna",
         "text": "My_name_is_{playername},_the_third_and_foremost_champion._(Choleric)",
-        "translation": "我是{playername}，第三个，也是最重要的一个勇者。(暴躁的)"
+        "old_translation": "我叫{playername}，第三位也是最重要的勇士。（暴躁）",
+        "translation": "我叫{playername}，第三位也是最重要的勇士。（暴躁）"
     },
     {
+        "id": "qstr_I_am_{playername}._A",
         "text": "I_am_{playername}._As_the_third_champion,_I_feel_honored_to_meet_you._(Sanguine)",
-        "translation": "我是{playername}。作为第三个被选中的勇者，遇到你们我感到很荣幸。(嗜血的)"
+        "old_translation": "我是{playername}。作为第三位勇士，能见到你们我很荣幸。（热血）",
+        "translation": "我是{playername}。作为第三位勇士，能见到你们我很荣幸。（热血）"
     },
     {
+        "id": "qstr_Ah_well_we_were_wait",
         "text": "Ah,_well,_we_were_waiting_outside_the_old,_burned-out_pagan's_place._You_made_us_wait_quite_a_long_time.",
-        "translation": "啊，你终于来了。我们在这烧焦的破房子前面等了老半天了。"
+        "old_translation": "啊，我们就在那座被烧毁的多神教徒旧屋外等着。你让我们等了好久。",
+        "translation": "啊，我们就在那座被烧毁的多神教徒旧屋外等着。你让我们等了好久。"
     },
     {
+        "id": "qstr_Now_you_decide_to_sh",
         "text": "Now_you_decide_to_show_up._You_arrive_late.",
-        "translation": "你终于决定要现身了。你迟到了。"
+        "old_translation": "你现在才出现。你迟到了。",
+        "translation": "你现在才出现。你迟到了。"
     },
     {
+        "id": "qstr_Yes_yes_I_see_and_yo",
         "text": "Yes,_yes,_I_see,_and_you_have_grandma._Anyway,_we_waited_several_days_for_your_arrival,_and_I'm_not_as_sure_as_you_that_it_was_worth_it.",
-        "translation": "嗯，嗯，我知道，你还有个外婆是吧。但不管怎么样，你让我们等了好几天，而我很怀疑这值不值得。"
+        "old_translation": "是，是，我看见了，你还带着外婆。总之，我们等了你好几天，我可不像你那么确定这值得。",
+        "translation": "是，是，我看见了，你还带着外婆。总之，我们等了你好几天，我可不像你那么确定这值得。"
     },
     {
+        "id": "qstr_Short_and_polite!_Th",
         "text": "Short_and_polite!_That's_fine._Too_bad_you_have_not_left_us_time_for_proper_ceremony,_late_as_you_are.",
-        "translation": "简洁明了！不过你来的这么晚，我们都没时间举行一个像样的仪式了。"
+        "old_translation": "简短有礼！也好。可惜你来得太晚，我们没时间举行像样的仪式了。",
+        "translation": "简短有礼！也好。可惜你来得太晚，我们没时间举行像样的仪式了。"
     },
     {
+        "id": "qstr_After_being_defeated",
         "text": "After_being_defeated_by_Morrigan,_you_met_the_other_two_champions,_Aed_and_Olchobar._After_talking_to_them,_you_have_parted_ways._They_will_follow_Morrigan_while_you_go_back_to_{s3}._It_looks_like_Caliacas_has_problems.",
-        "translation": "被莫莉卡打败之后，你与其他两位勇者艾德和奥乔巴汇合了。经过简单的交流之后，你们决定分头行动。他们将会继续跟踪莫莉卡，而你则先返回{s3}。卡利卡斯看起来似乎有些问题。"
+        "old_translation": "被莫莉甘击败后，你遇到了另外两位勇士艾德与奥尔乔巴。交谈后，你们分道扬镳。他们会继续追踪莫莉甘，而你返回{s3}。卡利卡斯似乎出了状况。",
+        "translation": "被莫莉甘击败后，你遇到了另外两位勇士艾德与奥尔乔巴。交谈后，你们分道扬镳。他们会继续追踪莫莉甘，而你返回{s3}。卡利卡斯似乎出了状况。"
     },
     {
+        "id": "qstr_Note_2:_Despite_thei",
         "text": "Note_2:_Despite_their_cowardice_and_refusal_to_help_defeat_Morrigan,_you_spared_the_lives_of_the_other_two_champions_in_Morrigan's_lair.",
-        "translation": "笔记2：尽管他们在与莫莉卡战斗时懦弱害怕而拒绝帮忙，在莫莉卡的洞穴中你还是选择放了这两名勇者一条生路。"
+        "old_translation": "笔记2：尽管他们怯懦地拒绝协助击败莫莉甘，你仍在莫莉甘的藏身处饶了那两位勇士一命。",
+        "translation": "笔记2：尽管他们怯懦地拒绝协助击败莫莉甘，你仍在莫莉甘的藏身处饶了那两位勇士一命。"
     },
     {
+        "id": "qstr_Note_2:_You_chose_ki",
         "text": "Note_2:_You_chose_kill_the_other_champions_for_their_cowardice_in_Morrigan's_lair.",
-        "translation": "笔记2：在莫莉卡的洞穴中，你选择杀掉了另外两名勇者。因为他们在面对莫莉卡时因为害怕拒绝帮忙。"
+        "old_translation": "笔记2：在莫莉甘的藏身处，你因那两位勇士的怯懦而将他们杀死。",
+        "translation": "笔记2：在莫莉甘的藏身处，你因那两位勇士的怯懦而将他们杀死。"
     },
     {
+        "id": "qstr_Note_3:_Without_rega",
         "text": "Note_3:_Without_regard_to_Ulf's_rules,_you_decided_to_let_Egil_and_Thora_have_a_conversation.",
-        "translation": "笔记3：你不顾乌尔夫的规矩，允许埃吉尔和索拉交谈。"
+        "old_translation": "笔记3：你不顾乌尔夫的规矩，决定让埃吉尔和索拉交谈。",
+        "translation": "笔记3：你不顾乌尔夫的规矩，决定让埃吉尔和索拉交谈。"
     },
     {
+        "id": "qstr_Note_3:_You_decided_",
         "text": "Note_3:_You_decided_to_respect_Ulf's_rules_and_protect_the_dignity_of_his_daughter,_Thora.",
-        "translation": "笔记3：你决定尊重乌尔夫的规矩，并保护他的女儿索拉的尊严。"
+        "old_translation": "笔记3：你决定尊重乌尔夫的规矩，保护他女儿索拉的尊严。",
+        "translation": "笔记3：你决定尊重乌尔夫的规矩，保护他女儿索拉的尊严。"
     },
     {
+        "id": "qstr_Note_3:_Without_regar",
         "text": "Note_3:_Without_regard_to_Ulf's_rules,_you_decided_to_have_a_romance_with_Thora,_his_daughter.",
-        "translation": "笔记3：你不顾乌尔夫的规矩，决定和他的女儿索拉谈一场浪漫的恋爱。"
+        "old_translation": "笔记3：你不顾乌尔夫的规矩，决定和他女儿索拉谈一场恋爱。",
+        "translation": "笔记3：你不顾乌尔夫的规矩，决定和他女儿索拉谈一场恋爱。"
     },
     {
+        "id": "qstr_{s9}_has_good_relati",
         "text": "{s9}_has_good_relations_with_you.",
-        "translation": "{s9}的关系和你很好。"
+        "old_translation": "{s9}与你关系良好。",
+        "translation": "{s9}与你关系良好。"
     },
     {
+        "id": "qstr___Ulf_seems_very_hap",
         "text": "--Ulf_seems_very_happy._He_carries_in_his_hands_the_sword_and_chainmail_of_Orm_Svarti.--",
-        "translation": "——乌尔夫看起来十分开心。他穿上了奥姆·斯瓦提的链甲，把剑拿在手上。——"
+        "old_translation": "——乌尔夫看起来十分高兴。他手里捧着奥姆·斯瓦蒂的剑和锁子甲。——",
+        "translation": "——乌尔夫看起来十分高兴。他手里捧着奥姆·斯瓦蒂的剑和锁子甲。——"
     },
     {
+        "id": "qstr_Thanks_for_sharing_y",
         "text": "Thanks_for_sharing_your_drink_and_your_food_with_us,_Ulf._(Phlegmatic)",
-        "translation": "感谢您分享的食物和饮料，乌尔夫。（冷静）"
+        "old_translation": "感谢你与我们分享酒食，乌尔夫。（冷静）",
+        "translation": "感谢你与我们分享酒食，乌尔夫。（冷静）"
     },
     {
+        "id": "qstr_Thanks_for_sharing_yo",
         "text": "Thanks_for_sharing_your_drink_and_your_food_with_us,_Ulf._(Melancholic)",
-        "translation": "感谢您分享的食物和饮料，乌尔夫。（谨慎）"
+        "old_translation": "感谢你与我们分享酒食，乌尔夫。（忧郁）",
+        "translation": "感谢你与我们分享酒食，乌尔夫。（忧郁）"
     },
     {
+        "id": "qstr_Sour_milk_and_butter",
         "text": "Sour_milk_and_buttered_bread?_Don't_you_have_anything_better?_(Choleric)",
-        "translation": "就只有酸奶和黄油面包？你难道就没有更好点的吗？（易怒）"
+        "old_translation": "酸奶和黄油面包？你就没有更好的东西吗？（暴躁）",
+        "translation": "酸奶和黄油面包？你就没有更好的东西吗？（暴躁）"
     },
     {
+        "id": "qstr_Sour_milk_and_buttere",
         "text": "Sour_milk_and_buttered_bread?_We_will_accept_your_poor_hospitality,_but_I_expected_better_from_a_man_like_you._(Sanguine)",
-        "translation": "就只有酸奶和黄油面包？我们会接受你可怜的热情，但我期望你是一个更好的人。（嗜血）"
+        "old_translation": "酸奶和黄油面包？我们接受你这寒酸的招待，但我原以为你这样的人会拿出更好的。（热血）",
+        "translation": "酸奶和黄油面包？我们接受你这寒酸的招待，但我原以为你这样的人会拿出更好的。（热血）"
     },
     {
+        "id": "qstr___He_spits_out_what_",
         "text": "--He_spits_out_what_he_was_eating_and_throws_away_his_skvr_horn.--",
-        "translation": "——他吐了他之前吃的东西然后扔开了他的酒杯。——"
+        "old_translation": "——他把嘴里的食物吐了出来，把角杯扔了出去。——",
+        "translation": "——他把嘴里的食物吐了出来，把角杯扔了出去。——"
     },
     {
+        "id": "qstr___She_raises_her_han",
         "text": "--She_raises_her_hands,_calling_for_calm.--",
-        "translation": "——她举起了双手，让大家冷静下来。——"
+        "old_translation": "——她举起双手，示意大家冷静。——",
+        "translation": "——她举起双手，示意大家冷静。——"
     },
     {
+        "id": "qstr___He_applauds.__",
         "text": "--He_applauds.--",
-        "translation": "——他鼓掌了。——"
+        "old_translation": "——他鼓起掌来。——",
+        "translation": "——他鼓起掌来。——"
     },
     {
+        "id": "qstr_Your_men_think_that_you_a",
         "text": "Your_men_think_that_you_are_a_great_leader.",
-        "translation": "你的人认为你是一个严厉惩罚背信弃义之人的强有力的领导者。"
+        "old_translation": "你的部下认为你是一位伟大的领袖。",
+        "translation": "你的部下认为你是一位伟大的领袖。"
     },
     {
+        "id": "qstr_{s11}_thinks_that_yo",
         "text": "{s11}_thinks_that_you_are_a_weak_leader.",
-        "translation": "{s11}认为你是一个差劲的领导者。"
+        "old_translation": "{s11}认为你是个软弱的领袖。",
+        "translation": "{s11}认为你是个软弱的领袖。"
     },
     {
+        "id": "qstr_{s14}",
         "text": "{s14}",
+        "old_translation": "{s14}",
         "translation": "{s14}"
     },
     {
+        "id": "qstr_Your_men_think_that_you_ar",
         "text": "Your_men_think_that_you_are_a_weak_leader.",
-        "translation": "你的人认为你是一个软弱的领导者，容许有人背叛你。"
+        "old_translation": "你的部下认为你是个软弱的领袖。",
+        "translation": "你的部下认为你是个软弱的领袖。"
     },
     {
+        "id": "qstr___Both_stop_surprise",
         "text": "--Both_stop,_surprised_by_your_authoritative_tone._Egil_turns_to_you,_nervous.--",
-        "translation": "——所有人都停了下来，惊讶于你的口气。埃吉尔紧张地转向了你。——"
+        "old_translation": "——两人都被你威严的语气震住，停了下来。埃吉尔紧张地转向你。——",
+        "translation": "——两人都被你威严的语气震住，停了下来。埃吉尔紧张地转向你。——"
     },
     {
+        "id": "qstr_{s11}_thinks_that_you",
         "text": "{s11}_thinks_that_you_are_a_great_leader.",
-        "translation": "{s11}认为你是一个很棒的领导者。"
+        "old_translation": "{s11}认为你是一位伟大的领袖。",
+        "translation": "{s11}认为你是一位伟大的领袖。"
     },
     {
+        "id": "qstr___Ulf_watches_mouth_",
         "text": "--Ulf_watches,_mouth_agape,_as_Egil_and_Reginhard,_followed_by_many_of_your_men,_assail_his_warehouse.--",
-        "translation": "——乌尔夫就这么目瞪口呆地看着埃吉尔与雷因哈德带着许多士兵将他的仓库一扫而空。——"
+        "old_translation": "——乌尔夫目瞪口呆，看着埃吉尔和雷因哈德带着大批手下冲进他的仓库。——",
+        "translation": "——乌尔夫目瞪口呆，看着埃吉尔和雷因哈德带着大批手下冲进他的仓库。——"
     },
     {
+        "id": "qstr_You_fought_a_duel_wi",
         "text": "You_fought_a_duel_with_Orm_the_Black_and_killed_him,_saving_Ulf's_farmstead_and_his_daughter,_Thora._Ulf_has_promised_he_will_not_testify_against_you_in_the_Assembly_and_not_ask_compensation_for_Thora's_pregnancy.",
-        "translation": "你和黑人奥姆进行了一场决斗，并杀了他，救下了乌尔夫的农庄和他的女儿索拉。乌尔夫向你保证他不会在议事会上公开指证你，也不会因为索拉的怀孕而问责。"
+        "old_translation": "你与黑奥姆决斗并杀了他，保住了乌尔夫的农庄和他女儿索拉。乌尔夫承诺不会在议事会上作证，也不会因索拉怀孕而索赔。",
+        "translation": "你与黑奥姆决斗并杀了他，保住了乌尔夫的农庄和他女儿索拉。乌尔夫承诺不会在议事会上作证，也不会因索拉怀孕而索赔。"
     },
     {
+        "id": "qstr_Note_3:_Your_romance",
         "text": "Note_3:_Your_romance_with_Thora_on_Ulf's_farm_has_had_consequences:_she_will_have_your_child.",
-        "translation": "笔记3：你和索拉在乌尔夫的农场的事情有了下文：她怀了你的孩子。"
+        "old_translation": "笔记3：你和索拉在乌尔夫的农场的事有了下文：她怀了你的孩子。",
+        "translation": "笔记3：你和索拉在乌尔夫的农场的事有了下文：她怀了你的孩子。"
     },
     {
+        "id": "qstr_Note_3:_Egil_s_roman",
         "text": "Note_3:_Egil's_romance_with_Thora_on_Ulf's_farm_has_had_consequences:_she_will_have_his_child.",
-        "translation": "笔记3：埃吉尔和索拉在乌尔夫的农场的事情有了下文：她怀了他的孩子。"
+        "old_translation": "笔记3：埃吉尔和索拉在乌尔夫的农场的事有了下文：她怀了他的孩子。",
+        "translation": "笔记3：埃吉尔和索拉在乌尔夫的农场的事有了下文：她怀了他的孩子。"
     },
     {
+        "id": "qstr_Note_3:_Thora_from_U",
         "text": "Note_3:_Thora_from_Ulf's_farm_has_gotten_pregnant_by_one_of_your_men.",
-        "translation": "笔记3：在乌尔夫的农场的索拉和你的一个手下有了孩子。"
+        "old_translation": "笔记3：乌尔夫农场的索拉被你手下的人弄大了肚子。",
+        "translation": "笔记3：乌尔夫农场的索拉被你手下的人弄大了肚子。"
     },
     {
+        "id": "qstr___Ulf_s_mouth_opens_",
         "text": "--Ulf's_mouth_opens_and_closes_several_times,_not_knowing_what_to_say._You_see_his_face_redden,_looking_ready_to_burst._His_eyes_search_around_to_rest_on_a_spear._His_thralls_have_stopped_doing_their_chores._They_are_five_or_six_men_armed_with_knives_and_sticks,_but_there_could_be_more_in_the_house.--",
-        "translation": "——乌尔夫的嘴巴张合了几次，但不知道他在说什么。你看见他的脸通红，看上去像是要爆发一样。他的眼睛四处搜寻找到他的矛。他的农奴们停止了工作，他们大概有五六个拿着刀棍的人，但可能在房子里面有更多人。——"
+        "old_translation": "——乌尔夫的嘴张了又合，不知该说什么。你看见他涨红了脸，像要炸开。他四下搜寻，目光落在长矛上。他的奴隶们停下活计，五六个男人持刀握棍，屋里或许还有更多人。——",
+        "translation": "——乌尔夫的嘴张了又合，不知该说什么。你看见他涨红了脸，像要炸开。他四下搜寻，目光落在长矛上。他的奴隶们停下活计，五六个男人持刀握棍，屋里或许还有更多人。——"
     },
     {
+        "id": "qstr_Do_not_question_me_B",
         "text": "Do_not_question_me,_Brunhild._Sometimes_it's_hard_to_hear_the_truth,_Ulf._(Sanguine)",
-        "translation": "不许质疑我，伯伦希尔。有时真相是残酷的，乌尔夫。（嗜血）"
+        "old_translation": "别质疑我，伯伦希尔。有时真相刺耳，乌尔夫。（热血）",
+        "translation": "别质疑我，伯伦希尔。有时真相刺耳，乌尔夫。（热血）"
     },
     {
+        "id": "qstr_I_apologize_Ulf._I_s",
         "text": "I_apologize,_Ulf._I_spoke_without_thinking._I_respect_your_daughter._(Phlegmatic)",
-        "translation": "我道歉，乌尔夫。我不经大脑就乱说话，我尊重你的女儿。（冷静）"
+        "old_translation": "抱歉，乌尔夫。我一时失言，我尊重你女儿。（冷静）",
+        "translation": "抱歉，乌尔夫。我一时失言，我尊重你女儿。（冷静）"
     },
     {
+        "id": "qstr_I_see_it_is_importan",
         "text": "I_see_it_is_important_and_makes_you_anxious._I_am_sorry._I_apologize._(Melancholic)",
-        "translation": "我知道让你焦虑的东西对你来说很重要。我很抱歉，我为此向你道歉。（谨慎）"
+        "old_translation": "我明白这让你焦虑，对不起，我道歉。（忧郁）",
+        "translation": "我明白这让你焦虑，对不起，我道歉。（忧郁）"
     },
     {
+        "id": "qstr_We_are_friends_Ulf._",
         "text": "We_are_friends,_Ulf._I_apologize._(Choleric)",
-        "translation": "我们是朋友，乌尔夫。我向你道歉。（易怒）"
+        "old_translation": "我们是朋友，乌尔夫，我向你道歉。（暴躁）",
+        "translation": "我们是朋友，乌尔夫，我向你道歉。（暴躁）"
     },
     {
+        "id": "qstr___Ulf_makes_an_effor",
         "text": "--Ulf_makes_an_effort_to_calm_down,_takes_a_deep_breath_and_looks_you_in_the_eyes.--",
-        "translation": "——乌尔夫努力地冷静下来，然后深吸一口气，看着你的眼睛。——"
+        "old_translation": "——乌尔夫努力平复，深吸一口气，直视你的眼睛。——",
+        "translation": "——乌尔夫努力平复，深吸一口气，直视你的眼睛。——"
     },
     {
+        "id": "qstr___Egil_laughs_at_his",
         "text": "--Egil_laughs_at_his_own_joke_while_making_indecent_gestures.--",
-        "translation": "——埃吉尔一边做不雅手势，一边笑自己的那个笑话。——"
+        "old_translation": "——埃吉尔一边做下流手势，一边为自己的笑话大笑。——",
+        "translation": "——埃吉尔一边做下流手势，一边为自己的笑话大笑。——"
     },
     {
+        "id": "qstr___Reginhard_launches",
         "text": "--Reginhard_launches_a_whistle_of_astonishment.--",
-        "translation": "——雷因哈德惊讶地吹了个口哨。——"
+        "old_translation": "——雷因哈德惊讶地吹了声口哨。——",
+        "translation": "——雷因哈德惊讶地吹了声口哨。——"
     },
     {
+        "id": "qstr___Ulf_looks_dejected",
         "text": "--Ulf_looks_dejected_when_he_sees_the_giant_appear_above_your_shoulder.--",
-        "translation": "——当看见那个越过你肩膀的巨人时，乌尔夫吓得脸都青了。——"
+        "old_translation": "——乌尔夫看见巨人越过你肩头，顿时垂头丧气。——",
+        "translation": "——乌尔夫看见巨人越过你肩头，顿时垂头丧气。——"
     },
     {
+        "id": "qstr___She_spits_near_the",
         "text": "--She_spits_near_the_foot_of_Orm.--",
-        "translation": "——她吐了一口口水在奥姆的脚边。——"
+        "old_translation": "——她朝奥姆脚边啐了一口。——",
+        "translation": "——她朝奥姆脚边啐了一口。——"
     },
     {
+        "id": "qstr_Note_5:_You_chose_to",
         "text": "Note_5:_You_chose_to_engage_Orm_Svarti_in_a_duel_so_that_Ulf_and_Thora_could_keep_their_farm_and_their_lives.",
-        "translation": "笔记5：你选择和奥姆·斯瓦提决斗，因此乌尔夫和索拉就能保住他们的农场和性命。"
+        "old_translation": "笔记5：你选择与奥姆·斯瓦蒂决斗，好让乌尔夫和索拉保住农场和性命。",
+        "translation": "笔记5：你选择与奥姆·斯瓦蒂决斗，好让乌尔夫和索拉保住农场和性命。"
     },
     {
+        "id": "qstr_Orm_the_Black_has_pr",
         "text": "Orm_the_Black_has_promised_to_kill_Ulf_to_get_his_farm_and_his_daughter._So_you_no_longer_have_to_worry_about_Ulf_testifying_against_you_at_the_Assembly.",
-        "translation": "黑人奥姆承诺他会杀死乌尔夫并抢走他的农场和女儿。因此你不需要担心乌尔夫会在议事会上公开指证你。"
+        "old_translation": "黑奥姆已发誓要杀乌尔夫，夺他的农场和女儿。你不必担心乌尔夫在集结地作证了。",
+        "translation": "黑奥姆已发誓要杀乌尔夫，夺他的农场和女儿。你不必担心乌尔夫在集结地作证了。"
     },
     {
+        "id": "qstr_Note_5:_You_chose_th",
         "text": "Note_5:_You_chose_that_Orm_Svarti_kill_Ulf_to_get_the_farm_and_Thora.",
-        "translation": "笔记5：你选择让奥姆·斯瓦提杀死乌尔夫并抢走他的农场和索拉。"
+        "old_translation": "笔记5：你让奥姆·斯瓦蒂杀掉乌尔夫，夺走农场和索拉。",
+        "translation": "笔记5：你让奥姆·斯瓦蒂杀掉乌尔夫，夺走农场和索拉。"
     },
     {
+        "id": "qstr_Your_men_are_getting",
         "text": "Your_men_are_getting_tired_of_listening_to_the_same_old_sermons._Perhaps_it's_time_to_let_it_go_for_a_while.",
-        "translation": "你的手下已经听腻了这千篇一律的布道词。也许应该隔一段时间再说了。"
+        "old_translation": "手下们听腻了老一套布道，也许该停一阵。",
+        "translation": "手下们听腻了老一套布道，也许该停一阵。"
     },
     {
+        "id": "qstr_The_priest_at_{s3}_a",
         "text": "The_priest_at_{s3}_asked_you_to_bring_him_{reg33}_drinking_horns_of_mead.",
-        "translation": "在{s3}的牧师要你给他带{reg33}罐蜂蜜酒。"
+        "old_translation": "将{reg33}角蜜酒送至{s3}",
+        "translation": "将{reg33}角蜜酒送至{s3}"
     },
     {
+        "id": "qstr_Your_men_are_getting_",
         "text": "Your_men_are_getting_tired_of_listening_to_the_same_old_stories_about_the_gods._Perhaps_it's_time_to_let_it_go_for_a_while.",
-        "translation": "你的手下已经听腻了这千篇一律的神的故事。也许应该隔一段时间再说了。"
+        "old_translation": "手下们听腻了诸神的旧故事，也许该停一阵。",
+        "translation": "手下们听腻了诸神的旧故事，也许该停一阵。"
     },
     {
+        "id": "qstr___She_smiles_and_loo",
         "text": "--She_smiles_and_looks_at_you_provocatively.--",
-        "translation": "——她用挑衅的目光看着你。——"
+        "old_translation": "——她含笑挑衅地望着你。——",
+        "translation": "——她含笑挑衅地望着你。——"
     },
     {
+        "id": "qstr___He_jumps_with_joy.",
         "text": "--He_jumps_with_joy._Finally,_he_stops_and_takes_a_deep_breath.--",
+        "old_translation": "——他欢快地跳着。最终他停了下来，深深地吸了一口气。——",
         "translation": "——他欢快地跳着。最终他停了下来，深深地吸了一口气。——"
     },
     {
+        "id": "qstr_Jetties",
         "text": "Jetties",
+        "old_translation": "码头",
         "translation": "码头"
     },
     {
+        "id": "qstr___Egil_stops_looting",
         "text": "--Egil_stops_looting_when_Olvir_is_carried_to_you._He_approaches.--",
-        "translation": "——当奥利维被带到你面前时，埃吉尔停止了寻找战利品。他向你走来。——"
+        "old_translation": "——当“白发”奥维尔被抬到你面前时，埃吉尔停止了搜刮。他走上前来。——",
+        "translation": "——当“白发”奥维尔被抬到你面前时，埃吉尔停止了搜刮。他走上前来。——"
     },
     {
+        "id": "qstr___Olvir_coughs_up_bl",
         "text": "--Olvir_coughs_up_blood_and_puts_his_hand_on_his_side._He_looks_tired,_very_tired,_but_still_proud._He_stands_up_straight.--",
-        "translation": "——奥利维咳了点血，并把手背起来。他看起来累了，非常累，但仍然很骄傲，昂然站着。——"
+        "old_translation": "——奥维尔咳出一口血，手按在肋侧。他显得疲惫，极度疲惫，却仍带着傲气。他挺直了身子。——",
+        "translation": "——奥维尔咳出一口血，手按在肋侧。他显得疲惫，极度疲惫，却仍带着傲气。他挺直了身子。——"
     },
     {
+        "id": "qstr___He_spits_to_one_si",
         "text": "--He_spits_to_one_side,_with_apathy,_before_speaking.--",
-        "translation": "——在开始说话之前，他冷漠地吐了一口口水。——"
+        "old_translation": "——他漠然地往旁边啐了一口，才开口说话。——",
+        "translation": "——他漠然地往旁边啐了一口，才开口说话。——"
     },
     {
+        "id": "qstr___His_face_is_pale._",
         "text": "--His_face_is_pale._He_has_a_moment_of_life_left.--",
-        "translation": "——他的脸很苍白，生命结束之前他还能有一点时间。——"
+        "old_translation": "——他脸色苍白，只剩最后一口气。——",
+        "translation": "——他脸色苍白，只剩最后一口气。——"
     },
     {
+        "id": "qstr___He_has_a_cough_tha",
         "text": "--He_has_a_cough_that_makes_him_stoop._You_see_blood_flowing_from_his_side_in_less_quantity,_and_his_eyes_begin_to_fade.--",
-        "translation": "——他猛烈地咳嗽，以至于弯下了腰。你看到他的血越流越少，而他的眼睛也渐渐地褪色。——"
+        "old_translation": "——一阵咳嗽让他弯下腰。你看到血从他身侧缓缓流出，越来越少，他的眼神也开始涣散。——",
+        "translation": "——一阵咳嗽让他弯下腰。你看到血从他身侧缓缓流出，越来越少，他的眼神也开始涣散。——"
     },
     {
+        "id": "qstr_Note_4:_You_chose_th",
         "text": "Note_4:_You_chose_that_Olvir_White_Hair,_brother_of_Sven_Bull_Neck,_would_die_with_his_sword_in_his_hands.",
-        "translation": "笔记4：你选择让白发奥利维，牛颈斯温的兄弟，和他手中的剑一起死去。"
+        "old_translation": "笔记4：你选择让“牛颈”斯温的兄弟“白发”奥维尔，手握长剑而死。",
+        "translation": "笔记4：你选择让“牛颈”斯温的兄弟“白发”奥维尔，手握长剑而死。"
     },
     {
+        "id": "qstr_Here_a_warrior_who_h",
         "text": "Here,_a_warrior_who_has_fought_well_deserves_Walhalla._Egil,_give_him_his_sword._(Justice)",
-        "translation": "在这里，一名出色的战士理应得到进入英灵殿的资格。埃吉尔，把剑给他。（正直）"
+        "old_translation": "在此，英勇作战的战士理应升入英灵殿。埃吉尔，把剑给他。（正义）",
+        "translation": "在此，英勇作战的战士理应升入英灵殿。埃吉尔，把剑给他。（正义）"
     },
     {
+        "id": "qstr___Egil_carefully_put",
         "text": "--Egil_carefully_puts_the_sword_in_the_hand_of_Olvir,_who_looks_at_you_gratefully.--",
-        "translation": "——埃吉尔小心翼翼地把剑放在了奥利维手中，他十分感激地看着你。——"
+        "old_translation": "——埃吉尔小心地把剑放进奥维尔手里，奥维尔感激地望着你。——",
+        "translation": "——埃吉尔小心地把剑放进奥维尔手里，奥维尔感激地望着你。——"
     },
     {
+        "id": "qstr_Note_4:_You_chose_tha",
         "text": "Note_4:_You_chose_that_Olvir_White_Hair,_brother_of_Sven_Bull_Neck,_would_die_without_his_sword_in_his_hands._You_kept_the_weapon_for_yourself.",
-        "translation": "笔记4：你选择让白发奥利维，牛颈斯温的兄弟，不能拿着他的剑死去，你决定自己留着这把剑。"
+        "old_translation": "笔记4：你选择让“牛颈”斯温的兄弟“白发”奥维尔，空着手死去。你把武器留给了自己。",
+        "translation": "笔记4：你选择让“牛颈”斯温的兄弟“白发”奥维尔，空着手死去。你把武器留给了自己。"
     },
     {
+        "id": "qstr___He_looks_at_you_with_",
         "text": "--He_looks_at_you_with_hate_when_you_take_his_sword_in_your_hand._Olvir's_eyes_shut,_his_lips_utter_a_curse_that_does_not_reach_your_ears,_and_then,_Olvir_White_Hair,_brother_of_Sven_Bull_Neck,_dies.--",
-        "translation": "——他用仇恨的目光看着你手中的剑。奥利维闭上了眼睛，口中发出了一个诅咒，但你没有听到。最后，白发奥利维，牛颈斯温的兄弟，就这么死去了。——"
+        "old_translation": "——当你把剑握在手中时，他恨恨地盯着你。奥维尔闭上眼，嘴唇无声地吐出一道诅咒，随后，“牛颈”斯温的兄弟“白发”奥维尔，就此死去。——",
+        "translation": "——当你把剑握在手中时，他恨恨地盯着你。奥维尔闭上眼，嘴唇无声地吐出一道诅咒，随后，“牛颈”斯温的兄弟“白发”奥维尔，就此死去。——"
     },
     {
+        "id": "qstr_Sven_s_Bull_Neck_bro",
         "text": "Sven's_Bull_Neck_brother,_Olvir_White_Hair,_has_died_at_the_Battle_of_Ulf's_Farm._Egil_thinks_{s9}_will_use_this_to_report_you_to_the_Assembly_and_demand_blood_compensation._Your_companion_has_proposed_for_you_go_to_visit_{s11}_again.",
-        "translation": "牛颈斯温的兄弟，白发奥利维，死在了乌尔夫的农场的战斗当中。埃吉尔认为{s9}会利用这件事情向议事会控诉你，并要求你血债血还。你的同伴建议你再拜访一次{s11}。"
+        "old_translation": "“牛颈”斯温的兄弟“白发”奥维尔，战死于乌尔夫农庄。埃吉尔认为{s9}会借此向集结地控告你，索要血偿。你的同伴建议你再去找{s11}谈谈。",
+        "translation": "“牛颈”斯温的兄弟“白发”奥维尔，战死于乌尔夫农庄。埃吉尔认为{s9}会借此向集结地控告你，索要血偿。你的同伴建议你再去找{s11}谈谈。"
     },
     {
+        "id": "qstr___The_prisoner_drink",
         "text": "--The_prisoner_drinks_eagerly._He_has_an_enormous_thirst.--",
-        "translation": "--囚犯如饥似渴地喝着，他看起来真的渴了。--"
+        "old_translation": "——俘虏急切地饮水，渴得厉害。——",
+        "translation": "——俘虏急切地饮水，渴得厉害。——"
     },
     {
+        "id": "qstr_You_weakling!",
         "text": "You_weakling!",
-        "translation": "你这个弱者！"
+        "old_translation": "你这个懦夫！",
+        "translation": "你这懦夫！"
     },
     {
+        "id": "qstr_You_re_pathetic.",
         "text": "You're_pathetic.",
-        "translation": "你真可怜。"
+        "old_translation": "你真可悲。",
+        "translation": "你真可悲。"
     },
     {
+        "id": "qstr_You_give_me_grief.",
         "text": "You_give_me_grief.",
-        "translation": "你让我感到悲痛。"
+        "old_translation": "你让我痛心。",
+        "translation": "你让我痛心。"
     },
     {
+        "id": "qstr___He_is_relieved_by_",
         "text": "--He_is_relieved_by_your_actions.--",
-        "translation": "——他为此感到安心。——"
+        "old_translation": "——他因你的举动而松了口气。——",
+        "translation": "——他因你的举动而松了口气。——"
     },
     {
+        "id": "qstr___The_prisoner_looks",
         "text": "--The_prisoner_looks_at_you,_confused,_but_he_seems_more_relaxed.--",
-        "translation": "——囚犯有些疑惑地看着你，但他看起来明显轻松了。——"
+        "old_translation": "——俘虏困惑地看着你，但明显放松了些。——",
+        "translation": "——俘虏困惑地看着你，但明显放松了些。——"
     },
     {
+        "id": "qstr___The_prisoner_nods.",
         "text": "--The_prisoner_nods.--",
-        "translation": "——囚犯点了点头。——"
+        "old_translation": "——俘虏点了点头。——",
+        "translation": "——俘虏点了点头。——"
     },
     {
+        "id": "qstr___Your_blow_hits_the",
         "text": "--Your_blow_hits_the_prisoner's_face,_who_nearly_falls.--",
-        "translation": "——你打中了囚犯的脸，他差点跌倒。——"
+        "old_translation": "——你打中了俘虏的脸，他差点摔倒。——",
+        "translation": "——你打中了俘虏的脸，他差点摔倒。——"
     },
     {
+        "id": "qstr___You_see_the_prison",
         "text": "--You_see_the_prisoner_grit_his_teeth,_trying_to_endure_the_pain.--",
-        "translation": "——你看着囚犯咬紧牙关，试图减轻痛苦。——"
+        "old_translation": "——你看见俘虏咬紧牙关，强忍疼痛。——",
+        "translation": "——你看见俘虏咬紧牙关，强忍疼痛。——"
     },
     {
+        "id": "qstr___He_does_not_answer",
         "text": "--He_does_not_answer,_but_you're_sure_he_will_be_more_collaborative_now.--",
-        "translation": "——他不回答，但你确认他会配合的。——"
+        "old_translation": "——他没有回答，但你确信他这下会合作。——",
+        "translation": "——他没有回答，但你确信他这下会合作。——"
     },
     {
+        "id": "qstr___The_prisoner_screa",
         "text": "--The_prisoner_screams_in_pain._Maybe_now_he_will_be_more_cooperative.--",
-        "translation": "——他痛苦地叫起来。或许他会更配合的。——"
+        "old_translation": "——俘虏痛得尖叫。也许现在他会更配合。——",
+        "translation": "——俘虏痛得尖叫。也许现在他会更配合。——"
     },
     {
+        "id": "qstr___The_prisoner_shout",
         "text": "--The_prisoner_shouts_and_cries_in_pain._You're_sure_he's_going_to_answer_your_questions.--",
-        "translation": "——他痛苦地哭叫起来。你确认他会回答你的问题。——"
+        "old_translation": "——俘虏又哭又叫，疼得厉害。你确定他会回答你的问题。——",
+        "translation": "——俘虏又哭又叫，疼得厉害。你确定他会回答你的问题。——"
     },
     {
+        "id": "qstr___The_prisoner_s_scr",
         "text": "--The_prisoner's_screams_are_terrible._You've_never_heard_a_man_shout_so_much.--",
-        "translation": "——他的叫声很凄厉，你从来都没到过一个人叫得那么大声。——"
+        "old_translation": "——俘虏的惨叫凄厉刺耳，你从未听过有人叫得这么惨。——",
+        "translation": "——俘虏的惨叫凄厉刺耳，你从未听过有人叫得这么惨。——"
     },
     {
+        "id": "qstr___He_seems_uncomfort",
         "text": "--He_seems_uncomfortable_with_the_torture_that_you_are_subjecting_the_prisoner_to,_so_rejoices_when_you_ask_for_help.--",
-        "translation": "——你的严刑拷打让他痛苦无比，他会很乐意回答你的问题。——"
+        "old_translation": "——他对你的拷打似乎于心不忍，因此当你开口求助时，他立刻答应。——",
+        "translation": "——他对你的拷打似乎于心不忍，因此当你开口求助时，他立刻答应。——"
     },
     {
+        "id": "qstr___The_prisoner_looks_",
         "text": "--The_prisoner_looks_at_him_thoughtfully,_weighing_his_options._Finally,_he_nods.--",
-        "translation": "——你的严刑拷打让他痛苦无比，他作出决定后，终于点了点头。——"
+        "old_translation": "——俘虏若有所思地望向他，权衡片刻，终于点头。——",
+        "translation": "——俘虏若有所思地望向他，权衡片刻，终于点头。——"
     },
     {
+        "id": "qstr___He_unsuccessfully_",
         "text": "--He_unsuccessfully_tries_to_say_something,_but_just_uses_up_his_remaining_energies.--",
-        "translation": "——他试图说了几句话，但用光了最后的力气。——"
+        "old_translation": "——他张嘴想说什么，却耗尽最后一点力气，什么也没说出来。——",
+        "translation": "——他张嘴想说什么，却耗尽最后一点力气，什么也没说出来。——"
     },
     {
+        "id": "qstr___He_grabs_his_club_",
         "text": "--He_grabs_his_club_tightly_and_laughs.--",
-        "translation": "——他紧紧地抱住刑具并笑了笑——"
+        "old_translation": "——他握紧棍棒，咧嘴一笑。——",
+        "translation": "——他握紧棍棒，咧嘴一笑。——"
     },
     {
+        "id": "qstr___He_makes_a_gesture",
         "text": "--He_makes_a_gesture_of_disgust.--",
-        "translation": "——他作出了厌恶的手势。——"
+        "old_translation": "——他做了个厌恶的手势。——",
+        "translation": "——他做了个厌恶的手势。——"
     },
     {
+        "id": "qstr_My_name_is_Olafr_and",
         "text": "My_name_is_Olafr,_and_I'd_like_to_meet_your_sister.",
-        "translation": "我的名字叫奥拉夫，我想见你的妹妹。"
+        "old_translation": "我叫奥拉夫，想见你妹妹。",
+        "translation": "我叫奥拉夫，想见你妹妹。"
     },
     {
+        "id": "qstr_Sven_Bull_Neck_will_",
         "text": "Sven_Bull_Neck_will_kill_you!",
-        "translation": "牛颈斯温会杀了你！"
+        "old_translation": "“牛颈”斯温会宰了你！",
+        "translation": "“牛颈”斯温会宰了你！"
     },
     {
+        "id": "qstr_You_re_an_asshole.",
         "text": "You're_an_asshole.",
-        "translation": "你这个人渣！"
+        "old_translation": "你这混蛋。",
+        "translation": "你这混蛋。"
     },
     {
+        "id": "qstr___He_looks_with_tire",
         "text": "--He_looks_with_tired_eyes.--",
-        "translation": "——他看起来很疲惫。——"
+        "old_translation": "——他眼神疲惫。——",
+        "translation": "——他眼神疲惫。——"
     },
     {
+        "id": "qstr_Sven_Bull_Neck_order",
         "text": "Sven_Bull_Neck_ordered_me_to_disembark_in_Doccinga_with_several_men_and_secure_the_site_with_a_longphort._If_all_had_gone_well,_our_Lord_Sigurd_'Snake_in_the_Eye'_would_be_sending_another_100_men_from_Danmark,_to_help_{s11}_be_crowned_king._I_know_only_a_bit,_but_I_think_the_jarl_of_Kennemer_promised_to_send_five_hundred_men_on_this_summer's_expedition_in_Englaland_if_he_becomes_king._However,_this_is_no_longer_relevant._We_failed,_and_Sigurd_'Snake_in_the_Eye'_will_not_sacrifice_more_men._He_will_need_to_help_his_brothers_in_Englaland._You_can_rest_easy.",
-        "translation": "牛颈斯温命令我和一群人登陆道琴嘉，并建起一座港垒以保证安全。如果事情发展顺利，我们的首领“蛇眼”西格德就会从丹麦另派100人来帮助{s11}称王。我就知道这些，我认为肯尼莫的雅尔承诺过在他称王之后，会派出500人在夏天加入西格德远征英格兰的军队。但这不可能了，我们失败了，“蛇眼”西格德不会再牺牲更多的人。他会支援他在英格兰的兄弟，你可以休养生息了。"
+        "old_translation": "“牛颈”斯温命我率数人登陆道琴嘉，筑长港固守。若一切顺利，我们的领主“蛇眼”西格德会从丹麦再派百人，助{s11}加冕为王。我所知不多，只知肯尼莫的雅尔答应，若{s11}称王，今夏便出兵五百随他征英格兰。如今皆成空谈。我们败了，“蛇眼”西格德不会再牺牲兵力，他得去英格兰支援自家兄弟。你大可安心。",
+        "translation": "“牛颈”斯温命我率数人登陆道琴嘉，筑长港固守。若一切顺利，我们的领主“蛇眼”西格德会从丹麦再派百人，助{s11}加冕为王。我所知不多，只知肯尼莫的雅尔答应，若{s11}称王，今夏便出兵五百随他征英格兰。如今皆成空谈。我们败了，“蛇眼”西格德不会再牺牲兵力，他得去英格兰支援自家兄弟。你大可安心。"
     },
     {
+        "id": "qstr_{s3}^^{s4}",
         "text": "{s3}^^{s4}",
+        "old_translation": "{s3}^^{s4}",
         "translation": "{s3}^^{s4}"
     },
     {
+        "id": "qstr_All_plans_of_{s9}_to",
         "text": "All_plans_of_{s9}_to_be_king_have_been_ruined_by_your_intervention._His_ally,_the_Danish_lord,_{s11}_'Snake_in_the_Eye,'_will_not_send_more_troops_because_he_is_recruiting_for_reinforcements_to_Englaland._It_seems_Friese_will_be_free_from_Viking_attacks_for_some_time,_thanks_to_your_effort._The_paradox_is_that_you_now_have_to_run_away_from_the_land_that_you_have_just_helped_save.",
-        "translation": "{s9}的所有称王计划都被你给毁了。他的盟友，丹麦领主“蛇眼”{s11}不会再派来更多士兵，因为他在征兵侵略英格兰。因为你的所作所为，看起来弗里斯也会从维京人的入侵中休息一阵。但可笑的是你现在得从你拯救的土地上逃跑了。"
+        "old_translation": "{s9}的称王大计因你而毁。其盟友丹麦领主“蛇眼”{s11}不再增兵，正为征英格兰募勇。多亏你，弗里西暂时免受维京袭扰。讽刺的是，你如今却得逃离这片刚救下的土地。",
+        "translation": "{s9}的称王大计因你而毁。其盟友丹麦领主“蛇眼”{s11}不再增兵，正为征英格兰募勇。多亏你，弗里西暂时免受维京袭扰。讽刺的是，你如今却得逃离这片刚救下的土地。"
     },
     {
+        "id": "qstr_I_know_nothing!",
         "text": "I_know_nothing!",
+        "old_translation": "我什么都不知道！",
         "translation": "我什么都不知道！"
     },
     {
+        "id": "qstr___He_forces_a_smile.",
         "text": "--He_forces_a_smile.--",
-        "translation": "——他强笑着——"
+        "old_translation": "——他勉强挤出一丝笑容。——",
+        "translation": "——他勉强挤出一丝笑容。——"
     },
     {
+        "id": "qstr_Sven_Bull_Neck_has_t",
         "text": "Sven_Bull_Neck_has_things_more_important_to_do._Sigurd_'Snake_in_the_Eye'_called_on_him_a_few_days_ago_from_Danmark._If_you_want_to_know_where_he_is,_go_and_ask_Sigurd_himself._But_I_suggest_you_ask_him_more_nicely_than_you_asked_me.",
-        "translation": "牛颈斯温还有更重要的事情得做。“蛇眼”西格德在几天前召他到丹麦。如果你想知道他在哪，就去问西格德本人。但我建议你最好好好和他说话，而不是像对待我一样。"
+        "old_translation": "“牛颈”斯温还有更重要的事要做。“蛇眼”西格德几天前从丹麦召他过去。你若想知道他在哪儿，就去问西格德本人。但我劝你对他客气些，别像刚才对我那样。",
+        "translation": "“牛颈”斯温还有更重要的事要做。“蛇眼”西格德几天前从丹麦召他过去。你若想知道他在哪儿，就去问西格德本人。但我劝你对他客气些，别像刚才对我那样。"
     },
     {
+        "id": "qstr_Sigurd__Snake_in_the",
         "text": "Sigurd_'Snake_in_the_Eye'_called_Sven_Bull_Neck_to_Danmark._It_looks_like_the_jarl_has_some_new_mission_for_him._It_looks_it_would_be_good_to_travel_to_Danmark_and_ask_for_{s11}_'Snake_in_the_Eye.'_{s6}_could_be_a_nice_place_to_start.",
-        "translation": "牛颈斯温被“蛇眼”西格德叫到丹麦了，看起来雅尔有什么新任务交给他。你最好直接去丹麦向“蛇眼”{s11}发问。{s6}或许是个开始的好地方。"
+        "old_translation": "“蛇眼”西格德把“牛颈”斯温召去了丹麦，看来雅尔又给他新任务。你最好亲自去丹麦找“蛇眼”{s11}问个明白。{s6}或许是个不错的起点。",
+        "translation": "“蛇眼”西格德把“牛颈”斯温召去了丹麦，看来雅尔又给他新任务。你最好亲自去丹麦找“蛇眼”{s11}问个明白。{s6}或许是个不错的起点。"
     },
     {
+        "id": "qstr_I_say_nothing_bastar",
         "text": "I_say_nothing,_bastard!",
-        "translation": "我偏不说，杂种！"
+        "old_translation": "我什么都不说，杂种！",
+        "translation": "我什么都不说，杂种！"
     },
     {
+        "id": "qstr___He_twists_his_mout",
         "text": "--He_twists_his_mouth_and_looks_at_you_with_contempt.--",
-        "translation": "——他歪着嘴鄙夷地看着你。——"
+        "old_translation": "——他撇着嘴，鄙夷地瞪着你。——",
+        "translation": "——他撇着嘴，鄙夷地瞪着你。——"
     },
     {
+        "id": "qstr_Sigurd__Snake_in_the_",
         "text": "Sigurd_'Snake_in_the_Eye'_is_Sven_Bull_Neck's_jarl,_and_Sven_is_my_hersir._Both_of_them_are_powerful_men,_great_warriors,_so_stay_away_from_them,_or_they_will_send_you_straight_to_hell.",
-        "translation": "“蛇眼”西格德是牛颈斯温的主子，而斯温是我的主子。他们两个都是强大的人，伟大的战士，所以离他们远点，否则他们会直接送你下地狱。"
+        "old_translation": "“蛇眼”西格德是“牛颈”斯温的雅尔，而斯温是我的海希尔。这两人都是强者，伟大的战士，所以离他们远点，否则他们会直接把你送进地狱。",
+        "translation": "“蛇眼”西格德是“牛颈”斯温的雅尔，而斯温是我的海希尔。这两人都是强者，伟大的战士，所以离他们远点，否则他们会直接把你送进地狱。"
     },
     {
+        "id": "qstr_Sven_Bull_Neck_and_{",
         "text": "Sven_Bull_Neck_and_{s11},_'Snake_in_the_Eye,'_are_famous_warriors_in_Danmark._You'll_have_to_be_careful_if_you_intend_to_fight_them.",
-        "translation": "牛颈斯温和“蛇眼”{s11}，都是威震丹麦的战士。如果和他们作战，你得小心了。"
+        "old_translation": "“牛颈”斯温和“蛇眼”{s11}在丹麦都是赫赫有名的战士。若你想与他们为敌，可得小心。",
+        "translation": "“牛颈”斯温和“蛇眼”{s11}在丹麦都是赫赫有名的战士。若你想与他们为敌，可得小心。"
     },
     {
+        "id": "qstr_Scum!",
         "text": "Scum!",
+        "old_translation": "人渣！",
         "translation": "人渣！"
     },
     {
+        "id": "qstr___He_tilts_his_head_",
         "text": "--He_tilts_his_head_and_stares,_pondering_the_answer.--",
-        "translation": "——他侧着头凝视，在琢磨着怎么回答。——"
+        "old_translation": "——他侧着头盯着你，思索着如何回答。——",
+        "translation": "——他侧着头盯着你，思索着如何回答。——"
     },
     {
+        "id": "qstr_You_wish_to_know_abo",
         "text": "You_wish_to_know_about_the_great_Ragnar_Lodbrok,_from_the_Ynglingeaetten_clan,_descendants_of_Odin,_eh?_Well,_he_was_a_jarl_feared_by_all_Christians._He_attacked_Englaland_and_Frankia_many_times,_and_he_is_famous_for_his_huge_expeditions._He_knew_how_to_unite_and_lead_men.",
-        "translation": "你想了解来自杨灵艾庭部落，奥丁的子嗣，伟大的拉格纳·罗德伯克吗？好吧，他是一个让所有基督徒都心惊胆战的雅尔，曾经多次袭击英格兰和法兰克，以其壮举闻名天下。他非常懂得如何团结并领导士兵。"
+        "old_translation": "你想了解来自英格林家族、奥丁后裔的伟大“毛裤子”拉格纳？他可是令所有基督徒胆寒的雅尔，多次袭击英格兰和法兰克，以浩大远征闻名。他善于团结并率领众人。",
+        "translation": "你想了解来自英格林家族、奥丁后裔的伟大“毛裤子”拉格纳？他可是令所有基督徒胆寒的雅尔，多次袭击英格兰和法兰克，以浩大远征闻名。他善于团结并率领众人。"
     },
     {
+        "id": "qstr___He_looks_directly_",
         "text": "--He_looks_directly_at_you_with_emphatic_blue_eyes.--",
-        "translation": "——他用果断的蓝色双眸直直地看着你。——"
+        "old_translation": "——他用坚定的蓝眼睛直视着你。——",
+        "translation": "——他用坚定的蓝眼睛直视着你。——"
     },
     {
+        "id": "qstr_Ragnar_was_more_than",
         "text": "Ragnar_was_more_than_a_man,_and_his_sons,_too_--_he_had_many_sons_with_his_many_wives,_especially_Lathgertha_and_Aslaug._Ivar_the_Boneless,_Bjorn_Ironside,_Halfdan,_Sigurd_'Snake_in_the_Eye,'_Hubbi,_and_others..._He_had_more_than_ten_sons_and_many_daughters.^If_you_are_so_clever,_you_will_avoid_confronting_them._You_should_even_ask_Sigurd's_forgiveness_for_killing_his_men_in_Doccinga.",
-        "translation": "拉格纳超越了人类，而且他的儿子们也一样。他和他的妻子们有众多儿子，特别是拉芙格莎和阿丝洛，不算其他女人的话。无骨者艾瓦，比约恩·艾恩赛德，哈弗丹，“蛇眼”西格德，以及乌比等等……他有超过10个儿子和众多女儿。^如果你够聪明的话，就不要正面对抗他们。你甚至最好去请求西格德赦免你在道琴嘉杀死他那么多手下的罪孽。"
+        "old_translation": "拉格纳非凡人，他的儿子们亦然——他与众多妻妾育有许多儿子，尤以拉葛莎与亚丝拉琪为最。无骨者伊瓦尔、“铁臂”比约恩、哈夫丹、“蛇眼”西格德、乌比……他有十余子，还有众多女儿。^若你够聪明，就别与他们为敌。你甚至该为在道琴嘉杀他部下向西格德求赦。",
+        "translation": "拉格纳非凡人，他的儿子们亦然——他与众多妻妾育有许多儿子，尤以拉葛莎与亚丝拉琪为最。无骨者伊瓦尔、“铁臂”比约恩、哈夫丹、“蛇眼”西格德、乌比……他有十余子，还有众多女儿。^若你够聪明，就别与他们为敌。你甚至该为在道琴嘉杀他部下向西格德求赦。"
     },
     {
+        "id": "qstr___He_spits_to_the_si",
         "text": "--He_spits_to_the_side_before_continuing.--",
-        "translation": "——在继续说之前他在一旁吐了口痰。——"
+        "old_translation": "——他先往旁边啐了一口，才继续说道。——",
+        "translation": "——他先往旁边啐了一口，才继续说道。——"
     },
     {
+        "id": "qstr_Unfortunately_King_A",
         "text": "Unfortunately,_King_Aelle_of_Northhymbre,_in_Englaland,_took_Ragnar_prisoner_and_threw_him_into_a_pit_of_poisonous_snakes._Now,_Ragnar's_sons_have_gone_to_Northhymbre_and_killed_its_kings._Northhymbre_is_Danish_land_now,_and_soon_the_rest_of_Englaland_will_follow._Sigurd_'Snake_in_the_Eye'_and_Ragnar's_other_sons_are_calling_to_arms_many_men_in_Danmark._They_will_join_Ivar_and_Halfdan_Ragnarsson_and_will_advance_over_rest_of_Englaland,_everyone_knows.",
-        "translation": "不幸的是，在英格兰，诺森布里亚国王艾利把拉格纳抓了起来，并把他丢到毒蛇洞里。如今，拉格纳的子嗣们征服了诺森布里亚，杀死了它的国王们。现在诺森布里亚是丹麦的地盘了，很快英格兰的其他地方也得沦陷。“蛇眼”西格德和拉格纳的其他儿子们将从丹麦召集大量人马，他们会加入艾瓦和哈弗丹·拉格纳逊并进攻英格兰，这是所有人都知道的。"
+        "old_translation": "不幸地，诺森布里亚国王埃勒在英格兰俘虏了拉格纳，把他扔进毒蛇坑。如今拉格纳诸子已攻入诺森布里亚，杀尽诸王。诺森布里亚现属丹麦，很快英格兰其余地方亦将如此。“蛇眼”西格德与拉格纳其他儿子正在丹麦召集大军，众人皆知他们将汇合伊瓦尔与哈夫丹·拉格纳逊，席卷英格兰。",
+        "translation": "不幸地，诺森布里亚国王埃勒在英格兰俘虏了拉格纳，把他扔进毒蛇坑。如今拉格纳诸子已攻入诺森布里亚，杀尽诸王。诺森布里亚现属丹麦，很快英格兰其余地方亦将如此。“蛇眼”西格德与拉格纳其他儿子正在丹麦召集大军，众人皆知他们将汇合伊瓦尔与哈夫丹·拉格纳逊，席卷英格兰。"
     },
     {
+        "id": "qstr_Note_1:_Ragnar_Lodbr",
         "text": "Note_1:_Ragnar_Lodbrok,_a_Viking_now_dead,_had_several_wives,_but_the_major_were_Lathgertha_and_Aslaug,_and_many_children,_some_of_whose_names__are:_Ivar_the_Boneless,_Bjorn_Ironside,_Halfdan,_Sigurd_'Snake_in_the_Eye,'_and_Hubbi._Ragnar's_sons_are_attacking_Englaland_in_revenge_for_the_execution_of_his_father_by_a_king_now_dead,_Aelle_of_Northhymbre.",
-        "translation": "笔记1：拉格纳·罗德伯克，一名已故的维京人，妻妾成群，但主要的是拉芙格莎和阿丝洛，有很多孩子，其中一些叫：无骨者艾瓦，比约恩·艾恩赛德，哈弗丹，“蛇眼”西格德，以及乌比。拉格纳的儿子们为了报复诺森布里亚国王艾利的杀父之仇而大举进攻英格兰。"
+        "old_translation": "注1：已故维京人“毛裤子”拉格纳有多位妻妾，主要为拉葛莎与亚丝拉琪，子女众多，其中包括无骨者伊瓦尔、“铁臂”比约恩、哈夫丹、“蛇眼”西格德、乌比等。拉格纳诸子为报已故诺森布里亚国王埃勒杀父之仇，正进攻英格兰。",
+        "translation": "注1：已故维京人“毛裤子”拉格纳有多位妻妾，主要为拉葛莎与亚丝拉琪，子女众多，其中包括无骨者伊瓦尔、“铁臂”比约恩、哈夫丹、“蛇眼”西格德、乌比等。拉格纳诸子为报已故诺森布里亚国王埃勒杀父之仇，正进攻英格兰。"
     },
     {
+        "id": "qstr___He_thinks_for_a_fe",
         "text": "--He_thinks_for_a_few_seconds.--",
-        "translation": "——他稍微思考了一下。——"
+        "old_translation": "——他思索片刻。——",
+        "translation": "——他思索片刻。——"
     },
     {
+        "id": "qstr_Yes_we_attacked_some",
         "text": "Yes,_we_attacked_some_ships_recently,_before_Sven_Bull_Neck_went_away_from_us_to_Northhymbre._I_remember_the_Woden_Ric_because_I_liked_its_name._Woden_was_an_important_god_in_Englaland_before_all_became_Christians._I_remember_once_meeting_a_family_that_still_worshiped_Woden_in_a_village_we_looted._They_were_the_only_ones_whose_lives_were_spared._Woden,_we_call_Odin.",
-        "translation": "是的，在牛颈斯温离开我们去诺森布里亚后，我们的确攻击了一些船。我记得沃登里克号，因为我喜欢这名字。在基督徒来临之前，沃登在英格兰广受信仰。我记得我以前劫掠过的一个村庄里有一家人依然崇拜沃登，他们是唯一的幸存者。沃登，我们称之为奥丁。"
+        "old_translation": "是的，在“牛颈”斯温离开我们前往诺森布里亚之前，我们刚劫了几艘船。我记得“沃登里克号”，只因喜欢这名字。沃登在英格兰皈依基督教前是重要神明。我曾在一座劫掠的村庄里遇到仍拜沃登的一家人，只有他们活了下来。沃登，我们称奥丁。",
+        "translation": "是的，在“牛颈”斯温离开我们前往诺森布里亚之前，我们刚劫了几艘船。我记得“沃登里克号”，只因喜欢这名字。沃登在英格兰皈依基督教前是重要神明。我曾在一座劫掠的村庄里遇到仍拜沃登的一家人，只有他们活了下来。沃登，我们称奥丁。"
     },
     {
+        "id": "qstr_They_were_idiots._Th",
         "text": "They_were_idiots._They_stopped_in_the_wreckage_of_other_ships_we_had_attacked,_and_it_took_us_just_a_few_hours_to_catch_them._The_wind_was_favorable_and_we_boarded_them._There_were_only_a_few_warriors_on_board,_so_it_was_easy.",
-        "translation": "他们太傻了，在我们进攻过的其它船的残骸旁停了下来，这只花了我们好几个小时就抓到他们了。风向非常有利，而这样我们就登上了他们的船。甲板上的战士很少，所以抢那船很容易。"
+        "old_translation": "他们蠢得很，停在我们已毁船只的残骸旁，几小时就被我们追上。风向有利，我们登船，船上战士寥寥，轻而易举。",
+        "translation": "他们蠢得很，停在我们已毁船只的残骸旁，几小时就被我们追上。风向有利，我们登船，船上战士寥寥，轻而易举。"
     },
     {
+        "id": "qstr___He_swallows.__",
         "text": "--He_swallows.--",
-        "translation": "——他咽了口水——"
+        "old_translation": "——他咽了口唾沫。——",
+        "translation": "——他咽了口唾沫。——"
     },
     {
+        "id": "qstr_Very_few_unfortunate",
         "text": "Very_few,_unfortunately._Usually_we_try_to_catch_them_to_sell_as_slaves.",
-        "translation": "非常少，真不幸。通常我们是抓他们卖做奴隶。"
+        "old_translation": "可惜，太少了。通常我们抓人卖作奴隶。",
+        "translation": "可惜，太少了。通常我们抓人卖作奴隶。"
     },
     {
+        "id": "qstr___He_raises_his_hand",
         "text": "--He_raises_his_hand_before_you_can_answer.--",
-        "translation": "——他在回答之前举起了他的手。——"
+        "old_translation": "——他抢在你回答前抬手示意。——",
+        "translation": "——他抢在你回答前抬手示意。——"
     }
 ]

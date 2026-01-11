@@ -1,10 +1,10 @@
-﻿pt_none|none{***}
+pt_none|none{***}
 pt_rescued_prisoners|被 救 的 俘 虏 
 pt_enemy|敌 人 
 pt_hero_party|英 雄 部 队 
 pt_village_defenders|村 庄 卫 队 
 pt_cattle_herd|牛 群 
-pt_looters|劫 匪 
+pt_looters|盗 贼 
 pt_manhunters|青 年 勇 士 
 pt_steppe_bandits|诺 曼 强 盗 
 pt_taiga_bandits|维 京 强 盗 
@@ -28,14 +28,14 @@ pt_spy|普 通 的 市 民
 pt_sacrificed_messenger|献 祭 信 使 
 pt_scout_party|侦 察 队 
 pt_messenger_party|信 使 
-pt_raider_party|突 袭 队 
+pt_raider_party|突 袭 者 
 pt_raider_captives|猎 俘 队 
 pt_kingdom_caravan_party|商 队 
 pt_prisoner_train_party|运 俘 队 
 pt_default_prisoners|逃 走 的 俘 虏 
 pt_routed_warriors|溃 军 
 pt_center_reinforcements|增 援 部 队 
-pt_kingdom_hero_party|军 队 
+pt_kingdom_hero_party|战 团 
 pt_steppe_bandit_lair|诺 曼 港 垒 
 pt_taiga_bandit_lair|维 京 港 垒 
 pt_desert_bandit_lair|老 练 叛 军 营 地 
@@ -76,6 +76,6 @@ pt_wessex_patrol|西 撒 克 逊 巡 逻 队
 pt_norway_looters|盗 贼 
 pt_jetty_port|港 口 
 pt_boar_herd|野 猪 群 
-pt_adv_party|战 团
+pt_adv_party|战 团 
 pt_slave_hideout|藏 身 处 
 pt_village_elder|税 吏 

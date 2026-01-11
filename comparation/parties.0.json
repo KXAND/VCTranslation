@@ -1,1442 +1,2414 @@
 [
     {
+        "id": "p_zendar",
         "text": "Zendar",
+        "old_translation": "",
         "translation": "Zendar{***}"
     },
     {
+        "id": "p_town_1",
         "text": "Cantwaraburh",
-        "translation": "坎特伯雷"
+        "old_translation": "",
+        "translation": "坎特瓦拉堡"
     },
     {
+        "id": "p_town_2",
         "text": "Cippanhamm",
+        "old_translation": "",
         "translation": "切本哈姆"
     },
     {
+        "id": "p_town_3",
         "text": "Eidynburh",
+        "old_translation": "",
         "translation": "爱丁堡"
     },
     {
+        "id": "p_town_4",
         "text": "Ribe",
+        "old_translation": "",
         "translation": "里伯"
     },
     {
+        "id": "p_town_5",
         "text": "Tunsberg",
+        "old_translation": "",
         "translation": "顿士伯格"
     },
     {
+        "id": "p_town_6",
         "text": "Dun_Breatann",
-        "translation": "敦巴顿"
+        "old_translation": "",
+        "translation": "敦巴山堡"
     },
     {
+        "id": "p_town_7",
         "text": "Dubh_Linn",
+        "old_translation": "",
         "translation": "都柏林"
     },
     {
+        "id": "p_town_8",
         "text": "Cirren_Ceaster",
+        "old_translation": "",
         "translation": "锡伦要塞"
     },
     {
+        "id": "p_town_9",
         "text": "Caer_Dyf",
-        "translation": "戴夫堡"
+        "old_translation": "",
+        "translation": "卡迪夫"
     },
     {
+        "id": "p_town_10",
         "text": "Jorvik",
+        "old_translation": "",
         "translation": "约维克"
     },
     {
+        "id": "p_town_11",
         "text": "Dorestad",
+        "old_translation": "",
         "translation": "杜里斯特"
     },
     {
+        "id": "p_town_12",
         "text": "Lundenwic",
+        "old_translation": "",
         "translation": "伦敦威克"
     },
     {
+        "id": "p_town_13",
         "text": "Ynys_Mon",
+        "old_translation": "",
         "translation": "安格尔西"
     },
     {
+        "id": "p_town_14",
         "text": "Dunwic",
+        "old_translation": "",
         "translation": "杜威克"
     },
     {
+        "id": "p_town_15",
         "text": "Scuin",
+        "old_translation": "",
         "translation": "斯昆"
     },
     {
+        "id": "p_town_16",
         "text": "Witan_Ceaster",
+        "old_translation": "",
         "translation": "维坦要塞"
     },
     {
+        "id": "p_town_17",
         "text": "Bosvenegh",
+        "old_translation": "",
         "translation": "博德明"
     },
     {
+        "id": "p_town_18",
         "text": "Ceall_Cainnigh",
+        "old_translation": "",
         "translation": "卡宁"
     },
     {
+        "id": "p_town_19",
         "text": "Cell_Rigmonaid",
-        "translation": "赛尔里满莱"
+        "old_translation": "",
+        "translation": "赛尔里蒙奈"
     },
     {
+        "id": "p_town_20",
         "text": "Rath_Celtair",
-        "translation": "拉赛特尔"
+        "old_translation": "",
+        "translation": "拉斯凯尔泰尔"
     },
     {
+        "id": "p_town_21",
         "text": "Maistiu",
+        "old_translation": "",
         "translation": "梅斯图"
     },
     {
+        "id": "p_town_22",
         "text": "Caer_Meguaidd",
+        "old_translation": "",
         "translation": "马威堡"
     },
     {
+        "id": "p_town_23",
         "text": "Tomtun",
-        "translation": "托腾"
+        "old_translation": "",
+        "translation": "托顿"
     },
     {
+        "id": "p_town_24",
         "text": "Caiseal",
+        "old_translation": "",
         "translation": "凯希亚"
     },
     {
+        "id": "p_town_25",
         "text": "Aileach",
-        "translation": "埃里奇"
+        "old_translation": "",
+        "translation": "艾利赫"
     },
     {
+        "id": "p_town_26",
         "text": "Brycheiniog",
-        "translation": "拜卡灵"
+        "old_translation": "",
+        "translation": "布瑞赫尼奥格"
     },
     {
+        "id": "p_town_27",
         "text": "Bebbanburh",
+        "old_translation": "",
         "translation": "贝班堡"
     },
     {
+        "id": "p_town_28",
         "text": "Cruaghan",
+        "old_translation": "",
         "translation": "克鲁亨"
     },
     {
+        "id": "p_town_29",
         "text": "Temair",
+        "old_translation": "",
         "translation": "提梅尔"
     },
     {
+        "id": "p_castle_1",
         "text": "Caer_Ligualid",
-        "translation": "莱桂宁堡"
+        "old_translation": "",
+        "translation": "卡莱桂宁"
     },
     {
+        "id": "p_castle_2",
         "text": "Mame_Ceaster",
+        "old_translation": "",
         "translation": "梅耶要塞"
     },
     {
+        "id": "p_castle_3",
         "text": "Donne_Ceaster",
+        "old_translation": "",
         "translation": "多恩要塞"
     },
     {
+        "id": "p_castle_4",
         "text": "Middelsburh",
-        "translation": "米都斯堡"
+        "old_translation": "",
+        "translation": "米德斯堡"
     },
     {
+        "id": "p_castle_5",
         "text": "Denisesburna",
+        "old_translation": "",
         "translation": "迪纳斯"
     },
     {
+        "id": "p_castle_6",
         "text": "Ad_Gefrin",
+        "old_translation": "",
         "translation": "艾戈芬"
     },
     {
+        "id": "p_castle_7",
         "text": "Din_Baer",
-        "translation": "丁贝尔"
+        "old_translation": "",
+        "translation": "贝尔垒"
     },
     {
+        "id": "p_castle_8",
         "text": "Wicstun",
+        "old_translation": "",
         "translation": "威斯顿"
     },
     {
+        "id": "p_castle_9",
         "text": "Snotingaham",
+        "old_translation": "",
         "translation": "诺丁汉"
     },
     {
+        "id": "p_castle_10",
         "text": "Lincylene",
+        "old_translation": "",
         "translation": "林克里"
     },
     {
+        "id": "p_castle_11",
         "text": "Ham_Tune",
+        "old_translation": "",
         "translation": "汉敦"
     },
     {
+        "id": "p_castle_12",
         "text": "Hreapandun",
+        "old_translation": "",
         "translation": "尼潘顿"
     },
     {
+        "id": "p_castle_13",
         "text": "Oxenaforda",
+        "old_translation": "",
         "translation": "牛津"
     },
     {
+        "id": "p_castle_14",
         "text": "Colne_Ceaster",
+        "old_translation": "",
         "translation": "科恩要塞"
     },
     {
+        "id": "p_castle_15",
         "text": "Gegnesburh",
-        "translation": "更士伯"
+        "old_translation": "",
+        "translation": "格内斯堡"
     },
     {
+        "id": "p_castle_16",
         "text": "Stanford",
+        "old_translation": "",
         "translation": "斯坦福"
     },
     {
+        "id": "p_castle_17",
         "text": "Norwic",
+        "old_translation": "",
         "translation": "诺威治"
     },
     {
+        "id": "p_castle_18",
         "text": "Haegelisdun",
+        "old_translation": "",
         "translation": "海高力敦"
     },
     {
+        "id": "p_castle_19",
         "text": "Rendlaesburh",
+        "old_translation": "",
         "translation": "兰都斯堡"
     },
     {
+        "id": "p_castle_20",
         "text": "Grantebrycge",
+        "old_translation": "",
         "translation": "剑桥"
     },
     {
+        "id": "p_castle_21",
         "text": "Hrofae_Ceaster",
+        "old_translation": "",
         "translation": "罗斐要塞"
     },
     {
+        "id": "p_castle_22",
         "text": "Dornwara_Ceaster",
+        "old_translation": "",
         "translation": "唐沃纳要塞"
     },
     {
+        "id": "p_castle_23",
         "text": "Searoburh",
-        "translation": "希罗伯"
+        "old_translation": "",
+        "translation": "塞罗堡"
     },
     {
+        "id": "p_castle_24",
         "text": "Dorce_Ceaster",
+        "old_translation": "",
         "translation": "朵斯要塞"
     },
     {
+        "id": "p_castle_25",
         "text": "Wiltun",
+        "old_translation": "",
         "translation": "威尔顿"
     },
     {
+        "id": "p_castle_26",
         "text": "Ham_Tun",
+        "old_translation": "",
         "translation": "坎顿"
     },
     {
+        "id": "p_castle_27",
         "text": "Badon",
+        "old_translation": "",
         "translation": "巴登"
     },
     {
+        "id": "p_castle_28",
         "text": "Escan_Ceaster",
+        "old_translation": "",
         "translation": "艾斯肯要塞"
     },
     {
+        "id": "p_castle_29",
         "text": "Towan_Blystra",
+        "old_translation": "",
         "translation": "图安要塞"
     },
     {
+        "id": "p_castle_30",
         "text": "Din_Tagell",
-        "translation": "丁泰格尔"
+        "old_translation": "",
+        "translation": "泰格尔垒"
     },
     {
+        "id": "p_castle_31",
         "text": "Cathures",
+        "old_translation": "",
         "translation": "卡菲尔士"
     },
     {
+        "id": "p_castle_32",
         "text": "Cuil_nam",
-        "translation": "裘南"
+        "old_translation": "",
+        "translation": "库尔纳"
     },
     {
+        "id": "p_castle_33",
         "text": "Caer_Caradawg",
-        "translation": "卡拉道格堡"
+        "old_translation": "",
+        "translation": "卡卡拉道格"
     },
     {
+        "id": "p_castle_34",
         "text": "Gobhann",
+        "old_translation": "",
         "translation": "高宾"
     },
     {
+        "id": "p_castle_35",
         "text": "Dun_Duim",
-        "translation": "杜恩丘"
+        "old_translation": "",
+        "translation": "杜恩山堡"
     },
     {
+        "id": "p_castle_36",
         "text": "Dun_Foither",
-        "translation": "火德丘"
+        "old_translation": "",
+        "translation": "福瑟山堡"
     },
     {
+        "id": "p_castle_37",
         "text": "Dun_Taruo",
-        "translation": "泰罗丘"
+        "old_translation": "",
+        "translation": "塔罗山堡"
     },
     {
+        "id": "p_castle_38",
         "text": "Dun_Averte",
-        "translation": "阿沃尔丘"
+        "old_translation": "",
+        "translation": "阿沃尔山堡"
     },
     {
+        "id": "p_castle_39",
         "text": "Dun_Onlaigh",
-        "translation": "昂黎丘"
+        "old_translation": "",
+        "translation": "昂莱山堡"
     },
     {
+        "id": "p_castle_40",
         "text": "Art_Muirchol",
+        "old_translation": "",
         "translation": "阿缪尔柯"
     },
     {
+        "id": "p_castle_41",
         "text": "Din_Bych",
-        "translation": "拜克堡"
+        "old_translation": "",
+        "translation": "拜克垒"
     },
     {
+        "id": "p_castle_42",
         "text": "Dinas_Bran",
+        "old_translation": "",
         "translation": "迪纳斯布兰"
     },
     {
+        "id": "p_castle_43",
         "text": "Din_Arth",
-        "translation": "阿尔特堡"
+        "old_translation": "",
+        "translation": "阿斯垒"
     },
     {
+        "id": "p_castle_44",
         "text": "Din_Erth",
-        "translation": "厄夫堡"
+        "old_translation": "",
+        "translation": "厄斯垒"
     },
     {
+        "id": "p_castle_45",
         "text": "Caer_Seniont",
-        "translation": "先能特堡"
+        "old_translation": "",
+        "translation": "卡赛尼昂特"
     },
     {
+        "id": "p_castle_46",
         "text": "Caer_Sws",
-        "translation": "史维斯堡"
+        "old_translation": "",
+        "translation": "卡史维斯"
     },
     {
+        "id": "p_castle_47",
         "text": "Meigen_Cil_Ceincoed",
+        "old_translation": "",
         "translation": "梅根苏赛"
     },
     {
+        "id": "p_castle_48",
         "text": "Caer_Went",
-        "translation": "温德堡"
+        "old_translation": "",
+        "translation": "卡温德"
     },
     {
+        "id": "p_castle_49",
         "text": "Skyfa",
+        "old_translation": "",
         "translation": "斯卡发"
     },
     {
+        "id": "p_castle_50",
         "text": "Vebjorg",
-        "translation": "伟约克"
+        "old_translation": "",
+        "translation": "韦约格"
     },
     {
+        "id": "p_castle_51",
         "text": "Huhelstath",
+        "old_translation": "",
         "translation": "豪斯塔夫"
     },
     {
+        "id": "p_castle_52",
         "text": "Heidabyr",
+        "old_translation": "",
         "translation": "海德贝尔"
     },
     {
+        "id": "p_castle_53",
         "text": "Skiringssalr",
+        "old_translation": "",
         "translation": "斯盖宁索"
     },
     {
+        "id": "p_castle_54",
         "text": "Hordaland",
+        "old_translation": "",
         "translation": "霍达兰"
     },
     {
+        "id": "p_castle_55",
         "text": "Agdir",
+        "old_translation": "",
         "translation": "爱蒂尔"
     },
     {
+        "id": "p_castle_56",
         "text": "Rogaland",
+        "old_translation": "",
         "translation": "罗加兰"
     },
     {
+        "id": "p_castle_57",
         "text": "Caer_Reghed",
-        "translation": "雷德要塞"
+        "old_translation": "",
+        "translation": "卡雷德"
     },
     {
+        "id": "p_castle_58",
         "text": "Dun_Baitte",
-        "translation": "倍得丘"
+        "old_translation": "",
+        "translation": "拜特山堡"
     },
     {
+        "id": "p_castle_59",
         "text": "Ynys_Manaw",
+        "old_translation": "",
         "translation": "马恩岛"
     },
     {
+        "id": "p_castle_60",
         "text": "Bjarnaroy",
+        "old_translation": "",
         "translation": "加纳莱"
     },
     {
+        "id": "p_castle_61",
         "text": "Orkneyjar",
+        "old_translation": "",
         "translation": "奥克尼加"
     },
     {
+        "id": "p_castle_62",
         "text": "Veisafjordr",
+        "old_translation": "",
         "translation": "微斯嘉"
     },
     {
+        "id": "p_castle_63",
         "text": "Kennemer",
+        "old_translation": "",
         "translation": "肯尼莫"
     },
     {
+        "id": "p_castle_64",
         "text": "Vles_Inge",
+        "old_translation": "",
         "translation": "维拉斯印吉"
     },
     {
+        "id": "p_castle_65",
         "text": "Dun_Sebuirge",
-        "translation": "塞比奇丘"
+        "old_translation": "",
+        "translation": "塞比奇山堡"
     },
     {
+        "id": "p_castle_66",
         "text": "Magh_Rath",
-        "translation": "马拉弗"
+        "old_translation": "",
+        "translation": "马格拉斯"
     },
     {
+        "id": "p_castle_67",
         "text": "Magh_Cobha",
-        "translation": "马柯巴"
+        "old_translation": "",
+        "translation": "马格柯巴"
     },
     {
+        "id": "p_castle_68",
         "text": "Druim_Mor",
+        "old_translation": "",
         "translation": "杜伦莫尔"
     },
     {
+        "id": "p_castle_69",
         "text": "Rath_Clochair",
-        "translation": "拉克车尔"
+        "old_translation": "",
+        "translation": "拉斯克洛克尔"
     },
     {
+        "id": "p_castle_70",
         "text": "Fir_Fearnmhaigh",
+        "old_translation": "",
         "translation": "科法明"
     },
     {
+        "id": "p_castle_71",
         "text": "Ard_Macha",
+        "old_translation": "",
         "translation": "亚德麻查"
     },
     {
+        "id": "p_castle_72",
         "text": "Mag_Dumai",
+        "old_translation": "",
         "translation": "马格杜迈"
     },
     {
+        "id": "p_castle_73",
         "text": "Ath_Mor",
+        "old_translation": "",
         "translation": "阿斯摩尔"
     },
     {
+        "id": "p_castle_74",
         "text": "Ard_Eachadha",
+        "old_translation": "",
         "translation": "阿依彻达"
     },
     {
+        "id": "p_castle_75",
         "text": "Ard_Breacain",
+        "old_translation": "",
         "translation": "阿勃该尔"
     },
     {
+        "id": "p_castle_76",
         "text": "Lagore_Crannoc",
+        "old_translation": "",
         "translation": "雷戈卡纳"
     },
     {
+        "id": "p_castle_77",
         "text": "Cathair_Chomain",
+        "old_translation": "",
         "translation": "卡哈柯美"
     },
     {
+        "id": "p_castle_78",
         "text": "Luighne_Connacht",
-        "translation": "伦卡纳特"
+        "old_translation": "",
+        "translation": "卢伊涅"
     },
     {
+        "id": "p_castle_79",
         "text": "Fiachrach_Aidne",
+        "old_translation": "",
         "translation": "科克埃米"
     },
     {
+        "id": "p_castle_80",
         "text": "Ath_Berchna",
+        "old_translation": "",
         "translation": "阿斯伯纳"
     },
     {
+        "id": "p_castle_81",
         "text": "Grian_Airbh",
+        "old_translation": "",
         "translation": "盖安埃伯"
     },
     {
+        "id": "p_castle_82",
         "text": "Les_Mor",
+        "old_translation": "",
         "translation": "莱斯摩尔"
     },
     {
+        "id": "p_castle_83",
         "text": "Ciarraighe_Luachra",
+        "old_translation": "",
         "translation": "塞利卢卡"
     },
     {
+        "id": "p_castle_84",
         "text": "Muscraighe",
+        "old_translation": "",
         "translation": "密斯桂"
     },
     {
+        "id": "p_castle_85",
         "text": "Dun_Na_Mbarc",
-        "translation": "南巴克丘"
+        "old_translation": "",
+        "translation": "纳马克山堡"
     },
     {
+        "id": "p_castle_86",
         "text": "Cell_Dara",
-        "translation": "塞笛拉"
+        "old_translation": "",
+        "translation": "凯尔迪拉"
     },
     {
+        "id": "p_castle_87",
         "text": "Liamhain",
+        "old_translation": "",
         "translation": "莱昂翰"
     },
     {
+        "id": "p_castle_88",
         "text": "Dun_Bolg",
-        "translation": "博格丘"
+        "old_translation": "",
+        "translation": "博格山堡"
     },
     {
+        "id": "p_castle_89",
         "text": "Ros_Mhic_Treoin",
-        "translation": "罗米楚林"
+        "old_translation": "",
+        "translation": "罗斯·麦特雷恩"
     },
     {
+        "id": "p_castle_90",
         "text": "Mairg_Laigen",
+        "old_translation": "",
         "translation": "麦尔雷根"
     },
     {
+        "id": "p_village_1",
         "text": "Ligualid_Ham",
+        "old_translation": "",
         "translation": "莱桂宁翰"
     },
     {
+        "id": "p_village_2",
         "text": "Mame_Ham",
+        "old_translation": "",
         "translation": "梅耶翰"
     },
     {
+        "id": "p_village_3",
         "text": "Donne_Ham",
+        "old_translation": "",
         "translation": "多恩翰"
     },
     {
+        "id": "p_village_4",
         "text": "Middels_Ham",
-        "translation": "米都斯翰"
+        "old_translation": "",
+        "translation": "米德斯翰"
     },
     {
+        "id": "p_village_5",
         "text": "Denises_Ham",
+        "old_translation": "",
         "translation": "迪纳斯翰"
     },
     {
+        "id": "p_village_6",
         "text": "Ad_Gefrin_Ham",
+        "old_translation": "",
         "translation": "艾戈芬翰"
     },
     {
+        "id": "p_village_7",
         "text": "Baer_Ham",
+        "old_translation": "",
         "translation": "贝尔翰"
     },
     {
+        "id": "p_village_8",
         "text": "Wics_Ham",
+        "old_translation": "",
         "translation": "威克斯翰"
     },
     {
+        "id": "p_village_9",
         "text": "Snotingaham_South",
+        "old_translation": "",
         "translation": "诺丁汉南"
     },
     {
+        "id": "p_village_10",
         "text": "Lincylene_Ham",
+        "old_translation": "",
         "translation": "林克里翰"
     },
     {
+        "id": "p_village_11",
         "text": "Ham",
+        "old_translation": "",
         "translation": "汉翰"
     },
     {
+        "id": "p_village_12",
         "text": "Hreapan_Ham",
+        "old_translation": "",
         "translation": "尼潘顿翰"
     },
     {
+        "id": "p_village_13",
         "text": "Oxena_Ham",
+        "old_translation": "",
         "translation": "牛津翰"
     },
     {
+        "id": "p_village_14",
         "text": "Colne_Ham",
+        "old_translation": "",
         "translation": "科恩翰"
     },
     {
+        "id": "p_village_15",
         "text": "Gegnes_Ham",
+        "old_translation": "",
         "translation": "更士伯翰"
     },
     {
+        "id": "p_village_16",
         "text": "Stan_Ham",
+        "old_translation": "",
         "translation": "斯坦翰"
     },
     {
+        "id": "p_village_17",
         "text": "Nor_Ham",
+        "old_translation": "",
         "translation": "诺威翰"
     },
     {
+        "id": "p_village_18",
         "text": "Haegelis_Ham",
+        "old_translation": "",
         "translation": "海高力翰"
     },
     {
+        "id": "p_village_19",
         "text": "Rendlaesham",
+        "old_translation": "",
         "translation": "兰都斯翰"
     },
     {
+        "id": "p_village_20",
         "text": "Grante_Ham",
+        "old_translation": "",
         "translation": "剑桥翰"
     },
     {
+        "id": "p_village_21",
         "text": "Hrofae_Ham",
+        "old_translation": "",
         "translation": "罗斐翰"
     },
     {
+        "id": "p_village_22",
         "text": "Dornwara_Ham",
+        "old_translation": "",
         "translation": "唐沃纳翰"
     },
     {
+        "id": "p_village_23",
         "text": "Searo_Ham",
-        "translation": "希罗翰"
+        "old_translation": "",
+        "translation": "塞罗翰"
     },
     {
+        "id": "p_village_24",
         "text": "Dorce_Ham",
+        "old_translation": "",
         "translation": "朵斯翰"
     },
     {
+        "id": "p_village_25",
         "text": "Wil_Ham",
+        "old_translation": "",
         "translation": "威尔翰"
     },
     {
+        "id": "p_village_26",
         "text": "Ham_Ham",
+        "old_translation": "",
         "translation": "坎翰"
     },
     {
+        "id": "p_village_27",
         "text": "Badon_Ham",
+        "old_translation": "",
         "translation": "巴登翰"
     },
     {
+        "id": "p_village_28",
         "text": "Escan_Ham",
+        "old_translation": "",
         "translation": "艾斯肯翰"
     },
     {
+        "id": "p_village_29",
         "text": "Tref_Towan",
+        "old_translation": "",
         "translation": "彻弗图安"
     },
     {
+        "id": "p_village_30",
         "text": "Tref_Tagell",
+        "old_translation": "",
         "translation": "彻弗泰格尔"
     },
     {
+        "id": "p_village_31",
         "text": "Tref_Cathures",
+        "old_translation": "",
         "translation": "彻弗卡菲尔士"
     },
     {
+        "id": "p_village_32",
         "text": "Tref_Cuil",
-        "translation": "彻弗裘"
+        "old_translation": "",
+        "translation": "彻弗库尔"
     },
     {
+        "id": "p_village_33",
         "text": "Tref_Caradawg",
+        "old_translation": "",
         "translation": "彻弗卡拉道格"
     },
     {
+        "id": "p_village_34",
         "text": "Tref_Gob",
+        "old_translation": "",
         "translation": "彻弗高宾"
     },
     {
+        "id": "p_village_35",
         "text": "Bal_Duim",
+        "old_translation": "",
         "translation": "巴尔杜恩"
     },
     {
+        "id": "p_village_36",
         "text": "Bal_Foither",
-        "translation": "巴尔火德"
+        "old_translation": "",
+        "translation": "巴尔福瑟"
     },
     {
+        "id": "p_village_37",
         "text": "Bal_Tauro",
-        "translation": "巴尔泰罗"
+        "old_translation": "",
+        "translation": "巴尔塔罗"
     },
     {
+        "id": "p_village_38",
         "text": "Bal_Averte",
+        "old_translation": "",
         "translation": "巴尔阿沃"
     },
     {
+        "id": "p_village_39",
         "text": "Bal_Onlaigh",
-        "translation": "巴尔昂黎"
+        "old_translation": "",
+        "translation": "巴尔昂莱"
     },
     {
+        "id": "p_village_40",
         "text": "Bal_Muirchol",
+        "old_translation": "",
         "translation": "巴尔缪柯"
     },
     {
+        "id": "p_village_41",
         "text": "Tref_Bych",
+        "old_translation": "",
         "translation": "彻弗拜克"
     },
     {
+        "id": "p_village_42",
         "text": "Tref_Bran",
+        "old_translation": "",
         "translation": "彻弗布兰"
     },
     {
+        "id": "p_village_43",
         "text": "Tref_Arth",
-        "translation": "彻弗阿尔特"
+        "old_translation": "",
+        "translation": "彻弗阿斯"
     },
     {
+        "id": "p_village_44",
         "text": "Tref_Erth",
-        "translation": "彻弗厄夫"
+        "old_translation": "",
+        "translation": "彻弗厄斯"
     },
     {
+        "id": "p_village_45",
         "text": "Tref_Seniont",
+        "old_translation": "",
         "translation": "彻弗先能特"
     },
     {
+        "id": "p_village_46",
         "text": "Tref_Sws",
+        "old_translation": "",
         "translation": "彻弗史维斯"
     },
     {
+        "id": "p_village_47",
         "text": "Tref_Ceincoed",
+        "old_translation": "",
         "translation": "彻弗赛柯"
     },
     {
+        "id": "p_village_48",
         "text": "Tref_Went",
+        "old_translation": "",
         "translation": "彻弗温德"
     },
     {
+        "id": "p_village_49",
         "text": "Skyfa_By",
+        "old_translation": "",
         "translation": "斯卡发拜"
     },
     {
+        "id": "p_village_50",
         "text": "Vebjorg_By",
-        "translation": "伟约克拜"
+        "old_translation": "",
+        "translation": "韦约格拜"
     },
     {
+        "id": "p_village_51",
         "text": "Huhelstath_By",
+        "old_translation": "",
         "translation": "豪斯塔夫拜"
     },
     {
+        "id": "p_village_52",
         "text": "Heida_By",
+        "old_translation": "",
         "translation": "海德拜"
     },
     {
+        "id": "p_village_53",
         "text": "Skiringssalr_By",
+        "old_translation": "",
         "translation": "斯盖宁索拜"
     },
     {
+        "id": "p_village_54",
         "text": "Horda_By",
+        "old_translation": "",
         "translation": "霍达拜"
     },
     {
+        "id": "p_village_55",
         "text": "Agdir_By",
+        "old_translation": "",
         "translation": "爱蒂尔拜"
     },
     {
+        "id": "p_village_56",
         "text": "Rogaland_By",
+        "old_translation": "",
         "translation": "罗加兰拜"
     },
     {
+        "id": "p_village_57",
         "text": "Tref_Reghed",
+        "old_translation": "",
         "translation": "彻弗雷德"
     },
     {
+        "id": "p_village_58",
         "text": "Bal_Baitte",
-        "translation": "巴尔倍得"
+        "old_translation": "",
+        "translation": "巴尔拜特"
     },
     {
+        "id": "p_village_59",
         "text": "Tref_Manaw",
+        "old_translation": "",
         "translation": "彻弗马恩"
     },
     {
+        "id": "p_village_60",
         "text": "Bjarnaroy_By",
+        "old_translation": "",
         "translation": "加纳莱拜"
     },
     {
+        "id": "p_village_61",
         "text": "Orkneyjar_By",
+        "old_translation": "",
         "translation": "奥克尼加拜"
     },
     {
+        "id": "p_village_62",
         "text": "Veisa_By",
+        "old_translation": "",
         "translation": "微斯嘉拜"
     },
     {
+        "id": "p_village_63",
         "text": "Kennemer_Terp",
+        "old_translation": "",
         "translation": "肯尼莫特"
     },
     {
+        "id": "p_village_64",
         "text": "Vles_Inge_Terp",
+        "old_translation": "",
         "translation": "维拉斯印吉特"
     },
     {
+        "id": "p_village_65",
         "text": "Bal_Sebuirge",
+        "old_translation": "",
         "translation": "巴尔塞比奇"
     },
     {
+        "id": "p_village_66",
         "text": "Bal_Magh",
-        "translation": "巴尔马拉"
+        "old_translation": "",
+        "translation": "巴尔马格"
     },
     {
+        "id": "p_village_67",
         "text": "Bal_Magh_Cobha",
-        "translation": "巴尔马柯巴"
+        "old_translation": "",
+        "translation": "巴尔马格柯巴"
     },
     {
+        "id": "p_village_68",
         "text": "Bal_Mor_North",
+        "old_translation": "",
         "translation": "巴尔莫尔北"
     },
     {
+        "id": "p_village_69",
         "text": "Bal_Clochair",
-        "translation": "巴尔克车尔"
+        "old_translation": "",
+        "translation": "巴尔克洛克尔"
     },
     {
+        "id": "p_village_70",
         "text": "Bal_Fearnmhaigh",
+        "old_translation": "",
         "translation": "巴尔法明"
     },
     {
+        "id": "p_village_71",
         "text": "Bal_Macha",
+        "old_translation": "",
         "translation": "巴尔麻查"
     },
     {
+        "id": "p_village_72",
         "text": "Bal_Dumai",
+        "old_translation": "",
         "translation": "巴尔杜迈"
     },
     {
+        "id": "p_village_73",
         "text": "Bal_Mor_South",
+        "old_translation": "",
         "translation": "巴尔莫尔南"
     },
     {
+        "id": "p_village_74",
         "text": "Bal_Eachadha",
+        "old_translation": "",
         "translation": "巴尔依彻达"
     },
     {
+        "id": "p_village_75",
         "text": "Bal_Breacain",
+        "old_translation": "",
         "translation": "巴尔勃该尔"
     },
     {
+        "id": "p_village_76",
         "text": "Bal_Crannoc",
+        "old_translation": "",
         "translation": "巴尔卡纳"
     },
     {
+        "id": "p_village_77",
         "text": "Bal_Chomain",
+        "old_translation": "",
         "translation": "巴尔柯美"
     },
     {
+        "id": "p_village_78",
         "text": "Bal_Luighne",
+        "old_translation": "",
         "translation": "巴尔伦"
     },
     {
+        "id": "p_village_79",
         "text": "Bal_Fiachrach_Aidne",
+        "old_translation": "",
         "translation": "巴尔科克埃米"
     },
     {
+        "id": "p_village_80",
         "text": "Bal_Berchna",
+        "old_translation": "",
         "translation": "巴尔伯纳"
     },
     {
+        "id": "p_village_81",
         "text": "Bal_Grian_Airbh",
+        "old_translation": "",
         "translation": "巴尔盖安埃伯"
     },
     {
+        "id": "p_village_82",
         "text": "Bal_Les_Mor",
+        "old_translation": "",
         "translation": "巴尔莱斯摩尔"
     },
     {
+        "id": "p_village_83",
         "text": "Bal_Ciarraighe_Luachra",
+        "old_translation": "",
         "translation": "巴尔塞利卢卡"
     },
     {
+        "id": "p_village_84",
         "text": "Bal_Muscraighe",
+        "old_translation": "",
         "translation": "巴尔密斯桂"
     },
     {
+        "id": "p_village_85",
         "text": "Bal_Na_Mbarc",
+        "old_translation": "",
         "translation": "巴尔南巴克"
     },
     {
+        "id": "p_village_86",
         "text": "Bal_Dara",
-        "translation": "巴尔笛拉"
+        "old_translation": "",
+        "translation": "巴尔迪拉"
     },
     {
+        "id": "p_village_87",
         "text": "Bal_Liamhain",
+        "old_translation": "",
         "translation": "巴尔莱昂翰"
     },
     {
+        "id": "p_village_88",
         "text": "Bal_Bolg",
+        "old_translation": "",
         "translation": "巴尔博格"
     },
     {
+        "id": "p_village_89",
         "text": "Bal_Ros_Mhic_Treoin",
-        "translation": "巴尔罗米楚林"
+        "old_translation": "",
+        "translation": "巴尔罗斯"
     },
     {
+        "id": "p_village_90",
         "text": "Bal_Mairg_Laigen",
+        "old_translation": "",
         "translation": "巴尔麦尔雷根"
     },
     {
+        "id": "p_village_91",
         "text": "Bal_Tara",
+        "old_translation": "",
         "translation": "巴尔塔拉"
     },
     {
+        "id": "p_village_92",
         "text": "Cantwara_Ham_North",
-        "translation": "坎托拉翰北"
+        "old_translation": "",
+        "translation": "坎特瓦拉翰北"
     },
     {
+        "id": "p_village_93",
         "text": "Cantwara_Ham_South",
-        "translation": "坎托拉翰南"
+        "old_translation": "",
+        "translation": "坎特瓦拉翰南"
     },
     {
+        "id": "p_village_94",
         "text": "Cippan_Ham_East",
+        "old_translation": "",
         "translation": "熙朋翰东"
     },
     {
+        "id": "p_village_95",
         "text": "Cippan_Ham_West",
+        "old_translation": "",
         "translation": "熙朋翰西"
     },
     {
+        "id": "p_village_96",
         "text": "Eidyn_Ham_East",
+        "old_translation": "",
         "translation": "爱丁翰东"
     },
     {
+        "id": "p_village_97",
         "text": "Eidyn_Ham_West",
+        "old_translation": "",
         "translation": "爱丁翰西"
     },
     {
+        "id": "p_village_98",
         "text": "Ribe_By_North",
+        "old_translation": "",
         "translation": "里伯拜北"
     },
     {
+        "id": "p_village_99",
         "text": "Ribe_By_South",
+        "old_translation": "",
         "translation": "里伯拜南"
     },
     {
+        "id": "p_village_100",
         "text": "Tuns_By_East",
+        "old_translation": "",
         "translation": "顿士拜东"
     },
     {
+        "id": "p_village_101",
         "text": "Tuns_By_West",
+        "old_translation": "",
         "translation": "顿士拜西"
     },
     {
+        "id": "p_village_102",
         "text": "Tref_Breatann_East",
+        "old_translation": "",
         "translation": "彻弗布雷顿东"
     },
     {
+        "id": "p_village_103",
         "text": "Tref_Breatann_West",
+        "old_translation": "",
         "translation": "彻弗布雷顿西"
     },
     {
+        "id": "p_village_104",
         "text": "Dubh_Linn_By_North",
+        "old_translation": "",
         "translation": "都柏林拜北"
     },
     {
+        "id": "p_village_105",
         "text": "Dubh_Linn_By_South",
+        "old_translation": "",
         "translation": "都柏林拜南"
     },
     {
+        "id": "p_village_106",
         "text": "Tref_Dyf_East",
-        "translation": "彻弗戴夫东"
+        "old_translation": "",
+        "translation": "彻弗迪夫东"
     },
     {
+        "id": "p_village_107",
         "text": "Tref_Dyf_West",
-        "translation": "彻弗戴夫西"
+        "old_translation": "",
+        "translation": "彻弗迪夫西"
     },
     {
+        "id": "p_village_108",
         "text": "Eofer_Ham_East",
+        "old_translation": "",
         "translation": "依奥法翰东"
     },
     {
+        "id": "p_village_109",
         "text": "Eofer_Ham_West",
+        "old_translation": "",
         "translation": "依奥法翰西"
     },
     {
+        "id": "p_village_110",
         "text": "Dore_Hem_East",
+        "old_translation": "",
         "translation": "多尔翰东"
     },
     {
+        "id": "p_village_111",
         "text": "Dore_Hem_West",
+        "old_translation": "",
         "translation": "多尔翰西"
     },
     {
+        "id": "p_village_112",
         "text": "Lunden_Ham_North",
+        "old_translation": "",
         "translation": "伦敦翰北"
     },
     {
+        "id": "p_village_113",
         "text": "Lunden_Ham_South",
+        "old_translation": "",
         "translation": "伦敦翰南"
     },
     {
+        "id": "p_village_114",
         "text": "Tref_Mon_East",
+        "old_translation": "",
         "translation": "彻弗芒东"
     },
     {
+        "id": "p_village_115",
         "text": "Tref_Mon_West",
+        "old_translation": "",
         "translation": "彻弗芒西"
     },
     {
+        "id": "p_village_116",
         "text": "Dun_Ham_North",
+        "old_translation": "",
         "translation": "杜翰北"
     },
     {
+        "id": "p_village_117",
         "text": "Dun_Ham_South",
+        "old_translation": "",
         "translation": "杜翰南"
     },
     {
+        "id": "p_village_118",
         "text": "Bal_Scuin_East",
+        "old_translation": "",
         "translation": "巴尔斯昆东"
     },
     {
+        "id": "p_village_119",
         "text": "Bal_Scuin_West",
+        "old_translation": "",
         "translation": "巴尔斯昆西"
     },
     {
+        "id": "p_village_120",
         "text": "Witan_Ham_North",
+        "old_translation": "",
         "translation": "维坦翰北"
     },
     {
+        "id": "p_village_121",
         "text": "Witan_Ham_South",
+        "old_translation": "",
         "translation": "维坦翰南"
     },
     {
+        "id": "p_village_122",
         "text": "Tref_Bosvenegh_East",
+        "old_translation": "",
         "translation": "彻弗博明东"
     },
     {
+        "id": "p_village_123",
         "text": "Tref_Bosvenegh_West",
+        "old_translation": "",
         "translation": "彻弗博明西"
     },
     {
+        "id": "p_village_124",
         "text": "Bal_Cainnighn_North",
+        "old_translation": "",
         "translation": "巴尔卡宁北"
     },
     {
+        "id": "p_village_125",
         "text": "Bal_Cainnighn_South",
+        "old_translation": "",
         "translation": "巴尔卡宁南"
     },
     {
+        "id": "p_village_126",
         "text": "Bal_Rigmonaid_North",
-        "translation": "巴尔里满莱北"
+        "old_translation": "",
+        "translation": "巴尔里蒙奈北"
     },
     {
+        "id": "p_village_127",
         "text": "Bal_Rigmonaid_South",
-        "translation": "巴尔里满莱南"
+        "old_translation": "",
+        "translation": "巴尔里蒙奈南"
     },
     {
+        "id": "p_village_128",
         "text": "Bal_Celtair_East",
-        "translation": "巴尔赛特东"
+        "old_translation": "",
+        "translation": "巴尔凯尔泰尔东"
     },
     {
+        "id": "p_village_129",
         "text": "Bal_Celtair_West",
-        "translation": "巴尔赛特西"
+        "old_translation": "",
+        "translation": "巴尔凯尔泰尔西"
     },
     {
+        "id": "p_village_130",
         "text": "Bal_Maistiu_East",
+        "old_translation": "",
         "translation": "巴尔梅斯图东"
     },
     {
+        "id": "p_village_131",
         "text": "Bal_Maistiu_West",
+        "old_translation": "",
         "translation": "巴尔梅斯图西"
     },
     {
+        "id": "p_village_132",
         "text": "Tref_Meguaidd_East",
+        "old_translation": "",
         "translation": "彻弗马威东"
     },
     {
+        "id": "p_village_133",
         "text": "Tref_Meguaidd_West",
+        "old_translation": "",
         "translation": "彻弗马威西"
     },
     {
+        "id": "p_village_134",
         "text": "Tom_Ham_East",
+        "old_translation": "",
         "translation": "托翰东"
     },
     {
+        "id": "p_village_135",
         "text": "Tom_Ham_South",
+        "old_translation": "",
         "translation": "彻弗马威西"
     },
     {
+        "id": "p_village_136",
         "text": "Bal_Caiseal_East",
+        "old_translation": "",
         "translation": "巴尔凯希亚东"
     },
     {
+        "id": "p_village_137",
         "text": "Bal_Caiseal_West",
+        "old_translation": "",
         "translation": "巴尔凯希亚西"
     },
     {
+        "id": "p_village_138",
         "text": "Bal_Aileach_East",
-        "translation": "巴尔埃里奇东"
+        "old_translation": "",
+        "translation": "巴尔艾利赫东"
     },
     {
+        "id": "p_village_139",
         "text": "Bal_Aileach_West",
-        "translation": "巴尔埃里奇西"
+        "old_translation": "",
+        "translation": "巴尔艾利赫西"
     },
     {
+        "id": "p_village_140",
         "text": "Tref_Brycheiniog_East",
-        "translation": "彻弗拜卡灵东"
+        "old_translation": "",
+        "translation": "彻弗布瑞赫尼奥格东"
     },
     {
+        "id": "p_village_141",
         "text": "Tref_Brycheiniog_West",
-        "translation": "彻弗拜卡灵西"
+        "old_translation": "",
+        "translation": "彻弗布瑞赫尼奥格西"
     },
     {
+        "id": "p_village_142",
         "text": "Bebban_Ham_North",
+        "old_translation": "",
         "translation": "贝班翰北"
     },
     {
+        "id": "p_village_143",
         "text": "Bebban_Ham_South",
+        "old_translation": "",
         "translation": "贝班翰南"
     },
     {
+        "id": "p_village_144",
         "text": "Bal_Cruaghan_East",
+        "old_translation": "",
         "translation": "巴尔克鲁亨东"
     },
     {
+        "id": "p_village_145",
         "text": "Bal_Cruaghan_West",
+        "old_translation": "",
         "translation": "巴尔克鲁亨西"
     },
     {
+        "id": "p_village_146",
         "text": "Bal_Temair_North",
+        "old_translation": "",
         "translation": "巴尔提梅尔北"
     },
     {
+        "id": "p_village_147",
         "text": "Bal_Temair_South",
+        "old_translation": "",
         "translation": "巴尔提梅尔南"
     },
     {
+        "id": "p_village_148",
         "text": "Cirren_Ham_East",
+        "old_translation": "",
         "translation": "锡伦翰东"
     },
     {
+        "id": "p_village_149",
         "text": "Cirren_Ham_West",
+        "old_translation": "",
         "translation": "锡伦翰西"
     },
     {
+        "id": "p_village_150",
         "text": "Doccinga",
+        "old_translation": "",
         "translation": "道琴嘉"
     },
     {
+        "id": "p_salt_mine",
         "text": "Salt_Mine",
+        "old_translation": "",
         "translation": "盐矿"
     },
     {
+        "id": "p_four_ways_inn",
         "text": "Four_Ways_Inn",
+        "old_translation": "",
         "translation": "福泽斯坦"
     },
     {
+        "id": "p_test_scene",
         "text": "test_scene",
+        "old_translation": "",
         "translation": "测试场景"
     },
     {
+        "id": "p_battlefields",
         "text": "battlefields",
+        "old_translation": "",
         "translation": "战场"
     },
     {
+        "id": "p_frisa_beach",
         "text": "Friese_Beach",
-        "translation": "弗里斯海滩"
+        "old_translation": "",
+        "translation": "弗里西亚海滩"
     },
     {
+        "id": "p_farmland",
         "text": "Ulf's_Farmstead",
+        "old_translation": "",
         "translation": "伍尔夫的农场"
     },
     {
+        "id": "p_boar_grove",
         "text": "Boar_Grove",
+        "old_translation": "",
         "translation": "野猪林"
     },
     {
+        "id": "p_readingum",
         "text": "Readingum",
-        "translation": "雷丁镇"
+        "old_translation": "",
+        "translation": "雷丁姆"
     },
     {
+        "id": "p_aescesdun",
         "text": "Aescesdun",
-        "translation": "艾克丹"
+        "old_translation": "",
+        "translation": "阿什顿"
     },
     {
+        "id": "p_mega_danishrmy",
         "text": "Great_Summer_Army",
-        "translation": "维京雄狮"
+        "old_translation": "",
+        "translation": "夏日大军"
     },
     {
+        "id": "p_battle_stones",
         "text": "Stone_Row",
+        "old_translation": "",
         "translation": "石阵"
     },
     {
+        "id": "p_farmland_special",
         "text": "Farmland",
+        "old_translation": "",
         "translation": "农田"
     },
     {
+        "id": "p_roman_fort",
         "text": "Roman_Fort",
-        "translation": "诺曼要塞"
+        "old_translation": "",
+        "translation": "罗马堡垒"
     },
     {
+        "id": "p_troll_bridge",
         "text": "The_Troll's_Bridge",
+        "old_translation": "",
         "translation": "巨魔桥"
     },
     {
+        "id": "p_circle_mystic1",
         "text": "Mystic_Circle",
+        "old_translation": "",
         "translation": "神秘圆阵"
     },
     {
+        "id": "p_celidon_forest",
         "text": "Ancient_Stones",
-        "translation": "远古石群"
+        "old_translation": "",
+        "translation": "古代石群"
     },
     {
+        "id": "p_hidden_valley",
         "text": "Strange_Ruins",
-        "translation": "罕见的遗迹"
+        "old_translation": "",
+        "translation": "奇异遗迹"
     },
     {
+        "id": "p_quarry1",
         "text": "Quarry",
+        "old_translation": "",
         "translation": "采石场"
     },
     {
+        "id": "p_quarry2",
+        "text": "Quarry",
+        "old_translation": "",
+        "translation": "采石场"
+    },
+    {
+        "id": "p_quarry3",
+        "text": "Quarry",
+        "old_translation": "",
+        "translation": "采石场"
+    },
+    {
+        "id": "p_quarry4",
+        "text": "Quarry",
+        "old_translation": "",
+        "translation": "采石场"
+    },
+    {
+        "id": "p_saltmine1",
+        "text": "Salt_Mine",
+        "old_translation": "",
+        "translation": "盐矿"
+    },
+    {
+        "id": "p_saltmine2",
+        "text": "Salt_Mine",
+        "old_translation": "",
+        "translation": "盐矿"
+    },
+    {
+        "id": "p_saltmine3",
+        "text": "Salt_Mine",
+        "old_translation": "",
+        "translation": "盐矿"
+    },
+    {
+        "id": "p_saltmine4",
+        "text": "Salt_Mine",
+        "old_translation": "",
+        "translation": "盐矿"
+    },
+    {
+        "id": "p_lumbercamp1",
         "text": "Lumber_Camp",
+        "old_translation": "",
         "translation": "伐木营"
     },
     {
+        "id": "p_lumbercamp2",
+        "text": "Lumber_Camp",
+        "old_translation": "",
+        "translation": "伐木营"
+    },
+    {
+        "id": "p_lumbercamp3",
+        "text": "Lumber_Camp",
+        "old_translation": "",
+        "translation": "伐木营"
+    },
+    {
+        "id": "p_lumbercamp4",
+        "text": "Lumber_Camp",
+        "old_translation": "",
+        "translation": "伐木营"
+    },
+    {
+        "id": "p_farmsteadsp1",
         "text": "Farmstead",
+        "old_translation": "",
         "translation": "农场"
     },
     {
+        "id": "p_farmsteadsp2",
+        "text": "Farmstead",
+        "old_translation": "",
+        "translation": "农场"
+    },
+    {
+        "id": "p_farmsteadsp3",
+        "text": "Farmstead",
+        "old_translation": "",
+        "translation": "农场"
+    },
+    {
+        "id": "p_farmsteadsp4",
+        "text": "Farmstead",
+        "old_translation": "",
+        "translation": "农场"
+    },
+    {
+        "id": "p_farmsteadsp5",
+        "text": "Farmstead",
+        "old_translation": "",
+        "translation": "农场"
+    },
+    {
+        "id": "p_farmsteadsp6",
+        "text": "Farmstead",
+        "old_translation": "",
+        "translation": "农场"
+    },
+    {
+        "id": "p_farmsteadsp7",
+        "text": "Farmstead",
+        "old_translation": "",
+        "translation": "农场"
+    },
+    {
+        "id": "p_farmsteadsp8",
+        "text": "Farmstead",
+        "old_translation": "",
+        "translation": "农场"
+    },
+    {
+        "id": "p_farmsteadsp9",
+        "text": "Farmstead",
+        "old_translation": "",
+        "translation": "农场"
+    },
+    {
+        "id": "p_hadrian_wall1",
         "text": "Hadrian's_Wall",
+        "old_translation": "",
         "translation": "哈德良长城"
     },
     {
+        "id": "p_bjorn_camp",
         "text": "Bjorn's_Camp",
+        "old_translation": "",
         "translation": "比约恩的营地"
     },
     {
+        "id": "p_snotingaham_siege",
         "text": "Snotingaham_under_Siege",
+        "old_translation": "",
         "translation": "被包围的诺丁汉"
     },
     {
+        "id": "p_odin_cave",
         "text": "Odin's_Cave",
+        "old_translation": "",
         "translation": "奥丁之穴"
     },
     {
+        "id": "p_stonemonumento",
         "text": "Monument_of_Stones",
+        "old_translation": "",
         "translation": "石之丰碑"
     },
     {
+        "id": "p_forestbattle",
         "text": "Forest_Battle",
+        "old_translation": "",
         "translation": "林中之战"
     },
     {
+        "id": "p_the_thing",
         "text": "The_Assembly",
-        "translation": "集结号"
+        "old_translation": "",
+        "translation": "集结地"
     },
     {
+        "id": "p_dhorak_keep",
         "text": "Dhorak_Keep",
-        "translation": "多拉克要塞"
+        "old_translation": "",
+        "translation": "多拉克关隘"
     },
     {
+        "id": "p_training_ground",
         "text": "Training_Ground",
+        "old_translation": "",
         "translation": "训练场"
     },
     {
+        "id": "p_training_ground_1",
         "text": "Training_Field",
+        "old_translation": "",
         "translation": "训练场"
     },
     {
+        "id": "p_training_ground_2",
         "text": "Training_Village",
+        "old_translation": "",
         "translation": "训练村"
     },
     {
+        "id": "p_training_ground_3",
+        "text": "Training_Field",
+        "old_translation": "",
+        "translation": "训练场"
+    },
+    {
+        "id": "p_training_ground_4",
         "text": "Training_Lake",
+        "old_translation": "",
         "translation": "训练湖"
     },
     {
+        "id": "p_training_ground_5",
         "text": "Training_Camp",
+        "old_translation": "",
         "translation": "训练营"
     },
     {
+        "id": "p_monasterio1",
         "text": "Ad_Candidam_Casam",
+        "old_translation": "",
         "translation": "坎达卡莎慕修道院"
     },
     {
+        "id": "p_monasterio2",
         "text": "Willibrord",
+        "old_translation": "",
         "translation": "卫利波洛修道院"
     },
     {
+        "id": "p_monasterio3",
         "text": "Dommoc",
+        "old_translation": "",
         "translation": "多默克修道院"
     },
     {
+        "id": "p_monasterio4",
         "text": "Lindisfarne",
-        "translation": "林第斯法纳修道院"
+        "old_translation": "",
+        "translation": "林迪斯法恩修道院"
     },
     {
+        "id": "p_monasterio5",
         "text": "Aporcrosan",
+        "old_translation": "",
         "translation": "埃克杉修道院"
     },
     {
+        "id": "p_monasterio6",
         "text": "Petrus",
-        "translation": "佩特勒斯"
+        "old_translation": "",
+        "translation": "佩特勒斯修道院"
     },
     {
+        "id": "p_monasterio7",
         "text": "Apurnethige",
+        "old_translation": "",
         "translation": "佩尔斯格修道院"
     },
     {
+        "id": "p_monasterio8",
         "text": "Llanteulyddog",
+        "old_translation": "",
         "translation": "朗特鲁道格修道院"
     },
     {
+        "id": "p_monasterio9",
         "text": "Ynys_Enlli",
+        "old_translation": "",
         "translation": "安格尔艾利修道院"
     },
     {
+        "id": "p_monasterio10",
         "text": "Eveshomme",
+        "old_translation": "",
         "translation": "伊威宿曼修道院"
     },
     {
+        "id": "p_monasterio11",
         "text": "Inderawuda",
+        "old_translation": "",
         "translation": "艾德武达修道院"
     },
     {
+        "id": "p_monasterio12",
         "text": "Hagustaldes",
+        "old_translation": "",
         "translation": "汉格斯修道院"
     },
     {
+        "id": "p_monasterio13",
         "text": "Briudun",
+        "old_translation": "",
         "translation": "卜尔丹修道院"
     },
     {
+        "id": "p_monasterio14",
         "text": "Gudlac",
+        "old_translation": "",
         "translation": "古拉达克修道院"
     },
     {
+        "id": "p_monasterio15",
         "text": "Wochingas",
+        "old_translation": "",
         "translation": "沃茨纳格修道院"
     },
     {
+        "id": "p_monasterio16",
         "text": "Clofesho",
+        "old_translation": "",
         "translation": "库洛硕修道院"
     },
     {
+        "id": "p_monasterio17",
         "text": "Waerburh",
-        "translation": "威尔巴赫修道院"
+        "old_translation": "",
+        "translation": "威尔堡修道院"
     },
     {
+        "id": "p_monasterio18",
         "text": "Derhurst",
+        "old_translation": "",
         "translation": "第尔哈斯特修道院"
     },
     {
+        "id": "p_monasterio19",
         "text": "Ythan",
+        "old_translation": "",
         "translation": "瓦特晗修道院"
     },
     {
+        "id": "p_monasterio20",
         "text": "Petrockstow",
+        "old_translation": "",
         "translation": "布雷特罗戈修道院"
     },
     {
+        "id": "p_monasterio21",
         "text": "Medeshamstede",
+        "old_translation": "",
         "translation": "枚德汉姆斯修道院"
     },
     {
+        "id": "p_monasterio22",
         "text": "Cocheham",
+        "old_translation": "",
         "translation": "库克汉姆修道院"
     },
     {
+        "id": "p_monasterio23",
         "text": "Patricius",
+        "old_translation": "",
         "translation": "巴特利修道院"
     },
     {
+        "id": "p_monasterio24",
         "text": "Daire_Calgaich",
+        "old_translation": "",
         "translation": "戴卡格里修道院"
     },
     {
+        "id": "p_monasterio25",
         "text": "Finian",
+        "old_translation": "",
         "translation": "菲尼安修道院"
     },
     {
+        "id": "p_monasterio26",
         "text": "Raithean",
+        "old_translation": "",
         "translation": "瓦泽安修道院"
     },
     {
+        "id": "p_monasterio27",
         "text": "Carthach",
+        "old_translation": "",
         "translation": "克汗斯茨修道院"
     },
     {
+        "id": "p_monasterio28",
         "text": "Scelic_Mhichi",
+        "old_translation": "",
         "translation": "斯乐科海慈修道院"
     },
     {
+        "id": "p_monasterio29",
         "text": "Gleann_Da_Loch",
+        "old_translation": "",
         "translation": "格伦达洛谷修道院"
     },
     {
+        "id": "p_yourlair",
         "text": "My_Refuge",
+        "old_translation": "",
         "translation": "庇护所"
     },
     {
+        "id": "p_thiaderd_lair",
         "text": "Thiaderd's_Hideout",
+        "old_translation": "",
         "translation": "泰德的藏身处"
     },
     {
+        "id": "p_destroy1",
         "text": "Thiaderd's_Hideout,_Destroyed",
-        "translation": "泰德的藏身处(已破坏)"
+        "old_translation": "",
+        "translation": "泰德的藏身处（已破坏）"
     },
     {
+        "id": "p_destroy2",
         "text": "Sven's_Lair,_Destroyed",
-        "translation": "斯温的藏身处(已破坏)"
+        "old_translation": "",
+        "translation": "斯温的藏身处（已破坏）"
     },
     {
+        "id": "p_destroy3",
         "text": "Aescesdun_Battlefield",
-        "translation": "艾克丹战场"
+        "old_translation": "",
+        "translation": "阿什顿战场"
     },
     {
+        "id": "p_followers_camp",
         "text": "Followers_Camp",
+        "old_translation": "",
         "translation": "追随者营地"
     },
     {
+        "id": "p_ferry_1a",
         "text": "ferry_station",
+        "old_translation": "",
         "translation": "渡口"
     },
     {
+        "id": "p_ferry_2a",
+        "text": "ferry_station",
+        "old_translation": "",
+        "translation": "渡口"
+    },
+    {
+        "id": "p_ferry_3a",
+        "text": "ferry_station",
+        "old_translation": "",
+        "translation": "渡口"
+    },
+    {
+        "id": "p_ferry_4a",
+        "text": "ferry_station",
+        "old_translation": "",
+        "translation": "渡口"
+    },
+    {
+        "id": "p_ferry_1b",
+        "text": "ferry_station",
+        "old_translation": "",
+        "translation": "渡口"
+    },
+    {
+        "id": "p_ferry_2b",
+        "text": "ferry_station",
+        "old_translation": "",
+        "translation": "渡口"
+    },
+    {
+        "id": "p_ferry_3b",
+        "text": "ferry_station",
+        "old_translation": "",
+        "translation": "渡口"
+    },
+    {
+        "id": "p_ferry_4b",
+        "text": "ferry_station",
+        "old_translation": "",
+        "translation": "渡口"
+    },
+    {
+        "id": "p_wales_spawn_point",
         "text": "the_coast",
+        "old_translation": "",
         "translation": "海岸"
     },
     {
+        "id": "p_fortiu_spawn_point",
+        "text": "the_coast",
+        "old_translation": "",
+        "translation": "海岸"
+    },
+    {
+        "id": "p_sussex_spawn_point",
         "text": "South_Seaxe",
+        "old_translation": "",
         "translation": "南撒克逊"
     },
     {
+        "id": "p_clyde_coast_spawn_point",
         "text": "the_river",
+        "old_translation": "",
         "translation": "河"
     },
     {
-        "text": "the_mountains",
-        "translation": "山岳"
+        "id": "p_limerick_spawn_point",
+        "text": "the_coast",
+        "old_translation": "",
+        "translation": "海岸"
     },
     {
+        "id": "p_norway_spawn_point",
+        "text": "the_mountains",
+        "old_translation": "",
+        "translation": "群山"
+    },
+    {
+        "id": "p_northumbria_spawn_point",
         "text": "the_countryside",
+        "old_translation": "",
         "translation": "乡村"
     },
     {
+        "id": "p_mierce_spawn_point",
+        "text": "the_countryside",
+        "old_translation": "",
+        "translation": "乡村"
+    },
+    {
+        "id": "p_crafu_spawn_point",
+        "text": "the_countryside",
+        "old_translation": "",
+        "translation": "乡村"
+    },
+    {
+        "id": "p_alban_spawn_point",
+        "text": "the_countryside",
+        "old_translation": "",
+        "translation": "乡村"
+    },
+    {
+        "id": "p_aileach_spawn_point",
+        "text": "the_countryside",
+        "old_translation": "",
+        "translation": "乡村"
+    },
+    {
+        "id": "p_engla_coast_spawn_point",
+        "text": "the_coast",
+        "old_translation": "",
+        "translation": "海岸"
+    },
+    {
+        "id": "p_cornish_coast_spawn_point",
+        "text": "the_coast",
+        "old_translation": "",
+        "translation": "海岸"
+    },
+    {
+        "id": "p_leinster_spawn_point",
+        "text": "the_countryside",
+        "old_translation": "",
+        "translation": "乡村"
+    },
+    {
+        "id": "p_frisia_spawn_point",
+        "text": "the_countryside",
+        "old_translation": "",
+        "translation": "乡村"
+    },
+    {
+        "id": "p_denmark_spawn_point",
+        "text": "the_countryside",
+        "old_translation": "",
+        "translation": "乡村"
+    },
+    {
+        "id": "p_caitness_priest_spawn_point",
+        "text": "the_countryside",
+        "old_translation": "",
+        "translation": "乡村"
+    },
+    {
+        "id": "p_northumbria_priest_spawn_point",
+        "text": "the_countryside",
+        "old_translation": "",
+        "translation": "乡村"
+    },
+    {
+        "id": "p_norway_priest_spawn_point",
+        "text": "the_countryside",
+        "old_translation": "",
+        "translation": "乡村"
+    },
+    {
+        "id": "p_denmark_priest_spawn_point",
+        "text": "the_countryside",
+        "old_translation": "",
+        "translation": "乡村"
+    },
+    {
+        "id": "p_channel_spawn_point",
         "text": "the_channel",
+        "old_translation": "",
         "translation": "海峡"
     },
     {
+        "id": "p_bight_spawn_point",
         "text": "the_Southern_Bight",
-        "translation": "南部的海岸线"
+        "old_translation": "",
+        "translation": "南部海湾"
     },
     {
+        "id": "p_irish_sea_spawn_point",
         "text": "the_Irish_Sea",
+        "old_translation": "",
         "translation": "爱尔兰海"
     },
     {
+        "id": "p_forth_firth_spawn_point",
         "text": "the_Firth_of_Forth",
+        "old_translation": "",
         "translation": "福斯湾"
     },
     {
+        "id": "p_skagerrak_spawn_point",
         "text": "the_Skagerrak",
+        "old_translation": "",
         "translation": "斯卡格拉克海峡"
     },
     {
+        "id": "p_firth_clyde_spawn_point",
         "text": "the_Firth_of_Clyde",
+        "old_translation": "",
         "translation": "克莱德湾"
     },
     {
+        "id": "p_landing_point",
         "text": "landing_point",
-        "translation": "码头"
+        "old_translation": "",
+        "translation": "登陆点"
     },
     {
+        "id": "p_the_fleet",
         "text": "The_Fleet",
+        "old_translation": "",
         "translation": "舰队"
     },
     {
+        "id": "p_transporter",
         "text": "Transporter",
+        "old_translation": "",
         "translation": "运输者"
     },
     {
+        "id": "p_troop_camp_1",
         "text": "Troop_Quarters",
+        "old_translation": "",
         "translation": "军营"
     },
     {
+        "id": "p_troop_camp_2",
+        "text": "Troop_Quarters",
+        "old_translation": "",
+        "translation": "军营"
+    },
+    {
+        "id": "p_paganholysites1",
         "text": "Odin's_Hof",
+        "old_translation": "",
         "translation": "奥丁神庙"
     },
     {
+        "id": "p_paganholysites2",
         "text": "Thor's_Hof",
+        "old_translation": "",
         "translation": "索尔神庙"
     },
     {
+        "id": "p_oldpagan_hut",
         "text": "Old_Pagan's_Hut",
-        "translation": "破旧的多神教徒小屋"
+        "old_translation": "",
+        "translation": "老多神教徒的小屋"
     },
     {
+        "id": "p_morrigan_lair",
         "text": "Morrigan's_Lair",
-        "translation": "莫莉卡的巢穴"
+        "old_translation": "",
+        "translation": "莫丽甘的藏身处"
     },
     {
+        "id": "p_bresail_farm",
         "text": "Mael_Bresail's_Farm",
-        "translation": "普雷西尔王子的农场"
+        "old_translation": "",
+        "translation": "梅尔·布雷赛尔的农场"
     },
     {
+        "id": "p_bresail_fort",
         "text": "Mael_Bresail's_Fort",
-        "translation": "普雷西尔王子的堡垒"
+        "old_translation": "",
+        "translation": "梅尔·布雷赛尔的堡垒"
     }
 ]

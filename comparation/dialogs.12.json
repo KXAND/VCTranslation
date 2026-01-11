@@ -1,0 +1,884 @@
+[
+    {
+        "id": "dlga_town_merchant_talk:smith_requested_repair_1",
+        "text": "I_want_to_refine_one_of_my_weapons.",
+        "old_translation": "我想修理我的一件武器。",
+        "translation": "我想精炼我的一件武器。"
+    },
+    {
+        "id": "dlga_smith_requested_repair_1:smith_requested_repair_2",
+        "text": "Which_one?",
+        "old_translation": "哪个？",
+        "translation": "哪一件？"
+    },
+    {
+        "id": "dlga_smith_requested_repair_2:merchant_trade",
+        "text": "Never_mind.",
+        "old_translation": "没事。",
+        "translation": "算了。"
+    },
+    {
+        "id": "dlga_item_improve_1:item_improve_2",
+        "text": "Hmm,_let_me_take_a_look..._Your_{s7}_is_{s8}._I_think_I_will_be_able_to_make_it_{s9}_for_{reg1}_peningas._{s10}",
+        "old_translation": "嗯，我来看看……你这个是{s8}{s7}。我想我可以把它打造成{s9}{s7}，需要{reg1}先令。{s10}",
+        "translation": "嗯，我看看……你的{s7}是{s8}。我想我能把它精炼成{s9}，要{reg1}银便士。{s10}"
+    },
+    {
+        "id": "dlga_item_improve_1:merchant_trade",
+        "text": "Hmm,_let_me_take_a_look..._There_is_nothing_I_can_do_for_your_{s7}._I_can't_refine_it.",
+        "old_translation": "嗯，我来看看……你的{s7}没什么需要修理的了。",
+        "translation": "嗯，我看看……你的{s7}已经没法再精炼了。"
+    },
+    {
+        "id": "dlga_item_improve_2:item_improve_3",
+        "text": "Agreed!",
+        "old_translation": "好！",
+        "translation": "成交！"
+    },
+    {
+        "id": "dlga_item_improve_2:merchant_trade",
+        "text": "I_changed_my_mind.",
+        "old_translation": "我改主意了。",
+        "translation": "我改主意了。"
+    },
+    {
+        "id": "dlga_item_improve_2:merchant_trade.1",
+        "text": "I_don't_have_enough_money.",
+        "old_translation": "我钱不够。",
+        "translation": "我钱不够。"
+    },
+    {
+        "id": "dlga_item_improve_3:merchant_trade",
+        "text": "Here_you_have_your_{s7}_back._It's_refined.",
+        "old_translation": "你的{s7}，还给你，修好了。",
+        "translation": "你的{s7}拿回去，已经精炼好了。"
+    },
+    {
+        "id": "dlga_town_merchant_talk:armorer_requested_repair_1",
+        "text": "I_want_to_refine_one_of_my_armor_parts.",
+        "old_translation": "我想精炼我的装备。",
+        "translation": "我想精炼我的一件护甲部件。"
+    },
+    {
+        "id": "dlga_armorer_requested_repair_1:armorer_requested_repair_2",
+        "text": "Which_one?",
+        "old_translation": "哪个？",
+        "translation": "哪一件？"
+    },
+    {
+        "id": "dlga_armorer_requested_repair_2:merchant_trade",
+        "text": "Never_mind.",
+        "old_translation": "没事。",
+        "translation": "算了。"
+    },
+    {
+        "id": "dlga_merchant_trade:town_merchant_talk",
+        "text": "Anything_else?",
+        "old_translation": "还有什么事吗？",
+        "translation": "还有别的事吗？"
+    },
+    {
+        "id": "dlga_town_merchant_talk:merchant_gossip",
+        "text": "Tell_me,_what_are_people_talking_about_these_days?",
+        "old_translation": "告诉我，大家最近都在谈些什么？",
+        "translation": "告诉我，最近大家都在聊些什么？"
+    },
+    {
+        "id": "dlga_merchant_gossip:town_merchant_talk",
+        "text": "I_don't_know_anything_that_would_be_of_interest_to_you.",
+        "old_translation": "没什么你会感兴趣的。",
+        "translation": "我不知道任何你会感兴趣的事。"
+    },
+    {
+        "id": "dlga_merchant_gossip:town_merchant_talk.2",
+        "text": "Well,_nothing_new_lately._Prices,_weather,_the_war,_the_same_old_things.",
+        "old_translation": "哦，没什么新话题。价格、天气、战争，都是老一套。",
+        "translation": "最近没什么新鲜事。物价、天气、战争，还是老一套。"
+    },
+    {
+        "id": "dlga_town_merchant_talk:close_window",
+        "text": "Farewell.",
+        "old_translation": "再见。",
+        "translation": "再见。"
+    },
+    {
+        "id": "dlga_start:town_dweller_talk",
+        "text": "My_{reg59?lady:lord}?",
+        "old_translation": "我的{reg59?女士:大人}？",
+        "translation": "我的{reg59?女士:大人}？"
+    },
+    {
+        "id": "dlga_start:town_dweller_talk.1",
+        "text": "Good_day,_{reg59?madam:sir}.",
+        "old_translation": "日安，{reg59?女士:先生}",
+        "translation": "日安，{reg59?女士:先生}。"
+    },
+    {
+        "id": "dlga_town_dweller_talk:town_dweller_ask_fugitive",
+        "text": "I_am_looking_for_a_man_by_the_name_of_{s4}._I_was_told_he_may_be_hiding_here.",
+        "old_translation": "我在找一个名叫{s4}的人。我被告知他就藏在这里。",
+        "translation": "我在找一个叫{s4}的人。有人告诉我他可能藏在这里。"
+    },
+    {
+        "id": "dlga_town_dweller_ask_fugitive:close_window",
+        "text": "Strangers_come_and_go_to_our_village,_{reg59?madam:sir}._If_he_is_hiding_here,_you_will_surely_find_him_if_you_look_around.",
+        "old_translation": "很多陌生人出没我们的村子，{reg59?女士:先生}，如果他躲在这，你四处转转肯定能找到他。",
+        "translation": "陌生人来来往往，{reg59?女士:先生}。若他真躲在这儿，你四处看看就能找到。"
+    },
+    {
+        "id": "dlga_town_dweller_talk:town_dweller_ask_music",
+        "text": "Have_you_seen_any_{s22}-playing_guards_around_here?",
+        "old_translation": "你在附近见过{s22}演奏没有？",
+        "translation": "你在附近见过吹{s22}的守卫吗？"
+    },
+    {
+        "id": "dlga_town_dweller_ask_music:close_window",
+        "text": "Strangers_come_and_go_to_our_village,_{reg59?madam:sir}._Haven't_heard_or_seen_anyone_like_that,_but_if_he_is_hiding_here,_you_might_be_able_to_find_him_if_you_look_around.",
+        "old_translation": "经常有陌生人在我们村了。我从来都没听说过，但如果他在这里，你在附近找找或许就找到了。",
+        "translation": "{reg59?夫人:先生}，陌生人常在我们村进出。我没听说这样的人，但若他藏在这儿，你四处找找也许能发现。"
+    },
+    {
+        "id": "dlga_town_dweller_ask_music:close_window.1",
+        "text": "Strangers_come_and_go_to_our_village,_{reg59?madam:sir}._Me_and_my_friends_were_listening_to_the_sounds_of_a_{s22}_the_other_day,_but_I_don't_recall_that_person._Perhaps_he's_left_already?",
+        "old_translation": "经常有陌生人在我们村了。，我和我朋友前些天听说过{s22}，但我想不起来了。或许他已经走了吧？",
+        "translation": "陌生人常来我们村，{reg59?女士:先生}。前几天我和朋友还说起{s22}，可我不记得那人。也许他已经走了？"
+    },
+    {
+        "id": "dlga_town_dweller_talk:town_dweller_ask_ghost",
+        "text": "I_am_looking_for_someone_who_may_or_may_not_be_a_ghost.",
+        "old_translation": "我在找一个人，或者一个鬼。",
+        "translation": "我在找一个不知是人是鬼的家伙。"
+    },
+    {
+        "id": "dlga_town_dweller_ask_ghost:close_window",
+        "text": "A_ghost?_Hah!_Ghosts_don't_appear_during_the_day!_Try_finding_him_at_night!",
+        "old_translation": "鬼？噢！鬼才不会白天出现！晚上找吧！",
+        "translation": "鬼？哈！鬼可不会大白天现身！晚上再来找吧！"
+    },
+    {
+        "id": "dlga_town_dweller_ask_ghost:close_window.1",
+        "text": "A_ghost?_Ghosts_don't_appear_on_their_own!_You_need_to_walk_by_him_to_wake_him_up.",
+        "old_translation": "鬼？鬼不会自己冒出来！你自己去找他吧。",
+        "translation": "鬼？鬼不会自己冒出来！你得从他身边走过，把他惊醒。"
+    },
+    {
+        "id": "dlga_town_dweller_quest_meet_spy_in_enemy_town:town_dweller_quest_meet_spy_in_enemy_town_dont_know",
+        "text": "Eh?_What_kind_of_gibberish_is_that?",
+        "old_translation": "啊？那是什么鬼话？",
+        "translation": "啊？那是什么胡话？"
+    },
+    {
+        "id": "dlga_town_dweller_quest_meet_spy_in_enemy_town_dont_know:close_window",
+        "text": "Never_mind.",
+        "old_translation": "没事。",
+        "translation": "算了。"
+    },
+    {
+        "id": "dlga_town_dweller_quest_meet_spy_in_enemy_town_know:town_dweller_quest_meet_spy_in_enemy_town_chat",
+        "text": "{s4}_sent_me_to_collect_your_reports._Do_you_have_them_with_you?",
+        "old_translation": "{s4}派我来拿你的报告。你有带在身上吗？",
+        "translation": "{s4}派我来收你的报告。你带在身上了吗？"
+    },
+    {
+        "id": "dlga_town_dweller_quest_meet_spy_in_enemy_town_chat:town_dweller_quest_meet_spy_in_enemy_town_chat_2",
+        "text": "I've_been_expecting_you._Here_they_are,_make_sure_they_reach_{s4}_intact_and_without_delay.",
+        "old_translation": "我正在等你呢。拿好了，你要确保它们安全按时到达{s4}，绝不能有任何延误。",
+        "translation": "我正等你呢。拿好，务必让{s4}及时收到，完好无损。"
+    },
+    {
+        "id": "dlga_town_dweller_quest_meet_spy_in_enemy_town_chat_2:close_window",
+        "text": "Farewell.",
+        "old_translation": "再见。",
+        "translation": "再见。"
+    },
+    {
+        "id": "dlga_town_dweller_talk:town_dweller_ask_info",
+        "text": "What_can_you_tell_me_about_this_village?",
+        "old_translation": "你能告诉我这个村子的相关情况吗？",
+        "translation": "能跟我说说这座村子的情况吗？"
+    },
+    {
+        "id": "dlga_town_dweller_talk:town_dweller_ask_info.1",
+        "text": "What_can_you_tell_me_about_this_town?",
+        "old_translation": "你能告诉我这个城镇的相关情况吗？",
+        "translation": "能跟我说说这座城镇的情况吗？"
+    },
+    {
+        "id": "dlga_town_dweller_talk:town_adda_ask_info",
+        "text": "Where_can_I_find_Adda?",
+        "old_translation": "哪里能找到艾达？",
+        "translation": "哪里能找到艾达？"
+    },
+    {
+        "id": "dlga_town_adda_ask_info:town_dweller_talk",
+        "text": "She_lives_on_the_wharf,_{reg59?madam:sir},_where_she_trades_in_goods_brought_by_merchants._It_is_one_of_the_tall_houses_there.",
+        "old_translation": "她住在码头，{reg59?女士:先生}，她在那里和商人们做生意。就在其中一幢高房子那里。",
+        "translation": "她住在码头，{reg59?女士:先生}，在那里跟商人做买卖。是那边一幢高房子。"
+    },
+    {
+        "id": "dlga_town_dweller_talk:town_dweller_ask_situation",
+        "text": "How_is_life_here?",
+        "old_translation": "这里的生活状态如何？",
+        "translation": "这里的生活怎么样？"
+    },
+    {
+        "id": "dlga_town_dweller_ask_situation:town_dweller_poor",
+        "text": "Disaster_has_struck_my_family,_{reg59?madam:sir}._We_have_no_land_of_our_own,_and_the_others_have_no_money_to_pay_for_our_labor,_or_even_to_help_us._My_poor_children_lie_at_home_hungry_and_sick._I_don't_know_what_we'll_do.",
+        "old_translation": "灾难降临在我家里面了，{reg59?女士:先生}。我们自己都没有地，而别人既没钱雇我们，也帮不了我们。我可怜的孩子躺在家里又病又饿。我不知道该怎么办。",
+        "translation": "灾难砸在我家头上，{reg59?女士:先生}。我们没有地，别人也没钱雇我们，更帮不上忙。我可怜的孩子病饿在家。我不知道该怎么办。"
+    },
+    {
+        "id": "dlga_town_dweller_ask_situation:town_dweller_poor.1",
+        "text": "My_life_is_miserable,_{reg59?madam:sir}._I_haven't_been_able_to_find_a_job_for_months,_and_my_poor_children_go_to_bed_hungry_each_night._My_neighbours_are_too_poor_themselves_to_help_me.",
+        "old_translation": "我的命太苦了，{reg59?女士:先生}。我已经一个月没找到工作了，我可怜的孩子每天都饿着肚子。我的邻居也同样很穷，他们根本帮不了我。",
+        "translation": "我命太苦，{reg59?女士:先生}。几个月找不到活干，孩子每晚饿着睡。邻居也穷，帮不了我。"
+    },
+    {
+        "id": "dlga_town_dweller_poor:town_dweller_poor_paid",
+        "text": "Then_take_these_300_peningas._I_hope_this_will_help_you_and_your_family.",
+        "old_translation": "拿着300先令吧。我希望这能对你和你的家庭有些用。",
+        "translation": "拿着这300银便士。希望对你家有用。"
+    },
+    {
+        "id": "dlga_town_dweller_poor:town_dweller_poor_not_paid",
+        "text": "Then_clearly,_you_must_travel_somewhere_else_or_learn_another_trade.",
+        "old_translation": "很明显你需要去别的地方试试运气，或者学学别的营生。",
+        "translation": "那你得去别处碰碰运气，或者学门新手艺。"
+    },
+    {
+        "id": "dlga_town_dweller_poor_not_paid:close_window",
+        "text": "Yes,_{reg59?madam:sir}._I_will_do_as_you_say.",
+        "old_translation": "是的，{reg59?女士:先生}。我们会照你说的做的。",
+        "translation": "是，{reg59?女士:先生}。我们照您说的做。"
+    },
+    {
+        "id": "dlga_town_dweller_poor_paid:close_window",
+        "text": "{reg59?My_good_lady:My_lord},_you_are_so_good_and_generous._I_will_tell_everyone_how_you_helped_us.",
+        "old_translation": "{reg59?我尊敬的女士:我的大人}。你真是太好心太大方了。我会告诉大家你是怎么帮助我们的。",
+        "translation": "{reg59?好心女士:大人}，您真是慷慨。我会告诉所有人您怎么帮了我们。"
+    },
+    {
+        "id": "dlga_town_dweller_ask_situation:close_window",
+        "text": "Thank_you_for_your_kindness,_{reg59?madam:sir}._With_your_help,_our_lives_will_be_better._I_will_pray_for_you_every_day.",
+        "old_translation": "谢谢你的好心，{reg59?女士:先生}。在你的帮助之下我们会过得更好。我们每天都会为你祈祷的。",
+        "translation": "谢谢您的善心，{reg59?女士:先生}。有您帮忙，日子会好过些。我们天天为您祈祷。"
+    },
+    {
+        "id": "dlga_town_dweller_ask_situation:town_dweller_talk",
+        "text": "Times_are_hard,_{reg59?madam:sir}._We_work_hard_all_day,_yet_we_go_to_sleep_hungry_most_nights.",
+        "old_translation": "很糟糕，{reg59?女士:先生}。我们每天努力工作却要饿着肚子上床。",
+        "translation": "日子艰难，{reg59?女士:先生}。我们整天干活，夜里却常饿着睡。"
+    },
+    {
+        "id": "dlga_town_dweller_ask_situation:town_dweller_talk.1",
+        "text": "Times_are_hard,_{reg59?madam:sir},_but_we_must_count_our_blessings.",
+        "old_translation": "很糟糕，{reg59?女士:先生}。不过还是谢天谢地。",
+        "translation": "日子艰难，{reg59?女士:先生}，但得感恩。"
+    },
+    {
+        "id": "dlga_town_dweller_ask_situation:town_dweller_talk.2",
+        "text": "We_are_not_doing_too_badly,_{reg59?madam:sir}._We_must_count_our_blessings.",
+        "old_translation": "我们过的都还行，{reg59?女士:先生}。谢天谢地。",
+        "translation": "我们过得还行，{reg59?女士:先生}。谢天谢地。"
+    },
+    {
+        "id": "dlga_town_dweller_talk:town_dweller_ask_trade",
+        "text": "What_is_your_trade?",
+        "old_translation": "你做什么生意？",
+        "translation": "你做什么营生？"
+    },
+    {
+        "id": "dlga_town_dweller_talk:town_dweller_ask_rumor",
+        "text": "What_is_the_latest_rumor_around_here?",
+        "old_translation": "有没有什么最新的传言？",
+        "translation": "这儿有什么最新传言？"
+    },
+    {
+        "id": "dlga_town_dweller_ask_rumor:town_dweller_talk",
+        "text": "I_don't_know_anything_that_would_be_of_interest_to_you.",
+        "old_translation": "没什么你会感兴趣的。",
+        "translation": "我不知道任何你会感兴趣的事。"
+    },
+    {
+        "id": "dlga_town_dweller_ask_rumor:town_dweller_talk.2",
+        "text": "I_haven't_heard_anything_interesting_lately.",
+        "old_translation": "最近没什么特别的情况。",
+        "translation": "最近我没听到什么有意思的事。"
+    },
+    {
+        "id": "dlga_town_dweller_talk:close_window",
+        "text": "[Leave]",
+        "old_translation": "离开。",
+        "translation": "[离开]"
+    },
+    {
+        "id": "dlga_start:player_castle_guard_talk",
+        "text": "Yes,_{reg59?madam:sir}?",
+        "old_translation": "是的，{reg59?女士:先生}？",
+        "translation": "在，{reg59?女士:先生}？"
+    },
+    {
+        "id": "dlga_player_castle_guard_talk:player_castle_guard_talk_2",
+        "text": "How_goes_the_watch,_soldier?",
+        "old_translation": "岗站得怎么样了？士兵。",
+        "translation": "岗哨情况如何，士兵？"
+    },
+    {
+        "id": "dlga_player_castle_guard_talk_2:player_castle_guard_talk_3",
+        "text": "All_is_quiet,_{reg59?madam:sir}._Nothing_to_report.",
+        "old_translation": "一切都很平静，{reg59?女士:先生}。没什么好报告的。",
+        "translation": "一切安静，{reg59?女士:先生}。无可报告。"
+    },
+    {
+        "id": "dlga_player_castle_guard_talk_3:close_window",
+        "text": "Good._Keep_your_eyes_open.",
+        "old_translation": "很好，给我盯着点。",
+        "translation": "很好，睁大眼睛。"
+    },
+    {
+        "id": "dlga_start:close_window.113",
+        "text": "Good_day,_{reg59?madame:sir}._Always_an_honor_to_have_you_here_in_{s10}.",
+        "old_translation": "祝你好运！",
+        "translation": "日安，{reg59?夫人:先生}。您能来{s10}是我们的荣幸。"
+    },
+    {
+        "id": "dlga_start:hall_guard_talk",
+        "text": "Your_orders,_{reg59?my_lady:my_lord}?",
+        "old_translation": "有什么指示，{reg59?我的女士:我的大人}？",
+        "translation": "请指示，{reg59?我的女士:我的大人}？"
+    },
+    {
+        "id": "dlga_start:court_guard_ask_location",
+        "text": "We_are_not_supposed_to_talk_while_on_guard,_{reg59?madam:sir}.",
+        "old_translation": "日安，{reg59?女士:先生}。我们总是很荣幸你能来{s10}。",
+        "translation": "站岗时不准交谈，{reg59?女士:先生}。"
+    },
+    {
+        "id": "dlga_court_guard_ask_location:court_guard_ask_location_2",
+        "text": "I_just_wanted_to_ask_about_your_lord._Do_you_know_where_he_is_now?",
+        "old_translation": "我只是想和你们领主谈谈，你知道他现在在哪里吗？",
+        "translation": "我只想问问你家领主。你知道他现在在哪儿吗？"
+    },
+    {
+        "id": "dlga_court_guard_ask_location:close_window",
+        "text": "I'll_be_on_my_way,_then.",
+        "old_translation": "我马上就去。",
+        "translation": "那我这就走。"
+    },
+    {
+        "id": "dlga_court_guard_ask_location_2:close_window",
+        "text": "{s1}^^Now_forgive_me._I_must_get_back_to_my_duties.",
+        "old_translation": "{s1}^^不好意思，我现在得回到位子上了。",
+        "translation": "{s1}^^恕我失陪，我得回去当值了。"
+    },
+    {
+        "id": "dlga_start:close_window.115",
+        "text": "We_are_not_supposed_to_talk_while_on_guard,_{reg59?madam:sir}.",
+        "old_translation": "日安，{reg59?女士:先生}。我们总是很荣幸你能来{s10}。",
+        "translation": "站岗时不准交谈，{reg59?女士:先生}。"
+    },
+    {
+        "id": "dlga_hall_guard_talk:hall_guard_duty",
+        "text": "Stay_on_duty_and_let_me_know_if_anyone_comes_to_see_me.",
+        "old_translation": "继续站岗，如果有人来找我就转告我一声。",
+        "translation": "继续守岗，有人来见我就通报。"
+    },
+    {
+        "id": "dlga_hall_guard_duty:close_window",
+        "text": "Yes,_{reg59?my_lady:my_lord}._As_you_wish.",
+        "old_translation": "是的，{reg59?我的女士:我的大人}。遵命。",
+        "translation": "是，{reg59?我的女士:我的大人}。遵命。"
+    },
+    {
+        "id": "dlga_enemy_defeated:close_window",
+        "text": "Arggh!_I_hate_this.",
+        "old_translation": "啊！我最恨这个了。",
+        "translation": "啊——！我恨透这差事。"
+    },
+    {
+        "id": "dlga_party_relieved:close_window",
+        "text": "Thank_you_for_helping_us_against_those_bastards.",
+        "old_translation": "谢谢你帮助我们对抗那些杂种。",
+        "translation": "多谢你帮我们收拾那群杂碎。"
+    },
+    {
+        "id": "dlga_start:battle_reason_stated",
+        "text": "I_will_drink_from_your_skull!",
+        "old_translation": "我会用你的头盖骨当碗使！",
+        "translation": "我要拿你的头骨当酒碗！"
+    },
+    {
+        "id": "dlga_member_chat:regular_member_talk",
+        "text": "Your_orders,_{reg59?madam:sir}?",
+        "old_translation": "{reg59?女士:先生}，有什么命令吗？",
+        "translation": "有何命令，{reg59?女士:先生}？"
+    },
+    {
+        "id": "dlga_regular_member_talk:view_regular_char_requested",
+        "text": "Tell_me_about_yourself.",
+        "old_translation": "给我说说你都会什么。",
+        "translation": "说说你自己。"
+    },
+    {
+        "id": "dlga_view_regular_char_requested:do_regular_member_view_char",
+        "text": "Aye,_{reg59?madam:sir}._Let_me_tell_you_all_there_is_to_know_about_me.",
+        "old_translation": "是的，{reg59?女士:先生}。让我告诉你我的事情。",
+        "translation": "好的，{reg59?女士:先生}。我把自己的事全告诉您。"
+    },
+    {
+        "id": "dlga_do_regular_member_view_char:regular_member_talk",
+        "text": "Anything_else?",
+        "old_translation": "还有什么事吗？",
+        "translation": "还有别的事吗？"
+    },
+    {
+        "id": "dlga_regular_member_talk:caliacas_son1",
+        "text": "Bran,_what_is_your_story?",
+        "old_translation": "布兰，告诉我你的故事？",
+        "translation": "布兰，讲讲你的经历？"
+    },
+    {
+        "id": "dlga_regular_member_talk:caliacas_son2",
+        "text": "Bran,_are_you_happy_in_my_shield_wall?",
+        "old_translation": "布兰，告诉我你在部队的感受如何？",
+        "translation": "布兰，在我的盾墙里待得可还痛快？"
+    },
+    {
+        "id": "dlga_caliacas_son1:regular_member_talk",
+        "text": "Not_much_to_tell._I_am_the_ninth_child_of_Caliacas,_the_smallest._My_father_is_more_of_an_influential_man_than_a_rich_one._He_gave_me_two_options:_join_you_or_enter_the_monastery._Honestly,_I'd_rather_fight_and_have_the_opportunity_to_get_rich_than_be_locked_up_behind_stone_walls,_so_I_did_not_think_long!_And_here_I_am!",
+        "old_translation": "没多少要说的。我是卡利卡斯的第九子，最小的儿子。我的父亲比当地富豪更具影响力。他给了我两个选择：加入你或者去修道院。说老实话，我宁可为未来拼搏也不要被锁在石墙内，我不在犹豫了，所以我就待在了这里！",
+        "translation": "没啥好说。我是卡利卡斯第九子，最小的。父亲权势大过财富。他让我选：跟你干，或者进修道院。老实说，我宁可打仗搏个富贵，也不愿被石墙关住，想都没想就来了！"
+    },
+    {
+        "id": "dlga_regular_member_talk:close_window",
+        "text": "Nothing._Keep_moving.",
+        "old_translation": "没什么，继续走吧。",
+        "translation": "没事，继续走。"
+    },
+    {
+        "id": "dlga_start:party_encounter_hostile_attacker",
+        "text": "You_have_no_chance_against_us._Surrender_now_or_we_will_kill_you_all...",
+        "old_translation": "跟我们打你一点胜算都没有，现在投降，否则我们会把你们杀光……",
+        "translation": "你们毫无胜算，立刻投降，否则一个不留……"
+    },
+    {
+        "id": "dlga_party_encounter_hostile_attacker:close_window",
+        "text": "We_will_fight_you_to_the_end!",
+        "old_translation": "我们会死拼到底！",
+        "translation": "我们会血战到底！"
+    },
+    {
+        "id": "dlga_party_encounter_hostile_attacker:close_window.1",
+        "text": "Don't_attack!_We_surrender.",
+        "old_translation": "别攻击！我们投降。",
+        "translation": "别动手！我们投降。"
+    },
+    {
+        "id": "dlga_start:party_encounter_hostile_defender",
+        "text": "What_do_you_want?",
+        "old_translation": "你想干什么？",
+        "translation": "你想干什么？"
+    },
+    {
+        "id": "dlga_party_encounter_hostile_defender:party_encounter_hostile_ultimatum_surrender",
+        "text": "Surrender_or_die!",
+        "old_translation": "要么投降！要么去死！",
+        "translation": "投降，还是死！"
+    },
+    {
+        "id": "dlga_party_encounter_hostile_defender:close_window",
+        "text": "Nothing._We'll_leave_you_in_peace.",
+        "old_translation": "没什么，我们不会打你的。",
+        "translation": "没事，我们不会动你。"
+    },
+    {
+        "id": "dlga_merchant_end:close_window",
+        "text": "You_should_go_ask_at_Doccinga._The_village_is_quite_near._You_need_to_talk_to_Thonkrik.",
+        "old_translation": "你应该去道琴嘉打听。村子很近，你去找索里克谈谈吧。",
+        "translation": "你该去道琴嘉问问。村子很近，你得找索里克谈谈。"
+    },
+    {
+        "id": "dlga_start:merchant_quest_4e",
+        "text": "{s3}{s2}",
+        "old_translation": "{s3}{s2}",
+        "translation": "{s3}{s2}"
+    },
+    {
+        "id": "dlga_merchant_quest_4e:merchant_finale.1",
+        "text": "The_Heavens_alone_grant_us_victory.",
+        "old_translation": "上天唯独让我们获胜。",
+        "translation": "唯有上天赐我们胜利。"
+    },
+    {
+        "id": "dlga_merchant_quest_4e:merchant_finale.2",
+        "text": "I'm_glad_to_see_that_you're_alive,_too.",
+        "old_translation": "我也很高兴看到你还活着。",
+        "translation": "我也很高兴你还活着。"
+    },
+    {
+        "id": "dlga_merchant_finale:close_window",
+        "text": "Yes,_yes..._Now,_a_couple_of_my_boys_have_the_watch_captain_pinned_down_in_a_back_room_with_a_knife_at_his_throat._I'll_need_to_go_drag_him_before_{s5}_and_explain_what_this_breach_of_the_peace_is_all_about._You_don't_need_to_be_part_of_that,_though._I'll_tell_you_what_--_if_all_goes_well,_I'll_meet_you_in_the_mead_hall_again_shortly_and_let_you_know_how_it_all_came_out._If_you_don't_see_me_in_the_mead_hall_but_instead_see_my_head_on_a_spike_over_the_city_gate,_I'll_assume_you_know_enough_to_stay_out_of_town_for_a_while_and_forget_this_whole_episode_ever_happened._So_--_hopefully_we'll_meet_again!",
+        "old_translation": "是的，是的……现在我的一群手下把那个哨兵队长关押在了一间密室，喉咙上抵着一把小刀。我得在{s5}之前拖走他并且解释这场暴动的原因。可是，那个你就不用参与了。我要告诉你的是——如果一切顺利，我很快就和你在蜜酒厅碰面，并且告诉你整件事的发展如何。如果你没有在蜜酒厅见着我，而是看到我的人头被钉在城门口，我想你肯定知道怎么离开镇子一段时间，并且忘记整件事情。那么——希望我们能够再碰头吧！",
+        "translation": "好，好……现在我几个手下把巡长堵在后屋，刀架在他脖子上。我得拖他去{s5}面前，解释这场骚乱怎么回事。你就不用掺和了。听着——若一切顺利，我一会儿去蜜酒厅找你，告诉你结果。要是你没在蜜酒厅见我，而是看见我的脑袋插在城门上，那你就明白得离镇子远点，把这事全忘了。那么——希望再会！"
+    },
+    {
+        "id": "dlga_merchant_quest_1_prologue_11:merchant_quest_1_prologue_1",
+        "text": "Who_are_you?_How_did_I_get_here?_Where_am_I?",
+        "old_translation": "你是谁？我怎么到这里了？我在哪儿？",
+        "translation": "你是谁？我怎么到这儿来的？这是哪儿？"
+    },
+    {
+        "id": "dlga_merchant_quest_1_prologue_11:merchant_quest_1_prologue_1.1",
+        "text": "My_head_hurts!_I_do_not_remember_anything_since_I_fell_overboard_from_the_boat.",
+        "old_translation": "我头真疼！我不记得我从船上掉下来以后发生什么了。",
+        "translation": "我头好疼！从船上掉下去之后的事，我全不记得了。"
+    },
+    {
+        "id": "dlga_merchant_quest_1_prologue_1:merchant_quest_1_prologue_22",
+        "text": "You_have_been_close_to_death,_unconscious_for_two_weeks._Doccinga_fishermen_found_you_near_the_coast,_clinging_to_a_plank._You_were_barely_breathing,_and_your_body_was_covered_with_wounds._They_brought_you_here_so_that_I_would_heal_you.",
+        "old_translation": "你本来快死了，昏迷了两周。道琴嘉的渔夫在海岸附近看到了你，你抓着一块木板。你几乎停止了呼吸，你的身体伤痕累累。他们把你带到了这里，所以我就医治了你。",
+        "translation": "你差点死了，昏迷了两周。道琴嘉的渔夫在岸边发现你抱着块木板，几乎没气，浑身是伤。他们把你送来让我治。"
+    },
+    {
+        "id": "dlga_merchant_quest_1_prologue_22:merchant_quest_1_prologue_2",
+        "text": "Doccinga?_Then_I_am_in_Friese!_Are_you_the_old_sorcerer,_the_man_who_can_cure_all_diseases?",
+        "old_translation": "道琴嘉？那我在弗里斯？你是那个能医百病的老巫师吗？",
+        "translation": "道琴嘉？那我在弗里西！你就是那位能治百病的老巫师？"
+    },
+    {
+        "id": "dlga_merchant_quest_1_prologue_22:merchant_player_go",
+        "text": "I've_heard_enough._I_will_go_to_Doccinga_and_ask_them_about_the_other_passengers._Farewell.",
+        "old_translation": "我听够了。我要去道琴嘉问问其他乘客怎么样了。再见。",
+        "translation": "我听够了。我去道琴嘉问问其他乘客。再会。"
+    },
+    {
+        "id": "dlga_merchant_quest_1_prologue_2:merchant_quest_1_prologue_33",
+        "text": "No._One_man_only_could_claim_such_fame._People_from_around_the_world_came_in_search_of_cures_at_his_door._They_were_so_numerous_that_came_up_the_trails_to_Doccinga!_But_that_man_died_a_year_ago._I_am_Aebbe,_his_son,_a_simple_healer.",
+        "old_translation": "不，只有一个人值得如此的荣誉，全世界的人们都找他来治伤。来道琴嘉的人数不胜数！但那个人一年前去世了。我是艾比，他的儿子，只是名医生。",
+        "translation": "不，只有一人担得起这名声。世界各地的人都来他门前求药，来道琴嘉的山道都挤满！可他一年前去世了。我是艾比，他的儿子，只是个普通医者。"
+    },
+    {
+        "id": "dlga_merchant_quest_1_prologue_33:merchant_quest_1_prologue_3",
+        "text": "A_year_ago,_you_say?_Damn,_I've_lost_everything!_This_trip_has_been_for_nothing!",
+        "old_translation": "你说一年前？该死，我什么都忘了！这场旅途白来了！",
+        "translation": "一年前？该死，我全白搭了！这趟白跑了！"
+    },
+    {
+        "id": "dlga_merchant_quest_1_prologue_33:merchant_player_go",
+        "text": "I've_heard_enough._I_will_go_to_Doccinga_and_ask_them_about_the_other_passengers._Farewell.",
+        "old_translation": "我听够了。我要去道琴嘉问问其他乘客怎么样了。再见。",
+        "translation": "我听够了。我去道琴嘉问问其他乘客。再会。"
+    },
+    {
+        "id": "dlga_merchant_quest_1_prologue_3:merchant_quest_1a",
+        "text": "Many,_like_you,_have_been_here_since_the_death_of_my_father,_leaving_everything_for_the_promise_of_a_cure_that_I_cannot_give_them._I'm_sorry,_but_the_skills_of_my_father_died_with_him.",
+        "old_translation": "像你一样，在我的父亲去世后也有许多人过来，要让我治那些我根本治不了的伤。我很抱歉，但是我父亲的技艺随着他的去世也失传了。",
+        "translation": "父亲死后，许多人像你一样赶来，为求我治不了的病押上一切。抱歉，父亲的技艺随他而去了。"
+    },
+    {
+        "id": "dlga_merchant_quest_1a:merchant_quest_1b",
+        "text": "Do_you_know_if_the_fishermen_found_more_people?_Maybe_my_mother_is_still_alive...",
+        "old_translation": "渔夫有说过找到过别人吗？也许我的母亲还活着……",
+        "translation": "渔夫有没有发现别人？也许我母亲还活着……"
+    },
+    {
+        "id": "dlga_merchant_quest_1a:merchant_player_go",
+        "text": "I_need_to_talk_to_the_fishermen_and_ask_them_about_the_other_Woden_Ric_passengers._Farewell.",
+        "old_translation": "我要去问问渔夫沃登里克号上的其他乘客怎么样了。再见。",
+        "translation": "我得去找渔夫，问问沃登里克号的其他乘客。再会。"
+    },
+    {
+        "id": "dlga_merchant_quest_1b:merchant_quest_1c",
+        "text": "They_brought_only_you_here._I_don't_know_more._You_should_go_ask_in_Doccinga._The_village_is_near._You_need_to_talk_to_Thonkrik.",
+        "old_translation": "他们只把你带了过来。我不知道其它的了。你应该去道琴嘉打听。村子很近。你找索里克谈谈吧。",
+        "translation": "他们只带你回来。别的我不知道。你该去道琴嘉问问，村子很近，找索里克谈。"
+    },
+    {
+        "id": "dlga_merchant_player_go:merchant_quest_1c",
+        "text": "Well,_aren't_you_impatient!_You_should_go_and_ask_in_Doccinga._The_village_is_near._You_need_to_talk_to_Thonkrik.",
+        "old_translation": "好吧，你就这么急吗？你应该去道琴嘉打听。村子很近。你找索里克谈谈吧。",
+        "translation": "嘿，这么急！你该去道琴嘉问问，村子很近，找索里克谈。"
+    },
+    {
+        "id": "dlga_merchant_quest_1c:merchant_quest_1d",
+        "text": "Very_good,_healer._I'll_talk_to_Thonkrik_from_Doccinga._Farewell.",
+        "old_translation": "非常好，医生。我会找道琴嘉的索里克谈谈的。再见。",
+        "translation": "好，医者。我会去找道琴嘉的索里克。再会。"
+    },
+    {
+        "id": "dlga_merchant_quest_1d:close_window",
+        "text": "{s1}_is_near_here._Good_luck,_foreigner._Thonkrik_is_a_good_man._He_will_help_you.",
+        "old_translation": "{s1}就在这附近。陌生人，祝好运。索里克是个好人，他会帮助你的。",
+        "translation": "{s1}就在附近。陌生人，祝好运。索里克是好人，他会帮你。"
+    },
+    {
+        "id": "dlga_start:battle_reason_stated.1",
+        "text": "Surrender_or_die._Make_your_choice",
+        "old_translation": "投降或者去死，你自己选",
+        "translation": "投降还是死，自己选。"
+    },
+    {
+        "id": "dlga_battle_reason_stated:close_window",
+        "text": "I_am_not_afraid_of_you._I_will_fight.",
+        "old_translation": "我不怕你，想要钱先问问我手里的兵刃答应不答应。",
+        "translation": "我不怕你，要战便战。"
+    },
+    {
+        "id": "dlga_battle_reason_stated:raiders_bribe1",
+        "text": "Do_you_know_who_you_are_talking_to?_I_will_not_kill_you_if_you_join_me.",
+        "old_translation": "你知道你在和谁说话吗？如果你加入我我就不会杀了你。",
+        "translation": "知道你在跟谁说话吗？归顺我，就饶你一命。"
+    },
+    {
+        "id": "dlga_raiders_bribe1:close_window",
+        "text": "I_care_very_little_about_who_you_are._It's_time_for_you_to_die.",
+        "old_translation": "我管你是谁呢，去死吧。",
+        "translation": "我管你是谁，受死吧。"
+    },
+    {
+        "id": "dlga_raiders_bribe1:close_window.1",
+        "text": "I_care_very_little_who_you_are._It's_time_for_you_to_die.",
+        "old_translation": "我管你是谁呢，去死吧。",
+        "translation": "我管你是谁，受死吧。"
+    },
+    {
+        "id": "dlga_raiders_bribe1:raiders_bribe1g",
+        "text": "Yes,_I've_heard_of_you._They_say_your_men_get_the_most_loot._Forgive_us,_and_we_will_be_delighted_to_join_such_a_fierce_leader.",
+        "old_translation": "是的，我听说过你。他们说你的部队有一大堆战利品。原谅我，我们会很高兴能够追随这样一名凶猛的领袖。",
+        "translation": "没错，我听过你。他们说你的手下抢得最多。原谅我们，我们愿追随如此勇猛的首领。"
+    },
+    {
+        "id": "dlga_raiders_bribe1:raiders_bribe1e",
+        "text": "We_would_consider_your_offer_if_you_better_it_by_{reg0}_peningas.",
+        "old_translation": "如果你再加上{reg0}先令，我会考虑你的建议。",
+        "translation": "要是你再添{reg0}银便士，我们就考虑归顺。"
+    },
+    {
+        "id": "dlga_raiders_bribe1e:close_window",
+        "text": "What?_Would_I_let_such_a_trifle_spoil_our_friendship?_Welcome_to_my_army.",
+        "old_translation": "什么？我怎么可能让小事情破坏我们之间的友谊？欢迎加入我的部队。",
+        "translation": "什么？我怎会为了这点小事坏了咱们的交情？欢迎入我军中。"
+    },
+    {
+        "id": "dlga_raiders_bribe1e:raiders_bribe12",
+        "text": "I_don't_have_enough_money...",
+        "old_translation": "我的钱不够…",
+        "translation": "我的钱不够……"
+    },
+    {
+        "id": "dlga_raiders_bribe1e:raiders_bribe12.1",
+        "text": "Never_mind._You_fellows_are_just_plain_crazy.",
+        "old_translation": "算了。你们全都是疯子。",
+        "translation": "算了，你们这群人简直疯透了。"
+    },
+    {
+        "id": "dlga_raiders_bribe1g:close_window",
+        "text": "You_fellows_won't_make_my_crew_any_uglier._Welcome!",
+        "old_translation": "你们的到来不会有损我们队伍的形象。欢迎！",
+        "translation": "你们来也拉不低咱队伍的相貌。欢迎！"
+    },
+    {
+        "id": "dlga_raiders_bribe1g:raiders_bribe13",
+        "text": "Never_mind._I_have_my_reputation_to_consider.",
+        "old_translation": "算了。我得为我的名声考虑。",
+        "translation": "算了，我还得顾着自己的名声。"
+    },
+    {
+        "id": "dlga_raiders_bribe12:close_window",
+        "text": "Now_why_would_you_ask_us_to_turn_insult_into_injury?_You're_the_one_that's_crazy.",
+        "old_translation": "那你为什么要让我们因为这点小事就刀兵相见？你才是疯子。",
+        "translation": "你为何要把一句气话变成流血？疯的是你。"
+    },
+    {
+        "id": "dlga_raiders_bribe13:close_window",
+        "text": "It's_your_head_that_you_should_be_considering._Not_that_it's_very_good_at_that._At_'em,_boys!",
+        "old_translation": "你要考虑的是你的脑袋，虽然看起来也值不了几个钱。兄弟们，上！",
+        "translation": "先顾好你的脑袋吧——虽然也不怎么值钱。兄弟们，上！"
+    },
+    {
+        "id": "dlga_start:free",
+        "text": "Hello._What_can_I_do_for_you?",
+        "old_translation": "你好。有什么我可以效劳的？",
+        "translation": "你好，需要我做什么？"
+    },
+    {
+        "id": "dlga_free:view_char_requested",
+        "text": "Tell_me_about_yourself.",
+        "old_translation": "给我说说你都会什么。",
+        "translation": "说说你自己。"
+    },
+    {
+        "id": "dlga_view_char_requested:view_char",
+        "text": "Very_well,_listen_to_this...",
+        "old_translation": "没问题，听好了。",
+        "translation": "好，那就听好了……"
+    },
+    {
+        "id": "dlga_view_char:free",
+        "text": "Anything_else?",
+        "old_translation": "还有什么事吗？",
+        "translation": "还有别的事吗？"
+    },
+    {
+        "id": "dlga_end:close_window",
+        "text": "[Done]",
+        "old_translation": "【完成】",
+        "translation": "[完成]"
+    },
+    {
+        "id": "dlga_start:threaten_1",
+        "text": "Drop_your_weapons_and_surrender_if_you_want_to_live",
+        "old_translation": "不想死的话，就放下武器投降",
+        "translation": "想活命就扔下武器投降。"
+    },
+    {
+        "id": "dlga_threaten_1:end",
+        "text": "We_will_fight_you_first",
+        "old_translation": "那就要看你的本事了",
+        "translation": "那得先过我们这关。"
+    },
+    {
+        "id": "dlga_member_direct_campaign:member_direct_campaign_choice",
+        "text": "Yes,_{reg59?my_lady:my_lord}._Which_message_do_you_wish_to_send_to_the_vassals?",
+        "old_translation": "是的，{reg59?我的女士:我的大人}。你要给领主们传递什么消息？",
+        "translation": "是，{reg59?我的女士:我的大人}。您要给诸位封臣传什么话？"
+    },
+    {
+        "id": "dlga_member_direct_campaign_choice:member_direct_campaign_call_to_arms_verify",
+        "text": "I_want_to_start_a_new_campaign._Let_us_assemble_the_army_here.",
+        "old_translation": "我想发动一次新的战役，我们把部队都召集到这里吧。",
+        "translation": "我要开启新战役，把军队都集结到这里。"
+    },
+    {
+        "id": "dlga_member_direct_campaign_choice:member_give_order_disband_army_verify",
+        "text": "I_want_to_end_the_campaign_and_let_everyone_return_home.",
+        "old_translation": "我想停止战役并让所有人都回去。",
+        "translation": "我想结束战役，让所有人回家。"
+    },
+    {
+        "id": "dlga_member_direct_campaign_choice:member_give_order_invite_feast_verify",
+        "text": "I_wish_to_invite_the_vassals_of_the_realm_to_a_feast_at_{s4}.",
+        "old_translation": "我想邀请王国的领主们参加在{s4}举办的宴会。",
+        "translation": "我想邀王国诸臣到{s4}赴宴。"
+    },
+    {
+        "id": "dlga_member_direct_campaign_choice:member_pretalk",
+        "text": "Never_mind",
+        "old_translation": "没事",
+        "translation": "没事"
+    },
+    {
+        "id": "dlga_member_give_order_invite_feast_verify:member_give_order_invite_feast_verify_2",
+        "text": "Do_you_wish_to_invite_the_lords_of_the_realm_to_a_feast?",
+        "old_translation": "你想要邀请王国内的领主们参加一场宴会吗？",
+        "translation": "您要邀王国诸领主赴宴吗？"
+    },
+    {
+        "id": "dlga_member_give_order_invite_feast_verify_2:member_give_order_invite_feast",
+        "text": "Yes._It_is_time_for_us_to_strengthen_the_bonds_that_bring_us_together.",
+        "old_translation": "没错，现在我们需要更加紧密地团结在一起，要知道合则力强，分则力弱。",
+        "translation": "正是。此刻正该加固把我们系在一起的纽带。"
+    },
+    {
+        "id": "dlga_member_give_order_invite_feast_verify_2:member_pretalk",
+        "text": "On_second_thought,_this_is_perhaps_not_the_time.",
+        "old_translation": "我仔细地考虑了一下，现在似乎还不是时候。",
+        "translation": "再一想，此刻似乎不妥。"
+    },
+    {
+        "id": "dlga_member_give_order_invite_feast:member_pretalk",
+        "text": "All_right,_then_I_shall_dispatch_messengers_informing_the_lords_of_the_realm_of_your_feast_at_{s4}.",
+        "old_translation": "如你所愿，阁下。我马上派遣信使通知诸位领主参加你在{s4}举办的宴会。",
+        "translation": "如您所愿，我即刻派信使通告诸领主，前来{s4}赴您的宴席。"
+    },
+    {
+        "id": "dlga_member_direct_campaign_call_to_arms_verify:member_give_order_call_to_arms_verify_2",
+        "text": "Do_you_wish_to_summon_all_lords_for_a_new_campaign?",
+        "old_translation": "你想要召集所有领主发动一场新战役吗？",
+        "translation": "您要召集全体领主发动新战役吗？"
+    },
+    {
+        "id": "dlga_member_give_order_call_to_arms_verify_2:member_give_order_call_to_arms",
+        "text": "Yes._We_must_gather_all_our_forces_before_we_march_on_the_enemy.",
+        "old_translation": "是的。在进攻敌人之前，我们必须集中我们所有的力量。",
+        "translation": "是的。进攻敌人前，我们必须集中全部兵力。"
+    },
+    {
+        "id": "dlga_member_give_order_call_to_arms_verify_2:member_pretalk",
+        "text": "On_second_thought,_it_won't_be_necessary_to_summon_everyone.",
+        "old_translation": "仔细想想，似乎没有必要召集所有的领主。",
+        "translation": "再想想，不必把所有人都召来。"
+    },
+    {
+        "id": "dlga_member_give_order_call_to_arms:member_pretalk",
+        "text": "All_right,_then_I_will_send_messengers_and_tell_everyone_to_come_here.",
+        "old_translation": "那好吧，我将派信使告诉每个人都来这里。",
+        "translation": "好，那我就派信使通知大家到这里集合。"
+    },
+    {
+        "id": "dlga_member_give_order_disband_army_verify:member_give_order_disband_army_2",
+        "text": "Do_you_want_to_end_the_current_campaign_and_release_all_lords_from_duty?",
+        "old_translation": "你想要终止现在的战役，并让领主们解除战备吗？",
+        "translation": "您要结束当前战役，解除众领主任务吗？"
+    },
+    {
+        "id": "dlga_member_give_order_disband_army_2:member_give_order_disband_army",
+        "text": "Yes._We_no_longer_need_all_our_forces_here.",
+        "old_translation": "是。我们再也不需要我们所有的军力都集中在这里。",
+        "translation": "对。我们已不必再把全部兵力留在这里。"
+    },
+    {
+        "id": "dlga_member_give_order_disband_army_2:member_pretalk",
+        "text": "On_second_thought,_it_will_be_better_to_stay_together_for_now.",
+        "old_translation": "仔细想想，现在把所有人都集中在一块比较好。",
+        "translation": "再想想，眼下还是保持集结为好。"
+    },
+    {
+        "id": "dlga_member_give_order_disband_army:member_pretalk",
+        "text": "All_right,_I_will_let_everyone_know_that_they_are_released_from_duty.",
+        "old_translation": "好的。我将告诉所有人，他们可以解散了。",
+        "translation": "好，我会通知大家解除召集。"
+    },
+    {
+        "id": "dlga_mayor_wealth_comparison_1:mayor_wealth_comparison_2",
+        "text": "Overall,_the_wealthiest_center_in_the_Northlands_is_known_to_be_{s4}._Here_in_{s5},_we_are_poorer_than_{reg4}_centers,_and_richer_than_{reg5}.",
+        "old_translation": "总的来说，在北地最富裕的城镇就是{s4}了。在{s5}这里，我们比{reg4}个城镇要贫穷，但比{reg5}个城镇要富裕。",
+        "translation": "总体而言，北境最富庶的城邑当属{s4}。在{s5}这里，我们比{reg4}座城邑穷，又比{reg5}座富。"
+    },
+    {
+        "id": "dlga_mayor_wealth_comparison_2:mayor_wealth_comparison_3",
+        "text": "In_terms_of_local_industry,_the_most_productive_center_in_the_Northlands_is_known_to_be_{s4}._Here_in_{s5},_we_produce_less_than_{reg4}_centers_and_produce_more_than_{reg5}._Production_is_of_course_affected_by_the_supply_of_raw_materials,_as_well_as_by_the_overall_prosperity_of_the_center.",
+        "old_translation": "就城镇生产力而言，最发达的当属{s4}。在{s5}这里，我们比{reg4}个城镇生产力要低下，比{reg5}个要高。毫无疑问，生产力很大程度受到它所能获得的原材料数量影响，同时也被城镇的整体繁荣度所左右。",
+        "translation": "就本地产业论，北境产能最高的城邑是{s4}。在{s5}这里，我们产量低于{reg4}座城邑，高于{reg5}座。产量当然受原料供应与城邑整体繁荣影响。"
+    },
+    {
+        "id": "dlga_mayor_wealth_comparison_3:mayor_wealth_comparison_4",
+        "text": "In_terms_of_the_output_of_the_surrounding_villages,_the_center_of_{s4}_is_the_richest_in_the_Northlands._Here_in_{s5},_the_villages_produce_less_than_the_hinterland_around_{reg4}_centers,_and_produce_more_than_{reg5}._The_wealth_of_a_center's_hinterland,_of_course,_is_heavily_dependent_on_the_tides_of_war._Looting_and_pillage,_and_shifts_in_territory,_can_make_a_major_impact.",
+        "old_translation": "就城镇的周边村庄产出而言，{s4}周边的物产无疑是整个北陆最丰富的。在{s5}这里，有{reg4}个城镇的村庄产出比我们丰富，少于我们的有{reg5}个。毫无疑问，影响城镇村庄产出的最主要原因是战争。军队的掠夺和洗劫，领土的不断易主，都会对城镇的周边产出造成极大的冲击。",
+        "translation": "就周边村庄产出而言，{s4}的腹地堪称北陆最富。在{s5}这里，我们的村庄产出少于{reg4}座城邑的腹地，多于{reg5}座。腹地的富庶深受战局左右：劫掠与易主，都能造成巨变。"
+    },
+    {
+        "id": "dlga_mayor_wealth_comparison_4:mayor_wealth_comparison_5",
+        "text": "In_terms_of_trade,_the_town_of_{s4}_is_believed_to_have_received_the_most_visits_from_caravans_over_the_past_few_months._Here_in_{s5},_we_are_less_visited_than_{reg4}_towns,_and_more_visited_than_{reg5}._",
+        "old_translation": "就城镇的商旅往来数目而言，{s4}毫无疑问是近几个月来当之无愧的第一名，而在我们{s5}做生意的商旅数量比{reg4}个城镇要少，有{reg5}个城镇的商旅数量还在我们之下。",
+        "translation": "就商旅往来论，近月来最受商队青睐的城邑是{s4}。在{s5}这里，到访的商旅少于{reg4}座城，多于{reg5}座。"
+    },
+    {
+        "id": "dlga_mayor_wealth_comparison_5:mayor_pretalk",
+        "text": "In_terms_of_attacks_on_travellers,_the_town_of_{s4}_is_believed_to_be_the_most_dangerous._Here_in_{s5},_we_are_less_afflicted_by_bandits_and_raiders_than_{reg4}_towns,_and_more_afflicted_than_{reg5}._",
+        "old_translation": "就往来的旅人和客商受到攻击的次数来说，最危险的城镇当然是{s4}，至于我们{s5}，有{reg4}个城镇遭受的匪患比我们要严重，而遭受匪患侵扰轻于我们的城镇则有{reg5}个。",
+        "translation": "就旅人遇袭次数论，{s4}被视为最险之地。在{s5}这里，我们受盗匪与劫掠者之苦轻于{reg4}座城，重于{reg5}座。"
+    },
+    {
+        "id": "dlga_free:close_window",
+        "text": "Farewell.",
+        "old_translation": "再见。",
+        "translation": "再见。"
+    },
+    {
+        "id": "dlga_free:close_window.1",
+        "text": "_[Leave]",
+        "old_translation": "【离开】",
+        "translation": "[离开]"
+    }
+]

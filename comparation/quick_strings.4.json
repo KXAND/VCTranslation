@@ -1,2002 +1,3002 @@
 [
     {
+        "id": "qstr_Stroll_through_town.",
         "text": "Stroll_through_town.",
-        "translation": "去城里逛逛。"
+        "old_translation": "在镇上漫步。",
+        "translation": "在镇上走走。"
     },
     {
+        "id": "qstr_Meet_the_mayor.",
         "text": "Meet_the_mayor.",
-        "translation": "与镇长会面。"
+        "old_translation": "会见镇长。",
+        "translation": "会见镇长。"
     },
     {
+        "id": "qstr_Mead_hall__hire_men_",
         "text": "Mead_hall_(hire_men).",
-        "translation": "进入蜜酒厅(招募士兵)。"
+        "old_translation": "蜜酒厅（招募士兵）。",
+        "translation": "蜜酒厅（招募士兵）。"
     },
     {
+        "id": "qstr_Visit_the_mead_hall.",
         "text": "Visit_the_mead_hall.",
-        "translation": "进入蜜酒厅。"
+        "old_translation": "前往蜜酒厅。",
+        "translation": "前往蜜酒厅。"
     },
     {
+        "id": "qstr_Visit_the_training_g",
         "text": "Visit_the_training_grounds.",
-        "translation": "访问竞技场。"
+        "old_translation": "前往训练场。",
+        "translation": "前往训练场。"
     },
     {
+        "id": "qstr_Tour_the_grounds.",
         "text": "Tour_the_grounds.",
-        "translation": "四处逛逛。"
+        "old_translation": "巡视城堡。",
+        "translation": "巡视城堡。"
     },
     {
+        "id": "qstr_Visit_your_farmstead",
         "text": "Visit_your_farmstead.",
-        "translation": "参观你的工厂。"
+        "old_translation": "前往你的农场。",
+        "translation": "前往你的农场。"
     },
     {
+        "id": "qstr_Attempt_to_visit_a_l",
         "text": "Attempt_to_visit_a_lady.",
-        "translation": "试图访问一位女士。"
+        "old_translation": "尝试拜访一位女士。",
+        "translation": "尝试拜访一位女士。"
     },
     {
+        "id": "qstr_Trade_with_locals.",
         "text": "Trade_with_locals.",
-        "translation": "与当地商人交易。"
+        "old_translation": "与当地人交易。",
+        "translation": "与当地人交易。"
     },
     {
+        "id": "qstr_Travel_to_another_Po",
         "text": "Travel_to_another_Port.",
-        "translation": "出发到其他港口。"
+        "old_translation": "前往其他港口。",
+        "translation": "前往其他港口。"
     },
     {
+        "id": "qstr_Manage_this_{reg0?to",
         "text": "Manage_this_{reg0?town:fort}.",
-        "translation": "管理这个{reg0?城镇:城堡}。"
+        "old_translation": "管理这座{reg0?城镇:城堡}。",
+        "translation": "管理这座{reg0?城镇:城堡}。"
     },
     {
+        "id": "qstr_Move_your_court_here",
         "text": "Move_your_court_here.",
-        "translation": "迁都到此。"
+        "old_translation": "把宫廷迁到这里。",
+        "translation": "把宫廷迁到这里。"
     },
     {
+        "id": "qstr_Manage_the_garrison.",
         "text": "Manage_the_garrison.",
+        "old_translation": "管理驻军。",
         "translation": "管理驻军。"
     },
     {
+        "id": "qstr___{reg1}_peningas_pe",
         "text": "_({reg1}_peningas_per_night)",
-        "translation": "（每晚{reg1}先令）"
+        "old_translation": "（每晚{reg1}银便士）",
+        "translation": "（每晚{reg1}银便士）"
     },
     {
+        "id": "qstr___1_pening_per_night",
         "text": "_(1_pening_per_night)",
-        "translation": "(每晚1先令)"
+        "old_translation": "（每晚1银便士）",
+        "translation": "（每晚1银便士）"
     },
     {
+        "id": "qstr_Ask_for_potential_re",
         "text": "Ask_for_potential_recruits.",
-        "translation": "征召新兵"
+        "old_translation": "招募潜在兵员。",
+        "translation": "招募潜在兵员。"
     },
     {
+        "id": "qstr_See_the_ships.",
         "text": "See_the_ships.",
+        "old_translation": "查看船只。",
         "translation": "查看船只。"
     },
     {
+        "id": "qstr_Symbel_for_your_men.",
         "text": "Symbel_for_your_men.",
-        "translation": "为你的人举行宴会。"
+        "old_translation": "为部下设宴。",
+        "translation": "为部下设宴。"
     },
     {
+        "id": "qstr_Sail_from_port.",
         "text": "Sail_from_port.",
-        "translation": "从港口出航。"
+        "old_translation": "从港口启航。",
+        "translation": "从港口启航。"
     },
     {
+        "id": "qstr_ranks",
         "text": "ranks",
+        "old_translation": "长蛇阵",
         "translation": "长蛇阵"
     },
     {
+        "id": "qstr_shield_wall",
         "text": "shield_wall",
+        "old_translation": "盾墙阵",
         "translation": "盾墙阵"
     },
     {
+        "id": "qstr_wedge",
         "text": "wedge",
+        "old_translation": "楔形阵",
         "translation": "楔形阵"
     },
     {
+        "id": "qstr_square",
         "text": "square",
+        "old_translation": "方形阵",
         "translation": "方形阵"
     },
     {
+        "id": "qstr_up",
         "text": "up",
+        "old_translation": "上",
         "translation": "上"
     },
     {
+        "id": "qstr_Division_{reg1}_{s2}",
         "text": "Division_{reg1}_{s2}_forming_{s1}.",
+        "old_translation": "队列{reg1}的{s2}组成了{s1}。",
         "translation": "队列{reg1}的{s2}组成了{s1}。"
     },
     {
+        "id": "qstr_Not_enough_troops_in",
         "text": "Not_enough_troops_in_division_{reg1}_{s2}_to_form_{s1}.",
-        "translation": "队列{reg1}的{s2}没有足够士兵组成{s1}。"
+        "old_translation": "队列{reg1}的{s2}没有足够士兵组成{s1}。",
+        "translation": "队列{reg1}的{s2}兵力不足，无法组成{s1}。"
     },
     {
+        "id": "qstr_Division_{reg1}_{s2}_",
         "text": "Division_{reg1}_{s2}_is_an_{s3}_division_and_cannot_form_{s1}.",
-        "translation": "队列{reg1}的{s2}是{s3}的一个部分，不能用来组成{s1}。"
+        "old_translation": "队列{reg1}的{s2}是{s3}的一个部分，不能用来组成{s1}。",
+        "translation": "队列{reg1}的{s2}是{s3}队列，不能用来组成{s1}。"
     },
     {
+        "id": "qstr_{s1}:_infantry_forma",
         "text": "{s1}:_infantry_formation_disassembled.",
-        "translation": "{s1}：步兵阵型拆散。"
+        "old_translation": "{s1}：步兵阵型拆散。",
+        "translation": "{s1}：步兵阵型已拆散。"
     },
     {
+        "id": "qstr_{s1}:_archer_formati",
         "text": "{s1}:_archer_formation_disassembled.",
-        "translation": "{s1}：弓箭手阵型拆散。"
+        "old_translation": "{s1}：弓箭手阵型拆散。",
+        "translation": "{s1}：弓箭手阵型已拆散。"
     },
     {
+        "id": "qstr_{s1}:_skirmisher_for",
         "text": "{s1}:_skirmisher_formation_disassembled.",
-        "translation": "{s1}：散兵阵型拆散。"
+        "old_translation": "{s1}：散兵阵型拆散。",
+        "translation": "{s1}：散兵阵型已拆散。"
     },
     {
+        "id": "qstr_{s1}:_cavalry_format",
         "text": "{s1}:_cavalry_formation_disassembled.",
-        "translation": "{s1}：骑兵阵型拆散。"
+        "old_translation": "{s1}：骑兵阵型拆散。",
+        "translation": "{s1}：骑兵阵型已拆散。"
     },
     {
+        "id": "qstr_{s1}:_formation_disa",
         "text": "{s1}:_formation_disassembled.",
-        "translation": "{s1}：阵型拆散。"
+        "old_translation": "{s1}：阵型拆散。",
+        "translation": "{s1}：阵型已拆散。"
     },
     {
+        "id": "qstr_Cavalry_formation_di",
         "text": "Cavalry_formation_disassembled.",
-        "translation": "骑兵阵型拆散。"
+        "old_translation": "骑兵阵型拆散。",
+        "translation": "骑兵阵型已拆散。"
     },
     {
+        "id": "qstr_The_placement_of_{s1",
         "text": "The_placement_of_{s1}_division_{reg0}_memorized.",
-        "translation": "{s1}队列的设置{reg0}已保存。"
+        "old_translation": "{s1}队列的设置{reg0}已保存。",
+        "translation": "已记录{s1}队列{reg0}的布阵位置。"
     },
     {
+        "id": "qstr_The_placement_of_{s1}",
         "text": "The_placement_of_{s1}_division_{reg0}_set_to_default.",
-        "translation": "{s1}队列的设置{reg0}已撤消。"
+        "old_translation": "{s1}队列的设置{reg0}已撤消。",
+        "translation": "{s1}队列{reg0}的布阵位置已重置为默认。"
     },
     {
+        "id": "qstr_Your_party_s_tactica",
         "text": "Your_party's_tactical_skill_limits_how_far_away_you_can_deploy_your_troops!",
-        "translation": "你的部队战术还无法组织你的部队！"
+        "old_translation": "你的部队战术还无法组织你的部队！",
+        "translation": "你的战术技能限制了部队可部署的距离！"
     },
     {
+        "id": "qstr_...and_attack_enemy_",
         "text": "...and_attack_enemy_{s1}_division!",
-        "translation": "…并且进攻敌人的{s1}队列！"
+        "old_translation": "……并且进攻敌人的{s1}队列！",
+        "translation": "……并进攻敌人的{s1}队列！"
     },
     {
+        "id": "qstr_{s2}:_returning_afte",
         "text": "{s2}:_returning_after_destroying_enemy_{s1}_division.",
-        "translation": "{s2}：在消灭敌人的{s1}队列后回来。"
+        "old_translation": "{s2}：在消灭敌人的{s1}队列后回来。",
+        "translation": "{s2}：摧毁敌人{s1}队列后返回。"
     },
     {
+        "id": "qstr_infantry",
         "text": "infantry",
+        "old_translation": "步兵",
         "translation": "步兵"
     },
     {
+        "id": "qstr_archer",
         "text": "archer",
-        "translation": "射手"
+        "old_translation": "射手",
+        "translation": "弓箭手"
     },
     {
+        "id": "qstr_cavalry",
         "text": "cavalry",
+        "old_translation": "骑兵",
         "translation": "骑兵"
     },
     {
+        "id": "qstr_polearm",
         "text": "polearm",
+        "old_translation": "长枪兵",
         "translation": "长枪兵"
     },
     {
+        "id": "qstr_skirmisher",
         "text": "skirmisher",
+        "old_translation": "散兵",
         "translation": "散兵"
     },
     {
+        "id": "qstr_mounted_archer",
         "text": "mounted_archer",
+        "old_translation": "骑射手",
         "translation": "骑射手"
     },
     {
+        "id": "qstr_support",
         "text": "support",
+        "old_translation": "后援",
         "translation": "后援"
     },
     {
+        "id": "qstr_bodyguard",
         "text": "bodyguard",
+        "old_translation": "保镖",
         "translation": "保镖"
     },
     {
+        "id": "qstr_undetermined_type_of",
         "text": "undetermined_type_of",
+        "old_translation": "未定型",
         "translation": "未定型"
     },
     {
+        "id": "qstr_Lame",
         "text": "Lame",
+        "old_translation": "瘸腿",
         "translation": "瘸腿"
     },
     {
+        "id": "qstr_Swaybacked",
         "text": "Swaybacked",
+        "old_translation": "老",
         "translation": "老"
     },
     {
+        "id": "qstr_Timid",
         "text": "Timid",
+        "old_translation": "胆小的",
         "translation": "胆小的"
     },
     {
+        "id": "qstr_Meek",
         "text": "Meek",
-        "translation": "温顺的"
+        "old_translation": "温顺的",
+        "translation": "温顺"
     },
     {
+        "id": "qstr_Stubborn",
         "text": "Stubborn",
-        "translation": "倔犟的"
+        "old_translation": "倔犟的",
+        "translation": "倔强"
     },
     {
+        "id": "qstr_Heavy",
         "text": "Heavy",
+        "old_translation": "重",
         "translation": "重"
     },
     {
+        "id": "qstr_Spirited",
         "text": "Spirited",
-        "translation": "活泼的"
+        "old_translation": "活泼的",
+        "translation": "活泼"
     },
     {
+        "id": "qstr_Champion",
         "text": "Champion",
+        "old_translation": "冠军",
         "translation": "冠军"
     },
     {
+        "id": "qstr_Cracked",
         "text": "Cracked",
+        "old_translation": "裂开的",
         "translation": "裂开的"
     },
     {
+        "id": "qstr_Battered",
         "text": "Battered",
+        "old_translation": "有凹陷的",
         "translation": "有凹陷的"
     },
     {
+        "id": "qstr_Thick",
         "text": "Thick",
+        "old_translation": "厚",
         "translation": "厚"
     },
     {
+        "id": "qstr_Reinforced",
         "text": "Reinforced",
+        "old_translation": "加强",
         "translation": "加强"
     },
     {
+        "id": "qstr_Rusty",
         "text": "Rusty",
+        "old_translation": "生锈的",
         "translation": "生锈的"
     },
     {
+        "id": "qstr_Tattered",
         "text": "Tattered",
+        "old_translation": "破烂的",
         "translation": "破烂的"
     },
     {
+        "id": "qstr_Ragged",
         "text": "Ragged",
+        "old_translation": "破旧的",
         "translation": "破旧的"
     },
     {
+        "id": "qstr_Crude",
         "text": "Crude",
+        "old_translation": "简陋的",
         "translation": "简陋的"
     },
     {
+        "id": "qstr_Sturdy",
         "text": "Sturdy",
+        "old_translation": "坚固的",
         "translation": "坚固的"
     },
     {
+        "id": "qstr_Hardened",
         "text": "Hardened",
+        "old_translation": "加硬",
         "translation": "加硬"
     },
     {
+        "id": "qstr_Lordly",
         "text": "Lordly",
+        "old_translation": "豪华的",
         "translation": "豪华的"
     },
     {
+        "id": "qstr_Broken",
         "text": "Broken",
+        "old_translation": "破裂的",
         "translation": "破裂的"
     },
     {
+        "id": "qstr_Bent",
         "text": "Bent",
+        "old_translation": "弯曲的",
         "translation": "弯曲的"
     },
     {
+        "id": "qstr_Chipped",
         "text": "Chipped",
+        "old_translation": "有缺口的",
         "translation": "有缺口的"
     },
     {
+        "id": "qstr_Strong",
         "text": "Strong",
+        "old_translation": "强壮",
         "translation": "强壮"
     },
     {
+        "id": "qstr_Balanced",
         "text": "Balanced",
+        "old_translation": "平衡的",
         "translation": "平衡的"
     },
     {
+        "id": "qstr_Tempered",
         "text": "Tempered",
+        "old_translation": "回火的",
         "translation": "回火的"
     },
     {
+        "id": "qstr_Masterwork",
         "text": "Masterwork",
+        "old_translation": "极品",
         "translation": "极品"
     },
     {
+        "id": "qstr_Large_Bag_of",
         "text": "Large_Bag_of",
+        "old_translation": "一大袋",
         "translation": "一大袋"
     },
     {
+        "id": "qstr_Strength.",
         "text": "Strength.",
+        "old_translation": "力量",
         "translation": "力量"
     },
     {
+        "id": "qstr_Shield_skill.",
         "text": "Shield_skill.",
-        "translation": "盾防技能"
+        "old_translation": "盾防技能",
+        "translation": "盾防技能。"
     },
     {
+        "id": "qstr_Power_Throw_skill.",
         "text": "Power_Throw_skill.",
-        "translation": "强掷技能"
+        "old_translation": "强掷技能",
+        "translation": "强掷技能。"
     },
     {
+        "id": "qstr_Power_Draw_skill.",
         "text": "Power_Draw_skill.",
-        "translation": "强击技能"
+        "old_translation": "强击技能",
+        "translation": "强弓技能。"
     },
     {
+        "id": "qstr_Riding_skill.",
         "text": "Riding_skill.",
-        "translation": "骑术技能"
+        "old_translation": "骑术技能",
+        "translation": "骑术技能。"
     },
     {
+        "id": "qstr_{s2}_needs_{reg1}_mo",
         "text": "{s2}_needs_{reg1}_more_{s1}",
-        "translation": "{s2}还需要额外的{reg1}单位的{s1}"
+        "old_translation": "{s2}还需要额外的{reg1}单位的{s1}",
+        "translation": "{s2}还需要{reg1}单位的{s1}"
     },
     {
+        "id": "qstr_You_need_five_tool_k",
         "text": "You_need_five_tool_kits_to_improve_your_refuge!",
-        "translation": "你还需要5单位的工具来建造避难所！"
+        "old_translation": "你需要五套工具来升级避难所！",
+        "translation": "你需要五套工具来升级避难所！"
     },
     {
+        "id": "qstr_You_need_five_timber",
         "text": "You_need_five_timber_pallets_to_improve_your_refuge!",
-        "translation": "你还需要5单位的木料来建造避难所！"
+        "old_translation": "你需要五垛木料来升级避难所！",
+        "translation": "你需要五垛木料来升级避难所！"
     },
     {
+        "id": "qstr_To_hire_workers_you_",
         "text": "To_hire_workers,_you_need_to_select_them_from_the_list._If_the_list_is_empty,_you_may_need_to_increase_your_renown_or_improve_your_refuge_for_them_to_come_and_offer_their_services.",
-        "translation": "为了招募人手，你有以下选择：如果没有任何选择，你需要增加你的声望或者升级避难所来容纳他们："
+        "old_translation": "招募工人时，请从列表中选择。若列表为空，你可能需要提高声望或升级避难所，他们才会前来效力。",
+        "translation": "招募工人时，请从列表中选择。若列表为空，你可能需要提高声望或升级避难所，他们才会前来效力。"
     },
     {
+        "id": "qstr_Name:_Marcus.",
         "text": "Name:_Marcus.",
+        "old_translation": "姓名：马库斯。",
         "translation": "姓名：马库斯。"
     },
     {
+        "id": "qstr_Occupation:_This_cap",
         "text": "Occupation:_This_captain_is_already_working_for_you.",
-        "translation": "这个队长已经正在服役。"
+        "old_translation": "职业：这位队长已为你效力。",
+        "translation": "职业：这位船长已为你效力。"
     },
     {
+        "id": "qstr_Occupation:_Captain^",
         "text": "Occupation:_Captain^Initial_Cost:_500^Weekly_cost:_55^Notes:_helps_manage_your_refuge_and_develop_the_improvements_you_need.",
-        "translation": "职业：队长^起始费用：500^每周开销：55^备注：他能帮助你管理避难所并提供避难所的升级。"
+        "old_translation": "职业：队长^起始费用：500^每周开销：55^备注：协助管理避难所并推进所需升级。",
+        "translation": "职业：船长^起始费用：500^每周开销：55^备注：协助管理避难所并推进所需升级。"
     },
     {
+        "id": "qstr_Name:_Father_Beda.",
         "text": "Name:_Father_Beda.",
-        "translation": "姓名：贝达牧师"
+        "old_translation": "姓名：贝达神父。",
+        "translation": "姓名：贝达神父。"
     },
     {
+        "id": "qstr_Occupation:_This_pri",
         "text": "Occupation:_This_priest_is_already_working_for_you.",
-        "translation": "这个牧师已经正在服役。"
+        "old_translation": "职业：这位牧师已为你效力。",
+        "translation": "职业：这位牧师已为你效力。"
     },
     {
+        "id": "qstr_Occupation:_Priest^I",
         "text": "Occupation:_Priest^Initial_Cost:_250^Weekly_cost:_30^Notes:_encourages_the_practice_of_Christianity_among_your_troops.",
-        "translation": "职业：牧师^起始费用：250^每周开销：30^备注：他能让你的基督士兵们士气大振。"
+        "old_translation": "职业：牧师^起始费用：250^每周开销：30^备注：在部队中弘扬基督教信仰。",
+        "translation": "职业：牧师^起始费用：250^每周开销：30^备注：在部队中弘扬基督教信仰。"
     },
     {
+        "id": "qstr_Name:_Godi_Olafr.",
         "text": "Name:_Godi_Olafr.",
-        "translation": "名字：戈迪·奥拉夫。"
+        "old_translation": "姓名：戈迪·奥拉夫。",
+        "translation": "姓名：戈迪·奥拉夫。"
     },
     {
+        "id": "qstr_Occupation:_Godi^Ini",
         "text": "Occupation:_Godi^Initial_Cost:_250_^Weekly_cost:_30^Notes:_encourages_the_practice_of_paganism_among_your_troops.",
-        "translation": "职业：牧师^起始费用：250^每周开销：30^备注：鼓励你的士兵讨伐异教徒。"
+        "old_translation": "职业：戈迪^起始费用：250^每周开销：30^备注：在部队中弘扬异教信仰。",
+        "translation": "职业：戈迪^起始费用：250^每周开销：30^备注：在部队中弘扬异教信仰。"
     },
     {
+        "id": "qstr_Name:_Skald_Bragi.",
         "text": "Name:_Skald_Bragi.",
-        "translation": "名字：诗人布拉吉。"
+        "old_translation": "姓名：颂诗人布拉吉。",
+        "translation": "姓名：颂诗人布拉吉。"
     },
     {
+        "id": "qstr_Occupation:_This_bar",
         "text": "Occupation:_This_bard_is_already_working_for_you.",
-        "translation": "职业：这名诗人已为你所用。"
+        "old_translation": "职业：这位吟游诗人已为你效力。",
+        "translation": "职业：这位颂诗人已为你效力。"
     },
     {
+        "id": "qstr_Occupation:_Skald^In",
         "text": "Occupation:_Skald^Initial_Cost:_200^Weekly_cost:_40^Notes:_fills_your_halls_with_inspiring_Nordic_music.",
-        "translation": "职业：吟游诗人^起始费用：200^每周开销：40^备注：在你的大厅内传唱激昂的北欧音乐。"
+        "old_translation": "职业：颂诗人^起始费用：200^每周开销：40^备注：在大厅里奏响激励人心的北欧乐章。",
+        "translation": "职业：颂诗人^起始费用：200^每周开销：40^备注：在大厅里奏响激励人心的北欧乐章。"
     },
     {
+        "id": "qstr_Name:_Bard_Siwi.",
         "text": "Name:_Bard_Siwi.",
-        "translation": "名字：诗人斯维。"
+        "old_translation": "姓名：巴德·西维。",
+        "translation": "姓名：巴德·西维。"
     },
     {
+        "id": "qstr_Occupation:_Bard^Ini",
         "text": "Occupation:_Bard^Initial_Cost:_200_^Weekly_cost:_40^Notes:_fills_your_halls_with_inspiring_English_music.",
-        "translation": "职业：诗人^起始费用：200^每周开销：40^备注：在你的大厅内传唱激昂的英格兰音乐。"
+        "old_translation": "职业：吟游诗人^起始费用：200^每周开销：40^备注：在大厅里奏响激励人心的英格兰乐章。",
+        "translation": "职业：吟游诗人^起始费用：200^每周开销：40^备注：在大厅里奏响激励人心的英格兰乐章。"
     },
     {
+        "id": "qstr_Name:_Casius.",
         "text": "Name:_Casius.",
-        "translation": "名字：凯亚斯。"
+        "old_translation": "姓名：凯亚斯。",
+        "translation": "姓名：凯亚斯。"
     },
     {
+        "id": "qstr_Occupation:_This_man",
         "text": "Occupation:_This_man_is_already_working_for_you.",
-        "translation": "职业：这个人已为你所用。"
+        "old_translation": "职业：此人已为你效力。",
+        "translation": "职业：此人已为你效力。"
     },
     {
+        "id": "qstr_Occupation:_Bottler^",
         "text": "Occupation:_Bottler^Initial_Cost:_100^Weekly_cost:_10^Notes:_necessary_complement_for_your_mead_hall.",
-        "translation": "职业：侍酒人^起始费用：100每周开销：10^备注：他在你的蜜酒厅里面是必不可少的成员。"
+        "old_translation": "职业：司酒官^起始费用：100^每周开销：10^备注：蜜酒厅不可或缺的成员。",
+        "translation": "职业：司酒官^起始费用：100^每周开销：10^备注：蜜酒厅不可或缺的成员。"
     },
     {
+        "id": "qstr_Name:_Suaibsech.",
         "text": "Name:_Suaibsech.",
-        "translation": "名字：苏埃塞。"
+        "old_translation": "姓名：苏艾布塞克。",
+        "translation": "姓名：苏艾布塞克。"
     },
     {
+        "id": "qstr_Occupation:_This_wom",
         "text": "Occupation:_This_woman_is_already_serving_you.",
+        "old_translation": "职业：这个女人已为你所用。",
         "translation": "职业：这个女人已为你所用。"
     },
     {
+        "id": "qstr_Occupation:_Happy_Wi",
         "text": "Occupation:_Happy_Widow^Initial_Cost:_300^Weekly_cost:_25^Notes:_The_best_way_to_make_your_men_happy.",
-        "translation": "职业：浪荡的寡妇^起始费用：300^每周开销：25^备注：让你的人开心的最佳方式。"
+        "old_translation": "职业：风流寡妇^起始费用：300^每周开销：25^备注：让你的人开心的最佳方式。",
+        "translation": "职业：风流寡妇^起始费用：300^每周开销：25^备注：让你的人开心的最佳方式。"
     },
     {
+        "id": "qstr_Name:_Tancoystl.",
         "text": "Name:_Tancoystl.",
+        "old_translation": "名字：坦柯斯提。",
         "translation": "名字：坦柯斯提。"
     },
     {
+        "id": "qstr_Name:_Gulla.",
         "text": "Name:_Gulla.",
+        "old_translation": "名字：古拉。",
         "translation": "名字：古拉。"
     },
     {
+        "id": "qstr_Occupation:_Happy_Wid",
         "text": "Occupation:_Happy_Widow^Initial_Cost:_150^Weekly_cost:_15^Notes:_The_best_way_to_make_your_men_happy.",
-        "translation": "职业：浪荡的寡妇^起始费用：150^每周开销：15^备注：让你的人开心的最佳方式。"
+        "old_translation": "职业：风流寡妇^起始费用：150^每周开销：15^备注：让你的人开心的最佳方式。",
+        "translation": "职业：风流寡妇^起始费用：150^每周开销：15^备注：让你的人开心的最佳方式。"
     },
     {
+        "id": "qstr_Name:_Eadgyd.",
         "text": "Name:_Eadgyd.",
+        "old_translation": "名字：艾德济。",
         "translation": "名字：艾德济。"
     },
     {
+        "id": "qstr_Name:_Harald.",
         "text": "Name:_Harald.",
-        "translation": "名字：哈拉尔德。"
+        "old_translation": "名字：哈拉尔。",
+        "translation": "名字：哈拉尔。"
     },
     {
+        "id": "qstr_Occupation:_This_tra",
         "text": "Occupation:_This_trainer_is_already_working_for_you.",
-        "translation": "职业：这名教官已为你所用。"
+        "old_translation": "职业：这名教练已为你所用。",
+        "translation": "职业：这名教练已为你所用。"
     },
     {
+        "id": "qstr_Occupation:_Trainer^",
         "text": "Occupation:_Trainer^Initial_Cost:_450^Weekly_cost:_45^Notes:_trains_your_troops.",
-        "translation": "职业：教官^起始费用：450^每周开销：45^备注：训练你的士兵。"
+        "old_translation": "职业：教练^起始费用：450^每周开销：45^备注：训练你的士兵。",
+        "translation": "职业：教练^起始费用：450^每周开销：45^备注：训练你的士兵。"
     },
     {
+        "id": "qstr_Name:_Ulfberht.",
         "text": "Name:_Ulfberht.",
+        "old_translation": "名字：尤福贝特。",
         "translation": "名字：尤福贝特。"
     },
     {
+        "id": "qstr_Occupation:_This_smi",
         "text": "Occupation:_This_smith_is_already_working_for_you.",
+        "old_translation": "职业：这名铁匠已为你所用。",
         "translation": "职业：这名铁匠已为你所用。"
     },
     {
+        "id": "qstr_Occupation:_Smith^In",
         "text": "Occupation:_Smith^Initial_Cost:_400^Weekly_cost:_40^Notes:_makes_new_weapons_for_your_refuge.",
+        "old_translation": "职业：铁匠^起始费用：400^每周开销：40^备注：为你的庇护所锻造新武器。",
         "translation": "职业：铁匠^起始费用：400^每周开销：40^备注：为你的庇护所锻造新武器。"
     },
     {
+        "id": "qstr_Name:_The_Hungry_Ham",
         "text": "Name:_The_Hungry_Hammer.",
+        "old_translation": "名字：饿锤。",
         "translation": "名字：饿锤。"
     },
     {
+        "id": "qstr_Occupation:_This_arm",
         "text": "Occupation:_This_armorer_is_already_working_for_you.",
-        "translation": "职业：这名甲胄师已为你所用。"
+        "old_translation": "职业：这名防具商人已为你所用。",
+        "translation": "职业：这名防具商人已为你所用。"
     },
     {
+        "id": "qstr_Occupation:_Armorer^",
         "text": "Occupation:_Armorer^Initial_Cost:_400^Weekly_cost:_40^Notes:_His_nickname_comes_from_his_voracious_appetite_for_iron,_manufacturing_all_kinds_of_things.",
-        "translation": "职业：甲胄师^起始费用：400^每周开销：40^备注：他的昵称来源于他对于铁的痴狂，能造各种东西。"
+        "old_translation": "职业：防具商人^起始费用：400^每周开销：40^备注：他的绰号源于对铁的贪婪胃口，能打造各种器物。",
+        "translation": "职业：防具商人^起始费用：400^每周开销：40^备注：他的绰号源于对铁的贪婪胃口，能打造各种器物。"
     },
     {
+        "id": "qstr_Name:_Aurelius.",
         "text": "Name:_Aurelius.",
-        "translation": "名字：奥勒留。"
+        "old_translation": "名字：阿乌雷利乌斯。",
+        "translation": "名字：阿乌雷利乌斯。"
     },
     {
+        "id": "qstr_Occupation:_This_phy",
         "text": "Occupation:_This_physician_is_already_working_for_you.",
+        "old_translation": "职业：这名医生已为你所用。",
         "translation": "职业：这名医生已为你所用。"
     },
     {
+        "id": "qstr_Occupation:_Physicia",
         "text": "Occupation:_Physician^Initial_Cost:_250^Weekly_cost:_15^Notes:_patches_light_wounds.",
-        "translation": "职业：医生^起始费用：250^每周开销：15^备注：能够治疗轻伤。"
+        "old_translation": "职业：医生^起始费用：250^每周开销：15^备注：处理轻伤。",
+        "translation": "职业：医生^起始费用：250^每周开销：15^备注：处理轻伤。"
     },
     {
+        "id": "qstr_Name:_Morgan.",
         "text": "Name:_Morgan.",
-        "translation": "名字：摩根。"
+        "old_translation": "名字：莫根。",
+        "translation": "名字：莫根。"
     },
     {
+        "id": "qstr_Name:_Alexander.",
         "text": "Name:_Alexander.",
+        "old_translation": "名字：亚历山大。",
         "translation": "名字：亚历山大。"
     },
     {
+        "id": "qstr_Occupation:_Physician",
         "text": "Occupation:_Physician^Initial_Cost:_350^Weekly_cost:_30^Notes:_a_highly_trained_barber_who_patches_light_and_heavy_wounds.",
-        "translation": "职业：医生^起始费用：350^每周开销：30^备注：受过优良训练的外科医生，能够治疗轻伤和重伤。"
+        "old_translation": "职业：医生^起始费用：350^每周开销：30^备注：受过精良训练的剃刀匠，能缝合轻伤与重伤。",
+        "translation": "职业：医生^起始费用：350^每周开销：30^备注：受过精良训练的剃刀匠，能缝合轻伤与重伤。"
     },
     {
+        "id": "qstr_Name:_Aillil.",
         "text": "Name:_Aillil.",
+        "old_translation": "名字：阿希尔。",
         "translation": "名字：阿希尔。"
     },
     {
+        "id": "qstr_Occupation:_Physician^",
         "text": "Occupation:_Physician^Initial_Cost:_250^Weekly_cost:_30^Notes:_patches_light_wounds.",
-        "translation": "职业：医生^起始费用：250^每周开销：30^备注：能够治疗轻伤。"
+        "old_translation": "职业：医生^起始费用：250^每周开销：30^备注：可处理轻伤。",
+        "translation": "职业：医生^起始费用：250^每周开销：30^备注：可处理轻伤。"
     },
     {
+        "id": "qstr_Name:_Wamba.",
         "text": "Name:_Wamba.",
+        "old_translation": "名字：万巴。",
         "translation": "名字：万巴。"
     },
     {
+        "id": "qstr_Occupation:_This_coo",
         "text": "Occupation:_This_cook_is_already_working_for_you.",
-        "translation": "职业：这名厨师已为你所用。"
+        "old_translation": "职业：这名厨师已为你效力。",
+        "translation": "职业：这名厨师已为你效力。"
     },
     {
+        "id": "qstr_Occupation:_Cook^Ini",
         "text": "Occupation:_Cook^Initial_Cost:_350^Weekly_cost:_30^Notes:_makes_feasts_for_you_and_your_men.",
-        "translation": "职业：厨师^起始费用：350^每周开销：30^备注：为你和你的人准备宴席。"
+        "old_translation": "职业：厨师^起始费用：350^每周开销：30^备注：为你与部下置办宴席。",
+        "translation": "职业：厨师^初始费用：350^每周开销：30^备注：为你和部下置办宴席。"
     },
     {
+        "id": "qstr_The_{s1}_and_the_{s2}",
         "text": "The_{s1}_and_the_{s2}_have_entered_into_an_alliance_with_each_other.",
-        "translation": "{s1}和{s2}结盟了。"
+        "old_translation": "{s1}与{s2}缔结了盟约。",
+        "translation": "{s1}与{s2}缔结了盟约。"
     },
     {
+        "id": "qstr_The_{s15}_complies_wi",
         "text": "The_{s15}_complies_with_the_new_alliance_by_attacking_the_{s16}.",
-        "translation": "{s15}藉由攻打{s16}确保了新的联盟关系。"
+        "old_translation": "{s15}以进攻{s16}来履行新盟约。",
+        "translation": "{s15}以进攻{s16}来履行新盟约。"
     },
     {
+        "id": "qstr_Player_bonus_for_dec",
         "text": "Player_bonus_for_decap:_{reg1}",
+        "old_translation": "玩家斩首奖励：{reg1}",
         "translation": "玩家斩首奖励：{reg1}"
     },
     {
+        "id": "qstr_Ruthless",
         "text": "Ruthless",
+        "old_translation": "凶狠",
         "translation": "凶狠"
     },
     {
+        "id": "qstr_Vile",
         "text": "Vile",
+        "old_translation": "卑鄙",
         "translation": "卑鄙"
     },
     {
+        "id": "qstr_Notorious",
         "text": "Notorious",
+        "old_translation": "恶名昭彰",
         "translation": "恶名昭彰"
     },
     {
+        "id": "qstr_Unkind",
         "text": "Unkind",
+        "old_translation": "可恶",
         "translation": "可恶"
     },
     {
+        "id": "qstr_Unknown",
         "text": "Unknown",
+        "old_translation": "未知",
         "translation": "未知"
     },
     {
+        "id": "qstr_Kind",
         "text": "Kind",
+        "old_translation": "善良",
         "translation": "善良"
     },
     {
+        "id": "qstr_Admirable",
         "text": "Admirable",
+        "old_translation": "令人敬佩",
         "translation": "令人敬佩"
     },
     {
+        "id": "qstr_Heroic",
         "text": "Heroic",
+        "old_translation": "英勇",
         "translation": "英勇"
     },
     {
+        "id": "qstr_Inventory",
         "text": "Inventory",
+        "old_translation": "物品栏",
         "translation": "物品栏"
     },
     {
+        "id": "qstr_Show_stats",
         "text": "Show_stats",
-        "translation": "显示状态。"
+        "old_translation": "显示状态",
+        "translation": "显示状态"
     },
     {
+        "id": "qstr_Show_item_details__",
         "text": "Show_item_details__",
-        "translation": "是否显示物品详细介绍。"
+        "old_translation": "显示物品详情",
+        "translation": "显示物品详情"
     },
     {
+        "id": "qstr_Troop_detail",
         "text": "Troop_detail",
+        "old_translation": "兵种详细",
         "translation": "兵种详细"
     },
     {
+        "id": "qstr_{s1}^",
         "text": "{s1}^",
+        "old_translation": "{s1}^",
         "translation": "{s1}^"
     },
     {
+        "id": "qstr_{s1}Level:_{reg1}^",
         "text": "{s1}Level:_{reg1}^",
+        "old_translation": "{s1}等级：{reg1}^",
         "translation": "{s1}等级：{reg1}^"
     },
     {
+        "id": "qstr_{s1}Hit_Points:_{reg",
         "text": "{s1}Hit_Points:_{reg1}",
+        "old_translation": "{s1}生命值：{reg1}",
         "translation": "{s1}生命值：{reg1}"
     },
     {
+        "id": "qstr_{s1}Atributes:_^___S",
         "text": "{s1}Atributes:_^___Strength:^",
+        "old_translation": "{s1}属性：^力量：^",
         "translation": "{s1}属性：^力量：^"
     },
     {
+        "id": "qstr_{s2}^{reg1}^",
         "text": "{s2}^{reg1}^",
+        "old_translation": "{s2}^{reg1}^",
         "translation": "{s2}^{reg1}^"
     },
     {
+        "id": "qstr_{s1}___Agility:",
         "text": "{s1}___Agility:",
+        "old_translation": "{s1}敏捷：",
         "translation": "{s1}敏捷："
     },
     {
+        "id": "qstr_{s2}{reg1}",
         "text": "{s2}{reg1}",
+        "old_translation": "{s2}{reg1}",
         "translation": "{s2}{reg1}"
     },
     {
+        "id": "qstr_{s1}Main_skills:_^",
         "text": "{s1}Main_skills:_^",
+        "old_translation": "{s1}主要技能：^",
         "translation": "{s1}主要技能：^"
     },
     {
+        "id": "qstr_{s1}___Power_Strike:",
         "text": "{s1}___Power_Strike:^",
+        "old_translation": "{s1}强击：^",
         "translation": "{s1}强击：^"
     },
     {
+        "id": "qstr_{s2}{reg1}^",
         "text": "{s2}{reg1}^",
+        "old_translation": "{s2}{reg1}^",
         "translation": "{s2}{reg1}^"
     },
     {
+        "id": "qstr_{s1}___Athletics:^",
         "text": "{s1}___Athletics:^",
-        "translation": "{s1}体能：^"
+        "old_translation": "{s1}体能：^",
+        "translation": "{s1}   体能：^"
     },
     {
+        "id": "qstr_{s1}___Riding:^",
         "text": "{s1}___Riding:^",
-        "translation": "{s1}骑术：^"
+        "old_translation": "{s1}骑术：^",
+        "translation": "{s1}   骑术：^"
     },
     {
+        "id": "qstr_{s2}_^",
         "text": "{s2}-^",
+        "old_translation": "{s2}-^",
         "translation": "{s2}-^"
     },
     {
+        "id": "qstr_{s1}___Power_Throw:^",
         "text": "{s1}___Power_Throw:^",
-        "translation": "{s1}强掷：^"
+        "old_translation": "{s1}强掷：^",
+        "translation": "{s1}   强掷：^"
     },
     {
+        "id": "qstr_{s1}___Power_Draw:^^",
         "text": "{s1}___Power_Draw:^^",
-        "translation": "{s1}强弓：^^"
+        "old_translation": "{s1}强弓：^^",
+        "translation": "{s1}   强弓：^^"
     },
     {
+        "id": "qstr_{s2}{reg1}^^",
         "text": "{s2}{reg1}^^",
+        "old_translation": "{s2}{reg1}^^",
         "translation": "{s2}{reg1}^^"
     },
     {
+        "id": "qstr_{s2}_^^",
         "text": "{s2}-^^",
+        "old_translation": "{s2}-^^",
         "translation": "{s2}-^^"
     },
     {
+        "id": "qstr_{s1}Weapons:^",
         "text": "{s1}Weapons:^",
+        "old_translation": "{s1}武器：^",
         "translation": "{s1}武器：^"
     },
     {
+        "id": "qstr_{s1}___One_Handed:^",
         "text": "{s1}___One_Handed:^",
-        "translation": "{s1}单手：^"
+        "old_translation": "{s1}单手：^",
+        "translation": "{s1}   单手：^"
     },
     {
+        "id": "qstr_{s1}___Two_Handed:^",
         "text": "{s1}___Two_Handed:^",
-        "translation": "{s1}双手：^"
+        "old_translation": "{s1}双手：^",
+        "translation": "{s1}   双手：^"
     },
     {
+        "id": "qstr_{s1}___Polearms:^",
         "text": "{s1}___Polearms:^",
-        "translation": "{s1}长杆：^"
+        "old_translation": "{s1}长杆：^",
+        "translation": "{s1}   长杆：^"
     },
     {
+        "id": "qstr_{s1}___Archery:^",
         "text": "{s1}___Archery:^",
-        "translation": "{s1}箭术：^"
+        "old_translation": "{s1}箭术：^",
+        "translation": "{s1}   箭术：^"
     },
     {
+        "id": "qstr_{s1}___Crossbow:^",
         "text": "{s1}___Crossbow:^",
-        "translation": "{s1}弩：^"
+        "old_translation": "{s1}弩：^",
+        "translation": "{s1}   弩：^"
     },
     {
+        "id": "qstr_{s1}___Throwing:^",
         "text": "{s1}___Throwing:^",
-        "translation": "{s1}投掷：^"
+        "old_translation": "{s1}投掷：^",
+        "translation": "{s1}   投掷：^"
     },
     {
+        "id": "qstr_{s1}___Slings:",
         "text": "{s1}___Slings:",
-        "translation": "{s1}弹弓："
+        "old_translation": "{s1}弹弓：",
+        "translation": "{s1}   弹弓："
     },
     {
+        "id": "qstr_{s2}_",
         "text": "{s2}-",
+        "old_translation": "{s2}-",
         "translation": "{s2}-"
     },
     {
+        "id": "qstr__Click_on_the_troop_",
         "text": "(Click_on_the_troop_to_rotate_it)^^Click_on_pieces_of_gear_^(helmet,_armor,_gloves_and_boots)^_to_display_them.",
-        "translation": "(点击士兵使他旋转)^^点击一块装备^(头盔，装甲，手套和靴子)^来脱除该物品。"
+        "old_translation": "（点击士兵旋转）^^点击装备部件^（头盔、护甲、手套和靴子）^以展示它们。",
+        "translation": "（点击士兵旋转）^^点击装备部件^（头盔、护甲、手套和靴子）^以展示它们。"
     },
     {
+        "id": "qstr_Landing_near_{s2}",
         "text": "Landing_near_{s2}",
-        "translation": "在{s2}附近登录。"
+        "old_translation": "在{s2}附近登陆。",
+        "translation": "在{s2}附近登陆。"
     },
     {
+        "id": "qstr_The_trainer_{s11}.",
         "text": "The_trainer_{s11}.",
+        "old_translation": "教练{s11}。",
         "translation": "教练{s11}。"
     },
     {
+        "id": "qstr_{s0}^>_{s1}__{s2}__{",
         "text": "{s0}^>_{s1},_'{s2}',_{s3},_{s4}",
-        "translation": "{s0}^>{s1}，'{s2}'，{s3}，{s4}"
+        "old_translation": "{s0}^>{s1}，'{s2}'，{s3}，{s4}",
+        "translation": "{s0}^> {s1}，‘{s2}’，{s3}，{s4}"
     },
     {
+        "id": "qstr_You_have_lost_the_tr",
         "text": "You_have_lost_the_traders_because_you_landed_without_them.",
-        "translation": "因为着陆时没有带上商人，所以你失去了他们。"
+        "old_translation": "你因未带商人登陆而失去了他们。",
+        "translation": "你因未带商人登陆而失去了他们。"
     },
     {
+        "id": "qstr_You_have_lost_the_tra",
         "text": "You_have_lost_the_traders_because_you_embarked_without_them.",
-        "translation": "因为着陆时没有带上商人，所以你失去了他们。"
+        "old_translation": "你因未带商人登船而失去了他们。",
+        "translation": "你因未带商人登船而失去了他们。"
     },
     {
+        "id": "qstr_vWaveInfo",
         "text": "vWaveInfo",
-        "translation": ""
+        "old_translation": "vWaveInfo",
+        "translation": "vWaveInfo"
     },
     {
+        "id": "qstr_vWaveOrigin",
         "text": "vWaveOrigin",
-        "translation": ""
+        "old_translation": "vWaveOrigin",
+        "translation": "vWaveOrigin"
     },
     {
+        "id": "qstr_vTimer",
         "text": "vTimer",
-        "translation": ""
+        "old_translation": "vTimer",
+        "translation": "vTimer"
     },
     {
+        "id": "qstr_SHIP_{reg8}_ERROR:_g",
         "text": "SHIP_{reg8}_ERROR:_gtbws_not_the_same!",
-        "translation": "SHIP{reg8}ERROR:gtbwsnotthesame!{***}"
+        "old_translation": "SHIP{reg8}ERROR：gtbwsnotthesame!",
+        "translation": "SHIP {reg8} ERROR: gtbws not the same!"
     },
     {
+        "id": "qstr_You_are_an_elder._Yo",
         "text": "You_are_an_elder._You_can_count_many_years_toward_your_life_experiences._You_may_not_be_as_strong_and_agile_as_before,_but_certainly_you_are_wiser.",
-        "translation": "你是一位长者，可能不如往日那般敏捷有力，但毫无疑问，你的智慧高深莫测。"
+        "old_translation": "你已是长者，岁月在你身上留下许多痕迹。或许不再如昔日般强健敏捷，但智慧却愈发深厚。",
+        "translation": "你已是长者，岁月在你身上留下许多痕迹。或许不再如昔日般强健敏捷，但智慧却愈发深厚。"
     },
     {
+        "id": "qstr_You_are_an_adult._Yo",
         "text": "You_are_an_adult._You_are_at_an_age_where_a_reasonable_amount_of_experience_and_health_meet.",
-        "translation": "你已经成年了。在这个年纪，你既强健有力，又颇有阅历。"
+        "old_translation": "你已成年，此时经验与健康恰好相得益彰。",
+        "translation": "你已成年，此时经验与健康恰好相得益彰。"
     },
     {
+        "id": "qstr_You_are_a_youth._You",
         "text": "You_are_a_youth._You_are_full_of_energy_and_eager_to_change_the_world_around_you.",
-        "translation": "你还是青春年少。你有着取之不尽的精力，渴望改变周围的环境。"
+        "old_translation": "你正值青春，精力充沛，渴望改变周遭世界。",
+        "translation": "你正值青春，精力充沛，渴望改变周遭世界。"
     },
     {
+        "id": "qstr_According_to_Galen_s",
         "text": "According_to_Galen's_ancient_temperaments,_your_personality_is:",
-        "translation": "根据伽林对古人性格的描述，你的性格是："
+        "old_translation": "根据伽林的古老气质学说，你的性格是：",
+        "translation": "根据伽林的古老气质学说，你的性格是："
     },
     {
+        "id": "qstr_Phlegmatic._Its_elem",
         "text": "Phlegmatic._Its_element_is_water_and_its_Hippocrates_humor_is_phlegm._It_is_associated_with_people_who_are_calm,_compassionate,_self-content,_reliable,_shy,_observant_and_consistent._These_people_are_also_resistant_to_change,_distant,_relaxed_and_reserved.",
-        "translation": "冷静。它的元素为水，表现为希波克拉底体液说中的粘液。它出现于带有自信心，有同情心，自我满足，可靠，害羞，细心，和坚强特质的人身上。这些人也难以改变，漠视他人，放松，矜持。"
+        "old_translation": "冷静。它的元素是水，对应的希波克拉底体液为痰。这类人平和、富有同情心、自足、可靠、羞怯、善于观察且始终如一；他们也抗拒变化、疏离、放松而含蓄。",
+        "translation": "冷静。它的元素是水，对应的希波克拉底体液为痰。这类人平和、富有同情心、自足、可靠、羞怯、善于观察且始终如一；他们也抗拒变化、疏离、放松而含蓄。"
     },
     {
+        "id": "qstr_Melancholic._Its_ele",
         "text": "Melancholic._Its_element_is_earth_and_its_Hippocrates_humor_is_black_bile._It_is_associated_with_people_who_are_introverted,_sensitive,_intuitive,_creative,_perfectionistic,_patient,_caring_and_tolerant._These_people_are_also_clumsy,_obsessed,_depressed_and_dissatisfied.",
-        "translation": "谨慎。它的元素为土，表现为希波克拉底体液说中的黑胆汁。它出现于带有内向，敏感，直觉，有创造力，追求完美，耐心，爱心和宽容特质的人身上。这些人也笨拙，痴迷，沮丧和容易不满。"
+        "old_translation": "忧郁。它的元素是土，对应的希波克拉底体液为黑胆汁。这类人内向、敏感、直觉敏锐、富有创造力、追求完美、耐心、体贴且宽容；他们也笨拙、执念深重、抑郁且难以满足。",
+        "translation": "忧郁。它的元素是土，对应的希波克拉底体液为黑胆汁。这类人内向、敏感、直觉敏锐、富有创造力、追求完美、耐心、体贴且宽容；他们也笨拙、执念深重、抑郁且难以满足。"
     },
     {
+        "id": "qstr_Choleric._Its_elemen",
         "text": "Choleric._Its_element_is_fire_and_its_Hippocrates_humor_is_yellow_bile._It_is_associated_with_people_who_are_persuasive,_egocentric,_extroverted,_independent,_charismatic_and_ambitious._These_people_are_also_insistent,_impetuous,_bad-tempered,_restless_and_touchy.",
-        "translation": "易怒。它的元素是火，表现为希波克拉底体液说中的黄胆汁。它出现于带有说服力，以自我为中心，外向的，独立的，有魅力的和野心勃勃的人身上。这些人也执着，浮躁，脾气暴躁，不安和易怒。"
+        "old_translation": "暴躁。它的元素是火，对应的希波克拉底体液为黄胆汁。这类人具有说服力、自我中心、外向、独立、魅力十足且雄心勃勃；他们也固执、冲动、脾气坏、坐立不安且易怒。",
+        "translation": "暴躁。它的元素是火，对应的希波克拉底体液为黄胆汁。这类人具有说服力、自我中心、外向、独立、魅力十足且雄心勃勃；他们也固执、冲动、脾气坏、坐立不安且易怒。"
     },
     {
+        "id": "qstr_Sanguine._Its_elemen",
         "text": "Sanguine._Its_element_is_air_and_its_Hippocrates_humor_is_blood._It_is_associated_with_people_who_are_optimistic,_imaginative,_artistic,_cheerful,_sociable,_rational_and_pleasure-seeking._These_people_are_also_forgetful,_impulsive_and_unpredictable.",
-        "translation": "嗜血的。它的元素为气，表现为希波克拉底体液说中的血液。它出现于乐观，富有想象力，有艺术细胞，性格开朗，善于交际，理性和享乐特质的人身上。这些人也都是健忘的，冲动的和不可预知的。"
+        "old_translation": "热血。它的元素是气，对应的希波克拉底体液为血液。这类人乐观、想象力丰富、艺术气质、开朗、善交际、理性且追求享乐；他们也健忘、冲动且不可预测。",
+        "translation": "热血。它的元素是气，对应的希波克拉底体液为血液。这类人乐观、想象力丰富、艺术气质、开朗、善交际、理性且追求享乐；他们也健忘、冲动且不可预测。"
     },
     {
+        "id": "qstr_{s1}^^{s2}_{s3}",
         "text": "{s1}^^{s2}_{s3}",
-        "translation": "{s1}^^{s2}{s3}"
+        "old_translation": "{s1}^^{s2}{s3}",
+        "translation": "{s1}^^{s2} {s3}"
     },
     {
+        "id": "qstr_According_the_four_c",
         "text": "According_the_four_cardinal_virtues_recognized_in_the_writings_of_classical_antiquity,_you_most_often_exhibit:",
-        "translation": "根据在古典作品认可的四项基本美德，你最常表现为："
+        "old_translation": "根据古典著作所认可的四大基本美德，你最常展现：",
+        "translation": "根据古典著作所认可的四大基本美德，你最常展现："
     },
     {
+        "id": "qstr_Wisdom._Also_called_",
         "text": "Wisdom._Also_called_Prudence,_it_governs_actions_according_to_the_dictate_of_reason_in_order_to_choose_the_right_response_to_any_situation._Wisdom_implies_the_ability_to_judge_in_advance_the_probable_consequences_of_one's_actions.",
-        "translation": "聪慧。也被叫做谨慎，它根据所在形势最佳的解决方式来支配行动。明智意味着能提前预知行动所产生的后果。"
+        "old_translation": "智慧。又称谨慎，它依据理性指引行动，以在任何情境中选择恰当回应；智慧意味着能预判自身行为的可能后果。",
+        "translation": "智慧。又称谨慎，它依据理性指引行动，以在任何情境中选择恰当回应；智慧意味着能预判自身行为的可能后果。"
     },
     {
+        "id": "qstr_Fortitude._Also_call",
         "text": "Fortitude._Also_called_Courage,_it_ensures_firmness_during_difficulties_and_constancy_in_the_pursuit_of_goals._It_is_the_strength_to_make_a_decision_based_on_moral_convictions,_whatever_the_consequences.",
-        "translation": "坚强。也被叫做勇气，它确保在追求目标过程中能始终如一，永不言弃。坚强是一种基于信念，不管产生的后果如何的决定的力量。"
+        "old_translation": "坚毅。又称勇气，它确保在困境中坚定不移，在追求目标时始终如一；它是基于道德信念做出决定的力量，无论结果如何。",
+        "translation": "坚毅。又称勇气，它确保在困境中坚定不移，在追求目标时始终如一；它是基于道德信念做出决定的力量，无论结果如何。"
     },
     {
+        "id": "qstr_Temperance._Also_cal",
         "text": "Temperance._Also_called_Self-Control,_it_resists_the_attraction_of_pleasures_in_order_to_render_the_body_governable._Temperance_represents_restraint_and_control_over_passions_and_desires.",
-        "translation": "克制。也被叫做自控，它抗拒诱惑的吸引来保持对身体的支配。克制是节制和控制对欲望和激情的追求。"
+        "old_translation": "节制。又称自控，它抵御享乐的诱惑，使肉体得以驾驭；节制代表对激情与欲望的克制与掌控。",
+        "translation": "节制。又称自控，它抵御享乐的诱惑，使肉体得以驾驭；节制代表对激情与欲望的克制与掌控。"
     },
     {
+        "id": "qstr_Justice._It_symboliz",
         "text": "Justice._It_symbolizes_respect_for_law_and_promotes_rewarding_good_and_punishing_evil.",
-        "translation": "正直。它代表着对法律的尊重和惩恶扬善。"
+        "old_translation": "正义。它象征对法律的尊重，并倡导赏善罚恶。",
+        "translation": "正义。它象征对法律的尊重，并倡导赏善罚恶。"
     },
     {
+        "id": "qstr_You_are_a_foreigner.",
         "text": "You_are_a_foreigner.",
-        "translation": "你是个外国人。"
+        "old_translation": "你是异乡人。",
+        "translation": "你是异乡人。"
     },
     {
+        "id": "qstr_You_come_from_far_aw",
         "text": "You_come_from_far_away,_seeking_to_get_to_know_the_north_of_Europe,_a_world_dotted_with_dozens_of_small_kingdoms_all_harassed_by_the_Vikings.",
-        "translation": "你来自遥远的地方，为了了解北欧而冒险，这里充斥着一个分散而饱受被维京海盗骚扰的小王国。"
+        "old_translation": "你来自远方，为了了解北欧而来；那里遍布数十个饱受维京人侵扰的小王国。",
+        "translation": "你来自远方，为了了解北欧而来；那里遍布数十个饱受维京人侵扰的小王国。"
     },
     {
+        "id": "qstr_You_are_Scoto_Pict",
         "text": "You_are_Scoto-Pict,",
-        "translation": "你是苏格兰-皮克特人。"
+        "old_translation": "你是斯科托-皮克特人，",
+        "translation": "你是斯科托-皮克特人，"
     },
     {
+        "id": "qstr_a_descendant_of_an_a",
         "text": "a_descendant_of_an_ancient_people_of_uncertain_origin_who_inhabited_parts_of_northern_Britain,_or_of_Goidelic_invaders_now_mixed_in.",
-        "translation": "一支古老而起源不明的民族的后裔，定居于不列颠北部，与戈伊德尔入侵者混合了。"
+        "old_translation": "一支古老而来源不明的民族的后裔，曾居住于不列颠北部，或与盖尔入侵者已融为一体。",
+        "translation": "一支古老而来源不明的民族的后裔，曾居住于不列颠北部，或与盖尔入侵者已融为一体。"
     },
     {
+        "id": "qstr_You_are_Briton",
         "text": "You_are_Briton,",
-        "translation": "你是布立吞人。"
+        "old_translation": "你是布立吞人，",
+        "translation": "你是布立吞人，"
     },
     {
+        "id": "qstr_a_member_of_the_Celt",
         "text": "a_member_of_the_Celtic_people_who_inhabited_Britain_since_before_the_Roman_invasion.",
-        "translation": "这是居住于罗马入侵前的不列颠的凯尔特人的一支种族。"
+        "old_translation": "罗马入侵前便居住于不列颠的凯尔特民族的一员。",
+        "translation": "罗马入侵前便居住于不列颠的凯尔特民族的一员。"
     },
     {
+        "id": "qstr_You_are_Goidel",
         "text": "You_are_Goidel,",
-        "translation": "你是戈伊德尔人。"
+        "old_translation": "你是盖尔人，",
+        "translation": "你是盖尔人，"
     },
     {
+        "id": "qstr_a_member_of_Celtic_p",
         "text": "a_member_of_Celtic_people_inhabiting_the_island_of_Eriu,_which_the_Romans_called_Hibernia.",
-        "translation": "居住在爱尔兰岛的凯尔特人中的一支种族，被罗马人称作海伯利亚。"
+        "old_translation": "居住于爱尔兰岛的凯尔特民族的一支，罗马人称之为希伯尼亚。",
+        "translation": "居住于爱尔兰岛的凯尔特民族的一支，罗马人称之为希伯尼亚。"
     },
     {
+        "id": "qstr_You_are_Frisian.",
         "text": "You_are_Frisian.",
+        "old_translation": "你是弗里斯人。",
         "translation": "你是弗里斯人。"
     },
     {
+        "id": "qstr_You_come_from_the_di",
         "text": "You_come_from_the_dike_country_of_Friese_on_the_north_edge_of_continental_Europe.",
-        "translation": "你来自欧洲北部边缘沿海的弗里斯。"
+        "old_translation": "你来自欧洲大陆北端、堤坝之国弗里西。",
+        "translation": "你来自欧洲大陆北端的堤坝之国弗里西。"
     },
     {
+        "id": "qstr_You_are_a_Norseman",
         "text": "You_are_a_Norseman,",
-        "translation": "你是诺尔斯人，"
+        "old_translation": "你是诺斯人，",
+        "translation": "你是诺斯人，"
     },
     {
+        "id": "qstr_a_member_of_the_paga",
         "text": "a_member_of_the_pagan_peoples_native_to_Scandia_who_raid_the_coast_of_Europe.",
-        "translation": "你是个原生于侵扰欧洲海岸的斯堪的纳维亚人的异教徒。"
+        "old_translation": "属于斯堪的纳维亚本土的多神教徒，常劫掠欧洲海岸。",
+        "translation": "是斯堪的纳维亚本土的多神教徒，常劫掠欧洲海岸。"
     },
     {
+        "id": "qstr_You_are_Anglo_Saxon",
         "text": "You_are_Anglo-Saxon,",
-        "translation": "你是盎格鲁-撒克逊人。"
+        "old_translation": "你是盎格鲁-撒克逊人，",
+        "translation": "你是盎格鲁-撒克逊人，"
     },
     {
+        "id": "qstr_a_descendant_of_a_Ge",
         "text": "a_descendant_of_a_Germanic_people_who,_in_ancient_times,_dwelt_in_Sleswick,_near_the_mouth_of_the_Elbe._Your_people_have_been_taking_over_Britain_for_four_hundred_years.",
-        "translation": "这是在古代住在易北河河口里斯威克的日耳曼人的后裔，你的族人已经占领不列颠接近四百年。"
+        "old_translation": "古代曾居于易北河口施莱斯维克的日耳曼后裔；四百年来，你的族人不断征服不列颠。",
+        "translation": "古代曾居于易北河口施莱斯维克的日耳曼后裔；四百年来，你的族人不断征服不列颠。"
     },
     {
+        "id": "qstr_an_impoverished_nobl",
         "text": "an_impoverished_nobleman",
+        "old_translation": "一个没落的贵族",
         "translation": "一个没落的贵族"
     },
     {
+        "id": "qstr_You_came_into_this_w",
         "text": "You_came_into_this_world_as_{reg59?daughter:son}_of_a_declining_family_of_influence._By_then,_the_estates_were_gone_and_only_the_house_in_which_you_lived_remained_as_a_possession._However,_despite_your_hardships,_your_parents_gave_you_a_good_education,_preparing_you_from_childhood_for_the_chance_to_become_a_companion_to_royalty.",
-        "translation": "家中只剩下了一幢房子还矗立着，记录着已经散去的往日荣光。不过，即使生活困苦，家里依然给予你很好的教育，并从孩童时期就对你进行严格的行为举止方面的训练。"
+        "old_translation": "你以{s2}的身份来到人世，家族已衰落。田产尽失，只剩祖屋。然而父母仍让你接受良好教育，自幼训练，盼你有朝一日成为王室近臣。",
+        "translation": "你以{reg59?女儿:儿子}的身份来到人世，家族已衰落。田产尽失，只剩祖屋。然而父母仍让你接受良好教育，自幼训练，盼你有朝一日成为王室近臣。"
     },
     {
+        "id": "qstr_a_travelling_merchan",
         "text": "a_travelling_merchant",
+        "old_translation": "一个旅行商人",
         "translation": "一个旅行商人"
     },
     {
+        "id": "qstr_You_were_always_movi",
         "text": "You_were_always_moving_from_one_place_to_another_seeking_to_make_a_profit._Although_your_parents_were_wealthier_than_most_and_gave_you_the_best_education_they_could,_you_found_few_chances_to_make_friends_on_the_road._When_you_did_succeed_to_make_a_friend,_you_were_always_glad_for_the_chance_to_sell_them_something.",
-        "translation": "你父亲是一位旅行商人，为了追寻利益，他经常从一个地方到另一个地方四处奔走。即使你的父母比常人富有，并且尽他们所能给予你最好的教育，在旅行中，你还是会时常与别人买卖一些小玩意，并交上一些朋友。"
+        "old_translation": "你四处奔波，逐利而行。父母虽较富裕，也尽力供你读书，可旅途中你难得交友；偶尔结识朋友，便趁机卖他些货物。",
+        "translation": "你四处奔波，逐利而行。父母虽较富裕，也尽力供你读书，可旅途中你难得交友；偶尔结识朋友，便趁机卖他些货物。"
     },
     {
+        "id": "qstr_a_craftsman",
         "text": "a_craftsman",
-        "translation": "一个工匠"
+        "old_translation": "一个手艺人",
+        "translation": "一个手艺人"
     },
     {
+        "id": "qstr_Your_father_s_abilit",
         "text": "Your_father's_ability_to_make_beautiful_and_useful_things_were_always_highly_valued_by_the_community._You_grew_accustomed_to_live_with_some_comfort_and_luxuries_--_and_you_can_tell_a_hammer_from_a_mallet.",
-        "translation": "你父亲高超的技术时常能做出一些被市民赞扬的有用和美观的物品，你习惯了较舒适或近乎奢侈的生活——你掌控了锤子和槌。"
+        "old_translation": "父亲手艺精湛，所做器物既美观又实用，深受乡邻珍视。你习惯了舒适甚至奢侈的生活——锤子与槌子，你分得清清楚楚。",
+        "translation": "父亲手艺精湛，所做器物既美观又实用，深受乡邻珍视。你习惯了舒适甚至奢侈的生活——锤子与槌子，你分得清清楚楚。"
     },
     {
+        "id": "qstr_a_priest",
         "text": "a_priest",
+        "old_translation": "一个牧师",
         "translation": "一个牧师"
     },
     {
+        "id": "qstr_You_were_placed_in_t",
         "text": "You_were_placed_in_the_care_of_a_monastery_when_but_an_infant._The_brothers_were_not_true_parents,_but_provided_care_and_camaraderie._Your_mother_visited_you_sometimes,_but_you_have_never_heard_from_your_father._Your_life_has_been_easier_than_most,_as_you_always_enjoyed_a_full_dish_at_table_after_a_long_day_of_hard_work.",
-        "translation": "你在婴儿时就被遗弃在一个修道院。虽然神父们不是你的亲生父母，但他们给予你无穷的关爱，你母亲有时会来看你，但你从未听过你父亲的消息，你过的生活要比大多数人更轻松，你总是喜欢辛苦工作一天后在餐桌上享受一大盘美食。"
+        "old_translation": "尚在襁褓，你便入修道院。修士虽非生父，却给你关爱与陪伴。母亲偶尔探望，父亲音讯全无。你比多数人过得轻松，劳累一天后，餐桌上总有满满一盘食物。",
+        "translation": "尚在襁褓，你便入修道院。修士虽非生父，却给你关爱与陪伴。母亲偶尔探望，父亲音讯全无。你比多数人过得轻松，劳累一天后，餐桌上总有满满一盘食物。"
     },
     {
+        "id": "qstr_a_peasant",
         "text": "a_peasant",
+        "old_translation": "一个农民",
         "translation": "一个农民"
     },
     {
+        "id": "qstr_You_were_born_into_a",
         "text": "You_were_born_into_a_small_community_directed_by_a_nearby_lord._Your_childhood_was_happy_enough,_but_there_was_little_time_to_play._Practically_from_the_time_you_could_walk,_you_were_put_to_work_harvesting_cabbages_with_your_frozen_fingers.",
-        "translation": "你出生在被旁边领主统治的小村庄。虽然你的童年很快乐，但你只有很少的时间玩耍。从你能走路的时候，你就得干活，用你冻僵的手指收获卷心菜。"
+        "old_translation": "你生于邻近领主管辖的小村。童年虽快乐，却无暇玩耍。刚会走路，就得用冻僵的手指收卷心菜。",
+        "translation": "你生于邻近领主管辖的小村。童年虽快乐，却无暇玩耍。刚会走路，就得用冻僵的手指收卷心菜。"
     },
     {
+        "id": "qstr_an_outlaw",
         "text": "an_outlaw",
+        "old_translation": "一个不法之徒",
         "translation": "一个不法之徒"
     },
     {
+        "id": "qstr_Your_education_was_r",
         "text": "Your_education_was_rather_informal._Living_in_abandoned_huts_or_even_along_the_road,_you_were_put_to_work_begging_until_you_became_more_useful_for_cutting_purses._Some_may_say_your_childhood_was_a_waste,_but_nobody_knows_the_shadowy_back_streets_and_secrets_of_the_towns_like_you_do.",
-        "translation": "你接受不正式的教育，住在沿路废弃的小屋内。你要去乞讨，直到你能成为扒口袋的盗贼。有些人可能会说你的童年是一个悲剧，但没有人像你一样了解阴暗的小巷和城市的秘密。"
+        "old_translation": "你的教育极不正规。栖身废屋或路边，先乞讨，后割钱袋。有人叹你童年荒废，可没人比你更熟城镇暗巷与秘密。",
+        "translation": "你的教育极不正规。栖身废屋或路边，先乞讨，后割钱袋。有人叹你童年荒废，可没人比你更熟城镇暗巷与秘密。"
     },
     {
+        "id": "qstr_{s1}^^You_were_born_",
         "text": "{s1}^^You_were_born_years_ago_to_{s2}._{s3}",
+        "old_translation": "{s1}^^你出生在{s2}家庭。{s3}",
         "translation": "{s1}^^你出生在{s2}家庭。{s3}"
     },
     {
+        "id": "qstr_Your_family_baptised",
         "text": "Your_family_baptised_you_into_Roman_Christianity,",
-        "translation": "你的家庭让你接受了基督教的洗礼，"
+        "old_translation": "你的家人为你施洗，归入罗马基督教，",
+        "translation": "你的家人为你施洗，归入罗马基督教，"
     },
     {
+        "id": "qstr_and_you_were_fascina",
         "text": "and_you_were_fascinated_by_the_stories_that_the_priest_told_when_he_visited_your_village._Since_those_days,_you_remain_devoted_to_that_religion._Christianity_is_based_on_the_Scriptures,_the_testimony_of_the_Jesus'_life_and_the_teachings_of_His_Apostles.",
-        "translation": "而你也对来访村庄的牧师所讲述的故事非常著迷。自此以后，你保持着对这一宗教的信仰。基督教建立在圣经、对耶稣的宣誓以及他门徒的教诲的基础上。"
+        "old_translation": "你深深着迷于牧师来村时讲述的故事。自那以后，你始终虔诚。基督教以圣经为根基，记载耶稣生平与使徒教诲。",
+        "translation": "你深深着迷于牧师来村时讲述的故事。自那以后，你始终虔诚。基督教以圣经为根基，记载耶稣生平与使徒教诲。"
     },
     {
+        "id": "qstr_Your_family_believed",
         "text": "Your_family_believed_in_the_Scandinavian_gods.",
-        "translation": "你的家庭信奉北欧诸神。"
+        "old_translation": "你的家族信奉斯堪的纳维亚诸神。",
+        "translation": "你的家族信奉斯堪的纳维亚诸神。"
     },
     {
+        "id": "qstr_You_soaked_up_all_of",
         "text": "You_soaked_up_all_of_the_stories,_told_far_into_the_night_with_everyone_gathered_around_the_fireplace._You_are_a_staunch_believer_of_the_old_ways._Your_worship_gives_all_the_deities_their_due:_Odin,_the_chief_god;_Thor,_the_god_of_the_sky_and_thunder;_Freya,_the_goddess_of_love,_and_all_the_rest_required_to_oversee_all_the_disparate_processes_of_the_world.",
-        "translation": "你沉浸在人们围坐于篝火旁所讲述的古老传说中。你成为了一名忠于旧神的忠实信徒。在你的宗教里，众神各司其职：奥丁，诸神之主；索尔，天空与雷电之神；芙蕾雅，司爱与美的女神；以及其他各种各样主宰着世间不同事务的神祇。"
+        "old_translation": "你沉浸在那些围炉夜谈的故事里，直到深夜。你坚守旧道，虔诚供奉每一位神祇：众神之父奥丁、天空与雷霆之神索尔、爱与美之女神芙蕾雅，以及掌管世间万象的其余诸神。",
+        "translation": "你沉浸在那些围炉夜谈的故事里，直到深夜。你坚守旧道，虔诚供奉每一位神祇：众神之父奥丁、天空与雷霆之神索尔、爱与美之女神芙蕾雅，以及掌管世间万象的其余诸神。"
     },
     {
+        "id": "qstr_a_page_at_a_nobleman",
         "text": "a_page_at_a_nobleman's_hall",
-        "translation": "一个贵族家庭的一员"
+        "old_translation": "一位贵族厅堂的小侍童",
+        "translation": "一位贵族厅堂的小侍童"
     },
     {
+        "id": "qstr_You_were_chosen_to_b",
         "text": "You_were_chosen_to_be_a_companion_to_one_of_the_wealthiest_nobleman_of_the_kingdom,_so_were_given_a_place_at_the_hall._Serving_the_more_senior_members_of_the_household,_your_first_lessons_were_in_humility._In_compensation,_there_were_all_sorts_of_entertainments:_chess_games,_gossip,_bards_visiting_to_recite_the_poems_of_great_deeds_and_loves._You_were_drawn_most_by_the_world_of_conflict_and_competition._You_played_rough_games_with_other_children,_batting_each_other_with_sticks_as_swords._Such_games_provided_you_invaluable_lessons_for_your_current_life.",
-        "translation": "你被送到本地一个最富有的贵族家庭中寄养，因此也有了一席之地。在伺候家主和夫人的过程中，你学会了第一堂名为“谦卑”的课程。作为补偿，你的生活中也有各种各样的娱乐活动：对弈、闲谈、以及来访的吟游诗人们对伟大功绩或高尚爱情的诗赞。你被迅速地卷入到成人世界的冲突和竞争中。你也从其他孩子的野蛮游戏中，在他们以木棒代剑的对打中，学会了阁下们的使剑技巧，这一点对于今天的你来说可谓至关重要。"
+        "old_translation": "你被选中陪伴王国最富有的贵族之一，因而得以留在厅堂。伺候长辈的第一课便是谦卑。作为补偿，这里有各种消遣：下棋、闲谈、吟游诗人吟诵英雄与爱情的诗篇。你最着迷的是冲突与竞争的世界。你与其他小孩玩粗野游戏，用木棍当剑互击。这些游戏为你今日的人生上了宝贵一课。",
+        "translation": "你被选中陪伴王国最富有的贵族之一，因而得以留在厅堂。伺候长辈的第一课便是谦卑。作为补偿，这里有各种消遣：下棋、闲谈、吟游诗人吟诵英雄与爱情的诗篇。你最着迷的是冲突与竞争的世界。你与其他小孩玩粗野游戏，用木棍当剑互击。这些游戏为你今日的人生上了宝贵一课。"
     },
     {
+        "id": "qstr_a_craftsman_s_appren",
         "text": "a_craftsman's_apprentice",
+        "old_translation": "一名工匠学徒",
         "translation": "一名工匠学徒"
     },
     {
+        "id": "qstr_Your_parents_sent_yo",
         "text": "Your_parents_sent_you_to_learn_a_trade._After_years_of_hard_work_and_study_under_your_new_master,_he_promoted_you_first_to_journeyman_and_finally_to_fully_paid_craftsman_for_as_long_as_you_wished_to_stay._You_became_adept_with_tools_and_crafting.",
-        "translation": "你的父母将你送去学习一门手艺。在你的新师父手下学习与工作几年之后，他决定先把你提升为熟练工人，最后再升为正式工匠，只要你愿意留在他身边。你对于工具和制作的手艺日渐熟习。"
+        "old_translation": "父母送你去学一门手艺。在新师傅手下苦学数年后，他先升你为熟练工，最终只要你愿意留下，便可成为领薪的正式工匠。你熟练掌握了工具与制作技艺。",
+        "translation": "父母送你去学一门手艺。在新师傅手下苦学数年后，他先升你为熟练工，最终只要你愿意留下，便可成为领薪的正式手艺人。你熟练掌握了工具与制作技艺。"
     },
     {
+        "id": "qstr_a_shop_assistant",
         "text": "a_shop_assistant",
-        "translation": "一名商行帮工"
+        "old_translation": "一名店铺伙计",
+        "translation": "一名店铺伙计"
     },
     {
+        "id": "qstr_In_the_employ_of_a_s",
         "text": "In_the_employ_of_a_shopkeeper,_you_learned_to_attract_people's_interest_and_convince_them_with_words._Traveling_from_one_place_to_another_in_caravans_to_trade,_you_learned_the_customs_of_very_different_peoples_and_proper_behavior_in_each_culture.",
-        "translation": "在商行店主的手下，你学会了如何吸引人们的兴趣以及用言辞说服他们。在随着商队辗转各地进行贸易的历练中，你了解了处处不同的人情风俗，并知道如何才能表现得大方得体。"
+        "old_translation": "你受雇于店主，学会了吸引顾客、巧言说服。随商队辗转各地贸易，你见识了不同民族的风俗，也懂得在各色文化中举止得体。",
+        "translation": "你受雇于店主，学会了吸引顾客、巧言说服。随商队辗转各地贸易，你见识了不同民族的风俗，也懂得在各色文化中举止得体。"
     },
     {
+        "id": "qstr_a_street_urchin",
         "text": "a_street_urchin",
-        "translation": "一名街头顽童"
+        "old_translation": "一名街头流浪儿",
+        "translation": "一名街头流浪儿"
     },
     {
+        "id": "qstr_You_ended_up_in_the_",
         "text": "You_ended_up_in_the_streets,_doing_whatever_you_must_to_survive._Begging_and_thieving_to_earn_your_bread,_daily_involved_in_this_violent_world,_always_one_step_ahead_of_the_law_and_others_who_wished_to_catch_you.",
-        "translation": "你终日在街上厮混，尽己所能以求生存。以乞讨和偷窃糊口，在这个暴力的世界里每天苟且求生，总是离犯法和监牢只有一步之遥。"
+        "old_translation": "你流落街头，为活命不择手段。乞讨、偷窃换口饭吃，日日挣扎在暴力世界，永远比官府和想抓你的人快一步。",
+        "translation": "你流落街头，为活命不择手段。乞讨、偷窃换口饭吃，日日挣扎在暴力世界，永远比官府和想抓你的人快一步。"
     },
     {
+        "id": "qstr_a_farmer_child",
         "text": "a_farmer_child",
-        "translation": "一名农场少年"
+        "old_translation": "一名农家孩子",
+        "translation": "一名农家小孩"
     },
     {
+        "id": "qstr_You_put_your_strong_",
         "text": "You_put_your_strong_back_to_help_with_farm_work._You_learned_the_land_and_the_livestock_that_grazed_on_it._Some_years_you_enjoyed_good_harvests_but_others_you_survived_on_an_empty_stomach._You_became_unflappable_and_adept_at_adapting_to_every_circumstance.",
-        "translation": "你花光力气来帮助干农活，对这片土地以及放牧的牲畜了如指掌。某些年头你能够坐享丰收，但某些年头你只能饿着肚子。你逐渐适应了各种艰苦的条件，变得从容不迫。"
+        "old_translation": "你用结实的脊背帮家里干农活。你熟悉土地与放牧的牲畜。有的年景丰收，有的年景饿肚子。你变得沉着冷静，善于随机应变。",
+        "translation": "你用结实的脊背帮家里干农活。你熟悉土地与放牧的牲畜。有的年景丰收，有的年景饿肚子。你变得沉着冷静，善于随机应变。"
     },
     {
+        "id": "qstr_{s1}^^You_spent_your",
         "text": "{s1}^^You_spent_your_youth_as_{s2}._{s3}",
-        "translation": "{s1}^^你将自己的青春花在了作为{s2}身上。{s3}"
+        "old_translation": "{s1}^^你把青春耗在了当{s2}上。{s3}",
+        "translation": "{s1}^^你把青春耗在了当{s2}上。{s3}"
     },
     {
+        "id": "qstr_Formerly_being_a_sla",
         "text": "Formerly,_being_a_slave,",
-        "translation": "先前，作为一名奴隶，"
+        "old_translation": "从前，身为奴隶，",
+        "translation": "从前，身为奴隶，"
     },
     {
+        "id": "qstr_your_adult_life_was_",
         "text": "your_adult_life_was_full_of_misery._Forced_to_do_all_the_hard_menial_tasks_for_your_owners,_you_grew_to_be_thick-skinned,_fast,_and_strong._Sometimes_your_masters_gave_you_no_food,_and_so_you_had_to_learn_to_forage_in_the_wild_in_order_to_satisfy_your_hunger._Your_world_was_small_and_monotonous._The_days_seemed_to_be_always_the_same._Rain_and_sun_punished_your_body_during_these_endless_working_days._From_sunrise_to_sunset,_with_your_back_aching_all_the_time,_your_only_reward_was_to_see_another_day,_although_some_of_your_fellow_sufferers_were_not_so_lucky._When_you_got_some_free_time_--_something_that_rarely_happened_--_you_practiced_hurling_stones_with_a_simple_sling._You_can_hit_a_dried_gourd_some_paces_distant_and_cause_it_to_explode_with_a_satisfying_CRACK.",
-        "translation": "你成年后的生活充满了悲惨。因为被迫为你的主人承担所有粗重肮脏的活计，你的皮肤非常粗糙，你变得敏捷而强壮。有时你的主人不给你任何食物，因此你不得不学会如何在野外搜寻果腹的东西。你的世界狭窄而枯燥，日复一日，与此同时日晒雨淋又在无尽的工作中惩罚着你的身躯。日出日落，你总是腰酸背痛，唯一的奖赏就是能够看见第二天的阳光，尽管你有些同伴就没那么走运了。当你有空闲时——这种情况少之又少——你会练习用一个简陋的投石索练习投石，你能够准确击中数步之外的目标，伴着一下让人享受的爆裂声。"
+        "old_translation": "你的成年岁月满是苦难。你被迫为主人干尽粗活，变得皮糙肉厚、敏捷而强壮。有时主人不给饭吃，你便学会在野外觅食。你的世界狭小单调，日子仿佛一成不变。日晒雨淋在无尽劳作中折磨你的身体。从日出到日落，腰背酸痛，唯一的奖赏是还能看见明天的太阳，尽管有些同伴没这么幸运。偶尔得闲——极少——你便用简陋投石索练石子，能击中数步外的干葫芦，啪的一声炸开，令人快意。",
+        "translation": "你的成年岁月满是苦难。你被迫为主人干尽粗活，变得皮糙肉厚、敏捷而强壮。有时主人不给饭吃，你便学会在野外觅食。你的世界狭小单调，日子仿佛一成不变。日晒雨淋在无尽劳作中折磨你的身体。从日出到日落，腰背酸痛，唯一的奖赏是还能看见明天的太阳，尽管有些同伴没这么幸运。偶尔得闲——极少——你便用简陋投石索练石子，能击中数步外的干葫芦，啪的一声炸开，令人快意。"
     },
     {
+        "id": "qstr_Formerly_you_were_a_",
         "text": "Formerly,_you_were_a_priest.",
-        "translation": "先前，你是一名牧师。"
+        "old_translation": "从前，你是一名牧师。",
+        "translation": "从前，你是一名牧师。"
     },
     {
+        "id": "qstr_When_you_were_not_wo",
         "text": "When_you_were_not_working_or_studying_at_the_monastery,_you_traveled_around_spreading_the_word_of_God._Anyone_who_listened_to_you_was_greatly_impressed_with_the_passion_of_your_sermons._Though_you_had_kept_the_vow_of_poverty_through_all_those_itinerant_years,_you_never_lacked_for_food,_drink_or_shelter,_as_the_hospitality_of_the_peasants_was_particularly_generous_toward_a_rising_{reg59?woman:man}_of_God._Now_and_then,_the_villagers_came_to_the_monastery_to_purchase_the_unique_products_that_you_made._^^Healing_is_another_of_your_abilities._Your_skill_mended_many_a_broken_bone_and_kept_many_a_soul_in_its_body_instead_of_venturing_into_God's_hands._Full_of_faith,_you_feel_safe_outside_the_thick_monastery_walls._You_are_armed_with_nothing_more_than_a_rod_or_a_staff,_symbols_of_the_divine_ones_that_comfort_you.",
-        "translation": "当你不需要在修道院里工作或学习时，你游遍了这片属于上帝的领土。所有听过你布道的人都会因为你的热情而留下深刻印象。尽管你在那些流离不定的岁月里坚守着清贫的誓言，你从不缺衣少食，因为善良的农民们总会为上帝的代言人提供最好的招待。时不时地，村民们会来到修道院购买你制作的那些特殊的工艺品。^^疗伤是你的另一项技能。你的医术治好了许多伤者的骨折，并让许多灵魂暂时留在自己的身躯里，而不是提早重投上帝的怀抱。你从未在修道院的高墙大院外感到恐惧，因为你满怀信仰。你唯一的装备只有一杆手杖，这是圣职人员的象征，也是你的慰藉。"
+        "old_translation": "不在修道院劳作或研习时，你便四处传教。听你布道的人无不被你的热忱打动。尽管多年漂泊坚守清贫，你从不缺食宿，因为农民对这位冉冉升起的上帝{reg59?女:男}仆格外慷慨。偶尔，村民会到修道院购买你制作的独特物品。^^你还擅长疗伤。你的医术接好许多断骨，把不少灵魂留在躯壳里，而非早早交予上帝。满怀信仰，你在厚墙外也感到安全。你只携带一根杖或棍，那是神圣的象征，也是慰藉。",
+        "translation": "不在修道院劳作或研习时，你便四处传教。听你布道的人无不被你的热忱打动。尽管多年漂泊坚守清贫，你从不缺食宿，因为农民对这位冉冉升起的上帝{reg59?女:男}仆格外慷慨。偶尔，村民会到修道院购买你制作的独特物品。^^你还擅长疗伤。你的医术接好许多断骨，把不少灵魂留在躯壳里，而非早早交予上帝。满怀信仰，你在厚墙外也感到安全。你只携带一根杖或棍，那是神圣的象征，也是慰藉。"
     },
     {
+        "id": "qstr_Formerly_you_were_a_t",
         "text": "Formerly,_you_were_a_traveler.",
-        "translation": "先前，你是一名旅行者。"
+        "old_translation": "从前，你是一名旅行者。",
+        "translation": "从前，你是一名旅行者。"
     },
     {
+        "id": "qstr_Responding_to_the_ca",
         "text": "Responding_to_the_call_of_the_road,_you_traveled_from_one_village_to_another,_trading_whatever_you_could_find._This_is_not_a_wealthy_life,_but_you_have_become_a_master_at_getting_a_good_price_from_even_the_most_miserly_of_spinsters._Soon,_you_will_be_able_to_create_your_own_trading_empire.",
-        "translation": "你在旅程的召唤下，游历过一个又一个村庄，交易所有你能找到的商品。这并不是一种富裕的生活，但你成为了商业的精英，即使对手是一名抠门的老处女，你也能争取到最好的价钱。不久之后，你将建立起自己的商业帝国。"
+        "old_translation": "你响应大道的召唤，从一个村庄走到另一个，交易能寻到的任何货物。这生活不富裕，你却练就了从再吝啬的老处女手里也能讨个好价的本事。很快，你就能建立自己的商业帝国。",
+        "translation": "你响应大道的召唤，从一个村庄走到另一个，交易能寻到的任何货物。这生活不富裕，你却练就了从再吝啬的老处女手里也能讨个好价的本事。很快，你就能建立自己的商业帝国。"
     },
     {
+        "id": "qstr_Formerly_you_were_a_p",
         "text": "Formerly,_you_were_a_poacher.",
-        "translation": "先前，你是一名偷猎者。"
+        "old_translation": "从前，你是一名偷猎者。",
+        "translation": "从前，你是一名偷猎者。"
     },
     {
+        "id": "qstr_Unsatisfied_with_com",
         "text": "Unsatisfied_with_common_men's_desperate_desire_of_wealth,_you_took_to_your_local_lord's_own_forests_and_helped_yourself_to_their_bounty,_laws_be_damned._You_hunted_stags,_boars_and_geese_and_sold_their_meat_under_the_table._You_cut_down_trees_right_under_the_watchmen's_noses_and_turned_them_into_firewood_to_warm_many_a_freezing_home_during_harsh_winters._You_found_that_honor_is_easy_enough_to_barter_away_for_a_few_hard-to-find_silvers._When_the_hard_times_came,_you_foraged_for_food_and_became_an_expert_at_finding_edible_plants_in_the_wild.",
-        "translation": "处于每一个普通人对于财富的欲望，你选择在当地领主的森林里进行偷猎，并成为了他们悬赏通缉的目标。你在黑市里交易猎到的野鹿、野猪和野鹅。严冬时节，你在护林人的鼻子底下伐木，并将木柴送到每一户冻僵了的家庭里。当你拿自己的尊严来换取一些难得的银子时，你发现这并非一件难事。当艰难的日子来临时，你只好在野地里寻找可食用的植物，并成为了这方面的专家。"
+        "old_translation": "对普通人那种不顾一切的贪财之心感到厌倦，你干脆闯进本地领主的森林，把法律抛到脑后，尽情取用那里的馈赠。你猎杀雄鹿、野猪和野鹅，把肉拿到黑市上卖。你在雇佣哨兵眼皮底下砍树，劈成柴火，在严冬里温暖了一户户冻僵的人家。你发现，为了几枚难得的银币，把荣誉拿去交换其实轻而易举。艰难岁月来临时，你四处觅食，成了辨认野外可食植物的行家。",
+        "translation": "对普通人那种不顾一切的贪财之心感到厌倦，你干脆闯进本地领主的森林，把法律抛到脑后，尽情取用那里的馈赠。你猎杀雄鹿、野猪和野鹅，把肉拿到黑市上卖。你在雇佣哨兵眼皮底下砍树，劈成柴火，在严冬里温暖了一户户冻僵的人家。你发现，为了几枚难得的银币，把荣誉拿去交换其实轻而易举。艰难岁月来临时，你四处觅食，成了辨认野外可食植物的行家。"
     },
     {
+        "id": "qstr_Formerly_you_were_a_f",
         "text": "Formerly,_you_were_a_free_{reg59?woman:man},_and_moreover_{reg59?mistress:master}_over_a_bit_of_land.",
-        "translation": "先前，你是一名自由的{reg59?女人:男人}，而且拥有一些田产。"
+        "old_translation": "以前，你是个自由的{reg59?女人:男人}，还掌管着一小块土地。",
+        "translation": "从前，你是个自由的{reg59?女人:男人}，还掌管着一小块土地。"
     },
     {
+        "id": "qstr_{reg59?Being_wife_to",
         "text": "{reg59?Being_wife_to_a_free_man_meant_that_you_at_least_had_it_easier_than_did_the_wives_of_the_servants._You_owned_some_servants_who_helped_you_with_the_hard_work,_but_since_your_husband_didn't_own_a_lot_of_land,_you_still_had_to_do_a_variety_of_tasks_that_peasant_wives_have_to_do._Your_husband_had_to_pay_rent_to_his_overlord_and_owed_him_labour_services_for_the_land._When_the_lord_was_involved_in_a_war,_your_husband_had_to_answer_his_call_for_foot_soldiers._In_those_times,_he_had_to_rely_on_his_shield_and_spear_in_the_thick_of_battle._He_often_taught_you_how_to_fight_properly_with_those_arms_in_case_he_wouldn't_be_available_to_defend_your_home._:This_meant_that_you_at_least_had_it_easier_than_the_servants._You_owned_some_servants_who_helped_you_with_the_hard_work,_but_since_you_didn't_own_a_lot_of_land,_you_still_had_to_do_a_variety_of_tasks_that_peasants_have_to_do._You_had_to_pay_rent_to_your_overlord_and_owed_him_labour_services_for_the_land._When_the_lord_was_involved_in_a_war,_you_had_to_answer_his_call_for_foot_soldiers._In_those_times,_you_had_to_rely_on_your_shield_and_spear_in_the_thick_of_battle.}",
-        "translation": "{reg59?作为一名自由人的妻子，意味着你比那些仆人的妻子更加轻松，因为你不需要事事亲力亲为。你拥有一些可以为你负担粗重劳动的仆人，但鉴于你的丈夫并非地方豪绅，你还是得干一些农妇的活儿。你的丈夫必须向他的领主缴纳地租以及提供劳力，这是他作为地主的代价。当领主需要领兵作战时，你的丈夫必须作为一名步兵参战，这时他在残酷的战场上唯一可以信赖的只有自己的长矛与盾牌。他经常教你如何正确地使用那些武器，一旦他有事离家，你必须学会自卫。:这意味着你比那些仆人的生活轻松一些，因为你不必事事亲力亲为。你拥有一些可以为你负担粗重劳动的仆人，但鉴于你并非地方豪绅，你还是得干一些农夫的活儿。你必须向你的领主缴纳地租以及提供劳力，这是你作为地主的代价。当领主需要领兵作战时，你必须作为一名步兵参战，这时你在残酷的战场上唯一可以信赖的只有自己的长矛与盾牌。}"
+        "old_translation": "{reg59?身为自由人之妻，你至少比仆役的妻子轻松。你雇了几个仆人分担重活，可丈夫的地不多，你仍得干农妇常做的杂事。丈夫得向领主交租、服劳役；领主一旦开战，他就要应征当步兵，在混战中只能靠长矛与盾牌保命。他常教你使这些兵器，以防他不在家时你得自卫。:这意味着你比仆人过得稍好。你雇了几个仆人分担重活，可地不多，你仍得干农夫常做的杂事。你得向领主交租、服劳役；领主一旦开战，你就得应征当步兵，在混战中只能靠长矛与盾牌保命。}",
+        "translation": "{reg59?身为自由人之妻，你至少比仆役的妻子轻松。你雇了几个仆人分担重活，可丈夫的地不多，你仍得干农妇常做的杂事。丈夫得向领主交租、服劳役；领主一旦开战，他就要应征当步兵，在混战中只能靠长矛与盾牌保命。他常教你使这些兵器，以防他不在家时你得自卫。:这意味着你比仆人过得稍好。你雇了几个仆人分担重活，可地不多，你仍得干农民常做的杂事。你得向领主交租、服劳役；领主一旦开战，你就得应征当步兵，在混战中只能靠长矛与盾牌保命。}"
     },
     {
+        "id": "qstr_{s1}^^Through_persis",
         "text": "{s1}^^Through_persistence_and_a_little_luck,_you_learned_how_to_curry_favor_with_one_of_the_local_lords._Eventually,_he_recommended_you_to_the_king,_who_awarded_you_with_a_small_fief_from_his_own_holdings._Now_you_must_prove_yourself_worthy_of_the_trust_you_have_been_given.",
-        "translation": "{s1}^^通过坚持和一点点运气，你学会了如何讨好当地的一位领主，最后，他建议你去见国王，他可以授予你封地。现在，你必须证明自己是值得信赖的。"
+        "old_translation": "{s1}^^凭着坚持和一点运气，你学会了讨某位本地领主欢心。最终，他把你推荐给国王，国王从自己的领地中赐给你一小块采邑。如今，你必须证明自己配得上这份信任。",
+        "translation": "{s1}^^凭着坚持和一点运气，你学会了讨某位本地领主欢心。最终，他把你推荐给国王，国王从自己的领地中赐给你一小块采邑。如今，你必须证明自己配得上这份信任。"
     },
     {
+        "id": "qstr_{s1}^^Then_you_happe",
         "text": "{s1}^^Then_you_happened_to_catch_the_interest_of_a_young_lord._Ignoring_tradition_and_the_strident_pleas_of_his_advisors,_he_married_you,_but_shortly_thereafter_suffered_an_accidental_fatal_wound_during_a_tournament._The_lord_lacked_a_living_uncle,_brother,_or_son._You_therefore_take_over_his_small,_neglected_estate,_even_as_the_other_lords_of_the_kingdom_consider_it_as_having_become_available._Now_you_must_establish_yourself_on_your_lands.",
-        "translation": "{s1}^^然后，你碰巧获得了年轻领主的爱慕。他无视传统和力排众议，娶了你。但此后不久，他在一场比赛中受到致命伤。领主没有一个活着的叔叔，兄弟，或儿子。因此，你接管了他的领地，现在你必须建立你的统治。"
+        "old_translation": "{s1}^^后来，一位年轻领主看上了你。他不顾传统和谋臣的激烈反对，娶了你；可不久，他在比武中意外受了致命伤。那位领主没有活着的叔伯、兄弟或儿子，于是你接管了他那被忽视的小庄园，而王国的其他领主已把这块地视为无主。如今，你必须在自己的土地上站稳脚跟。",
+        "translation": "{s1}^^后来，一位年轻领主看上了你。他不顾传统和谋臣的激烈反对，娶了你；可不久，他在比武中意外受了致命伤。那位领主没有活着的叔伯、兄弟或儿子，于是你接管了他那被忽视的小庄园，而王国的其他领主已把这块地视为无主。如今，你必须在自己的土地上站稳脚跟。"
     },
     {
+        "id": "qstr_{s1}^^Through_persist",
         "text": "{s1}^^Through_persistence_and_a_little_luck,_you_learned_how_to_curry_favor_with_one_of_the_local_lords._A_series_of_events_having_left_the_kingdom_without_a_ruler,_he_proposed_you_to_share_the_kingship_as_a_compromise_between_contending_factions._You_were_deliberately_chosen_to_be_the_minor_partner,_but_a_sudden_fatal_illness_of_the_other_share-king_has_left_you_sole_ruler._Not_everyone_is_happy_about_this_turn_of_events,_and_neighboring_kingdoms_have_taken_note_of_the_apparent_weakness_of_your_realm._Now_you_must_establish_your_dominion.",
-        "translation": "{s1}^^通过坚持和一点点运气，你学会了如何讨好当地的领主们，一连串事件导致这个国家没有国王，你王位是候选人之一，领主们建议你和竞争者妥协，共享王位。但那个共享者暴病而亡，你成为唯一的统治者。不是每个人都乐于见到这个事变，邻国已经注意到你们的明显弱点。现在你必须建立你的统治。"
+        "old_translation": "{s1}^^凭着坚持和一点运气，你学会了讨某位本地领主欢心。一连串变故使王国无君，他把你推举为折中人选，与另一派共享王位。原本你被刻意安排为次要君主，可另一位共治国王突患急病去世，如今只剩你一人统治。并非所有人都乐见这一变化，邻国也已注意到你王国的虚弱。如今，你必须确立自己的统治。",
+        "translation": "{s1}^^凭着坚持和一点运气，你学会了讨某位本地领主欢心。一连串变故使王国无君，他把你推举为折中人选，与另一派共享王位。原本你被刻意安排为次要君主，可另一位共治国王突患急病去世，如今只剩你一人统治。并非所有人都乐见这一变化，邻国也已注意到你王国的虚弱。如今，你必须确立自己的统治。"
     },
     {
+        "id": "qstr_{s1}^^Then_you_happen",
         "text": "{s1}^^Then_you_happened_to_catch_the_interest_of_the_young_king._Ignoring_tradition_and_the_strident_pleas_of_his_advisors,_he_married_you,_but_shortly_thereafter_suffered_an_accidental_fatal_wound_during_a_tournament._The_king_lacked_a_living_uncle,_brother,_or_son._As_the_lords_debate_succession,_the_neighboring_kingdoms_have_taken_note_of_the_apparent_weakness_of_your_realm._Now_you_must_establish_your_dominion.",
-        "translation": "{s1}^^然后，你碰巧获得了年轻国王的爱慕。他无视传统和力排众议，娶了你。但此后不久，他在一场比赛中受到致命伤。国王没有一个活着的叔叔，兄弟，或儿子。邻国已经注意到你的王国的明显弱点。现在你必须建立你的统治。"
+        "old_translation": "{s1}^^后来，年轻的国王看上了你。他不顾传统和谋臣的激烈反对，娶了你；可不久，他在比武中意外受了致命伤。国王没有活着的叔伯、兄弟或儿子。当领主们为继承权争论不休时，邻国已注意到你王国的虚弱。如今，你必须确立自己的统治。",
+        "translation": "{s1}^^后来，年轻的国王看上了你。他不顾传统和谋臣的激烈反对，娶了你；可不久，他在比武中意外受了致命伤。国王没有活着的叔伯、兄弟或儿子。当领主们为继承权争论不休时，邻国已注意到你王国的虚弱。如今，你必须确立自己的统治。"
     },
     {
+        "id": "qstr_>_Viking_Conquest_Ma",
         "text": ">_Viking_Conquest_Main_Campaign",
-        "translation": ">维京征服模式"
+        "old_translation": ">维京征服主线剧情",
+        "translation": ">维京征服主线剧情"
     },
     {
+        "id": "qstr_A_storyline_campaign",
         "text": "A_storyline_campaign_with_a_main_quest_and_other_special_features.",
-        "translation": "一个完整的主线故事和其他的特别内容。"
+        "old_translation": "一个包含主线任务与其他特殊要素的剧情战役。",
+        "translation": "一个包含主线任务与其他特殊要素的剧情战役。"
     },
     {
+        "id": "qstr_>_Sandbox_Campaign",
         "text": ">_Sandbox_Campaign",
+        "old_translation": ">沙盒模式",
         "translation": ">沙盒模式"
     },
     {
+        "id": "qstr_No_main_story_or_spe",
         "text": "No_main_story_or_special_features._You_are_free_to_play_as_you_wish.",
-        "translation": "没有主线故事或特别的内容。你可以自由进行游戏。"
+        "old_translation": "没有主线故事或特殊要素，你可随心所欲地游玩。",
+        "translation": "没有主线故事或特殊要素，你可随心所欲地游玩。"
     },
     {
+        "id": "qstr_>_Lordly_Sandbox_Cam",
         "text": ">_Lordly_Sandbox_Campaign",
+        "old_translation": ">领主沙盒模式",
         "translation": ">领主沙盒模式"
     },
     {
+        "id": "qstr_You_start_as_a_lord_",
         "text": "You_start_as_a_lord_or_lady_of_a_faction.",
-        "translation": "你选择作为一领主开始游戏"
+        "old_translation": "你以某阵营领主或女领主的身份开局。",
+        "translation": "你以某阵营领主或女领主的身份开局。"
     },
     {
+        "id": "qstr_>_Royal_Sandbox_Camp",
         "text": ">_Royal_Sandbox_Campaign",
+        "old_translation": ">国王沙盒模式",
         "translation": ">国王沙盒模式"
     },
     {
+        "id": "qstr_You_start_as_leader_",
         "text": "You_start_as_leader_of_a_faction._Long_live_the_king!",
-        "translation": "你选择作为某一势力的统治者开始游戏。国王万岁！"
+        "old_translation": "你以某势力君主的身份开局。国王万岁！",
+        "translation": "你以某势力君主的身份开局。国王万岁！"
     },
     {
+        "id": "qstr_STAMINA_>_Realism_Fe",
         "text": "STAMINA_>_Realism_Feature.",
-        "translation": "耐力>现实特色功能。"
+        "old_translation": "耐力>真实性特色",
+        "translation": "耐力>真实性特色"
     },
     {
+        "id": "qstr_This_feature_affects",
         "text": "This_feature_affects_the_player_and_all_game_characters.^Stamina_is_calculated_from_Health_and_Athletic_skills_and_affects_physical_endurance_during_battle._When_a_character's_stamina_is_exhausted,_he_or_she_won't_be_able_to_run_and_his_or_her_weapons'_damage_will_be_halved.",
-        "translation": "这一特色功能会影响到玩家及所有的游戏角色。^耐力值取决于你的血量和运动技能，并影响着战斗中的防御能力。一旦角色的耐力耗尽，他或她将无法奔跑，而且武器的伤害减半。"
+        "old_translation": "该功能影响玩家与所有角色。^耐力由生命值与运动技能计算，决定战斗中的体力。角色耐力耗尽时将无法奔跑，武器伤害减半。",
+        "translation": "该功能影响玩家与所有角色。^耐力由生命值与运动技能计算，决定战斗中的体力。角色耐力耗尽时将无法奔跑，武器伤害减半。"
     },
     {
+        "id": "qstr_ARMOR_PENALTY_>_Real",
         "text": "ARMOR_PENALTY_>_Realism_Feature.",
-        "translation": "重甲惩罚>真实性特色功能"
+        "old_translation": "重甲惩罚>真实性特色",
+        "translation": "重甲惩罚>真实性特色"
     },
     {
+        "id": "qstr_This_feature_affects_",
         "text": "This_feature_affects_the_player_and_all_game_characters.^Your_skill_points_will_deteriorate_when_you_equip_heavy_armor._This_skill_brings_better_balance_to_the_game,_as_light_troops_become_more_important.",
-        "translation": "这一特色功能会影响到玩家及所有的游戏角色。^当你装备重型护甲时，你的技能点将会降低。这个设定会使游戏更加平衡，因为轻甲兵种将变得更加重要。"
+        "old_translation": "该功能影响玩家与所有角色。^装备重甲会降低你的技能点，使轻甲部队更重要，游戏更平衡。",
+        "translation": "该功能影响玩家与所有角色。^装备重甲会降低你的技能点，使轻甲部队更重要，游戏更平衡。"
     },
     {
+        "id": "qstr_EASY_RECRUITMENT_>_B",
         "text": "EASY_RECRUITMENT_>_Beginner's_Feature.",
-        "translation": "简单招募>初学者选项。"
+        "old_translation": "简单招募>新手选项",
+        "translation": "简单招募>新手选项"
     },
     {
+        "id": "qstr_When_you_ask_permiss",
         "text": "When_you_ask_permission_in_the_villages_to_recruit,_the_answer_is_always_positive_and_without_cost._Not_recommended_for_players_who_like_role-play_and_immersion.",
-        "translation": "当你请求获得在村庄募兵的资格时，总能够成功而没有代价。不推荐喜爱角色扮演和代入感的玩家选用。"
+        "old_translation": "当你在村庄请求募兵许可时，回答永远是肯定且无需代价。不推荐喜欢角色扮演与沉浸感的玩家使用。",
+        "translation": "当你在村庄请求募兵许可时，回答永远是肯定且无需代价。不推荐喜欢角色扮演与沉浸感的玩家使用。"
     },
     {
+        "id": "qstr_RESTING_MORALE_>_Rea",
         "text": "RESTING_MORALE_>_Realism_Feature.",
+        "old_translation": "休整提高士气>真实性特色功能。",
         "translation": "休整提高士气>真实性特色功能。"
     },
     {
+        "id": "qstr_INSANE_DIFFICULTY_>_",
         "text": "INSANE_DIFFICULTY_>_Advanced_Player's_Feature.",
-        "translation": "疯狂难度>疯狂的玩家功能。"
+        "old_translation": "疯狂难度>资深玩家功能。",
+        "translation": "疯狂难度>资深玩家功能。"
     },
     {
+        "id": "qstr_Your_troops_need_thr",
         "text": "Your_troops_need_three_times_the_normal_experience_to_upgrade._Your_enemies_will_cause_double_damage_while_you_cause_only_half._Only_recommended_for_hardcore_players.",
-        "translation": "你的部队需要三倍的经验升级。你的敌人将会造成双倍伤害，而你的伤害将会减半，只对骨灰级玩家推荐。"
+        "old_translation": "你的部队需要三倍经验才能升级。敌人造成双倍伤害，而你只能造成一半。仅推荐给硬核玩家。",
+        "translation": "你的部队需要三倍经验才能升级。敌人造成双倍伤害，而你只能造成一半。仅推荐给硬核玩家。"
     },
     {
+        "id": "qstr_GORE_>_+18_Feature.",
         "text": "GORE_>_+18_Feature.",
+        "old_translation": "血腥模式>18禁功能。",
         "translation": "血腥模式>18禁功能。"
     },
     {
+        "id": "qstr_DISABLE_SCENIC_MENU_",
         "text": "DISABLE_SCENIC_MENU_>_Performance_Feature.",
-        "translation": "禁用风景菜单>性能特性"
+        "old_translation": "禁用风景菜单>性能优化功能。",
+        "translation": "禁用风景菜单>性能优化功能。"
     },
     {
+        "id": "qstr_Disable_the_3D_view_i",
         "text": "Disable_the_3D_view_in_menus_to_improve_the_loading_time_for_slower_machines.",
-        "translation": "禁用的菜单中的3Ｄ视图来改善机器的加载时间。"
+        "old_translation": "禁用菜单中的3D视图，以提升较慢设备的加载速度。",
+        "translation": "禁用菜单中的3D视图，以提升较慢设备的加载速度。"
     },
     {
+        "id": "qstr_SHIELD_BASH_>_Realis",
         "text": "SHIELD_BASH_>_Realism_Feature.",
-        "translation": "禁用风景菜单>性能特性"
+        "old_translation": "盾击>真实性特色功能。",
+        "translation": "盾击>真实性特色功能。"
     },
     {
+        "id": "qstr_Player_and_AI_troops",
         "text": "Player_and_AI_troops_will_be_able_to_bash_enemies_with_their_shields.",
-        "translation": "玩家和AI能够盾击"
+        "old_translation": "玩家与AI部队可用盾牌猛击敌人。",
+        "translation": "玩家与AI部队可用盾牌猛击敌人。"
     },
     {
+        "id": "qstr_...Anno_Domini_868..",
         "text": "...Anno_Domini_868...",
-        "translation": "…公元868年…"
+        "old_translation": "……公元868年……",
+        "translation": "……公元868年……"
     },
     {
+        "id": "qstr_My_name_is_Beda_the_",
         "text": "My_name_is_Beda_the_Old,_and_if_you_delve_into_this_world,_I_recommend_you_listen_carefully...^^Britain._The_Britons_call_her_Ynys_Prydein,_the_Goidels_call_her_Alba_while_the_Angles_and_Saxons_gave_the_name_of_Englaland_to_the_lands_they_conquered._These_islands_are_large,_rich_and_beautiful..._and_are_coveted._So_the_land_is_currently_at_war_and_respects_only_the_law_of_the_sword_and_spear._Realms_are_born_and_killed_off,_and_kings_die_on_the_battlefield._Women_are_widowed,_and_horses_carry_arms_instead_of_hay._The_shouts_of_warriors_fill_the_air,_and_the_earth_lies_barren_from_the_trampling_of_armies._As_in_past_eras_of_strife,_mortal_enemies_rise,_equipped_in_armour._Ravens_are_calling,_wolves_are_howling,_spears_clash_and_shields_answer.^^In_the_north,_the_kingdoms_of_the_Angles_crumble_before_the_advance_of_the_Danes._The_sons_of_the_notorious_Viking_lord_Ragnar,_the_new_lords_of_these_lands,_now_rule_Bernaccia,_Deira_and_Elmet,_the_land_known_as_Northhymbre._^^In_the_south,_the_Saxons_of_West_Seaxe,_led_by_the_Brytenwalda_Aethelred_and_his_brother_Aelfred,_prepare_for_war._They_know_that_on_the_other_side_of_the_sea,_more_Danes_prepare_to_cross_the_ocean_in_search_of_fame_and_wealth._^^Pushed_into_the_remote_fringes_of_their_native_land_by_centuries_of_landward_invasion,_the_native_Britons_now_are_threatened_by_Vikings_on_their_coasts._They_fight_desperately_not_to_lose_what_little_they_have_left,_dreaming_of_a_king_to_unify_them_all_and_lead_them_to_final_victory_--_a_new_King_Arthur._The_reality_is_that_their_equitable_inheritance_laws_keep_the_holdings_of_each_lord_small_and_unity_harder_to_achieve._Nevertheless,_one_strongman,_Rhodri_the_Great_of_Gwynedd,_has_begun_to_impose_his_will_over_the_rest_of_Wales._^^In_the_lands_of_the_far_north,_Norwegian_invaders_thirty_years_ago_wiped_out_the_old_competing_Gaelic_and_Pict_aristocracies_in_one_fatal_blow_at_a_chance_three-way_battle._After_this_disaster,_Gaelic_strongman_Cinead_McAlpin_started_to_forge_a_new_kingdom_out_of_the_two_peoples,_but_they_have_been_driven_to_the_highland_center_of_their_former_territories._^^Across_the_sea,_in_Ireland,_Aed_'Fair_Warrior'_mac_Niall_of_Aileach_has_emerged_as_high_king_in_Temair_after_overcoming_his_enemies,_but_it_is_nothing_more_than_a_prestigious_title._His_claim_is_never_accepted_by_the_other_half_of_the_Ui_Neill,_and_the_fighting_for_land,_women_and_cattle,_in_the_sort_of_fratricidal_wars_endemic_to_that_land,_continues_unabated._Meanwhile,_both_Danish_and_Norwegian_Vikings_have_established_dozens_of_coastal_strongholds._They_use_the_rivers_to_plunder_the_Goidelic_hinterland,_but_they_are_all_too_prone_to_join_the_native_conflict_--_on_all_sides._^^^The_world_is_chaos,_and_chaos_is_war.",
-        "translation": "老夫的名字是贝达，如果你想要在这个世界中闯出名堂，我建议你认真聆听下面的话…^^不列颠。布立吞人叫它做帕拉丹岛，爱尔兰人称其为阿尔巴，而那些征服了它的盎格鲁人和撒克逊人则命名为盎格拉兰。这片土地辽阔，富饶，壮丽…而且让人垂涎三尺。因此，不列颠陷入了纷飞战火，它只服从利剑和长矛的统治。王国此起彼伏，而君主们则战死沙场。女人们常常成为寡妇，而马儿们背着的不再是干草，而是各种武器装备。空中充斥着战士们的呐喊，军队将土地践踏成不毛之地。战争的时代延绵了几个纪元，凡人们披坚执锐，拼个你死我活。渡鸦哀鸣，狼群咆哮，尖矛激碰，盾牌猛撞。^^在北方，盎格鲁人的国土在丹麦人的进军下四分五裂。臭名昭著的维京领主拉格纳的子嗣，如今成为了这片土地上的新领主，统治着伯纳希亚，德拉和爱密特，被统称为诺森布里亚。^^在南方，西撒克逊人在不列颠统治者艾塞雷德与其兄弟艾尔弗雷德的领导下，正在紧张备战中。他们清楚，在海的另一边，更多的丹麦人正在名利的驱动下蠢蠢欲动，准备跨海作战。^^经过几个世纪以来从蛮荒向陆地的开疆拓土，土生土长的布立吞人正处于维京人的威胁之下。他们拼命抵抗挣扎，只为了保护所剩无几的领土，梦想着一位国王的出现，将他们联合起来并取得最终的胜利——另一个亚瑟王。而现实情况是，他们的平分继承法使得每一名领主所掌控的土地越来越小，因此统一的希望越来越渺茫。尽管如此，还是有一个强者，伟大的格温特人罗德里，开始着手实现统一威尔士的雄心壮志。^^在更遥远的北方，挪威入侵者在三十年前的三方战役里，把握了绝佳的机会来一举扫除了盖尔人和皮克特人的贵族。在这场浩劫后，一位名叫辛奈德·麦卡尔平的盖尔族勇士开始重建一个融合了两个民族的王国，但他们已经被驱赶到原先领土的高原腹地了。^^越过大海就是爱尔兰了，来自欧莱克的“高贵武士”艾德麦雷尔在战胜了他的敌人之后，以最高国王的身份统治着提梅尔，而这个头衔只不过是虚名而已。他的宣称从未被欧莱克的另一半人民接受，而抢夺土地、女人和牲畜的内战，可谓是当地一大特色，也丝毫不见平息的迹象。与此同时，丹麦和挪威的维京人已经在沿海建立了十几个据点，并利用河流来洗劫爱尔兰的内陆地带，但是本地人依旧热衷于骨肉相残——无论在哪一个方面都是。^^^黄钟毁弃，瓦釜雷鸣。生灵涂炭，不宁不令。"
+        "old_translation": "老夫名为“老者”贝达，若你欲深入此世，务必细听……^^不列颠。布立吞人称之“YnysPrydein”，盖尔人唤作“Alba”，而盎格鲁与撒克逊人则把征服之地命名为“Englaland”。此岛辽阔、富庶、秀美……亦令人垂涎。于是战火连绵，唯剑与矛之法得行。王国生灭，君王殁于沙场；妇人成寡，马负兵革而非干草。战士呐喊震天，铁骑踏地成荒。昔年乱世再现，宿敌披甲而起；乌鸦啼，野狼嚎，矛击盾应。^^北方，盎格鲁诸国在丹麦人进逼下土崩瓦解。恶名远播的维京领主拉格纳之子，如今成为新主，统治伯纳西亚、德拉、埃尔梅特，即所谓诺森布里亚。^^南方，西撒克逊人在“不列颠共主”埃塞尔雷德与其弟阿尔弗雷德率领下整军备战。他们深知，大洋彼岸更多丹麦人正为名利欲渡海而来。^^世代陆侵将原住民布立吞人逼至边陲，如今又遭维京人自海岸侵袭。他们拼死守护残土，梦想再出亚瑟王，一统群雄，终获胜利；然而均分继承法使诸领领地狭小，统一难成。尽管如此，圭内斯强人“伟大者”罗德里已开始以力压服威尔士诸部。^^极北之地，三十年前挪威入侵者于一场三方混战中一举歼灭盖尔与皮克特旧贵族。浩劫之后，盖尔雄主辛奈德·麦·阿尔平开始融合两族，然其疆域已退至高原腹地。^^隔海相望的爱尔兰，艾利赫的“公正武士”艾德·麦·尼亚尔战胜诸敌，于塔乌尔称至高王，却不过虚名。另一半尼尔家族从未承认其权，为地、为女、为牛的血亲内斗依旧炽烈。丹麦与挪威维京人已在海岸筑数十据点，沿河流劫掠盖尔内陆，却又随时加入土著混战——无论何方。^^^世界即混沌，混沌即战争。",
+        "translation": "老夫名为“老者”贝达，若你欲深入此世，务必细听……^^不列颠。布立吞人称之“Ynys Prydein”，盖尔人唤作“Alba”，而盎格鲁与撒克逊人则把征服之地命名为“Englaland”。此岛辽阔、富庶、秀美……亦令人垂涎。于是战火连绵，唯剑与矛之法得行。王国生灭，君王殁于沙场；妇人成寡，马负兵革而非干草。战士呐喊震天，铁骑踏地成荒。昔年乱世再现，宿敌披甲而起；乌鸦啼，野狼嚎，矛击盾应。^^北方，盎格鲁诸国在丹麦人进逼下土崩瓦解。恶名远播的维京领主拉格纳之子，如今成为新主，统治伯纳西亚、德拉、埃尔梅特，即所谓诺森布里亚。^^南方，西撒克逊人在“不列颠共主”埃塞尔雷德与其弟阿尔弗雷德率领下整军备战。他们深知，大洋彼岸更多丹麦人正为名利欲渡海而来。^^世代陆侵将原住民布立吞人逼至边陲，如今又遭维京人自海岸侵袭。他们拼死守护残土，梦想再出亚瑟王，一统群雄，终获胜利；然而均分继承法使诸领领地狭小，统一难成。尽管如此，圭内斯强人“伟大者”罗德里已开始以力压服威尔士诸部。^^极北之地，三十年前挪威入侵者于一场三方混战中一举歼灭盖尔与皮克特旧贵族。浩劫之后，盖尔雄主辛奈德·麦·阿尔平开始融合两族，然其疆域已退至高原腹地。^^隔海相望的爱尔兰，艾利赫的“公正武士”艾德·麦·尼亚尔战胜诸敌，于塔乌尔称至高王，却不过虚名。另一半尼尔家族从未承认其权，为地、为女、为牛的血亲内斗依旧炽烈。丹麦与挪威维京人已在海岸筑数十据点，沿河流劫掠盖尔内陆，却又随时加入土著混战——无论何方。^^^世界即混沌，混沌即战争。"
     },
     {
+        "id": "qstr_BEDA_CHRONICLE^^{s2}",
         "text": "BEDA_CHRONICLE^^{s2}^^_{s3}",
+        "old_translation": "贝达的编年史^^{s2}^^{s3}",
         "translation": "贝达的编年史^^{s2}^^{s3}"
     },
     {
+        "id": "qstr_{s1}On_head.___{reg2",
         "text": "{s1}On_head._(-{reg2}_intelligence)^{s2}^^",
-        "translation": "头部受到{s1}(-{reg2}智力)^{s2}^^"
+        "old_translation": "{s1}头部（-{reg2}智力）^{s2}^^",
+        "translation": "{s1}头部（-{reg2}智力）^{s2}^^"
     },
     {
+        "id": "qstr_{s1}On_face.___{reg2",
         "text": "{s1}On_face._(-{reg2}_charisma)^{s2}^^",
-        "translation": "脸部受到{s1}(-{reg2}魅力)^{s2}^^"
+        "old_translation": "{s1}脸部（-{reg2}魅力）^{s2}^^",
+        "translation": "{s1}脸部（-{reg2}魅力）^{s2}^^"
     },
     {
+        "id": "qstr_{s1}On_body.___{reg2",
         "text": "{s1}On_body._(-{reg2}_strength)^{s2}^^",
-        "translation": "身体受到{s1}(-{reg2}力量)^{s2}^^"
+        "old_translation": "{s1}身体（-{reg2}力量）^{s2}^^",
+        "translation": "{s1}身体（-{reg2}力量）^{s2}^^"
     },
     {
+        "id": "qstr_{s1}On_limbs.___{reg",
         "text": "{s1}On_limbs._(-{reg2}_agility)^{s2}^^",
-        "translation": "肢体受到{s1}(-{reg2}敏捷)^{s2}^^"
+        "old_translation": "{s1}肢体（-{reg2}敏捷）^{s2}^^",
+        "translation": "{s1}肢体（-{reg2}敏捷）^{s2}^^"
     },
     {
+        "id": "qstr_Accumulated_Injuries",
         "text": "Accumulated_Injuries:^^none",
+        "old_translation": "累积损伤：^^无",
         "translation": "累积损伤：^^无"
     },
     {
+        "id": "qstr_Accumulated_Injuries:",
         "text": "Accumulated_Injuries:^^{s1}A_physician_in_a_larger_town_can_treat_these_injuries.",
-        "translation": "累积损伤：^^{s1}大城镇的医师能治疗这些损伤。"
+        "old_translation": "累积损伤：^^{s1}大城镇的医生可以治疗这些损伤。",
+        "translation": "累积损伤：^^{s1}大城镇的医生可以治疗这些损伤。"
     },
     {
+        "id": "qstr_Healing_wounds:^^non",
         "text": "Healing_wounds:^^none",
+        "old_translation": "伤口愈合：^^无",
         "translation": "伤口愈合：^^无"
     },
     {
+        "id": "qstr_Healing_wounds:^^{s1",
         "text": "Healing_wounds:^^{s1}These_wounds_have_been_treated._They_will_heal_on_their_own.",
-        "translation": "伤口愈合：^^{s1}这些伤口会自动愈合。"
+        "old_translation": "伤口愈合：^^{s1}这些伤口已处理，将自行痊愈。",
+        "translation": "伤口愈合：^^{s1}这些伤口已处理，将自行痊愈。"
     },
     {
+        "id": "qstr_{s1}On_head.___{reg1",
         "text": "{s1}On_head._(-{reg1}_intelligence)^^",
-        "translation": "头部受到{s1}(-{reg1}智力)^^"
+        "old_translation": "{s1}头部受创（-{reg1}智力）^^",
+        "translation": "{s1}头部受创（-{reg1}智力）^^"
     },
     {
+        "id": "qstr_{s1}On_face.___{reg1",
         "text": "{s1}On_face._(-{reg1}_charisma)^^",
-        "translation": "脸部受到{s1}(-{reg1}魅力)^^"
+        "old_translation": "{s1}面部受创（-{reg1}魅力）^^",
+        "translation": "{s1}面部受创（-{reg1}魅力）^^"
     },
     {
+        "id": "qstr_{s1}On_body.___{reg1",
         "text": "{s1}On_body._(-{reg1}_strength)^^",
-        "translation": "身体受到{s1}(-{reg1}力量)^^"
+        "old_translation": "{s1}身体受创（-{reg1}力量）^^",
+        "translation": "{s1}身体受创（-{reg1}力量）^^"
     },
     {
+        "id": "qstr_{s1}On_limbs.___{reg1",
         "text": "{s1}On_limbs._(-{reg1}_agility)^^",
-        "translation": "肢体受到{s1}(-{reg1}敏捷)^^"
+        "old_translation": "{s1}四肢受创（-{reg1}敏捷）^^",
+        "translation": "{s1}四肢受创（-{reg1}敏捷）^^"
     },
     {
+        "id": "qstr_Scars:^^none",
         "text": "Scars:^^none",
+        "old_translation": "伤疤：^^无",
         "translation": "伤疤：^^无"
     },
     {
+        "id": "qstr_Scars:^^{s1}These_in",
         "text": "Scars:^^{s1}These_injuries_have_become_permanent._They_now_can't_be_cured.",
-        "translation": "伤疤：^^{s1}这些伤口已经留下并无法治疗"
+        "old_translation": "伤疤：^^{s1}这些伤口已永久留下，无法治愈。",
+        "translation": "伤疤：^^{s1}这些伤口已永久留下，无法治愈。"
     },
     {
+        "id": "qstr_Lifetime_wounds:_{re",
         "text": "Lifetime_wounds:_{reg1}_so_far.",
-        "translation": "终生创伤：{reg1}程度"
+        "old_translation": "终生创伤：{reg1}处。",
+        "translation": "终生创伤：{reg1}处。"
     },
     {
+        "id": "qstr_Current_party_size_l",
         "text": "Current_party_size_limit:_{reg0}.^^Renown:_{reg34}^Combined_leadership:_{s2}{reg32}^Charisma:_{s3}{reg33}^Fiefs:_{s6}{reg35}^Ships_(only_in_sea):_{s7}{reg2}^^{playername}_can_completely_manage_{reg36}_troops.^{reg59?She:He}_currently_has_{reg37}.",
-        "translation": "当前的部队上限为{reg0}：^^因基础人数：{s5}{reg31}^因玩家统御：{s2}{reg32}^因玩家魅力：{s3}{reg33}^因玩家声望：{s4}{reg34}^总计：{reg0}"
+        "old_translation": "当前部队上限：{reg0}。^^声望：{reg34}^综合统御：{s2}{reg32}^魅力：{s3}{reg33}^领地：{s6}{reg35}^船只（仅海上）：{s7}{reg2}^^{playername}可完全统领{reg36}名士兵。{reg59?她:他}现有{reg37}名。",
+        "translation": "当前部队上限：{reg0}。^^声望：{reg34}^综合统御：{s2}{reg32}^魅力：{s3}{reg33}^领地：{s6}{reg35}^船只（仅海上）：{s7}{reg2}^^{playername}可完全统领{reg36}名士兵。{reg59?她:他}现有{reg37}名。"
     },
     {
+        "id": "qstr_^Religious_Differenc",
         "text": "^Religious_Differences:__-{reg7}",
-        "translation": "^宗教差异:-{reg7}"
+        "old_translation": "^宗教差异：-{reg7}",
+        "translation": "^宗教差异：-{reg7}"
     },
     {
+        "id": "qstr_^No_food:___{reg7}",
         "text": "^No_food:__-{reg7}",
+        "old_translation": "^没有食物：-{reg7}",
         "translation": "^没有食物：-{reg7}"
     },
     {
+        "id": "qstr_^Wage_debt:___{reg7}",
         "text": "^Wage_debt:__-{reg7}",
-        "translation": "^欠下工资：-{reg7}"
+        "old_translation": "^欠薪：-{reg7}",
+        "translation": "^欠薪：-{reg7}"
     },
     {
+        "id": "qstr_Currently_falling_fr",
         "text": "Currently_falling_from:_+",
-        "translation": "从目前下降：+"
+        "old_translation": "当前下降：+",
+        "translation": "当前下降：+"
     },
     {
+        "id": "qstr_Currently_rising_fro",
         "text": "Currently_rising_from:_",
-        "translation": "从目前上升："
+        "old_translation": "当前上升：",
+        "translation": "当前上升："
     },
     {
+        "id": "qstr_{s11}{s10}{s12}",
         "text": "{s11}{s10}{s12}",
+        "old_translation": "{s11}{s10}{s12}",
         "translation": "{s11}{s10}{s12}"
     },
     {
+        "id": "qstr_^^These_pagan_troops",
         "text": "^^These_pagan_troops_cause_trouble:_{s11}",
-        "translation": "^^这些多神教士兵会导致一些士气问题：{s11}"
+        "old_translation": "^^这些多神教士兵惹事：{s11}",
+        "translation": "^^这些多神教士兵惹事：{s11}"
     },
     {
+        "id": "qstr_^^These_Christian_tr",
         "text": "^^These_Christian_troops_cause_trouble:_{s11}",
-        "translation": "^^这些基督士兵会导致一些士气问题：{s11}"
+        "old_translation": "^^这些基督教士兵惹事：{s11}",
+        "translation": "^^这些基督教士兵惹事：{s11}"
     },
     {
+        "id": "qstr_^^Player_currently_h",
         "text": "^^Player_currently_has_more_troops_than_can_be_completely_managed.",
-        "translation": "^^玩家目前可以管理更多的部队。"
+        "old_translation": "^^玩家现有兵力超出完全掌控范围。",
+        "translation": "^^玩家现有兵力超出完全掌控范围。"
     },
     {
+        "id": "qstr_Current_party_morale",
         "text": "Current_party_morale:_{reg5}.^^Base_morale:__+{reg8}^Party_size_penalty:_{s2}{reg1}{s14}^Lack_of_rest:_{s3}{reg2}^Food_variety:_{s4}{reg3}{s5}{s6}^{s7}{reg4}_{s8}{s13}^^{s19}",
-        "translation": "当前部队士气是：{reg5}。^^基础士气：+{reg8}^部队规模的难控性：{s2}{reg1}^缺乏休息：{s3}{reg2}^食物种类：{s4}{reg3}{s5}{s6}{s7}{reg4}{s8}{s13}^^{s19}"
+        "old_translation": "当前部队士气：{reg5}。^^基础士气：+{reg8}^部队规模惩罚：{s2}{reg1}{s14}^缺乏休息：{s3}{reg2}^食物多样性：{s4}{reg3}{s5}{s6}^{s7}{reg4}{s8}{s13}^^{s19}",
+        "translation": "当前部队士气：{reg5}。^^基础士气：+{reg8}^部队规模惩罚：{s2}{reg1}{s14}^缺乏休息：{s3}{reg2}^食物多样性：{s4}{reg3}{s5}{s6}^{s7}{reg4}{s8}{s13}^^{s19}"
     },
     {
+        "id": "qstr_{s18}^^_____________",
         "text": "{s18}^^----------------^^{s20}",
+        "old_translation": "{s18}^^----------------^^{s20}",
         "translation": "{s18}^^----------------^^{s20}"
     },
     {
+        "id": "qstr_{s17}_^_{s18}",
         "text": "{s17}_^_{s18}",
+        "old_translation": "{s17}^{s18}",
         "translation": "{s17}^{s18}"
     },
     {
+        "id": "qstr_{s15}_^_{s16}",
         "text": "{s15}_^_{s16}",
+        "old_translation": "{s15}^{s16}",
         "translation": "{s15}^{s16}"
     },
     {
+        "id": "qstr_{s22}^^Friends:_^{s8",
         "text": "{s22}^^Friends:_^{s8}_^^Enemies:_^{s6}^{s19}",
+        "old_translation": "{s22}^^朋友：^{s8}^^仇人：^{s6}^{s19}",
         "translation": "{s22}^^朋友：^{s8}^^仇人：^{s6}^{s19}"
     },
     {
+        "id": "qstr_^^Your_estates_are:_",
         "text": "^^Your_estates_are:_^{s18}^{s19}",
+        "old_translation": "^^你的资产：^{s18}^{s19}",
         "translation": "^^你的资产：^{s18}^{s19}"
     },
     {
+        "id": "qstr_Mercenary_employed_b",
         "text": "Mercenary_employed_by_the_{s18}.^{s19}",
-        "translation": "受雇于{s18}的佣兵头子。^{s19}"
+        "old_translation": "受雇于{s18}的佣兵。^{s19}",
+        "translation": "受雇于{s18}的佣兵。^{s19}"
     },
     {
+        "id": "qstr_Report:_^^_{s19}",
         "text": "Report:_^^_{s19}",
+        "old_translation": "报告：^^{s19}",
         "translation": "报告：^^{s19}"
     },
     {
+        "id": "qstr_On_loan",
         "text": "On_loan,",
+        "old_translation": "暂借，",
         "translation": "暂借，"
     },
     {
+        "id": "qstr_is_{s16}_your_choice",
         "text": "is_{s16}_your_choice_of_companions,_{s17}_your_style_of_leadership,_and_{s18}_the_general_state_of_affairs._Morale_is_{reg0}",
-        "translation": "{s16}你选择的同伴，{s17}你领导的风格，{s18}整体的情况。士气是{reg0}。"
+        "old_translation": "{s16}你选择的同伴，{s17}你领导的风格，{s18}整体的情况。士气是{reg0}。",
+        "translation": "{s16}你选择的同伴，{s17}你领导的风格，{s18}整体的情况。士气是{reg0}"
     },
     {
+        "id": "qstr_Companions_Info:^^_{",
         "text": "Companions_Info:^^_{s19}_^^-----------^^_Currently:^^_{s7}{s1}",
+        "old_translation": "同伴信息：^^{s19}^^-----------^^目前状态：^^{s7}{s1}",
         "translation": "同伴信息：^^{s19}^^-----------^^目前状态：^^{s7}{s1}"
     },
     {
+        "id": "qstr_Loyal",
         "text": "Loyal",
-        "translation": "忠诚的"
+        "old_translation": "为你欢呼",
+        "translation": "为你欢呼"
     },
     {
+        "id": "qstr_Devoted",
         "text": "Devoted",
-        "translation": "忠实的"
+        "old_translation": "对你忠心耿耿",
+        "translation": "对你忠心耿耿"
     },
     {
+        "id": "qstr_Fond",
         "text": "Fond",
-        "translation": "喜欢的"
+        "old_translation": "非常尊敬你",
+        "translation": "非常尊敬你"
     },
     {
+        "id": "qstr_Gracious",
         "text": "Gracious",
-        "translation": "亲切的"
+        "old_translation": "非常支持你",
+        "translation": "非常支持你"
     },
     {
+        "id": "qstr_Friendly",
         "text": "Friendly",
-        "translation": "友好的"
+        "old_translation": "对你交口称赞的",
+        "translation": "对你交口称赞的"
     },
     {
+        "id": "qstr_Supportive",
         "text": "Supportive",
-        "translation": "支援的"
+        "old_translation": "热切地望着你的",
+        "translation": "热切地望着你的"
     },
     {
+        "id": "qstr_Favorable",
         "text": "Favorable",
-        "translation": "赞同的"
+        "old_translation": "亲切地看着你的",
+        "translation": "亲切地看着你的"
     },
     {
+        "id": "qstr_Cooperative",
         "text": "Cooperative",
-        "translation": "合作的"
+        "old_translation": "开始接受你的",
+        "translation": "开始接受你的"
     },
     {
+        "id": "qstr_Accepting",
         "text": "Accepting",
+        "old_translation": "信任的",
         "translation": "信任的"
     },
     {
+        "id": "qstr_Indifferent",
         "text": "Indifferent",
-        "translation": "冷淡的"
+        "old_translation": "面无表情的看着你的",
+        "translation": "面无表情的看着你的"
     },
     {
+        "id": "qstr_Suspicious",
         "text": "Suspicious",
-        "translation": "猜疑的"
+        "old_translation": "意味深长地看着你的",
+        "translation": "意味深长地看着你的"
     },
     {
+        "id": "qstr_Unhappy",
         "text": "Unhappy",
+        "old_translation": "不开心",
         "translation": "不开心"
     },
     {
+        "id": "qstr_Resentful",
         "text": "Resentful",
-        "translation": "怨恨的"
+        "old_translation": "开始厌恶你的",
+        "translation": "开始厌恶你的"
     },
     {
+        "id": "qstr_Angry",
         "text": "Angry",
-        "translation": "发怒的"
+        "old_translation": "非常讨厌你的",
+        "translation": "非常讨厌你的"
     },
     {
+        "id": "qstr_Hostile",
         "text": "Hostile",
-        "translation": "敌视"
+        "old_translation": "狠狠地盯着你的",
+        "translation": "狠狠地盯着你的"
     },
     {
+        "id": "qstr_Hateful",
         "text": "Hateful",
-        "translation": "憎恨的"
+        "old_translation": "充满敌意的",
+        "translation": "充满敌意的"
     },
     {
+        "id": "qstr_Vengeful",
         "text": "Vengeful",
-        "translation": "复仇的"
+        "old_translation": "势同水火的",
+        "translation": "势同水火的"
     },
     {
+        "id": "qstr_Sworn_Enmity",
         "text": "Sworn_Enmity",
-        "translation": "充满敌意"
+        "old_translation": "血誓之仇",
+        "translation": "血誓之仇"
     },
     {
+        "id": "qstr_Your_relations_with_",
         "text": "Your_relations_with_the_kingdoms_are:^^{s2}",
-        "translation": "你和王国的关系是:^^{s2}"
+        "old_translation": "你与诸王国的关系是：^^{s2}",
+        "translation": "你与诸王国的关系是：^^{s2}"
     },
     {
+        "id": "qstr_Build_your_personal_",
         "text": "Build_your_personal_refuge.",
-        "translation": "建立私人避难所。"
+        "old_translation": "建造你的私人避难所。",
+        "translation": "建造你的私人避难所。"
     },
     {
+        "id": "qstr_You_already_have_a_r",
         "text": "You_already_have_a_refuge_built._Destroy_your_current_refuge_if_you_want_to_move_it_here.",
-        "translation": "你已经有一个避难所了。如果想搬到这里你得先拆除之前的避难所。"
+        "old_translation": "你已拥有一座避难所。若想迁址，须先拆除现有避难所。",
+        "translation": "你已拥有一座避难所。若想迁址，须先拆除现有避难所。"
     },
     {
+        "id": "qstr_You_don_t_have_enough",
         "text": "You_don't_have_enough_money!_The_workers_who_would_build_a_refuge_for_you_demand_1000_peningas.",
-        "translation": "你没有足够的钱。你要付给工人一千先令的工钱来建造避难所。"
+        "old_translation": "钱不够！为你建造避难所的工人索要1000银便士。",
+        "translation": "钱不够！为你建造避难所的工人索要1000银便士。"
     },
     {
+        "id": "qstr_You_need_to_have_mor",
         "text": "You_need_to_have_more_than_thirty_men_to_start_this_job.",
-        "translation": "你至少需要30人来干这活。"
+        "old_translation": "要启动这项工程，你需拥有三十人以上。",
+        "translation": "要启动这项工程，你需拥有三十人以上。"
     },
     {
+        "id": "qstr_Your_men_await_your_",
         "text": "Your_men_await_your_orders_to_start_building_the_refuge._There_is_enough_material_collected_so_far,_and_what_may_be_missing_can_be_purchased_in_nearby_villages.^^Total_Cost:_1000_peningas.^Time_need:_6_hours.",
-        "translation": "你的人在等你下令建避难所。材料已经凑齐了，缺少的可以去附近的村庄购买。^^总花费：1000先令^所需时间：6小时"
+        "old_translation": "部下已待命筑寨。材料已备齐，若缺少许，可在附近村庄购得。^^总花费：1000银便士。^所需时间：6小时。",
+        "translation": "部下已待命筑寨。材料已备齐，若缺少许，可在附近村庄购得。^^总花费：1000银便士。^所需时间：6小时。"
     },
     {
+        "id": "qstr_{s2}^^_{s3}",
         "text": "{s2}^^_{s3}",
+        "old_translation": "{s2}^^{s3}",
         "translation": "{s2}^^{s3}"
     },
     {
+        "id": "qstr_You_are_in_the_kingd",
         "text": "You_are_in_the_kingdom_of_DANMARK.^^Danmark_is_an_important_Norse_state_in_the_Viking_Age._The_Danes_not_only_maintain_their_independence_against_the_powerful_Frankish_empire_but_also_attack_and_plunder_towns,_churches_and_monasteries_throughout_Western_Europe._Danish_Vikings_are_excellent_merchants_who_trade_with_most_of_their_known_world._A_strong_central_authority_has_been_established_in_Jutland,_and_the_Danes_now_look_beyond_their_own_territory_for_land,_trade_and_plunder._While_the_men_are_out_at_sea,_the_women_manage_the_farms.",
-        "translation": "你正在丹麦王国。^^丹麦是维京时代最强大的北地国家。丹麦人不仅在强大的法兰克帝国压力下保持独立，还四处攻掠西欧的城镇和教会。丹麦维京人也是杰出的商人，他们在当时已知世界的大部分地区都有贸易往来。当一个强大的中央集权国家在日德兰半岛建立后，丹麦人开始将眼光转向国外，开始了武力扩张和对外贸易。当男人们出海时，农事就交给女人们打点。"
+        "old_translation": "你身处丹麦王国。^^丹麦是维京时代举足轻重的诺斯国家。丹麦人不仅顶住强大法兰克帝国的压力保持独立，还四处攻掠西欧的城镇、教堂与修道院。丹麦维京人更是出色商人，与当时已知世界的大部分区域通商。日德兰半岛已建立起强有力的中央政权，丹麦人如今把目光投向境外，寻求土地、贸易与战利品。男人出海时，女人便操持农庄。",
+        "translation": "你身处丹麦王国。^^丹麦是维京时代举足轻重的诺斯国家。丹麦人不仅顶住强大法兰克帝国的压力保持独立，还四处攻掠西欧的城镇、教堂与修道院。丹麦维京人更是出色商人，与当时已知世界的大部分区域通商。日德兰半岛已建立起强有力的中央政权，丹麦人如今把目光投向境外，寻求土地、贸易与战利品。男人出海时，女人便操持农庄。"
     },
     {
+        "id": "qstr_You_are_in_the_kingdo",
         "text": "You_are_in_the_kingdom_of_NORTHVEGR.^^In_Northvegr,_mountainous_terrain_and_fjords_form_strong_natural_boundaries._Communities_remain_independent_of_each_other,_and_thirty_small_kingdoms_exist_in_this_land._The_most_powerful_leaders_of_the_petty_kingdoms_have_entered_a_major_power_struggle._The_sea_is_the_easiest_way_to_communicate_between_the_Norwegian_kingdoms_and_the_outside_world,_and_the_people_have_become_traders_and_explorers_as_well_as_plunderers._The_lack_of_suitable_farming_land_forces_Norwegians_to_colonize_the_sparsely_populated_islands_to_the_west._Norwegians_carried_out_the_early_Viking_raids_on_Britain_and_Ireland,_but_later_the_Danes_joined_in.",
-        "translation": "你正在诺维格王国。^^在诺维格王国，绵延的山脉和峡湾组成了难以逾越的自然屏障，村社之间相互独立，与此同时，这个国家内还有三十个小王国。这些小王国里头势力最大的头领们正在进行一场权力的角逐。海路是诺维格王国和外部世界联络的最便捷途径，这里大部分人都是商人、探险家，也有掠夺者。由于缺乏适合耕种的土地，挪威人只得跋涉至人口稀疏的北海诸岛开拓殖民地。在早期，挪威人主导着维京对不列颠的劫掠，但之后丹麦人也加入其中。"
+        "old_translation": "你身处挪威王国。^^在挪威，崇山峻岭与峡湾构成天然屏障。各社区彼此独立，此地并存三十个小王国。势力最强的几位小国王正展开激烈权力角逐。海路是挪威诸国与外界沟通的最便捷途径，人们既是商人、探险家，也是掠夺者。可耕地稀少，迫使挪威人向西方人烟稀少的岛屿殖民。早期对不列颠与爱尔兰的维京劫掠由挪威人发起，随后丹麦人也加入其中。",
+        "translation": "你身处挪威王国。^^在挪威，崇山峻岭与峡湾构成天然屏障。各社区彼此独立，此地并存三十个小王国。势力最强的几位小国王正展开激烈权力角逐。海路是挪威诸国与外界沟通的最便捷途径，人们既是商人、探险家，也是掠夺者。可耕地稀少，迫使挪威人向西方人烟稀少的岛屿殖民。早期对不列颠与爱尔兰的维京劫掠由挪威人发起，随后丹麦人也加入其中。"
     },
     {
+        "id": "qstr_You_are_in_the_kingdom",
         "text": "You_are_in_the_kingdom_of_LAITHLIND.^^Laithlind_is_the_Norse-dominated_part_of_Scotland_and_the_Northern_Islands,_conquered_by_the_Vikings_three_decades_ago._This_kingdom_has_become_an_operating_base_for_Norwegian_expansion_in_the_British_Isles._On_the_other_hand,_internal_strife_between_the_various_strongmen_is_common.",
-        "translation": "你正在雷弗莱王国。^^雷弗莱是苏格兰和北方群岛中被挪威人控制的部分--几十年前被维京人征服的。雷弗莱人时常攻击奥尔本的皮克特人，因此这个王国也成为了挪威人在不列颠群岛扩张的前进基地。另一方面，围绕王位继承权而发生的宫廷惨剧也屡见不鲜。"
+        "old_translation": "你身处莱斯林王国。^^莱斯林是苏格兰及北方群岛中由诺斯人主导的区域，三十年前被维京人征服。该王国已成为挪威在不列颠群岛扩张的作战基地。另一方面，各地豪强间的内斗亦屡见不鲜。",
+        "translation": "你身处莱斯林王国。^^莱斯林是苏格兰及北方群岛中由诺斯人主导的区域，三十年前被维京人征服。该王国已成为挪威在不列颠群岛扩张的作战基地。另一方面，各地豪强间的内斗亦屡见不鲜。"
     },
     {
+        "id": "qstr_You_are_in_the_kingdom_",
         "text": "You_are_in_the_kingdom_of_FRIESE.^^Friese_is_region_along_the_southeastern_coast_of_the_North_Sea,_the_homeland_of_the_Frisians,_a_people_closely_related_to_the_Anglo-Saxons_by_language._The_Frisian_realm_is_an_important_trading_region_that_extends_from_the_north_of_Frankia_to_the_border_of_Denmark._The_Frisians_lost_their_independence_first_to_the_Franks,_but_now_their_country_is_under_the_rule_of_the_Danish.",
-        "translation": "你正在弗里斯王国。^^弗里斯是北海东南海岸的一片区域，是在语言上跟盎格鲁撒克逊人有紧密联系的弗里斯人的家园。弗里斯的政权中心处于杜里斯特，是法兰克北部延伸到丹麦边界的一个重要贸易地区。弗里斯在很久前被法兰克人击败而失去独立，现在又被丹麦人统治着。"
+        "old_translation": "你身处弗里西王国。^^弗里西位于北海东南沿岸，是弗里西人的家园，其语言与盎格鲁-撒克逊人极为相近。弗里西疆域自法兰克北部延伸至丹麦边界，是一处重要商贸区域。弗里西人先被法兰克人夺去独立，如今又处于丹麦人统治之下。",
+        "translation": "你身处弗里西王国。^^弗里西位于北海东南沿岸，是弗里西人的家园，其语言与盎格鲁-撒克逊人极为相近。弗里西疆域自法兰克北部延伸至丹麦边界，是一处重要商贸区域。弗里西人先被法兰克人夺去独立，如今又处于丹麦人统治之下。"
     },
     {
+        "id": "qstr_You_are_in_the_kingdom_o",
         "text": "You_are_in_the_kingdom_of_WEST_SEAXE.^^West_Seaxe_is_the_westernmost_kingdom_of_Saxons_in_Britain._Some_decades_ago,_King_Egbert_conquered_Mierce_and_secured_his_overlordship_over_the_king_of_Northhymbre._He_thereby_became_the_Brytenwalda,_or_high_king_of_Britain._This_position_of_dominance_was_short-lived,_but_the_expansion_of_West_Seaxe_across_south_England_proved_permanent._Egbert's_later_years_saw_the_beginning_of_the_Viking_raids_on_West_Seaxe._The_Danes_were_decisively_crushed_by_Egbert's_son_and_successor,_King_Aethelwulf,_in_the_Battle_of_Aclea._This_victory_postponed_Danish_conquests_in_England_for_fifteen_years,_but_raids_on_West_Seaxe_continued._Aethelwulf_was_succeeded_by_each_of_his_four_surviving_sons,_ruling_one_after_another:_Aethelbald,_Aethelbert,_Aethelred,_the_current_king,_and_Aelfred,_currently_sub-king.",
-        "translation": "你正在西撒克逊王国。^^西撒克逊王国是不列颠南部的西撒克逊人的王国。几十年前，艾伯特国王征服了麦西亚，从诺森布里亚国王那儿夺取了霸主地位。因此他成为了不列颠统治者，或者说是不列颠的霸主，但是这个优势地位并不长久，尽管西撒克逊在英格兰东南部的扩张证明了它的作用。艾伯特晚年见到了维京人在西撒克逊劫掠的开始。然后，艾伯特的继承者，他的儿子，艾弗沃宁国王在亚里阿之战将丹麦人干脆利落地击败。这场胜利让丹麦人在英格兰的征服推迟了15年，但是对西撒克逊的劫掠却继续着。艾弗沃宁之后，由他健在的四个儿子继承，一个接着一个进行统治，他们分别是：艾弗巴德，厄夫伯特，阿尔弗雷德，最后是伟大的艾弗德。"
+        "old_translation": "你身处西撒克逊王国。^^西撒克逊是不列颠最西端的撒克逊王国。几十年前，艾格伯特国王征服麦西亚，并迫使诺森布里亚国王臣服，遂成“不列颠共主”。然其霸权转瞬即逝，西撒克逊在南英格兰的扩张却得以长久。艾格伯特晚年，维京人开始袭扰西撒克逊；其子艾特伍尔夫在阿克莱亚之战大破丹麦人，使丹麦对英格兰的征服推迟十五年，但袭扰仍持续。艾特伍尔夫之后，其四位尚存之子依次继位：艾特博尔德、艾特伯特、现任国王埃塞尔雷德，以及现任副王阿尔弗雷德。",
+        "translation": "你身处西撒克逊王国。^^西撒克逊是不列颠最西端的撒克逊王国。几十年前，艾格伯特国王征服麦西亚，并迫使诺森布里亚国王臣服，遂成“不列颠共主”。然其霸权转瞬即逝，西撒克逊在南英格兰的扩张却得以长久。艾格伯特晚年，维京人开始袭扰西撒克逊；其子艾特伍尔夫在阿克莱亚之战大破丹麦人，使丹麦对英格兰的征服推迟十五年，但袭扰仍持续。艾特伍尔夫之后，其四位尚存之子依次继位：艾特博尔德、艾特伯特、现任国王埃塞尔雷德，以及现任副王阿尔弗雷德。"
     },
     {
+        "id": "qstr_You_are_in_the_kingdom_of",
         "text": "You_are_in_the_kingdom_of_EAST_ENGLE.^^The_Kingdom_of_East_Engle_is_a_small_independent_kingdom_in_the_eastern_extremity_of_Britain,_settled_by_the_Angles_earlier_than_many_other_British_regions._It_was_ruled_by_the_Wuffingas_dynasty_but_was_conquered_by_Mierce._The_Vikings_ravaged_East_Engle,_but_in_later_years,_the_Saxons_defeated_them_in_two_great_battles._There_then_followed_a_relatively_peaceful_period_in_which_the_Vikings_attacked_only_once._However,_the_Danes_eventually_stopped_raiding_and_showed_up_in_force.",
-        "translation": "你正在东盎格里亚王国。^^东盎格里亚王国是不列颠最东边的一个盎格鲁人的独立小王国，不像许多其它不列颠的地区一样，盎格鲁-撒克逊人更早时候就在这里定居了。这里先前是沃夫加斯王朝统治，后来落到了麦西亚手里。维京人劫掠了东盎格鲁，但是之后一年撒克逊人在两场大战中守护住了这里。在此之后是一段长久的和平时期，此间维京人只进攻过一次。最后丹麦人不再劫掠东盎格鲁了，并永久定居在了这里。"
+        "old_translation": "你身处东盎格利亚王国。^^东盎格利亚位于不列颠最东端，是盎格鲁人建立的独立小王国，盎格鲁人定居于此早于不列颠多数地区。该地原由伍芬加斯王朝统治，后被麦西亚征服。维京人曾蹂躏东盎格利亚，但随后撒克逊人在两场大战中击败他们，迎来相对和平时期，其间维京人仅再度进攻一次。最终丹麦人停止劫掠，转而大举定居。",
+        "translation": "你身处东盎格利亚王国。^^东盎格利亚位于不列颠最东端，是盎格鲁人建立的独立小王国，盎格鲁人定居于此早于不列颠多数地区。该地原由伍芬加斯王朝统治，后被麦西亚征服。维京人曾蹂躏东盎格利亚，但随后撒克逊人在两场大战中击败他们，迎来相对和平时期，其间维京人仅再度进攻一次。最终丹麦人停止劫掠，转而大举定居。"
     },
     {
+        "id": "qstr_You_are_in_the_kingdom_of_",
         "text": "You_are_in_the_kingdom_of_MIERCE.^^Mierce_is_one_of_the_most_powerful_kingdoms_of_the_Anglo-Saxons,_centered_on_the_river_Trent_and_its_tributaries._It_was_originally_composed_the_border_areas,_called_Midlands,_that_lay_between_the_districts_of_Anglo-Saxon_settlement_and_the_Celtic_tribes_they_had_driven_to_the_west._From_the_kingdom's_capital_of_Tomtun,_the_Mercians_dominated_the_Anglo-Saxon_realms_for_three_centuries,_having_annexed_or_gained_submissions_from_five_of_the_other_six_Anglo-Saxon_kingdoms._That_period_is_known_as_the_Mercian_Supremacy._However,_the_conquest_of_Northhymbre_by_the_Great_Heathen_Army_has_put_Mercian_dominance_into_question.",
-        "translation": "你正在麦西亚王国。^^麦西亚是盎格鲁-撒克逊人所建立最强大的王国之一，处在特伦特河和其支流的河谷中间。它原来的边界是英格兰中部地区，那里散布着盎格鲁-撒克逊人的定居点，后来凯尔特人部落把他们驱逐到了西边。王国的首府是塔姆沃思，麦西亚的国王世代住在这里。300年来\t它兼并或是支配了其他五个盎格鲁-撒克逊王国，麦西亚统治下的盎格鲁-撒克逊王国在一段时间内被叫做麦西亚霸权。然而，在异教徒大军入侵后，一大片麦西亚领土被丹麦所掌控。"
+        "old_translation": "你身处麦西亚王国。^^麦西亚是盎格鲁-撒克逊诸王国中最强者之一，以特伦特河及其支流为中心。其疆域原为介于盎格鲁-撒克逊定居区与被驱往西方的凯尔特部族之间的边境地带，称“中部地区”。自王国首都托顿起，麦西亚三百年间雄霸盎格鲁-撒克逊诸国，兼并或使其他六国臣服，史称“麦西亚霸权”。然而，异教徒大军攻陷诺森布里亚，使麦西亚的支配地位岌岌可危。",
+        "translation": "你身处麦西亚王国。^^麦西亚是盎格鲁-撒克逊诸王国中最强者之一，以特伦特河及其支流为中心。其疆域原为介于盎格鲁-撒克逊定居区与被驱往西方的凯尔特部族之间的边境地带，称“中部地区”。自王国首都托顿起，麦西亚三百年间雄霸盎格鲁-撒克逊诸国，兼并或使其他六国臣服，史称“麦西亚霸权”。然而，异教徒大军攻陷诺森布里亚，使麦西亚的支配地位岌岌可危。"
     },
     {
+        "id": "qstr_You_are_in_the_kingdom_of_N",
         "text": "You_are_in_the_kingdom_of_NORTHHYMBRE.^^Northhymbre_is_the_northernmost_Anglo-Saxon_kingdom._It_extended_from_the_south_of_Alban_to_the_north_of_the_river_Humber._It_was_originally_composed_of_the_union_of_the_kingdoms_of_Bernaccia_and_Deira,_but_gradually_extended_north_and_west,_further_encroaching_on_Celtic_realms._The_brothers_Halfdan_Ragnarsson_and_Ivar_the_Boneless_have_conquered_Northhymbre_and_installed_an_Anglo-Saxon_nobleman,_Ecgberht,_as_a_puppet_king.",
-        "translation": "你正在诺森布里亚王国。^^诺森布里亚是北盎格鲁-撒克逊区域内的一个盎格里亚王国。他的疆域从南奥尔本延伸到北部坎伯河。它原先是伯尼西亚和迪拉王国的联合体，但之后合并了高多汀的领土北扩，并逐渐西扩，一直侵入了凯尔特人的领地。之后诺森布里亚在被哈弗丹·拉格纳逊和无骨者艾瓦征服这两兄弟征服后，他们拥立了一个盎格鲁-撒克逊人贵族艾哈伯特当傀儡国王，自此诺森布里亚成了丹麦的一部分。"
+        "old_translation": "你正在诺森布里亚王国。^^诺森布里亚是盎格鲁-撒克逊诸邦中最北端的王国，疆域自阿尔巴以南延伸至亨伯河以北。它最初由伯尼西亚与迪拉两国合并而成，随后不断向北、向西扩张，蚕食凯尔特人的土地。如今，拉格纳之子哈夫丹与“无骨者”伊瓦尔已征服此地，并扶植盎格鲁-撒克逊贵族埃格伯特为傀儡国王。",
+        "translation": "你身处诺森布里亚王国。^^诺森布里亚是盎格鲁-撒克逊诸邦中最北端的王国，疆域自阿尔巴以南延伸至亨伯河以北。它最初由伯尼西亚与迪拉两国合并而成，随后不断向北、向西扩张，蚕食凯尔特人的土地。如今，拉格纳之子哈夫丹与“无骨者”伊瓦尔已征服此地，并扶植盎格鲁-撒克逊贵族埃格伯特为傀儡国王。"
     },
     {
+        "id": "qstr_You_are_in_the_kingdom_of_G",
         "text": "You_are_in_the_kingdom_of_GWYNEDD.^^The_Kingdom_of_Gwynedd_is_one_of_the_successor_states_that_emerged_during_the_fall_of_the_Roman_Empire_and_the_arrival_of_the_Saxons._Based_in_Northwest_Wales,_the_rulers_of_Gwynedd_were_acclaimed_as_'Kings_of_the_Britons'_before_losing_their_power_in_civil_wars_and_invasions._The_Britons_of_Gwynedd_remain_conscious_of_their_Romano-British_heritage,_and_their_kings_continue_to_link_their_rule_to_the_old_imperial_Roman_order_with_the_continued_adoption_of_Latin_and_Christianity._Roman_knowledge,_however,_is_mainly_lost,_and_the_Britons_of_Gwynedd_shift_towards_a_militaristic_tribal_society._The_kingdom_has_been_expanding_due_to_the_efforts_of_Rhodri_the_Great.",
-        "translation": "你正在格温特王国。^^格温特王国是在罗马帝国消亡和撒克逊人来到不列颠之间出现的过渡国家之一。在内战和侵略中失去权力之前，以西北的威尔士为基础，格温特的统治者被誉为“布立吞之王”。格温特的威尔士人还保留着他们的罗马-不列颠遗产，他们的国王也试图把自己的政权和古罗马帝国联系起来，同时，使用拉丁文字进行书写，并保留基督教信仰。但是罗马人的知识大多流失了，格温特的布立吞人转向了一个军事部落社会。"
+        "old_translation": "你正在圭内斯王国。^^圭内斯王国是罗马帝国崩溃、撒克逊人到来之际诞生的不列颠后继国家之一，位于威尔士西北部。其君主曾被誉为“不列颠人之王”，却因内战与外侵而失势。圭内斯的布立吞人仍铭记罗马-不列颠遗产，王室继续以拉丁语与基督教维系与旧日帝国秩序的联系，然而罗马知识大多散佚，社会日益转向军事部落化。近年来，罗德力大王正推动王国扩张。",
+        "translation": "你身处圭内斯王国。^^圭内斯王国是罗马帝国崩溃、撒克逊人到来之际诞生的不列颠后继国家之一，位于威尔士西北部。其君主曾被誉为“不列颠人之王”，却因内战与外侵而失势。圭内斯的布立吞人仍铭记罗马-不列颠遗产，王室继续以拉丁语与基督教维系与旧日帝国秩序的联系，然而罗马知识大多散佚，社会日益转向军事部落化。近年来，罗德力大王正推动王国扩张。"
     },
     {
+        "id": "qstr_You_are_in_the_kingdom_of_B",
         "text": "You_are_in_the_kingdom_of_BRYCHEINIOG.^^Brycheiniog_is_a_small_independent_kingdom_in_South_Wales._It_often_acts_as_a_buffer_between_England_to_the_east_and_the_powerful_Briton_realms_to_the_west._The_kingdom_was_probably_founded_by_Irish_raiders,_very_likely_the_Ui_Liathain,_whose_power_had_grown_great_in_Wales_until_they_were_reduced_by_the_sons_of_Cunedda._Currently_the_kingdom_is_locked_in_a_feud_with_its_neighbor,_Glywyssing.",
-        "translation": "你正在拜卡灵王国。^^拜卡灵是南威尔士一个小的独立王国。它通常充当着东边英格兰和西边强大的威尔士王国缓冲的地带。拜卡灵王国可能是爱尔兰袭击者建立的，很可能就是乌·赖宁，其实力直到被库内达的后代削弱前，在威尔士都是个强权。"
+        "old_translation": "你正在布瑞赫尼奥格王国。^^布瑞赫尼奥格是南威尔士的小独立王国，常作英格兰与西部强大布立吞势力之间的缓冲。王国很可能由爱尔兰劫掠者——极可能是乌伊·利亚坦——建立，其势力在威尔士一度强盛，直至被库内达诸子削弱。如今，它与邻国格卢辛陷入宿怨。",
+        "translation": "你身处布瑞赫尼奥格王国。^^布瑞赫尼奥格是南威尔士的小独立王国，常作英格兰与西部强大布立吞势力之间的缓冲。王国很可能由爱尔兰劫掠者——极可能是乌伊·利亚坦——建立，其势力在威尔士一度强盛，直至被库内达诸子削弱。如今，它与邻国格卢辛陷入宿怨。"
     },
     {
+        "id": "qstr_You_are_in_the_kingdom_of_A",
         "text": "You_are_in_the_kingdom_of_ALT_CLUT.^^Alt_Clut_is_a_Briton_kingdom_located_northwest_of_the_Anglo-Saxon_realms_and_south_of_Alban,_along_the_banks_of_the_river_Clyde._It_emerged_after_the_fall_of_Roman_Empire_with_the_town_of_Alt_Clut_as_its_capital._With_its_high,_fortified_rock_(Alt),_Alt_Clut_resisted_one_attack_by_the_Dal_Riata_and_three_by_the_Picts._An_alliance_of_Picts_and_Northumbrians_finally_captured_Alt_Clut_after_a_siege_of_several_years._However,_18_years_ago_the_men_of_Alt_Clut_were_able_to_burn_the_Pictish_city_of_Dunblane.",
-        "translation": "你正在奥卡勒王国。^^奥卡勒位于盎格鲁-撒克逊势力的北边，奥尔本的南边，是一个布立吞王国。它诞生于罗马帝国灭亡之后，首府是奥卡勒镇。奥卡勒的布立吞人打败了达里安塔王国的部队，与此同时皮克特人对其三次攻击也均以失败告终。此后，皮克特人和诺森布里亚人缔结了联盟，围攻了奥卡勒，数年后城市陷落。不过，18年前奥卡勒的部队一度有过烧毁皮克特人城市邓布兰的机会。"
+        "old_translation": "你正在阿尔特·克卢特王国。^^阿尔特·克卢特是布立吞王国，位于盎格鲁-撒克逊诸邦西北、阿尔巴之南，克莱德河沿岸。罗马帝国灭亡后，以阿尔特·克卢特镇为都而兴起。凭借高耸设防的岩堡（阿尔特），它曾击退达尔里亚塔一次、皮克特人三次进攻。然而，皮克特人与诺森布里亚人结盟，经数年围攻终陷其都。十八年前，阿尔特·克卢特人焚毁了皮克特城市邓布兰。",
+        "translation": "你身处阿尔特·克卢特王国。^^阿尔特·克卢特是布立吞王国，位于盎格鲁-撒克逊诸邦西北、阿尔巴之南，克莱德河沿岸。罗马帝国灭亡后，以阿尔特·克卢特镇为都而兴起。凭借高耸设防的岩堡（阿尔特），它曾击退达尔里亚塔一次、皮克特人三次进攻。然而，皮克特人与诺森布里亚人结盟，经数年围攻终陷其都。十八年前，阿尔特·克卢特人焚毁了皮克特城市邓布兰。"
     },
     {
+        "id": "qstr_You_are_in_the_kingdom_of_C",
         "text": "You_are_in_the_kingdom_of_CORNUBIA.^^The_Kingdom_of_Cornubia_occupies_the_southeastern_peninsula_of_Great_Britain,_bordered_on_the_north_and_west_by_the_Celtic_Sea_and_on_the_south_by_the_English_Channel._Cornubia_was_the_home_of_the_Celtic_tribe_known_as_the_Cornovii,_whose_economy_was_based_on_tin_since_ancient_times._Separated_from_the_Britons_of_Wales_after_the_Battle_of_Deorham,_they_have_been_all_but_eclipsed_by_the_expanding_Saxon_kingdom_of_West_Seaxe._These_people_span_the_Channel,_and_they_take_refuge_on_the_continent.",
-        "translation": "你正在康比亚王国。^^康比亚王国坐落在大不列颠东南部半岛上，北部和南部被凯尔特海环绕，南部是英吉利海峡。康比亚是凯尔特部落的本部，也叫作克洛维，在德奥翰之战后从威尔士的布立吞人中分离出去，经常处于和扩张中的西撒克逊王国战争之中。布立吞语和布立吞文化很明显是受到往来海峡两岸进行贸易的布立吞人影响的，锡矿的开采对于康比亚经济很重要。"
+        "old_translation": "你正在康沃尔王国。^^康沃尔王国占据大不列颠东南半岛，北与西临凯尔特海，南接英吉利海峡。此地自古为凯尔特部落科尔诺维伊之家园，经济倚赖锡矿。自德奥勒姆之战与威尔士布立吞人分离后，几乎被扩张中的西撒克逊王国吞并。其民横渡海峡，在大陆寻求庇护。",
+        "translation": "你身处康沃尔王国。^^康沃尔王国占据大不列颠东南半岛，北与西临凯尔特海，南接英吉利海峡。此地自古为凯尔特部落科尔诺维伊之家园，经济倚赖锡矿。自德奥勒姆之战与威尔士布立吞人分离后，几乎被扩张中的西撒克逊王国吞并。其民横渡海峡，在大陆寻求庇护。"
     },
     {
+        "id": "qstr_You_are_in_the_kingdom_of_GL",
         "text": "You_are_in_the_kingdom_of_GLYWYSSING.^^The_small_Celtic_kingdom_of_Glywyssing_was_founded_out_of_a_western_chunk_of_the_former_Silures_by_Eugenius,_the_son_of_High_King_Magnus_Maximus._This_was_the_most_Romanised_part_of_Wales,_although_they_were_descended_from_the_Iron_Age_tribe_of_the_Silures._Glywyssing_is_said_to_be_named_after_Glywys,_a_legendary_early_monarch._Lately,_it_has_been_locked_in_a_bitter_feud_with_Brycheiniog.",
-        "translation": "你正在格莱永王国。^^这个小凯尔特王国格莱永是由至高王马格努斯·马克西姆的儿子欧格尼在前志留人西部的一大片区域基础上建立的。这是威尔士罗马化最彻底的地方，但是在铁器时代的部落志留人统治时衰落了。格莱永据说是以一个传奇色彩的早期君主格莱斯的名字命名的。"
+        "old_translation": "你正在格卢辛王国。^^凯尔特小邦格卢辛由至高王马格努斯·马克西穆斯之子尤金尼乌斯，在前志留人西部领土上建立。这是威尔士罗马化最深的地区，尽管其血脉可追溯至铁器时代的志留部落。格卢辛之名源于传说早期君主格卢威斯。近来，它与布瑞赫尼奥格陷入惨烈世仇。",
+        "translation": "你身处格卢辛王国。^^凯尔特小邦格卢辛由至高王马格努斯·马克西穆斯之子尤金尼乌斯，在前志留人西部领土上建立。这是威尔士罗马化最深的地区，尽管其血脉可追溯至铁器时代的志留部落。格卢辛之名源于传说早期君主格卢威斯。近来，它与布瑞赫尼奥格陷入惨烈世仇。"
     },
     {
+        "id": "qstr_You_are_in_the_kingdom_of_U",
         "text": "You_are_in_the_kingdom_of_ULADH.^^Uladh_is_the_kingdom_located_in_the_north_of_the_island,_the_homeland_of_the_Gaelic_Ulaid,_after_whom_the_kingdom_is_named,_and_the_Cruithne_tribes,_an_early_population_linked_with_the_Picts_of_northern_Britannia._The_Ui_Neill_dynasty,_descendants_of_Niall_of_the_Nine_Hostages,_are_absorbing_the_kingdom,_dominating_it_from_their_base_in_Tir_Eoghain.",
-        "translation": "你正在阿尔斯特王国。^^阿尔斯特是爱尔兰的盖尔人给他们在岛屿北方的王国取的名字，这是欧内达和克鲁特尼部落的故乡。九质尼尔的后代们的欧内尔王朝取代了阿尔斯特，并于他们在蒂龙郡的基地统治着阿尔斯特。"
+        "old_translation": "你正在乌拉德王国。^^乌拉德位于岛屿北部，是盖尔语乌拉德人及与北部不列颠皮克特人渊源甚早的克鲁伊特尼部落之故乡，王国因前者得名。九质王尼尔的后裔——乌伊·尼尔王朝——正从蒂龙郡的基地逐步吞并此国。",
+        "translation": "你身处乌拉德王国。^^乌拉德位于岛屿北部，是盖尔语乌拉德人及与北部不列颠皮克特人渊源甚早的克鲁伊特尼部落之故乡，王国因前者得名。九质王尼尔的后裔——乌伊·尼尔王朝——正从蒂龙郡的基地逐步吞并此国。"
     },
     {
+        "id": "qstr_You_are_in_the_kingdom_of_L",
         "text": "You_are_in_the_kingdom_of_LAIGIN.^^Situated_in_the_southeast_of_Ireland,_the_tribes_of_Laigin_were_united_by_Ugaine_Mor,_its_first_historical_king,_who_built_the_hill-fort_of_Dun_Ailinne._When_the_Roman_legions_left_Britain,_the_people_from_Laigin_settled_North_Wales._For_a_long_time,_the_rule_of_Laigin_was_disputed_by_two_dynasties,_the_Ui_Dunlainge_and_the_Ui_Cheinnselaig,_but_finally_the_first_one_got_the_control_of_the_crown._Nineteen_years_ago,_during_a_general_Norse_attack_on_the_British_Isles,_a_Norse_army_was_defeated_at_Sciath_Nechtain_by_Lorcan_mac_Cellaig_of_Laigin_and_Olchobar_mac_Cinaeda_of_Mumain._Nevertheless,_the_Vikings_have_created_several_colonies_on_the_coast.",
-        "translation": "你正在雷金王国。^^雷金历史上的第一位国王乌嘉·莫尔统一了雷金部落，并在阿莱尼丘的山丘堡垒建立了雷金，位于爱尔兰东部。罗马军团离开不列颠后，雷金的族人在北威尔士定居。很长一段时间来，两个王朝争夺着雷金的统治权，分别是欧·顿莱格和欧·切斯莱格，最终前者取得了王位。十九年前，雷金的洛卡·麦·赛莱格和穆梅殷的奥克巴·麦·辛奈德在西亚弗尼坦打败了一支挪威军队。"
+        "old_translation": "你正在拉因王国。^^拉因位于爱尔兰东南，其部落由首位历史国王乌盖因·莫尔统一，他在山丘堡垒杜恩·艾林筑城。罗马军团撤离不列颠后，拉因人曾定居北威尔士。长久以来，乌伊·顿莱格与乌伊·切因塞尔拉伊两朝争夺王位，最终前者胜出。十九年前，诺斯人大举进攻不列颠群岛，拉因的洛尔坎·麦·切莱格与穆恩的奥乔巴·麦·辛奈德在西亚斯·内赫坦击败诺斯军。然而，维京人仍在海岸建立多处殖民地。",
+        "translation": "你身处拉因王国。^^拉因位于爱尔兰东南，其部落由首位历史国王乌盖因·莫尔统一，他在山丘堡垒杜恩·艾林筑城。罗马军团撤离不列颠后，拉因人曾定居北威尔士。长久以来，乌伊·顿莱格与乌伊·切因塞尔拉伊两朝争夺王位，最终前者胜出。十九年前，诺斯人大举进攻不列颠群岛，拉因的洛尔坎·麦·切莱格与穆恩的奥乔巴·麦·辛奈德在西亚斯·内赫坦击败诺斯军。然而，维京人仍在海岸建立多处殖民地。"
     },
     {
+        "id": "qstr_You_are_in_the_kingdom_of_M",
         "text": "You_are_in_the_kingdom_of_MUMAIN.^^Situated_in_the_south_of_Ireland,_the_kingdom_of_Mumain_is_ruled_by_the_Eoganachta_dynasty._Nineteen_years_ago,_after_multiple_defeats_by_invading_Norsemen,_Olchobar_joined_forces_with_his_eastern_neighbour,_Lorcan_mac_Cellaig,_King_of_Laigin,_to_stop_them_at_Sciath_Nechtain._Among_the_dead_was_one_Tomrair,_jarl_of_the_king_of_Laithlind.",
-        "translation": "你正在穆梅殷王国。^^穆梅殷王国由伊奥甘纳达王朝统治，位于爱尔兰的南部。十九年前，在挪威人数次战败后，奥克巴加入了他东边的邻居、雷金国王洛卡·麦·赛莱格的作战行列，在西亚弗尼坦打败了一支维京大军。两百维京人战死，后者扩大了战果，其中手下败将有托梅尔，雷弗莱王国的一名雅尔。"
+        "old_translation": "你正在穆恩王国。^^穆恩位于爱尔兰南部，由伊奥甘纳赫塔王朝统治。十九年前，屡遭诺斯人入侵后，奥乔巴联合东邻拉因国王洛尔坎·麦·切莱格，于西亚斯·内赫坦阻击敌军。战死者中包括莱斯林国王的雅尔托姆莱尔。",
+        "translation": "你身处穆恩王国。^^穆恩位于爱尔兰南部，由伊奥甘纳赫塔王朝统治。十九年前，屡遭诺斯人入侵后，奥乔巴联合东邻拉因国王洛尔坎·麦·切莱格，于西亚斯·内赫坦阻击敌军。战死者中包括莱斯林国王的雅尔托姆莱尔。"
     },
     {
+        "id": "qstr_You_are_in_the_kingdom_of_CO",
         "text": "You_are_in_the_kingdom_of_CONNACHTA.^^Connachta_is_an_Irish_kingdom_situated_in_the_northwest_of_the_island._Conn_of_the_Hundred_Battles,_a_legendary_king_of_Ireland,_was_progenitor_of_the_later_ruling_Connachta_tribes_and_the_namesake_for_the_kingdom_of_Connacht._Some_centuries_later,_the_ancient_line_of_Connacht_kings_was_displaced_by_midland_rulers,_whose_centre_was_at_Tara._Two_members_of_this_Tara_dynasty,_Brion_and_Fiachra,_founded_clans,_the_Ui_Briuin_and_the_Ui_Fiachrach,_to_which_all_the_current_rulers_of_Connaught_belong._Conchobar_mac_Taidg_Mor_is_from_the_Ui_Briuin_branch._Currently,_the_Norse_seem_intent_on_settling_an_island_in_the_middle_of_the_river_Shannon.",
-        "translation": "你来到了卡内塔王国。^^卡内塔是一个位于岛屿西边的爱尔兰王国。爱尔兰传奇国王百战科恩是后来统治卡内塔部落以及同名王国的人的祖先。数个世纪后，卡内塔国王的古老血脉被英格兰中部以塔拉为中心的统治者取代了。塔拉王朝的两个成员布里昂和费察尔建立了欧·布里昂和欧·费察尔家族，所有的统治者都属于卡内塔。卡内塔的欧·布里昂分支的科查·巴尔·麦·泰德·莫尔现在是坎拉契特的国王。一队挪威劫掠队从卡内塔一路劫掠到利默里克，但他们被卡内塔人伏击并被击败了。"
+        "old_translation": "你正在康纳赫塔王国。^^康纳赫塔位于爱尔兰西北。百战康恩——爱尔兰传奇国王——是后来统治康纳赫塔诸部及同名王国的始祖。数世纪后，康纳赫塔古王血脉被以塔拉为中心的中部统治者取代。塔拉王朝的布里昂与菲亚赫克拉分别建立乌伊·布里因与乌伊·菲亚赫克拉氏族，当今康纳赫塔诸王皆出自这两支。康楚伯·麦·塔吉·莫即属乌伊·布里因支。如今，诺斯人似欲在香农河中的岛屿上定居。",
+        "translation": "你身处康纳赫塔王国。^^康纳赫塔位于爱尔兰西北。百战康恩——爱尔兰传奇国王——是后来统治康纳赫塔诸部及同名王国的始祖。数世纪后，康纳赫塔古王血脉被以塔拉为中心的中部统治者取代。塔拉王朝的布里昂与菲亚赫克拉分别建立乌伊·布里因与乌伊·菲亚赫克拉氏族，当今康纳赫塔诸王皆出自这两支。康楚伯·麦·塔吉·莫即属乌伊·布里因支。如今，诺斯人似欲在香农河中的岛屿上定居。"
     },
     {
+        "id": "qstr_You_are_in_the_terri",
         "text": "You_are_in_the_territory_of_the_Ui_Neill_of_AILEACH.^^Aileach_is_an_Irish_kingdom_in_far_northwestern_Ireland._The_kings_of_Ailech_belong_to_the_northern_Ui_Neill,_said_to_be_descended_from_Niall_of_the_Nine_Hostages._The_kingdom_takes_its_name_from_the_hill_fort_Grianan_of_Ailech._This_kingdom_broke_away_from_the_Kingdom_of_Uladh,_inhabited_and_under_the_sovereignty_of_the_Cenel_nEogain_tribe._Now_in_a_feud_with_Ui_Neill_to_the_south,_the_rulers_engage_in_a_'tradition'_of_alternating_the_crown_of_the_High_King_of_Ireland_between_them.",
-        "translation": "你正在欧莱克王国。^^欧莱克是一个在爱尔兰西北边角的爱尔兰王国。欧莱克的国王属于乌伊尼尔，其统治者据说是九质尼尔的后代，并且王国取名于一座山丘要塞欧莱克。这个王国是从阿尔斯特王国脱离开来的，与西内尔·恩奥基的族人住在一起并接受他们的统治。现在和南乌伊尼尔不和，"
+        "old_translation": "你正在艾利赫的乌伊·尼尔领地。^^艾利赫位于爱尔兰极西北，其王属北乌伊·尼尔，相传为九质王尼尔后裔，王国因山丘堡垒格里亚南·艾利赫得名。此地自乌拉德王国脱离，由基内尔·尼奥盖因部族居住并统治。现与南方乌伊·尼尔交恶，双方依“传统”轮流执掌爱尔兰至高王冠。",
+        "translation": "你正在艾利赫的乌伊·尼尔领地。^^艾利赫是爱尔兰极西北的王国，其王属北乌伊·尼尔，相传为九质王尼亚尔后裔，国名源自山丘堡垒格里亚南·艾利赫。该国脱离乌拉德王国，由基内尔·尼奥盖因部族居住并统治。如今与南方乌伊·尼尔交恶，双方依“传统”轮流执掌爱尔兰至高王冠。"
     },
     {
+        "id": "qstr_You_are_in_the_kingdom_of_MI",
         "text": "You_are_in_the_kingdom_of_MIDE.^^Mide_means_'middle,'_due_this_kingdom's_position_in_the_middle_of_Ireland._It_was_created_by_Tuathal_Teachtmhar_who,_having_subdued_the_rulers_of_the_four_kingdoms_of_Ireland,_created_his_own_realm_from_lands_around_the_Hill_of_Tara_that_he_annexed_from_them._Niall_of_the_Nine_Hostages_later_established_himself_as_king_of_Tara._For_six_centuries_afterward,_almost_without_interruption,_his_descendants_were_considered_the_high_kings_of_Ireland._His_son_Loegaire_succeeded_him_and_welcomed_St._Patrick_to_his_court._Niall's_sons_and_grandsons_have_continued_to_annex_parts_of_northern_Laigin_to_carve_out_the_sub-kingdoms_of_Mide_and_Brega_for_their_descendants._Currently,_the_Ui_Neill_of_Meath_have_an_arrangement_to_alternate_the_crown_of_High_King_with_their_cousins_from_Ailech,_even_as_they_continue_to_feud.",
-        "translation": "你正在迈德王国。^^迈德意为“中间”，因为这个王国在爱尔兰的中部。它是由妥法尔·提默哈建立的，他征服了其他王国，夺取了其他四个在塔拉山周围建立起来王国的土地，从而确立了自己的统治。九质尼尔把自己当做塔拉之王，六个世纪以来，他的子孙后代也几乎不受干扰的成为了爱尔兰的至高王。他的儿子尼奥盖尔继承了他的王位，并把圣帕特里克迎回了他的宫廷。尼尔的子子孙孙继续着征服北边雷金王国领土的事业，并分出了迈德和布雷加这两个子王国给他们的后代。"
+        "old_translation": "你正在米德王国。^^米德意为“中部”，因其位于爱尔兰中心。塔塔尔·泰赫特马尔征服爱尔兰四国君主后，从塔拉山周围夺取土地，建立此国。九质王尼尔随后自立为塔拉之王，其后裔几乎连续六百年被视为爱尔兰至高王。其子洛盖里继位，迎圣帕特里克入宫。尼尔子孙继续吞并拉因北部，为后代划出米德与布雷加两属国。如今，米德乌伊·尼尔与艾利赫堂亲约定轮流继承至高王位，却仍彼此争斗。",
+        "translation": "你正在米德王国。^^米德意为“中部”，因其位于爱尔兰中心。塔塔尔·泰赫特马尔征服爱尔兰四国君主后，从塔拉山周围夺取土地，建立此国。九质王尼亚尔随后自立为塔拉之王，其后裔几乎连续六百年被视为爱尔兰至高王。其子洛盖里继位，迎圣帕特里克入宫。尼尔子孙继续吞并拉因北部，为后代划出米德与布雷加两属国。如今，米德乌伊·尼尔与艾利赫堂亲约定轮流继承至高王位，却仍彼此争斗。"
     },
     {
+        "id": "qstr_You_are_in_the_kingdom_of_AL",
         "text": "You_are_in_the_kingdom_of_ALBAN.^^In_the_North_of_Britain,_Picts_and_Scots,_with_their_separate_languages,_had_been_traditional_enemies._However,_both_dynasties_were_nearly_destroyed_in_a_chance_three-way_battle_with_Vikings._Then_Kenneth_MacAlpin_of_the_Dal_Riata_unified_the_land_by_somehow_finishing_off_the_Pict_royal_house._However,_continued_Viking_pressure_forced_him_from_the_coasts_and_lowlands._He_placed_the_capital_of_his_new_kingdom_at_Forteviot,_in_old_Pictish_territory,_and_moved_his_religious_center_to_Dunkeld._There_he_transferred_the_remains_of_St._Columba_from_Iona.",
-        "translation": "你正在奥尔本王国。^^在大不列颠的北边，皮克特人和苏格兰人因为语言不同而为世敌。然而，达里安塔的国王肯尼思·麦克亚尔宾在战斗中击败皮克特人后索取其王位，在他的努力下，两族人获得了表明上的联合。他创建了以皮克特领土内的霍特维奥为首府的奥尔本王国，并把宗教中心移到了顿克德，并把圣高隆的遗物也从爱奥那转移到了这里。麦克亚尔宾面临着雷弗莱的维京人和诺森布里亚的盎格鲁人从所未有、日益增长的敌意。"
+        "old_translation": "你正在阿尔巴王国。^^不列颠北方，皮克特人与苏格兰人语言各异，世代为敌。然而，两国王室在与维京人的一场三方混战中几乎同归于尽。达尔里亚塔的肯尼思·麦克阿尔平趁机铲除皮克特王室，统一全境。持续维京压力迫使他放弃海岸与低地，将新都设在旧皮克特境的福蒂维奥特，并把宗教中心迁至邓凯尔德，将圣科伦巴遗骨从爱奥那迁来。",
+        "translation": "你正在阿尔巴王国。^^不列颠北方，皮克特人与苏格兰人语言各异，世代为敌。然而，两国王室在与维京人的一场三方混战中几乎同归于尽。达尔里亚塔的肯尼思·麦克阿尔平趁机铲除皮克特王室，统一全境。持续维京压力迫使他放弃海岸与低地，将新都设在旧皮克特境的福蒂维奥特，并把宗教中心迁至邓凯尔德，将圣科伦巴遗骨从爱奥那迁来。"
     },
     {
+        "id": "qstr_You_are_in_territory",
         "text": "You_are_in_territory_of_the_clan_of_OSRAIGE.^^Osraige_is_one_of_the_largest_clans_in_Ireland._It_was_the_easternmost_region_within_the_Kingdom_of_Mumain_until_Osraige_warlord,_Cerball_mac_Dunlainge,_adeptly_obtained_independence._Cerball_at_different_times_fought_and_allied_with_Waterford,_Dublin,_and_Aed_Findliath,_but_generally_remains_at_odds_with_the_neighboring,_larger_kingdoms_of_Mumain_and_Laigin.",
-        "translation": "你正在奥斯里家族领地。^^奥斯里是爱尔兰最大的家族。在它正式脱离前位于穆梅殷王国最东边，之后作为穆梅殷和雷金的缓冲地，然而他们从未争夺过爱尔兰的至高王王位。奥斯里领主赛博尔·麦·顿莱格打败了维京侵略者，之后他联合了奥拉夫和艾瓦对抗塞内尔王子，在伦斯特和芒斯特展开了战役。他也突袭了塞内尔王子在迈德的中心地带，但是战败了。"
+        "old_translation": "你正在奥索里家族领地。^^奥索里是爱尔兰最大的家族之一。原为穆恩王国最东境，因领主库努乌·麦·顿莱耶巧妙争取而独立。库努乌时而与沃特福德、都柏林及艾德·芬德莱为敌，时而结盟，但总体上与邻国穆恩及拉因龃龉不断。",
+        "translation": "你正在奥索里家族领地。^^奥索里是爱尔兰最大的家族之一。原为穆恩王国最东境，因领主库努乌·麦·顿莱耶巧妙争取而独立。库努乌时而与沃特福德、都柏林及艾德·芬德莱为敌，时而结盟，但总体上与邻国穆恩及拉因龃龉不断。"
     },
     {
+        "id": "qstr_Plain.",
         "text": "Plain.",
-        "translation": "平原"
+        "old_translation": "平原",
+        "translation": "平原。"
     },
     {
+        "id": "qstr_Snow.",
         "text": "Snow.",
-        "translation": "雪地"
+        "old_translation": "雪地",
+        "translation": "雪地。"
     },
     {
+        "id": "qstr_Forest.",
         "text": "Forest.",
-        "translation": "森林"
+        "old_translation": "森林",
+        "translation": "森林。"
     },
     {
+        "id": "qstr_Snow_Forest.",
         "text": "Snow_Forest.",
-        "translation": "雪地森林"
+        "old_translation": "雪地森林",
+        "translation": "雪地森林。"
     },
     {
+        "id": "qstr_Ocean.",
         "text": "Ocean.",
-        "translation": "海洋"
+        "old_translation": "海洋",
+        "translation": "海洋。"
     },
     {
+        "id": "qstr_Sea.",
         "text": "Sea.",
-        "translation": "近海"
+        "old_translation": "近海",
+        "translation": "近海。"
     },
     {
+        "id": "qstr_Standard_Bearer:_{re",
         "text": "Standard_Bearer:_{reg1}^Leadership_Bonus:_{reg2}_(max_3)",
-        "translation": "旗手：{reg1}^统御奖励：{reg2}(最大3)"
+        "old_translation": "旗手：{reg1}^统御奖励：{reg2}（最大3）",
+        "translation": "旗手：{reg1}^统御奖励：{reg2}（最大3）"
     },
     {
+        "id": "qstr_Musician:_{reg1}^Tac",
         "text": "Musician:_{reg1}^Tactics_Bonus:_{reg2}_(max_3)",
-        "translation": "乐手：{reg1}^战术奖励：{reg2}(最大3)"
+        "old_translation": "乐手：{reg1}^战术奖励：{reg2}（最大3）",
+        "translation": "乐手：{reg1}^战术奖励：{reg2}（最大3）"
     },
     {
+        "id": "qstr_Note:_You_re_close_t",
         "text": "Note:_You're_close_to_the_enemy_settlement,_forcing_you_to_exercise_caution.",
-        "translation": "笔记：你正在接近敌方势力范围，你不得不提高警惕。"
+        "old_translation": "注意：你正逼近敌方据点，必须谨慎行事。",
+        "translation": "注意：你正逼近敌方据点，必须谨慎行事。"
     },
     {
+        "id": "qstr_{s16}^^_____________",
         "text": "{s16}^^-------------------^^Camp_Info:^^^{s6}^^{s7}^^Terrain_around:_{s2}^^Scouts:_{s5}^^Foragers:_{s3}^^Fortified_camp_{s4}^^{s11}",
-        "translation": "{s16}^^-------------------^^部队信息：^^^{s6}^^{s7}^^周围地形：{s2}^^放哨：{s5}^^觅食：{s3}^^加固营地{s4}^^{s11}"
+        "old_translation": "{s16}^^-------------------^^营地信息：^^^{s6}^^{s7}^^周围地形：{s2}^^侦察：{s5}^^采集：{s3}^^加固营地{s4}^^{s11}",
+        "translation": "{s16}^^-------------------^^营地信息：^^^{s6}^^{s7}^^周围地形：{s2}^^侦察：{s5}^^采集：{s3}^^加固营地{s4}^^{s11}"
     },
     {
+        "id": "qstr_Camp_Info:^^^^Positi",
         "text": "Camp_Info:^^^^Position:_{s2}^^You're_sailing_on_your_boat.^^^^Ship_Management:^^If_you_are_next_to_a_coast,_you_can_search_for_the_closest_landing_point_with_a_right_click_on_your_party.",
-        "translation": "营地信息：^^^^地理位置：{s2}^^你正在驾船航行。^^^^船只管理：^^如果你在海岸边，可以右键点击你的部队来寻找最近的登陆地。"
+        "old_translation": "营地信息：^^^^位置：{s2}^^你正在船上航行。^^^^船只管理：^^若你靠近海岸，可右键点击部队寻找最近的登陆点。",
+        "translation": "营地信息：^^^^位置：{s2}^^你正在船上航行。^^^^船只管理：^^若你靠近海岸，可右键点击部队寻找最近的登陆点。"
     },
     {
+        "id": "qstr_Camp_Info:^^^^Positio",
         "text": "Camp_Info:^^^^Position:_{s2}^^You're_sailing_on_your_boat.^^^^Ship_Management:^^In_a_sea_battle,_you_can_give_a_'stand_ground'_or_'charge'_command_to_your_ships_by_giving_it_to_class_number_nine,_like_you_give_commands_to_a_troop_class_in_a_field_battle._The_first_troops_in_your_army_list_will_be_together_with_you_on_the_flagship._The_other_troops_will_be_in_the_following_ships._You_can_change_your_flagship_in_a_port_and_while_camping_on_the_sea._If_you_are_next_to_a_coast_you_can_also_split_your_fleet_while_camping_on_the_sea_or_search_for_the_closest_landing_point_with_a_right_click_on_your_party.",
-        "translation": "营地信息：^^^^地点：{s2}^^你正在驾船航行。^^^^船只管理：^^在海战中你可以通过把船只归类到第九单位来下达“站在原地”或是“冲锋”的指令，就像是在战场上给士兵单位下达指令一样。在你队伍列表中的前列兵种将会和你一起呆在旗舰，其他的会在跟随的船只中。你可以在港口或是海上抛锚的时候更改旗舰。如果你靠近一个海岸，你也可以在海上抛锚或是右键点击部队寻找最近登陆地的时候分离舰队。"
+        "old_translation": "营地信息：^^^^位置：{s2}^^你正在船上航行。^^^^船只管理：^^海战中，你可以像给战场上的兵种下令一样，把船只归为第九单位，从而发出“坚守”或“冲锋”指令。部队列表最前的士兵将与你同处旗舰，其余则分乘后续船只。你可以在港口或海上扎营时更换旗舰。若靠近海岸，你也可在海上扎营时拆分舰队，或右键点击部队寻找最近的登陆点。",
+        "translation": "营地信息：^^^^位置：{s2}^^你正在船上航行。^^^^船只管理：^^海战中，你可以像给战场兵种下令一样，把船只归为第九单位，从而发出“坚守”或“冲锋”指令。部队列表最前的士兵将与你同处旗舰，其余则分乘后续船只。你可以在港口或海上扎营时更换旗舰。若靠近海岸，你也可在海上扎营时拆分舰队，或右键点击部队寻找最近的登陆点。"
     },
     {
+        "id": "qstr_Priests_in_followers",
         "text": "Priests_in_followers'_party:_{reg1}^Surgery_Bonus:_{reg2}_(max_3)",
-        "translation": "部队里的祭司人数：{reg1}^手术奖励：{reg2}(最大3)"
+        "old_translation": "部队中的牧师：{reg1}^手术奖励：{reg2}（最大3）",
+        "translation": "部队中的牧师：{reg1}^手术奖励：{reg2}（最大3）"
     },
     {
+        "id": "qstr_Women_in_followers__",
         "text": "Women_in_followers'_party:_{reg1}^Wound_Treatment_Bonus:_{reg2}_(max_3)^^Note:_Every_10_women_(as_refugees,_camp_women,_soldiers'_wives_and_peasants)_will_give_+1_morale_each_72_hours._Maximum_+10_morale_points.",
-        "translation": "部队里的女性人数：{reg1}^疗伤奖励：{reg2}(最大3)^^注意：每10名女性成员（难民，扎营妇女，军嫂，农妇）会每3天增加1点士气。最高10点士气。"
+        "old_translation": "部队中的女性：{reg1}^疗伤奖励：{reg2}（最大3）^^注意：每10名女性（难民、随营妇女、军嫂、农妇）每72小时提升1点士气，最多提升10点。",
+        "translation": "部队中的女性：{reg1}^疗伤奖励：{reg2}（最大3）^^注意：每10名女性（难民、随营妇女、军嫂、农妇）每72小时提升1点士气，最多提升10点。"
     },
     {
+        "id": "qstr_^^^^Followers:^^{s2}",
         "text": "^^^^Followers:^^{s2}^^--------------^^{s3}",
+        "old_translation": "^^^^追随者：^^{s2}^^--------------^^{s3}",
         "translation": "^^^^追随者：^^{s2}^^--------------^^{s3}"
     },
     {
+        "id": "qstr_{s5}_has_been_defeat",
         "text": "{s5}_has_been_defeated!",
-        "translation": "{s5}被击败了！"
+        "old_translation": "{s5}已被击败！",
+        "translation": "{s5}已被击败！"
     },
     {
+        "id": "qstr_This_lord_is_a_priso",
         "text": "This_lord_is_a_prisoner_of_{s10}.^",
-        "translation": "这领主是{s10}的囚犯。"
+        "old_translation": "这位领主是{s10}的俘虏。^",
+        "translation": "这位领主是{s10}的俘虏。^"
     },
     {
+        "id": "qstr_Christian_Lord",
         "text": "Christian_Lord",
-        "translation": "基督教徒"
+        "old_translation": "基督教领主",
+        "translation": "基督教领主"
     },
     {
+        "id": "qstr_Pagan_Lord",
         "text": "Pagan_Lord",
-        "translation": "多神教徒"
+        "old_translation": "多神教领主",
+        "translation": "多神教领主"
     },
     {
+        "id": "qstr_{s37}__his_betrothed",
         "text": "{s37}_(his_betrothed)",
+        "old_translation": "{s37}（他的未婚妻）",
         "translation": "{s37}（他的未婚妻）"
     },
     {
+        "id": "qstr_{s40}._His_love_inte",
         "text": "{s40}._His_love_interests_are_reported_to_be_{s37}.",
-        "translation": "{s40}。他心仪的对象是{s37}。"
+        "old_translation": "{s40}。据传他心仪{s37}。",
+        "translation": "{s40}。据传他心仪{s37}。"
     },
     {
+        "id": "qstr_His_love_interests_a",
         "text": "His_love_interests_are_reported_to_be_{s37}.",
-        "translation": "他心仪的对象是{s37}。"
+        "old_translation": "据传他心仪{s37}。",
+        "translation": "据传他的爱慕对象是{s37}。"
     },
     {
+        "id": "qstr_{s40}._His_love_inter",
         "text": "{s40}._His_love_interest_is_reported_to_be_{s37}.",
-        "translation": "{s40}。他心仪的对象是{s37}。"
+        "old_translation": "{s40}。据传他心仪{s37}。",
+        "translation": "{s40}。据传他的爱慕对象是{s37}。"
     },
     {
+        "id": "qstr_His_love_interest_is",
         "text": "His_love_interest_is_reported_to_be_{s37}.",
-        "translation": "他心仪的对象是{s37}。"
+        "old_translation": "据传他心仪{s37}。",
+        "translation": "据传他的爱慕对象是{s37}。"
     },
     {
+        "id": "qstr_{s1}^{s4}^Kingdom:_{",
         "text": "{s1}^{s4}^Kingdom:_{s3}^Relation:_{reg4}^Centers:_{reg5}^{s5}{s47}",
-        "translation": "{s1}^{s4}^王国:{s3}^关系:{reg4}^领地:{reg5}^{s5}{s47}"
+        "old_translation": "{s1}^{s4}^王国：{s3}^关系：{reg4}^领地：{reg5}^{s5}{s47}",
+        "translation": "{s1}^{s4}^王国：{s3}^关系：{reg4}^领地：{reg5}^{s5}{s47}"
     },
     {
+        "id": "qstr_This_lord_is_a_prison",
         "text": "This_lord_is_a_prisoner_of_{s10}",
-        "translation": "这个领主是{s10}的囚犯。"
+        "old_translation": "这位领主是{s10}的俘虏。",
+        "translation": "这位领主是{s10}的俘虏。"
     },
     {
+        "id": "qstr_Army_size:_{reg26}",
         "text": "Army_size:_{reg26}",
+        "old_translation": "部队规模：{reg26}",
         "translation": "部队规模：{reg26}"
     },
     {
+        "id": "qstr_{s1}^^{s4}^Relation:",
         "text": "{s1}^^{s4}^Relation:_{reg4}^Centers:_{reg5}^{s5}^{s47}",
-        "translation": ""
+        "old_translation": "{s1}^^{s4}^关系：{reg4}^据点：{reg5}^{s5}^{s47}",
+        "translation": "{s1}^^{s4}^关系：{reg4}^据点：{reg5}^{s5}^{s47}"
     },
     {
+        "id": "qstr_{s1}^^{s2}_of_the_{s",
         "text": "{s1}^^{s2}_of_the_{s3}^Relation_{reg3}^Last_visit_{reg4}_days_ago",
-        "translation": "{s1}^^{s3}的{s2}^关系{reg3}^最近一次见面是{reg4}天前"
+        "old_translation": "{s1}^^{s3}的{s2}^关系{reg3}^上次见面{reg4}天前",
+        "translation": "{s1}^^{s3}的{s2}^关系{reg3}^上次见面{reg4}天前"
     },
     {
+        "id": "qstr_{reg2}_warriors_acco",
         "text": "{reg2}_warriors_accompany_the_king.",
-        "translation": "{reg2}名战士追随国王。"
+        "old_translation": "{reg2}名战士随侍国王。",
+        "translation": "{reg2}名战士随侍国王。"
     },
     {
+        "id": "qstr_{s2}^^{reg2}_warrior",
         "text": "{s2}^^{reg2}_warriors_serve_various_lords_of_the_kingdom.",
-        "translation": "{s2}^^{reg2}名战士为领主效力。"
+        "old_translation": "{s2}^^{reg2}名战士效忠王国诸领主。",
+        "translation": "{s2}^^{reg2}名战士效忠王国诸领主。"
     },
     {
+        "id": "qstr_{s2}^^{reg2}_warriors",
         "text": "{s2}^^{reg2}_warriors_garrison_our_towns.",
-        "translation": "{s2}^^{reg2}名战士驻扎在我们的城镇。"
+        "old_translation": "{s2}^^{reg2}名战士驻守城镇。",
+        "translation": "{s2}^^{reg2}名战士驻守城镇。"
     },
     {
+        "id": "qstr_{s2}^^{reg2}_warriors_",
         "text": "{s2}^^{reg2}_warriors_garrison_our_forts.",
-        "translation": "{s2}^^{reg2}名战士驻扎在我们的城堡。"
+        "old_translation": "{s2}^^{reg2}名战士驻守城堡。",
+        "translation": "{s2}^^{reg2}名战士驻守城堡。"
     },
     {
+        "id": "qstr_Kingdom_Armies_Repor",
         "text": "Kingdom_Armies_Report:^Land_levy_not_included^^^{s2}",
-        "translation": "王国军队报告：^不包括预备兵^^^{s2}"
+        "old_translation": "王国军队报告：^不含征召兵^^^{s2}",
+        "translation": "王国军队报告：^不含征召兵^^^{s2}"
     },
     {
+        "id": "qstr_{s10}Current_fleet:{",
         "text": "{s10}Current_fleet:{s0}^^",
+        "old_translation": "{s10}当前舰队：{s0}^^",
         "translation": "{s10}当前舰队：{s0}^^"
     },
     {
+        "id": "qstr_{s10}Refuge:{s0}^^",
         "text": "{s10}Refuge:{s0}^^",
+        "old_translation": "{s10}避难所：{s0}^^",
         "translation": "{s10}避难所：{s0}^^"
     },
     {
+        "id": "qstr_{s10}Port_of_{s9}:{s",
         "text": "{s10}Port_of_{s9}:{s0}^^",
-        "translation": "{s10}在{s9}的港口：{s0}^^"
+        "old_translation": "{s10}{s9}港：{s0}^^",
+        "translation": "{s10}{s9}港：{s0}^^"
     },
     {
+        "id": "qstr_{s10}Landed_ships_ne",
         "text": "{s10}Landed_ships_next_to_{s9}:{s0}^^",
-        "translation": "{s10}在{s9}停靠你的船：{s0}^^"
+        "old_translation": "{s10}在{s9}靠岸的船只：{s0}^^",
+        "translation": "{s10}在{s9}靠岸的船只：{s0}^^"
     },
     {
+        "id": "qstr_You_don_t_own_any_sh",
         "text": "You_don't_own_any_ships.",
-        "translation": "你并不拥有任何船。"
+        "old_translation": "你没有任何船只。",
+        "translation": "你没有任何船只。"
     },
     {
+        "id": "qstr_Your_ships_with_ship",
         "text": "Your_ships_with_ship_type,_name,_current_condition_and_type_of_wood:_^^{s10}",
-        "translation": "你的船的种类，名字，属性，和建造用的木料^^{s10}"
+        "old_translation": "你的船只——类型、名称、状态与木料：^^{s10}",
+        "translation": "你的船只——类型、名称、状态与木料：^^{s10}"
     },
     {
+        "id": "qstr_Rents_and_taxes_from",
         "text": "Rents_and_taxes_from_the_{reg59?queen:king}'s_holdings:_{reg0}_peningas.",
-        "translation": "{reg59?女王:国王}领地的地租和税收：{reg0}先令"
+        "old_translation": "{reg59?女王:国王}领地的租税：{reg0}银便士。",
+        "translation": "{reg59?女王:国王}领地的租税：{reg0}银便士。"
     },
     {
+        "id": "qstr_{s2}^Taxes_from_king",
         "text": "{s2}^Taxes_from_kingdom_lords:_{reg0}_peningas.",
-        "translation": "{s2}^来自王国领主的税收：{reg0}先令"
+        "old_translation": "{s2}^王国领主上缴的税：{reg0}银便士。",
+        "translation": "{s2}^王国领主上缴的税：{reg0}银便士。"
     },
     {
+        "id": "qstr_{s2}^^Kingdom_Total_",
         "text": "{s2}^^Kingdom_Total_Income:_{reg0}_peningas.",
-        "translation": "{s2}^^王国总收入：{reg0}先令"
+        "old_translation": "{s2}^^王国总收入：{reg0}银便士。",
+        "translation": "{s2}^^王国总收入：{reg0}银便士。"
     },
     {
+        "id": "qstr_Payroll_for_the_{reg",
         "text": "Payroll_for_the_{reg59?queen:king}'s_army:_{reg1}_peningas.",
-        "translation": "国王部队的工资：{reg1}先令"
+        "old_translation": "{reg59?女王:国王}军队的薪饷：{reg1}银便士。",
+        "translation": "{reg59?女王:国王}军队的薪饷：{reg1}银便士。"
     },
     {
+        "id": "qstr_{s3}^Payroll_for_gar",
         "text": "{s3}^Payroll_for_garrisons:_{reg1}_peningas.",
-        "translation": "{s3}^驻军的工资：{reg1}先令"
+        "old_translation": "{s3}^驻军薪饷：{reg1}银便士。",
+        "translation": "{s3}^驻军薪饷：{reg1}银便士。"
     },
     {
+        "id": "qstr_{s3}^^Kingdom_Total_",
         "text": "{s3}^^Kingdom_Total_Expenses:_{reg1}_peningas.",
-        "translation": "{s3}^^王国总支出：{reg1}先令"
+        "old_translation": "{s3}^^王国总支出：{reg1}银便士。",
+        "translation": "{s3}^^王国总支出：{reg1}银便士。"
     },
     {
+        "id": "qstr_Kingdom_Economy_Repo",
         "text": "Kingdom_Economy_Report:^^INCOME:^Tax_losses_are_variable^^{s2}^^^^EXPENSES:^These_values_could_vary_because_of_events_or_extraordinary_expenses.^^{s3}^^^^The_result_of_the_accounts_of_the_realm_is:_{reg0}_peningas",
-        "translation": "王国经济报告：^^收入：^税率是可变的^^{s2}^^^^支出：^由于事件或特殊费用，这些值会不同。^^{s3}^^^^最终统计结果为：{reg0}先令"
+        "old_translation": "王国经济报告：^^收入：^税收损失是可变的^^{s2}^^^^支出：^这些数值可能因事件或特殊支出而变化。^^{s3}^^^^王国账目结果为：{reg0}银便士",
+        "translation": "王国经济报告：^^收入：^税收损失是可变的^^{s2}^^^^支出：^这些数值可能因事件或特殊支出而变化。^^{s3}^^^^王国账目结果为：{reg0}银便士"
     },
     {
+        "id": "qstr_{s4}^^{s2}^Relation:",
         "text": "{s4}^^{s2}^Relation:_{s3}^Prosperity:_{s50}^Rents:_{reg0}^Tariffs:_{reg1}",
-        "translation": "{s4}^^{s2}^关系：{s3}^繁荣度：{s50}^地租：{reg0}"
+        "old_translation": "{s4}^^{s2}^关系：{s3}^繁荣度：{s50}^地租：{reg0}^关税：{reg1}",
+        "translation": "{s4}^^{s2}^关系：{s3}^繁荣度：{s50}^地租：{reg0}^关税：{reg1}"
     },
     {
+        "id": "qstr_{s5}^^{s2}^Relation:",
         "text": "{s5}^^{s2}^Relation:_{s3}^Prosperity:_{s50}^Rents:_{reg0}",
+        "old_translation": "{s5}^^{s2}^关系：{s3}^繁荣度：{s50}^地租：{reg0}",
         "translation": "{s5}^^{s2}^关系：{s3}^繁荣度：{s50}^地租：{reg0}"
     },
     {
+        "id": "qstr_{s2}^No_information.",
         "text": "{s2}^No_information._This_village_is_occupied_by_bandits.",
-        "translation": "{s2}^无信息：这村庄被土匪不法分子占领。"
+        "old_translation": "{s2}^无信息。此村庄被山贼占据。",
+        "translation": "{s2}^无信息。此村庄被山贼占据。"
     },
     {
+        "id": "qstr_{s6}^^{s2}",
         "text": "{s6}^^{s2}",
+        "old_translation": "{s6}^^{s2}",
         "translation": "{s6}^^{s2}"
     },
     {
+        "id": "qstr_{s6}^^{s2}^Relation:",
         "text": "{s6}^^{s2}^Relation:_{s3}^Prosperity:_{s50}^Rents:_{reg0}",
-        "translation": "{s6}^^{s2}^关系：{s3}^繁荣度：{s50}^地租：{reg0}^关税：{reg1}"
+        "old_translation": "{s6}^^{s2}^关系：{s3}^繁荣度：{s50}^地租：{reg0}",
+        "translation": "{s6}^^{s2}^关系：{s3}^繁荣度：{s50}^地租：{reg0}"
     },
     {
+        "id": "qstr_Kingdom_Centers_Repo",
         "text": "Kingdom_Centers_Report:^^^--Towns--_{s4}^^^^--Forts--_{s5}^^^^--Villages--{s6}^^",
-        "translation": "王国封地报告：^^^--城镇--{s4}^^^^--城堡--{s5}^^^^--村庄--{s6}^^"
+        "old_translation": "王国中心报告：^^^--城镇--{s4}^^^^--城堡--{s5}^^^^--村庄--{s6}^^",
+        "translation": "王国中心报告：^^^--城镇--{s4}^^^^--城堡--{s5}^^^^--村庄--{s6}^^"
     },
     {
+        "id": "qstr_Appoint_next_marshal",
         "text": "Appoint_next_marshal",
+        "old_translation": "任命下一任元帅",
         "translation": "任命下一任元帅"
     },
     {
+        "id": "qstr_Award_{s12}_as_fief",
         "text": "Award_{s12}_as_fief",
-        "translation": "把{s12}作为封地授予"
+        "old_translation": "将{s12}授予为封地",
+        "translation": "将{s12}授予为封地"
     },
     {
+        "id": "qstr_Political_issue:_{s1",
         "text": "Political_issue:_{s11}",
-        "translation": "政治议题:{s11}"
+        "old_translation": "政治议题：{s11}",
+        "translation": "政治议题：{s11}"
     },
     {
+        "id": "qstr_{s10}__on_agenda_{re",
         "text": "{s10}_(on_agenda_{reg4}_hours)",
-        "translation": "{s10}(议程{reg4}小时)"
+        "old_translation": "{s10}（议程{reg4}小时）",
+        "translation": "{s10}（议程{reg4}小时）"
     },
     {
+        "id": "qstr_Defending",
         "text": "Defending",
+        "old_translation": "防守",
         "translation": "防守"
     },
     {
+        "id": "qstr_Gathering_army",
         "text": "Gathering_army",
+        "old_translation": "集结军队",
         "translation": "集结军队"
     },
     {
+        "id": "qstr_Besieging_{s11}",
         "text": "Besieging_{s11}",
-        "translation": "包围{s11}"
+        "old_translation": "围攻{s11}",
+        "translation": "围攻{s11}"
     },
     {
+        "id": "qstr_Raiding_{s11}",
         "text": "Raiding_{s11}",
-        "translation": "突袭{s11}"
+        "old_translation": "劫掠{s11}",
+        "translation": "劫掠{s11}"
     },
     {
+        "id": "qstr_Attacking_enemies_ar",
         "text": "Attacking_enemies_around_{s11}",
+        "old_translation": "攻击{s11}周围的敌人",
         "translation": "攻击{s11}周围的敌人"
     },
     {
+        "id": "qstr_{s12}__controversy:_",
         "text": "{s12}_(controversy:_{reg21})",
-        "translation": "{s12}(争议:{reg21})"
+        "old_translation": "{s12}（争议：{reg21}）",
+        "translation": "{s12}（争议：{reg21}）"
     },
     {
+        "id": "qstr_{s12}^Screening_part",
         "text": "{s12}^Screening_party:_{s38}",
-        "translation": "{s12}^筛选方:{s38}"
+        "old_translation": "{s12}^掩护部队：{s38}",
+        "translation": "{s12}^掩护部队：{s38}"
     },
     {
+        "id": "qstr_Kingdom_Global_Info:",
         "text": "Kingdom_Global_Info:^^{s10}^^{s9}",
-        "translation": "王国总体报告：^^{s10}^^{s9}"
+        "old_translation": "王国全局信息：^^{s10}^^{s9}",
+        "translation": "王国全局信息：^^{s10}^^{s9}"
     },
     {
+        "id": "qstr_From_this_area_you_c",
         "text": "From_this_area,_you_can_give_the_following_kingdom_orders:",
-        "translation": "在这地方你可以发出以下王国指令："
+        "old_translation": "在此区域，你可发布以下王国指令：",
+        "translation": "在此区域，你可发布以下王国指令："
     },
     {
+        "id": "qstr_>_Order_the_army_to_",
         "text": ">_Order_the_army_to_gather.^^>_Order_all_resources_to_be_focused_on_the_defense_of_the_kingdom.^^>_Order_the_landed_levy_to_be_called_out._This_is_done_only_in_situations_of_common_peril_or_high_campaign,_as_the_levy_requires_all_free_and_most_capable_men_of_fighting_age_to_join.",
-        "translation": ">下令部队集合。^^>下令所有资源全用于国家防卫。^^>下令全民皆兵。只有在国家高度危机时才能发动，因为全民皆兵需要王国所有自由能干的成年男子加入战斗。"
+        "old_translation": ">下令部队集合。^^>下令所有资源集中用于王国防御。^^>下令征召全国自由民。此举只在共同危难或重大战役时才会动用，因为征召令要求所有自由且适龄的壮丁参战。",
+        "translation": ">下令部队集合。^^>下令所有资源集中用于王国防御。^^>下令征召全国自由民。此举只在共同危难或重大战役时才会动用，因为征召令要求所有自由且适龄的壮丁参战。"
     },
     {
+        "id": "qstr_>_Kingdom_Strategy",
         "text": ">_Kingdom_Strategy",
+        "old_translation": ">王国战略",
         "translation": ">王国战略"
     },
     {
+        "id": "qstr_You_have_given_the_o",
         "text": "You_have_given_the_order_that_all_the_household_armies_of_your_kingdom_lords_come_to_you.",
-        "translation": "你已下令让本国所有部队集合。"
+        "old_translation": "你已下令召集王国各领主的亲兵。",
+        "translation": "你已下令召集王国各领主的亲兵。"
     },
     {
+        "id": "qstr_You_have_given_the_or",
         "text": "You_have_given_the_order_to_make_every_effort_to_defend_the_kingdom.",
-        "translation": "你已下令以倾国之力保护王国。"
+        "old_translation": "你已下令倾举国之力保卫王国。",
+        "translation": "你已下令倾举国之力保卫王国。"
     },
     {
+        "id": "qstr_The_landed_levy_of_t",
         "text": "The_landed_levy_of_the_entire_kingdom_will_be_called_out._Practically_every_man_capable_of_fighting_will_join_you.",
-        "translation": "全民皆兵的命令已经发下去了：几乎所有能打仗的男人都加入到你的队伍里了。"
+        "old_translation": "全国自由民已被征召。几乎所有能战之人都将加入你的行列。",
+        "translation": "全国自由民已被征召。几乎所有能战之人都将加入你的行列。"
     },
     {
+        "id": "qstr_^^^^^^^^{s2}^^{s3}",
         "text": "^^^^^^^^{s2}^^{s3}",
+        "old_translation": "^^^^^^^^{s2}^^{s3}",
         "translation": "^^^^^^^^{s2}^^{s3}"
     },
     {
+        "id": "qstr_My_name_is_Beda_the_O",
         "text": "My_name_is_Beda_the_Old,_and_this_is_my_chronicle_of_what_happened_in_the_times_in_which_I_lived...",
-        "translation": "老夫的名字是贝达，这就是我记录下来的从前发生的事情……"
+        "old_translation": "老夫名唤贝达，以下是我所生活的时代之实录……",
+        "translation": "我名贝达，人称老贝达；以下是我所生活的时代之实录……"
     },
     {
+        "id": "qstr_They_weren_t_good_ti",
         "text": "They_weren't_good_times._In_Anno_Domini_861,_my_master,_Bishop_Swithunus,_died._Before_he_died,_he_told_me_that_the_end_of_time_was_coming.^^In_865,_a_pagan_army_attacked_Cent._Men_from_Cent_managed_to_placate_them,_but_under_the_pretence_of_peace_and_the_lure_of_money,_the_invaders_pillaged_the_country_nevertheless.^^Later_that_year,_in_East_Anglia,_a_large_pagan_army_made_winter_quarters._The_following_summer,_King_Eadmund,_eager_to_see_them_off,_quickly_horsed_them._This_was_no_raiding_party;_it_became_known_as_the_Great_Heathen_Army._Thousands_of_men,_led_by_the_sons_of_Ragnar,_had_come_to_stay.^^In_867,_the_end_of_time_started,_as_Swithunus_had_predicted._The_Great_Heathen_Army_of_Danes_went_over_the_mouth_of_the_river_Humbre_to_Eoferwic._They_captured_the_town,_and_there_was_an_immense_slaughter_of_the_Northumbrians._Both_kings,_Osbert_and_Aella,_were_slain._So_now_the_Danish_rule_the_north,_imposing_their_laws_and_pagan_ways..._Where_is_God_when_you_need_him?^^In_the_south,_the_Friese_coast_was_being_devastated_by_Vikings._Merchant_ships_fled_north,_seeking_the_protection_of_West_Seaxe.^^In_Ireland_and_Wales,_the_pagans_were_becoming_more_powerful_each_day._Many_said_that_the_Dal_Riata_and_land_of_the_Picts_would_soon_be_no_more...",
-        "translation": "那不是段好日子。公元861年，我的主人，斯威鲁斯主教去世了。在他去世前，他告诉我终结之日就要来临了。^^865年，一支异教徒军队攻击了赛特。赛特的人想办法安顿下来，但是在和平的假象和金钱的诱惑下，侵略者洗劫了村子。^^那年晚些时候，一支庞大的异教徒军队在冬天驻扎了下来。来年夏天，艾穆德国王迫不及待的把他们赶跑了。这不是支突击队，这是支异教徒大军。朗纳尔带着数千人待了下来。^^867年，正如斯威鲁斯所预料的一样，终结之日来临了。丹麦异教徒大军渡过河口从坎布雷到了爱尔兰。他们占领了城镇，并对诺森布里亚人展开了大屠杀。奥斯伯特和艾拉两个国王都被杀了。所以现在丹麦人统治者北方，施行着他们的法律和异端邪说……当你需要上帝的时候他在哪？^^在南方，维京人夷平了弗里斯海岸。商船逃亡北方，以寻求西撒克逊人的庇护。^^在爱尔兰和威尔士，异教徒的力量与日俱增。很多人说达里安塔王国和皮克特人的领土都要化为乌有了……"
+        "old_translation": "那并非好年月。公元861年，我的主人斯威图努斯主教辞世。临终前，他告诫我末日将至。^^865年，一支异教大军袭击肯特。肯特人设法安抚他们，但在和平的幌子与金钱的引诱下，入侵者依旧劫掠了国土。^^同年稍后，一支庞大的异教大军在东盎格利亚越冬。翌年夏，东盎格利亚国王埃德蒙急于驱逐他们，仓促应战。这并非寻常劫掠，而是号称“异教大军”的浩荡之众。拉格纳诸子率数千战士，意在久留。^^867年，正如斯威图努斯所预言，末日伊始。丹麦异教大军越亨伯河口，攻向约克。他们夺城之后，屠戮诺森布里亚人无数。奥斯伯特与埃拉两王皆殁。于是丹麦人统治北方，强加其律法与异教习俗……当你需要上帝时，他何在？^^南方，弗里斯海岸亦遭维京人蹂躏。商船北逃，寻求西撒克逊庇护。^^爱尔兰与威尔士，异教徒日盛。众言达尔里亚塔与皮克特之地或将湮灭……",
+        "translation": "那并非好年月。公元861年，我的主人斯威图努斯主教离世。临终前，他告诫我末日将至。^^865年，一支多神教大军袭击肯特。肯特人设法安抚他们，但在和平的幌子与金钱的引诱下，入侵者依旧劫掠了国土。^^同年稍后，一支庞大的多神教大军在东盎格利亚越冬。翌年夏，国王埃德蒙急于驱逐他们，仓促应战。这并非寻常劫掠，而是号称“异教大军”的浩荡之众。拉格纳诸子率数千战士，意在久留。^^867年，正如斯威图努斯所预言，末日伊始。丹麦异教大军越亨伯河口，攻向约克。他们夺城之后，屠戮诺森布里亚人无数。奥斯伯特与埃拉两王皆殁。于是丹麦人统治北方，强加其律法与多神教习俗……当你需要上帝时，他何在？^^南方，弗里西海岸亦遭维京人蹂躏。商船北逃，寻求西撒克逊庇护。^^爱尔兰与威尔士，多神教徒日盛。众言达尔里亚塔与皮克特之地或将湮灭……"
     },
     {
+        "id": "qstr_BEDA_CHRONICLE^^{s2}^",
         "text": "BEDA_CHRONICLE^^{s2}^^{s3}",
-        "translation": "贝达的记事^^{s2}^^{s3}"
+        "old_translation": "贝达编年史^^{s2}^^{s3}",
+        "translation": "贝达编年史^^{s2}^^{s3}"
     },
     {
+        "id": "qstr_The_news_coming_from",
         "text": "The_news_coming_from_the_north_was_disturbing._Ragnar's_sons_were_calling_men_to_advance_on_Mercia._It_was_still_a_great_army;_nonetheless,_reinforcements_from_Danmark_were_expected._God_protect_us.",
-        "translation": "北方的消息令人不安。拉格纳之子号召人们向麦西亚王国挺进。这仍然是一支大军，更别说此外还有的丹麦援军了。愿上帝保佑我们。"
+        "old_translation": "北方传来的消息令人不安。拉格纳诸子正号召大军向麦西亚进发。其势仍盛，而丹麦援军亦在途中。愿主垂怜。",
+        "translation": "北方传来的消息令人不安。拉格纳诸子正号召大军向麦西亚进发。其势仍盛，而丹麦援军亦在途中。愿主垂怜。"
     },
     {
+        "id": "qstr_Some_merchants_repor",
         "text": "Some_merchants_report_that_Sigurd_'Snake_in_the_Eye,'_Ragnar's_son_in_Danmark,_is_bringing_warriors_on_hundreds_of_boats._I_overheard_some_of_the_king's_advisers_in_Witan_Ceaster_saying_that_the_Danish_want_to_destroy_all_the_kingdoms_of_Englaland.^^The_only_good_news_I_heard_was_when_a_messenger_informed_us_that_some_Danish_sent_by_Jarl_Sigurd_to_attack_Friese_were_defeated_in_Doccinga.^^That_was_the_first_time_I_heard_the_name_of_{playername},_who_had_led_the_defense_of_Doccinga.^^Little_did_I_know_then_that_{reg59?she:he}_was_going_to_be_an_important_figure_in_my_life.",
-        "translation": "据一些商人说“蛇眼”西格德带了装满数百条船的战士出发。我无意中听到一些国王的顾问在维坦要塞说丹麦人准备消灭所有英格兰的王国。^^唯一的好消息是，拉格纳之子西格德雅尔派出了一些丹麦人去攻打弗里斯，但在道琴嘉被打败了。^^我就是从此听说了领导了道琴嘉防御战的{playername}。^^我那时不知道他此后会成为我生命中至关重要的人。"
+        "old_translation": "有商人言，拉格纳之子“蛇眼”西格德正率数百船战士而来。我于维坦要塞偶闻御前顾问私语，丹麦人欲灭英格兰诸国。^^唯一佳音是信使来报：西格德雅尔遣往弗里斯之丹麦人败于道琴嘉。^^我首次听闻{playername}之名，正是彼率众守道琴嘉。^^彼时我尚不知{reg59?她:他}将成为我生命中的要角。",
+        "translation": "有商人言，拉格纳之子“蛇眼”西格德正率数百船战士而来。我于维坦要塞偶闻御前顾问私语，丹麦人欲灭英格兰诸国。^^唯一佳音是信使来报：西格德雅尔遣往弗里西之丹麦人败于道琴嘉。^^我首次听闻{playername}之名，正是彼率众守道琴嘉。^^彼时我尚不知{reg59?她:他}将成为我生命中的要角。"
     },
     {
+        "id": "qstr_There_was_a_man_call",
         "text": "There_was_a_man_called_Egbert,_or_I_should_say_a_king,_Egbert_Cyning,_for_he_was_king_of_Northhymbre._But_he_was_a_puppet_king,_chosen_by_the_Vikings_because_he_was_a_weak_man_whom_they_could_handle._Was_this_the_fate_that_awaited_us_also?",
-        "translation": "那有个人叫做艾伯特，或许该说是个国王，诺森布里亚王国的国王艾伯特·赛宁，但他是个傀儡国王，因为他很软弱，易于操控，所以维京人选了他做国王。这也同样是摆在我们面前的命运吗？"
+        "old_translation": "曾有一人名艾格伯特，或称艾格伯特国王，因他乃诺森布里亚之王。然其为傀儡，维京人选之，只因他懦弱易制。吾辈命运亦将如此乎？",
+        "translation": "曾有一人名艾格伯特，或称艾格伯特国王，因他乃诺森布里亚之王。然其为傀儡，维京人选之，只因他懦弱易制。吾辈命运亦将如此乎？"
     },
     {
+        "id": "qstr_In_Anno_Domini_868_t",
         "text": "In_Anno_Domini_868,_the_Vikings_took_Snotingaham._There_was_fear,_much_fear,_but_West_Seaxe_and_Mierce_joined_forces._Aelfred_of_West_Seaxe,_the_king's_brother,_was_married_to_Ealswith,_daughter_of_Aethelred_Mucel,_ealdorman_of_the_Gaini,_and_of_Eadburh,_from_the_royal_line_of_the_king_of_the_Mercians.^^The_two_realms_called_the_fyrd_to_war._West_Seaxe_advanced_on_Snotingaham_from_the_south,_and_Mierce_joined_them_on_the_way._Maybe_they_could_finally_put_an_end_to_the_advance_of_the_sons_of_Ragnar?^^My_life_was_about_to_change,_but_I_did_not_know_that.",
-        "translation": "公元868年维京人占领了诺丁汉。那真是吓人，太可怕了，但是西撒克逊人和麦西亚人一起来帮忙了。西撒克逊国王的弟弟的艾弗德娶了厄丝维，她是有着麦西亚王家血统、统治着盖尼和艾德伯斯两郡的阿尔弗雷德·穆赛尔的女儿。^^这两国召集了民兵去战斗。西撒克逊从南方挺进诺丁汉，麦西亚在路上和他们会合。也许他们能够最终挡住拉格纳之子前进的步伐吧？^^我的生命从那开始就要改变了，但我那时还不知道这一点。"
+        "old_translation": "公元868年，维京人取诺丁汉。人心惶惶，然西撒克逊与麦西亚联手。西撒克逊王弟阿尔弗雷德娶厄斯薇，其父为盖尼郡伯埃塞尔雷德·穆赛尔，其母埃德伯芙出自麦西亚王族。^^两国召集民兵。西撒克逊自南趋诺丁汉，麦西亚半途会合。或许终能遏止拉格纳诸子？^^我之人生将变，而我尚未知。",
+        "translation": "公元868年，维京人取诺丁汉。人心惶惶，然西撒克逊与麦西亚联手。西撒克逊王弟阿尔弗雷德娶厄斯薇，其父为盖尼郡伯埃塞尔雷德·穆赛尔，其母埃德伯芙出自麦西亚王族。^^两国召集民兵。西撒克逊自南趋诺丁汉，麦西亚半途会合。或许终能遏止拉格纳诸子？^^我之人生将变，而我尚未知。"
     },
     {
+        "id": "qstr_I_still_dream_of_Dou",
         "text": "I_still_dream_of_Douar-an-Enez_when_I_close_my_eyes._No_man_of_God_should_allow_such_dreams_--_it_was_as_if_the_devil_had_escaped_from_prison_and_taken_over_the_world.",
-        "translation": "我每天都会梦见当纳莱斯。上帝的子民是不应该梦到这些的，这就好像是魔鬼从监狱逃了出来统治世界。"
+        "old_translation": "闭目仍见杜瓦讷内。神职者不应有此梦——仿佛恶魔越狱，主宰世间。",
+        "translation": "闭目仍见杜瓦讷内。神职者不应有此梦——仿佛恶魔越狱，主宰世间。"
     },
     {
+        "id": "qstr_I_remember_sailing_i",
         "text": "I_remember_sailing_into_battle_and_vomiting_several_times._My_hands_were_shaking_and_a_painful_chill_overlaid_my_spine._I_was_no_warrior,_but_my_fate_lay_with_{playername}_and_{reg59?her:his}_men._If_we_were_defeated,_we_would_die_with_the_rest._Fortunately,_by_some_miracle_of_God,_I_survived._Too_many_did_not,_including_Bodo,_with_whom,_I_hear,_{playername}_had_spent_much_time_since_they_first_met_on_a_ship_called_the_Woden_Ric._I_figured_Bodo_would_be_a_great_loss_for_{reg59?her:him}_after_everything_that_had_happened,_but_{reg59?her:his}_face_was_imperturbable,_and_no_one_dared_to_ask_{reg59?her:him}_how_{reg59?she:he}_felt.^^After_the_two_battles_of_Douar-an-Enez,_we_spent_a_few_weeks_in_the_remains_of_the_village,_healing_the_wounded,_burying_the_dead,_and_recovering_from_all_that_had_passed._I_really_think_that_times_like_that_are_when_my_work_is_most_needed._Many_came_to_me_to_find_comfort_and_to_thank_me_for_all_my_words_over_the_dead.^^Then_we_sailed_back_to_Englaland,_where,_we_didn't_yet_know,_the_world_had_changed...",
-        "translation": "我记得我驾着船进入战斗并且吐了好几次。我的手在颤抖，严寒注满了我的每个关节。我不是战士，但是我的命运是和{playername}以及{reg59?她的:他的}人联系在一起的。如果我们打败了，大家都会死。幸运的是，发生了一些奇迹，我活了下来。但是包括博多在内的很多人没有活下来，我听说自从{playername}和博多在一艘叫做沃登里克号的船相遇后他们就在一起了。我想对于{reg59?她:他}来说，在经历这么多事情以后，失去博多很痛苦吧，但是{reg59?她的:他的}脸冷若冰霜，没人敢问{reg59?她:他}有什么想法。^^在当纳莱斯打过两场仗之后，我们在村庄的遗迹待了几周，在那里治疗伤员、埋葬逝者，试着恢复秩序。我真觉得这是我最能派上用场的时刻了。很多人来找我寻求安慰，并且对我向死者的悼词表达感激之情。^^然后我们驾船返回英格兰，然而我们不知道那里已经大变天了……"
+        "old_translation": "我记得随船赴战，呕吐数次。手颤不已，脊背生寒。我本非战士，然命运与{playername}及其部众相连。若败，同赴黄泉。幸蒙主佑，我竟得生。然亡者甚众，包括博多。我闻{playername}自“沃登里克号”初遇博多后，常与之共处。失博多对{reg59?她:他}必为巨痛，然{reg59?她:他}面若寒霜，无人敢问其感。^^杜瓦讷内两战之后，我等栖于村墟数周，疗伤者，葬亡者，平复创伤。我深感此时最需我之职。多人来寻慰藉，谢我为亡者祈辞。^^继而返航英格兰，尚不知天地已变……",
+        "translation": "我记得随船赴战，呕吐数次。手颤不已，脊背生寒。我本非战士，然命运与{playername}及其部众相连。若败，同赴黄泉。幸蒙主佑，我竟得生。然亡者甚众，包括博多。我闻{playername}自“沃登里克号”初遇博多后，常与之共处。失博多对{reg59?她:他}必为巨痛，然{reg59?她:他}面若寒霜，无人敢问其感。^^杜瓦讷内两战之后，我等栖于村墟数周，疗伤者，葬亡者，平复创伤。我深感此时最需我之职。多人来寻慰藉，谢我为亡者祈辞。^^继而返航英格兰，尚不知天地已变……"
     },
     {
+        "id": "qstr_Maybe_part_of_him_is",
         "text": "Maybe_part_of_him_is_left_in_the_baby_that_he_had_with_Thora,_daughter_of_Ulf_from_Danmark._The_boy,_named_after_his_father,_grows_strong_and_healthy,_and_promises_to_be_a_powerful_man_someday.",
-        "translation": "也许他和丹麦人乌尔夫的女儿——索拉生的婴孩会继承他的一部分生命。这个男孩，以他父亲的名字为名，健康健壮地成长，并立誓有朝一日会成为一个有权势的人。"
+        "old_translation": "或许他的一部分留在与丹麦乌尔夫之女索拉所生之子。此子承父名，健硕成长，誓将成豪杰。",
+        "translation": "或许他的一部分留在与丹麦乌尔夫之女索拉所生之子。此子承父名，健硕成长，誓将成豪杰。"
     },
     {
+        "id": "qstr_My_name_is_Beda_and_",
         "text": "My_name_is_Beda,_and_this_book_started_as_a_chronicle_of_a_dark_time,_but_the_time_is_not_so_dreadful,_as_it_was_overshadowed_by_a_hero.",
-        "translation": "我的名字是贝达，这本书是从黑暗时代开始记录的一本编年史，但那段历史并不全是糟透了，因为那时仍然英雄辈出。"
+        "old_translation": "我名贝达，此书初为黑暗时代之编年，然时世因英雄而不至绝望。",
+        "translation": "我名贝达，此书初为黑暗时代之编年，然时世因英雄而不至绝望。"
     },
     {
+        "id": "qstr_I_was_there_when_the",
         "text": "I_was_there_when_the_armies_of_the_Saxons_and_Danes_fought_at_Aescendun._I_was_there_when_{playername}_changed_the_course_of_history._But_even_this_and_what_happened_next_pales_in_importance_when_the_world_lost_its_hero._I_remember_it_like_it_just_happened,_when_we_entered_the_hall_and_watched_as_Sven_Bull_Neck_finished_off_{playername}'s_mother._I_remember_{reg59?her:his}_face._It_became_ice_cold._Neither_anger_nor_fear_nor_crying;_only_coldness._I_assure_you_that_Sven_Bull_Neck_turned_pale_because_he_knew_that_his_death_was_inevitable._We_fought_in_the_hall_and_Sven_died,_but_that_did_not_change_the_hardness_of_the_face_of_{playername}._Neither_then_nor_later,_at_the_funeral_of_{reg59?her:his}_mother,_revered_like_a_queen,_and_buried_with_rich_grave_goods_in_a_warship.^^After_that_day,_we_lost_our_hero._{reg59?She:He}_said_farewell_to_us,_who_we_had_followed_{reg59?her:him}_from_battle_to_battle,_and_said_{reg59?she:he}_was_leaving_without_revealing_{reg59?her:his}_destination.^^{reg59?She:He}_left_us,_I_fear,_to_never_return._I_hope_I_am_wrong,_because_this_dark_world_still_stands_in_need_of_{reg59?her:his}_exploits.",
-        "translation": "当撒克逊人和丹麦人在阿先顿战斗的时候我在那里。{playername}改变历史的时候我就在场。但是当英雄离开的时候，这场战斗和接下来发生的事情都显得苍白了。那时的场景历历在目，当我们进入大厅，看到牛颈斯温杀了{playername}的母亲时，{reg59?她的:他的}脸变得冰凉。没有愤怒，没有恐惧，也没有哭喊，只有冷酷。我向你保证，当牛颈斯温知道他死定了的时候，他脸色也变得苍白了。我们在大厅内战斗，斯温死了，但这并没有改变{playername}那冷酷的面庞。即使在把{reg59?她的:他的}母亲当做女王一样举行葬礼，把宝藏和她遗体一起放在战船海葬后，他依然面色不改。^^那天过后，我们的英雄离去了。{reg59?她:他}向我们告别，我们曾追随{reg59?她:他}参与了一场场战斗，但{reg59?她:他}现在不告诉我们目的地就离去了。^^我担心{reg59?她:他}离开以后就永远不会回来了。我希望这不是真的，因为这个黑暗的世界还需要{reg59?她的:他的}奋斗。"
+        "old_translation": "撒克逊与丹麦大军战于阿先顿，我在场；{playername}扭转历史，我亦在场。然英雄殒逝，万事皆轻。我记忆犹新：入厅之时，见“牛颈”斯温弑{playername}之母。我记得{reg59?她:他}的面容——冷若冰霜，无怒无惧无泪，唯有寒意。我敢言，斯温当时面色惨白，自知死期已至。厅内血战，斯温毙命，然{playername}之容依旧冷硬。其后，{reg59?她:他}母以王后之礼葬于战船，厚葬之仪亦未改其神色。^^自那日起，英雄远去。{reg59?她:他}向我等告别——我等曾随{reg59?她:他}百战——却未告所往。^^{reg59?她:他}一去不返，我恐成永诀。愿我言虚，因这黑暗世界仍盼{reg59?她:他}之壮举。",
+        "translation": "撒克逊与丹麦大军战于阿先顿，我在场；{playername}扭转历史，我亦在场。然英雄殒逝，万事皆轻。我记忆犹新：入厅之时，见“牛颈”斯温弑{playername}之母。我记得{reg59?她:他}的面容——冷若冰霜，无怒无惧无泪，唯有寒意。我敢言，斯温当时面色惨白，自知死期已至。厅内血战，斯温毙命，然{playername}之容依旧冷硬。其后，{reg59?她:他}母以王后之礼葬于战船，厚葬之仪亦未改其神色。^^自那日起，英雄远去。{reg59?她:他}向我等告别——我等曾随{reg59?她:他}百战——却未告所往。^^{reg59?她:他}一去不返，我恐成永诀。愿我言虚，因这黑暗世界仍盼{reg59?她:他}之壮举。"
     },
     {
+        "id": "qstr_BEDA_CHRONICLE^^{s2}^^",
         "text": "BEDA_CHRONICLE^^{s2}^^{s3}^^{s16}",
-        "translation": "贝达的记事^^{s2}^^{s3}^^{s16}"
+        "old_translation": "贝达编年史^^{s2}^^{s3}^^{s16}",
+        "translation": "贝达编年史^^{s2}^^{s3}^^{s16}"
     },
     {
+        "id": "qstr_Little_news_has_reac",
         "text": "Little_news_has_reached_me_about_the_young_Caio._I_do_know_for_sure_that_he_never_returned_to_Hadrian's_Wall,_not_even_to_visit_his_family._Last_I_heard_is_that_he_embarked_on_a_Danish_expedition_headed_to_Konstantinoupolis.",
-        "translation": "我没听到多少关于年轻的卡约的消息，我唯一能够肯定的是他永远不会回到哈德良长城了，更不会探望他家人。有关他的最后消息是他加入了一个丹麦远征队，前往君士坦丁堡。"
+        "old_translation": "关于少年卡约，消息寥寥。我确知他再未返哈德良长城，亦未探家。最后传闻，他随丹麦远征队航向君士坦丁堡。",
+        "translation": "^^关于少年卡约，消息寥寥。我确知他再未返哈德良长城，亦未探家。最后传闻，他随丹麦远征队航向君士坦丁堡。"
     },
     {
+        "id": "qstr_^^Egil_returned_to_R",
         "text": "^^Egil_returned_to_Ribe,_his_home,_made_rich_by_the_spoils_of_his_adventure._He_spent_all_his_money_on_women_and_ale,_and_ended_up_dead_in_a_duel_shortly_thereafter.",
-        "translation": "^^埃吉尔回到了他在里伯的家。他在冒险的时候发财了，但把钱都花在了女人和酒上，没多久就在决斗中死了。"
+        "old_translation": "^^埃吉尔回到故乡里伯，带着冒险得来的财富。他把钱全花在女人和麦酒上，不久便在一场决斗中丧命。",
+        "translation": "^^埃吉尔回到故乡里伯，带着冒险得来的财富。他把钱全花在女人和麦酒上，不久便在一场决斗中丧命。"
     },
     {
+        "id": "qstr_^^Brunhild_married_a",
         "text": "^^Brunhild_married_a_Dane,_despite_having_always_hated_them,_and_settled_near_Jorvik._A_merchant_told_me_that_currently_she_is_a_happy_mother_with_three_children.",
-        "translation": "^^尽管一直对丹麦人怀有仇恨，但伯伦希尔还是和一个丹麦人结婚了，并在约维克住了下来。一个商人告诉我她现在是个快乐的母亲并带着三个孩子。"
+        "old_translation": "^^伯伦希尔虽一向憎恨丹麦人，却嫁给了一个丹麦人，在约维克附近定居。一位商人告诉我，她如今是三个孩子的快乐母亲。",
+        "translation": "^^伯伦希尔虽一向憎恨丹麦人，却嫁给了一个丹麦人，在约维克附近定居。一位商人告诉我，她如今是三个孩子的快乐母亲。"
     },
     {
+        "id": "qstr_^^The_fate_of_Donnac",
         "text": "^^The_fate_of_Donnachdh_was_dark._He_returned_to_Alban,_where_he_recruited_a_crew_of_Scots_to_pillage_the_Norwegian_merchants_in_the_Sea_of_Hibernia._The_Norwegians_of_Dubh_Linn_put_a_price_on_his_head,_gave_chase_and_killed_him_in_an_epic_battle_that_the_bards_still_sing_about_at_the_court_of_Alban.",
-        "translation": "^^唐察德的命运是悲惨的。他回到了奥尔本，在那里征募了一些苏格兰人，在爱尔兰海域上袭击挪威商人。都柏林的挪威人悬赏他的人头，最终追到了他，在一场大战中杀了他。奥尔本宫廷内的诗人们至今都在传唱着这个故事。"
+        "old_translation": "^^唐纳赫的命运阴郁。他回到阿尔巴，召集一群苏格兰人在爱尔兰海劫掠挪威商人。都柏林的挪威人悬赏他的首级，一路追杀，在一场吟游诗人至今仍在阿尔巴宫廷传唱的激战中将他斩杀。",
+        "translation": "^^唐纳赫的命运阴郁。他回到阿尔巴，召集一群苏格兰人在爱尔兰海劫掠挪威商人。都柏林的挪威人悬赏他的首级，一路追杀，在一场吟游诗人至今仍在阿尔巴宫廷传唱的激战中将他斩杀。"
     },
     {
+        "id": "qstr_^^Morgant_returned_t",
         "text": "^^Morgant_returned_to_Cornubia_and_sought_to_unite_the_clans_to_try_to_recover_the_territory_of_the_old_Kingdom_of_Dunmonia,_but_was_unsuccessful._Many_were_simply_abandoning_their_homeland_for_the_other_side_of_the_channel,_which_amazingly_enough_failed_to_reduce_the_many_rivalries._In_the_end,_he_gave_up_and_retired_to_the_monastery_of_Petrockstow,_where_I_know_he_took_vows.",
-        "translation": "^^摩根回到了康比亚，并试图联合家族来恢复故国敦莫尼亚的领土，但是失败了。许多人仅仅是为了海峡的另一边放弃了他们的家园，令人吃惊的是即使如此还是没能息平众多的纷争。最后，他放弃了，退隐到了我们所熟知的那个彼得罗克斯托修道院，他在此遁入教门。"
+        "old_translation": "^^摩根回到康沃尔，试图联合各部族收复古敦莫尼亚王国旧地，却未能成功。许多人干脆渡海而去，令人惊讶的是，纷争并未因此减少。最终他放弃一切，遁入彼得罗克斯托修道院，我确知他已立誓出家。",
+        "translation": "^^摩根回到康沃尔，试图联合各部族收复古敦莫尼亚王国旧地，却未能成功。许多人干脆渡海而去，令人惊讶的是，纷争并未因此减少。最终他放弃一切，遁入布雷特罗戈修道院，我确知他已立誓出家。"
     },
     {
+        "id": "qstr_^^Dwywei_was_one_of_",
         "text": "^^Dwywei_was_one_of_the_few_who_did_not_give_up_after_the_departure_of_{playername},_and_I_know_she_left_in_pursuit_of_him._She_loved_him_despite_all_that_happened,_and_was_willing_to_travel_the_world_to_find_him._I_don't_know_if_she_was_successful_or_if_she_is_even_still_alive.",
-        "translation": "^^杜威是少数在{playername}离开后没有放弃的人之一，我知道她是去找他了。尽管发生过了这么多事情，她还是爱着他，并在天涯海角找寻他。我不知道她有没有成功，也不知道她是不是还活着。"
+        "old_translation": "^^杜威是少数在{playername}离去后仍不放弃的人之一，我知道她前去追寻他。尽管经历了种种，她仍深爱着他，愿踏遍世界寻他。我不清楚她是否成功，甚至不知她是否尚在人间。",
+        "translation": "^^杜威是少数在{playername}离去后仍不放弃的人之一，我知道她前去追寻他。尽管经历了种种，她仍深爱着他，愿踏遍世界寻他。我不清楚她是否成功，甚至不知她是否尚在人间。"
     },
     {
+        "id": "qstr_^^Dwywei_despite_all",
         "text": "^^Dwywei,_despite_all_the_past,_never_resigned_herself_to_the_departure_of_{playername}._I_heard_she_left_in_pursuit_of_him.",
-        "translation": "^^杜威在发生了那些事情后，还是没能坦然接受{playername}的离去。我听说她去找他了。"
+        "old_translation": "^^杜威，尽管过去种种，始终无法接受{playername}的离去。我听说她已动身追寻。",
+        "translation": "^^杜威，尽管过去种种，始终无法接受{playername}的离去。我听说她已动身追寻。"
     },
     {
+        "id": "qstr_^^Reginhard_returned",
         "text": "^^Reginhard_returned_to_Dorestad_where_he_married_Adda,_the_shopkeeper,_and_they_had_a_son_named_Thiaderd._Their_marriage_was_a_happy_one,_but_it_didn't_last._The_latest_news_is_that,_tormented_by_his_double_betrayal,_first_of_Thiaderd_and_then_of_{playername},_he_returned_to_his_vice.",
-        "translation": "^^雷因哈德回到了杜里斯特，在那里他和店主艾达结了婚，并且生了一个儿子，取名叫泰德。他们的婚姻开始很美满，但他们没能一直一起走到最后。据最新消息说，他背叛泰德后又背叛了{playername}，饱受折磨之后他又复归了作恶多端的本性。"
+        "old_translation": "^^雷因哈德回到杜里斯特，娶了店主艾达，生下一子提亚德尔。他们的婚姻曾很幸福，却未能长久。最新消息说，因先后背叛提亚德尔与{playername}而备受折磨，他又重染旧习。",
+        "translation": "^^雷因哈德回到杜里斯特，娶了店主艾达，生下一子提亚德尔。他们的婚姻曾很幸福，却未能长久。最新消息说，因先后背叛提亚德尔与{playername}而备受折磨，他又重染旧习。"
     },
     {
+        "id": "qstr_^^About_Clovis_he_re",
         "text": "^^About_Clovis,_he_returned_to_Frankia_where_he_took_land_and_wife._But_he_seems_to_want_to_forget_the_past_and_does_not_receive_my_messengers.",
-        "translation": "^^至于克洛维，他回到了法兰克，在那里得到了一块土地并结了婚。但他似乎想抛却过去，而且也不搭理我的信使。"
+        "old_translation": "^^至于克洛维，他回到法兰克，获得土地与妻室。但他似乎想忘却过去，不再接见我的信使。",
+        "translation": "^^至于克洛维，他回到法兰克，获得土地与妻室。但他似乎想忘却过去，不再接见我的信使。"
     },
     {
+        "id": "qstr_^^The_beautiful_and_",
         "text": "^^The_beautiful_and_indomitable_Solveig_decided_to_continue_{playername}'s_revenge_on_the_family_of_Sven_Bull_Neck_on_her_own._She_returned_to_Danmark,_where_she_hunted_and_killed_all_the_brothers_of_Sven,_along_with_their_families._The_Thing_sentenced_her_to_death,_so_now_she's_hiding_somewhere_among_other_bandits_and_exiles.",
-        "translation": "^^美丽而又顽强的苏维格决定以她自己的力量继续为{playername}报仇，追杀牛颈斯温的家族。她回到了丹麦，在那里猎杀了斯温的兄弟，他们的家人也都不放过。这事情让她无处容身，所以现在她和其他一些强盗和流放者一起躲在什么地方。"
+        "old_translation": "^^美丽而倔强的苏维格决定独自继续{playername}对“牛颈”斯温家族的复仇。她回到丹麦，猎杀了斯温的所有兄弟及其家人。庭议判她死刑，如今她藏身于山贼与流放者之中。",
+        "translation": "^^美丽而倔强的苏维格决定独自继续{playername}对“牛颈”斯温家族的复仇。她回到丹麦，猎杀了斯温的所有兄弟及其家人。庭议判她死刑，如今她藏身于山贼与流放者之中。"
     },
     {
+        "id": "qstr_^^The_loeknir_the_ph",
         "text": "^^The_loeknir,_the_physician,_Asbjorn_returned_to_Odinsve,_the_home_of_his_parents,_weary_of_war._He_puts_his_knowledge_to_use_helping_cure_people,_all_for_just_a_few_peningas_--_even_free_to_anyone_who_asks._His_fame_runs_throughout_the_north,_and_people_worship_him_like_a_saint.",
-        "translation": "^^医生阿斯比恩历尽战乱之后回到了他父母的家奥丁斯弗。他运用他的知识治疗人们，只收极低的佣金，如果有人有需要的话甚至能够免费。他的名声传遍整个北方，人们把他当做圣人一样来崇敬。"
+        "old_translation": "^^医师阿斯比恩厌倦战争，回到父母所在的奥丁斯维。他用医术救人，只收几枚银便士，甚至对求诊者分文不取。他的名声传遍北方，人们敬之如圣。",
+        "translation": "^^医生阿斯比恩厌倦战争，回到父母所在的奥丁斯维。他用医术救人，只收几枚银便士，甚至对求诊者分文不取。他的名声传遍北方，人们敬之如圣。"
     },
     {
+        "id": "qstr_^^Helgi_was_very_fon",
         "text": "^^Helgi_was_very_fond_of_{playername},_despite_all_the_past,_and_when_she_left,_he_plunged_into_a_terrible_depression._The_last_thing_I_know_is_that_he_went_back_east_and_became_a_Rus,_hoping_more_blood_would_soothe_his_grief.",
-        "translation": "^^海尔吉在发生了那些事后还是很喜欢{playername}，当她离开后，他陷入了无尽的悲痛之中。关于他我所知道的最后一件事就是他回到了东方，成了一个罗斯人，寄悲痛于杀戮之中。"
+        "old_translation": "^^海尔吉虽历经旧事，仍深爱{playername}。她离去后，他陷入深重抑郁。我所知的最后消息是，他东归成为罗斯人，希望更多鲜血能抚平悲痛。",
+        "translation": "^^赫尔吉虽历经旧事，仍深爱{playername}。她离去后，他陷入深重抑郁。我所知的最后消息是，他东归成为罗斯人，希望更多鲜血能抚平悲痛。"
     },
     {
+        "id": "qstr_^^Helgi_became_depre",
         "text": "^^Helgi_became_depressed_after_the_departure_of_{playername}._Without_clear_direction,_he_marched_east_and_became_a_Rus,_looking_for_his_fate_in_unending_war.",
-        "translation": "^^海尔吉在{playername}离开后变得消沉。迷茫之中，他去了东方，成了一个罗斯人，在无止境的战争中找寻着他的命运。"
+        "old_translation": "^^{playername}离开后，海尔吉陷入消沉。迷茫中，他东去成为罗斯人，在无终的战争中寻找命运。",
+        "translation": "^^{playername}离开后，赫尔吉陷入消沉。迷茫中，他东去成为罗斯人，在无终的战争中寻找命运。"
     },
     {
+        "id": "qstr_^^The_Greek_Agathino",
         "text": "^^The_Greek,_Agathinos,_stayed_in_the_north,_near_Lundenwic._There_he_got_a_job_rebuilding_the_old_Roman_infrastructure._Sometimes_I_get_letters_from_him._I_do_not_know_why_we_were_never_friends,_but_he_likes_to_keep_up_the_relations_he_made_in_his_past,_and_I_must_be_the_only_remnant_of_another_time_he_has_left.",
-        "translation": "^^希腊人阿格霍斯留在北方，呆在伦敦威克附近，他在那里重建古罗马的设施。有时候我会收到他的一些信，我不知道为什么我和他从未成过朋友，但他喜欢保持他过去所拥有的那些关系。我应该就是他过去的唯一痕迹了。"
+        "old_translation": "^^希腊人阿格霍斯留在北方，靠近伦敦威克，重建古罗马的设施。我偶尔收到他的来信。不知为何我们始终未成朋友，但他喜欢维系旧日关系，而我或许是他仅存的旧识。",
+        "translation": "^^希腊人阿格霍斯留在北方，靠近伦敦威克，重建老罗马人的设施。我偶尔收到他的来信。不知为何我们始终未成朋友，但他喜欢维系旧日关系，而我或许是他仅存的旧识。"
     },
     {
+        "id": "qstr_^^And_that_is_all_wh",
         "text": "^^And_that_is_all_what_I_know_about_people_who_served_under_{playername}.",
-        "translation": "^^关于在{playername}那里效力过的人们的经历了，我就知道这么多了。"
+        "old_translation": "^^关于曾追随{playername}的人，我所知仅此而已。",
+        "translation": "^^关于曾追随{playername}的人，我所知仅此而已。"
     },
     {
+        "id": "qstr_After_the_departure_",
         "text": "After_the_departure_of_our_leader,_we,_{reg59?her:his}_followers,_dispersed_to_the_four_winds._I_hid_in_a_monastery_in_a_remote_part_of_West_Seaxe,_far_from_it_all._Here_I_will_wait_for_the_end_of_my_days._I_pay_people_to_bring_me_news_from_outside,_especially_if_they_find_{playername},_but_nobody_has_seen_{reg59?her:him}._However,_I_have_a_little_news_from_others_who_were_with_{reg59?her:him}_until_the_end.",
-        "translation": "在我们的领袖离开后，我们这些{reg59?她的:他的}部众分道扬镳了。我躲在西撒克逊一个遥不可及的修道院内。我准备在这苟延残喘、度过余生。我给所有带来外界消息的人钱，假如有人能找到{playername}我会给更多的奖赏，然而没人见过{reg59?她:他}。但是，我还是得到了一些跟他到最后的人的消息。"
+        "old_translation": "在我们的领袖离去后，我们这些{reg59?她的:他的}追随者四散飘零。我躲在西撒克逊偏远的一座修道院，远离尘嚣，在此终老。我花钱请人带来外界消息，特别是关于{playername}的，但无人见过{reg59?她:他}。不过，我还是得到了一些陪他走到最后之人的消息。",
+        "translation": "在我们的领袖离去后，我们这些{reg59?她的:他的}追随者四散飘零。我躲在西撒克逊偏远的一座修道院，远离尘嚣，在此终老。我花钱请人带来外界消息，特别是关于{playername}的，但无人见过{reg59?她:他}。不过，我还是得到了一些陪他走到最后之人的消息。"
     },
     {
+        "id": "qstr_{s11}{s12}{s13}{s14}",
         "text": "{s11}{s12}{s13}{s14}{s15}{s16}{s17}{s18}{s19}{s20}{s21}{s22}{s23}.",
+        "old_translation": "{s11}{s12}{s13}{s14}{s15}{s16}{s17}{s18}{s19}{s20}{s21}{s22}{s23}。",
         "translation": "{s11}{s12}{s13}{s14}{s15}{s16}{s17}{s18}{s19}{s20}{s21}{s22}{s23}。"
     },
     {
+        "id": "qstr_{s2}{s3}^^I_hope_my_",
         "text": "{s2}{s3}^^I_hope_my_writings_serve_to_keep_{playername}_in_history._The_{reg59?lady:man}_who_started_from_nothing,_on_a_ship_called_the_Woden_Ric,_and_rose_to_be_a_warlord_who_was_able_to_put_in_check_the_powers_of_{reg59?her:his}_time._{reg59?She:He}_it_was_who_killed_the_dreaded_Sven_Bull_Neck_and_could_be_measured_face_to_face_with_the_most_powerful_men,_like_the_sons_of_Ragnar_and_the_kings_of_West_Seaxe.^^May_the_world_remember_{playername}_when_the_rest_of_us_have_all_perished.",
-        "translation": "{s2}{s3}^^我希望我能把{playername}永载史册。在叫做沃登里克号的船上，一位一无所有的{reg59?女士:先生}，最后成为了在{reg59?她的:他的}时代举足轻重的军阀。{reg59?她:他}曾是一位杀了可怕的牛颈斯温的人，跻身于那些最具有权势的人之列，例如拉格纳之子、西撒克逊的国王们。^^愿{playername}名垂千古、不朽于世。"
+        "old_translation": "{s2}{s3}^^愿我的记述让{playername}留名青史。那位乘“沃登里克号”白手起家的{reg59?女士:先生}，终成一代军阀，足以制衡{reg59?她的:他的}时代诸强。{reg59?她:他}斩杀了令人畏惧的“牛颈”斯温，可与拉格纳诸子和西撒克逊诸王比肩。^^愿当吾辈皆逝，世界仍记{playername}。",
+        "translation": "{s2}{s3}^^愿我的记述让{playername}留名青史。那位乘“沃登里克号”白手起家的{reg59?女士:先生}，终成一代军阀，足以制衡{reg59?她的:他的}时代诸强。{reg59?她:他}斩杀了令人畏惧的“牛颈”斯温，可与拉格纳诸子和西撒克逊诸王比肩。^^愿当吾辈皆逝，世界仍记{playername}。"
     },
     {
+        "id": "qstr_They_say_that_Eriu_i",
         "text": "They_say_that_Eriu_is_a_wilderness,_inhabited_by_people_too_untrustworthy_for_truce_or_trade,_and_too_violent_to_make_it_worth_conquering._I_have_heard_many_stories_about_Eriu,_but_none_is_worth_retelling._What_I_am_sure_of_is_that_the_time_{playername}_spent_there_left_him_scarred_for_life.",
-        "translation": "他们说，埃里尤是一片荒野，那里的居民太不可靠，太暴力。这使得它值得征服。我听过很多埃里尤的故事，但不值得复述。我确信的是{playername}在那里的一段时间，留给他的是伤痕累累。"
+        "old_translation": "他们说埃里尤是片荒野，居民不可信，无法议和或通商，又过于暴烈，征服亦不值。我听过许多关于埃里尤的故事，却无一值得复述。我确信，{playername}在那里的日子给他留下了终生难愈的伤痕。",
+        "translation": "他们说爱尔兰是片荒野，居民不可信，无法议和或通商，又过于暴烈，征服亦不值。我听过许多关于爱尔兰的故事，却无一值得复述。我确信，{playername}在那里的日子给他留下了终生难愈的伤痕。"
     },
     {
+        "id": "qstr_Honestly_Mael_Bresai",
         "text": "Honestly,_Mael_Bresail's_death_meant_nothing_to_{playername}._{reg59?She:He}_continues_{reg59?her:his}_life_largely_as_if_Mael_Bresail_never_existed._Perhaps_{reg59?she:he}_has_a_few_more_enemies_among_the_lords_of_Eriu_and_a_few_extra_peningas_in_{reg59?her:his}_pockets,_but_nothing_more.^^But_Morrigan_was_another_thing_altogether._That_woman_had_something_magical._It_was_not_just_her_singing,_which_itself_was_able_to_freeze_time._It_was_something_deeper._When_she_left,_the_whole_army_felt_a_void._Nobody_has_ever_seen_her_since,_although_I_know_that_my_{reg59?lady:lord}_always_hopes_for_news_about_her.^^They_say_many_things_about_Eriu,_but_nobody_tells_the_legend_of_Morrigan.",
-        "translation": "老实说，雷西尔王子的死对于{playername}意味着什么，{reg59?她:他}继续过着{reg59?她的:他的}生活，好像雷西尔王子从未存在过。或许{reg59?她:他}多了一些敌人是埃里尤的领主们和有一些意外之财在{reg59?她的:他的}口袋里，没有更多了^^但莫莉卡是另一回事。那个女人有为什么神奇。不光是她的歌声能够冻结时间。更厉害的是。当她离开时，整个军队感到空虚。"
+        "old_translation": "老实说，梅尔·布雷塞尔之死对{playername}毫无意义。{reg59?她:他}继续生活，仿佛梅尔·布雷塞尔从未存在。也许{reg59?她:他}在埃里尤的领主中多了几个敌人，口袋里多了几枚银便士，仅此而已。^^但莫莉甘完全不同。那女人身上有魔力。不仅是她的歌声能让时间停滞，更有一种更深的东西。她离去时，全军感到空虚。自那以后无人再见她，但我知道我的{reg59?女士:大人}始终盼望她的消息。^^关于埃里尤众说纷坛，却无人传颂莫莉甘的传说。",
+        "translation": "老实说，梅尔·布雷塞尔之死对{playername}毫无意义。{reg59?她:他}继续生活，仿佛梅尔·布雷塞尔从未存在。也许{reg59?她:他}在爱尔兰的领主中多了几个敌人，口袋里多了几枚银便士，仅此而已。^^但莫莉甘完全不同。那女人身上有魔力。不仅是她的歌声能让时间停滞，更有一种更深的东西。她离去时，全军感到空虚。自那以后无人再见她，但我知道我的{reg59?女士:大人}始终盼望她的消息。^^关于爱尔兰众说纷坛，却无人传颂莫莉甘的传说。"
     },
     {
+        "id": "qstr_The_agreement_with_M",
         "text": "The_agreement_with_Mael_Bresail_made_{playername}_a_rich_person,_but_his_fate_was_above_wealth,_and_money_was_only_a_way_to_achieve_{reg59?her:his}_goals._Little_news_reached_us_of_Mael_Bresail_after_the_pact._He_always_tried_to_stay_out_of_the_way_of_my_{reg59?lady:lord},_even_when_the_affairs_of_{reg59?my_lady:my_lord}_and_his_king_crossed._I_don't_know_if_Mael_Bresail_just_honored_his_oath_or_felt_sheer_terror_toward_{playername}.^^They_say_many_things_about_Eriu,_but_few_people_remember_the_legend_of_how_Flaithbertach's_children_were_killed.",
-        "translation": "与雷西尔王子协定的{playername}是个有钱人，但他的命运高于财富，金钱只是实现他的目标的一种方式。"
+        "old_translation": "与梅尔·布雷塞尔的协议让{playername}富有，但{reg59?她:他}的命运高于财富，金钱只是实现目标的手段。协议之后，关于梅尔·布雷塞尔的消息寥寥。即使我的{reg59?女士:大人}的事务与他的国王相交，他也始终避而不见。我不清楚梅尔·布雷塞尔是守誓，还是对{playername}心怀恐惧。^^关于埃里尤众说纷坛，却少有人记得弗莱厄伯特之子女被杀的传说。",
+        "translation": "与梅尔·布雷塞尔的协议让{playername}富有，但{reg59?她:他}的命运高于财富，金钱只是实现目标的手段。协议之后，关于梅尔·布雷塞尔的消息寥寥。即使我的{reg59?女士:大人}的事务与他的国王相交，他也始终避而不见。我不清楚梅尔·布雷塞尔是守誓，还是对{playername}心怀恐惧。^^关于爱尔兰众说纷坛，却少有人记得弗莱厄伯特之子女被杀的传说。"
     },
     {
+        "id": "qstr_Honestly_Mael_Bresail",
         "text": "Honestly,_Mael_Bresail's_death_meant_nothing_to_{playername}._{reg59?She:He}_continues_{reg59?her:his}_life_largely_as_if_Mael_Bresail_never_existed._Perhaps_{reg59?she:he}_has_a_few_more_enemies_among_the_lords_of_Eriu_and_a_few_extra_peningas_in_{reg59?her:his}_pockets,_but_nothing_more.^^But_Morrigan_was_another_thing_altogether._That_woman_had_something_magical._It_was_not_just_her_singing,_which_itself_was_able_to_freeze_time._It_was_something_deeper._When_{playername}_killed_her,_I_think_that_{reg59?she:he}_felt_{reg59?she:he}_had_destroyed_something_that_does_not_belong_to_this_time_or_world.^^They_say_many_things_about_Eriu,_but_few_people_remember_the_legend_of_how_Flaithbertach's_children_were_killed.",
-        "translation": "老实说，雷西尔王子的死对于{playername}意味着什么，{reg59?她:他}继续过着{reg59?她的:他的}生活，好像雷西尔王子从未存在过。或许{reg59?她:他}多了一些敌人是埃里尤的领主们和有一些意外之财在{reg59?她的:他的}口袋里，没有更多了^^但莫莉卡是另一回事。那个女人有为什么神奇。不光是她的歌声能够冻结时间。更厉害的是。当她离开时，整个军队感到空虚。当{playername}杀了她，我想{reg59?她:他}觉得自己已经摧毁了一些不属于这个时代或世界的东西。^^他们说很多关于埃里尤的故事，但很少有人记得弗莱厄蒂子嗣丧生的传说。"
+        "old_translation": "老实说，梅尔·布雷塞尔的死对{playername}毫无意义。{reg59?她:他}继续过着{reg59?她的:他的}生活，仿佛梅尔·布雷塞尔从未存在。也许{reg59?她:他}在爱尔兰的领主中多了几个敌人，口袋里多了几枚银便士，仅此而已。^^但莫莉甘完全是另一回事。那女人身上有种魔力。不只是她的歌声能让时间凝固，而是更深层的东西。当{playername}杀了她，我想{reg59?她:他}觉得自己摧毁了某种不属于这个时代或世界的东西。^^人们谈论爱尔兰时总说很多，却少有人记得弗莱厄蒂的孩子们被杀的传说。",
+        "translation": "老实说，梅尔·布雷塞尔的死对{playername}毫无意义。{reg59?她:他}继续过着{reg59?她的:他的}生活，仿佛梅尔·布雷塞尔从未存在。也许{reg59?她:他}在爱尔兰的领主中多了几个敌人，口袋里多了几枚银便士，仅此而已。^^但莫莉甘完全是另一回事。那女人身上有种魔力。不只是她的歌声能让时间凝固，而是更深层的东西。当{playername}杀了她，我想{reg59?她:他}觉得自己摧毁了某种不属于这个时代或世界的东西。^^人们谈论爱尔兰时总说很多，却少有人记得弗莱厄蒂的孩子们被杀的传说。"
     },
     {
+        "id": "qstr_Sandbox_mode_gives_y",
         "text": "Sandbox_mode_gives_you_total_freedom_to_choose_your_gaming_experience._You_may_choose_to_be_a_peaceful_trader,_a_fearsome_Viking,_a_king_loved_by_his_people_or_any_other_role_you_may_want.",
-        "translation": "沙盒模式给予你完全的自由来选择你的游戏体验，你可以选择成为一个平 和的商人，一个令人 畏惧的维京人，一个被子民爱戴的国王或者任何其他玩法"
+        "old_translation": "沙盒模式让你完全自由地选择游戏体验。你可以成为和平的商人、令人畏惧的维京人、受子民爱戴的国王，或任何你想要的角色。",
+        "translation": "沙盒模式让你完全自由地选择游戏体验。你可以成为和平的商人、令人畏惧的维京人、受子民爱戴的国王，或任何你想要的角色。"
     },
     {
+        "id": "qstr_Starting_is_always_d",
         "text": "Starting_is_always_difficult,_so_it_is_recommended_to_explore_the_surroundings_before_heading_into_your_first_fight._Visit_nearby_settlements,_obtain_quests_from_local_leaders_or_lords_or_work_to_earn_a_salary_at_farmsteads,_quarries,_salt_mines_or_lumber_camps._Recruit_your_first_men_at_farmsteads_or_monasteries_or_try_to_bribe_a_village_leader._You_can_also_buy_merchandise_at_farmsteads_and_villages_and_try_to_sell_it_in_the_town_markets_for_a_profit.^^It_is_best_to_play_slowly_at_first,_to_explore_the_possibilities_and_workings_of_the_game._If_you_have_questions,_you_can_always_read_the_notes.^^Viking_Conquest_is_immense._It_will_take_you_into_the_Dark_Ages_like_never_before.",
-        "translation": "开始总是很难，所以建议在你的第一场战斗前探索周围的环境。参观附近的定居点，在当地长老或领主那里获得在农场，采石场，盐矿山或伐木营地工作挣钱的任务。在农场或修道院招募士兵或许需要贿赂村长老。你也可以在农场和村庄购买商品然后在城市市场卖掉以获取利润。^^最好是慢慢地玩，探索游戏的可能性和运作方式。如果你有问题，你可以随时阅读笔记。^^维京征服的世界很大。它将带你进入黑暗的时代，像以前一样。"
+        "old_translation": "万事开头难，建议你在第一场战斗前先探索周围。走访附近定居点，向当地首领或领主接任务，或在农场、采石场、盐矿、伐木营打工挣薪水。在农场或修道院招募第一批士兵，或试着贿赂村长。你也可以在农场和村庄买货，再运到城镇市场倒卖赚钱。^^最好慢慢玩，先探索游戏的各种可能和机制。有疑问随时查阅笔记。^^《维京征服》的世界极其宏大，它将带你前所未有地深入黑暗时代。",
+        "translation": "万事开头难，建议你在第一场战斗前先探索周围。走访附近定居点，向当地首领或领主接任务，或在农场、采石场、盐矿、伐木营打工挣薪水。在农场或修道院招募第一批士兵，或试着贿赂村长。你也可以在农场和村庄买货，再运到城镇市场倒卖赚钱。^^最好慢慢玩，先探索游戏的各种可能和机制。有疑问随时查阅笔记。^^《维京征服》的世界极其宏大，它将带你前所未有地深入黑暗时代。"
     },
     {
+        "id": "qstr_^Welcome_to_Viking_C",
         "text": "^Welcome_to_Viking_Conquest_Reforged_Edition^^^{s2}^^{s3}",
-        "translation": "^欢迎来到维京征服重铸版^^^{s2}^^{s3}"
+        "old_translation": "^欢迎来到《维京征服：重铸版》^^^{s2}^^{s3}",
+        "translation": "^欢迎来到《维京征服：重铸版》^^^{s2}^^{s3}"
     },
     {
+        "id": "qstr_In_this_mode_you_sta",
         "text": "In_this_mode,_you_start_out_either_as_a_nobleman_or_a_king_of_a_faction._As_a_nobleman,_you'll_take_control_of_your_fief_and_lead_armies._As_a_king,_you_decide_kingdom's_policies,_declare_wars,_lead_armies_and_develop_your_kingdom.",
-        "translation": "在这种模式下，你开始就是一个领主或者国王。作为一个领主，你要控制你的封地和领导军队。作为一个国王，你决定王国的政策，宣布战争，领导军队，发展你的王国。"
+        "old_translation": "在此模式中，你开局就是某势力的贵族或国王。作为贵族，你将掌控自己的领地并率军出征；作为国王，你制定国策、宣战、领军、发展王国。",
+        "translation": "在此模式中，你开局就是某势力的贵族或国王。作为贵族，你将掌控自己的领地并率军出征；作为国王，你制定国策、宣战、领军、发展王国。"
     },
     {
+        "id": "qstr_Your_first_priority_",
         "text": "Your_first_priority_should_be_to_develop_your_possessions,_increase_income_and_fill_your_coffers_with_peningas._Stabilize_your_kingdom_before_starting_new_conquests.^^Leading_people_is_not_easy._War_devours_resources,_and_this_world_is_full_of_dangers._Your_actions_will_determine_the_future_of_your_kingdom...",
-        "translation": "你的首要任务应该是扩大你的财富，增加收入，让府库充盈。"
+        "old_translation": "你的首要任务是发展领地、增加收入，让府库堆满银便士。在开启新征服前先稳固王国。^^统御众人并非易事，战争吞噬资源，而这个世界危机四伏。你的抉择将决定王国的未来……",
+        "translation": "你的首要任务是发展领地、增加收入，让府库堆满银便士。在开启新征服前先稳固王国。^^统御众人并非易事，战争吞噬资源，而这个世界危机四伏。你的抉择将决定王国的未来……"
     },
     {
+        "id": "qstr_^^Welcome_to_Viking_",
         "text": "^^Welcome_to_Viking_Conquest_Reforged_Edition^^^^{s2}^^{s3}",
-        "translation": "^^欢迎来到维京征服重铸版^^^{s2}^^{s3}"
+        "old_translation": "^^欢迎来到《维京征服：重铸版》^^^^{s2}^^{s3}",
+        "translation": "^^欢迎来到《维京征服：重铸版》^^^^{s2}^^{s3}"
     },
     {
+        "id": "qstr_In_the_storyline_you",
         "text": "In_the_storyline,_you_start_as_a_hero_with_an_uncertain_fate.^Please_read_the_following_carefully,_because_the_gameplay_varies_slightly_from_the_sandbox_campaign.",
-        "translation": "在故事模式中，你作为一个不确定命运的英雄开始游戏，请仔细阅读以下内容，因为游戏玩法与沙盒模式略有不同。"
+        "old_translation": "在故事模式中，你以命运未卜的英雄身份开局。^请仔细阅读以下内容，因为玩法与沙盒模式略有不同。",
+        "translation": "在故事模式中，你以命运未卜的英雄身份开局。^请仔细阅读以下内容，因为玩法与沙盒模式略有不同。"
     },
     {
+        "id": "qstr_The_story_follows_it",
         "text": "The_story_follows_its_own_development_path_and_the_decisions_you_make_may_affect_the_world_around_you_in_addition_to_standard_game_mechanics._This_means_you_won't_be_able_to_freely_join_any_kingdom_or_serve_any_king,_except_when_allowed_to_do_so.^The_behavior_of_the_kingdoms,_especially_those_important_to_story_and_in_history,_will_follow_the_chronology_of_historical_events_as_much_as_possible._As_a_result,_these_kingdoms_may_not_be_destroyed_if_they_were_not_defeated_historically.^Moreover,_you_won't_be_able_to_get_rid_of_your_companions,_grant_them_fiefs,_or_make_them_vassals,_as_long_as_you're_playing_the_storyline._As_many_of_your_companions_are_important_to_many_missions,_it_is_critical_that_they_remain_a_part_of_your_war_band.^^It_took_many_months_to_build_and_research_Viking_Conquest_storyline,_using_historical_sources,_sagas,_and_deep_love_for_Viking_world._We_do_hope_that_you_enjoy_it_as_much_as_we_did.",
-        "translation": "故事遵循它自己的发展道路，你的决定可能会影响到你周围的世界，除了标准的游戏机制。这意味着你将无法自由加入任何王国或服务任何国王，除非被允许这样做。^王国的兴衰，尤其是那些重要的故事和历史相关的，将尽可能还原历史。所以，如果他们在历史上没有被击败，这些王国就不会被摧毁。^只要你玩故事模式，你就无法摆脱你的同伴，也不能给他们的封地或封为领主。你的许多同伴和关键任务相关，重要的是他们是你团队的一部分。^花了几个月的时间来编写维京征服的故事情节，运用大量史料，传说，以及我们对维京世界的热爱。我们希望你能像我们一样喜欢它。"
+        "old_translation": "故事按自身轨迹发展，你的决定除标准机制外还可能影响周遭世界。这意味着除非剧情允许，你无法自由加入任何王国或效忠任何国王。^王国行为，尤其与故事及历史紧密相关者，将尽可能遵循史实时间线，因此若历史上未被灭，这些王国便不会灭亡。^此外，只要仍在故事模式中，你无法遣散同伴、分封领地或将其封为封臣。由于许多同伴与关键任务息息相关，他们必须留在你的战团中。^^我们花费数月，以史料、萨迦及对维京世界的深爱构建《维京征服》故事。愿你像我们一样沉浸其中。",
+        "translation": "故事按自身轨迹发展，你的决定除标准机制外还可能影响周遭世界。这意味着除非剧情允许，你无法自由加入任何王国或效忠任何国王。^王国行为，尤其与故事及历史紧密相关者，将尽可能遵循史实时间线，因此若历史上未被灭，这些王国便不会灭亡。^此外，只要仍在故事模式中，你无法遣散同伴、分封领地或将其封为封臣。由于许多同伴与关键任务息息相关，他们必须留在你的战团中。^^我们花费数月，以史料、萨迦及对维京世界的深爱构建《维京征服》故事。愿你像我们一样沉浸其中。"
     },
     {
+        "id": "qstr_The_supply_box_will_",
         "text": "The_supply_box_will_be_available_{reg1?after_{reg0}_rounds:next_round}.",
-        "translation": "{reg1?在{reg0}回合后:下回合}将出现补给箱。"
+        "old_translation": "补给箱将在{reg1?{reg0}回合后:下回合}出现。",
+        "translation": "补给箱将在{reg1?{reg0}回合后:下回合}出现。"
     },
     {
+        "id": "qstr_Head_armor_cannot_be",
         "text": "Head_armor_cannot_be_used_with_hoods_and_is_being_discarded_for_{s0}.",
-        "translation": "{s0}的兜帽无法提供头部防御，因此防御被扣减了。"
+        "old_translation": "头部护甲无法与兜帽共用，因此{s0}的防御被舍弃。",
+        "translation": "头部护甲无法与兜帽共用，因此{s0}的防御被舍弃。"
     },
     {
+        "id": "qstr_You_can_t_sleep._You",
         "text": "You_can't_sleep._You_can_hear_the_constant_crunch_of_the_boat_hull,_smell_sea_brine,_and_feel_the_breeze_caressing_your_face,_but_your_eyes_are_closed_and_refuse_to_open._And_your_mind_keeps_dreaming,_remembering_other_times,_a_past_life_that_feels_far_away_and_that_you_remember_less_every_day,_even_though_not_many_months_have_passed_since_your_departure.^^Now,_the_future_is_uncertain._Your_journey_has_brought_you_to_the_Frisian_Sea_hoping_to_find_news_about_an_old_sorcerer_who_takes_care_of_all_ills,_because_your_mother_is_sick._For_her_you_left_everything_behind,_a_world_you_knew_like_the_back_of_your_hand,_and_paid_for_passage_on_a_north_boat,_a_paunchy_merchantman._It's_slow_and_clumsy,_but_its_captain_has_promised_to_take_you_to_the_remote_part_of_Friese_where_the_sorcerer_lives.^^Your_mother_travels_with_you;_nobody_else_has_joined_you._Her_illness_progresses,_and_there_are_days_when_she_no_longer_recognizes_you,_but_she_appears_to_be_completely_sound_at_other_times._Every_morning_you_wake_up_not_knowing_which_day_it_will_be:_will_you_be_able_to_converse_with_her_or_will_you_have_to_tie_her_to_a_post_so_she_does_not_fall_overboard?^^You_need_to_wake_up,_though_your_eyes_oppose_you_and_your_mind_boils_with_fever...^^One_more_effort._Your_eyelids_obey...",
-        "translation": "你无法入眠。你听到海水拍打着船体的声音，微风轻轻地抚摸着你的脸，但你不想睁开眼睛，你在回忆着，回忆那些过去的时间，你感到过去的生活是多么的遥远，你清楚的记得你失去的每一天，即使从你离开以来已经好几个月了。^^现在，没人知道未来会发生什么。你的旅程带你来到了弗里斯海，你希望可以找到一个老巫医来治病，因为你的母亲病了。自从你和你的母亲抛下一切，你的脑子一片空白，在通往北边的船中，一艘巨大的商船。它是如此的缓慢和笨重，但是船长答应带你到遥远的弗里斯，而老巫医就住在那里^^你的母亲和你在一起，没有任何人来打扰你们。她的病情在慢慢的恶化，并且有一天你的母亲不再认识你，但是曾经她是多么的完美。你每天早晨醒来都不知道事情会发展的怎么样：你可以和她谈话，或者你得把她绑起来以免她掉入海中。^^你想要醒来，虽然你的眼睛在反抗你，但你那沸腾的心在挣扎着…^^最终，你还是睁开了你的眼睛…"
+        "old_translation": "你无法入睡。你听见船壳持续的吱嘎声，闻到海水的咸腥，感到微风拂面，可双眼紧闭，怎么也睁不开。你的脑海仍在做梦，忆起往昔，那段日渐模糊的前世，尽管离出发不过数月。^^如今，未来难测。为寻一位能治百病的老巫师，你来到弗里西海域，只因母亲病重。为了她，你抛下熟悉的世界，登上北行的胖商船。它笨重缓慢，船长却答应载你前往弗里西偏远之地，巫师便隐居那里。^^母亲与你同行，再无他人。她的病日益加重，有时已认不出你，有时又完全清醒。每日清晨醒来，你都不知今日如何：是能与她交谈，还是必须把她绑在柱子上以防坠海？^^你必须醒来，可双眼抗拒，脑海如焚……再努力一次，眼皮终于听从……",
+        "translation": "你无法入睡。你听见船壳持续的吱嘎声，闻到海水的咸腥，感到微风拂面，可双眼紧闭，怎么也睁不开。你的脑海仍在做梦，忆起往昔，那段日渐模糊的前世，尽管离出发不过数月。^^如今，未来难测。为寻一位能治百病的老巫师，你来到弗里西海域，只因母亲病重。为了她，你抛下熟悉的世界，登上北行的胖商船。它笨重缓慢，船长却答应载你前往弗里西偏远之地，巫师便隐居那里。^^母亲与你同行，再无他人。她的病日益加重，有时已认不出你，有时又完全清醒。每日清晨醒来，你都不知今日如何：是能与她交谈，还是必须把她绑在柱子上以防坠海？^^你必须醒来，可双眼抗拒，脑海如焚……再努力一次，眼皮终于听从……"
     },
     {
+        "id": "qstr_You_can_t_have_more_",
         "text": "You_can't_have_more_than_two_active_troop_quarters.",
-        "translation": "你不能有超过两个活跃的队伍。"
+        "old_translation": "你不能拥有超过两个军营。",
+        "translation": "你不能拥有超过两个军营。"
     },
     {
+        "id": "qstr_The_night_falls_whil",
         "text": "The_night_falls_while_the_ship,_the_Woden_Ric,_crosses_the_ocean._There_is_a_good_wind_and_the_Woden_Ric_enjoys_good_sailing_away_from_the_site_of_the_battle_where_it_stopped_in_the_morning._The_Frisian_coast_is_near_by_the_time_you_fall_asleep.^The_ship_sails_during_the_night_while_the_shift_rotates_at_the_rudder._If_all_goes_well,_landfall_will_occur_the_next_day,_and_you'll_be_a_little_closer_to_your_destination.^If_all_goes_well..._if_only_your_nights_were_not_filled_with_nightmares_of_ships_consumed_by_fire_and_drowned_men_floating_on_bloody_water._You_are_trapped_in_this_way,_costing_you_escape_even_to_the_world_of_dreams,_when_a_hand_shakes_you,_and_a_voice_calls_loudly_near_your_ear.^You_open_your_eyes_and_see_the_taciturn_face_of_the_captain_illuminated_by_the_light_of_dawn.__You_see_his_lips_moving_frantically_and_gradually_begin_to_understand_his_words...^^",
-        "translation": "当沃登里克号正在长风破浪之际，夜幕降临了。目前风向良好，战斗在早晨就已经停止了。你在船到达弗里斯海岸附近时入睡。^船在夜间航行，方向舵疯狂的旋转着。如果一切顺利的话，你将会在第二天到达目的地，你正在一点点的接近你的目的地。^如果一切顺利…你被梦魔困扰着，它使你逃避现实甚至去空想，当你感觉到你正被剧烈的抖动，一个声音正在大声的呼唤着你，使你从梦中惊醒。^你慢慢地睁开眼睛，模糊的视线伴随着阳光看到了船长沉默的脸。你从他疯狂抖动着的嘴唇中渐渐地明白他的话…^^"
+        "old_translation": "夜幕降临，沃登里克号破浪前行。风势正好，船已驶离早晨的战场。你在船抵近弗里西亚海岸时入睡。^夜间，舵手轮班操船。若一切顺利，次日即可靠岸，你离目的地又近一步。^若一切顺利……但愿夜晚不被火海沉船与浮尸血水的噩梦填满。你困于梦魇，连梦境都无处逃遁。一只手猛摇你，耳边有人高声呼喊。^你睁眼，看见船长沉默的脸被晨光映亮。他嘴唇急动，你渐渐听清他的话语……^^",
+        "translation": "夜幕降临，沃登里克号破浪前行。风势正好，船已驶离早晨的战场。你在船抵近弗里西亚海岸时入睡。^夜间，舵手轮班操船。若一切顺利，次日即可靠岸，你离目的地又近一步。^若一切顺利……但愿夜晚不被火海沉船与浮尸血水的噩梦填满。你困于梦魇，连梦境都无处逃遁。一只手猛摇你，耳边有人高声呼喊。^你睁眼，看见船长沉默的脸被晨光映亮。他嘴唇急动，你渐渐听清他的话语……^^"
     },
     {
+        "id": "qstr_Back_to_the_beginnin",
         "text": "Back_to_the_beginning...",
-        "translation": "回到开始…"
+        "old_translation": "回到开始……",
+        "translation": "回到开始……"
     },
     {
+        "id": "qstr_View_next_segment...",
         "text": "View_next_segment...",
-        "translation": "查看下节…"
+        "old_translation": "查看下节……",
+        "translation": "查看下一段……"
     },
     {
+        "id": "qstr_Selected_faction_is:",
         "text": "Selected_faction_is:_{s10}^^{s9}",
-        "translation": "选择的阵营是：{s10}^^{s9}"
+        "old_translation": "所选阵营：{s10}^^{s9}",
+        "translation": "所选阵营：{s10}^^{s9}"
     },
     {
+        "id": "qstr_You_are_currently_re",
         "text": "You_are_currently_reading_{s8}.",
+        "old_translation": "你正在阅读{s8}。",
         "translation": "你正在阅读{s8}。"
     },
     {
+        "id": "qstr_You_are_not_reading_",
         "text": "You_are_not_reading_any_books.",
-        "translation": "你没有在阅读任何书籍。"
+        "old_translation": "你未阅读任何书籍。",
+        "translation": "你未阅读任何书籍。"
     },
     {
+        "id": "qstr_{s5}_and_{s6}",
         "text": "{s5}_and_{s6}",
+        "old_translation": "{s5}和{s6}",
         "translation": "{s5}和{s6}"
     },
     {
+        "id": "qstr_Your_estates_are:_{s",
         "text": "Your_estates_are:_{s8}.^{s9}",
-        "translation": "你的封地在：{s8}.^{s9}"
+        "old_translation": "你的封地在：{s8}。^{s9}",
+        "translation": "你的封地在：{s8}。^{s9}"
     },
     {
+        "id": "qstr_You_don_t_have_the_m",
         "text": "You_don't_have_the_money_to_pay_your_men_to_fortify_the_camp._They_do_the_job,_but_angrily.",
-        "translation": "你没有足够的资金来支付士兵的工资。他们还在工作，但很气愤。"
+        "old_translation": "你没有足够的钱支付部下加固营地。他们还是干了活，却满肚子火。",
+        "translation": "你没有足够的钱让部下加固营地。他们还是干了活，却满肚子火。"
     },
     {
+        "id": "qstr_After_you_buy_the_ma",
         "text": "After_you_buy_the_materials,_your_men_build_a_permanent_shelter_for_you.",
-        "translation": "在你备齐所有的材料后，你的人为你建造了一个永久的庇护所。"
+        "old_translation": "你买齐材料后，部下为你建起一座永久住所。",
+        "translation": "你买齐材料后，部下为你建起一座永久住所。"
     },
     {
+        "id": "qstr_Player_renown_is_inc",
         "text": "Player_renown_is_increased_by_100.",
-        "translation": "玩家声望上升100点"
+        "old_translation": "玩家声望上升100点。",
+        "translation": "玩家声望上升100点。"
     },
     {
+        "id": "qstr_Player_reputation_is",
         "text": "Player_reputation_is_increased_by_1,_and_it_is_now_{reg7}.",
+        "old_translation": "玩家声望上升1点，现在是{reg7}。",
         "translation": "玩家声望上升1点，现在是{reg7}。"
     },
     {
+        "id": "qstr_Player_reputation_is_",
         "text": "Player_reputation_is_decreased_by_5,_and_it_is_now_{reg7}.",
+        "old_translation": "玩家声望下降5点，现在是{reg7}。",
         "translation": "玩家声望下降5点，现在是{reg7}。"
     },
     {
+        "id": "qstr_Reseted.",
         "text": "Reseted.",
+        "old_translation": "重置。",
         "translation": "重置。"
     },
     {
+        "id": "qstr_The_time_to_meet_with_",
         "text": "The_time_to_meet_with_the_troops_from_the_Kingdom_of_Asturias_has_arrived._Bodo's_letter_indicates_that_they_will_dock_at_{s3},_and_{s11}_wants_you_go_there_and_meet_with_them._There_is_a_traitor_named_Silo._Use_him_to_gain_favor_with_the_Asturian_troops_and_bring_them_to_the_side_of_the_sons_of_Ragnar._If_you_fail_to_convince_them,_{s11}_wants_them_destroyed.^^But_before_you_leave_Englaland,_you_must_go_to_{s3}_and_talk_to_the_old_captain_at_the_port,_as_{s11}_has_gathered_men_and_ships_to_help_you_in_Douar-an-Enez.",
-        "translation": "随着时间的推移，与阿斯图里亚斯军队会面的日子到了。博多在信中提到他们会停靠在{s3}，并且{s11}想让你去和他们汇合。那有一个名叫西诺的叛徒。你必须巧妙地揭露他的身份，这样就不会破坏你与阿斯图里亚斯的关系。^^{s11}正在当纳莱斯集合士兵和战船，你得去和{s3}港口的老船长谈谈。"
+        "old_translation": "与阿斯图里亚斯王国军队会面的时刻已到。博多的信中说他们将在{s3}靠岸，{s11}要你前去接洽。其中有个叫西洛的叛徒。利用他赢得阿斯图里亚斯军的好感，把他们拉到拉格纳之子一边。若劝说不成，{s11}要你消灭他们。^^但在离开英格兰之前，你必须先去{s3}，与港口的老队长谈谈，因为{s11}已在杜瓦讷内集结了人手与船只助你。",
+        "translation": "与阿斯图里亚斯王国军队会面的时刻已到。博多的信中说他们将在{s3}靠岸，{s11}要你前去接洽。其中有个叫西洛的叛徒。利用他赢得阿斯图里亚斯军的好感，把他们拉到拉格纳之子一边。若劝说不成，{s11}要你消灭他们。^^但在离开英格兰之前，你必须先去{s3}，与港口的老队长谈谈，因为{s11}已在杜瓦讷内集结了人手与船只助你。"
     },
     {
+        "id": "qstr_The_time_to_meet_with_t",
         "text": "The_time_to_meet_with_the_troops_from_the_Kingdom_of_Asturias_has_arrived._Bodo's_letter_indicates_that_they_will_dock_at_{s3},_and_{s11}_wants_you_go_there_and_meet_with_them._There_is_a_traitor_named_Silo._You_have_to_expose_him_and_destroy_him_diplomatically,_without_breaking_relations_with_the_Asturians.^^{s11}_has_gathered_men_and_ships_to_help_you_in_Douar-an-Enez._You_must_go_to_{s3}_and_talk_to_the_old_captain_at_the_port.",
-        "translation": "与阿斯图里亚斯的军队见面的时候到了。博多的信上说他们将在{s3}靠岸，{s11}希望你在那里找到他们。这支军队有一名叛徒，你需要巧妙地揭穿他的身份，以免破坏与阿斯图里亚斯的关系。^^{s11}已经在当纳莱斯召集了士兵和船只帮助你。你必须前往{s3}并在港口与老船长谈话。"
+        "old_translation": "与阿斯图里亚斯王国军队会面的时刻已到。博多的信中说他们将在{s3}靠岸，{s11}要你前去接洽。其中有个叫西洛的叛徒。你必须在外交上揭露并除掉他，同时不破坏与阿斯图里亚斯的关系。^^{s11}已在杜瓦讷内集结了人手与船只助你。你必须前往{s3}，与港口的老队长谈谈。",
+        "translation": "与阿斯图里亚斯王国军队会面的时刻已到。博多的信中说他们将在{s3}靠岸，{s11}要你前去接洽。其中有个叫西洛的叛徒。你必须在外交上揭露并除掉他，同时不破坏与阿斯图里亚斯的关系。^^{s11}已在杜瓦讷内集结了人手与船只助你。你必须前往{s3}，与港口的老队长谈谈。"
     },
     {
+        "id": "qstr_Go_to_Old_Captain.",
         "text": "Go_to_Old_Captain.",
-        "translation": "去找老船长。"
+        "old_translation": "去找老队长。",
+        "translation": "去找老队长。"
     },
     {
+        "id": "qstr_The_king_of_Danmark_",
         "text": "The_king_of_Danmark_suggested_that_you_talk_to_Ulf_at_his_farmstead_to_convince_him_not_to_testify_against_you_at_the_Assembly._In_addition,_{s10}_said_it_would_be_a_good_idea_to_have_good_relations_(more_than_15_relation_points)_with_the_jarls_of_Danmark,_so_they_speak_favorably_about_you_at_the_Assembly.",
-        "translation": "丹麦国王建议你去乌尔夫的农场并说服他不要在议事会上指证你。此外，{s10}认为与其他丹麦领主搞好关系（15点好感度以上）是一个好主意，因此他们会在议事会上为你说好话。"
+        "old_translation": "丹麦国王建议你去乌尔夫的农场，说服他不要在集结地作证指控你。此外，{s10}说，与丹麦的诸位雅尔保持良好关系（关系值超过15点）是明智之举，这样他们会在集结地为你说好话。",
+        "translation": "丹麦国王建议你去乌尔夫的农场，说服他不要在集结地作证指控你。此外，{s10}说，与丹麦的诸位领主保持良好关系（关系值超过15点）是明智之举，这样他们会在集结地为你说好话。"
     },
     {
+        "id": "qstr_You_have_recently_re",
         "text": "You_have_recently_returned_to_the_islands._It_seems_the_world_has_gone_mad._The_Danish_have_advanced_on_West_Seaxe_and_have_fortified_a_camp_at_Readingum,_where_they_have_managed_to_defeat_an_attack_by_the_Saxons._Now,_West_Seaxe_is_gathering_the_fyrd_in_Aescesdun,_calling_all_possible_men_to_finish_off_the_Danish._West_Seaxe_is_fighting_desperately_for_its_survival._The_Danish,_in_turn,_are_hastening_to_march_against_them._It_seems_a_large_battle_is_in_the_future,_and_Sven_will_be_in_it._You_must_meet_with_{s11}_as_soon_as_possible_in_Readingum,_near_{s3}.",
-        "translation": "你最近回到了岛上。看来整个世界都疯了。丹麦人进军到了西撒克逊并在雷丁镇建立了强化营地，他们成功击退了撒克逊人的一次攻击。现在，西撒克逊在阿先顿召集所有能动员到的民兵去消灭丹麦人。西撒克逊为了其生存孤注一掷地战斗着。丹麦人则加紧了攻势。看起来一场大战在所难免，斯温也在里面。你必须尽快与{s11}在{s3}会合。"
+        "old_translation": "你最近回到群岛。世界仿佛疯了。丹麦人已深入西撒克逊，在雷丁姆筑营固守，并击退了撒克逊人的一次进攻。如今，西撒克逊在阿什顿召集民兵，号召所有能战之士歼灭丹麦人。西撒克逊为存亡而战。丹麦人亦加速进军。大战在即，斯温也将参战。你必须尽快在{s3}附近的雷丁姆与{s11}会合。",
+        "translation": "你最近回到群岛。世界仿佛疯了。丹麦人已深入西撒克逊，在雷丁姆筑营固守，并击退了撒克逊人的一次进攻。如今，西撒克逊在阿什顿召集民兵，号召所有能战之士歼灭丹麦人。西撒克逊为存亡而战。丹麦人亦加速进军。大战在即，斯温也将参战。你必须尽快在{s3}附近的雷丁姆与{s11}会合。"
     },
     {
+        "id": "qstr_You_have_recently_ret",
         "text": "You_have_recently_returned_to_the_islands._It_seems_the_world_has_gone_mad._The_Danish_have_advanced_on_West_Seaxe_and_have_fortified_a_camp_at_Readingum,_where_they_have_managed_to_defeat_an_attack_by_the_Saxons._Now,_West_Seaxe_is_gathering_the_fyrd_in_Aescesdun,_calling_all_possible_men_to_finish_off_the_Danish._West_Seaxe_is_fighting_desperately_for_its_survival._The_Danish,_in_turn,_are_hastening_to_march_against_them._It_seems_a_large_battle_is_in_the_future,_and_Sven_will_be_in_it._You_must_meet_with_{s11}_as_soon_as_possible_in_Aescesdun,_near_{s3}.",
-        "translation": "你最近回到了岛上。看来整个世界都疯了。丹麦人进军到了西撒克逊并在雷丁镇建立了强化营地，他们成功击退了撒克逊人的一次攻击。现在，西撒克逊在阿先顿召集所有能动员到的民兵去消灭丹麦人。西撒克逊为了其生存孤注一掷地战斗着。丹麦人则加紧了攻势。看起来一场大战在所难免，斯温也在里面。你必须尽快与{s11}在{s3}会合。"
+        "old_translation": "你最近回到群岛。世界仿佛疯了。丹麦人已深入西撒克逊，在雷丁姆筑营固守，并击退了撒克逊人的一次进攻。如今，西撒克逊在阿什顿召集民兵，号召所有能战之士歼灭丹麦人。西撒克逊为存亡而战。丹麦人亦加速进军。大战在即，斯温也将参战。你必须尽快在{s3}附近的阿什顿与{s11}会合。",
+        "translation": "你最近回到群岛。世界仿佛疯了。丹麦人已深入西撒克逊，在雷丁姆筑营固守，并击退了撒克逊人的一次进攻。如今，西撒克逊在阿什顿召集民兵，号召所有能战之士歼灭丹麦人。西撒克逊为存亡而战。丹麦人亦加速进军。大战在即，斯温也将参战。你必须尽快在{s3}附近的阿什顿与{s11}会合。"
     },
     {
+        "id": "qstr_Go_to_your_lord.",
         "text": "Go_to_your_lord.",
-        "translation": "去你主人的。"
+        "old_translation": "去找你的领主。",
+        "translation": "去找你的领主。"
     },
     {
+        "id": "qstr_Go_to_talk_to_Aelfre",
         "text": "Go_to_talk_to_Aelfred_(Wessex_side)_or_Halfdan_(Danish_side).",
-        "translation": "与艾弗德（西撒克逊方）或哈弗丹（丹麦方）谈话。"
+        "old_translation": "去与阿尔弗雷德（西撒克逊方）或哈夫丹（丹麦方）谈话。",
+        "translation": "去与阿尔弗雷德（西撒克逊方）或哈夫丹（丹麦方）谈话。"
     },
     {
+        "id": "qstr_off",
         "text": "off",
-        "translation": "不"
+        "old_translation": "关",
+        "translation": "关"
     },
     {
+        "id": "qstr_{reg1}_{s1}_{reg2?ac",
         "text": "{reg1}_{s1}_{reg2?accept:accepts}_the_offer._Cost:_{reg0}_peningas.",
-        "translation": "{reg1}个{s1}{reg2?接受:接受}你的提议。成本：{reg0}先令。"
+        "old_translation": "{reg1}个{s1}{reg2?接受:接受}了提议。花费：{reg0}银便士。",
+        "translation": "{reg1}个{s1}{reg2?接受:接受}了提议。花费：{reg0}银便士。"
     },
     {
+        "id": "qstr_No_one_accepts_the_o",
         "text": "No_one_accepts_the_offer.",
-        "translation": "没人接受你的提议。"
+        "old_translation": "无人接受提议。",
+        "translation": "无人接受提议。"
     },
     {
+        "id": "qstr_You_start_reading_{s",
         "text": "You_start_reading_{s2}._After_a_few_pages,_you_feel_you_could_learn_a_lot_from_this_book._You_decide_to_keep_it_close_by_and_read_whenever_you_have_the_time.",
-        "translation": "你开始读{s2}。你决定把它带在身边，任何有空的时候就读几页。"
+        "old_translation": "你开始阅读{s2}。读了几页，你觉得能从中学到很多。你决定随身携带，一有空就翻阅。",
+        "translation": "你开始阅读{s2}。读了几页，你觉得能从中学到很多。你决定随身携带，一有空就翻阅。"
     },
     {
+        "id": "qstr_You_flip_through_the",
         "text": "You_flip_through_the_pages_of_{s2},_but_you_find_the_text_confusing_and_difficult_to_follow._Try_as_you_might,_it_soon_gives_you_a_headache,_and_you're_forced_to_give_up_the_attempt.",
-        "translation": "你翻着{s2}，但你发现里面的内容很难理解。看了几页后，你感觉到头很痛，然后放弃阅读了。"
+        "old_translation": "你翻着{s2}，却觉得内容晦涩难懂。你努力尝试，却很快头痛欲裂，只得作罢。",
+        "translation": "你翻着{s2}，却觉得内容晦涩难懂。你努力尝试，却很快头痛欲裂，只得作罢。"
     }
 ]

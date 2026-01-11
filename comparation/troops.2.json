@@ -1,22 +1,3002 @@
 [
     {
-        "text": "Goidelic_Archer",
-        "translation": "戈伊德尔弓箭手"
+        "id": "trp_kingdom_7_lady_7",
+        "text": "Aepelhilde",
+        "old_translation": "",
+        "translation": "爱普海达"
     },
     {
-        "text": "Goidelic_Cavalry",
-        "translation": "戈伊德尔骑兵"
+        "id": "trp_kingdom_7_lady_7_pl",
+        "text": "Aepelhilde",
+        "old_translation": "",
+        "translation": "爱普海达"
     },
     {
-        "text": "Pictish_Infantry",
-        "translation": "皮克特步兵"
+        "id": "trp_kingdom_7_lady_8",
+        "text": "Aepelswip",
+        "old_translation": "",
+        "translation": "爱普薇"
     },
     {
-        "text": "Pictish_Archer",
-        "translation": "皮克特弓箭手"
+        "id": "trp_kingdom_7_lady_8_pl",
+        "text": "Aepelswip",
+        "old_translation": "",
+        "translation": "爱普薇"
     },
     {
-        "text": "Pictish_Cavalry",
-        "translation": "皮克特骑兵"
+        "id": "trp_kingdom_7_lady_9",
+        "text": "Aette",
+        "old_translation": "",
+        "translation": "艾缇"
+    },
+    {
+        "id": "trp_kingdom_7_lady_9_pl",
+        "text": "Aette",
+        "old_translation": "",
+        "translation": "艾缇"
+    },
+    {
+        "id": "trp_kingdom_8_lady_1",
+        "text": "Alof_Ragnarsdottir",
+        "old_translation": "",
+        "translation": "艾萝芙·拉格纳杜缇"
+    },
+    {
+        "id": "trp_kingdom_8_lady_1_pl",
+        "text": "Alof",
+        "old_translation": "",
+        "translation": "艾萝芙"
+    },
+    {
+        "id": "trp_kingdom_8_lady_2",
+        "text": "Eanflaed",
+        "old_translation": "",
+        "translation": "恩芙蕾"
+    },
+    {
+        "id": "trp_kingdom_8_lady_2_pl",
+        "text": "Eanflaed",
+        "old_translation": "",
+        "translation": "恩芙蕾"
+    },
+    {
+        "id": "trp_kingdom_8_lady_3",
+        "text": "Freydis",
+        "old_translation": "",
+        "translation": "菲蒂斯"
+    },
+    {
+        "id": "trp_kingdom_8_lady_3_pl",
+        "text": "Freydis",
+        "old_translation": "",
+        "translation": "菲蒂斯"
+    },
+    {
+        "id": "trp_kingdom_8_lady_4",
+        "text": "Gudrun",
+        "old_translation": "",
+        "translation": "古德温"
+    },
+    {
+        "id": "trp_kingdom_8_lady_4_pl",
+        "text": "Gudrun",
+        "old_translation": "",
+        "translation": "古德温"
+    },
+    {
+        "id": "trp_kingdom_8_lady_5",
+        "text": "Sigrid",
+        "old_translation": "",
+        "translation": "熙吉塔"
+    },
+    {
+        "id": "trp_kingdom_8_lady_5_pl",
+        "text": "Sigrid",
+        "old_translation": "",
+        "translation": "熙吉塔"
+    },
+    {
+        "id": "trp_kingdom_8_lady_6",
+        "text": "Svanhild",
+        "old_translation": "",
+        "translation": "丝万海德"
+    },
+    {
+        "id": "trp_kingdom_8_lady_6_pl",
+        "text": "Svanhild",
+        "old_translation": "",
+        "translation": "丝万海德"
+    },
+    {
+        "id": "trp_kingdom_8_lady_7",
+        "text": "Sigrunn",
+        "old_translation": "",
+        "translation": "希格鲁"
+    },
+    {
+        "id": "trp_kingdom_8_lady_7_pl",
+        "text": "Sigrunn",
+        "old_translation": "",
+        "translation": "希格鲁"
+    },
+    {
+        "id": "trp_kingdom_8_lady_8",
+        "text": "Turid",
+        "old_translation": "",
+        "translation": "图莉"
+    },
+    {
+        "id": "trp_kingdom_8_lady_8_pl",
+        "text": "Turid",
+        "old_translation": "",
+        "translation": "图莉"
+    },
+    {
+        "id": "trp_kingdom_8_lady_9",
+        "text": "Aebbe",
+        "old_translation": "",
+        "translation": "爱比"
+    },
+    {
+        "id": "trp_kingdom_8_lady_9_pl",
+        "text": "Aebbe",
+        "old_translation": "",
+        "translation": "爱比"
+    },
+    {
+        "id": "trp_kingdom_9_lady_1",
+        "text": "Angharad_verch_Meurig",
+        "old_translation": "",
+        "translation": "昂哈拉德·维琦·穆里克"
+    },
+    {
+        "id": "trp_kingdom_9_lady_1_pl",
+        "text": "Angharad",
+        "old_translation": "",
+        "translation": "昂哈拉德"
+    },
+    {
+        "id": "trp_kingdom_9_lady_2",
+        "text": "Elen_verch_Rhodri",
+        "old_translation": "",
+        "translation": "爱伦·维琦·罗德里"
+    },
+    {
+        "id": "trp_kingdom_9_lady_2_pl",
+        "text": "Elen",
+        "old_translation": "",
+        "translation": "爱伦"
+    },
+    {
+        "id": "trp_kingdom_9_lady_3",
+        "text": "Creirwy",
+        "old_translation": "",
+        "translation": "克里薇"
+    },
+    {
+        "id": "trp_kingdom_9_lady_3_pl",
+        "text": "Creirwy",
+        "old_translation": "",
+        "translation": "克里薇"
+    },
+    {
+        "id": "trp_kingdom_9_lady_4",
+        "text": "Nest_verch_Rhodri",
+        "old_translation": "",
+        "translation": "萘丝·维琦·罗德里"
+    },
+    {
+        "id": "trp_kingdom_9_lady_4_pl",
+        "text": "Nest",
+        "old_translation": "",
+        "translation": "营丝"
+    },
+    {
+        "id": "trp_kingdom_9_lady_5",
+        "text": "Lleigy",
+        "old_translation": "",
+        "translation": "莱琪"
+    },
+    {
+        "id": "trp_kingdom_9_lady_5_pl",
+        "text": "Lleigy",
+        "old_translation": "",
+        "translation": "莱琪"
+    },
+    {
+        "id": "trp_kingdom_9_lady_6",
+        "text": "Anna",
+        "old_translation": "",
+        "translation": "安娜"
+    },
+    {
+        "id": "trp_kingdom_9_lady_6_pl",
+        "text": "Anna",
+        "old_translation": "",
+        "translation": "安娜"
+    },
+    {
+        "id": "trp_kingdom_10_lady_1",
+        "text": "Marwenna",
+        "old_translation": "",
+        "translation": "玛温娜"
+    },
+    {
+        "id": "trp_kingdom_10_lady_1_pl",
+        "text": "Marwenna",
+        "old_translation": "",
+        "translation": "玛温娜"
+    },
+    {
+        "id": "trp_kingdom_10_lady_2",
+        "text": "Gwenonwy",
+        "old_translation": "",
+        "translation": "歌温农薇"
+    },
+    {
+        "id": "trp_kingdom_10_lady_2_pl",
+        "text": "Gwenonwy",
+        "old_translation": "",
+        "translation": "歌温农薇"
+    },
+    {
+        "id": "trp_kingdom_10_lady_3",
+        "text": "Gweneddlon",
+        "old_translation": "",
+        "translation": "歌温杜胧"
+    },
+    {
+        "id": "trp_kingdom_10_lady_3_pl",
+        "text": "Gweneddlon",
+        "old_translation": "",
+        "translation": "歌温杜胧"
+    },
+    {
+        "id": "trp_kingdom_11_lady_1",
+        "text": "Verh_Cinaed",
+        "old_translation": "",
+        "translation": "维芙·辛奈德"
+    },
+    {
+        "id": "trp_kingdom_11_lady_1_pl",
+        "text": "Verh_Cinaed",
+        "old_translation": "",
+        "translation": "维芙·辛奈德"
+    },
+    {
+        "id": "trp_kingdom_11_lady_2",
+        "text": "Brifael",
+        "old_translation": "",
+        "translation": "布里法尔"
+    },
+    {
+        "id": "trp_kingdom_11_lady_2_pl",
+        "text": "Brifael",
+        "old_translation": "",
+        "translation": "布里法尔"
+    },
+    {
+        "id": "trp_kingdom_11_lady_3",
+        "text": "Ceindrych",
+        "old_translation": "",
+        "translation": "赛杜琪"
+    },
+    {
+        "id": "trp_kingdom_11_lady_3_pl",
+        "text": "Ceindrych",
+        "old_translation": "",
+        "translation": "赛杜琪"
+    },
+    {
+        "id": "trp_kingdom_11_lady_4",
+        "text": "Morgawse",
+        "old_translation": "",
+        "translation": "摩嘉丝"
+    },
+    {
+        "id": "trp_kingdom_11_lady_4_pl",
+        "text": "Morgawse",
+        "old_translation": "",
+        "translation": "摩嘉丝"
+    },
+    {
+        "id": "trp_kingdom_12_lady_1",
+        "text": "Meisyr",
+        "old_translation": "",
+        "translation": "梅熙亚"
+    },
+    {
+        "id": "trp_kingdom_12_lady_1_pl",
+        "text": "Meisyr",
+        "old_translation": "",
+        "translation": "梅熙亚"
+    },
+    {
+        "id": "trp_kingdom_12_lady_2",
+        "text": "Heledd",
+        "old_translation": "",
+        "translation": "赫蕾德"
+    },
+    {
+        "id": "trp_kingdom_12_lady_2_pl",
+        "text": "Heledd",
+        "old_translation": "",
+        "translation": "赫蕾德"
+    },
+    {
+        "id": "trp_kingdom_12_lady_3",
+        "text": "Ffever",
+        "old_translation": "",
+        "translation": "菲弗"
+    },
+    {
+        "id": "trp_kingdom_12_lady_3_pl",
+        "text": "Ffever",
+        "old_translation": "",
+        "translation": "菲弗"
+    },
+    {
+        "id": "trp_kingdom_12_lady_4",
+        "text": "Medlan",
+        "old_translation": "",
+        "translation": "美得兰"
+    },
+    {
+        "id": "trp_kingdom_12_lady_4_pl",
+        "text": "Medlan",
+        "old_translation": "",
+        "translation": "美得兰"
+    },
+    {
+        "id": "trp_kingdom_13_lady_1",
+        "text": "Rhiain_Ceinfrid",
+        "old_translation": "",
+        "translation": "瑞安·赛福德"
+    },
+    {
+        "id": "trp_kingdom_13_lady_1_pl",
+        "text": "Ceinfrid",
+        "old_translation": "",
+        "translation": "赛福德"
+    },
+    {
+        "id": "trp_kingdom_13_lady_2",
+        "text": "Meddwyl",
+        "old_translation": "",
+        "translation": "美德温"
+    },
+    {
+        "id": "trp_kingdom_13_lady_2_pl",
+        "text": "Meddwyl",
+        "old_translation": "",
+        "translation": "美德温"
+    },
+    {
+        "id": "trp_kingdom_13_lady_3",
+        "text": "Gwladus",
+        "old_translation": "",
+        "translation": "格莱杜丝"
+    },
+    {
+        "id": "trp_kingdom_13_lady_3_pl",
+        "text": "Gwladus",
+        "old_translation": "",
+        "translation": "格莱杜丝"
+    },
+    {
+        "id": "trp_kingdom_14_lady_1",
+        "text": "Muireann",
+        "old_translation": "",
+        "translation": "缪里安"
+    },
+    {
+        "id": "trp_kingdom_14_lady_1_pl",
+        "text": "Muireann",
+        "old_translation": "",
+        "translation": "缪里安"
+    },
+    {
+        "id": "trp_kingdom_14_lady_2",
+        "text": "Medb",
+        "old_translation": "",
+        "translation": "茉比"
+    },
+    {
+        "id": "trp_kingdom_14_lady_2_pl",
+        "text": "Medb",
+        "old_translation": "",
+        "translation": "茉比"
+    },
+    {
+        "id": "trp_kingdom_14_lady_3",
+        "text": "Creide",
+        "old_translation": "",
+        "translation": "凯尔德"
+    },
+    {
+        "id": "trp_kingdom_14_lady_3_pl",
+        "text": "Creide",
+        "old_translation": "",
+        "translation": "凯尔德"
+    },
+    {
+        "id": "trp_kingdom_14_lady_4",
+        "text": "Derbforgaill",
+        "old_translation": "",
+        "translation": "德霍嘉"
+    },
+    {
+        "id": "trp_kingdom_14_lady_4_pl",
+        "text": "Derbforgaill",
+        "old_translation": "",
+        "translation": "德霍嘉"
+    },
+    {
+        "id": "trp_kingdom_15_lady_1",
+        "text": "Mhari",
+        "old_translation": "",
+        "translation": "默哈莉"
+    },
+    {
+        "id": "trp_kingdom_15_lady_1_pl",
+        "text": "Mhari",
+        "old_translation": "",
+        "translation": "默哈莉"
+    },
+    {
+        "id": "trp_kingdom_15_lady_2",
+        "text": "Mall",
+        "old_translation": "",
+        "translation": "玛尔"
+    },
+    {
+        "id": "trp_kingdom_15_lady_2_pl",
+        "text": "Mall",
+        "old_translation": "",
+        "translation": "玛尔"
+    },
+    {
+        "id": "trp_kingdom_15_lady_3",
+        "text": "Teglaig",
+        "old_translation": "",
+        "translation": "泰莱戈"
+    },
+    {
+        "id": "trp_kingdom_15_lady_3_pl",
+        "text": "Teglaig",
+        "old_translation": "",
+        "translation": "泰莱戈"
+    },
+    {
+        "id": "trp_kingdom_15_lady_4",
+        "text": "Lassa",
+        "old_translation": "",
+        "translation": "拉莎"
+    },
+    {
+        "id": "trp_kingdom_15_lady_4_pl",
+        "text": "Lassa",
+        "old_translation": "",
+        "translation": "拉莎"
+    },
+    {
+        "id": "trp_kingdom_16_lady_1",
+        "text": "Cath",
+        "old_translation": "",
+        "translation": "凯芙"
+    },
+    {
+        "id": "trp_kingdom_16_lady_1_pl",
+        "text": "Cath",
+        "old_translation": "",
+        "translation": "凯芙"
+    },
+    {
+        "id": "trp_kingdom_16_lady_2",
+        "text": "Lassair",
+        "old_translation": "",
+        "translation": "莱莎尔"
+    },
+    {
+        "id": "trp_kingdom_16_lady_2_pl",
+        "text": "Lassair",
+        "old_translation": "",
+        "translation": "莱莎尔"
+    },
+    {
+        "id": "trp_kingdom_16_lady_3",
+        "text": "Duinseach",
+        "old_translation": "",
+        "translation": "杜恩琦"
+    },
+    {
+        "id": "trp_kingdom_16_lady_3_pl",
+        "text": "Duinseach",
+        "old_translation": "",
+        "translation": "杜恩琦"
+    },
+    {
+        "id": "trp_kingdom_16_lady_4",
+        "text": "Eva",
+        "old_translation": "",
+        "translation": "爱娃"
+    },
+    {
+        "id": "trp_kingdom_16_lady_4_pl",
+        "text": "Eva",
+        "old_translation": "",
+        "translation": "爱娃"
+    },
+    {
+        "id": "trp_kingdom_16_lady_5",
+        "text": "Doirend",
+        "old_translation": "",
+        "translation": "多里安"
+    },
+    {
+        "id": "trp_kingdom_16_lady_5_pl",
+        "text": "Doirend",
+        "old_translation": "",
+        "translation": "多里安"
+    },
+    {
+        "id": "trp_kingdom_16_lady_6",
+        "text": "Delbchaem",
+        "old_translation": "",
+        "translation": "德查"
+    },
+    {
+        "id": "trp_kingdom_16_lady_6_pl",
+        "text": "Delbchaem",
+        "old_translation": "",
+        "translation": "德查"
+    },
+    {
+        "id": "trp_kingdom_17_lady_1",
+        "text": "Caelfind",
+        "old_translation": "",
+        "translation": "蔡芬"
+    },
+    {
+        "id": "trp_kingdom_17_lady_1_pl",
+        "text": "Caelfind",
+        "old_translation": "",
+        "translation": "蔡芬"
+    },
+    {
+        "id": "trp_kingdom_17_lady_2",
+        "text": "Briana",
+        "old_translation": "",
+        "translation": "布里安娜"
+    },
+    {
+        "id": "trp_kingdom_17_lady_2_pl",
+        "text": "Briana",
+        "old_translation": "",
+        "translation": "布里安娜"
+    },
+    {
+        "id": "trp_kingdom_17_lady_3",
+        "text": "Binne",
+        "old_translation": "",
+        "translation": "碧妮"
+    },
+    {
+        "id": "trp_kingdom_17_lady_3_pl",
+        "text": "Binne",
+        "old_translation": "",
+        "translation": "碧妮"
+    },
+    {
+        "id": "trp_kingdom_17_lady_4",
+        "text": "Aoibheann",
+        "old_translation": "",
+        "translation": "奥比安"
+    },
+    {
+        "id": "trp_kingdom_17_lady_4_pl",
+        "text": "Aoibheann",
+        "old_translation": "",
+        "translation": "奥比安"
+    },
+    {
+        "id": "trp_kingdom_17_lady_5",
+        "text": "Aodhnait",
+        "old_translation": "",
+        "translation": "奥萘特"
+    },
+    {
+        "id": "trp_kingdom_17_lady_5_pl",
+        "text": "Aodhnait",
+        "old_translation": "",
+        "translation": "奥萘特"
+    },
+    {
+        "id": "trp_kingdom_17_lady_6",
+        "text": "Almu",
+        "old_translation": "",
+        "translation": "艾慕"
+    },
+    {
+        "id": "trp_kingdom_17_lady_6_pl",
+        "text": "Almu",
+        "old_translation": "",
+        "translation": "艾慕"
+    },
+    {
+        "id": "trp_kingdom_18_lady_1",
+        "text": "Fedelm",
+        "old_translation": "",
+        "translation": "菲道尔"
+    },
+    {
+        "id": "trp_kingdom_18_lady_1_pl",
+        "text": "Fedelm",
+        "old_translation": "",
+        "translation": "菲道尔"
+    },
+    {
+        "id": "trp_kingdom_18_lady_2",
+        "text": "Uaisle",
+        "old_translation": "",
+        "translation": "乌爱丝"
+    },
+    {
+        "id": "trp_kingdom_18_lady_2_pl",
+        "text": "Uaisle",
+        "old_translation": "",
+        "translation": "乌爱丝"
+    },
+    {
+        "id": "trp_kingdom_18_lady_3",
+        "text": "Condadil",
+        "old_translation": "",
+        "translation": "康戴"
+    },
+    {
+        "id": "trp_kingdom_18_lady_3_pl",
+        "text": "Condadil",
+        "old_translation": "",
+        "translation": "康戴"
+    },
+    {
+        "id": "trp_kingdom_18_lady_4",
+        "text": "Flannesda",
+        "old_translation": "",
+        "translation": "芙兰丝达"
+    },
+    {
+        "id": "trp_kingdom_18_lady_4_pl",
+        "text": "Flannesda",
+        "old_translation": "",
+        "translation": "芙兰丝达"
+    },
+    {
+        "id": "trp_kingdom_18_lady_5",
+        "text": "Mor",
+        "old_translation": "",
+        "translation": "莫尔"
+    },
+    {
+        "id": "trp_kingdom_18_lady_5_pl",
+        "text": "Mor",
+        "old_translation": "",
+        "translation": "莫尔"
+    },
+    {
+        "id": "trp_kingdom_18_lady_6",
+        "text": "Aine",
+        "old_translation": "",
+        "translation": "爱妮"
+    },
+    {
+        "id": "trp_kingdom_18_lady_6_pl",
+        "text": "Aine",
+        "old_translation": "",
+        "translation": "爱妮"
+    },
+    {
+        "id": "trp_kingdom_19_lady_1",
+        "text": "Muire_ingen_Cinaeda",
+        "old_translation": "",
+        "translation": "穆尔·英格恩·辛奈德"
+    },
+    {
+        "id": "trp_kingdom_19_lady_1_pl",
+        "text": "Muire",
+        "old_translation": "",
+        "translation": "穆尔"
+    },
+    {
+        "id": "trp_kingdom_19_lady_2",
+        "text": "Gormlaith",
+        "old_translation": "",
+        "translation": "戈莱丝"
+    },
+    {
+        "id": "trp_kingdom_19_lady_2_pl",
+        "text": "Gormlaith",
+        "old_translation": "",
+        "translation": "戈莱丝"
+    },
+    {
+        "id": "trp_kingdom_19_lady_3",
+        "text": "Eithne",
+        "old_translation": "",
+        "translation": "爱芙"
+    },
+    {
+        "id": "trp_kingdom_19_lady_3_pl",
+        "text": "Eithne",
+        "old_translation": "",
+        "translation": "爱芙"
+    },
+    {
+        "id": "trp_kingdom_19_lady_4",
+        "text": "Lann",
+        "old_translation": "",
+        "translation": "兰恩"
+    },
+    {
+        "id": "trp_kingdom_19_lady_4_pl",
+        "text": "Lann",
+        "old_translation": "",
+        "translation": "兰恩"
+    },
+    {
+        "id": "trp_kingdom_19_lady_5",
+        "text": "Etain",
+        "old_translation": "",
+        "translation": "爱坦"
+    },
+    {
+        "id": "trp_kingdom_19_lady_5_pl",
+        "text": "Etain",
+        "old_translation": "",
+        "translation": "爱坦"
+    },
+    {
+        "id": "trp_kingdom_20_lady_1",
+        "text": "Coluim",
+        "old_translation": "",
+        "translation": "裘蕾"
+    },
+    {
+        "id": "trp_kingdom_20_lady_1_pl",
+        "text": "Coluim",
+        "old_translation": "",
+        "translation": "裘蕾"
+    },
+    {
+        "id": "trp_kingdom_20_lady_2",
+        "text": "Sabhdh_Ingen_Giric",
+        "old_translation": "",
+        "translation": "萨芙·英格恩·吉里克"
+    },
+    {
+        "id": "trp_kingdom_20_lady_2_pl",
+        "text": "Sabhdh_Ingen_Giric",
+        "old_translation": "",
+        "translation": "萨芙·英格恩·吉里克"
+    },
+    {
+        "id": "trp_kingdom_20_lady_3",
+        "text": "Ingen_Brude",
+        "old_translation": "",
+        "translation": "英格恩·布鲁德"
+    },
+    {
+        "id": "trp_kingdom_20_lady_3_pl",
+        "text": "Ingen_Brude",
+        "old_translation": "",
+        "translation": "英格恩·布鲁德"
+    },
+    {
+        "id": "trp_kingdom_20_lady_4",
+        "text": "Ingen_Domlech",
+        "old_translation": "",
+        "translation": "英格恩·多姆莱赫"
+    },
+    {
+        "id": "trp_kingdom_20_lady_4_pl",
+        "text": "Ingen_Domlech",
+        "old_translation": "",
+        "translation": "英格恩·多姆莱赫"
+    },
+    {
+        "id": "trp_kingdom_20_lady_5",
+        "text": "Ingen_Gwydd",
+        "old_translation": "",
+        "translation": "英格恩·圭斯"
+    },
+    {
+        "id": "trp_kingdom_20_lady_5_pl",
+        "text": "Ingen_Gwydd",
+        "old_translation": "",
+        "translation": "英格恩·圭斯"
+    },
+    {
+        "id": "trp_kingdom_20_lady_6",
+        "text": "Bridei",
+        "old_translation": "",
+        "translation": "布里迪"
+    },
+    {
+        "id": "trp_kingdom_20_lady_6_pl",
+        "text": "Bridei",
+        "old_translation": "",
+        "translation": "布里迪"
+    },
+    {
+        "id": "trp_kingdom_20_lady_7",
+        "text": "Muire",
+        "old_translation": "",
+        "translation": "穆尔"
+    },
+    {
+        "id": "trp_kingdom_20_lady_7_pl",
+        "text": "Muire",
+        "old_translation": "",
+        "translation": "穆尔"
+    },
+    {
+        "id": "trp_kingdom_21_lady_1",
+        "text": "Aideen",
+        "old_translation": "",
+        "translation": "爱丁"
+    },
+    {
+        "id": "trp_kingdom_21_lady_1_pl",
+        "text": "Aideen",
+        "old_translation": "",
+        "translation": "爱丁"
+    },
+    {
+        "id": "trp_kingdom_21_lady_2",
+        "text": "Ethna",
+        "old_translation": "",
+        "translation": "艾芙娜"
+    },
+    {
+        "id": "trp_kingdom_21_lady_2_pl",
+        "text": "Ethna",
+        "old_translation": "",
+        "translation": "艾芙娜"
+    },
+    {
+        "id": "trp_town_1_seneschal",
+        "text": "Norse_Chronicler",
+        "old_translation": "",
+        "translation": "诺斯编年史官"
+    },
+    {
+        "id": "trp_town_1_seneschal_pl",
+        "text": "Chronicler",
+        "old_translation": "",
+        "translation": "编年史官"
+    },
+    {
+        "id": "trp_town_2_seneschal",
+        "text": "Briton_Chronicler",
+        "old_translation": "",
+        "translation": "布立吞编年史官"
+    },
+    {
+        "id": "trp_town_2_seneschal_pl",
+        "text": "Chronicler",
+        "old_translation": "",
+        "translation": "编年史官"
+    },
+    {
+        "id": "trp_town_3_seneschal",
+        "text": "Goidelic_Chronicler",
+        "old_translation": "",
+        "translation": "盖尔编年史官"
+    },
+    {
+        "id": "trp_town_3_seneschal_pl",
+        "text": "Chronicler",
+        "old_translation": "",
+        "translation": "编年史官"
+    },
+    {
+        "id": "trp_town_4_seneschal",
+        "text": "Angle_Chronicler",
+        "old_translation": "",
+        "translation": "盎格鲁编年史官"
+    },
+    {
+        "id": "trp_town_4_seneschal_pl",
+        "text": "Chronicler",
+        "old_translation": "",
+        "translation": "编年史官"
+    },
+    {
+        "id": "trp_town_25_seneschal",
+        "text": "Mael_Bresail",
+        "old_translation": "",
+        "translation": "梅尔·布雷塞尔"
+    },
+    {
+        "id": "trp_castle_1_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_2_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_3_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_4_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_5_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_6_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_7_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_8_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_9_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_10_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_11_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_12_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_13_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_14_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_15_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_16_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_17_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_18_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_19_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_20_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_21_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_22_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_23_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_24_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_25_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_26_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_27_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_28_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_29_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_30_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_31_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_32_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_33_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_34_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_35_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_36_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_37_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_38_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_39_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_40_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_41_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_42_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_43_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_44_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_45_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_46_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_47_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_48_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_49_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_50_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_51_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_52_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_53_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_54_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_55_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_56_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_57_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_58_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_59_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_60_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_61_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_62_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_63_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_64_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_65_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_66_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_67_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_68_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_69_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_70_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_71_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_72_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_73_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_74_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_75_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_76_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_77_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_78_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_79_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_80_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_81_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_82_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_83_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_84_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_85_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_86_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_87_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_88_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_89_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_90_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_castle_91_seneschal",
+        "text": "Fort_Reeve",
+        "old_translation": "",
+        "translation": "城堡长官"
+    },
+    {
+        "id": "trp_town_1_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_2_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_3_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_4_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_5_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_6_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_7_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_8_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_9_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_10_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_11_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_12_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_13_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_14_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_15_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_16_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_17_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_18_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_19_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_20_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_21_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_22_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_23_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_24_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_25_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_26_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_27_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_28_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_29_arena_master",
+        "text": "Competition_Master",
+        "old_translation": "",
+        "translation": "竞技场主"
+    },
+    {
+        "id": "trp_town_1_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_2_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_3_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_4_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_5_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_6_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_7_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_8_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_9_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_10_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_11_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_12_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_13_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_14_armorer",
+        "text": "Eadwine_the_Armorer",
+        "old_translation": "",
+        "translation": "防具商人埃德温"
+    },
+    {
+        "id": "trp_town_15_armorer",
+        "text": "Donnchadh_the_Armorer",
+        "old_translation": "",
+        "translation": "防具商人顿奈赫"
+    },
+    {
+        "id": "trp_town_16_armorer",
+        "text": "Paega_the_Armorer",
+        "old_translation": "",
+        "translation": "防具商人培加"
+    },
+    {
+        "id": "trp_town_17_armorer",
+        "text": "Lifris_the_Armorer",
+        "old_translation": "",
+        "translation": "防具商人立菲斯"
+    },
+    {
+        "id": "trp_town_18_armorer",
+        "text": "Fearchair_the_Armorer",
+        "old_translation": "",
+        "translation": "防具商人费尔柴"
+    },
+    {
+        "id": "trp_town_19_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_20_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_21_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_22_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_23_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_24_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_25_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_26_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_27_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_28_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_29_armorer",
+        "text": "Armorer",
+        "old_translation": "",
+        "translation": "防具商人"
+    },
+    {
+        "id": "trp_town_30_armorer",
+        "text": "Ingleri",
+        "old_translation": "",
+        "translation": "印格里"
+    },
+    {
+        "id": "trp_town_1_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_2_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_3_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_4_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_5_weaponsmith",
+        "text": "Atli_the_Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人阿提利"
+    },
+    {
+        "id": "trp_town_6_weaponsmith",
+        "text": "Harenbili_the_Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人赫伦比利"
+    },
+    {
+        "id": "trp_town_7_weaponsmith",
+        "text": "Egil_the_Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人埃吉尔"
+    },
+    {
+        "id": "trp_town_8_weaponsmith",
+        "text": "Godgyfu_the_Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人葛吉夫"
+    },
+    {
+        "id": "trp_town_9_weaponsmith",
+        "text": "Uormuin_the_Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人乌穆因"
+    },
+    {
+        "id": "trp_town_10_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_11_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_12_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_13_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_14_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_15_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_16_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_17_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_18_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_19_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_20_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_21_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_22_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_23_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_24_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_25_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_26_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_27_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_28_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_29_weaponsmith",
+        "text": "Weaponsmith",
+        "old_translation": "",
+        "translation": "武器商人"
+    },
+    {
+        "id": "trp_town_30_weaponsmith",
+        "text": "Ulfberht",
+        "old_translation": "",
+        "translation": "尤福贝特"
+    },
+    {
+        "id": "trp_town_31_weaponsmith",
+        "text": "Weland",
+        "old_translation": "",
+        "translation": "韦兰"
+    },
+    {
+        "id": "trp_town_1_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_2_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_3_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_4_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_5_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_6_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_7_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_8_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_9_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_10_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_11_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_12_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_13_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_14_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_15_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_16_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_17_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_18_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_19_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_20_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_21_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_22_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_23_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_24_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_25_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_26_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_27_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_28_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_29_tavernkeeper",
+        "text": "Host",
+        "old_translation": "",
+        "translation": "酒馆老板"
+    },
+    {
+        "id": "trp_town_30_tavernkeeper",
+        "text": "Casius",
+        "old_translation": "",
+        "translation": "凯亚斯"
+    },
+    {
+        "id": "trp_town_1_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_2_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_3_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_4_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_5_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_6_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_7_merchant",
+        "text": "Hogni",
+        "old_translation": "",
+        "translation": "霍格尼"
+    },
+    {
+        "id": "trp_town_8_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_9_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_10_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_11_merchant",
+        "text": "Adda",
+        "old_translation": "",
+        "translation": "艾达"
+    },
+    {
+        "id": "trp_town_12_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_13_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_14_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_15_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_16_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_17_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_18_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_19_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_20_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_21_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_22_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_23_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_24_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_25_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_26_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_27_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_28_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_town_29_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_salt_mine_merchant",
+        "text": "Aeron_ap_Gareth",
+        "old_translation": "",
+        "translation": "伊昂·艾普·加菲"
+    },
+    {
+        "id": "trp_salt_mine_merchant_pl",
+        "text": "Aeron_ap_Gareth",
+        "old_translation": "",
+        "translation": "伊昂·艾普·加菲"
+    },
+    {
+        "id": "trp_town_1_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_2_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_3_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_4_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_5_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_6_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_7_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_8_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_9_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_10_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_11_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_12_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_13_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_14_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_15_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_16_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_17_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_18_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_19_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_20_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_21_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_22_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_23_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_24_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_25_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_26_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_27_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_28_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_29_horse_merchant",
+        "text": "Horse_Merchant",
+        "old_translation": "",
+        "translation": "马匹商人"
+    },
+    {
+        "id": "trp_town_1_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_2_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_3_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_4_mayor",
+        "text": "Hallvard",
+        "old_translation": "",
+        "translation": "哈瓦尔镇长"
+    },
+    {
+        "id": "trp_town_5_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_6_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_7_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_8_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_9_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_10_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_11_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_12_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_13_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_14_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_15_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_16_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_17_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_18_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_19_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_20_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_21_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_22_mayor",
+        "text": "Donngal",
+        "old_translation": "",
+        "translation": "多尼戈尔镇长"
+    },
+    {
+        "id": "trp_town_23_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_24_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_25_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_26_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_27_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_28_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_town_29_mayor",
+        "text": "Mayor",
+        "old_translation": "",
+        "translation": "镇长"
+    },
+    {
+        "id": "trp_village_1_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_2_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_3_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_4_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_5_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_6_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_7_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_8_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_9_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_10_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_11_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_12_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_13_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_14_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_15_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_16_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_17_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_18_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_19_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_20_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_21_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_22_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_23_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_24_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_25_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_26_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_27_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_28_elder",
+        "text": "Godiva_the_Elder",
+        "old_translation": "",
+        "translation": "戈迪瓦长老"
+    },
+    {
+        "id": "trp_village_29_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_30_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_31_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_32_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_33_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_34_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_35_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_36_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_37_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_38_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_39_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_40_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_41_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_42_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_43_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_44_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_45_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_46_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_47_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
     }
 ]

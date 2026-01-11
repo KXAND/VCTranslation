@@ -1,0 +1,230 @@
+[
+    {
+        "id": "itm_noswing_long_war_spear2",
+        "text": "Long_War_Spear",
+        "old_translation": "",
+        "translation": "长战矛"
+    },
+    {
+        "id": "itm_noswing_long_war_spear2_pl",
+        "text": "Long_War_Spear",
+        "old_translation": "",
+        "translation": "长战矛"
+    },
+    {
+        "id": "itm_noswing_long_heavy_spear1",
+        "text": "Heavy_Long_Spear",
+        "old_translation": "",
+        "translation": "重型长矛"
+    },
+    {
+        "id": "itm_noswing_long_heavy_spear1_pl",
+        "text": "Heavy_Long_Spear",
+        "old_translation": "",
+        "translation": "重型长矛"
+    },
+    {
+        "id": "itm_noswing_long_heavy_spear2",
+        "text": "Heavy_Long_Spear",
+        "old_translation": "",
+        "translation": "重型长矛"
+    },
+    {
+        "id": "itm_noswing_long_heavy_spear2_pl",
+        "text": "Heavy_Long_Spear",
+        "old_translation": "",
+        "translation": "重型长矛"
+    },
+    {
+        "id": "itm_noswing_new_mace",
+        "text": "Ray",
+        "old_translation": "",
+        "translation": "权杖"
+    },
+    {
+        "id": "itm_noswing_new_mace_pl",
+        "text": "Ray",
+        "old_translation": "",
+        "translation": "权杖"
+    },
+    {
+        "id": "itm_noswing_premium_spear1",
+        "text": "Gungnir",
+        "old_translation": "",
+        "translation": "冈格尼尔"
+    },
+    {
+        "id": "itm_noswing_premium_spear1_pl",
+        "text": "Gungnir",
+        "old_translation": "",
+        "translation": "冈格尼尔"
+    },
+    {
+        "id": "itm_noswing_standard",
+        "text": "Army_Standard",
+        "old_translation": "",
+        "translation": "军旗"
+    },
+    {
+        "id": "itm_noswing_standard_pl",
+        "text": "Army_Standard",
+        "old_translation": "",
+        "translation": "军旗"
+    },
+    {
+        "id": "itm_noswing_standard_dragon",
+        "text": "Dragon_Standard",
+        "old_translation": "",
+        "translation": "龙旗"
+    },
+    {
+        "id": "itm_noswing_standard_dragon_pl",
+        "text": "Dragon_Standard",
+        "old_translation": "",
+        "translation": "龙旗"
+    },
+    {
+        "id": "itm_noswing_darts_melee",
+        "text": "Simple_Javelins",
+        "old_translation": "",
+        "translation": "简易标枪"
+    },
+    {
+        "id": "itm_noswing_darts_melee_pl",
+        "text": "Simple_Javelins",
+        "old_translation": "",
+        "translation": "简易标枪"
+    },
+    {
+        "id": "itm_noswing_javelin_melee",
+        "text": "Javelin",
+        "old_translation": "",
+        "translation": "标枪"
+    },
+    {
+        "id": "itm_noswing_javelin_melee_pl",
+        "text": "Javelin",
+        "old_translation": "",
+        "translation": "标枪"
+    },
+    {
+        "id": "itm_noswing_javelin_skirmishes_melee",
+        "text": "Skirmish_Javelin",
+        "old_translation": "",
+        "translation": "战斗标枪"
+    },
+    {
+        "id": "itm_noswing_javelin_skirmishes_melee_pl",
+        "text": "Skirmish_Javelin",
+        "old_translation": "",
+        "translation": "战斗标枪"
+    },
+    {
+        "id": "itm_noswing_javelin_skirmishesel_melee",
+        "text": "Heavy_Javelin",
+        "old_translation": "",
+        "translation": "重标枪"
+    },
+    {
+        "id": "itm_noswing_javelin_skirmishesel_melee_pl",
+        "text": "Heavy_Javelin",
+        "old_translation": "",
+        "translation": "重标枪"
+    },
+    {
+        "id": "itm_noswing_javelin_jinetes_melee",
+        "text": "Horseman_Javelin",
+        "old_translation": "",
+        "translation": "骑手标枪"
+    },
+    {
+        "id": "itm_noswing_javelin_jinetes_melee_pl",
+        "text": "Horseman_Javelin",
+        "old_translation": "",
+        "translation": "骑手标枪"
+    },
+    {
+        "id": "itm_noswing_throwing_spear_melee",
+        "text": "Throwing_Spear",
+        "old_translation": "",
+        "translation": "投矛"
+    },
+    {
+        "id": "itm_noswing_throwing_spear_melee_pl",
+        "text": "Throwing_Spear",
+        "old_translation": "",
+        "translation": "投矛"
+    },
+    {
+        "id": "itm_noswing_throwing_spear2_melee",
+        "text": "Throwing_Spear",
+        "old_translation": "",
+        "translation": "投矛"
+    },
+    {
+        "id": "itm_noswing_throwing_spear2_melee_pl",
+        "text": "Throwing_Spear",
+        "old_translation": "",
+        "translation": "投矛"
+    },
+    {
+        "id": "itm_noswing_torch",
+        "text": "Torches",
+        "old_translation": "",
+        "translation": "火把"
+    },
+    {
+        "id": "itm_noswing_torch_pl",
+        "text": "Torches",
+        "old_translation": "",
+        "translation": "火把"
+    },
+    {
+        "id": "itm_noswing_work_pitchfork",
+        "text": "Pitchfork",
+        "old_translation": "",
+        "translation": "草叉"
+    },
+    {
+        "id": "itm_noswing_work_pitchfork_pl",
+        "text": "Pitchfork",
+        "old_translation": "",
+        "translation": "草叉"
+    },
+    {
+        "id": "itm_noswing_dog_bite",
+        "text": "Bite",
+        "old_translation": "",
+        "translation": "螺丝"
+    },
+    {
+        "id": "itm_noswing_dog_bite_pl",
+        "text": "Bite",
+        "old_translation": "",
+        "translation": "螺丝"
+    },
+    {
+        "id": "itm_noswing_seax_1_mp",
+        "text": "Old_Seax",
+        "old_translation": "",
+        "translation": "古老的刀"
+    },
+    {
+        "id": "itm_noswing_seax_1_mp_pl",
+        "text": "Old_Seax",
+        "old_translation": "",
+        "translation": "古老的刀"
+    },
+    {
+        "id": "itm_noswing_spear_1_mp",
+        "text": "Old_Spear",
+        "old_translation": "",
+        "translation": "古老的矛"
+    },
+    {
+        "id": "itm_noswing_spear_1_mp_pl",
+        "text": "Old_Spear",
+        "old_translation": "",
+        "translation": "古老的矛"
+    }
+]

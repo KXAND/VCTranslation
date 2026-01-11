@@ -1,0 +1,3002 @@
+[
+    {
+        "id": "itm_btunic_16",
+        "text": "Norse_Light_Armor",
+        "old_translation": "",
+        "translation": "诺尔斯轻甲"
+    },
+    {
+        "id": "itm_btunic_16_pl",
+        "text": "Norse_Light_Armor",
+        "old_translation": "",
+        "translation": "诺尔斯轻甲"
+    },
+    {
+        "id": "itm_hoodtunic_01",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_hoodtunic_01_pl",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_hoodtunic_02",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_hoodtunic_02_pl",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_hoodtunic_03",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_hoodtunic_03_pl",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_hoodtunic_04",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_hoodtunic_04_pl",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_hoodtunic_05",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_hoodtunic_05_pl",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_hoodtunic_06",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_hoodtunic_06_pl",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_hoodtunic_07",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_hoodtunic_07_pl",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_hoodtunic_08",
+        "text": "Cloak",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_hoodtunic_08_pl",
+        "text": "Cloak",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_bl_tunic01",
+        "text": "Trousers",
+        "old_translation": "",
+        "translation": "白色皮克特上衣"
+    },
+    {
+        "id": "itm_bl_tunic01_pl",
+        "text": "Trousers",
+        "old_translation": "",
+        "translation": "白色皮克特上衣"
+    },
+    {
+        "id": "itm_bl_tunic02",
+        "text": "Saxon_Light_Armor",
+        "old_translation": "",
+        "translation": "撒克逊轻甲"
+    },
+    {
+        "id": "itm_bl_tunic02_pl",
+        "text": "Saxon_Light_Armor",
+        "old_translation": "",
+        "translation": "撒克逊轻甲"
+    },
+    {
+        "id": "itm_bl_tunic03",
+        "text": "Saxon_Light_Armor",
+        "old_translation": "",
+        "translation": "撒克逊轻甲"
+    },
+    {
+        "id": "itm_bl_tunic03_pl",
+        "text": "Saxon_Light_Armor",
+        "old_translation": "",
+        "translation": "撒克逊轻甲"
+    },
+    {
+        "id": "itm_bl_tunic04",
+        "text": "Simple_Saxon_Tunic",
+        "old_translation": "",
+        "translation": "简易撒克逊上衣"
+    },
+    {
+        "id": "itm_bl_tunic04_pl",
+        "text": "Simple_Saxon_Tunic",
+        "old_translation": "",
+        "translation": "简易撒克逊上衣"
+    },
+    {
+        "id": "itm_bl_tunic05",
+        "text": "Simple_Saxon_Tunic",
+        "old_translation": "",
+        "translation": "简易撒克逊上衣"
+    },
+    {
+        "id": "itm_bl_tunic05_pl",
+        "text": "Simple_Saxon_Tunic",
+        "old_translation": "",
+        "translation": "简易撒克逊上衣"
+    },
+    {
+        "id": "itm_bl_tunic06",
+        "text": "Saxon_Tunic",
+        "old_translation": "",
+        "translation": "撒克逊带披风上衣"
+    },
+    {
+        "id": "itm_bl_tunic06_pl",
+        "text": "Saxon_Tunic",
+        "old_translation": "",
+        "translation": "撒克逊带披风上衣"
+    },
+    {
+        "id": "itm_bl_tunic07",
+        "text": "Saxon_Tunic",
+        "old_translation": "",
+        "translation": "撒克逊带披风上衣"
+    },
+    {
+        "id": "itm_bl_tunic07_pl",
+        "text": "Saxon_Tunic",
+        "old_translation": "",
+        "translation": "撒克逊带披风上衣"
+    },
+    {
+        "id": "itm_bl_tunic08",
+        "text": "Padded_Saxon_Tunic",
+        "old_translation": "",
+        "translation": "撒克逊衬里上衣"
+    },
+    {
+        "id": "itm_bl_tunic08_pl",
+        "text": "Padded_Saxon_Tunic",
+        "old_translation": "",
+        "translation": "撒克逊衬里上衣"
+    },
+    {
+        "id": "itm_bl_tunic09",
+        "text": "Saxon_Light_Armor",
+        "old_translation": "",
+        "translation": "撒克逊轻甲"
+    },
+    {
+        "id": "itm_bl_tunic09_pl",
+        "text": "Saxon_Light_Armor",
+        "old_translation": "",
+        "translation": "撒克逊轻甲"
+    },
+    {
+        "id": "itm_bl_tunic10",
+        "text": "Saxon_Tunic",
+        "old_translation": "",
+        "translation": "撒克逊带披风上衣"
+    },
+    {
+        "id": "itm_bl_tunic10_pl",
+        "text": "Saxon_Tunic",
+        "old_translation": "",
+        "translation": "撒克逊带披风上衣"
+    },
+    {
+        "id": "itm_bl_tunic11",
+        "text": "Saxon_Tunic",
+        "old_translation": "",
+        "translation": "撒克逊带披风上衣"
+    },
+    {
+        "id": "itm_bl_tunic11_pl",
+        "text": "Saxon_Tunic",
+        "old_translation": "",
+        "translation": "撒克逊带披风上衣"
+    },
+    {
+        "id": "itm_bl_tunic12",
+        "text": "Saxon_Tunic",
+        "old_translation": "",
+        "translation": "撒克逊带披风上衣"
+    },
+    {
+        "id": "itm_bl_tunic12_pl",
+        "text": "Saxon_Tunic",
+        "old_translation": "",
+        "translation": "撒克逊带披风上衣"
+    },
+    {
+        "id": "itm_red_cloak",
+        "text": "Saxon_Tunic",
+        "old_translation": "",
+        "translation": "撒克逊带披风上衣"
+    },
+    {
+        "id": "itm_red_cloak_pl",
+        "text": "Saxon_Tunic",
+        "old_translation": "",
+        "translation": "撒克逊带披风上衣"
+    },
+    {
+        "id": "itm_yellow_cloak",
+        "text": "Elite_Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯带披风上衣"
+    },
+    {
+        "id": "itm_yellow_cloak_pl",
+        "text": "Elite_Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯带披风上衣"
+    },
+    {
+        "id": "itm_green_cloak",
+        "text": "Pictish_Light_Armor",
+        "old_translation": "",
+        "translation": "皮克特轻甲"
+    },
+    {
+        "id": "itm_green_cloak_pl",
+        "text": "Pictish_Light_Armor",
+        "old_translation": "",
+        "translation": "皮克特轻甲"
+    },
+    {
+        "id": "itm_blue_cloak",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_blue_cloak_pl",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_leather_cloak",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_leather_cloak_pl",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_yellow2_cloak",
+        "text": "Simple_Angle_Tunic",
+        "old_translation": "",
+        "translation": "简易盎格鲁上衣"
+    },
+    {
+        "id": "itm_yellow2_cloak_pl",
+        "text": "Simple_Angle_Tunic",
+        "old_translation": "",
+        "translation": "简易盎格鲁上衣"
+    },
+    {
+        "id": "itm_briton_tunic1",
+        "text": "Cloak",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic1_pl",
+        "text": "Cloak",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic2",
+        "text": "Trousers",
+        "old_translation": "",
+        "translation": "白色皮克特上衣"
+    },
+    {
+        "id": "itm_briton_tunic2_pl",
+        "text": "Trousers",
+        "old_translation": "",
+        "translation": "白色皮克特上衣"
+    },
+    {
+        "id": "itm_briton_tunic3",
+        "text": "Briton_Tunic",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic3_pl",
+        "text": "Briton_Tunic",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic4",
+        "text": "Simple_Briton_Tunic",
+        "old_translation": "",
+        "translation": "简易布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic4_pl",
+        "text": "Simple_Briton_Tunic",
+        "old_translation": "",
+        "translation": "简易布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic5",
+        "text": "Simple_Briton_Tunic",
+        "old_translation": "",
+        "translation": "简易布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic5_pl",
+        "text": "Simple_Briton_Tunic",
+        "old_translation": "",
+        "translation": "简易布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic6",
+        "text": "Simple_Briton_Tunic",
+        "old_translation": "",
+        "translation": "简易布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic6_pl",
+        "text": "Simple_Briton_Tunic",
+        "old_translation": "",
+        "translation": "简易布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic7",
+        "text": "Briton_Tunic",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic7_pl",
+        "text": "Briton_Tunic",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic8",
+        "text": "Briton_Light_Armor",
+        "old_translation": "",
+        "translation": "布立吞轻甲"
+    },
+    {
+        "id": "itm_briton_tunic8_pl",
+        "text": "Briton_Light_Armor",
+        "old_translation": "",
+        "translation": "布立吞轻甲"
+    },
+    {
+        "id": "itm_briton_tunic9",
+        "text": "Briton_Tunic",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic9_pl",
+        "text": "Briton_Tunic",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic10",
+        "text": "Briton_Tunic",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic10_pl",
+        "text": "Briton_Tunic",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic11",
+        "text": "Briton_Tunic",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic11_pl",
+        "text": "Briton_Tunic",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic12",
+        "text": "Briton_Tunic",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic12_pl",
+        "text": "Briton_Tunic",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic13",
+        "text": "Briton_Tunic",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic13_pl",
+        "text": "Briton_Tunic",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic14",
+        "text": "Briton_Tunic",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic14_pl",
+        "text": "Briton_Tunic",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_briton_tunic15",
+        "text": "Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特上衣"
+    },
+    {
+        "id": "itm_briton_tunic15_pl",
+        "text": "Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特上衣"
+    },
+    {
+        "id": "itm_briton_tunic16",
+        "text": "Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特上衣"
+    },
+    {
+        "id": "itm_briton_tunic16_pl",
+        "text": "Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特上衣"
+    },
+    {
+        "id": "itm_briton_tunic17",
+        "text": "Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特上衣"
+    },
+    {
+        "id": "itm_briton_tunic17_pl",
+        "text": "Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特上衣"
+    },
+    {
+        "id": "itm_briton_tunic18",
+        "text": "Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特上衣"
+    },
+    {
+        "id": "itm_briton_tunic18_pl",
+        "text": "Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特上衣"
+    },
+    {
+        "id": "itm_briton_tunic19",
+        "text": "Pictish_Light_Armor",
+        "old_translation": "",
+        "translation": "皮克特轻甲"
+    },
+    {
+        "id": "itm_briton_tunic19_pl",
+        "text": "Pictish_Light_Armor",
+        "old_translation": "",
+        "translation": "皮克特轻甲"
+    },
+    {
+        "id": "itm_briton_tunic20",
+        "text": "Goidelic_Hooded_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔连帽上衣"
+    },
+    {
+        "id": "itm_briton_tunic20_pl",
+        "text": "Goidelic_Hooded_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔连帽上衣"
+    },
+    {
+        "id": "itm_briton_tunic21",
+        "text": "Goidelic_Hooded_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔连帽上衣"
+    },
+    {
+        "id": "itm_briton_tunic21_pl",
+        "text": "Goidelic_Hooded_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔连帽上衣"
+    },
+    {
+        "id": "itm_briton_tunic22",
+        "text": "Goidelic_Hooded_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔连帽上衣"
+    },
+    {
+        "id": "itm_briton_tunic22_pl",
+        "text": "Goidelic_Hooded_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔连帽上衣"
+    },
+    {
+        "id": "itm_briton_tunic23",
+        "text": "Goidelic_Hooded_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔连帽上衣"
+    },
+    {
+        "id": "itm_briton_tunic23_pl",
+        "text": "Goidelic_Hooded_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔连帽上衣"
+    },
+    {
+        "id": "itm_briton_tunic24",
+        "text": "Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔上衣"
+    },
+    {
+        "id": "itm_briton_tunic24_pl",
+        "text": "Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔上衣"
+    },
+    {
+        "id": "itm_briton_tunic25",
+        "text": "Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔上衣"
+    },
+    {
+        "id": "itm_briton_tunic25_pl",
+        "text": "Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔上衣"
+    },
+    {
+        "id": "itm_briton_tunic26",
+        "text": "Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔上衣"
+    },
+    {
+        "id": "itm_briton_tunic26_pl",
+        "text": "Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔上衣"
+    },
+    {
+        "id": "itm_briton_tunic27",
+        "text": "Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔上衣"
+    },
+    {
+        "id": "itm_briton_tunic27_pl",
+        "text": "Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔上衣"
+    },
+    {
+        "id": "itm_briton_tunic28",
+        "text": "Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔上衣"
+    },
+    {
+        "id": "itm_briton_tunic28_pl",
+        "text": "Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔上衣"
+    },
+    {
+        "id": "itm_celta_capa1",
+        "text": "Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔上衣"
+    },
+    {
+        "id": "itm_celta_capa1_pl",
+        "text": "Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔上衣"
+    },
+    {
+        "id": "itm_celta_capa2",
+        "text": "Goidelic_Long_Cloak",
+        "old_translation": "",
+        "translation": "戈伊德尔长披风"
+    },
+    {
+        "id": "itm_celta_capa2_pl",
+        "text": "Goidelic_Long_Cloak",
+        "old_translation": "",
+        "translation": "戈伊德尔长披风"
+    },
+    {
+        "id": "itm_celta_capa3",
+        "text": "Goidelic_Trousers",
+        "old_translation": "",
+        "translation": "戈伊德尔裤子"
+    },
+    {
+        "id": "itm_celta_capa3_pl",
+        "text": "Goidelic_Trousers",
+        "old_translation": "",
+        "translation": "戈伊德尔裤子"
+    },
+    {
+        "id": "itm_celta_capa4",
+        "text": "Goidelic_Trousers",
+        "old_translation": "",
+        "translation": "戈伊德尔裤子"
+    },
+    {
+        "id": "itm_celta_capa4_pl",
+        "text": "Goidelic_Trousers",
+        "old_translation": "",
+        "translation": "戈伊德尔裤子"
+    },
+    {
+        "id": "itm_brat1",
+        "text": "Goidelic_Rich_Cloak",
+        "old_translation": "",
+        "translation": "戈伊德尔华丽披风"
+    },
+    {
+        "id": "itm_brat1_pl",
+        "text": "Goidelic_Rich_Cloak",
+        "old_translation": "",
+        "translation": "戈伊德尔华丽披风"
+    },
+    {
+        "id": "itm_brat2",
+        "text": "Goidelic_Rich_Cloak",
+        "old_translation": "",
+        "translation": "戈伊德尔华丽披风"
+    },
+    {
+        "id": "itm_brat2_pl",
+        "text": "Goidelic_Rich_Cloak",
+        "old_translation": "",
+        "translation": "戈伊德尔华丽披风"
+    },
+    {
+        "id": "itm_brat3",
+        "text": "Goidelic_Light_Armor",
+        "old_translation": "",
+        "translation": "戈伊德尔轻甲"
+    },
+    {
+        "id": "itm_brat3_pl",
+        "text": "Goidelic_Light_Armor",
+        "old_translation": "",
+        "translation": "戈伊德尔轻甲"
+    },
+    {
+        "id": "itm_brat4",
+        "text": "Goidelic_Light_Armor",
+        "old_translation": "",
+        "translation": "戈伊德尔轻甲"
+    },
+    {
+        "id": "itm_brat4_pl",
+        "text": "Goidelic_Light_Armor",
+        "old_translation": "",
+        "translation": "戈伊德尔轻甲"
+    },
+    {
+        "id": "itm_gael_tunic_01",
+        "text": "Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特上衣"
+    },
+    {
+        "id": "itm_gael_tunic_01_pl",
+        "text": "Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特上衣"
+    },
+    {
+        "id": "itm_gael_tunic_02",
+        "text": "Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特上衣"
+    },
+    {
+        "id": "itm_gael_tunic_02_pl",
+        "text": "Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特上衣"
+    },
+    {
+        "id": "itm_gael_tunic_03",
+        "text": "Angle_Tunic",
+        "old_translation": "",
+        "translation": "盎格鲁上衣"
+    },
+    {
+        "id": "itm_gael_tunic_03_pl",
+        "text": "Angle_Tunic",
+        "old_translation": "",
+        "translation": "盎格鲁上衣"
+    },
+    {
+        "id": "itm_gael_tunic_04",
+        "text": "Angle_Tunic",
+        "old_translation": "",
+        "translation": "盎格鲁上衣"
+    },
+    {
+        "id": "itm_gael_tunic_04_pl",
+        "text": "Angle_Tunic",
+        "old_translation": "",
+        "translation": "盎格鲁上衣"
+    },
+    {
+        "id": "itm_gael_tunic_05",
+        "text": "Cloaked_Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "带披风戈伊德尔上衣"
+    },
+    {
+        "id": "itm_gael_tunic_05_pl",
+        "text": "Cloaked_Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "带披风戈伊德尔上衣"
+    },
+    {
+        "id": "itm_gael_tunic_06",
+        "text": "Cloaked_Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "带披风戈伊德尔上衣"
+    },
+    {
+        "id": "itm_gael_tunic_06_pl",
+        "text": "Cloaked_Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "带披风戈伊德尔上衣"
+    },
+    {
+        "id": "itm_gael_tunic_07",
+        "text": "Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔上衣"
+    },
+    {
+        "id": "itm_gael_tunic_07_pl",
+        "text": "Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "戈伊德尔上衣"
+    },
+    {
+        "id": "itm_gael_tunic_08",
+        "text": "Hooded_Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "带兜帽戈伊德尔上衣"
+    },
+    {
+        "id": "itm_gael_tunic_08_pl",
+        "text": "Hooded_Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "带兜帽戈伊德尔上衣"
+    },
+    {
+        "id": "itm_gael_hoodtunic_09",
+        "text": "Hooded_Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "带兜帽戈伊德尔上衣"
+    },
+    {
+        "id": "itm_gael_hoodtunic_09_pl",
+        "text": "Hooded_Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "带兜帽戈伊德尔上衣"
+    },
+    {
+        "id": "itm_gael_hoodtunic_10",
+        "text": "Hooded_Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "带兜帽戈伊德尔上衣"
+    },
+    {
+        "id": "itm_gael_hoodtunic_10_pl",
+        "text": "Hooded_Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "带兜帽戈伊德尔上衣"
+    },
+    {
+        "id": "itm_gael_hoodtunic_11",
+        "text": "Hooded_Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "带兜帽戈伊德尔上衣"
+    },
+    {
+        "id": "itm_gael_hoodtunic_11_pl",
+        "text": "Hooded_Goidelic_Tunic",
+        "old_translation": "",
+        "translation": "带兜帽戈伊德尔上衣"
+    },
+    {
+        "id": "itm_gael_hoodtunic_12",
+        "text": "Hooded_Goidelic_Light_Armor",
+        "old_translation": "",
+        "translation": "带兜帽戈伊德尔轻甲"
+    },
+    {
+        "id": "itm_gael_hoodtunic_12_pl",
+        "text": "Hooded_Goidelic_Light_Armor",
+        "old_translation": "",
+        "translation": "带兜帽戈伊德尔轻甲"
+    },
+    {
+        "id": "itm_picts_tunic_09",
+        "text": "Norse_Trousers",
+        "old_translation": "",
+        "translation": "诺尔斯裤子"
+    },
+    {
+        "id": "itm_picts_tunic_09_pl",
+        "text": "Norse_Trousers",
+        "old_translation": "",
+        "translation": "诺尔斯裤子"
+    },
+    {
+        "id": "itm_picts_tunic_10",
+        "text": "Norse_Trousers",
+        "old_translation": "",
+        "translation": "诺尔斯裤子"
+    },
+    {
+        "id": "itm_picts_tunic_10_pl",
+        "text": "Norse_Trousers",
+        "old_translation": "",
+        "translation": "诺尔斯裤子"
+    },
+    {
+        "id": "itm_picts_tunic_11",
+        "text": "Norse_Cloak",
+        "old_translation": "",
+        "translation": "诺尔斯披风"
+    },
+    {
+        "id": "itm_picts_tunic_11_pl",
+        "text": "Norse_Cloak",
+        "old_translation": "",
+        "translation": "诺尔斯披风"
+    },
+    {
+        "id": "itm_picts_tunic_12",
+        "text": "Briton_Light_Armor",
+        "old_translation": "",
+        "translation": "布立吞轻甲"
+    },
+    {
+        "id": "itm_picts_tunic_12_pl",
+        "text": "Briton_Light_Armor",
+        "old_translation": "",
+        "translation": "布立吞轻甲"
+    },
+    {
+        "id": "itm_picts_tunic_13",
+        "text": "Briton_Tunic",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_picts_tunic_13_pl",
+        "text": "Briton_Tunic",
+        "old_translation": "",
+        "translation": "布立吞上衣"
+    },
+    {
+        "id": "itm_picts_tunic_14",
+        "text": "Trousers",
+        "old_translation": "",
+        "translation": "白色皮克特上衣"
+    },
+    {
+        "id": "itm_picts_tunic_14_pl",
+        "text": "Trousers",
+        "old_translation": "",
+        "translation": "白色皮克特上衣"
+    },
+    {
+        "id": "itm_picts_tunic_15",
+        "text": "Trousers",
+        "old_translation": "",
+        "translation": "白色皮克特上衣"
+    },
+    {
+        "id": "itm_picts_tunic_15_pl",
+        "text": "Trousers",
+        "old_translation": "",
+        "translation": "白色皮克特上衣"
+    },
+    {
+        "id": "itm_picts_tunic_16",
+        "text": "Frisian_Trousers",
+        "old_translation": "",
+        "translation": "弗里斯裤子"
+    },
+    {
+        "id": "itm_picts_tunic_16_pl",
+        "text": "Frisian_Trousers",
+        "old_translation": "",
+        "translation": "弗里斯裤子"
+    },
+    {
+        "id": "itm_pictish_painted1",
+        "text": "Pictish_Naked",
+        "old_translation": "",
+        "translation": "皮克特赤膊"
+    },
+    {
+        "id": "itm_pictish_painted1_pl",
+        "text": "Pictish_Naked",
+        "old_translation": "",
+        "translation": "皮克特赤膊"
+    },
+    {
+        "id": "itm_pictish_painted2",
+        "text": "Pictish_Naked",
+        "old_translation": "",
+        "translation": "皮克特赤膊"
+    },
+    {
+        "id": "itm_pictish_painted2_pl",
+        "text": "Pictish_Naked",
+        "old_translation": "",
+        "translation": "皮克特赤膊"
+    },
+    {
+        "id": "itm_pictish_painted3",
+        "text": "Pictish_Naked",
+        "old_translation": "",
+        "translation": "皮克特赤膊"
+    },
+    {
+        "id": "itm_pictish_painted3_pl",
+        "text": "Pictish_Naked",
+        "old_translation": "",
+        "translation": "皮克特赤膊"
+    },
+    {
+        "id": "itm_pictish_painted4",
+        "text": "Pictish_Naked",
+        "old_translation": "",
+        "translation": "皮克特赤膊"
+    },
+    {
+        "id": "itm_pictish_painted4_pl",
+        "text": "Pictish_Naked",
+        "old_translation": "",
+        "translation": "皮克特赤膊"
+    },
+    {
+        "id": "itm_picts_hoodtunic_01",
+        "text": "Pictish_Cloak",
+        "old_translation": "",
+        "translation": "皮克特披风"
+    },
+    {
+        "id": "itm_picts_hoodtunic_01_pl",
+        "text": "Pictish_Cloak",
+        "old_translation": "",
+        "translation": "皮克特披风"
+    },
+    {
+        "id": "itm_picts_hoodtunic_02",
+        "text": "Pictish_Cloak",
+        "old_translation": "",
+        "translation": "皮克特披风"
+    },
+    {
+        "id": "itm_picts_hoodtunic_02_pl",
+        "text": "Pictish_Cloak",
+        "old_translation": "",
+        "translation": "皮克特披风"
+    },
+    {
+        "id": "itm_picts_hoodtunic_03",
+        "text": "Pictish_Hood",
+        "old_translation": "",
+        "translation": "皮克特披风"
+    },
+    {
+        "id": "itm_picts_hoodtunic_03_pl",
+        "text": "Pictish_Hood",
+        "old_translation": "",
+        "translation": "皮克特披风"
+    },
+    {
+        "id": "itm_picts_hoodtunic_04",
+        "text": "Pictish_Hood",
+        "old_translation": "",
+        "translation": "皮克特披风"
+    },
+    {
+        "id": "itm_picts_hoodtunic_04_pl",
+        "text": "Pictish_Hood",
+        "old_translation": "",
+        "translation": "皮克特披风"
+    },
+    {
+        "id": "itm_picts_hoodtunic_05",
+        "text": "Pictish_Hood",
+        "old_translation": "",
+        "translation": "皮克特披风"
+    },
+    {
+        "id": "itm_picts_hoodtunic_05_pl",
+        "text": "Pictish_Hood",
+        "old_translation": "",
+        "translation": "皮克特披风"
+    },
+    {
+        "id": "itm_picts_hoodtunic_06",
+        "text": "Pictish_Hood",
+        "old_translation": "",
+        "translation": "皮克特披风"
+    },
+    {
+        "id": "itm_picts_hoodtunic_06_pl",
+        "text": "Pictish_Hood",
+        "old_translation": "",
+        "translation": "皮克特披风"
+    },
+    {
+        "id": "itm_picts_hoodtunic_07",
+        "text": "Pictish_Hood",
+        "old_translation": "",
+        "translation": "皮克特披风"
+    },
+    {
+        "id": "itm_picts_hoodtunic_07_pl",
+        "text": "Pictish_Hood",
+        "old_translation": "",
+        "translation": "皮克特披风"
+    },
+    {
+        "id": "itm_picts_hoodtunic_11",
+        "text": "Cloaked_Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特帽兜上衣"
+    },
+    {
+        "id": "itm_picts_hoodtunic_11_pl",
+        "text": "Cloaked_Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特帽兜上衣"
+    },
+    {
+        "id": "itm_picts_hoodtunic_12",
+        "text": "Cloaked_Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特帽兜上衣"
+    },
+    {
+        "id": "itm_picts_hoodtunic_12_pl",
+        "text": "Cloaked_Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特帽兜上衣"
+    },
+    {
+        "id": "itm_picts_hoodtunic_13",
+        "text": "Cloaked_Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特帽兜上衣"
+    },
+    {
+        "id": "itm_picts_hoodtunic_13_pl",
+        "text": "Cloaked_Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特帽兜上衣"
+    },
+    {
+        "id": "itm_picts_hoodtunic_14",
+        "text": "Hooded_Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特帽兜上衣"
+    },
+    {
+        "id": "itm_picts_hoodtunic_14_pl",
+        "text": "Hooded_Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特帽兜上衣"
+    },
+    {
+        "id": "itm_picts_hoodtunic_15",
+        "text": "Hooded_Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特帽兜上衣"
+    },
+    {
+        "id": "itm_picts_hoodtunic_15_pl",
+        "text": "Hooded_Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特帽兜上衣"
+    },
+    {
+        "id": "itm_picts_hoodtunic_16",
+        "text": "Hooded_Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特帽兜上衣"
+    },
+    {
+        "id": "itm_picts_hoodtunic_16_pl",
+        "text": "Hooded_Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特帽兜上衣"
+    },
+    {
+        "id": "itm_picts_hoodtunic_17",
+        "text": "Hooded_Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特帽兜上衣"
+    },
+    {
+        "id": "itm_picts_hoodtunic_17_pl",
+        "text": "Hooded_Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特帽兜上衣"
+    },
+    {
+        "id": "itm_picts_hoodtunic_18",
+        "text": "Pictish_Light_Armor",
+        "old_translation": "",
+        "translation": "皮克特轻甲"
+    },
+    {
+        "id": "itm_picts_hoodtunic_18_pl",
+        "text": "Pictish_Light_Armor",
+        "old_translation": "",
+        "translation": "皮克特轻甲"
+    },
+    {
+        "id": "itm_linen_tunic",
+        "text": "Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特上衣"
+    },
+    {
+        "id": "itm_linen_tunic_pl",
+        "text": "Pictish_Tunic",
+        "old_translation": "",
+        "translation": "皮克特上衣"
+    },
+    {
+        "id": "itm_woman_saxon1",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon1_pl",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon2",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon2_pl",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon3",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon3_pl",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon4",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon4_pl",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon5",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon5_pl",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon6",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon6_pl",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon7",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon7_pl",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon8",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon8_pl",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon9",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon9_pl",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon10",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon10_pl",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon11",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_woman_saxon11_pl",
+        "text": "Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊长裙"
+    },
+    {
+        "id": "itm_richwoman_saxon1",
+        "text": "Rich_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_saxon1_pl",
+        "text": "Rich_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_saxon2",
+        "text": "Rich_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_saxon2_pl",
+        "text": "Rich_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_saxon3",
+        "text": "Rich_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_saxon3_pl",
+        "text": "Rich_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_saxon4",
+        "text": "Rich_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_saxon4_pl",
+        "text": "Rich_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_saxon5",
+        "text": "Rich_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_saxon5_pl",
+        "text": "Rich_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_saxon6",
+        "text": "Rich_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_saxon6_pl",
+        "text": "Rich_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_saxon7",
+        "text": "Rich_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_saxon7_pl",
+        "text": "Rich_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_saxon8",
+        "text": "Rich_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_saxon8_pl",
+        "text": "Rich_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_saxon9",
+        "text": "Rich_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_saxon9_pl",
+        "text": "Rich_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊贵妇长裙"
+    },
+    {
+        "id": "itm_queenwoman_saxon",
+        "text": "Royal_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊皇家长裙"
+    },
+    {
+        "id": "itm_queenwoman_saxon_pl",
+        "text": "Royal_Saxon_Dress",
+        "old_translation": "",
+        "translation": "撒克逊皇家长裙"
+    },
+    {
+        "id": "itm_queenpict_long_tunic",
+        "text": "Rich_Dress",
+        "old_translation": "",
+        "translation": "贵妇长裙"
+    },
+    {
+        "id": "itm_queenpict_long_tunic_pl",
+        "text": "Rich_Dress",
+        "old_translation": "",
+        "translation": "贵妇长裙"
+    },
+    {
+        "id": "itm_pict_richlong_tunic1",
+        "text": "Rich_Dress",
+        "old_translation": "",
+        "translation": "贵妇长裙"
+    },
+    {
+        "id": "itm_pict_richlong_tunic1_pl",
+        "text": "Rich_Dress",
+        "old_translation": "",
+        "translation": "贵妇长裙"
+    },
+    {
+        "id": "itm_pict_richlong_tunic2",
+        "text": "Rich_Dress",
+        "old_translation": "",
+        "translation": "贵妇长裙"
+    },
+    {
+        "id": "itm_pict_richlong_tunic2_pl",
+        "text": "Rich_Dress",
+        "old_translation": "",
+        "translation": "贵妇长裙"
+    },
+    {
+        "id": "itm_pict_richlong_tunic3",
+        "text": "Rich_Dress",
+        "old_translation": "",
+        "translation": "贵妇长裙"
+    },
+    {
+        "id": "itm_pict_richlong_tunic3_pl",
+        "text": "Rich_Dress",
+        "old_translation": "",
+        "translation": "贵妇长裙"
+    },
+    {
+        "id": "itm_pict_long_tunic1",
+        "text": "Dress",
+        "old_translation": "",
+        "translation": "长裙"
+    },
+    {
+        "id": "itm_pict_long_tunic1_pl",
+        "text": "Dress",
+        "old_translation": "",
+        "translation": "长裙"
+    },
+    {
+        "id": "itm_pict_long_tunic2",
+        "text": "Dress",
+        "old_translation": "",
+        "translation": "长裙"
+    },
+    {
+        "id": "itm_pict_long_tunic2_pl",
+        "text": "Dress",
+        "old_translation": "",
+        "translation": "长裙"
+    },
+    {
+        "id": "itm_pict_long_tunic3",
+        "text": "Dress",
+        "old_translation": "",
+        "translation": "长裙"
+    },
+    {
+        "id": "itm_pict_long_tunic3_pl",
+        "text": "Dress",
+        "old_translation": "",
+        "translation": "长裙"
+    },
+    {
+        "id": "itm_pict_long_tunic4",
+        "text": "Dress",
+        "old_translation": "",
+        "translation": "长裙"
+    },
+    {
+        "id": "itm_pict_long_tunic4_pl",
+        "text": "Dress",
+        "old_translation": "",
+        "translation": "长裙"
+    },
+    {
+        "id": "itm_pict_long_tunic5",
+        "text": "Dress",
+        "old_translation": "",
+        "translation": "长裙"
+    },
+    {
+        "id": "itm_pict_long_tunic5_pl",
+        "text": "Dress",
+        "old_translation": "",
+        "translation": "长裙"
+    },
+    {
+        "id": "itm_pict_long_tunic6",
+        "text": "Dress",
+        "old_translation": "",
+        "translation": "长裙"
+    },
+    {
+        "id": "itm_pict_long_tunic6_pl",
+        "text": "Dress",
+        "old_translation": "",
+        "translation": "长裙"
+    },
+    {
+        "id": "itm_woman_norse1",
+        "text": "Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯长裙"
+    },
+    {
+        "id": "itm_woman_norse1_pl",
+        "text": "Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯长裙"
+    },
+    {
+        "id": "itm_woman_norse2",
+        "text": "Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯长裙"
+    },
+    {
+        "id": "itm_woman_norse2_pl",
+        "text": "Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯长裙"
+    },
+    {
+        "id": "itm_woman_norse3",
+        "text": "Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯长裙"
+    },
+    {
+        "id": "itm_woman_norse3_pl",
+        "text": "Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯长裙"
+    },
+    {
+        "id": "itm_woman_norse4",
+        "text": "Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯长裙"
+    },
+    {
+        "id": "itm_woman_norse4_pl",
+        "text": "Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯长裙"
+    },
+    {
+        "id": "itm_woman_norse5",
+        "text": "Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯长裙"
+    },
+    {
+        "id": "itm_woman_norse5_pl",
+        "text": "Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯长裙"
+    },
+    {
+        "id": "itm_woman_norse6",
+        "text": "Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯长裙"
+    },
+    {
+        "id": "itm_woman_norse6_pl",
+        "text": "Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯长裙"
+    },
+    {
+        "id": "itm_richwoman_norse1",
+        "text": "Rich_Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_norse1_pl",
+        "text": "Rich_Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_norse2",
+        "text": "Rich_Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_norse2_pl",
+        "text": "Rich_Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_norse3",
+        "text": "Rich_Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_norse3_pl",
+        "text": "Rich_Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_norse4",
+        "text": "Rich_Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯贵妇长裙"
+    },
+    {
+        "id": "itm_richwoman_norse4_pl",
+        "text": "Rich_Norse_Dress",
+        "old_translation": "",
+        "translation": "诺尔斯贵妇长裙"
+    },
+    {
+        "id": "itm_btunic_1woman",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_btunic_1woman_pl",
+        "text": "Tunic",
+        "old_translation": "",
+        "translation": "绿色带披风短袍"
+    },
+    {
+        "id": "itm_btunic_2woman",
+        "text": "Angle_Light_Armor",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_btunic_2woman_pl",
+        "text": "Angle_Light_Armor",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_btunic_3woman",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_btunic_3woman_pl",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_btunic_4woman",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_btunic_4woman_pl",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_btunic_5woman",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_btunic_5woman_pl",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_btunic_6woman",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_btunic_6woman_pl",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_btunic_7woman",
+        "text": "Angle_Tunic",
+        "old_translation": "",
+        "translation": "盎格鲁上衣"
+    },
+    {
+        "id": "itm_btunic_7woman_pl",
+        "text": "Angle_Tunic",
+        "old_translation": "",
+        "translation": "盎格鲁上衣"
+    },
+    {
+        "id": "itm_btunic_8woman",
+        "text": "Simple_Tunic",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_btunic_8woman_pl",
+        "text": "Simple_Tunic",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_ptunic_1woman",
+        "text": "Simple_Tunic",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_ptunic_1woman_pl",
+        "text": "Simple_Tunic",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_ptunic_2woman",
+        "text": "Simple_Tunic",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_ptunic_2woman_pl",
+        "text": "Simple_Tunic",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_ptunic_3woman",
+        "text": "Simple_Tunic",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_ptunic_3woman_pl",
+        "text": "Simple_Tunic",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_ptunic_4woman",
+        "text": "Simple_Tunic",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_ptunic_4woman_pl",
+        "text": "Simple_Tunic",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_ptunic_5woman",
+        "text": "Simple_Tunic",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_ptunic_5woman_pl",
+        "text": "Simple_Tunic",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_ptunic_6woman",
+        "text": "Simple_Tunic",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_ptunic_6woman_pl",
+        "text": "Simple_Tunic",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_ptunic_7woman",
+        "text": "Simple_Tunic",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_ptunic_7woman_pl",
+        "text": "Simple_Tunic",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_gaeltunic_1woman",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_gaeltunic_1woman_pl",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_gaeltunic_2woman",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_gaeltunic_2woman_pl",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_gaeltunic_3woman",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_gaeltunic_3woman_pl",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_gaeltunic_4woman",
+        "text": "Frisian_Light_Armor",
+        "old_translation": "",
+        "translation": "弗里斯轻甲"
+    },
+    {
+        "id": "itm_gaeltunic_4woman_pl",
+        "text": "Frisian_Light_Armor",
+        "old_translation": "",
+        "translation": "弗里斯轻甲"
+    },
+    {
+        "id": "itm_gaeltunic_5woman",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_gaeltunic_5woman_pl",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_gaeltunic_6woman",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_gaeltunic_6woman_pl",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_gaeltunic_7woman",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_gaeltunic_7woman_pl",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_gaeltunic_8woman",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_gaeltunic_8woman_pl",
+        "text": "Frisian_Tunic",
+        "old_translation": "",
+        "translation": "弗里斯短上衣"
+    },
+    {
+        "id": "itm_britontunic_1woman",
+        "text": "Bear_Skin",
+        "old_translation": "",
+        "translation": "橙色上衣"
+    },
+    {
+        "id": "itm_britontunic_1woman_pl",
+        "text": "Bear_Skin",
+        "old_translation": "",
+        "translation": "橙色上衣"
+    },
+    {
+        "id": "itm_britontunic_2woman",
+        "text": "Bear_Skin",
+        "old_translation": "",
+        "translation": "橙色上衣"
+    },
+    {
+        "id": "itm_britontunic_2woman_pl",
+        "text": "Bear_Skin",
+        "old_translation": "",
+        "translation": "橙色上衣"
+    },
+    {
+        "id": "itm_britontunic_3woman",
+        "text": "Bear_Skin",
+        "old_translation": "",
+        "translation": "橙色上衣"
+    },
+    {
+        "id": "itm_britontunic_3woman_pl",
+        "text": "Bear_Skin",
+        "old_translation": "",
+        "translation": "橙色上衣"
+    },
+    {
+        "id": "itm_britontunic_4woman",
+        "text": "Bear_Skin",
+        "old_translation": "",
+        "translation": "橙色上衣"
+    },
+    {
+        "id": "itm_britontunic_4woman_pl",
+        "text": "Bear_Skin",
+        "old_translation": "",
+        "translation": "橙色上衣"
+    },
+    {
+        "id": "itm_britontunic_5woman",
+        "text": "Wolf_Skin",
+        "old_translation": "",
+        "translation": "紫色上衣"
+    },
+    {
+        "id": "itm_britontunic_5woman_pl",
+        "text": "Wolf_Skin",
+        "old_translation": "",
+        "translation": "紫色上衣"
+    },
+    {
+        "id": "itm_britontunic_6woman",
+        "text": "Wolf_Skin",
+        "old_translation": "",
+        "translation": "紫色上衣"
+    },
+    {
+        "id": "itm_britontunic_6woman_pl",
+        "text": "Wolf_Skin",
+        "old_translation": "",
+        "translation": "紫色上衣"
+    },
+    {
+        "id": "itm_britontunic_7woman",
+        "text": "Wolf_Skin",
+        "old_translation": "",
+        "translation": "紫色上衣"
+    },
+    {
+        "id": "itm_britontunic_7woman_pl",
+        "text": "Wolf_Skin",
+        "old_translation": "",
+        "translation": "紫色上衣"
+    },
+    {
+        "id": "itm_britontunic_8woman",
+        "text": "Wolf_Skin",
+        "old_translation": "",
+        "translation": "紫色上衣"
+    },
+    {
+        "id": "itm_britontunic_8woman_pl",
+        "text": "Wolf_Skin",
+        "old_translation": "",
+        "translation": "紫色上衣"
+    },
+    {
+        "id": "itm_veil_a",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_veil_a_pl",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_veil_b",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_veil_b_pl",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_veil_c",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_veil_c_pl",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_veil_d",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_veil_d_pl",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_veil_e",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_veil_e_pl",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_veil_f",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_veil_f_pl",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_elite_veil_1",
+        "text": "Rich_Veil",
+        "old_translation": "",
+        "translation": "女士面纱"
+    },
+    {
+        "id": "itm_elite_veil_1_pl",
+        "text": "Rich_Veil",
+        "old_translation": "",
+        "translation": "女士面纱"
+    },
+    {
+        "id": "itm_elite_veil_2",
+        "text": "Rich_Veil",
+        "old_translation": "",
+        "translation": "女士面纱"
+    },
+    {
+        "id": "itm_elite_veil_2_pl",
+        "text": "Rich_Veil",
+        "old_translation": "",
+        "translation": "女士面纱"
+    },
+    {
+        "id": "itm_elite_veil_3",
+        "text": "Rich_Veil",
+        "old_translation": "",
+        "translation": "女士面纱"
+    },
+    {
+        "id": "itm_elite_veil_3_pl",
+        "text": "Rich_Veil",
+        "old_translation": "",
+        "translation": "女士面纱"
+    },
+    {
+        "id": "itm_elite_veil_4",
+        "text": "Rich_Veil",
+        "old_translation": "",
+        "translation": "女士面纱"
+    },
+    {
+        "id": "itm_elite_veil_4_pl",
+        "text": "Rich_Veil",
+        "old_translation": "",
+        "translation": "女士面纱"
+    },
+    {
+        "id": "itm_common_veil_a",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_common_veil_a_pl",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_common_veil_b",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_common_veil_b_pl",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_common_veil_c",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_common_veil_c_pl",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_common_veil_d",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_common_veil_d_pl",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_common_veil_e",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_common_veil_e_pl",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_common_veil_f",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_common_veil_f_pl",
+        "text": "Veil",
+        "old_translation": "",
+        "translation": "面纱"
+    },
+    {
+        "id": "itm_elite_veil_5",
+        "text": "Rich_Veil",
+        "old_translation": "",
+        "translation": "女士面纱"
+    },
+    {
+        "id": "itm_elite_veil_5_pl",
+        "text": "Rich_Veil",
+        "old_translation": "",
+        "translation": "女士面纱"
+    },
+    {
+        "id": "itm_elite_veil_6",
+        "text": "Rich_Veil",
+        "old_translation": "",
+        "translation": "女士面纱"
+    },
+    {
+        "id": "itm_elite_veil_6_pl",
+        "text": "Rich_Veil",
+        "old_translation": "",
+        "translation": "女士面纱"
+    },
+    {
+        "id": "itm_elite_veil_7",
+        "text": "Rich_Veil",
+        "old_translation": "",
+        "translation": "女士面纱"
+    },
+    {
+        "id": "itm_elite_veil_7_pl",
+        "text": "Rich_Veil",
+        "old_translation": "",
+        "translation": "女士面纱"
+    },
+    {
+        "id": "itm_elite_veil_8",
+        "text": "Rich_Veil",
+        "old_translation": "",
+        "translation": "女士面纱"
+    },
+    {
+        "id": "itm_elite_veil_8_pl",
+        "text": "Rich_Veil",
+        "old_translation": "",
+        "translation": "女士面纱"
+    },
+    {
+        "id": "itm_gambeson1",
+        "text": "Saxon_Gambeson",
+        "old_translation": "",
+        "translation": "撒克逊软甲"
+    },
+    {
+        "id": "itm_gambeson1_pl",
+        "text": "Saxon_Gambeson",
+        "old_translation": "",
+        "translation": "撒克逊软甲"
+    },
+    {
+        "id": "itm_gambeson2",
+        "text": "Saxon_Gambeson",
+        "old_translation": "",
+        "translation": "撒克逊软甲"
+    },
+    {
+        "id": "itm_gambeson2_pl",
+        "text": "Saxon_Gambeson",
+        "old_translation": "",
+        "translation": "撒克逊软甲"
+    },
+    {
+        "id": "itm_gambeson3",
+        "text": "Saxon_Gambeson",
+        "old_translation": "",
+        "translation": "撒克逊软甲"
+    },
+    {
+        "id": "itm_gambeson3_pl",
+        "text": "Saxon_Gambeson",
+        "old_translation": "",
+        "translation": "撒克逊软甲"
+    },
+    {
+        "id": "itm_gambeson4",
+        "text": "Norse_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯软甲"
+    },
+    {
+        "id": "itm_gambeson4_pl",
+        "text": "Norse_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯软甲"
+    },
+    {
+        "id": "itm_gambeson5",
+        "text": "Norse_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯软甲"
+    },
+    {
+        "id": "itm_gambeson5_pl",
+        "text": "Norse_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯软甲"
+    },
+    {
+        "id": "itm_gambeson6",
+        "text": "Saxon_Gambeson",
+        "old_translation": "",
+        "translation": "撒克逊软甲"
+    },
+    {
+        "id": "itm_gambeson6_pl",
+        "text": "Saxon_Gambeson",
+        "old_translation": "",
+        "translation": "撒克逊软甲"
+    },
+    {
+        "id": "itm_gambeson7",
+        "text": "Saxon_Gambeson",
+        "old_translation": "",
+        "translation": "撒克逊软甲"
+    },
+    {
+        "id": "itm_gambeson7_pl",
+        "text": "Saxon_Gambeson",
+        "old_translation": "",
+        "translation": "撒克逊软甲"
+    },
+    {
+        "id": "itm_gambeson8",
+        "text": "Norse_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯软甲"
+    },
+    {
+        "id": "itm_gambeson8_pl",
+        "text": "Norse_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯软甲"
+    },
+    {
+        "id": "itm_gambeson9",
+        "text": "Saxon_Gambeson",
+        "old_translation": "",
+        "translation": "撒克逊软甲"
+    },
+    {
+        "id": "itm_gambeson9_pl",
+        "text": "Saxon_Gambeson",
+        "old_translation": "",
+        "translation": "撒克逊软甲"
+    },
+    {
+        "id": "itm_gambeson10",
+        "text": "Angle_Gambeson",
+        "old_translation": "",
+        "translation": "盎格鲁软甲"
+    },
+    {
+        "id": "itm_gambeson10_pl",
+        "text": "Angle_Gambeson",
+        "old_translation": "",
+        "translation": "盎格鲁软甲"
+    },
+    {
+        "id": "itm_gambeson11",
+        "text": "Angle_Gambeson",
+        "old_translation": "",
+        "translation": "盎格鲁软甲"
+    },
+    {
+        "id": "itm_gambeson11_pl",
+        "text": "Angle_Gambeson",
+        "old_translation": "",
+        "translation": "盎格鲁软甲"
+    },
+    {
+        "id": "itm_gambeson12",
+        "text": "Briton_Gambeson",
+        "old_translation": "",
+        "translation": "布立吞长软甲"
+    },
+    {
+        "id": "itm_gambeson12_pl",
+        "text": "Briton_Gambeson",
+        "old_translation": "",
+        "translation": "布立吞长软甲"
+    },
+    {
+        "id": "itm_gambeson13",
+        "text": "Norse_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯软甲"
+    },
+    {
+        "id": "itm_gambeson13_pl",
+        "text": "Norse_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯软甲"
+    },
+    {
+        "id": "itm_gambeson14",
+        "text": "Norse_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯软甲"
+    },
+    {
+        "id": "itm_gambeson14_pl",
+        "text": "Norse_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯软甲"
+    },
+    {
+        "id": "itm_gambeson15",
+        "text": "Saxon_Long_Gambeson",
+        "old_translation": "",
+        "translation": "撒克逊长软甲"
+    },
+    {
+        "id": "itm_gambeson15_pl",
+        "text": "Saxon_Long_Gambeson",
+        "old_translation": "",
+        "translation": "撒克逊长软甲"
+    },
+    {
+        "id": "itm_gambeson16",
+        "text": "Briton_Gambeson",
+        "old_translation": "",
+        "translation": "布立吞长软甲"
+    },
+    {
+        "id": "itm_gambeson16_pl",
+        "text": "Briton_Gambeson",
+        "old_translation": "",
+        "translation": "布立吞长软甲"
+    },
+    {
+        "id": "itm_gambeson17",
+        "text": "Angle_Gambeson",
+        "old_translation": "",
+        "translation": "盎格鲁软甲"
+    },
+    {
+        "id": "itm_gambeson17_pl",
+        "text": "Angle_Gambeson",
+        "old_translation": "",
+        "translation": "盎格鲁软甲"
+    },
+    {
+        "id": "itm_gambeson18",
+        "text": "Saxon_Long_Gambeson",
+        "old_translation": "",
+        "translation": "撒克逊长软甲"
+    },
+    {
+        "id": "itm_gambeson18_pl",
+        "text": "Saxon_Long_Gambeson",
+        "old_translation": "",
+        "translation": "撒克逊长软甲"
+    },
+    {
+        "id": "itm_gambeson19",
+        "text": "Frisian_Gambeson",
+        "old_translation": "",
+        "translation": "弗里斯软甲"
+    },
+    {
+        "id": "itm_gambeson19_pl",
+        "text": "Frisian_Gambeson",
+        "old_translation": "",
+        "translation": "弗里斯软甲"
+    },
+    {
+        "id": "itm_gambeson20",
+        "text": "Frisian_Gambeson",
+        "old_translation": "",
+        "translation": "弗里斯软甲"
+    },
+    {
+        "id": "itm_gambeson20_pl",
+        "text": "Frisian_Gambeson",
+        "old_translation": "",
+        "translation": "弗里斯软甲"
+    },
+    {
+        "id": "itm_gambeson21",
+        "text": "Common_Gambeson",
+        "old_translation": "",
+        "translation": "平民软甲"
+    },
+    {
+        "id": "itm_gambeson21_pl",
+        "text": "Common_Gambeson",
+        "old_translation": "",
+        "translation": "平民软甲"
+    },
+    {
+        "id": "itm_gambeson22",
+        "text": "Common_Gambeson",
+        "old_translation": "",
+        "translation": "平民软甲"
+    },
+    {
+        "id": "itm_gambeson22_pl",
+        "text": "Common_Gambeson",
+        "old_translation": "",
+        "translation": "平民软甲"
+    },
+    {
+        "id": "itm_gambeson23",
+        "text": "Common_Gambeson",
+        "old_translation": "",
+        "translation": "平民软甲"
+    },
+    {
+        "id": "itm_gambeson23_pl",
+        "text": "Common_Gambeson",
+        "old_translation": "",
+        "translation": "平民软甲"
+    },
+    {
+        "id": "itm_gambeson24",
+        "text": "Common_Gambeson",
+        "old_translation": "",
+        "translation": "平民软甲"
+    },
+    {
+        "id": "itm_gambeson24_pl",
+        "text": "Common_Gambeson",
+        "old_translation": "",
+        "translation": "平民软甲"
+    },
+    {
+        "id": "itm_gambeson1gael",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson1gael_pl",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson2gael",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson2gael_pl",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson3gael",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson3gael_pl",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson4gael",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson4gael_pl",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson5gael",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson5gael_pl",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson6gael",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson6gael_pl",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson7gael",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson7gael_pl",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson8gael",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson8gael_pl",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson9gael",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson9gael_pl",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson10gael",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson10gael_pl",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson11gael",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson11gael_pl",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson12gael",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson12gael_pl",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson13gael",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson13gael_pl",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson14gael",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson14gael_pl",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson15gael",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson15gael_pl",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson16gael",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson16gael_pl",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson1cloak",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson1cloak_pl",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson2cloak",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson2cloak_pl",
+        "text": "Pictish_Gambeson",
+        "old_translation": "",
+        "translation": "皮克特软甲"
+    },
+    {
+        "id": "itm_gambeson5cloak",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson5cloak_pl",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson6cloak",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson6cloak_pl",
+        "text": "Goidelic_Gambeson",
+        "old_translation": "",
+        "translation": "戈伊德尔软甲"
+    },
+    {
+        "id": "itm_gambeson3cloak",
+        "text": "Frisian_Gambeson",
+        "old_translation": "",
+        "translation": "弗里斯软甲"
+    },
+    {
+        "id": "itm_gambeson3cloak_pl",
+        "text": "Frisian_Gambeson",
+        "old_translation": "",
+        "translation": "弗里斯软甲"
+    },
+    {
+        "id": "itm_gambeson4cloak",
+        "text": "Frisian_Gambeson",
+        "old_translation": "",
+        "translation": "弗里斯软甲"
+    },
+    {
+        "id": "itm_gambeson4cloak_pl",
+        "text": "Frisian_Gambeson",
+        "old_translation": "",
+        "translation": "弗里斯软甲"
+    },
+    {
+        "id": "itm_gambeson25",
+        "text": "Norse_Long_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯长软甲"
+    },
+    {
+        "id": "itm_gambeson25_pl",
+        "text": "Norse_Long_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯长软甲"
+    },
+    {
+        "id": "itm_gambeson26",
+        "text": "Angle_Long_Gambeson",
+        "old_translation": "",
+        "translation": "盎格鲁长软甲"
+    },
+    {
+        "id": "itm_gambeson26_pl",
+        "text": "Angle_Long_Gambeson",
+        "old_translation": "",
+        "translation": "盎格鲁长软甲"
+    },
+    {
+        "id": "itm_gambeson27",
+        "text": "Norse_Long_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯长软甲"
+    },
+    {
+        "id": "itm_gambeson27_pl",
+        "text": "Norse_Long_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯长软甲"
+    },
+    {
+        "id": "itm_gambeson28",
+        "text": "Angle_Gambeson",
+        "old_translation": "",
+        "translation": "盎格鲁软甲"
+    },
+    {
+        "id": "itm_gambeson28_pl",
+        "text": "Angle_Gambeson",
+        "old_translation": "",
+        "translation": "盎格鲁软甲"
+    },
+    {
+        "id": "itm_gambeson29",
+        "text": "Norse_Long_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯长软甲"
+    },
+    {
+        "id": "itm_gambeson29_pl",
+        "text": "Norse_Long_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯长软甲"
+    },
+    {
+        "id": "itm_gambeson30",
+        "text": "Common_Long_Gambeson",
+        "old_translation": "",
+        "translation": "平民长软甲"
+    },
+    {
+        "id": "itm_gambeson30_pl",
+        "text": "Common_Long_Gambeson",
+        "old_translation": "",
+        "translation": "平民长软甲"
+    },
+    {
+        "id": "itm_gambeson31",
+        "text": "Common_Long_Gambeson",
+        "old_translation": "",
+        "translation": "平民长软甲"
+    },
+    {
+        "id": "itm_gambeson31_pl",
+        "text": "Common_Long_Gambeson",
+        "old_translation": "",
+        "translation": "平民长软甲"
+    },
+    {
+        "id": "itm_gambeson32",
+        "text": "Saxon_Long_Gambeson",
+        "old_translation": "",
+        "translation": "撒克逊长软甲"
+    },
+    {
+        "id": "itm_gambeson32_pl",
+        "text": "Saxon_Long_Gambeson",
+        "old_translation": "",
+        "translation": "撒克逊长软甲"
+    },
+    {
+        "id": "itm_gambeson33",
+        "text": "Frisian_Long_Gambeson",
+        "old_translation": "",
+        "translation": "弗里斯长软甲"
+    },
+    {
+        "id": "itm_gambeson33_pl",
+        "text": "Frisian_Long_Gambeson",
+        "old_translation": "",
+        "translation": "弗里斯长软甲"
+    }
+]

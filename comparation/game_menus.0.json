@@ -1,2002 +1,3002 @@
 [
     {
+        "id": "menu_start_game_0",
         "text": "Welcome_to_Viking_Conquest.",
-        "translation": "欢迎来到维京征服世界"
+        "old_translation": "欢迎来到维京征服。",
+        "translation": "欢迎来到维京征服。"
     },
     {
+        "id": "mno_continue_i",
         "text": "Continue...",
+        "old_translation": "继续……",
         "translation": "继续……"
     },
     {
+        "id": "mno_continue_cheat",
         "text": "Bypass_the_tutorial.",
+        "old_translation": "跳过教程。",
         "translation": "跳过教程。"
     },
     {
+        "id": "mno_go_back_dot",
         "text": "Go_back.",
+        "old_translation": "后退。",
         "translation": "后退。"
     },
     {
+        "id": "menu_start_game_3",
         "text": "Choose_your_scenario:",
-        "translation": "选择剧本"
+        "old_translation": "选择剧本：",
+        "translation": "选择剧本："
     },
     {
+        "id": "mno_go_back",
         "text": "Go_back",
+        "old_translation": "后退",
         "translation": "后退"
     },
     {
+        "id": "menu_tutorial",
         "text": "You_approach_a_field_where_the_locals_are_practicing_with_weapons._You_can_practice_here_to_improve_your_combat_skills.",
-        "translation": "你进入了训练场，不少当地人都在里面进行着武器的训练。在这里你可以通过各种训练来提高你的战斗技巧。"
+        "old_translation": "你走近一片空地，当地人正在这里练习武器。你可以在此训练，提升战斗技巧。",
+        "translation": "你走近一片空地，当地人正在这里练习武器。你可以在此训练，提升战斗技巧。"
     },
     {
+        "id": "mno_continue",
+        "text": "Continue...",
+        "old_translation": "继续……",
+        "translation": "继续……"
+    },
+    {
+        "id": "menu_reports",
         "text": "Character_Renown:_{reg5}^Honor_Rating:_{reg6}^Party_Morale:_{reg8}^Party_Size_Limit:_{reg7}^",
+        "old_translation": "继续……",
         "translation": "角色声望：{reg5}^荣誉级别：{reg6}^部队士气：{reg8}^部队上限：{reg7}^"
     },
     {
+        "id": "mno_resume_travelling",
         "text": "Resume_travelling.",
+        "old_translation": "角色声望：{reg5}^荣誉级别：{reg6}^部队士气：{reg8}^部队上限：{reg7}^",
         "translation": "继续旅程。"
     },
     {
+        "id": "menu_start_phase_2x",
         "text": "Back",
+        "old_translation": "继续旅程。",
         "translation": "后退"
     },
     {
+        "id": "mno_town_4",
         "text": "Continue.",
-        "translation": "继续"
+        "old_translation": "后退",
+        "translation": "继续。"
     },
     {
+        "id": "menu_custom_battle_end",
         "text": "The_battle_is_over._{s1}_Your_side_killed_{reg5}_enemies_and_lost_{reg6}_troops_during_the_battle._You_personally_slew_{reg7}_men_in_the_fighting.",
-        "translation": "战斗结束，在这场战斗中，{s1}你的队伍杀死了{reg5}人，敌人的队伍杀死了{reg6}，你杀死了{reg7}人。"
+        "old_translation": "继续",
+        "translation": "战斗结束。{s1}你的部队击杀{reg5}名敌人，损失{reg6}名士兵。你亲手斩杀{reg7}人。"
     },
     {
+        "id": "menu_start_game_2",
+        "text": "Welcome_to_Viking_Conquest.",
+        "old_translation": "欢迎来到维京征服。",
+        "translation": "欢迎来到维京征服。"
+    },
+    {
+        "id": "menu_start_game_1",
+        "text": "Welcome_to_Viking_Conquest.",
+        "old_translation": "欢迎来到维京征服。",
+        "translation": "欢迎来到维京征服。"
+    },
+    {
+        "id": "menu_start_game_11",
         "text": "Exit?",
+        "old_translation": "战斗结束。{s1}你的部队击杀{reg5}名敌人，损失{reg6}名士兵。你亲手斩杀{reg7}人。",
         "translation": "退出？"
     },
     {
+        "id": "menu_start_game_4",
         "text": "You_have_made_some_choices._You_will_not_be_able_to_change_them_later_after_the_game_starts._Would_you_like_to_keep_them_and_continue?",
-        "translation": "你已经做出了一些选择。你在冒险开始后将无法改变。你仍然坚持你的选择开始你的冒险吗？"
+        "old_translation": "欢迎来到维京征服。",
+        "translation": "你已做出选择，游戏开始后无法更改。是否保留并继续？"
     },
     {
+        "id": "mno_back",
         "text": "Back.",
-        "translation": "返回。"
+        "old_translation": "欢迎来到维京征服。",
+        "translation": "后退。"
     },
     {
+        "id": "menu_camp",
         "text": "You_set_up_camp._What_do_you_want_to_do?",
-        "translation": "营地已经建好了，你想要做什么？"
+        "old_translation": "退出？",
+        "translation": "你扎下营地。想做些什么？"
     },
     {
+        "id": "mno_camp_action",
         "text": "Take_an_action.",
-        "translation": "干点事情。"
+        "old_translation": "你已做出选择，游戏开始后无法更改。是否保留并继续？",
+        "translation": "采取行动。"
     },
     {
+        "id": "mno_camp_wait_here",
         "text": "Wait_here_for_some_time.",
-        "translation": "在这里休息一会儿。"
+        "old_translation": "在此稍候片刻。",
+        "translation": "在此稍候片刻。"
     },
     {
+        "id": "menu_camp_action_rest",
         "text": "Camping_allows_your_men_to_rest_for_a_while_and_recover_from_the_hard_life_of_travels._It_also_allows_you_to_forage,_increasing_your_food_supplies._This_is_particularly_helpful_when_campaigning_in_enemy_territory,_where_it_is_difficult_to_buy_supplies.",
-        "translation": "扎营允许你的士兵从长途跋涉中得到休息，也允许你搜寻食物来补充库存粮草。这一点在你进入敌人领地时非常有用，因为你将难以购买补给。"
+        "old_translation": "扎营能让部下歇息片刻，从旅途劳顿中恢复。还能就地觅食，补充粮草。深入敌境、难以购粮时，此法尤显重要。",
+        "translation": "扎营能让部下歇息片刻，从旅途劳顿中恢复。还能就地觅食，补充粮草。深入敌境、难以购粮时，此法尤显重要。"
     },
     {
+        "id": "menu_build_refuge_new",
         "text": "Your_men_await_your_orders_to_start_building_the_refuge._There_is_enough_material_collected_so_far,_and_what_may_be_missing_can_be_purchased_in_nearby_villages.^^Total_Cost:_1000_peningas.^Time_need:_6_hours.",
-        "translation": "你的士兵等待你下令开始建立避难所。现在有足够的材料，并且缺失的材料可以在附近村庄购买。^^总成本：1000先令。^需要时间：6小时。"
+        "old_translation": "部下已待命筑寨。材料已备齐，若缺少许，可在附近村庄购得。^^总花费：1000银便士。^所需时间：6小时。",
+        "translation": "部下已待命筑寨。材料已备齐，若缺少许，可在附近村庄购得。^^总花费：1000银便士。^所需时间：6小时。"
     },
     {
+        "id": "mno_refuge_here",
         "text": "So_order.",
-        "translation": "是的。"
+        "old_translation": "那就下令。",
+        "translation": "那就下令。"
     },
     {
+        "id": "menu_camp_cheat",
         "text": "Select_a_cheat:",
+        "old_translation": "选择一项作弊：",
         "translation": "选择一项作弊："
     },
     {
+        "id": "mno_camp_cheat_find_item",
         "text": "Find_an_item...",
-        "translation": "查找一件物品……"
+        "old_translation": "寻找物品……",
+        "translation": "寻找物品……"
     },
     {
+        "id": "mno_testing_cheats",
         "text": "Cheats_fast_use.",
-        "translation": "使用作弊代码。"
+        "old_translation": "快速使用作弊。",
+        "translation": "快速使用作弊。"
     },
     {
+        "id": "mno_back_to_camp_menu",
         "text": "Back_to_camp_menu.",
-        "translation": "回到宿营菜单。"
+        "old_translation": "返回营地菜单。",
+        "translation": "返回营地菜单。"
     },
     {
+        "id": "menu_cheat_testing_cheats1",
+        "text": "Select_a_cheat:",
+        "old_translation": "选择一项作弊：",
+        "translation": "选择一项作弊："
+    },
+    {
+        "id": "menu_storyline_cheat",
+        "text": "Select_a_cheat:",
+        "old_translation": "选择一项作弊：",
+        "translation": "选择一项作弊："
+    },
+    {
+        "id": "menu_camp_action",
         "text": "Choose_an_action:",
-        "translation": "选择你要做的事："
+        "old_translation": "选择一项作弊：",
+        "translation": "选择一项行动："
     },
     {
+        "id": "mno_toggle_cheat_on",
         "text": "_Toggle_cheat_menu_on.",
-        "translation": "作弊目录开启。"
+        "old_translation": "选择一项作弊：",
+        "translation": "开启作弊菜单。"
     },
     {
+        "id": "mno_toggle_cheat_off",
         "text": "_Toggle_cheat_menu_off.",
-        "translation": "作弊目录关闭。"
+        "old_translation": "选择行动：",
+        "translation": "关闭作弊菜单。"
     },
     {
+        "id": "menu_camp_recruit_prisoners",
         "text": "You_offer_your_prisoners_freedom_if_they_agree_to_join_you_as_soldiers._{s18}",
-        "translation": "你答应这些俘虏，如果他们加入你的话，你就给予他们自由。{s18}"
+        "old_translation": "开启作弊菜单。",
+        "translation": "你向俘虏提议：若愿投军，便赐其自由。{s18}"
     },
     {
+        "id": "mno_camp_recruit_prisoners_accept",
         "text": "Take_them.",
-        "translation": "接受。"
+        "old_translation": "关闭作弊菜单。",
+        "translation": "全部带走。"
     },
     {
+        "id": "mno_camp_recruit_prisoners_half",
         "text": "Take_half_them.",
-        "translation": "招降一半。"
+        "old_translation": "你向俘虏提议：若愿投军，便赐其自由。{s18}",
+        "translation": "带走一半。"
     },
     {
+        "id": "mno_camp_recruit_prisoners_reject",
         "text": "Reject_them.",
-        "translation": "拒绝。"
+        "old_translation": "全部带走。",
+        "translation": "拒绝他们。"
     },
     {
+        "id": "menu_camp_no_prisoners",
         "text": "You_have_no_prisoners_to_recruit_from.",
-        "translation": "你没有俘虏可以招降。"
+        "old_translation": "带走一半。",
+        "translation": "你目前没有可招募的俘虏。"
     },
     {
+        "id": "menu_camp_action_read_book",
         "text": "Choose_a_book_to_read:",
-        "translation": "选一本书读："
+        "old_translation": "拒绝他们。",
+        "translation": "选择要阅读的书："
     },
     {
+        "id": "menu_retirement_verify",
         "text": "You_are_at_day_{reg0}._Your_current_luck_is_{reg1}._Are_you_sure_you_want_to_retire?",
-        "translation": "现在总共冒险的时间是{reg0}天，运气是{reg1}。你确实想要从这场冒险中退出吗？"
+        "old_translation": "你目前没有可招募的俘虏。",
+        "translation": "今天是第{reg0}天，你当前的幸运值为{reg1}。确定要退休吗？"
     },
     {
+        "id": "mno_yes_dot",
         "text": "Yes.",
-        "translation": "是的。"
+        "old_translation": "是。",
+        "translation": "是。"
     },
     {
+        "id": "mno_no_dot",
         "text": "No.",
+        "old_translation": "不。",
         "translation": "不。"
     },
     {
+        "id": "menu_end_game",
         "text": "The_decision_is_made,_and_you_resolve_to_give_up_your_adventurer's_life_and_settle_down._You_sell_off_your_weapons_and_armour,_gather_up_all_your_money,_and_ride_off_into_the_sunset....",
-        "translation": "去意已决，你决定放弃冒险者的生活，并定居下来。你卖掉了所有的武器与护甲，收拾起行囊，策马奔向夕阳的余辉之中。。。。"
+        "old_translation": "去意已决，你决定放弃冒险者的生活，就此安顿。你卖掉武器与盔甲，收拢全部钱财，策马奔向落日余晖……",
+        "translation": "去意已决，你决定放弃冒险者的生活，就此安顿。你卖掉武器与盔甲，收拢全部钱财，策马奔向落日余晖……"
     },
     {
+        "id": "mno_end_game_bye",
         "text": "Farewell.",
+        "old_translation": "我带来了些俘虏。",
         "translation": "再会。"
     },
     {
+        "id": "menu_cattle_herd",
         "text": "You_encounter_a_herd_of_cattle.",
-        "translation": "你遇到了一群牛。"
+        "old_translation": "你遇到一群牛。",
+        "translation": "你遇到一群牛。"
     },
     {
+        "id": "mno_cattle_drive_away",
         "text": "Lead_the_cattle_onward.",
-        "translation": "驱赶他们。"
+        "old_translation": "驱赶牛群继续前进。",
+        "translation": "驱赶牛群继续前进。"
     },
     {
+        "id": "mno_cattle_stop",
         "text": "Bring_the_herd_to_a_stop.",
+        "old_translation": "让牛群停下休息。",
         "translation": "让牛群停下休息。"
     },
     {
+        "id": "mno_cattle_kill",
         "text": "Slaughter_some_of_the_animals.",
-        "translation": "屠宰其中的一些。"
+        "old_translation": "宰杀几头牲口。",
+        "translation": "宰杀几头牲口。"
     },
     {
+        "id": "mno_leave",
         "text": "Leave.",
+        "old_translation": "离开。",
         "translation": "离开。"
     },
     {
+        "id": "menu_cattle_herd_kill",
         "text": "How_many_animals_do_you_want_to_slaughter?",
-        "translation": "你想屠宰几头？"
+        "old_translation": "你想宰杀几头？",
+        "translation": "你想宰杀几头？"
     },
     {
+        "id": "mno_cattle_kill_1",
         "text": "One.",
-        "translation": "1头。"
+        "old_translation": "一。",
+        "translation": "一。"
     },
     {
+        "id": "mno_cattle_kill_2",
         "text": "Two.",
+        "old_translation": "二。",
         "translation": "二。"
     },
     {
+        "id": "mno_cattle_kill_3",
         "text": "Three.",
+        "old_translation": "三。",
         "translation": "三。"
     },
     {
+        "id": "mno_cattle_kill_4",
         "text": "Four.",
+        "old_translation": "四。",
         "translation": "四。"
     },
     {
+        "id": "mno_cattle_kill_5",
         "text": "Five.",
-        "translation": "5头。"
+        "old_translation": "五。",
+        "translation": "五。"
     },
     {
+        "id": "mno_cattle_kill_20",
         "text": "Twenty.",
+        "old_translation": "二十。",
         "translation": "二十。"
     },
     {
+        "id": "menu_arena_duel_fight",
         "text": "A_duel_is_a_very_serious_thing,_especially_if_it_is_to_the_death._Two_enter_the_circle,_but_only_one_comes_out...^^Both_mind_and_body_react_to_stress_and_danger._You_feel_the_cold_sweat_under_your_armpits,_the_kind_that_comes_regardless_of_whether_it's_hot_or_not._It's_the_sweat_of_the_fight,_and_its_presence_indicates_that_you..._are_ready.",
-        "translation": "决斗是件非常严肃的事情，尤其是到一方死亡为止。两个人进入决斗场，但是只有一个可以走出来…^^身心要同时对压力和危机做出反应。你感觉你的腋下在出冷汗，那种出汗的感觉和冷热完全无关，那是战斗的汗水，同时预示着…你已经准备好了。"
+        "old_translation": "决斗极其严肃，尤其以命相搏。两人踏入圈中，唯有一人能走出……^^身心同时回应压力与危险。你感到腋下渗出冷汗，那种汗与冷热无关，是战斗之汗，它的出现表明……你已准备就绪。",
+        "translation": "决斗极其严肃，尤其以命相搏。两人踏入圈中，唯有一人能走出……^^身心同时回应压力与危险。你感到腋下渗出冷汗，那种汗与冷热无关，是战斗之汗，它的出现表明……你已准备就绪。"
     },
     {
+        "id": "menu_simple_encounter",
         "text": "{s2}_You_have_{reg10}_troops_fit_for_battle_against_their_{reg11}.^^{s7}",
-        "translation": "{s2}你将以{reg10}人的部队迎战对手{reg11}人。^^{s7}"
+        "old_translation": "{s2}你率{reg10}名可战之兵，对阵敌方{reg11}人。^^{s7}",
+        "translation": "{s2}你率{reg10}名可战之兵，对阵敌方{reg11}人。^^{s7}"
     },
     {
+        "id": "mno_playerambush_attack",
         "text": "Ambush_attack!",
-        "translation": "被伏击！"
+        "old_translation": "伏击进攻！",
+        "translation": "伏击进攻！"
     },
     {
+        "id": "mno_ambush_attack",
         "text": "Ambush_defense!",
-        "translation": "伏击敌人！"
+        "old_translation": "伏击防守！",
+        "translation": "伏击防守！"
     },
     {
+        "id": "mno_encounter_attack",
         "text": "{s7}_the_enemy.",
-        "translation": "攻入敌阵！"
+        "old_translation": "{s7}敌军！",
+        "translation": "{s7}敌军！"
     },
     {
+        "id": "mno_encounter_deploy",
         "text": "Start_battle_holding_position.",
+        "old_translation": "{s7}向敌人发起冲锋！",
         "translation": "战斗开始后坚守阵地。"
     },
     {
+        "id": "mno_encounter_order_attack",
         "text": "Order_your_troops_to_attack_without_you.",
+        "old_translation": "战斗开始后坚守阵地。",
         "translation": "坐镇指挥，让你的部队进攻。"
     },
     {
+        "id": "mno_tactical_nuevo",
         "text": "Commander's_Options.",
+        "old_translation": "坐镇指挥，让你的部队进攻。",
         "translation": "指挥官的选择。"
     },
     {
+        "id": "mno_encounter_retreat",
         "text": "Pull_back,_leaving_some_soldiers_behind_to_cover_your_retreat.",
+        "old_translation": "指挥官的选择。",
         "translation": "以留下少量部队掩护为代价撤退。"
     },
     {
+        "id": "mno_encounter_surrender",
         "text": "Surrender.",
+        "old_translation": "以留下少量部队掩护为代价撤退。",
         "translation": "投降。"
     },
     {
+        "id": "menu_encounter_retreat_confirm",
         "text": "As_the_party_member_with_the_highest_tactics_skill,_({reg2}),_{reg3?you_devise:{s3}_devises}_a_plan_that_will_allow_you_and_your_men_to_escape_unscathed,_but_you'll_have_to_leave_{reg4}_soldiers_behind_to_prevent_the_enemy_from_giving_chase.",
-        "translation": "队员中最高战术技能为{reg2}级，因此{reg3?你制定:{s3}制定}了一个计划，允许你和大部分士兵可以无损地撤退，但是你必须牺牲{reg4}个战士来阻止敌人追击。"
+        "old_translation": "投降。",
+        "translation": "队员中最高战术技能为{reg2}级，因此{reg3?你制定:{s3}制定}了一个计划，允许你和大部分士兵无损撤退，但你必须牺牲{reg4}名战士来阻止敌人追击。"
     },
     {
+        "id": "mno_leave_behind",
         "text": "Go_on._The_sacrifice_of_these_men_will_save_the_rest.",
+        "old_translation": "队员中最高战术技能为{reg2}级，因此{reg3?你制定:{s3}制定}了一个计划，允许你和大部分士兵可以无损地撤退，但是你必须牺牲{reg4}个战士来阻止敌人追击。",
         "translation": "实行计划，牺牲那些士兵，拯救剩下的部队。"
     },
     {
+        "id": "mno_dont_leave_behind",
         "text": "No._We_leave_no_one_behind.",
-        "translation": "不，我们不会牺牲任何一个战友。"
+        "old_translation": "实行计划，牺牲那些士兵，拯救剩下的部队。",
+        "translation": "不，我们不会丢下任何人。"
     },
     {
+        "id": "menu_encounter_retreat",
         "text": "You_tell_{reg4}_of_your_troops_to_hold_the_enemy_while_you_retreat_with_the_rest_of_your_party.",
-        "translation": "你命令{reg4}名战士负责在大部队撤退的时候拖住敌人前进的步伐。"
+        "old_translation": "不，我们不会牺牲任何一个战友。",
+        "translation": "你命令{reg4}名战士拖住敌人，自己率余部撤退。"
     },
     {
+        "id": "menu_order_attack_begin",
         "text": "Your_troops_prepare_to_attack_the_enemy.",
-        "translation": "你的部队已经做好了战斗准备。"
+        "old_translation": "你命令{reg4}名战士负责在大部队撤退的时候拖住敌人前进的步伐。",
+        "translation": "你的部队已做好攻击准备。"
     },
     {
+        "id": "mno_order_attack_begin",
         "text": "Order_the_attack.",
+        "old_translation": "你的部队已经做好了战斗准备。",
         "translation": "下令攻击。"
     },
     {
+        "id": "mno_call_back",
         "text": "Call_them_back.",
-        "translation": "后撤。"
+        "old_translation": "下令攻击。",
+        "translation": "召回他们。"
     },
     {
+        "id": "menu_order_attack_2",
         "text": "{s4}^^Your_casualties:_{s8}^^Enemy_casualties:_{s9}",
-        "translation": "{s4}^^我军人员伤亡：{s8}^^敌军人员伤亡：{s9}"
+        "old_translation": "后撤。",
+        "translation": "{s4}^^我军伤亡：{s8}^^敌军伤亡：{s9}"
     },
     {
+        "id": "mno_order_attack_continue",
         "text": "Order_your_soldiers_to_continue_the_attack.",
+        "old_translation": "{s4}^^我军人员伤亡：{s8}^^敌军人员伤亡：{s9}",
         "translation": "继续攻击。"
     },
     {
+        "id": "mno_order_retreat",
         "text": "Call_your_soldiers_back.",
+        "old_translation": "继续攻击。",
         "translation": "让你的士兵撤回来。"
     },
     {
+        "id": "menu_battle_debrief",
         "text": "{s11}^^Your_casualties:_{s8}{s10}^^Enemy_Casualties:{s9}^^{s3}",
+        "old_translation": "让你的士兵撤回来。",
         "translation": "{s11}^^我军伤亡：{s8}{s10}^^敌军伤亡：{s9}"
     },
     {
+        "id": "menu_total_victory",
         "text": "You_shouldn't_be_reading_this..._{s9}",
-        "translation": "你不该看这个……{s9}"
+        "old_translation": "{s11}^^我军伤亡：{s8}{s10}^^敌军伤亡：{s9}",
+        "translation": "你不该看到这个……{s9}"
     },
     {
+        "id": "menu_pre_join",
         "text": "You_come_across_a_battle_between_{s2}_and_{s1}._You_decide_to...",
-        "translation": "你遇到{s2}正在攻击{s1}，你决定……"
+        "old_translation": "你不该看这个……{s9}",
+        "translation": "你撞见{s2}与{s1}交战，你决定……"
     },
     {
+        "id": "mno_pre_join_help_attackers",
         "text": "Move_in_to_help_the_{s2}.",
-        "translation": "对{s2}施以援手。"
+        "old_translation": "你遇到{s2}正在攻击{s1}，你决定……",
+        "translation": "前去支援{s2}。"
     },
     {
+        "id": "mno_pre_join_help_defenders",
         "text": "Rush_to_the_aid_of_the_{s1}.",
-        "translation": "对{s1}施以援手。"
+        "old_translation": "驰援{s1}。",
+        "translation": "驰援{s1}。"
     },
     {
+        "id": "mno_pre_join_leave",
         "text": "Don't_get_involved.",
-        "translation": "不卷入纷争。"
+        "old_translation": "置身事外。",
+        "translation": "置身事外。"
     },
     {
+        "id": "menu_join_battle",
         "text": "You_are_helping_the_{s2}_against_the_{s1}._You_have_{reg10}_troops_fit_for_battle_against_the_enemy's_{reg11}.",
-        "translation": "你决定帮助{s2}对抗{s1}，你将有{reg10}名士兵参加战斗对抗{reg11}个敌人。"
+        "old_translation": "你正协助{s2}对抗{s1}，麾下{reg10}名战士可上阵，敌军则有{reg11}人。",
+        "translation": "你正协助{s2}对抗{s1}，麾下{reg10}名战士可上阵，敌军则有{reg11}人。"
     },
     {
+        "id": "mno_join_attack",
+        "text": "{s7}_the_enemy.",
+        "old_translation": "{s7}敌军！",
+        "translation": "{s7}敌军！"
+    },
+    {
+        "id": "mno_join_order_attack",
         "text": "Order_your_troops_to_join_your_allies_while_you_stay_back.",
-        "translation": "仅仅让你的士兵加入你的盟友。"
+        "old_translation": "命部队支援盟友，你按兵不动。",
+        "translation": "命部队支援盟友，你按兵不动。"
     },
     {
+        "id": "menu_join_order_attack",
         "text": "{s4}^^Your_casualties:_{s8}^^Allies'_casualties:_{s9}^^Enemy_casualties:_{s10}",
+        "old_translation": "{s4}^^我军伤亡：{s8}^^盟军伤亡：{s9}^^敌军伤亡：{s10}",
         "translation": "{s4}^^我军伤亡：{s8}^^盟军伤亡：{s9}^^敌军伤亡：{s10}"
     },
     {
+        "id": "menu_zendar",
         "text": "You_enter_the_town_of_Zendar.",
-        "translation": "你进入了禅达镇。"
+        "old_translation": "你踏入Zendar镇。",
+        "translation": "你踏入Zendar镇。"
     },
     {
+        "id": "mno_zendar_enter",
         "text": "Door_to_the_town_center.",
+        "old_translation": "【进入】",
         "translation": "【进入】"
     },
     {
+        "id": "mno_zendar_tavern",
         "text": "Door_to_the_tavern.",
+        "old_translation": "【进入】",
         "translation": "【进入】"
     },
     {
+        "id": "mno_zendar_merchant",
         "text": "Door_to_the_merchant.",
+        "old_translation": "【进入】",
         "translation": "【进入】"
     },
     {
+        "id": "mno_zendar_arena",
         "text": "Door_to_the_arena.",
+        "old_translation": "【进入】",
         "translation": "【进入】"
     },
     {
+        "id": "menu_salt_mine",
         "text": "You_enter_the_salt_mine.",
-        "translation": "你进入了盐矿。"
+        "old_translation": "你进入盐矿。",
+        "translation": "你进入盐矿。"
     },
     {
+        "id": "mno_enter",
         "text": "Enter.",
+        "old_translation": "进入",
         "translation": "进入"
     },
     {
+        "id": "menu_four_ways_inn",
         "text": "You_arrive_at_the_Four_Ways_Inn.",
-        "translation": "你进入了四方客栈。"
+        "old_translation": "你抵达福泽斯坦。",
+        "translation": "你抵达福泽斯坦。"
     },
     {
+        "id": "menu_test_scene",
         "text": "You_enter_the_test_scene.",
-        "translation": "你进入了测试场景。"
+        "old_translation": "你进入测试场景。",
+        "translation": "你进入测试场景。"
     },
     {
+        "id": "menu_quarry1",
         "text": "You_arrive_at_a_quarry._The_sounds_of_carts_and_picks_fill_the_air_as_several_free_men_work.",
-        "translation": "你到达了采石场，一些奴隶在工作，空气中响彻着手推车和凿子的声音。"
+        "old_translation": "你来到采石场，数名自由民挥镐推车，叮当声回荡。",
+        "translation": "你来到采石场，数名自由民挥镐推车，叮当声回荡。"
     },
     {
+        "id": "menu_salt_mine_vc",
         "text": "You_arrive_at_a_salt_mine._The_sound_of_carts_and_shovels_fills_the_air_as_several_free_men_work.",
-        "translation": "你到达了盐矿，一些奴隶在工作，空气中响彻着手推车和铁锹的声音。"
+        "old_translation": "你来到盐矿，数名自由民挥铲推车，声响不绝。",
+        "translation": "你来到盐矿，数名自由民挥铲推车，声响不绝。"
     },
     {
+        "id": "menu_lumber_camp",
         "text": "You_arrive_at_a_lumber_camp._The_sounds_of_axes_and_saws_fill_the_air_as_a_few_free_men_work.",
-        "translation": "你到达了伐木场，一些奴隶在工作，空气中响彻着斧头和锯子的声音。"
+        "old_translation": "你来到伐木营，数名自由民挥斧拉锯，声震林间。",
+        "translation": "你来到伐木营，数名自由民挥斧拉锯，声震林间。"
     },
     {
+        "id": "menu_farmstead_special",
         "text": "You_arrive_at_a_farmstead._Farmsteads_are_the_source_of_produce_and_foodstuffs,_so_those_things_are_cheaper_here.^^{s10}",
-        "translation": "你到达了农场。农场是食物的来源，所以这里的东西很便宜。^{s10}"
+        "old_translation": "你来到农场。农场出产粮食，此地物价低廉。^{s10}",
+        "translation": "你来到农场。农场出产粮食，此地物价低廉。^{s10}"
     },
     {
+        "id": "mno_take_cattlefs",
         "text": "Take_some_of_your_cattle.",
-        "translation": "带走一部分牛。"
+        "old_translation": "牵走几头牛。",
+        "translation": "牵走几头牛。"
     },
     {
+        "id": "menu_hadrian_wall1",
         "text": "You_arrive_at_remains_of_what_once_was_Hadrian's_Wall.",
-        "translation": "你到达了哈德良长城的遗址。"
+        "old_translation": "你抵达了哈德良长城的残垣断壁。",
+        "translation": "你抵达了哈德良长城的残垣断壁。"
     },
     {
+        "id": "menu_celidon_forest",
         "text": "Before_you_lies_a_strange_place_that_seems_to_emanate_a_mystical_energy_from_the_past.",
-        "translation": "在你面前出现的是一个陌生的地方，那里散发着来自古代的神秘能量。"
+        "old_translation": "眼前是一处奇异之地，仿佛自远古便散发着神秘气息。",
+        "translation": "眼前是一处奇异之地，仿佛自远古便散发着神秘气息。"
     },
     {
+        "id": "menu_hidden_valley",
         "text": "You_arrive_at_a_strange_place_that_looks_like_Roman_ruins._Your_men_set_up_camp_behind_you_as_you_start_to_explore...",
-        "translation": "你到达了一处陌生的地方，这里似乎是罗马废墟。你的部队在后方搭起了营帐，而你开始了探险…"
+        "old_translation": "你来到一处陌生所在，看似罗马废墟。部下在你身后扎营，你则开始探查……",
+        "translation": "你来到一处陌生所在，看似罗马废墟。部下在你身后扎营，你则开始探查……"
     },
     {
+        "id": "mno_enter_hv",
         "text": "Investigate.",
-        "translation": "调查。"
+        "old_translation": "探查。",
+        "translation": "探查。"
     },
     {
+        "id": "menu_join_siege_outside",
         "text": "{s1}_has_come_under_siege_by_{s2}.",
-        "translation": "{s1}正被{s2}围攻。"
+        "old_translation": "{s1}正遭{s2}围攻。",
+        "translation": "{s1}正遭{s2}围攻。"
     },
     {
+        "id": "mno_approach_besiegers",
         "text": "Approach_the_siege_camp.",
-        "translation": "进入围城营地。"
+        "old_translation": "靠近围城营地。",
+        "translation": "靠近围城营地。"
     },
     {
+        "id": "mno_pass_through_siege",
         "text": "Pass_through_the_siege_lines_and_enter_{s1}.",
-        "translation": "穿过围城进入{s1}。"
+        "old_translation": "穿过围城线，进入{s1}。",
+        "translation": "穿过围城线，进入{s1}。"
     },
     {
+        "id": "menu_cut_siege_without_fight",
         "text": "The_besiegers_let_you_approach_the_gates_without_challenge.",
-        "translation": "围城方放你进入了城堡。"
+        "old_translation": "围城者未加阻拦，让你径直来到城门。",
+        "translation": "围城者未加阻拦，让你径直来到城门。"
     },
     {
+        "id": "menu_besiegers_camp_with_allies",
         "text": "{s1}_remains_under_siege._The_banners_of_{s2}_fly_above_the_camp_of_the_besiegers,_where_you_and_your_men_are_welcomed.",
-        "translation": "{s1}依然被围困中，你和你的部队在上空飞扬着{s2}的旗帜的围城营地那里被热烈的欢迎了。"
+        "old_translation": "{s1}仍被围困。围城营地上空飘扬着{s2}的旗帜，你和部下受到欢迎。",
+        "translation": "{s1}仍被围困。围城营地上空飘扬着{s2}的旗帜，你和部下受到欢迎。"
     },
     {
+        "id": "mno_talk_to_siege_commander",
         "text": "Request_a_meeting_with_the_commander.",
-        "translation": "要求和指挥官会面。"
+        "old_translation": "请求与指挥官会面。",
+        "translation": "请求与指挥官会面。"
     },
     {
+        "id": "mno_join_siege_with_allies",
         "text": "Join_the_next_assault.",
-        "translation": "加入下一轮的攻城。"
+        "old_translation": "加入下一轮攻城。",
+        "translation": "加入下一轮攻城。"
     },
     {
+        "id": "mno_join_siege_stay_back",
         "text": "Order_your_soldiers_to_join_the_next_assault_without_you.",
-        "translation": "坐镇指挥，让你的部队协助下一轮的攻城。"
+        "old_translation": "坐镇指挥，让士兵自行参与下一轮攻城。",
+        "translation": "坐镇指挥，让士兵自行参与下一轮攻城。"
     },
     {
+        "id": "menu_castle_outside",
         "text": "You_are_outside_{s2}.{s11}_{s3}_{s4}",
-        "translation": "你在{s2}的外面。{s11}{s3}{s4}"
+        "old_translation": "你在{s2}外。{s11}{s3}{s4}",
+        "translation": "你在{s2}外。{s11} {s3} {s4}"
     },
     {
+        "id": "mno_approach_gates",
         "text": "Approach_the_gates_and_hail_the_guard.",
-        "translation": "走近城门，叫守卫出来。"
+        "old_translation": "走近城门，向守卫喊话。",
+        "translation": "走近城门，向守卫喊话。"
     },
     {
+        "id": "mno_town_sneak",
         "text": "Disguise_yourself_and_try_to_sneak_into_{s7}",
-        "translation": "伪装，偷偷溜进{s7}里去。"
+        "old_translation": "乔装潜入{s7}。",
+        "translation": "乔装潜入{s7}。"
     },
     {
+        "id": "mno_castle_start_siege",
         "text": "Besiege_the_{reg6?town:castle}.",
-        "translation": "围攻{reg6?城镇:城堡}"
+        "old_translation": "围攻{reg6?城镇:城堡}。",
+        "translation": "围攻{reg6?城镇:城堡}。"
     },
     {
+        "id": "menu_castle_guard",
         "text": "You_approach_the_gate._The_men_on_the_walls_watch_you_closely.^^{s10}",
-        "translation": "你走近了城门。城墙上的守卫正紧盯着你。^^{s10}"
+        "old_translation": "你靠近城门，墙上士兵紧盯着你。^^{s10}",
+        "translation": "你靠近城门，墙上士兵紧盯着你。^^{s10}"
     },
     {
+        "id": "mno_request_shelter",
         "text": "Request_entry_to_the_castle.",
-        "translation": "要求进入城堡。"
+        "old_translation": "请求入城。",
+        "translation": "请求入城。"
     },
     {
+        "id": "mno_request_meeting_commander",
         "text": "Request_a_meeting_with_someone.",
-        "translation": "要求和城堡中的某人会面。"
+        "old_translation": "请求与城中某人见面。",
+        "translation": "请求与城中某人见面。"
     },
     {
+        "id": "menu_castle_entry_granted",
         "text": "After_a_brief_wait,_the_guards_open_the_gates_for_you_and_allow_your_party_inside.",
-        "translation": "简短的等待之后，守卫打开了城门，允许你和你的部队进入城中。"
+        "old_translation": "稍候片刻，守卫打开城门，放你一行入内。",
+        "translation": "稍候片刻，守卫打开城门，放你一行入内。"
     },
     {
+        "id": "menu_castle_entry_denied",
         "text": "The_lord_of_this_castle_has_forbidden_you_from_coming_inside_these_walls,_and_the_guard_sergeant_informs_you_that_his_men_will_fire_if_you_attempt_to_come_any_closer.",
-        "translation": "城堡中的指挥官拒绝了你的请求，禁止你走近城池一步，否则守军就会向你发起攻击。"
+        "old_translation": "这座城堡的领主已下令禁止你踏入城墙一步，守卫队长警告，若再靠近，他的手下便会放箭。",
+        "translation": "这座城堡的领主已下令禁止你踏入城墙一步，守卫队长警告，若再靠近，他的手下便会放箭。"
     },
     {
+        "id": "menu_castle_meeting",
         "text": "Who_do_you_want_to_meet_with?",
-        "translation": "你想要见谁？"
+        "old_translation": "你想见谁？",
+        "translation": "你想见谁？"
     },
     {
+        "id": "mno_forget_it",
         "text": "Forget_it.",
+        "old_translation": "算了。",
         "translation": "算了。"
     },
     {
+        "id": "menu_castle_meeting_selected",
         "text": "Your_request_for_a_meeting_is_relayed_inside,_and_finally_{s6}_appears_in_the_courtyard_to_speak_with_you.",
-        "translation": "你的会面请求被传递上去了，最终{s6}出现在你面前与你进行交涉。"
+        "old_translation": "你的会面请求被传了进去，最终{s6}出现在庭院里，与你交谈。",
+        "translation": "你的会面请求被传了进去，最终{s6}出现在庭院里，与你交谈。"
     },
     {
+        "id": "menu_port_attack",
         "text": "You_are_attacking_the_port_of_{s1}._You_have_{reg10}_troops_fit_for_battle_against_the_enemy's_{reg11}.",
-        "translation": "你正在攻击{s1}的港口。你将有{reg10}名士兵参加战斗对抗{reg11}个敌人。"
+        "old_translation": "你正在攻打{s1}的港口。你麾下{reg10}名战士可投入战斗，敌军则有{reg11}人。",
+        "translation": "你正在攻打{s1}的港口。你麾下{reg10}名战士可投入战斗，敌军则有{reg11}人。"
     },
     {
+        "id": "mno_lead_attack",
         "text": "Lead_your_soldiers_in_a_coastal_assault.",
-        "translation": "亲自率领攻城。"
+        "old_translation": "亲自率领海岸突击。",
+        "translation": "亲自率领海岸突击。"
     },
     {
+        "id": "mno_attack_stay_back",
         "text": "Order_your_soldiers_to_attack_while_you_stay_back...",
-        "translation": "坐镇指挥，让你的部队攻击…"
+        "old_translation": "坐镇后方，命令士兵进攻……",
+        "translation": "坐镇后方，命令士兵进攻……"
     },
     {
+        "id": "mno_abandon_attack",
         "text": "Abandon_the_attack.",
-        "translation": "放弃攻击。"
+        "old_translation": "放弃进攻。",
+        "translation": "放弃进攻。"
     },
     {
+        "id": "menu_castle_besiege",
         "text": "You_are_laying_siege_to_{s4}._{s2}_^^{s15}_{s16}_{s17}_{s18}_{s19}_{s20}_{s21}_{s22}",
-        "translation": "你已经在围攻{s1}。{s2}^^{s15}{s16}{s17}{s18}{s19}{s20}{s21}{s22}"
+        "old_translation": "你正围攻{s4}。{s2}^^{s15}{s16}{s17}{s18}{s19}{s20}{s21}{s22}",
+        "translation": "你正围攻{s4}。{s2} ^^{s15} {s16} {s17} {s18} {s19} {s20} {s21} {s22}"
     },
     {
+        "id": "mno_siege_request_meeting",
         "text": "Call_for_a_meeting_with_the_castle_commander.",
-        "translation": "要求和城堡的指挥官会面。"
+        "old_translation": "要求与城堡指挥官会面。",
+        "translation": "要求与城堡指挥官会面。"
     },
     {
+        "id": "mno_siege_warfare_p",
         "text": "Siege_Warfare_(Planning_Siege).",
-        "translation": "围城战(计划攻城)。"
+        "old_translation": "围城战（筹划攻城）。",
+        "translation": "围城战（筹划攻城）。"
     },
     {
+        "id": "mno_siege_assault_p",
         "text": "Siege_Warfare_(Preparing_Assault).",
-        "translation": "围城战(准备突击)。"
+        "old_translation": "围城战（准备突击）。",
+        "translation": "围城战（准备突击）。"
     },
     {
+        "id": "mno_siege_assault_camp",
         "text": "Your_Siege_Camp.",
+        "old_translation": "你的攻城营地。",
         "translation": "你的攻城营地。"
     },
     {
+        "id": "mno_wait_24_hours",
         "text": "Wait_until_tomorrow.",
+        "old_translation": "等到明天。",
         "translation": "等到明天。"
     },
     {
+        "id": "mno_lift_siege",
         "text": "Abandon_the_siege.",
+        "old_translation": "放弃围城。",
         "translation": "放弃围城。"
     },
     {
+        "id": "menu_siege_plan",
         "text": "You_meet_with_your_advisers_to_plan_the_siege_and_try_to_conquer_{s4}_with_the_least_possible_casualties._Your_strategy_could_be_to_reduce_the_place_by_famine_and_demoralization.^^{s15}_{s17}_{s18}_{s19}_{s20}",
-        "translation": "你和参谋们计划以最小的代价攻下{s4}，你的策略是利用饥荒和内乱削弱敌人。^^{s15}{s17}{s18}{s19}{s20}"
+        "old_translation": "你与参谋们商议如何以最小伤亡夺取{s4}。你的策略可以是让饥饿与士气低落拖垮守军。^^{s15}{s17}{s18}{s19}{s20}",
+        "translation": "你与幕僚商议如何以最小伤亡夺取{s4}。你的策略可以是让饥饿与士气低落拖垮守军。^^{s15} {s17} {s18} {s19} {s20}"
     },
     {
+        "id": "mno_build_circunvalation",
         "text": "Blockade:_build_checkpoints_around_{s4}.",
-        "translation": "围困：环绕{s4}建立围城工事。"
+        "old_translation": "围困：在{s4}四周设立哨卡。",
+        "translation": "围困：在{s4}四周设立哨卡。"
     },
     {
+        "id": "mno_close_circunvalation",
         "text": "Checkpoints_are_finished._Now_order_active_watching.",
-        "translation": "工事已经修建完成。现在围困开始了。"
+        "old_translation": "哨卡已完工。现在下令严密监视。",
+        "translation": "哨卡已完工。现在下令严密监视。"
     },
     {
+        "id": "mno_town_investigar",
         "text": "Investigate_the_defenses:_try_to_sneak_inside._(Tracking)",
-        "translation": "潜入侦查这个地区的防御。追踪能力将发挥作用。"
+        "old_translation": "潜入侦查防御：设法溜进城内。（需追踪技能）",
+        "translation": "潜入侦查防御：设法溜进城内。（需追踪技能）"
     },
     {
+        "id": "mno_traicion_interna",
         "text": "Find_a_traitor_within_the_defenses_of_{s4}.",
-        "translation": "试图寻找{s4}中的内应。"
+        "old_translation": "在{s4}的守军中寻找内应。",
+        "translation": "在{s4}的守军中寻找内应。"
     },
     {
+        "id": "mno_traicion_interna3",
         "text": "Any_news_from_the_men_sent_in_search_of_a_traitor?",
-        "translation": "潜入城中寻找内应的人有什么消息了吗？"
+        "old_translation": "派去搜捕叛徒的人可有消息？",
+        "translation": "派去搜捕叛徒的人可有消息？"
     },
     {
+        "id": "mno_infiltracion_interna",
         "text": "Send_some_men_to_infiltrate_the_place.",
-        "translation": "派一些人渗透进去，破坏守备。"
+        "old_translation": "派些人潜入该地。",
+        "translation": "派些人潜入该地。"
     },
     {
+        "id": "mno_infiltracion_interna3",
         "text": "Any_news_from_the_men_sent_to_infiltrate?",
-        "translation": "渗透城中进行破坏的部队有什么消息了吗？"
+        "old_translation": "派去潜入的人可有消息？",
+        "translation": "派去潜入的人可有消息？"
     },
     {
+        "id": "mno_build_varios",
         "text": "Order_the_construction_of_sanitation_to_prevent_disease.",
-        "translation": "命令建立卫生设施以防止瘟疫。"
+        "old_translation": "下令修建排污设施以防疫病。",
+        "translation": "下令修建排污设施以防疫病。"
     },
     {
+        "id": "mno_destruir_campos_a",
         "text": "Pillage_farms_to_replenish_your_stocks_and_harm_the_enemy.",
-        "translation": "坚壁清野以削弱敌人。"
+        "old_translation": "劫掠农庄以补充军粮并打击敌军。",
+        "translation": "劫掠农庄以补充军粮并打击敌军。"
     },
     {
+        "id": "mno_destruir_campos_b",
         "text": "Any_news_from_the_men_I_sent_to_pillage_farms?",
-        "translation": "派去坚壁清野的部队有什么消息了吗？"
+        "old_translation": "派去劫掠农庄的人可有消息？",
+        "translation": "派去劫掠农庄的人可有消息？"
     },
     {
+        "id": "menu_siege_assault",
         "text": "Time_is_of_essence,_and_you_fear_the_arrival_of_support_force_for_the_place._Assaulting_will_mean_heavy_casualties,_but_you_have_made_up_your_mind.^^{s17}_{s18}_{s19}",
-        "translation": "时间就是生命，你担心敌人的增援可能随时到达。攻城为下，但你已别无选择。^^{s17}{s18}{s19}"
+        "old_translation": "时间紧迫，你担心援军随时抵达。强攻将付出惨重代价，但你已下定决心。^^{s17}{s18}{s19}",
+        "translation": "时间紧迫，你担心援军随时抵达。强攻将付出惨重代价，但你已下定决心。^^{s17} {s18} {s19}"
     },
     {
+        "id": "mno_scout_investigar",
         "text": "Call_the_scouts_for_a_report_on_{s4}.",
-        "translation": "召见奉命去侦查{s4}的斥候。"
+        "old_translation": "召见斥候，汇报{s4}的敌情。",
+        "translation": "召见斥候，汇报{s4}的敌情。"
     },
     {
+        "id": "mno_poniendo_elementos_mantles",
         "text": "Order_the_vanguard_to_place_the_mantlets.",
-        "translation": "命令先锋使用挡箭牌推进，并准备发动总攻。"
+        "old_translation": "令先锋架设挡箭牌。",
+        "translation": "令先锋架设挡箭牌。"
     },
     {
+        "id": "mno_poniendo_elementos",
         "text": "Order_the_vanguard_to_prepare_the_assault.",
-        "translation": "准备突击用具并准备发动总攻。"
+        "old_translation": "令先锋准备进攻。",
+        "translation": "令先锋准备进攻。"
     },
     {
+        "id": "mno_castle_lead_attack",
         "text": "The_hour_has_arrived._Lead_your_soldiers_in_assault!",
-        "translation": "这一刻终于来临了，率领你的士兵突击！顶着横飞的血肉和刀光剑影前进吧…"
+        "old_translation": "时辰已到，率领士兵冲锋！",
+        "translation": "时辰已到，率领士兵冲锋！"
     },
     {
+        "id": "mno_build_mantlet",
         "text": "Build_mantlets.",
+        "old_translation": "制作挡箭牌。",
         "translation": "制作挡箭牌。"
     },
     {
+        "id": "mno_build_ladders",
         "text": "Build_equipment_and_clear_the_ground_for_assault.",
-        "translation": "搭建器械并准备地点去突击。"
+        "old_translation": "打造器械并清理攻城场地。",
+        "translation": "打造器械并清理攻城场地。"
     },
     {
+        "id": "mno_build_siege_tower",
         "text": "Build_a_siege_tower_and_other_equipment_to_assault_the_fortress._Assaults_may_result_in_many_casualties.",
-        "translation": "建造冲车登城作战。请做好伤亡的心理准备。"
+        "old_translation": "建造攻城塔等器械以强攻堡垒，恐伤亡惨重。",
+        "translation": "建造攻城塔等器械以强攻堡垒，恐伤亡惨重。"
     },
     {
+        "id": "menu_siege_attack_meets_sally",
         "text": "The_defenders_sally_out_to_meet_your_assault.",
-        "translation": "守城方派了部队来对你进行还击。"
+        "old_translation": "守军出城迎战。",
+        "translation": "守军出城迎战。"
     },
     {
+        "id": "menu_nofood_siege_defenders_sally",
         "text": "The_lack_of_food_forces_the_desperate_defenders_of_{s4}_to_sally_out_in_an_attempt_to_break_the_siege.",
-        "translation": "食物短缺迫使{s4}的守军孤注一掷，他们冲出城门试图突围。"
+        "old_translation": "粮尽援绝，{s4}守军孤注一掷，突围求存。",
+        "translation": "粮尽援绝，{s4}守军孤注一掷，突围求存。"
     },
     {
+        "id": "menu_surrender_siege_defenders_starved",
         "text": "The_defenders_of_{s4}_can_hold_out_no_longer._Lack_of_food_has_debilitated_them._Already_the_weakest_have_died_of_starvation,_and_in_some_cases,_the_need_has_led_to_cannibalism.^{s4}_is_ready_to_surrender...",
-        "translation": "{s4}的守军已经精疲力竭了，粮草断绝使他们虚弱不堪，许多弱者已经饿死了，城内甚至出现了人相食的惨状。^{s4}准备开城投降了…"
+        "old_translation": "{s4}守军已无力支撑。粮绝使他们虚弱，弱者饿死，甚至人相食。^{s4}愿降……",
+        "translation": "{s4}的守军已撑不下去。缺粮让他们虚弱，最弱的人已饿死，甚至出现了人相食。^{s4}准备投降……"
     },
     {
+        "id": "menu_castle_attack_walls_simulate2",
         "text": "{s4}^^Your_casualties:_{s8}^^Enemy_casualties:_{s10}",
-        "translation": "{s4}^^己方伤亡：{s8}^^敌方伤亡：{s9}"
+        "old_translation": "{s4}^^己方伤亡：{s8}^^敌方伤亡：{s10}",
+        "translation": "{s4}^^己方伤亡：{s8}^^敌方伤亡：{s10}"
     },
     {
+        "id": "menu_sneak_into_town_suceeded2",
         "text": "Disguised_and_under_the_cover_of_darkness,_you_infiltrate_{s4}._It's_time_to_scout_out_their_defenses.",
-        "translation": "乔装打扮，趁着漆黑的夜色，你潜入了防守严密的{s4}。现在该好好侦查他们的守备了。"
+        "old_translation": "你乔装夜入{s4}，探查其防御。",
+        "translation": "你乔装打扮，趁夜潜入{s4}，是时候探查他们的防御了。"
     },
     {
+        "id": "menu_construct_saneamiento",
         "text": "Sanitation_is_important_for_preventing_rats_and_disease._It_is_possible_to_construct_latrines_and_pipelines_to_prevent_the_accumulation_of_mud_and_filth_from_the_rain,_and_dig_a_reservoir_to_have_an_available_water_supply._Do_you_want_to_do_it?^It_will_take_4_hours.",
-        "translation": "卫生设施可以很好地避免鼠害和疾病。建立公厕和污水渠来防止污物的堆积和雨水带来的秽物，同时修建贮水池以获得可靠的供水。是否动工？^将花费4小时。"
+        "old_translation": "卫生设施可防鼠患与疫病。可建公厕、排水渠以避雨水泥泞，并挖蓄水池供水。是否动工？^需4小时。",
+        "translation": "卫生设施能防鼠患与疾病。可建厕所和管道，避免雨后泥泞污秽，再挖蓄水池保障水源。要动工吗？^需4小时。"
     },
     {
+        "id": "mno_build_saneamiento",
         "text": "Do_it.",
-        "translation": "继续……"
+        "old_translation": "行动。",
+        "translation": "动手。"
     },
     {
+        "id": "menu_construct_circunvalation",
         "text": "Blockading_a_place_protects_your_troops_during_the_siege,_helps_to_avoid_some_enemy_skirmishers,_and_prevents_the_entry_of_food_and_reinforcements._It_also_lowers_enemy's_morale_and_helps_you_negotiate_the_surrender_of_the_place.^^As_the_party_member_with_the_highest_Engineer_skill,_({reg2}),_{reg3?you_estimate:{s3}_estimates}_that_building_the_blockade_around_the_place_will_take_{reg4}_hours.",
-        "translation": "在围城过程中封锁一个区域以保护你的军队，防止敌人实施游击作战，并且阻止粮草补给进入城内。这同样会降低敌人的士气，增加劝降的筹码。^^根据队伍成员中的最高工程学能力，({reg2})，{reg3?你估计:{s3}预计}对这个区域进行完全封锁需要花费{reg4}小时。"
+        "old_translation": "在围城过程中封锁一处地点，可保护你的军队，避免敌军小股袭扰，并切断粮食与援军。此举还能削弱守军士气，助你逼降。^^作为队伍中工程学最高者，（{reg2}），{reg3?你估计:{s3}估计}完成封锁需{reg4}小时。",
+        "translation": "围城时封锁据点可保护部队，避开敌军散兵，并切断粮食与援军。此举还能打击敌人士气，助你逼降。^^作为队伍中工程学最高者（{reg2}），{reg3?你估计:{s3}估计}完成封锁需{reg4}小时。"
     },
     {
+        "id": "mno_build_circun_cont",
+        "text": "Do_it.",
+        "old_translation": "行动。",
+        "translation": "动手。"
+    },
+    {
+        "id": "menu_traicion_interna2",
         "text": "Your_siege_works_begin_to_demoralize_the_defenders._Some_of_your_soldiers_are_willing_to_contact_the_garrison_or_the_inhabitants_at_{s4}_and_probe_if_someone_would_be_willing_to_commit_treason_and_facilitate_the_conquest._They_need_500_peningas_for_the_job.",
-        "translation": "你的围困行动削弱了敌人，你的一些部下想要联系{s4}的守军和居民，希望找到愿意投诚并协助破城的内应。他们需要500先令来执行这个任务。"
+        "old_translation": "行动。",
+        "translation": "行动。"
     },
     {
+        "id": "mno_intentar_traicion",
         "text": "Allow_these_men_to_seek_out_a_traitor.",
-        "translation": "允许这些人去寻找内应。"
+        "old_translation": "你的围城工事开始动摇守军士气。一些士兵想联系{s4}的守军与居民，寻找愿意背叛并协助破城的内应。他们需500银便士。",
+        "translation": "允许这些人去找内应。"
     },
     {
+        "id": "menu_traicion_resultado1",
         "text": "They_returned_without_news._No_one_is_willing_to_become_a_traitor.",
-        "translation": "他们带回了消息，没有人愿意背叛。"
+        "old_translation": "允许这些人去寻找内应。",
+        "translation": "他们空手而归，无人愿意背叛。"
     },
     {
+        "id": "mno_back_behind",
         "text": "Well,_bad_luck.",
-        "translation": "无妨，其忠义可嘉。"
+        "old_translation": "他们空手而归，无人愿意背叛。",
+        "translation": "真倒霉。"
     },
     {
+        "id": "menu_traicion_resultado2",
         "text": "Sir!_Our_men_have_been_discovered_near_the_wall._They_are_fighting_their_way_out_of_{s4}._Look_over_there_at_the_sally_port._They_are_trying_to_flee,_but_are_surrounded...",
-        "translation": "阁下！我们的人在{s4}的城墙边上被敌人发现了，就在那个吊桥的位置。他们试图撤回，但被包围了…"
+        "old_translation": "无妨，其忠义可嘉。",
+        "translation": "阁下！我们的人在{s4}墙下被发现，正突围而出。看那边的出击口，他们想逃却被包围……"
     },
     {
+        "id": "mno_ayudar_infiltrados",
         "text": "Order:_send_an_additional_group_of_men_to_their_aid.",
-        "translation": "下令：派出一支增援部队营救。"
+        "old_translation": "阁下！我们的人在{s4}墙下被发现。他们正突围而出。看那边的出击口，他们试图逃跑，却被包围……",
+        "translation": "下令：再派一队人马支援。"
     },
     {
+        "id": "mno_leave_men",
         "text": "Leave_the_men_to_their_fate._They_knew_what_was_coming.",
-        "translation": "让他们听天由命，军人要做好随时牺牲的准备。"
+        "old_translation": "下令：再派一队人马支援。",
+        "translation": "让他们听天由命，他们早有觉悟。"
     },
     {
+        "id": "menu_traicion_resultado3",
         "text": "Your_men_have_returned._A_traitor_within_the_place_has_set_barns_ablaze_and_will_soon_flee_{s4}_and_join_your_army._The_enemy_will_lose_much_of_their_food_stock_because_of_that.",
-        "translation": "你的人带回了消息，一个内应声称他将点燃城内的库房{s4}而且来投奔你的军队。敌人将会因此而损失一些粮草和牲畜。"
+        "old_translation": "让他们听天由命，军人要做好随时牺牲的准备。",
+        "translation": "你的人回来了。一名内应已焚毁粮仓，即将逃离{s4}投奔我军，敌军将损失大量存粮。"
     },
     {
+        "id": "mno_back_to_siege",
         "text": "Well_done.",
-        "translation": "做得好。"
+        "old_translation": "你的人回来了。一名内应已焚毁粮仓，即将逃离{s4}投奔我军。敌军将损失大量存粮。",
+        "translation": "干得漂亮。"
     },
     {
+        "id": "menu_traicion_resultado4",
         "text": "Your_men_have_returned._They_report_there_is_a_traitor_who_knows_the_routines_of_the_garrison,_and_he_is_willing_to_lead_a_small_force_to_ambush_the_enemy_when_they_come_to_the_water_supplies,_a_nearby_stream_outside_the_walls...",
-        "translation": "你的人带回了消息，他们说一个内应声称他熟悉守军巡逻的路线。当他们到城墙外的一条小溪取水的时候，他很愿意带路去伏击巡逻队…"
+        "old_translation": "干得漂亮。",
+        "translation": "你的人回来了。他们找到一名熟悉守军作息的内应，此人愿带小队埋伏，趁守军出城取水时袭击……"
     },
     {
+        "id": "mno_atacar_emboscada_player",
         "text": "Go_yourself_with_your_closest_companions.",
-        "translation": "带领你的贴身侍卫去执行这个任务。"
+        "old_translation": "你的人回来了。他们找到一名熟悉守军作息的内应，此人愿带小队埋伏，趁守军出城取水时袭击……",
+        "translation": "亲自率贴身侍卫前往。"
     },
     {
+        "id": "mno_atacar_emboscada",
         "text": "Order:_send_a_group_of_men_with_the_traitor_to_carry_out_the_ambush.",
-        "translation": "派遣一支部队和内应执行埋伏任务。"
+        "old_translation": "亲自率贴身侍卫前往。",
+        "translation": "下令：派一队人马随内应埋伏。"
     },
     {
+        "id": "mno_leave_men1",
         "text": "It_makes_me_uneasy._Forget_about_it.",
-        "translation": "这让我感到不安。忘记它。"
+        "old_translation": "下令：派一队人马随内应埋伏。",
+        "translation": "这让我不安，就此作罢。"
     },
     {
+        "id": "menu_emboscada_player",
         "text": "Moving_through_the_vegetation,_you_have_taken_your_enemies_by_surprise_and_have_given_a_good_account_of_yourselves._Now_the_garrison_will_think_twice_before_sending_men_out.",
-        "translation": "以植被做掩护，你的行动震惊了敌人而且收益颇丰。现在守军在派遣队伍出城之前要三思而后行了。"
+        "old_translation": "这让我不安，就此作罢。",
+        "translation": "借草木掩护，你们出其不意，战果颇丰，守军再不敢轻易出城。"
     },
     {
+        "id": "mno_victory_bang",
         "text": "Victory!",
-        "translation": "行动胜利！"
+        "old_translation": "借草木掩护，你们出其不意，战果颇丰。守军再不敢轻易出城。",
+        "translation": "胜利！"
     },
     {
+        "id": "menu_emboscada_nada",
         "text": "Your_men_move_under_the_cover_of_the_vegetation,_away_from_the_watchful_eyes_on_the_wall,_but_when_they_come_to_the_meeting_point,_there_is_nobody._The_alleged_traitor_has_been_discovered_or_has_repented._Your_men_return_disappointed.",
-        "translation": "以植被做掩护，队伍避开了城墙上来回巡视的目光，但是当他们到达预定的集合地点时，没有人出现。这名内应可能被发现或退缩了，你的士兵失望地归来。"
+        "old_translation": "行动胜利！",
+        "translation": "你的人借植被掩护避开城墙视线，抵达会合点却空无一人。那名内应或被发现，或已反悔，士兵失望而归。"
     },
     {
+        "id": "mno_emboscada_nanai",
         "text": "Do_not_worry._There_will_be_another_chance.",
-        "translation": "不要担心，机会有的是。"
+        "old_translation": "你的人借植被掩护避开城墙视线，抵达会合点却空无一人。那名内应或被发现，或已反悔。士兵失望而归。",
+        "translation": "别急，还会有机会。"
     },
     {
+        "id": "menu_emboscada_lose",
         "text": "Alarm!_Treason!_The_alleged_traitor_led_your_men_into_an_ambush._They_are_fighting_desperately,_leaving_many_men_on_the_field.",
-        "translation": "急报！中计了！这名所谓的内应带领你的部队进入了敌人的伏击圈，他们正绝望地抵抗，不断有人倒下。"
+        "old_translation": "急报！中计了！这名所谓的内应带领你的部队进入了敌人的伏击圈，他们正绝望地抵抗，不断有人倒下。",
+        "translation": "急报！有诈！那名所谓内应把你的人引入伏击，他们正绝望苦战，不断有人倒下。"
     },
     {
+        "id": "mno_regreso_lucha",
         "text": "Your_worst_fears_have_come_true.",
-        "translation": "你最担心的事情发生了。"
+        "old_translation": "你最担心的事情发生了。",
+        "translation": "你最担心的事还是发生了。"
     },
     {
+        "id": "menu_emboscada_victory",
         "text": "The_traitor_leads_your_men_through_the_night_to_a_hill_that_controls_the_path_to_a_well._Your_men_take_up_positions_in_the_vegetation,_in_silence,_their_faces_stained_black._At_daybreak,_your_men_spot_a_large_group_of_enemies_by_the_water.^^A_battle_cry_fills_the_valley_as_your_soldiers_fall_like_a_tide_of_death_on_the_enemy..._killing_many.",
-        "translation": "内应带领着你的人趁着夜色来到了一座小山上，这里控制着前往水井的道路。你的人在植被的掩护中展开了队形，他们隐藏于寂静与黑暗中。终于在破晓时分，一支人数众多的敌军出现于视线之内。^^喊杀声响彻山坳的同时，你的士兵如裹挟着死神的潮水一般涌向敌人…杀伤无数。"
+        "old_translation": "内应带领着你的人趁着夜色来到了一座小山上，这里控制着前往水井的道路。你的人在植被的掩护中展开了队形，他们隐藏于寂静与黑暗中。终于在破晓时分，一支人数众多的敌军出现于视线之内。^^喊杀声响彻山坳的同时，你的士兵如裹挟着死神的潮水一般涌向敌人……杀伤无数。",
+        "translation": "叛徒带着你的人趁夜摸到一座小山，那里扼守着通往水井的道路。你的人隐入草木，无声无息，脸上涂满黑泥。拂晓时分，他们发现水边有一大股敌军。^^战吼响彻山谷，你的士兵如死亡潮水般扑向敌人……斩杀无数。"
     },
     {
+        "id": "menu_traicion_resultado5",
         "text": "When_your_men_come_back,_they_tell_you_they_have_contacted_a_man_who_is_in_control_of_rations,_and_he_has_promised_to_raise_the_price_of_food_to_his_fellow_citizens_to_sow_discontent,_making_them_more_likely_to_abandon_the_fortress.",
-        "translation": "当你的部队返回的时候，他们告诉你联系上了一位掌握补给的军士，他承诺将抬高补给品的价格，以迫使更多的居民逃离据点。"
+        "old_translation": "当你的部队返回的时候，他们告诉你联系上了一位掌握补给的军士，他承诺将抬高补给品的价格，以迫使更多的居民逃离据点。",
+        "translation": "部下回报，他们联络到一名掌管粮饷的人，那人答应抬高城内粮价，激起民怨，让更多人弃堡而去。"
     },
     {
+        "id": "mno_traicion_moral",
         "text": "Perfect!",
+        "old_translation": "漂亮！",
         "translation": "漂亮！"
     },
     {
+        "id": "menu_traicion_lucha",
         "text": "Your_men_and_the_enemy_fight_to_the_death_at_the_foot_of_the_wall,_where_everything_is_unfavorable_to_your_troops._You_watch_them_fighting_and_retreating_towards_you._Many_bodies_are_left_behind._^^Your_casualties:_{s8}^^Enemy_casualties:_{s10}",
-        "translation": "你的部队和敌人在城墙的脚下拼死作战，而且所有条件都不利于你们。你看到手下被逼撤退到自己面前，丢下许多尸首。^^己方伤亡：{s8}^^敌方伤亡：{s9}"
+        "old_translation": "你的部队和敌人在城墙的脚下拼死作战，而且所有条件都不利于你们。你看到手下被逼撤退到自己面前，丢下许多尸首。^^己方伤亡：{s8}^^敌方伤亡：{s10}",
+        "translation": "你的人与敌军在墙根死战，地势对你们极为不利。你看着他们边打边退，尸横遍地。^^己方伤亡：{s8}^^敌方伤亡：{s10}"
     },
     {
+        "id": "mno_regreso_luchar",
         "text": "Well,_no_one_gets_left_behind.",
+        "old_translation": "好，绝不丢下任何一个人。",
         "translation": "好，绝不丢下任何一个人。"
     },
     {
+        "id": "menu_infiltracion_resultado1",
         "text": "They_returned_without_news._They_were_unable_to_enter_the_settlement.",
-        "translation": "他们没有带回新消息，据点守备严密，难以突破。"
+        "old_translation": "他们没有带回新消息，据点守备严密，难以突破。",
+        "translation": "他们空手而回，没能混进聚落。"
     },
     {
+        "id": "mno_back_behindi",
         "text": "Just_bad_luck,_I_guess.",
+        "old_translation": "只是运气不好，我想。",
         "translation": "只是运气不好，我想。"
     },
     {
+        "id": "menu_infiltracion_resultado2",
         "text": "Sir!_Our_men_have_been_discovered_in_{s4}._Unfortunately,_none_have_returned._They_were_all_killed_or_captured.",
-        "translation": "阁下！我们的人在{s4}的城墙脚下被发现了，而且已经全军覆没了。"
+        "old_translation": "阁下！我们的人在{s4}的城墙脚下被发现了，而且已经全军覆没了。",
+        "translation": "阁下！我们的人在{s4}被发现，无人生还，不是被杀就是被俘。"
     },
     {
+        "id": "mno_muertos_infiltrado",
         "text": "Terrible_news.",
+        "old_translation": "晴天霹雳。",
         "translation": "晴天霹雳。"
     },
     {
+        "id": "menu_infiltracion_resultado3",
         "text": "Victory!_They_have_managed_to_burn_several_food_stores._The_enemy_is_demoralized._Perhaps_it_is_time_to_request_their_surrender.",
-        "translation": "捷报！他们烧毁了不少粮草，敌人陷入了混乱。也许这是一个让他们投降的好机会。"
+        "old_translation": "捷报！他们烧毁了不少粮草，敌人陷入了混乱。也许这是一个让他们投降的好机会。",
+        "translation": "捷报！他们烧毁多处粮仓，敌军士气大跌。或许该逼他们投降了。"
     },
     {
+        "id": "mno_back_to_siegei",
         "text": "Well,_give_them_a_barrel_of_mead.",
+        "old_translation": "好吧，给他们一桶酒。",
+        "translation": "好吧，给他们一桶蜜酒。"
+    },
+    {
+        "id": "menu_infiltracion_resultado3_c",
+        "text": "Victory!_They_killed_many_cattle_and_contaminated_the_water_reserves._The_enemy_is_demoralized_and_their_lord_has_lost_some_renown._Perhaps_it_is_time_to_request_their_surrender.",
+        "old_translation": "捷报！他们杀掉了不少牛并破坏了储水设施。敌人陷入了混乱，而且他们的领主损失了部分声望。也许这是一个让他们投降的好机会。",
+        "translation": "捷报！他们宰了不少牛，又污染水源，敌军士气低落，其领主声望受损。或许该逼他们投降了。"
+    },
+    {
+        "id": "mno_back_to_siegein",
+        "text": "Well,_give_them_a_barrel_of_mead.",
+        "old_translation": "好吧，给他们一桶酒。",
+        "translation": "好吧，给他们一桶蜜酒。"
+    },
+    {
+        "id": "menu_infiltracion_resultado4",
+        "text": "Your_men_have_returned._They_said_that_some_warriors_are_dissatisfied,_and_some_were_persuaded_to_switch_to_your_side._If_you_agree,_they_will_leave_the_city_at_night_and_join_your_army._Before_they_leave,_they_promise_to_cause_unrest_to_facilitate_the_surrender_of_the_place.",
+        "old_translation": "好吧，给他们一桶酒。",
         "translation": "好吧，给他们一桶酒。"
     },
     {
-        "text": "Victory!_They_killed_many_cattle_and_contaminated_the_water_reserves._The_enemy_is_demoralized_and_their_lord_has_lost_some_renown._Perhaps_it_is_time_to_request_their_surrender.",
-        "translation": "捷报！他们杀掉了不少牲畜并破坏了储水设施。敌人陷入了混乱，而且他们的领主损失了部分声望。也许这是一个让他们投降的好机会。"
-    },
-    {
-        "text": "Your_men_have_returned._They_said_that_some_warriors_are_dissatisfied,_and_some_were_persuaded_to_switch_to_your_side._If_you_agree,_they_will_leave_the_city_at_night_and_join_your_army._Before_they_leave,_they_promise_to_cause_unrest_to_facilitate_the_surrender_of_the_place.",
-        "translation": "你的部队带回了消息，他们说一些士兵心怀不满，而且一些人被说服投诚到我方军队。如果你同意的话，他们将在夜里离开城池加入你的军队。在他们离开之前，他们承诺将制造一些混乱来瓦解敌军斗志，使之更容易投降。"
-    },
-    {
+        "id": "mno_aceptar_si",
         "text": "They_are_welcome.",
-        "translation": "欢迎他们。"
+        "old_translation": "你的部队带回了消息，他们说一些士兵心怀不满，而且一些人被说服投诚到我方军队。如果你同意的话，他们将在夜里离开城池加入你的军队。在他们离开之前，他们承诺将制造一些混乱来瓦解敌军斗志，使之更容易投降。",
+        "translation": "欢迎他们加入。"
     },
     {
+        "id": "menu_infiltracion_resultado4_c",
         "text": "Your_men_have_returned._They_said_that_they_poisoned_the_water_of_some_wells_and_nearby_streams._This_should_sicken_many_in_the_garrison.",
-        "translation": "你的部队带回了消息，他们说已经在一些水井和附近的溪流中撒下毒药，这应该能够让不少的守军生病。"
+        "old_translation": "欢迎投诚士兵的加入。",
+        "translation": "你的部队回报，他们已在几口井和附近溪流投毒，守军必有大片病倒。"
     },
     {
+        "id": "mno_aceptar_oki",
         "text": "That's_good_news._It_will_leave_fewer_men_to_defend_the_wall.",
-        "translation": "这是个好消息，这样将大大削减守军的有生力量。"
+        "old_translation": "你的部队带回了消息，他们说已经在一些水井和附近的溪流中撒下毒药，这应该能够让不少的守军生病。",
+        "translation": "好消息，守墙的人会更少。"
     },
     {
+        "id": "menu_infiltracion_resultado5",
         "text": "Oh,_sir._The_enemy_has_sent_a_bag_with_the_heads_of_your_men._Some_of_our_soldiers_have_seen_it,_and_fear_runs_through_the_camp.",
-        "translation": "噢，长官，敌人送来了个装着我们士兵人头的袋子。许多士兵看到了，恐慌在营帐间蔓延。"
+        "old_translation": "这是个好消息，这样将大大削减守军的有生力量。",
+        "translation": "阁下，敌人送来一袋人头，不少士兵看见，营中人心惶惶。"
     },
     {
+        "id": "mno_infiltracion_morali",
         "text": "Cowards!_How_can_a_couple_of_heads_sink_the_morale_of_an_army?_Are_they_cattle_or_men?",
-        "translation": "懦夫！几个人头就把他们吓成这样？他们是牲口还是战士？"
+        "old_translation": "懦夫！区区几颗人头就能让全军士气崩溃？他们是牛还是人？",
+        "translation": "懦夫！区区几颗人头就能吓垮大军？他们是牛还是人？"
     },
     {
+        "id": "mno_infiltracion_morali2",
         "text": "Avenge_the_insult_to_us!",
-        "translation": "我们要报仇雪恨！"
+        "old_translation": "为我们受的侮辱报仇！",
+        "translation": "为我们受的侮辱报仇！"
     },
     {
+        "id": "menu_campos_cercanos1",
         "text": "{reg59?Lady:Sir},_crops_and_farms_were_burned,_but_since_this_is_not_the_harvest_season,_it_wasn't_possible_to_get_food.",
-        "translation": "长官，谷物和农场已经被烧毁了，但因为这不是收获的季节，所以并没有找到太多补给。"
+        "old_translation": "{reg59?女士:先生}，庄稼和农场都被烧了，可眼下并非收获季，没能弄到粮食。",
+        "translation": "{reg59?女士:先生}，庄稼和农场都被烧了，可眼下并非收获季，没能弄到粮食。"
     },
     {
+        "id": "mno_back_behind_d",
         "text": "Well_done,_do_not_worry.",
-        "translation": "干得好，不用担心。"
+        "old_translation": "干得好，不必担心。",
+        "translation": "干得好，不必担心。"
     },
     {
+        "id": "menu_campos_cercanos2",
         "text": "{reg59?Lady:Sir},_crops_and_farms_were_burned,_and_as_it_is_the_harvest_season,_we_found_an_abundance_of_food.",
-        "translation": "长官，谷物和农场已经被烧毁了，而且因为这是收获的季节，所以我们找到了大量的食物。"
+        "old_translation": "{reg59?女士:先生}，庄稼和农场都被烧了，又恰逢收获季，我们缴获了大量粮食。",
+        "translation": "{reg59?女士:先生}，庄稼和农场都被烧了，又恰逢收获季，我们缴获了大量粮食。"
     },
     {
+        "id": "mno_back_behind_c",
         "text": "Well_done,_food_is_always_welcome.",
-        "translation": "干得好，食物总是宝贵的资源。"
+        "old_translation": "干得好，粮食永远不嫌多。",
+        "translation": "干得好，粮食永远不嫌多。"
     },
     {
+        "id": "menu_campos_cercanos2_c",
         "text": "{reg59?Lady:Sir},_crops_and_farms_were_burned._The_grain_is_still_green,_but_edible._We_found_an_abundance_of_food.",
-        "translation": "长官，谷物和农场已经被烧毁了，地里的庄稼还是青茬，但可以食用，我们找到了很多食物。"
+        "old_translation": "{reg59?女士:先生}，庄稼和农场都被烧了，谷粒尚青，却还能吃，我们弄到了不少粮食。",
+        "translation": "{reg59?女士:先生}，庄稼和农场都被烧了，谷粒尚青，却还能吃，我们弄到了不少粮食。"
     },
     {
+        "id": "mno_back_behind_cc",
         "text": "Well_done,_food_always_is_welcome.",
-        "translation": "干的好，食物永远是受欢迎的。"
+        "old_translation": "干得好，粮食永远不嫌多。",
+        "translation": "干得好，粮食永远不嫌多。"
     },
     {
+        "id": "menu_campos_cercanos3",
         "text": "{reg59?Lady:Sir},_we_burned_the_fields,_but_as_it_is_after_the_harvest_time,_there_was_no_grain_left._However,_the_farmers_have_left_some_of_their_cattle_behind.",
-        "translation": "长官，我们烧毁了农田，但是收获季节已经过去了，所以没找到多少食物。不过，农民们在逃走前落下了一些牲畜。"
+        "old_translation": "{reg59?女士:先生}，我们焚毁了田野，但收获已过，田里颗粒无存。不过，农民逃跑时留下了一些牛。",
+        "translation": "{reg59?女士:先生}，我们焚毁了田野，但收获已过，田里颗粒无存。不过，农民逃跑时留下了一些牛。"
     },
     {
+        "id": "mno_back_behind_bc",
         "text": "Food_is_always_welcome.",
-        "translation": "食物总是宝贵的资源。"
+        "old_translation": "粮食永远不嫌多。",
+        "translation": "粮食永远不嫌多。"
     },
     {
+        "id": "menu_campos_cercanos4",
         "text": "We_have_encountered_problems._The_fields_were_burned,_but_the_farmers_struck_back_with_support_from_some_members_of_the_garrison.^^Your_casualties:_{s8}^^Enemy_casualties:_{s10}",
-        "translation": "我们遇到了抵抗，农田已被烧毁，但是农民在守军的支援下杀了回来。^^己方伤亡：{s8}^^敌方伤亡：{s9}"
+        "old_translation": "我们遇到麻烦。田野虽被焚毁，农民却在守军支援下反击。^^己方伤亡：{s8}^^敌方伤亡：{s10}",
+        "translation": "我们遇到麻烦。田野虽被焚毁，农民却在守军支援下反击。^^己方伤亡：{s8}^^敌方伤亡：{s10}"
     },
     {
+        "id": "mno_back_behind_ac",
         "text": "Terrible_news!",
-        "translation": "师出不利！"
+        "old_translation": "噩耗！",
+        "translation": "噩耗！"
     },
     {
+        "id": "menu_poner_escaleras",
         "text": "Your_vanguard_advances,_bringing_ladders,_shovels_and_other_useful_siege_equipment..._A_display_of_men_armed_with_ranged_weapons_goes_forth,_attracting_the_enemy's_missiles._Your_heart_races_in_its_bony_cage._Somehow,_all_battles_seem_to_be_the_first.^The_thrill,_terror_and_sweat_are_there,_always._Your_men_make_a_shield_formation_to_protect_themselves...^^Your_casualties:_{s8}^^Enemy_casualties:_{s10}",
-        "translation": "你的先锋带着云梯，挡箭牌，铲子等攻城器械前进着…一队装备着远程武器的士兵走到了前方，吸引敌人的火力，你的心脏在体内狂跳不止，似乎每次战斗都像初次上阵一样。^刺激，恐惧和汗水交织，一如既往。你见证了你的士兵是如何组成了盾阵攻上了城墙…^^己方伤亡：{s8}^^敌方伤亡：{s9}"
+        "old_translation": "你的先锋带着云梯、挡箭牌、铁锹等攻城器械前进……一队弓弩手列阵而出，吸引敌军火力，你的心脏在胸腔里狂跳。不知为何，每一场仗都像第一次。^刺激、恐惧与汗水，一如既往。士兵们结成盾阵自保……^^己方伤亡：{s8}^^敌方伤亡：{s10}",
+        "translation": "你的先锋带着云梯、挡箭牌、铁锹等攻城器械前进……一队弓弩手列阵而出，吸引敌军火力，你的心脏在胸腔里狂跳。不知为何，每一场仗都像第一次。^刺激、恐惧与汗水，一如既往。士兵们结成盾阵自保……^^己方伤亡：{s8}^^敌方伤亡：{s10}"
     },
     {
+        "id": "mno_back_behind_esc1",
         "text": "Your_men_have_met_the_enemy._It_is_your_turn...",
-        "translation": "你的队伍遇到敌人，现在…"
+        "old_translation": "你的部队已与敌军接战，轮到你出手了……",
+        "translation": "你的部队已与敌军接战，轮到你出手了……"
     },
     {
+        "id": "menu_poner_escaleras_mantlets",
         "text": "Your_vanguard_advances,_bringing_ladders,_mantlets,_shovels_and_other_useful_siege_equipment..._A_display_of_men_armed_with_ranged_weapons_goes_forth,_guarded_by_mantlets,_attracting_the_enemy's_missiles._Your_heart_races_in_its_bony_cage._Somehow,_all_battles_seem_to_be_the_first.^The_thrill,_terror_and_sweat_are_there,_always._Your_men_make_a_shield_formation_to_protect_themselves,_and_using_the_mantlets_saves_still_more_lives._^^Your_casualties:_{s8}^^Enemy_casualties:_{s10}",
-        "translation": "你的先锋带着云梯，挡箭牌，铲子等攻城器械前进着…一队装备着远程武器的士兵走到了前方，在挡箭牌的掩护下，吸引敌人的火力…你的心脏在体内狂跳不止，似乎每次战斗都像初次上阵一样。^刺激，恐惧和汗水交织，一如既往。你见证了你的士兵是如何组成了盾阵攻上了城墙…挡箭牌掩护了很多士兵，保住了他们的性命。^^己方伤亡：{s8}^^敌方伤亡：{s9}"
+        "old_translation": "你的先锋带着云梯、挡箭牌、铁锹等攻城器械前进……一队弓弩手在挡箭牌掩护下列阵，吸引敌军火力，你的心脏在胸腔里狂跳。不知为何，每一场仗都像第一次。^刺激、恐惧与汗水，一如既往。士兵们结成盾阵，挡箭牌又救下不少性命。^^己方伤亡：{s8}^^敌方伤亡：{s10}",
+        "translation": "你的先锋带着云梯、挡箭牌、铁锹等攻城器械前进……一队弓弩手在挡箭牌掩护下列阵，吸引敌军火力，你的心脏在胸腔里狂跳。不知为何，每一场仗都像第一次。^刺激、恐惧与汗水，一如既往。士兵们结成盾阵，挡箭牌又救下不少性命。^^己方伤亡：{s8}^^敌方伤亡：{s10}"
     },
     {
+        "id": "mno_back_behind_esc2",
         "text": "Your_men_have_met_the_enemy._It_is_your_time...",
-        "translation": "你的队伍遇到敌人，现在…"
+        "old_translation": "你的部队已与敌军接战，轮到你出手了……",
+        "translation": "你的部队已与敌军接战，轮到你出手了……"
     },
     {
+        "id": "menu_informacion_ciudad",
         "text": "A_scout_appears_before_you:_'{s11}^{s12}{s1}{s5}{s17}'",
-        "translation": "斥候在你的面前停了下来：'{s11}^{s12}{s1}{s5}{s17}"
+        "old_translation": "一名斥候来到你面前：“{s11}^{s12}{s1}{s5}{s17}”",
+        "translation": "一名斥候来到你面前：“{s11}^{s12}{s1}{s5}{s17}”"
     },
     {
+        "id": "mno_regreso_luchain",
         "text": "Thank_you._Your_information_is_important!",
-        "translation": "谢谢你。你给的信息很重要！"
+        "old_translation": "多谢，你的情报至关重要！",
+        "translation": "多谢，你的情报至关重要！"
     },
     {
+        "id": "menu_build_mantles2",
         "text": "The_mantlets_help_protect_your_men_when_they_have_to_use_assault_equipment._They_save_many_lives._As_the_party_member_with_the_highest_Engineer_skill,_({reg2}),_{reg3?you_estimate:{s3}_estimates}_that_it_will_take_{reg4}_hours_to_build_mantlets.",
-        "translation": "在你的先锋使用攻城器械的时候，挡箭牌将保护他们免受城头火力的伤害。根据队伍成员中的最高工程学能力，({reg2})，{reg3?你预计:{s3}预计}要花费{reg4}小时来建造挡箭牌。"
+        "old_translation": "使用攻城器械时，挡箭牌能护住士兵，救下许多性命。作为队伍中工程学最高者（{reg2}），{reg3?你估计:{s3}估计}造好挡箭牌需{reg4}小时。",
+        "translation": "使用攻城器械时，挡箭牌能护住士兵，救下许多性命。作为队伍中工程学最高者（{reg2}），{reg3?你估计:{s3}估计}造好挡箭牌需{reg4}小时。"
     },
     {
+        "id": "mno_build_mantles",
+        "text": "Do_it.",
+        "old_translation": "行动。",
+        "translation": "动手。"
+    },
+    {
+        "id": "menu_construct_ladders",
         "text": "As_the_party_member_with_the_highest_Engineer_skill_({reg2}),_{reg3?you_estimate:{s3}_estimates}_that_it_will_take_{reg4}_hours_to_build_enough_equipment_for_the_assault.",
-        "translation": "根据队伍成员中的最高工程学能力({reg2})，{reg3?你预计:{s3}预计}将要花费{reg4}小时来准备足够的装备用于突击。"
+        "old_translation": "作为队伍中工程学技能最高者（{reg2}），{reg3?你估计:{s3}估计}需要{reg4}小时才能造齐进攻所需的装备。",
+        "translation": "作为队伍中工程学技能最高者（{reg2}），{reg3?你估计:{s3}估计}需要{reg4}小时才能造齐进攻所需的装备。"
     },
     {
+        "id": "mno_build_ladders_cont",
+        "text": "Do_it.",
+        "old_translation": "行动。",
+        "translation": "动手。"
+    },
+    {
+        "id": "menu_construct_siege_tower",
         "text": "As_the_party_member_with_the_highest_Engineer_skill,_({reg2}),_{reg3?you_estimate:{s3}_estimates}_that_building_a_siege_tower_and_other_equipment_for_assault_will_take_{reg4}_hours.",
-        "translation": "根据队伍成员中的最高工程学能力，({reg2})，{reg3?你预计:{s3}预计}用来建立攻城塔而其他用来突击的装备则需要{reg4}小时。"
+        "old_translation": "作为队伍中工程学技能最高者（{reg2}），{reg3?你估计:{s3}估计}建造攻城塔及其他进攻器械将耗时{reg4}小时。",
+        "translation": "作为队伍中工程学技能最高者（{reg2}），{reg3?你估计:{s3}估计}建造攻城塔及其他进攻器械将耗时{reg4}小时。"
     },
     {
+        "id": "mno_build_siege_tower_cont",
         "text": "Start_building.",
+        "old_translation": "开始建造。",
         "translation": "开始建造。"
     },
     {
+        "id": "menu_castle_attack_walls_simulate",
+        "text": "{s4}^^Your_casualties:_{s8}^^Enemy_casualties:_{s10}",
+        "old_translation": "{s4}^^己方伤亡：{s8}^^敌方伤亡：{s10}",
+        "translation": "{s4}^^己方伤亡：{s8}^^敌方伤亡：{s10}"
+    },
+    {
+        "id": "menu_castle_attack_walls_with_allies_simulate",
+        "text": "{s4}^^Your_casualties:_{s8}^^Allies'_casualties:_{s9}^^Enemy_casualties:_{s10}",
+        "old_translation": "{s4}^^我军伤亡：{s8}^^盟军伤亡：{s9}^^敌军伤亡：{s10}",
+        "translation": "{s4}^^我军伤亡：{s8}^^盟军伤亡：{s9}^^敌军伤亡：{s10}"
+    },
+    {
+        "id": "menu_castle_taken",
         "text": "The_battle_for_{s60}_is_almost_over._Your_troops_are_eager_to_start_plundering_the_{reg2?town:fort}._{s10}You_may_want_to_just_fill_your_purse_a_bit_and_leave_the_plundered_place_for_the_enemy._Finally,_you_could_also_decide_to_devastate_the_place_completely_in_order_to_gain_as_much_loot_as_possible,_enslave_the_inhabitants,_and_make_it_worthless_for_its_owner.",
-        "translation": "{s60}的战斗已经接近尾声，你的手下们已经对即将到来的劫掠{reg2?城镇:城堡}跃跃欲试了。{s10}^如果你想要将其纳入自己的阵营，你可以选择禁止士兵毁坏{reg2?城镇:城堡}。你也可以充实下你的钱包，劫掠一番弃之而去。最后，你也可以完全毁灭这个地方，这样可以获得尽可能多的东西，奴役当地的居民，并摧毁其之于敌人的价值。"
+        "old_translation": "{s60}的战斗已近尾声，你的士兵迫不及待要洗劫这座{reg2?城镇:堡垒}。{s10}你也可以只往钱袋里装一点就离开，把被劫之地留给敌人。最后，你还可以彻底摧毁此地，尽可能掠夺一切、奴役居民，让它对原主人毫无价值。",
+        "translation": "{s60}的战斗已近尾声，你的士兵迫不及待要洗劫这座{reg2?城镇:堡垒}。{s10}你也可以只往钱袋里装一点就离开，把被劫之地留给敌人。最后，你还可以彻底摧毁此地，尽可能掠夺一切、奴役居民，让它对原主人毫无价值。"
     },
     {
+        "id": "mno_saqueo_noallowed",
         "text": "Conquer_the_{reg2?town:fort},_but_forbid_plundering.",
-        "translation": "攻下这座{reg2?城镇:城堡}后禁止手下掠夺。"
+        "old_translation": "攻下这座{reg2?城镇:堡垒}，但禁止劫掠。",
+        "translation": "攻下这座{reg2?城镇:堡垒}，但禁止劫掠。"
     },
     {
+        "id": "mno_keep_plunder",
         "text": "Conquer_and_plunder_the_{reg2?town:fort}.",
-        "translation": "征服与掠夺{reg2?城镇:城堡}。"
+        "old_translation": "征服并洗劫这座{reg2?城镇:堡垒}。",
+        "translation": "征服并洗劫这座{reg2?城镇:堡垒}。"
     },
     {
+        "id": "mno_saqueo_normal",
         "text": "Plunder_the_{reg2?town:fort}_and_leave.",
-        "translation": "洗劫这座{reg2?城镇:城堡}，然后离开。"
+        "old_translation": "洗劫这座{reg2?城镇:堡垒}后离开。",
+        "translation": "洗劫这座{reg2?城镇:堡垒}后离开。"
     },
     {
+        "id": "mno_saqueo_total",
         "text": "Devastate_the_place_and_leave.",
-        "translation": "毁灭这个地方，屠杀居民。"
+        "old_translation": "彻底毁灭此地后离开。",
+        "translation": "彻底毁灭此地后离开。"
     },
     {
+        "id": "menu_castle_taken_plunder",
         "text": "The_{reg2?town:fort}_is_plundered._You_have_collected_{reg7}_peningas.",
-        "translation": "{reg2?城镇:城堡}被洗劫了，你收集到了{reg7}先令。"
+        "old_translation": "这座{reg2?城镇:堡垒}已被洗劫，你搜得{reg7}银便士。",
+        "translation": "这座{reg2?城镇:堡垒}已被洗劫，你搜得{reg7}银便士。"
     },
     {
+        "id": "menu_castle_taken_native",
         "text": "{s3}_has_fallen_to_your_troops,_and_you_now_have_full_control_of_the_{reg2?town:fort}._{reg1?_You_may_station_troops_here_to_defend_it_against_enemies_who_may_try_to_recapture_it._Also,_you_should_select_now_whether_you_will_hold_the_{reg2?town:castle}_yourself_or_give_it_to_a_faithful_vassal...:}",
-        "translation": "你的部队攻陷了{s3}，现在你已经完全地掌控了这个{reg2?城镇:城堡}。{reg1?你可以在这里驻军以防那些打算重新夺回它的敌军。同时，你可以选择保留这座{reg2?城镇:城堡}给自己或者分封给某个忠诚的部下…:}"
+        "old_translation": "{s3}已落入你手，你完全掌控了这座{reg2?城镇:堡垒}。{reg1?你可以在此驻军，以防敌军反扑。现在请选择：亲自镇守这座{reg2?城镇:城堡}，还是把它赐给一位忠心的封臣……:}",
+        "translation": "{s3}已落入你手，你完全掌控了这座{reg2?城镇:堡垒}。{reg1?你可以在此驻军，以防敌军反扑。现在请选择：亲自镇守这座{reg2?城镇:城堡}，还是把它赐给一位忠心的封臣……:}"
     },
     {
+        "id": "menu_castle_taken_keepplunder",
         "text": "{s3}_has_fallen_to_your_troops,_and_you_now_have_full_control_of_the_{reg2?town:fort}._Your_troops_run_through_the_streets_getting_as_much_stuff_as_they_can_carry._The_{reg2?town:fort}_is_plundered._You_have_collected_{reg7}_peningas._{reg1?_You_may_station_troops_here_to_defend_it_against_enemies_who_may_try_to_recapture_it._Also,_you_should_select_now_whether_you_will_hold_the_{reg2?town:castle}_yourself_or_give_it_to_a_faithful_vassal...:}",
-        "translation": "{s3}面对你的军队后溃不成军，而你现在拥有了{reg2?城镇:城堡}的全面控制。你的士兵们在街道上掠夺着尽可能多的东西。{reg2?城镇:城堡}已经被掠夺。你获得了{reg7}先令。{reg1?你可以驻扎士兵在此地以防止敌人重新占领它。而且，现在你可以选择为自己保留{reg2?城镇:城堡}或者把它给予一位忠心的下属……:}"
+        "old_translation": "{s3}已落入你手，你完全掌控了这座{reg2?城镇:堡垒}。士兵们沿街搜刮，能拿多少就拿多少。{reg2?城镇:堡垒}被洗劫一空，你获得{reg7}银便士。{reg1?你可以在此驻军，以防敌军反扑。现在请选择：亲自镇守这座{reg2?城镇:城堡}，还是把它赐给一位忠心的封臣……:}",
+        "translation": "{s3}已落入你手，你完全掌控了这座{reg2?城镇:堡垒}。士兵们沿街搜刮，能拿多少就拿多少。{reg2?城镇:堡垒}被洗劫一空，你获得{reg7}银便士。{reg1?你可以在此驻军，以防敌军反扑。现在请选择：亲自镇守这座{reg2?城镇:城堡}，还是把它赐给一位忠心的封臣……:}"
     },
     {
+        "id": "menu_castle_taken_2",
         "text": "{s3}_has_fallen_to_your_troops,_and_you_now_have_full_control_of_the_fort._It_is_time_to_send_word_to_{s9}_about_your_victory._{s5}",
-        "translation": "你的部队攻陷了{s3}，现在你已经完全地掌控了这个城堡。现在应该把这个胜利的消息告诉给{s9}了。{s5}"
+        "old_translation": "{s3}已落入你手，你完全掌控了这座堡垒。是时候向{s9}报捷了。{s5}",
+        "translation": "{s3}已落入你手，你完全掌控了这座堡垒。是时候向{s9}报捷了。{s5}"
     },
     {
+        "id": "mno_castle_taken_claim",
         "text": "Request_that_{s3}_be_awarded_to_you.",
-        "translation": "要求他把{s3}封给你。"
+        "old_translation": "请求将{s3}封赏给你。",
+        "translation": "请求将{s3}封赏给你。"
     },
     {
+        "id": "mno_castle_taken_claim_2",
         "text": "Request_that_{s3}_be_awarded_to_your_{reg59?husband:wife}.",
-        "translation": "要求他把{s3}封配为你的{reg59?丈夫:妻子}。"
+        "old_translation": "请求将{s3}封赏给你的{reg59?丈夫:妻子}。",
+        "translation": "请求将{s3}封赏给你的{reg59?丈夫:妻子}。"
     },
     {
+        "id": "mno_castle_taken_no_claim",
         "text": "Ask_for_no_rewards.",
-        "translation": "什么也不要求。"
+        "old_translation": "不索取任何奖赏。",
+        "translation": "不索取任何奖赏。"
     },
     {
+        "id": "menu_saqueo_loot_continue",
         "text": "This_settlement_has_not_recovered_from_being_looted_by_you.",
-        "translation": "这个地方已经被掠夺过了。"
+        "old_translation": "此地尚未从你上次劫掠中恢复。",
+        "translation": "此地尚未从你上次劫掠中恢复。"
     },
     {
+        "id": "menu_requested_castle_granted_to_another",
         "text": "You_receive_a_message_from_your_monarch,_{s3}.^^'I_was_most_pleased_to_hear_of_your_valiant_efforts_in_the_capture_of_{s2}._Your_victory_has_gladdened_all_our_hearts._You_also_requested_me_to_give_you_ownership_of_the_castle,_but_that_is_a_favour_that_I_fear_I_cannot_grant,_as_you_already_hold_significant_estates_in_my_realm._Instead_I_have_sent_you_{reg6}_peningas_to_cover_the_expenses_of_your_campaign,_but_{s2}_I_give_to_{s5}.'_",
-        "translation": "你从国王{s3}那里得到通知。^^我听说你很英勇地战斗并把{s2}给攻下来了。你的胜利极大的鼓舞了我们。你说过你想要我把这个地方封给你，但恐怕我并不能同意你的要求，因为在我统治的范围内，你已经有了封地。所以我送你{reg6}先令作为你的军费开支，而{s2}，我把它封给{s5}了。"
+        "old_translation": "你的君主{s3}来信：^^“闻你英勇夺取{s2}，朕心大悦，举国同庆。你曾请求将城堡赐你，然你已在王国拥有大片领地，朕实难再允。特赐{reg6}银便士以补军费，而{s2}则封予{s5}。”",
+        "translation": "你的君主{s3}来信：^^“闻你英勇夺取{s2}，朕心大悦，举国同庆。你曾请求将城堡赐你，然你已在王国拥有大片领地，朕实难再允。特赐{reg6}银便士以补军费，而{s2}则封予{s5}。”"
     },
     {
+        "id": "mno_accept_decision",
         "text": "Accept_the_decision.",
+        "old_translation": "接受决定。",
         "translation": "接受决定。"
     },
     {
+        "id": "mno_leave_faction",
         "text": "You_have_been_wronged!_Renounce_your_oath_to_your_liege!_",
-        "translation": "你遭到了不公的待遇了！背弃你对君主的誓言！"
+        "old_translation": "你遭到了不公！背弃你对君主的誓言！",
+        "translation": "你遭到了不公！背弃你对君主的誓言！"
     },
     {
+        "id": "menu_requested_castle_granted_to_another_female",
         "text": "You_receive_a_message_from_your_monarch,_{s3}.^^'I_was_most_pleased_to_hear_of_your_valiant_efforts_in_the_capture_of_{s2}._Your_victory_has_gladdened_all_our_hearts._You_also_requested_me_to_give_ownership_of_the_castle_to_your_husband,_but_that_is_a_favour_that_I_fear_I_cannot_grant,_as_he_already_holds_significant_estates_in_my_realm._Instead_I_have_sent_you_{reg6}_peningas_to_cover_the_expenses_of_your_campaign,_but_{s2}_I_give_to_{s5}.'_",
-        "translation": "你从国王{s3}那里得到通知。^^我听说你很英勇地战斗并把{s2}给攻下来了。你的胜利极大的鼓舞了我们。你说过你想要我把这个地方封给你，但恐怕我并不能同意你的要求，因为在我统治的范围内，你已经有了封地。所以我送你{reg6}先令作为你的军费开支，而{s2}，我把它封给{s5}了。？"
+        "old_translation": "你从君主{s3}处收到消息。^^“得悉你英勇夺取{s2}，我甚感欣慰。你的胜利振奋了众人。你曾请求我将该城堡赐予你丈夫，但此恩我恐怕无法赐予，因他在我疆域内已拥有大片领地。我改赐你{reg6}银便士以补偿征战开销，而{s2}则授予{s5}。”",
+        "translation": "你从君主{s3}处收到消息。^^“得悉你英勇夺取{s2}，我甚感欣慰。你的胜利振奋了众人。你曾请求我将该城堡赐予你丈夫，但此恩我恐怕无法赐予，因他在我疆域内已拥有大片领地。我改赐你{reg6}银便士以补偿征战开销，而{s2}则授予{s5}。”"
     },
     {
+        "id": "mno_accept_decision2",
+        "text": "Accept_the_decision.",
+        "old_translation": "接受决定。",
+        "translation": "接受决定。"
+    },
+    {
+        "id": "menu_leave_faction",
         "text": "Renouncing_your_oath_is_a_grave_act._Your_lord_may_condemn_you_and_confiscate_your_lands_and_holdings._However,_if_you_return_them_on_your_own_free_will,_he_may_let_the_betrayal_go_unpunished.",
-        "translation": "放弃誓言是一件很严重的事情。你的君主将宣判你有罪，并没收你的土地与城堡。如果你自愿交出你的土地与城堡，他也许会饶恕你，放你走。"
+        "old_translation": "接受决定。",
+        "translation": "接受决定。"
     },
     {
+        "id": "mno_leave_faction_give_back",
         "text": "Renounce_your_oath_and_give_up_your_holdings.",
-        "translation": "我交出我的土地与城堡给我的君主，但是我放弃我的誓言。"
+        "old_translation": "背弃誓言乃重罪。君主可判你有罪，没收你的土地与产业。若你自愿奉还，他或许宽恕你的背叛。",
+        "translation": "背弃誓言乃重罪。君主可判你有罪，没收你的土地与产业。若你自愿奉还，他或许宽恕你的背叛。"
     },
     {
+        "id": "mno_leave_faction_hold",
         "text": "Renounce_your_oath_and_rule_your_lands,_including_{s2},_in_your_own_name.",
-        "translation": "我放弃我的誓言。并以自己的名义占有我的城堡，包括{s2}。"
+        "old_translation": "背弃誓言，交出领地。",
+        "translation": "背弃誓言，交出领地。"
     },
     {
+        "id": "mno_leave_faction_cancel",
         "text": "Remain_loyal_and_accept_the_decision.",
-        "translation": "我改变主意了。我还是对我的君主效忠。"
+        "old_translation": "背弃誓言，以自己的名义统治你的土地，包括{s2}。",
+        "translation": "背弃誓言，以自己的名义统治你的土地，包括{s2}。"
     },
     {
+        "id": "menu_give_center_to_player_2",
         "text": "With_a_brief_ceremony,_you_are_officially_confirmed_as_the_new_lord_of_{s2}{reg3?_and_its_bound_village_{s4}:}._{reg3?They:It}_will_make_a_fine_part_of_your_fiefdom._You_can_now_claim_the_rents_and_revenues_from_your_personal_estates_there,_draft_soldiers_from_the_populace,_and_manage_the_lands_as_you_see_fit._However,_you_are_also_expected_to_defend_your_fief_and_your_people_from_harm,_as_well_as_maintaining_the_rule_of_law_and_order.",
-        "translation": "短暂的仪式之后，你已受封新封地。你现在是{s2}{reg3?和从属的{s4}村:}的领主。{reg3?它们:它}会成为你新的封地。你可以在这里横征暴敛，大拉壮丁，但你也得保证这里的安全和秩序。"
+        "old_translation": "保持忠诚，接受决定。",
+        "translation": "简短仪式后，你正式受封为{s2}{reg3?及其附属村庄{s4}:}的新领主。{reg3?它们:它}将成为你封地的一部分。你可征收租税、募兵，并依己意治理此地。然而，你也必须保卫封地与子民，维持法纪。"
     },
     {
+        "id": "menu_oath_fulfilled",
         "text": "You_had_a_contract_with_{s1}_to_serve_him_for_a_certain_duration._Your_contract_has_now_expired._What_will_you_do?",
-        "translation": "你发誓为{s1}服务一段时间。你的誓言已经完结了，你准备怎么办？"
+        "old_translation": "简短仪式后，你正式受封为{s2}{reg3?及其附属村庄{s4}:}的新领主。{reg3?它们:它}将成为你封地的一部分。你可征收租税、募兵，并依己意治理此地。然而，你也必须保卫封地与子民，维持法纪。",
+        "translation": "你与{s1}的契约已到期。你曾立誓为他效力一段时日。如今契约期满，你打算如何？"
     },
     {
+        "id": "mno_renew_oath",
         "text": "Renew_your_contract_with_{s1}_for_another_month.",
-        "translation": "继续向{s1}发誓，再服务一个月。"
+        "old_translation": "你与{s1}的契约已到期。你曾立誓为他效力一段时日。如今契约期满，你打算如何？",
+        "translation": "与{s1}续约，再效力一月。"
     },
     {
+        "id": "mno_dont_renew_oath",
         "text": "Become_free_of_your_bond.",
-        "translation": "恢复自由身。"
+        "old_translation": "与{s1}续约，再效力一月。",
+        "translation": "解除束缚，重获自由。"
     },
     {
+        "id": "menu_siege_started_defender",
         "text": "{s1}_is_launching_an_assault_against_the_walls_of_{s2}._You_have_{reg10}_troops_fit_for_battle_against_the_enemy's_{reg11}._You_decide_to...",
-        "translation": "{s1}正在攻击{s2}的城墙。你有{reg10}人可以参战对抗敌人的{reg11}人。你决定……"
+        "old_translation": "解除束缚，重获自由。",
+        "translation": "{s1}正攻打{s2}的城墙。你有{reg10}名可战之兵，敌军则有{reg11}人。你决定……"
     },
     {
+        "id": "mno_siege_defender_join_battle",
         "text": "Join_the_battle.",
-        "translation": "参加战斗。"
+        "old_translation": "{s1}正攻打{s2}的城墙。你有{reg10}名可战之兵，敌军则有{reg11}人。你决定……",
+        "translation": "加入战斗。"
     },
     {
+        "id": "mno_siege_defender_troops_join_battle",
         "text": "Order_your_men_to_join_the_battle_without_you.",
-        "translation": "坐镇指挥，让你的部队攻击。"
+        "old_translation": "加入战斗。",
+        "translation": "命部下参战，你不出阵。"
     },
     {
+        "id": "menu_siege_join_defense",
+        "text": "{s4}^^Your_casualties:_{s8}^^Allies'_casualties:_{s9}^^Enemy_casualties:_{s10}",
+        "old_translation": "{s4}^^我军伤亡：{s8}^^盟军伤亡：{s9}^^敌军伤亡：{s10}",
+        "translation": "{s4}^^我军伤亡：{s8}^^盟军伤亡：{s9}^^敌军伤亡：{s10}"
+    },
+    {
+        "id": "menu_village",
         "text": "{s10}_{s12}^{s11}^{s6}{s7}^^{s15}",
+        "old_translation": "命部下参战，你不出阵。",
         "translation": "{s10}{s12}^{s11}^{s6}{s7}^^{s15}"
     },
     {
+        "id": "mno_village_manage",
         "text": "Manage_this_village.",
-        "translation": "管理这个村庄。"
+        "old_translation": "{s10}{s12}^{s11}^{s6}{s7}^^{s15}",
+        "translation": "管理此村庄。"
     },
     {
+        "id": "mno_recruit_volunteers",
         "text": "Recruit_Volunteers.",
-        "translation": "征募志愿兵。"
+        "old_translation": "管理此村庄。",
+        "translation": "招募志愿兵。"
     },
     {
+        "id": "mno_village_center",
         "text": "Go_to_the_village_center.",
-        "translation": "前往村中心。"
+        "old_translation": "招募志愿兵。",
+        "translation": "前往村庄中心。"
     },
     {
+        "id": "mno_village_center_door",
         "text": "Door_to_the_village_center.",
-        "translation": "通往村庄中心的门。"
+        "old_translation": "村庄中心的大门。",
+        "translation": "村庄中心的大门。"
     },
     {
+        "id": "mno_meet_leader",
         "text": "Meet_the_leader.",
+        "old_translation": "与村庄长老见面。",
         "translation": "与村庄长老见面。"
     },
     {
-        "text": "Buy_supplies_from_the_peasants.",
-        "translation": "向村民购买给养。"
+        "id": "mno_meet_leader_door",
+        "text": "Door_to_the_village_center.",
+        "old_translation": "村庄中心的大门。",
+        "translation": "村庄中心的大门。"
     },
     {
+        "id": "mno_village_buy_food",
+        "text": "Buy_supplies_from_the_peasants.",
+        "old_translation": "村庄中心的大门。",
+        "translation": "向农民购买补给。"
+    },
+    {
+        "id": "mno_comprar_cattle",
         "text": "I_want_to_buy_some_cattle.",
+        "old_translation": "我想买食物和补给。",
         "translation": "我想买些牛。"
     },
     {
+        "id": "mno_village_attack_bandits",
         "text": "Attack_the_bandits.",
-        "translation": "进攻强盗。"
+        "old_translation": "向农民购买补给。",
+        "translation": "进攻山贼。"
     },
     {
+        "id": "mno_village_wait",
+        "text": "Wait_here_for_some_time.",
+        "old_translation": "在此稍候片刻。",
+        "translation": "在此稍候片刻。"
+    },
+    {
+        "id": "mno_collect_taxes_qst",
         "text": "{reg5?Continue_collecting_taxes:Collect_taxes}.",
-        "translation": "{reg5?继续收税:所得税款}。"
+        "old_translation": "进攻山贼。",
+        "translation": "{reg5?继续收税:收税}。"
     },
     {
+        "id": "mno_train_peasants_against_bandits_qst",
         "text": "Train_the_peasants.",
-        "translation": "训练这些农民。"
+        "old_translation": "{reg5?继续收税:收税}。",
+        "translation": "训练农民。"
     },
     {
+        "id": "mno_village_hostile_action",
         "text": "Take_a_hostile_action.",
-        "translation": "做一些带有敌意的事情。"
+        "old_translation": "训练农民。",
+        "translation": "采取敌对行动。"
     },
     {
+        "id": "mno_village_leave",
         "text": "Leave...",
-        "translation": "离开…"
+        "old_translation": "扬帆起航。",
+        "translation": "离开……"
     },
     {
+        "id": "menu_village_hostile_action",
         "text": "What_action_do_you_have_in_mind?^_(You_need_over_20_troops.)",
-        "translation": "你现在打算做些什么？（你需要20多人的部队）"
+        "old_translation": "采取敌对行动。",
+        "translation": "你打算做什么？（需要20名以上士兵）"
     },
     {
+        "id": "mno_village_force_convert",
         "text": "Try_to_convert_the_peasants_forcefully.",
-        "translation": "强迫村民皈依。"
+        "old_translation": "离开……",
+        "translation": "试图强行让农民皈依。"
     },
     {
+        "id": "mno_village_take_food",
         "text": "Force_peasants_to_give_you_supplies.",
-        "translation": "强征给养。"
+        "old_translation": "你打算做什么？（需要20名以上士兵）",
+        "translation": "强迫农民交出补给。"
     },
     {
+        "id": "mno_village_steal_cattle",
         "text": "Steal_cattle.",
-        "translation": "偷一些牛。"
+        "old_translation": "试图强行让农民皈依。",
+        "translation": "偷牛。"
     },
     {
+        "id": "mno_enslave_villagers",
         "text": "Enslave_the_villagers.",
+        "old_translation": "强迫农民交出补给。",
         "translation": "奴役村民。"
     },
     {
+        "id": "mno_village_loot",
         "text": "Loot_and_burn_this_village.",
-        "translation": "劫掠这个村子，然后把它夷为平地！"
+        "old_translation": "偷牛。",
+        "translation": "劫掠并焚毁这座村庄。"
     },
     {
+        "id": "mno_continue_not_enough_gold",
         "text": "I_don't_have_enough_money.",
-        "translation": "我没有足够的钱。"
+        "old_translation": "我的钱不够。",
+        "translation": "我的钱不够。"
     },
     {
+        "id": "mno_recruit_them",
         "text": "Recruit_them_({reg6}_peningas).",
-        "translation": "招募他们。({reg6}先令)。"
+        "old_translation": "奴役村民。",
+        "translation": "招募他们（{reg6}银便士）。"
     },
     {
+        "id": "menu_village_hunt_down_fugitive_defeated",
         "text": "A_heavy_blow_from_the_fugitive_sends_you_to_the_ground,_and_your_vision_spins_and_goes_dark._Time_passes._When_you_open_your_eyes_again,_you_find_yourself_battered_and_bloody,_but_luckily_none_of_the_wounds_appear_to_be_lethal.",
-        "translation": "逃犯的重重一击让你天旋地转，并昏倒在地上。时间飞逝，当你再次睁开眼睛时，发现自己伤痕累累，但幸好没有一处是致命伤。"
+        "old_translation": "劫掠并焚毁这座村庄。",
+        "translation": "逃犯一记重击把你打倒在地，眼前天旋地转，随即陷入黑暗。不知过了多久，你睁开眼，浑身青紫、血迹斑斑，所幸没有致命伤。"
     },
     {
+        "id": "menu_village_confront_contact_defeated",
         "text": "A_heavy_blow_from_the_villager_sends_you_to_the_ground,_and_your_vision_spins_and_goes_dark._Time_passes._When_you_open_your_eyes_again,_you_find_yourself_battered_and_bloody,_but_luckily_none_of_the_wounds_appear_to_be_lethal.",
-        "translation": "来自村民的一个重拳把你打趴到了地上，而且你的视觉旋转着并变模糊了。时间飞去。当你再次张开眼睛，你认识到你被殴打了而且流着血，不过幸运的是没有一处伤口是致命的。"
+        "old_translation": "村民一记重击把你打倒在地，眼前天旋地转，随即陷入黑暗。不知过了多久，你睁开眼，浑身青紫、血迹斑斑，所幸没有致命伤。",
+        "translation": "村民一记重击把你打倒在地，眼前天旋地转，随即陷入黑暗。不知过了多久，你睁开眼，浑身青紫、血迹斑斑，所幸没有致命伤。"
     },
     {
+        "id": "menu_village_hunt_lover_defeated",
         "text": "A_heavy_blow_from_the_ghost_sends_you_to_the_ground,_and_your_vision_spins_and_goes_dark._Time_passes._When_you_open_your_eyes_again,_you_find_yourself_battered_and_bloody,_but_luckily_none_of_the_wounds_appear_to_be_lethal.",
-        "translation": "来自幽灵的一个重拳把你打趴到了地上，而且你的视觉旋转着并变模糊了。时间飞去。当你再次张开眼睛，你认识到你被殴打了而且流着血，不过幸运的是没有一处伤口是致命的。"
+        "old_translation": "幽灵一记重击把你打倒在地，眼前天旋地转，随即陷入黑暗。不知过了多久，你睁开眼，浑身青紫、血迹斑斑，所幸没有致命伤。",
+        "translation": "幽灵一记重击把你打倒在地，眼前天旋地转，随即陷入黑暗。不知过了多久，你睁开眼，浑身青紫、血迹斑斑，所幸没有致命伤。"
     },
     {
+        "id": "menu_village_hunt_music_defeated",
         "text": "A_heavy_blow_from_the_rogue_guard_sends_you_to_the_ground,_and_your_vision_spins_and_goes_dark._Time_passes._When_you_open_your_eyes_again,_you_find_yourself_battered_and_bloody,_but_luckily_none_of_the_wounds_appear_to_be_lethal.",
-        "translation": "来自守卫的一个重拳把你打趴到了地上，而且你的视觉旋转着并变模糊了。时间飞去。当你再次张开眼睛，你认识到你被殴打了而且流着血，不过幸运的是没有一处伤口是致命的。"
+        "old_translation": "叛变守卫一记重击把你打倒在地，眼前天旋地转，随即陷入黑暗。不知过了多久，你睁开眼，浑身青紫、血迹斑斑，所幸没有致命伤。",
+        "translation": "叛变守卫一记重击把你打倒在地，眼前天旋地转，随即陷入黑暗。不知过了多久，你睁开眼，浑身青紫、血迹斑斑，所幸没有致命伤。"
     },
     {
+        "id": "menu_village_infestation_removed",
         "text": "In_a_battle_worthy_of_song,_you_and_your_men_drive_the_bandits_out_of_the_village,_making_it_safe_once_more._The_villagers_have_little_left_in_the_way_of_wealth_after_their_ordeal,_but_they_offer_you_all_they_can_find.",
-        "translation": "经过足以令人传诵的英勇的战斗，你和你的同伴打败了强盗。这个村子再次安全了。经过他们的抢劫以后，村民几乎没有什么东西剩下了，但他们还是拿出了任何他们有的东西。"
+        "old_translation": "一场足以入歌的激战过后，你率众将山贼逐出村庄，此地再度安宁。村民虽遭洗劫，所剩无几，仍倾其所有相赠。",
+        "translation": "一场足以入歌的激战过后，你率众将山贼逐出村庄，此地再度安宁。村民虽遭洗劫，所剩无几，仍倾其所有相赠。"
     },
     {
+        "id": "mno_village_bandits_defeated_accept",
         "text": "Take_it_as_your_just_due.",
-        "translation": "我接受你们的赠品。"
+        "old_translation": "我收下，这是我应得的。",
+        "translation": "我收下，这是我应得的。"
     },
     {
+        "id": "mno_village_bandits_defeated_cont",
         "text": "Refuse,_stating_that_they_need_these_items_more_than_you_do.",
-        "translation": "你们比我更需要这些东西。你们的感谢已经足够了。"
+        "old_translation": "婉拒，告诉他们你们比我更需要这些。",
+        "translation": "婉拒，告诉他们你们比我更需要这些。"
     },
     {
+        "id": "menu_center_manage",
         "text": "{s19}^{reg6?^^You_are_currently_building_{s7}._The_building_will_be_completed_after_{reg8}_day{reg9?s:}.:}",
-        "translation": "{s19}^{reg6?^^你现在正在建造{s7}。这个建筑将于{reg8}{reg9?日:日}后完成。:}"
+        "old_translation": "{s19}^{reg6?^^你正在建造{s7}，{reg8}天{reg9?后:后}完工。:}",
+        "translation": "{s19}^{reg6?^^你正在建造{s7}，{reg8}天{reg9?后:后}完工。:}"
     },
     {
+        "id": "mno_center_build_manor",
         "text": "Build_a_mead_hall.",
-        "translation": "建造一个庄园。"
+        "old_translation": "建造蜜酒大厅",
+        "translation": "建造蜜酒大厅。"
     },
     {
+        "id": "mno_center_build_fish_pond",
         "text": "Build_a_mill.",
-        "translation": "建造一个磨坊。"
+        "old_translation": "建造磨坊",
+        "translation": "建造磨坊。"
     },
     {
+        "id": "mno_center_build_watch_tower",
         "text": "Build_a_watchtower.",
-        "translation": "建造一个了望塔。"
+        "old_translation": "建造瞭望塔",
+        "translation": "建造瞭望塔。"
     },
     {
+        "id": "mno_center_build_school",
         "text": "Build_a_school.",
-        "translation": "建造一个学校。"
+        "old_translation": "建造学校",
+        "translation": "建造学校。"
     },
     {
+        "id": "mno_center_build_messenger_post",
         "text": "Build_a_messenger_post.",
-        "translation": "建造一个驿站。"
+        "old_translation": "建造驿站",
+        "translation": "建造信使岗哨。"
     },
     {
+        "id": "mno_center_build_prisoner_tower",
         "text": "Build_a_prisoner_tower.",
-        "translation": "建造一个哨塔。"
+        "old_translation": "建造囚塔",
+        "translation": "建造俘虏塔。"
     },
     {
+        "id": "mno_center_build_religion1",
         "text": "Build_a_Christian_monastery_(conversion_factor).",
-        "translation": "修建一座基督教修道院（转换信仰）"
+        "old_translation": "建造基督教修道院（转化信仰）",
+        "translation": "建造基督教修道院（转化信仰）。"
     },
     {
+        "id": "mno_center_build_religion2",
         "text": "Build_a_temple_to_Odin_(conversion_factor).",
-        "translation": "修筑一座奥丁神庙（转换信仰）"
+        "old_translation": "建造奥丁神庙（转化信仰）",
+        "translation": "建造奥丁神庙（转化信仰）。"
     },
     {
+        "id": "mno_center_build_religion3",
         "text": "Build_a_Christian_church_(conversion_factor).",
-        "translation": "修建一座基督教堂（转换信仰）"
+        "old_translation": "建造基督教堂（转化信仰）",
+        "translation": "建造基督教堂（转化信仰）。"
     },
     {
+        "id": "mno_center_build_religion4",
         "text": "Build_a_shrine_to_Norse_gods_(conversion_factor).",
-        "translation": "修建一个诺尔斯神龛（转换信仰）"
+        "old_translation": "建造诺斯神祠（转化信仰）",
+        "translation": "建造诺斯神祠（转化信仰）。"
     },
     {
+        "id": "mno_center_build_herreria",
         "text": "Build_a_smithy.",
-        "translation": "修建一间铁匠铺"
+        "old_translation": "建造铁匠铺",
+        "translation": "建造铁匠铺。"
     },
     {
+        "id": "mno_center_build_guilds",
         "text": "Build_a_merchants'_rest_hall.",
-        "translation": "修建一个商业行会"
+        "old_translation": "建造商会会馆",
+        "translation": "建造商人驿馆。"
     },
     {
+        "id": "mno_center_build_library",
         "text": "Build_a_scriptorium.",
-        "translation": "修建一座缮写室"
+        "old_translation": "建造缮写室",
+        "translation": "建造缮写室。"
     },
     {
+        "id": "mno_center_build_slavemarket",
         "text": "Build_a_slave_market.",
-        "translation": "建立一个奴隶市场。"
+        "old_translation": "建造奴隶市场。",
+        "translation": "建造奴隶市场。"
     },
     {
+        "id": "mno_center_kill_slavemarket",
         "text": "Remove_a_slave_market.",
+        "old_translation": "拆除奴隶市场。",
         "translation": "拆除奴隶市场。"
     },
     {
+        "id": "mno_center_build_brewery",
         "text": "Build_a_brewery.",
-        "translation": "建造一个酒馆。"
+        "old_translation": "建造酿酒坊。",
+        "translation": "建造酿酒坊。"
     },
     {
+        "id": "menu_remove_slaves",
         "text": "Do_you_wish_to_remove_the_slave_traders_and_forbid_them_from_conducting_their_ungodly_business_within_the_boundaries_of_your_town?_Keep_in_mind_this_will_reduce_the_tariffs_of_the_town_and_its_prosperity_temporarily.",
-        "translation": "你真的希望把奴隶贩子以他们不神圣的行为为由从你的城镇里赶出去吗？请注意这会在一定时间内减少你的城镇收入。"
+        "old_translation": "你是否要驱逐奴隶贩子，禁止他们在你的城镇里继续这亵渎的生意？此举会暂时降低城镇的关税与繁荣。",
+        "translation": "你是否要驱逐奴隶贩子，禁止他们在镇内继续这亵渎的生意？此举会暂时降低城镇的关税与繁荣。"
     },
     {
+        "id": "mno_remove_slaves",
         "text": "Go_on.",
-        "translation": "继续……"
+        "old_translation": "继续。",
+        "translation": "继续。"
     },
     {
+        "id": "menu_center_improve",
         "text": "{s19}_As_the_party_member_with_the_highest_engineer_skill_({reg2}),_{reg3?you_reckon:{s3}_reckons}_that_building_the_{s4}_will_cost_you_{reg5}_peningas_and_will_take_{reg6}_days.",
-        "translation": "{s19}队员中最高工程技能为{reg2}级，由此{reg3?你预期:{s3}预期}建造{s4}要花费{reg5}先令，升级需要{reg6}日。"
+        "old_translation": "{s19}作为队伍中工程技能最高（{reg2}级）的人，{reg3?你估计:{s3}估计}建造{s4}需花费{reg5}银便士，耗时{reg6}天。",
+        "translation": "{s19}作为队伍中工程技能最高（{reg2}级）的人，{reg3?你估计:{s3}估计}建造{s4}需花费{reg5}银便士，耗时{reg6}天。"
     },
     {
+        "id": "mno_improve_cont",
         "text": "Go_on{s15}.",
-        "translation": "去{s15}……"
+        "old_translation": "继续{s15}。",
+        "translation": "继续{s15}。"
     },
     {
+        "id": "mno_improve_not_enough_gold",
+        "text": "I_don't_have_enough_money.",
+        "old_translation": "我的钱不够。",
+        "translation": "我的钱不够。"
+    },
+    {
+        "id": "menu_town_bandits_succeeded",
         "text": "The_enemies_fall_before_you_as_grain_to_a_scythe!_Soon_you_stand_alone_in_the_streets_while_most_of_your_attackers_lie_unconscious,_dead_or_dying._Searching_the_bodies,_you_find_a_purse,_which_must_have_belonged_to_a_previous_victim_of_these_brutes._Or_perhaps,_it_was_given_to_them_by_someone_who_wanted_to_arrange_a_suitable_ending_to_your_life._{s33}",
-        "translation": "你干掉了强盗，如同横扫草芥！你再次孤身一人站在街头，在你的周围散布着强盗们的尸体，看到这一幕，他们的残党惊慌地四散而去，消失在街道深处。搜寻尸体后你发现了一袋钱，或者它属于前一个无辜的牺牲者，或者是有人想要买你的命。{s33}"
+        "old_translation": "敌人如麦穗般在你面前倒下！很快，街道上只剩你一人站立，而袭击者大多已昏迷、死亡或垂死。搜身时，你找到一个钱袋，它或许曾属于这些暴徒的某位受害者，也可能是有人付钱让他们取你性命。{s33}",
+        "translation": "敌人如麦秆般在你面前倒下！很快，街道只剩你一人站立，而袭击者大多已昏迷、死亡或垂死。搜身时，你发现一个钱袋，它或许曾属于这些暴徒的某位受害者，也可能是有人雇他们取你性命。{s33}"
     },
     {
+        "id": "mno_reveal",
         "text": "Try_to_find_out_who_wanted_you_dead.",
-        "translation": "尝试找出谁买下了你的人头。"
+        "old_translation": "追查是谁想要你的命。",
+        "translation": "追查是谁想要你的命。"
     },
     {
+        "id": "menu_village_force_convert_confirm",
         "text": "It_will_take_you_5_hours_to_go_through_the_village,_pull_all_the_heretics_from_their_holes,_and_force_them_to_recant_their_wrongful_beliefs.",
-        "translation": "这将花费5小时的时间找遍整个村子，找出所有的异端分子，而且强迫他们放弃他们的错误信仰。"
+        "old_translation": "你需要5小时搜遍全村，把异端从藏身之处揪出，并迫使他们放弃错误信仰。",
+        "translation": "你需要5小时搜遍全村，把异端从藏身之处揪出，并迫使他们放弃错误信仰。"
     },
     {
+        "id": "mno_village_force_convert_confirm",
+        "text": "Go_on.",
+        "old_translation": "继续。",
+        "translation": "继续。"
+    },
+    {
+        "id": "menu_village_steal_cattle_confirm",
         "text": "As_the_party_member_with_the_highest_looting_skill_({reg2}),_{reg3?you_reckon:{s1}_reckons}_that_you_can_steal_as_many_as_{reg4}_head_of_the_village's_cattle.",
-        "translation": "队员中最高掠夺技能为{reg2}级，由此{reg3?你预期:{s1}预期}你最多可以偷到{reg4}头牛。"
+        "old_translation": "继续。",
+        "translation": "作为队伍中掠夺技能最高（{reg2}级）的人，{reg3?你估计:{s1}估计}你最多能偷走村里{reg4}头牛。"
     },
     {
+        "id": "mno_village_steal_cattle_confirm",
+        "text": "Go_on.",
+        "old_translation": "继续。",
+        "translation": "继续。"
+    },
+    {
+        "id": "menu_village_take_food_confirm",
         "text": "It_will_be_difficult_to_force_and_threaten_peasants_into_giving_their_precious_supplies._You_think_you_will_need_at_least_one_hour.",
-        "translation": "强迫农民们准备好补给品需要花费至少一个小时。"
+        "old_translation": "作为队伍中掠夺技能最高（{reg2}级）的人，{reg3?你估计:{s1}估计}你最多能偷走村里{reg4}头牛。",
+        "translation": "威逼农民交出宝贵的补给并不容易，你估计至少需要一小时。"
     },
     {
+        "id": "mno_village_take_food_confirm",
         "text": "Go_ahead.",
-        "translation": "可以。"
+        "old_translation": "继续。",
+        "translation": "继续。"
     },
     {
+        "id": "menu_village_take_food",
         "text": "The_villagers_grudgingly_bring_out_what_they_have_for_you.",
-        "translation": "村民们勉强交出了一些给养。"
+        "old_translation": "威逼农民交出宝贵的补给并不容易，你估计至少需要一小时。",
+        "translation": "村民不情愿地拿出他们仅有的东西交给你。"
     },
     {
+        "id": "mno_take_supplies",
         "text": "Take_the_supplies.",
-        "translation": "获取补给。"
+        "old_translation": "把村民变成奴隶。",
+        "translation": "拿走补给。"
     },
     {
+        "id": "mno_let_them_keep_it_2",
         "text": "Let_them_keep_it.",
+        "old_translation": "动手。",
         "translation": "让他们留着。"
     },
     {
+        "id": "menu_village_start_attack",
         "text": "Some_of_the_angry_villagers_grab_their_tools_and_prepare_to_resist_you._It_looks_like_you'll_have_a_fight_on_your_hands_if_you_continue.",
-        "translation": "一些村民拿起农具准备抵抗你的掠夺。"
+        "old_translation": "村民们不情愿地交出了他们手中的物资。",
+        "translation": "一些愤怒的村民抓起工具，准备反抗你。看样子你若继续，就得动手了。"
     },
     {
+        "id": "mno_village_raid_attack",
         "text": "Charge_them.",
-        "translation": "镇压他们。"
+        "old_translation": "冲锋！",
+        "translation": "冲锋他们。"
     },
     {
+        "id": "mno_village_raid_leave",
         "text": "Leave_this_village_alone.",
-        "translation": "独自离开这个村子。"
+        "old_translation": "放过这个村子。",
+        "translation": "放过这个村子。"
     },
     {
+        "id": "menu_village_raid_villagers_toslaves",
         "text": "Do_you_want_to_hunt_the_villagers_down_like_animals_and_make_them_slaves?",
-        "translation": "你想把村民如动物般屠戮净尽，还是把他们掳为奴隶？"
+        "old_translation": "你要把村民当野兽一样追杀，再把他们变成奴隶吗？",
+        "translation": "你要把村民当野兽一样追杀，再把他们变成奴隶吗？"
     },
     {
+        "id": "mno_villagers_slaves",
         "text": "Take_all_villagers_prisoner!",
-        "translation": "带上所有村民作为奴隶！"
+        "old_translation": "把所有村民都抓起来！",
+        "translation": "把所有村民都抓起来！"
     },
     {
+        "id": "mno_no_cancel",
         "text": "No._Cancel_the_order!",
-        "translation": "不，收回成命。"
+        "old_translation": "不，撤销命令！",
+        "translation": "不，撤销命令！"
     },
     {
+        "id": "menu_village_loot_no_resist",
         "text": "The_villagers_here_are_few_and_frightened,_and_they_quickly_scatter_and_run_before_you,_but_your_men_manage_to_catch_some_of_them._The_village_is_at_your_mercy.",
-        "translation": "村民们在你的军队前望风而逃，但是你的士兵把他们抓住了，村庄由你控制了。"
+        "old_translation": "这里的村民稀少又惊恐，他们一见你就四散奔逃，但你的部下还是抓住了一些人。村子任你处置。",
+        "translation": "这里的村民稀少又惊恐，他们一见你就四散奔逃，但你的部下还是抓住了一些人。村子任你处置。"
     },
     {
+        "id": "mno_village_plunder",
         "text": "Plunder_the_village,_then_raze_it.",
-        "translation": "掠夺村庄，然后摧毁它。"
+        "old_translation": "洗劫村庄，然后把它烧光。",
+        "translation": "洗劫村庄，然后把它烧光。"
     },
     {
+        "id": "mno_village_enslave",
+        "text": "Enslave_the_villagers.",
+        "old_translation": "强迫农民交出补给。",
+        "translation": "奴役村民。"
+    },
+    {
+        "id": "mno_take_supplies1",
+        "text": "Take_the_supplies.",
+        "old_translation": "把村民变成奴隶。",
+        "translation": "拿走补给。"
+    },
+    {
+        "id": "menu_village_loot_no_resist_population_flee",
         "text": "Most_villagers_ran_away_when_they_saw_your_army._The_village_is_at_your_mercy.",
-        "translation": "多数村民们在你的军队前望风而逃，村民求你手下留情。"
+        "old_translation": "拿走补给。",
+        "translation": "大多数村民一见你的军队就逃了。村子任你处置。"
     },
     {
+        "id": "mno_village_lootflee",
+        "text": "Plunder_the_village,_then_raze_it.",
+        "old_translation": "洗劫村庄，然后把它烧光。",
+        "translation": "洗劫村庄，然后把它烧光。"
+    },
+    {
+        "id": "mno_take_supplies1flee",
+        "text": "Take_the_supplies.",
+        "old_translation": "把村民变成奴隶。",
+        "translation": "拿走补给。"
+    },
+    {
+        "id": "mno_village_raid_leaveflee",
+        "text": "Leave_this_village_alone.",
+        "old_translation": "放过这个村子。",
+        "translation": "放过这个村子。"
+    },
+    {
+        "id": "menu_village_loot_complete",
         "text": "On_your_orders,_your_troops_sack_the_village,_pillaging_everything_of_any_value,_and_then_put_the_buildings_to_the_torch._From_the_coins_and_valuables_that_are_found,_you_get_your_share_of_{reg1}_peningas.",
-        "translation": "遵照你的命令，你的部队洗劫了村子，带走了所有有价值的器件，然后把房屋付之一炬。你从洗劫所得中分得了{reg1}先令。"
+        "old_translation": "大多数村民一见你的军队就逃了。村子任你处置。",
+        "translation": "按你的命令，部队洗劫村庄，把值钱的东西抢光，再放火烧屋。从搜到的钱币和贵重物品中，你分到了{reg1}银便士。"
     },
     {
+        "id": "menu_village_loot_defeat",
         "text": "Fighting_with_courage_and_determination,_the_villagers_manage_to_hold_together_and_drive_off_your_forces.",
-        "translation": "村民们以极大的勇气和决心，团结一致，赶跑了你的军队。"
+        "old_translation": "洗劫村庄，然后摧毁它。",
+        "translation": "村民英勇顽强，齐心协力击退了你的部队。"
     },
     {
+        "id": "menu_village_loot_continue",
         "text": "Do_you_wish_to_continue_looting_this_village?",
-        "translation": "你还想继续洗劫这个村子吗？"
+        "old_translation": "拿走补给。",
+        "translation": "你想继续洗劫这个村庄吗？"
     },
     {
+        "id": "menu_close",
         "text": "Nothing.",
-        "translation": "没事。"
+        "old_translation": "什么都不做。",
+        "translation": "什么都不做。"
     },
     {
+        "id": "mno_castle_castle",
         "text": "Visit_the_lord's_hall.",
-        "translation": "去宫殿。"
+        "old_translation": "前往领主大厅。",
+        "translation": "前往领主大厅。"
     },
     {
+        "id": "mno_castle_castle_door",
         "text": "To_the_Meduseld.",
-        "translation": "去宫殿门口。"
+        "old_translation": "前往美杜塞尔德。",
+        "translation": "前往美杜塞尔德。"
     },
     {
+        "id": "mno_join_tournament",
         "text": "Join_the_Competition.",
-        "translation": "加入比赛。"
+        "old_translation": "放过这个村子。",
+        "translation": "参加比赛。"
     },
     {
+        "id": "mno_town_castle",
+        "text": "Visit_the_lord's_hall.",
+        "old_translation": "前往领主大厅。",
+        "translation": "前往领主大厅。"
+    },
+    {
+        "id": "mno_town_castle_door",
+        "text": "To_the_Meduseld.",
+        "old_translation": "前往美杜塞尔德。",
+        "translation": "前往美杜塞尔德。"
+    },
+    {
+        "id": "mno_town_center",
         "text": "Stroll_through_town.",
-        "translation": "去街上转转。"
+        "old_translation": "在镇上漫步。",
+        "translation": "在镇上漫步。"
     },
     {
+        "id": "mno_town_center_door",
         "text": "To_the_center_of_town.",
-        "translation": "去城镇中心。"
+        "old_translation": "前往城镇中心。",
+        "translation": "前往城镇中心。"
     },
     {
+        "id": "mno_town_tavern",
         "text": "Visit_the_mead_hall.",
-        "translation": "去蜜酒厅。"
+        "old_translation": "前往蜜酒厅。",
+        "translation": "前往蜜酒厅。"
     },
     {
+        "id": "mno_town_tavern_door",
         "text": "To_the_mead_hall.",
-        "translation": "去酒馆。"
+        "old_translation": "前往蜜酒厅。",
+        "translation": "前往蜜酒厅。"
     },
     {
+        "id": "mno_town_merchant",
         "text": "Speak_with_the_merchant.",
-        "translation": "与商人交谈。"
+        "old_translation": "与杂货商人交谈。",
+        "translation": "与杂货商人交谈。"
     },
     {
+        "id": "mno_town_merchant_door",
         "text": "To_the_merchant.",
-        "translation": "去商人那儿。"
+        "old_translation": "前往杂货商人处。",
+        "translation": "前往杂货商人处。"
     },
     {
+        "id": "mno_town_arena",
         "text": "Visit_the_training_grounds.",
-        "translation": "进入竞技场。"
+        "old_translation": "前往训练场。",
+        "translation": "前往训练场。"
     },
     {
+        "id": "mno_town_arena_door",
         "text": "To_the_training_grounds.",
-        "translation": "去训练场。"
+        "old_translation": "前往训练场。",
+        "translation": "前往训练场。"
     },
     {
+        "id": "mno_town_dungeon",
         "text": "Never:_Enter_the_prison.",
-        "translation": "永无可能：进入地牢。"
+        "old_translation": "永不：进入监狱。",
+        "translation": "永不：进入监狱。"
     },
     {
+        "id": "mno_town_dungeon_door",
         "text": "To_the_prison.",
-        "translation": "去地牢。"
+        "old_translation": "前往监狱。",
+        "translation": "前往监狱。"
     },
     {
+        "id": "mno_castle_inspect",
         "text": "Tour_the_grounds.",
-        "translation": "视察城堡。"
+        "old_translation": "巡视城堡。",
+        "translation": "巡视城堡。"
     },
     {
+        "id": "mno_castle_inspect_door",
+        "text": "Leave.",
+        "old_translation": "离开。",
+        "translation": "离开。"
+    },
+    {
+        "id": "mno_town_enterprise",
         "text": "Visit_your_farmstead.",
-        "translation": "访问你的农场。"
+        "old_translation": "前往你的农场。",
+        "translation": "前往你的农场。"
     },
     {
+        "id": "mno_town_enterprise_door",
         "text": "To_your_enterprise.",
-        "translation": "去你投资的工场。"
+        "old_translation": "前往你的产业。",
+        "translation": "前往你的产业。"
     },
     {
+        "id": "mno_visit_lady",
         "text": "Attempt_to_visit_a_lady.",
+        "old_translation": "尝试拜访一位女士。",
         "translation": "尝试拜访一位女士。"
     },
     {
+        "id": "mno_visit_lady_door",
         "text": "To_the_garden.",
-        "translation": "去花园。"
+        "old_translation": "前往花园。",
+        "translation": "前往花园。"
     },
     {
+        "id": "mno_trade_with_merchants",
         "text": "Trade_with_locals.",
-        "translation": "去市场。"
+        "old_translation": "与当地人交易。",
+        "translation": "与当地人交易。"
     },
     {
+        "id": "mno_travel",
         "text": "Travel_to_another_port.",
-        "translation": "旅行到另一个港口。"
+        "old_translation": "前往另一处港口。",
+        "translation": "前往另一处港口。"
     },
     {
+        "id": "mno_travel_door",
         "text": "Outfit_your_party.",
-        "translation": "装备你的部队。"
+        "old_translation": "装备你的队伍。",
+        "translation": "装备你的队伍。"
     },
     {
+        "id": "mno_walled_center_manage",
         "text": "Manage_this_{reg0?town:castle}.",
+        "old_translation": "管理这个{reg0?城镇:城堡}。",
         "translation": "管理这个{reg0?城镇:城堡}。"
     },
     {
+        "id": "mno_walled_center_move_court",
         "text": "Move_your_court_here.",
-        "translation": "移都到这里。"
+        "old_translation": "把宫廷迁到这里。",
+        "translation": "把宫廷迁到这里。"
     },
     {
+        "id": "mno_castle_station_troops",
         "text": "Manage_the_garrison.",
-        "translation": "管理驻兵。"
+        "old_translation": "管理驻军。",
+        "translation": "管理驻军。"
     },
     {
+        "id": "mno_castle_wait",
+        "text": "Wait_here_for_some_time.",
+        "old_translation": "在此稍候片刻。",
+        "translation": "在此稍候片刻。"
+    },
+    {
+        "id": "mno_castle_wait_door",
         "text": "Bed.",
+        "old_translation": "休息。",
         "translation": "休息。"
     },
     {
+        "id": "mno_town_alley",
         "text": "Ask_for_potential_recruits.",
-        "translation": "招募潜在兵种。"
+        "old_translation": "招募潜在兵员。",
+        "translation": "招募潜在兵员。"
     },
     {
+        "id": "mno_town_visit_port",
         "text": "See_the_ships.",
-        "translation": "看看你的船。(建造中)"
+        "old_translation": "查看船只。",
+        "translation": "查看船只。"
     },
     {
+        "id": "mno_banquete_mead",
         "text": "My_men_deserve_a_symbel._Buy_mead_and_food.",
-        "translation": "为我的手下在{reg0?城镇:城堡}举行庆功宴，购买酒和食物。"
+        "old_translation": "我的部下该喝庆功蜜酒了，去买些酒和食物。",
+        "translation": "我的部下该喝庆功蜜酒了，去买些酒和食物。"
     },
     {
+        "id": "mno_banquete_mead_door",
         "text": "Set_sail.",
+        "old_translation": "扬帆起航。",
         "translation": "扬帆起航。"
     },
     {
+        "id": "mno_set_sail",
         "text": "Sail_from_port.",
-        "translation": "从港口起航。"
+        "old_translation": "从港口启航。",
+        "translation": "从港口启航。"
     },
     {
+        "id": "mno_set_sail_door",
+        "text": "Set_sail.",
+        "old_translation": "扬帆起航。",
+        "translation": "扬帆起航。"
+    },
+    {
+        "id": "mno_town_leave",
+        "text": "Leave...",
+        "old_translation": "扬帆起航。",
+        "translation": "离开……"
+    },
+    {
+        "id": "mno_town_leave_door",
         "text": "Leave_Area.",
-        "translation": "离开此地。"
+        "old_translation": "离开……",
+        "translation": "离开……"
     },
     {
+        "id": "menu_cannot_enter_court",
         "text": "There_is_a_feast_in_progress_in_the_lord's_hall,_but_you_are_not_of_sufficient_status_to_be_invited_inside._Perhaps_increasing_your_renown_would_win_you_admittance_--_or_you_might_also_try_distinguishing_yourself_at_a_tournament_while_the_feast_is_in_progress...",
-        "translation": "领主的大厅里正在举行一场宴会，但是你还没有足够资格进入。或者想办法增加声望来赢得入场劵，或者在竞技大会上胜出也是个捷径。"
+        "old_translation": "离开此地。",
+        "translation": "领主大厅正在举行宴会，可你地位尚低，未被邀请。若想入内，可设法提高声望，或在宴会期间于竞技大会中扬名。"
     },
     {
+        "id": "menu_lady_visit",
         "text": "Who_do_you_wish_to_visit?",
-        "translation": "你想要拜访谁呢？"
+        "old_translation": "领主大厅正在举行宴会，可你地位尚低，未被邀请。若想入内，可设法提高声望，或在宴会期间于竞技大会中扬名。",
+        "translation": "你想拜访谁？"
     },
     {
+        "id": "mno_visit_lady_1",
         "text": "Visit_{s12}",
+        "old_translation": "你想拜访谁？",
         "translation": "拜访{s12}"
     },
     {
+        "id": "mno_visit_lady_2",
+        "text": "Visit_{s12}",
+        "old_translation": "你想拜访谁？",
+        "translation": "拜访{s12}"
+    },
+    {
+        "id": "mno_visit_lady_3",
+        "text": "Visit_{s12}",
+        "old_translation": "你想拜访谁？",
+        "translation": "拜访{s12}"
+    },
+    {
+        "id": "mno_visit_lady_3_door",
         "text": "Door_to_the_garden.",
-        "translation": "花园大门。"
+        "old_translation": "拜访{s12}",
+        "translation": "通往花园的门。"
     },
     {
+        "id": "mno_visit_lady_4",
+        "text": "Visit_{s12}",
+        "old_translation": "你想拜访谁？",
+        "translation": "拜访{s12}"
+    },
+    {
+        "id": "mno_visit_lady_5",
+        "text": "Visit_{s12}",
+        "old_translation": "你想拜访谁？",
+        "translation": "拜访{s12}"
+    },
+    {
+        "id": "mno_visit_lady_6",
+        "text": "Visit_{s12}",
+        "old_translation": "你想拜访谁？",
+        "translation": "拜访{s12}"
+    },
+    {
+        "id": "mno_visit_lady_7",
+        "text": "Visit_{s12}",
+        "old_translation": "你想拜访谁？",
+        "translation": "拜访{s12}"
+    },
+    {
+        "id": "mno_visit_lady_8",
+        "text": "Visit_{s12}",
+        "old_translation": "你想拜访谁？",
+        "translation": "拜访{s12}"
+    },
+    {
+        "id": "menu_town_tournament_lost",
         "text": "You_have_been_eliminated_from_the_tournament.{s8}",
-        "translation": "你在竞技大会中被淘汰了。{s8}"
+        "old_translation": "拜访{s12}",
+        "translation": "你已被淘汰出竞技大会。{s8}"
     },
     {
+        "id": "menu_town_tournament_won",
         "text": "You_have_won_the_tournament_of_{s3}!_You_are_filled_with_pride_as_the_crowd_cheers_your_name._In_addition_to_honour,_fame_and_glory,_you_earn_a_prize_of_{reg9}_peningas._{s8}",
-        "translation": "你在{s3}的竞技大会中获得了优胜！听到周围的人们高呼着你的名字，你感到无限荣耀。除此之外，你还获得了{reg9}先令的奖金。"
+        "old_translation": "拜访{s12}",
+        "translation": "你赢得了{s3}的竞技大会！人群高呼你的名字，你满心自豪。除荣誉、名望与荣光外，你还获得{reg9}银便士的奖赏。{s8}"
     },
     {
+        "id": "menu_town_tournament_won_by_another",
         "text": "As_the_only_{reg3?fighter:man}_to_remain_undefeated_this_day,_{s1}_wins_the_lists_and_the_glory_of_this_tournament.",
-        "translation": "作为当日最终胜利的{reg3?人:人}，{s1}赢得了该场竞技大会的奖金以及荣誉。"
+        "old_translation": "拜访{s12}",
+        "translation": "作为今日唯一不败的{reg3?正规斗士:男人}，{s1}赢得这场竞技大会的奖金与荣耀。"
     },
     {
+        "id": "menu_town_tournament",
         "text": "{s1}You_are_at_tier_{reg0}_of_the_competition,_with_{reg1}_participants_remaining._In_the_next_round,_there_will_be_{reg2}_teams_with_{reg3}_{reg4?fighters:fighter}_each.",
-        "translation": "{s1}你现在处于竞技大会中的第{reg0}轮，现在还剩有{reg1}名参与者。下一轮中，将会有{reg2}队，其中每队有{reg3}{reg4?人:人}参加战斗。"
+        "old_translation": "拜访{s12}",
+        "translation": "{s1}你处于大赛第{reg0}轮，尚余{reg1}名参赛者。下一轮将分{reg2}队，每队{reg3}名{reg4?战士:正规斗士}。"
     },
     {
+        "id": "mno_tournament_view_participants",
         "text": "View_participants.",
-        "translation": "查看参与者名单。"
+        "old_translation": "拜访{s12}",
+        "translation": "查看参赛者名单。"
     },
     {
+        "id": "mno_tournament_bet",
         "text": "Place_a_bet_on_yourself.",
+        "old_translation": "你已被淘汰出竞技大会。{s8}",
         "translation": "在自己身上下注。"
     },
     {
+        "id": "mno_tournament_join_next_fight",
         "text": "Fight_in_the_next_round.",
-        "translation": "进入下一轮。"
+        "old_translation": "你在{s3}的竞技大会中夺得桂冠！人群高呼你的名字，你满怀自豪。除荣誉、名望与光辉外，你还赢得{reg9}银便士的奖赏。{s8}",
+        "translation": "参加下一轮。"
     },
     {
+        "id": "mno_leave_tournament",
         "text": "Withdraw_from_the_tournament.",
-        "translation": "从竞技大会中退出。"
+        "old_translation": "作为今日唯一不败的{reg3?战士:战士}，{s1}赢得这场竞技大会的奖金与荣耀。",
+        "translation": "退出竞技大会。"
     },
     {
+        "id": "menu_tournament_withdraw_verify",
         "text": "Are_you_sure_you_want_to_withdraw_from_the_tournament?",
-        "translation": "你确认要从竞技大会中退出吗？"
+        "old_translation": "{s1}你处于大赛第{reg0}轮，尚余{reg1}名参赛者。下一轮将分{reg2}队，每队{reg3}名{reg4?战士:战士}。",
+        "translation": "你确定要退出竞技大会吗？"
     },
     {
+        "id": "mno_tournament_withdraw_yes",
         "text": "Yes._This_is_a_pointless_affectation.",
-        "translation": "是的，这是毫无希望的努力。"
+        "old_translation": "查看参赛者名单。",
+        "translation": "是的，这不过是徒劳的虚饰。"
     },
     {
+        "id": "mno_tournament_withdraw_no",
         "text": "No,_not_as_long_as_there_is_a_chance_of_victory!",
-        "translation": "不，只要还有一丝机会胜利！"
+        "old_translation": "在自己身上下注。",
+        "translation": "不，只要还有胜算，我就绝不退出！"
     },
     {
+        "id": "menu_tournament_bet",
         "text": "The_odds_against_you_are_{reg5}_to_{reg6}.{reg1?_You_have_already_bet_{reg1}_peningas_on_yourself,_and_if_you_win,_you_will_earn_{reg2}_peningas.:}_How_much_do_you_want_to_bet?",
-        "translation": "现在的比率是{reg5}比{reg6}。{reg1?你已经在你身上下了{reg1}先令的赌注，如果你胜出的话，你会赢得{reg2}先令。:}你想下多少赌注？"
+        "old_translation": "参加下一轮。",
+        "translation": "你当前的赔率是{reg5}比{reg6}。{reg1?你已在自己身上押了{reg1}银便士，若获胜，将赢得{reg2}银便士:}你想押多少？"
     },
     {
+        "id": "mno_bet_100_denars",
         "text": "100_peningas.",
-        "translation": "100先令"
+        "old_translation": "退出竞技大会。",
+        "translation": "100银便士。"
     },
     {
+        "id": "mno_bet_50_denars",
         "text": "50_peningas.",
-        "translation": "50先令"
+        "old_translation": "你确定要退出竞技大会吗？",
+        "translation": "50银便士。"
     },
     {
+        "id": "mno_bet_20_denars",
         "text": "20_peningas.",
-        "translation": "20先令"
+        "old_translation": "是的，这不过是徒劳的虚饰。",
+        "translation": "20银便士。"
     },
     {
+        "id": "mno_bet_10_denars",
         "text": "10_peningas.",
-        "translation": "10先令"
+        "old_translation": "10银便士。",
+        "translation": "10银便士。"
     },
     {
+        "id": "mno_bet_5_denars",
         "text": "5_peningas.",
-        "translation": "5先令"
+        "old_translation": "5银便士。",
+        "translation": "5银便士。"
     },
     {
+        "id": "menu_tournament_bet_confirm",
         "text": "If_you_bet_{reg1}_peningas,_you_will_earn_{reg2}_peningas_if_you_win_the_tournament._Is_that_all_right?",
-        "translation": "如果你下{reg1}先令的赌注并且赌中的话，你会得到{reg2}先令。决定了吗？"
+        "old_translation": "如果你押{reg1}银便士，赢得竞技赛就能拿到{reg2}银便士。确定吗？",
+        "translation": "若你押{reg1}银便士，赢得竞技赛就能拿到{reg2}银便士。确定吗？"
     },
     {
+        "id": "mno_tournament_bet_accept",
+        "text": "Go_ahead.",
+        "old_translation": "继续。",
+        "translation": "继续。"
+    },
+    {
+        "id": "mno_tournament_bet_cancel",
+        "text": "Forget_it.",
+        "old_translation": "算了。",
+        "translation": "算了。"
+    },
+    {
+        "id": "menu_tournament_participants",
         "text": "You_ask_one_of_the_criers_for_the_names_of_the_tournament_participants._They_are:^{s11}",
-        "translation": "你从一位正在哭泣的失败者那里打听到了这场竞技大赛中参与者的名单。他们是：^{s11}"
+        "old_translation": "你向一名传令官询问竞技场选手的名单。他们是：^{s11}",
+        "translation": "你向一名传令官询问竞技场选手的名单。他们是：^{s11}"
     },
     {
+        "id": "menu_collect_taxes",
         "text": "As_the_party_member_with_the_highest_trade_skill_({reg2}),_{reg3?you_expect:{s1}_expects}_that_collecting_taxes_from_here_will_take_{reg4}_days...",
-        "translation": "队员中最高交易技能为{reg2}级，由此{reg3?你预期:{s1}预期}需要{reg4}天来完成征税……"
+        "old_translation": "作为队内交易技能最高（{reg2}级）的人，{reg3?你预计:{s1}预计}在此征税需{reg4}天……",
+        "translation": "作为队内交易技能最高（{reg2}级）的人，{reg3?你预计:{s1}预计}在此征税需{reg4}天……"
     },
     {
+        "id": "mno_start_collecting",
         "text": "Start_collecting.",
+        "old_translation": "开始征收。",
         "translation": "开始征收。"
     },
     {
+        "id": "mno_collect_later",
         "text": "Put_it_off_until_later.",
-        "translation": "待会再说。"
+        "old_translation": "稍后再说。",
+        "translation": "稍后再说。"
     },
     {
+        "id": "menu_collect_taxes_complete",
         "text": "You've_collected_{reg3}_peningas_in_taxes_from_{s3}._{s19}_will_be_expecting_you_to_take_the_money_to_him.",
-        "translation": "你已经在{s3}收集完{reg3}先令的税金。{s19}看到你把这笔钱交给他会很开心的。"
+        "old_translation": "你已在{s3}征到{reg3}银便士税款。{s19}正等你把钱送去。",
+        "translation": "你已在{s3}征到{reg3}银便士税款。{s19}正等你把钱送去。"
     },
     {
+        "id": "menu_collect_taxes_rebels_killed",
         "text": "Your_quick_action_and_strong_arm_have_successfully_put_down_the_revolt._Surely,_anyone_with_a_mind_to_rebel_against_you_will_think_better_of_it_after_this.",
-        "translation": "你成功地镇压了反抗。任何想站起来反抗的人将会惧怕并再三考虑的。"
+        "old_translation": "你雷厉风行，迅速镇压了叛乱。此后，任何想造反的人都会三思。",
+        "translation": "你雷厉风行，迅速镇压了叛乱。此后，任何想造反的人都会三思。"
     },
     {
+        "id": "menu_collect_taxes_failed",
         "text": "You_could_collect_only_{reg3}_peningas_as_tax_from_{s3}_before_the_revolt_broke_out._{s1}_won't_be_happy,_but_some_silver_will_placate_him_better_than_nothing_at_all...",
-        "translation": "在村民们暴动之前，你只能在{s3}收到{reg3}先令的税。{s1}不会开心的，不过这总比什么都没有好…"
+        "old_translation": "叛乱爆发前，你只在{s3}征到{reg3}银便士税款。{s1}会不高兴，但有点银子总比空手好……",
+        "translation": "叛乱爆发前，你只在{s3}征到{reg3}银便士税款。{s1}会不高兴，但有点银子总比空手好……"
     },
     {
+        "id": "menu_collect_taxes_revolt_warning",
         "text": "The_people_of_{s3}_are_outraged_at_your_demands_and_decry_it_as_nothing_more_than_extortion._They're_getting_very_restless,_and_they_may_react_badly_if_you_keep_pressing_them.",
-        "translation": "{s3}的人们对你要求的高税款表示强烈的义愤。如果你继续压迫他们，他们将准备起来反抗。"
+        "old_translation": "{s3}的民众怒斥你的要求纯属勒索。他们躁动不安，若再逼迫，恐生祸端。",
+        "translation": "{s3}的民众怒斥你的要求纯属勒索。他们躁动不安，若再逼迫，恐生祸端。"
     },
     {
+        "id": "mno_continue_collecting_taxes",
         "text": "Ignore_them_and_continue.",
-        "translation": "依然像以前那样征税。"
+        "old_translation": "无视他们，继续征收。",
+        "translation": "无视他们，继续征收。"
     },
     {
+        "id": "mno_halve_taxes",
         "text": "Agree_to_reduce_your_collection_by_half._({s1}_may_be_upset)",
-        "translation": "同意减轻一半的税款。（{s1}也许会不满）。"
+        "old_translation": "同意减半征收。（{s1}可能不满）",
+        "translation": "同意把征收额减半。（{s1}可能会生气）"
     },
     {
+        "id": "menu_collect_taxes_revolt",
         "text": "You_are_interrupted_while_collecting_the_taxes_at_{s3}._A_large_band_of_angry_{reg9?peasants:townsmen}_is_marching_nearer,_shouting_about_the_exorbitant_taxes_and_waving_torches_and_weapons._It_looks_like_they_aim_to_fight_you!",
-        "translation": "当你在{s3}收取税款的时候，突然看见一大群愤怒的{reg9?农民:居民}已经对你提出的高税款忍无可忍，正挥舞着火把和武器逐渐向你逼近。这是要向你开战！"
+        "old_translation": "你在{s3}征税时被打断。一大群愤怒的{reg9?农民:市民}高举火把武器，高喊重税不公，正步步逼近，看样子要动手！",
+        "translation": "你在{s3}征税时被打断。一大群愤怒的{reg9?农民:市民}高举火把武器，高喊税赋过重，正步步逼近，看样子要动手！"
     },
     {
+        "id": "menu_train_peasants_against_bandits",
         "text": "As_the_party_member_with_the_highest_training_skill_({reg2}),_{reg3?you_expect:{s1}_expects}_that_getting_some_peasants_ready_for_practice_will_take_{reg4}_hours.",
-        "translation": "队员中最高训练技能为{reg2}级，由此{reg3?你预期:{s1}预期}需要{reg4}小时来进行理论讲解，使这些农民变成英勇的战士。在这期间他们将会学到战斗的基本知识以及如何去沉着冷静地应对一切战斗。"
+        "old_translation": "作为队内训练技能最高（{reg2}级）的人，{reg3?你预计:{s1}预计}让农民做好准备需{reg4}小时。",
+        "translation": "作为队内训练技能最高（{reg2}级）的人，{reg3?你预计:{s1}预计}让农民做好准备要花{reg4}小时。"
     },
     {
+        "id": "mno_make_preparation",
         "text": "Train_them.",
+        "old_translation": "训练他们。",
         "translation": "训练他们。"
     },
     {
-        "text": "You_put_the_peasants_through_the_basics_of_soldiering,_discipline_and_obedience._You_think_{reg0}_of_them_{reg1?have:has}_fully_grasped_the_training_and_{reg1?are:is}_ready_for_some_practice.",
-        "translation": "你对那些农民们进行了一些最基本的训练，你认为他们中的{reg0}人{reg1?已经:已经}完全地掌握了训练的内容，{reg1?他们:他}已经准备好进行实战演习了。"
+        "id": "mno_train_later",
+        "text": "Put_it_off_until_later.",
+        "old_translation": "稍后再说。",
+        "translation": "稍后再说。"
     },
     {
+        "id": "menu_train_peasants_against_bandits_ready",
+        "text": "You_put_the_peasants_through_the_basics_of_soldiering,_discipline_and_obedience._You_think_{reg0}_of_them_{reg1?have:has}_fully_grasped_the_training_and_{reg1?are:is}_ready_for_some_practice.",
+        "old_translation": "稍后再说。",
+        "translation": "你让农民接受基础军纪与服从训练。你觉得{reg0}人{reg1?已:已}完全掌握，可以开始演练。"
+    },
+    {
+        "id": "mno_peasant_start_practice",
         "text": "Start_the_practice_fight.",
+        "old_translation": "开始演习。",
         "translation": "开始演习。"
     },
     {
+        "id": "menu_train_peasants_against_bandits_attack",
         "text": "As_you_get_ready_to_continue_the_training,_a_sentry_from_the_village_runs_up_to_you,_shouting_alarms._The_bandits_have_been_spotted_on_the_horizon,_riding_hard_for_{s3}._The_local_leader_begs_that_you_organize_your_newly_trained_militia_and_face_them.",
-        "translation": "当你准备继续训练的时候，一个从村子里来的卫兵向你奔来，呼喊着告急。那些强盗已经出现在视野里，奔向{s3}。村长恳求你组织那些你训练的民兵去抵抗他们。"
+        "old_translation": "当你准备继续训练时，一名村哨兵奔来，高声示警。山贼已出现在天际，正疾驰向{s3}。地方领袖恳求你率领新练的民兵迎战。",
+        "translation": "你正准备继续训练，一名村哨兵奔来示警：山贼已出现在天际，正疾驰向{s3}。地方领袖恳求你率新练民兵迎战。"
     },
     {
+        "id": "mno_peasants_against_bandits_attack_resist",
         "text": "Prepare_for_a_fight!",
-        "translation": "准备开战吧！"
+        "old_translation": "准备开战！",
+        "translation": "准备开战！"
     },
     {
+        "id": "menu_train_peasants_against_bandits_success",
         "text": "The_bandits_are_broken!_Those_few_who_remain_run_off_with_their_tails_between_their_legs,_terrified_of_the_peasants_and_their_new_champion._The_villagers_have_little_left_in_the_way_of_wealth_after_their_ordeal,_but_they_offer_you_all_they_can_find_to_show_their_gratitude.",
-        "translation": "这些强盗被打败了！那些还活着的和意识还清醒的都夹着尾巴逃跑了，他们惧怕这些农民和他们的新教官。经过他们的抢劫以后，村民几乎没有什么东西剩下了，但他们还是拿出了任何他们有的东西以表达感激之情。"
+        "old_translation": "山贼溃散！残存者夹着尾巴逃窜，惧怕农民与他们新拥立的勇士。村民劫后余贫，仍倾其所有以表谢意。",
+        "translation": "山贼溃散！残兵夹着尾巴逃窜，惧怕农民与他们新拥立的勇士。村民劫后余贫，仍倾其所有以表谢意。"
     },
     {
+        "id": "menu_loot_options",
         "text": "The_battle_is_over._What_do_you_want_to_do_with_the_loot?",
-        "translation": "战斗结束了。你想怎么处理这些战利品？"
+        "old_translation": "战斗结束。你想如何处置战利品？",
+        "translation": "战斗结束。你想如何处置战利品？"
     },
     {
+        "id": "mno_loot_0",
         "text": "Share_the_loot,_as_is_common.",
-        "translation": "像平常一样分配战利品。"
+        "old_translation": "按惯例分配战利品。",
+        "translation": "按惯例分配战利品。"
     },
     {
+        "id": "mno_loot_1",
         "text": "Take_first_claim_on_all_the_loot.",
-        "translation": "自己先挑选战利品。"
+        "old_translation": "优先挑选全部战利品。",
+        "translation": "优先挑选全部战利品。"
     },
     {
+        "id": "mno_loot_2",
         "text": "Leave_all_the_loot_for_your_men.",
-        "translation": "把所有的战利品留给你的手下。"
+        "old_translation": "把战利品全留给部下。",
+        "translation": "把战利品全留给部下。"
     },
     {
+        "id": "mno_loot_3",
         "text": "Leave_the_loot,_but_use_the_time_to_bury_the_dead.",
-        "translation": "留下战利品，并花些时间来埋葬死者。"
+        "old_translation": "放弃战利品，用时间安葬死者。",
+        "translation": "放弃战利品，用时间安葬死者。"
     },
     {
+        "id": "menu_landing_point_encounter",
         "text": "Do_you_wish_to_disembark?",
+        "old_translation": "你要下船吗？",
         "translation": "你要下船吗？"
     },
     {
+        "id": "menu_landet_ships_encounter",
         "text": "Do_you_wish_to_embark?",
+        "old_translation": "你要上船吗？",
         "translation": "你要上船吗？"
     },
     {
+        "id": "menu_ferry_encounter",
         "text": "The_ferry_captain_will_carry_you_to_the_other_side_for_{reg7}_peningas.",
-        "translation": "渡船的主人会以{reg7}先令的报酬把你送到另一边。"
+        "old_translation": "渡船船长愿以{reg7}银便士送你到对岸。",
+        "translation": "渡船船长愿以{reg7}银便士送你到对岸。"
     },
     {
+        "id": "menu_port_encounter",
         "text": "You_encounter_the_port_of_{s2}._{s3}",
-        "translation": "你发现了{s2}的港口。{s3}"
+        "old_translation": "你抵达{s2}港口。{s3}",
+        "translation": "你抵达{s2}港口。{s3}"
     },
     {
+        "id": "mno_attack",
         "text": "Attack.",
+        "old_translation": "进攻。",
         "translation": "进攻。"
     },
     {
+        "id": "mno_merge",
         "text": "Merge_the_fleets.",
+        "old_translation": "合并船队。",
         "translation": "合并船队。"
     },
     {
+        "id": "menu_center_reports",
         "text": "Town_Name:_{s1}^Rent_Income:_{reg1}_peningas^Tariff_Income:_{reg2}_peningas^Food_Stocks:_for_{reg3}_days",
-        "translation": "城镇名：{s1}^地租：{reg1}先令^关税：{reg2}先令^储粮可维持{reg3}天"
+        "old_translation": "城镇名：{s1}^地租收入：{reg1}银便士^关税收入：{reg2}银便士^存粮：可维持{reg3}天",
+        "translation": "城镇名：{s1}^地租收入：{reg1}银便士^关税收入：{reg2}银便士^存粮：可维持{reg3}天"
     },
     {
+        "id": "mno_to_price_and_productions",
         "text": "Show_prices_and_production.",
-        "translation": "报告价格与产品。"
+        "old_translation": "显示价格与生产。",
+        "translation": "显示价格与生产。"
     },
     {
+        "id": "menu_price_and_production",
         "text": "Goods_produced_are:^(Note:_base/modified_by_raw_materials/modified_by_materials_plus_prosperity)^{s1}^^Price_factors_are:^{s2}",
-        "translation": "产品有：^（提示：基础的/原材料加工而来的/材料加工并加以修饰的)^{s1}^^价格因素有：^{s2}"
+        "old_translation": "产品如下：^（注：基础值/受原材料影响/受材料与繁荣度影响）^{s1}^^价格因素：^{s2}",
+        "translation": "产品如下：^（注：基础值/受原材料影响/受材料与繁荣度影响）^{s1}^^价格因素：^{s2}"
     },
     {
+        "id": "menu_town_trade",
         "text": "You_head_towards_the_marketplace.",
-        "translation": "你向市场走去。"
+        "old_translation": "你走向集市。",
+        "translation": "你走向集市。"
     },
     {
+        "id": "mno_assess_prices",
         "text": "Assess_the_local_prices.",
-        "translation": "估价。"
+        "old_translation": "评估当地价格。",
+        "translation": "评估当地价格。"
     },
     {
+        "id": "mno_trophies",
         "text": "Redeem_your_battle_trophies.",
-        "translation": "出售你的战利品。"
+        "old_translation": "兑换你的战斗战利品。",
+        "translation": "兑换你的战斗战利品。"
     },
     {
+        "id": "mno_highking_trophies",
         "text": "Redeem_your_High_King_trophies.",
-        "translation": "兑现你的至高王奖杯。"
+        "old_translation": "兑换你的至高王奖杯。",
+        "translation": "兑换你的至高王奖杯。"
     },
     {
+        "id": "mno_trade_with_arms_merchant",
         "text": "Trade_with_the_weaponsmith.",
+        "old_translation": "与武器商人交易。",
         "translation": "与武器商人交易。"
     },
     {
+        "id": "mno_trade_with_armor_merchant",
         "text": "Trade_with_the_armorer.",
-        "translation": "与盔甲商人交易。"
+        "old_translation": "与防具商人交易。",
+        "translation": "与防具商人交易。"
     },
     {
+        "id": "mno_trade_with_horse_merchant",
         "text": "Trade_with_the_horse_merchant.",
-        "translation": "与马匹贩子交易。"
+        "old_translation": "与马匹商人交易。",
+        "translation": "与马匹商人交易。"
     },
     {
+        "id": "mno_trade_with_goods_merchant",
         "text": "Trade_with_the_goods_merchant.",
+        "old_translation": "与杂货商人交易。",
         "translation": "与杂货商人交易。"
     },
     {
+        "id": "mno_back_to_town_menu",
         "text": "Head_back.",
+        "old_translation": "返回。",
         "translation": "返回。"
     },
     {
+        "id": "menu_trophy_premium",
         "text": "The_battle_trophies_are_coveted_goods._Exchange_them_for_money_and_experience.",
-        "translation": "你出售了战利品，获得了金钱和经验。"
+        "old_translation": "战斗战利品是抢手货。把它们换成金钱与经验。",
+        "translation": "战斗战利品是抢手货。把它们换成金钱与经验。"
     },
     {
+        "id": "mno_premium_a",
         "text": "Exchange_battle_trophy.",
-        "translation": "交易你的战斗战利品。"
+        "old_translation": "兑换战斗战利品。",
+        "translation": "兑换战斗战利品。"
     },
     {
+        "id": "mno_premium_b",
         "text": "Exchange_war_trophy.",
-        "translation": "交易你的战争战利品。"
+        "old_translation": "兑换战争战利品。",
+        "translation": "兑换战争战利品。"
     },
     {
+        "id": "mno_premium_c",
         "text": "Exchange_epic_trophy",
-        "translation": "交易你的史诗战利品。"
+        "old_translation": "兑换史诗战利品。",
+        "translation": "兑换史诗战利品。"
     },
     {
+        "id": "menu_trophy_hihgking_premium",
         "text": "The_High_King_trophies_are_coveted_goods,_as_they_are_only_obtained_by_powerful_warlords_who_are_able_to_unite_under_their_banner_many_territories._Exchange_them_for_a_lot_of_money_and_experience.",
-        "translation": "至高王奖杯是令人垂延的宝物，因为它们只属于那些能够把众多领地收于旗下的强大的领主，兑换掉它能够带来大量的金钱和经验。"
+        "old_translation": "至高王奖杯人人垂涎，唯有能统御众多领地的强大领主方能获得。兑换它们可换取大量金钱与经验。",
+        "translation": "至高王奖杯人人垂涎，唯有能统御众多领地的强大领主方能获得。兑换它们可换取大量金钱与经验。"
     },
     {
+        "id": "mno_premium_norse",
         "text": "Exchange_Norse_Konungr_trophy.",
-        "translation": "兑换诺尔斯国王奖杯"
+        "old_translation": "兑换诺斯康戈尔奖杯。",
+        "translation": "兑换诺斯康戈尔奖杯。"
     },
     {
+        "id": "mno_premium_cymry",
         "text": "Exchange_Vrenhin_Lloegr_trophy.",
-        "translation": "兑换布立吞国王奖杯"
+        "old_translation": "兑换布立吞大王奖杯。",
+        "translation": "兑换布立吞大王奖杯。"
     },
     {
+        "id": "mno_premium_irish",
         "text": "Exchange_Ard_Ruire_trophy.",
-        "translation": "兑换戈伊德尔大首领奖杯"
+        "old_translation": "兑换盖尔大王奖杯。",
+        "translation": "兑换盖尔大王奖杯。"
     },
     {
+        "id": "mno_premium_saxon",
         "text": "Exchange_Brytenwalda_trophy.",
-        "translation": "兑换盎格鲁国王奖杯"
+        "old_translation": "兑换“不列颠共主”奖杯。",
+        "translation": "兑换“不列颠共主”奖杯。"
     },
     {
+        "id": "menu_town_trade_assessment_begin",
         "text": "You_overhear_several_discussions_about_the_price_of_trade_goods_across_the_local_area.^You_listen_closely,_trying_to_work_out_the_best_deals_around.",
-        "translation": "你偶然听到了一些关于物品价格的情报。^你试着从这些情报中寻找到一些有用的东西。"
+        "old_translation": "你听见旁人议论本地货物的行市。^你侧耳细听，想摸清最划算的生意。",
+        "translation": "你听见旁人议论本地货物的行市。^你侧耳细听，想摸清最划算的生意。"
     },
     {
+        "id": "menu_town_trade_assessment",
         "text": "As_the_party_member_with_the_highest_trade_skill_({reg2}),_{reg3?you_try_to_figure_out:{s1}_tries_to_figure_out}_the_best_goods_to_trade_in._{s2}",
-        "translation": "队员中最高交易技能为{reg2}级，{reg3?你尝试算出:{s1}尝试算出}利润最高的商品。{s2}"
+        "old_translation": "队伍里交易技能最高的是{reg2}级，{reg3?你盘算:{s1}盘算}该做哪笔买卖。{s2}",
+        "translation": "队伍里交易技能最高的是{reg2}级，{reg3?你盘算:{s1}盘算}该做哪笔买卖。{s2}"
     },
     {
+        "id": "menu_sneak_into_town_suceeded",
         "text": "Disguised_in_the_garments_of_a_poor_pilgrim,_you_fool_the_guards_and_make_your_way_into_the_town.",
-        "translation": "假装成穿着破烂的朝圣者，你骗过了守卫，顺利的混入城里。"
+        "old_translation": "你扮作衣衫褴褛的朝圣者，骗过守卫，混进城中。",
+        "translation": "你扮作衣衫褴褛的朝圣者，骗过守卫，混进城中。"
     },
     {
+        "id": "menu_sneak_into_town_caught",
         "text": "As_you_try_to_sneak_in,_one_of_the_guards_recognizes_you_and_raises_the_alarm!_You_must_flee_back_through_the_gates_before_all_the_guards_in_the_town_come_down_on_you!",
-        "translation": "在你尝试溜进去时，一名守卫发现了你并发出了警报！你必须在所有守卫都开始搜捕你之前从大门逃出去。"
+        "old_translation": "你正潜行入内，一名守卫认出你，立刻示警！你必须在满城守卫围捕前逃出城门！",
+        "translation": "你正潜行入内，一名守卫认出你，立刻示警！你必须在满城守卫围捕前逃出城门！"
     },
     {
+        "id": "mno_sneak_caught_fight",
         "text": "Try_to_fight_your_way_out!",
+        "old_translation": "杀出一条血路！",
         "translation": "杀出一条血路！"
     },
     {
+        "id": "mno_sneak_caught_surrender",
+        "text": "Surrender.",
+        "old_translation": "以留下少量部队掩护为代价撤退。",
+        "translation": "投降。"
+    },
+    {
+        "id": "menu_sneak_into_town_caught_dispersed_guards",
         "text": "You_drive_off_the_guards_and_cover_your_trail_before_running_off,_easily_losing_your_pursuers_in_the_maze_of_streets.",
-        "translation": "你轻易的甩掉了守卫，消失在街道的深处。"
+        "old_translation": "你击退守卫，抹去痕迹，在街巷迷宫中轻松甩掉追兵。",
+        "translation": "你击退守卫，抹去痕迹，在街巷迷宫中轻松甩掉追兵。"
     },
     {
+        "id": "menu_sneak_into_town_caught_ran_away",
         "text": "You_make_your_way_back_through_the_gates_and_quickly_retreat_to_the_safety_of_the_countryside.{s11}",
-        "translation": "你杀开一条血路终于夺关而走，迅速逃到了郊外的安全地带。{s11}"
+        "old_translation": "你冲出城门，迅速撤回安全的乡村。{s11}",
+        "translation": "你冲出城门，迅速撤回安全的乡村。{s11}"
     },
     {
+        "id": "menu_enemy_offer_ransom_for_prisoner",
         "text": "The_{s2}_offers_you_a_sum_of_{reg12}_peningas_for_{s1}.",
-        "translation": "{s2}想用{reg12}先令与你交换{s1}。"
+        "old_translation": "{s2}愿出{reg12}银便士换取{s1}。",
+        "translation": "{s2}愿出{reg12}银便士换取{s1}。"
     },
     {
+        "id": "mno_ransom_accept",
         "text": "Accept_the_offer.",
-        "translation": "接受这个建议。"
+        "old_translation": "接受出价。",
+        "translation": "接受出价。"
     },
     {
+        "id": "mno_ransom_reject",
         "text": "Reject_the_offer.",
-        "translation": "拒绝这个建议。"
+        "old_translation": "拒绝出价。",
+        "translation": "拒绝提议。"
     },
     {
+        "id": "menu_training_ground",
         "text": "You_approach_a_training_field_where_you_can_practice_your_martial_skills._What_kind_of_training_do_you_want_to_do?",
-        "translation": "你到达了训练场。在这里你可以提升你的战斗技巧。你想要进行哪种训练？"
+        "old_translation": "你来到训练场，可在此磨炼武艺。想练哪一项？",
+        "translation": "你来到训练场，可在此磨炼武艺。想练哪一项？"
     },
     {
+        "id": "mno_camp_trainer",
         "text": "Speak_with_the_trainer.",
-        "translation": "和教练交谈。"
+        "old_translation": "与教练交谈。",
+        "translation": "与教练交谈。"
     },
     {
+        "id": "mno_camp_train_melee",
         "text": "Sparring_practice.",
+        "old_translation": "对战练习。",
         "translation": "对战练习。"
     },
     {
+        "id": "mno_camp_train_archery",
         "text": "Ranged_weapon_practice.",
-        "translation": "射击练习。"
+        "old_translation": "远程武器练习。",
+        "translation": "远程武器练习。"
     },
     {
+        "id": "mno_camp_train_mounted",
         "text": "Horseback_practice.",
-        "translation": "骑乘练习。"
+        "old_translation": "骑术练习。",
+        "translation": "骑术练习。"
     },
     {
+        "id": "menu_training_ground_selection_details_melee_1",
         "text": "How_many_opponents_will_you_go_against?",
-        "translation": "你想要同时面对几个对手？"
+        "old_translation": "准备迎战几名对手？",
+        "translation": "准备迎战几名对手？"
     },
     {
+        "id": "mno_camp_train_melee_num_men_1",
+        "text": "One.",
+        "old_translation": "一。",
+        "translation": "一。"
+    },
+    {
+        "id": "mno_camp_train_melee_num_men_2",
+        "text": "Two.",
+        "old_translation": "二。",
+        "translation": "二。"
+    },
+    {
+        "id": "mno_camp_train_melee_num_men_3",
+        "text": "Three.",
+        "old_translation": "三。",
+        "translation": "三。"
+    },
+    {
+        "id": "mno_camp_train_melee_num_men_4",
+        "text": "Four.",
+        "old_translation": "四。",
+        "translation": "四。"
+    },
+    {
+        "id": "mno_cancel_dot",
         "text": "Cancel.",
+        "old_translation": "取消。",
         "translation": "取消。"
     },
     {
+        "id": "menu_training_ground_selection_details_melee_2",
         "text": "Choose_your_opponent_#{reg1}:",
-        "translation": "选择你的{reg1}号对手："
+        "old_translation": "选择第{reg1}位对手：",
+        "translation": "选择第{reg1}位对手："
     },
     {
+        "id": "mno_training_ground_selection_details_melee_random",
         "text": "Choose_randomly.",
+        "old_translation": "随机选择。",
         "translation": "随机选择。"
     },
     {
+        "id": "menu_training_ground_selection_details_mounted",
         "text": "What_kind_of_weapon_do_you_want_to_train_with?",
-        "translation": "你想要用哪种武器进行训练？"
+        "old_translation": "你想用哪种武器训练？",
+        "translation": "你想用哪种武器训练？"
     },
     {
+        "id": "mno_camp_train_mounted_details_1",
         "text": "One-handed_weapon.",
+        "old_translation": "单手武器。",
         "translation": "单手武器。"
     },
     {
+        "id": "mno_camp_train_mounted_details_2",
         "text": "Polearm.",
+        "old_translation": "长杆。",
         "translation": "长杆。"
     },
     {
+        "id": "mno_camp_train_mounted_details_3",
         "text": "Bow.",
+        "old_translation": "弓箭。",
         "translation": "弓箭。"
     },
     {
+        "id": "mno_camp_train_mounted_details_4",
         "text": "Thrown_weapon.",
+        "old_translation": "投掷。",
         "translation": "投掷。"
     },
     {
+        "id": "menu_training_ground_selection_details_ranged_1",
         "text": "What_kind_of_ranged_weapon_do_you_want_to_train_with?",
-        "translation": "你想要用哪种远程武器进行训练？"
+        "old_translation": "你想用哪种远程武器训练？",
+        "translation": "你想用哪种远程武器训练？"
     },
     {
+        "id": "mno_camp_train_ranged_weapon_bow",
         "text": "Bow_and_arrows.",
+        "old_translation": "弓和箭。",
         "translation": "弓和箭。"
     },
     {
+        "id": "mno_camp_train_ranged_weapon_crossbow",
         "text": "Javelins.",
-        "translation": "弩。"
+        "old_translation": "标枪。",
+        "translation": "标枪。"
     },
     {
+        "id": "mno_camp_train_ranged_weapon_thrown",
         "text": "Throwing_Knives.",
+        "old_translation": "飞刀。",
         "translation": "飞刀。"
     },
     {
+        "id": "menu_training_ground_selection_details_ranged_2",
         "text": "What_range_do_you_want_to_practice_at?",
-        "translation": "你想要在距标靶多远的距离练习？"
+        "old_translation": "你想在多远的距离练习？",
+        "translation": "你想在多远的距离练习？"
     },
     {
+        "id": "mno_camp_train_ranged_details_1",
         "text": "10_yards.",
+        "old_translation": "10码。",
         "translation": "10码。"
     },
     {
+        "id": "mno_camp_train_ranged_details_2",
         "text": "20_yards.",
+        "old_translation": "20码。",
         "translation": "20码。"
     },
     {
+        "id": "mno_camp_train_ranged_details_3",
         "text": "30_yards.",
+        "old_translation": "30码。",
         "translation": "30码。"
     },
     {
+        "id": "mno_camp_train_ranged_details_4",
         "text": "40_yards.",
+        "old_translation": "40码。",
         "translation": "40码。"
     },
     {
+        "id": "mno_camp_train_ranged_details_5",
         "text": "50_yards.",
+        "old_translation": "50码。",
         "translation": "50码。"
     },
     {
+        "id": "mno_camp_train_ranged_details_6",
         "text": "60_yards.",
+        "old_translation": "60码。",
         "translation": "60码。"
     },
     {
+        "id": "mno_camp_train_ranged_details_7",
         "text": "70_yards.",
+        "old_translation": "70码。",
         "translation": "70码。"
     },
     {
+        "id": "menu_training_ground_training_result",
         "text": "{s7}{s2}",
+        "old_translation": "{s7}{s2}",
         "translation": "{s7}{s2}"
     },
     {
+        "id": "menu_marshal_selection_candidate_ask",
         "text": "{s15}_will_soon_select_a_new_marshal_for_the_{s23}._Some_of_the_lords_have_suggested_your_name_as_a_likely_candidate.",
-        "translation": "{s15}很快就要为{s23}选出新元帅。一些领主推荐你为候选人。"
+        "old_translation": "{s15}很快要为{s23}选出新元帅，几位领主已举荐你。",
+        "translation": "{s15}很快要为{s23}选出新元帅，几位领主已举荐你。"
     },
     {
+        "id": "mno_marshal_candidate_accept",
         "text": "Let_{s15}_know_that_you_are_willing_to_serve_as_marshal.",
-        "translation": "让{s15}知道你想以元帅之职为其效忠。"
-    },
-    {
-        "text": "Tell_everyone_that_you_are_too_busy_these_days.",
-        "translation": "告诉所有人你这几天很忙。"
-    },
-    {
-        "text": "Stub",
-        "translation": "返回"
-    },
-    {
-        "text": "Your_enemies_take_you_prisoner.",
-        "translation": "你被敌人俘虏了。"
-    },
-    {
-        "text": "stub",
-        "translation": "树桩"
-    },
-    {
-        "text": "After_painful_days_of_being_dragged_about_as_a_prisoner,_you_find_a_chance_and_escape_from_your_captors!",
-        "translation": "经过了几天痛苦的俘虏生活。你找了个机会逃跑了！"
-    },
-    {
-        "text": "You_are_quickly_surrounded_by_guards,_who_take_away_your_weapons._With_curses_and_insults,_they_throw_you_into_the_dungeon_where_you_must_wait_away_the_miserable_days_of_your_captivity.",
-        "translation": "卫兵们包围了你，夺下了你的武器。他们咒骂着把你丢进了地牢，接下来有你受的了。"
-    },
-    {
-        "text": "You_remain_in_disguise_for_as_long_as_possible_before_revealing_yourself._The_guards_are_outraged_and_beat_you_savagely_before_throwing_you_back_into_the_cell_for_God_knows_how_long...",
-        "translation": "你在自己的身份暴露之前一直伪装成朝圣者，这激怒了那些守卫。他们狂暴而粗鲁地痛打你，不知道过了多长时间以后才停息下来……"
-    },
-    {
-        "text": "After_days_of_imprisonment,_you_are_finally_set_free_when_your_captors_exchange_you_for_another_prisoner.",
-        "translation": "经过了数天的关押，抓你的人用你交换了一名俘虏，你自由了。"
-    },
-    {
-        "text": "You_spend_long_hours_in_the_sunless_dank_of_the_dungeon,_more_than_you_can_count._Suddenly_one_of_your_captors_enters_your_cell_with_an_offer;_he_proposes_to_free_you_in_return_for_{reg5}_peningas_of_your_hidden_wealth._You_decide_to...",
-        "translation": "你在阴暗的地牢中不知道呆了多久，抓你的人提供了一个选择：从你藏钱的地方交出{reg5}先令，他们就会放了你。你决定…"
-    },
-    {
-        "text": "Refuse_him_and_wait_for_something_better.",
-        "translation": "拒绝他，等待更好的机会。"
-    },
-    {
-        "text": "More_days_pass_in_the_darkness_of_your_cell._You_get_through_them_as_best_you_can,_enduring_the_kicks_and_curses_of_the_guards,_watching_your_underfed_body_waste_away_more_and_more...",
-        "translation": "时光流逝，你在监牢里痛苦的忍受着被囚禁的痛苦，还有轻蔑的笑话……"
-    },
-    {
-        "text": "{s8}_sends_word_that_he_wishes_you_to_join_{reg4?her:his}_new_military_campaign._You_need_to_bring_at_least_{reg13}_troops_to_the_army,_and_are_instructed_to_raise_more_men_with_all_due_haste_if_you_do_not_have_enough.",
-        "translation": "{s8}邀请你一起去参加{reg4?她:他}的远征。你需要带上至少{reg13}名战士，如果现在不够的话，你需要尽快达到要求的人数。"
-    },
-    {
-        "text": "{s8}_sends_word_that_he_wishes_to_speak_with_you_about_a_task_he_needs_performed._He_requests_you_to_come_and_see_him_as_soon_as_possible.",
-        "translation": "{s8}派信使来告诉你，他要给你指定一个任务，并要求你尽快去见他。"
-    },
-    {
-        "text": "{s8}_sends_word_that_you_are_to_join_the_siege_of_{s9}_in_preparation_for_a_full_assault._Your_troops_are_to_take_{s9}_at_all_costs.",
-        "translation": "{s8}派信使来命令你加入对于{s9}的围攻。不论付出多大的代价都必须拿下{s9}。"
-    },
-    {
-        "text": "You_have_failed_to_follow_{s8}._The_marshal_assumes_that_you_were_otherwise_engaged,_but_would_have_appreciated_your_support.",
-        "translation": "你和{s8}走散了。元帅认为你可能另有要务，不过他对于你的支持还是表示感激。"
-    },
-    {
-        "text": "You_receive_an_offer_of_vassalage!^^{s8}_of_the_{s9}_has_sent_a_royal_herald_to_bring_you_an_invitation_in_his_own_hand._You_would_be_granted_the_honour_of_becoming_a_vassal_{reg59?lady:lord}_of_the_{s9},_and_in_return_{s8}_asks_you_to_swear_an_oath_of_homage_to_him_and_fight_in_his_military_campaigns,_although_he_offers_you_no_lands_or_titles._He_will_surely_be_offended_if_you_do_not_take_the_offer...",
-        "translation": "你收到了一份封臣的邀请！^^{s9}的{s8}派遣了一个王家信使来亲自递送这份邀请。你将成为{s9}的一位封臣，从此冠以{阁下/女士}的称呼，但是并没有给予你封地以及额外的头衔，当然作为回报{s8}要求你宣誓对他效忠并与他一起加入他的远征。虽然他没有许诺封地和头衔，但如果你拒绝这个请求的话，他无疑会感到冒犯的…"
-    },
-    {
-        "text": "Accept!",
-        "translation": "接受邀请！"
-    },
-    {
-        "text": "Decline_the_invitation.",
-        "translation": "拒绝邀请。"
-    },
-    {
-        "text": "You_receive_an_offer_of_vassalage!^^{s8}_of_the_{s9}_has_sent_a_royal_herald_to_bring_you_an_invitation_in_his_own_hand._You_would_be_granted_the_honour_of_becoming_a_vassal_{reg59?lady:lord}_of_the_{s9},_and_in_return_{s8}_asks_you_to_swear_an_oath_of_homage_to_him_and_fight_in_his_military_campaigns,_offering_you_the_fief_of_{s2}_for_your_loyal_service._He_will_surely_be_offended_if_you_do_not_take_the_offer...",
-        "translation": "你收到了一份封臣的邀请！^^{s9}的{s8}派遣了一个皇家信使来亲自递送这份邀请。你将成为{s9}的一位诸侯，从此被人以{阁下/女士}称呼，但是并没有给予你封地以及额外的头衔，当然作为回报{s8}要求你宣誓对他效忠并与他一起加入他的远征。他许诺给你{s2}的封地和头衔，如果你不同意这个请求的话他一定会被激怒的……"
-    },
-    {
-        "text": "In_order_to_become_a_vassal,_you_must_swear_an_oath_of_homage_to_{s3}._You_shall_have_to_find_him_and_give_him_your_oath_in_person._{s5}",
-        "translation": "为了成为一名封臣，你必须向{s3}宣誓效忠。你必须找到他并当面发誓。{s5}"
-    },
-    {
-        "text": "Truce^^The_{s1}_offers_you_a_peace_agreement._What_is_your_answer?",
-        "translation": "你收到了一份停战的邀请^^{s1}发给你一份停战邀请。你将如何回复？"
-    },
-    {
-        "text": "Accept",
-        "translation": "接受"
-    },
-    {
-        "text": "Reject",
-        "translation": "拒绝"
-    },
-    {
-        "text": "Enemy_Sighted:_Enemies_have_been_sighted_outside_the_walls_of_{s4},_and_{s5}_and_others_are_preparing_for_a_sortie._You_may_join_them_if_you_wish.",
-        "translation": "敌报：已经在{s4}的城墙外发现敌人。{s5}和其他领主正准备出击。如果愿意的话你可以加入他们。"
-    },
-    {
-        "text": "Kingdom_Fails_to_Respond^^The_{s1}_has_not_responded_to_the_{s2}'s_provocations,_and_{s3}_suffers_a_loss_of_face_among_{reg4?her:his}_more_bellicose_subjects...^",
-        "translation": "王国没有回应^^{s1}没有回应{s2}的挑衅，这导致{s3}在{reg4?她:他}手下的好战派中威信扫地……^"
-    },
-    {
-        "text": "Defection:_{s4}_has_abandoned_the_{s5}_and_joined_the_{s7},_taking_{reg4?her:his}_his_fiefs_with_him",
-        "translation": "背叛：{s4}已经抛弃了{s5}并且加入了{s7}，带着{reg4?她:他}的封地一起"
-    },
-    {
-        "text": "Treason_Indictment^^{s9}",
-        "translation": "叛国控告^^{s9}"
-    },
-    {
-        "text": "Border_incident^^Word_reaches_you_that_{s9}._Though_you_don't_know_whether_or_not_the_rumors_are_true,_you_do_know_one_thing_--_this_seemingly_minor_incident_has_raised_passions_among_the_people_of_the_{s4},_making_it_easier_for_them_to_go_to_war_against_the_{s3}...",
-        "translation": "边界冲突^^有消息传来，{s9}。虽然传言真假未知，但有件事是确定的——这件看来很小的事件在{s4}内部已经掀起轩然大波，使得与{s3}的战争一触即发……"
-    },
-    {
-        "text": "You_now_possess_land_in_your_name,_without_being_tied_to_any_kingdom._This_makes_you_a_monarch_in_your_own_right,_with_your_court_temporarily_located_at_{s12}._However,_the_other_kings_in_the_Northlands_will_at_first_consider_you_a_threat,_for_if_any_upstart_warlord_can_grab_a_throne,_then_their_own_legitimacy_is_called_into_question.^^You_may_find_it_desirable_at_this_time_to_pledge_yourself_to_an_existing_kingdom._If_you_want_to_continue_as_a_sovereign_monarch,_then_your_first_priority_should_be_to_establish_an_independent_right_to_rule._You_can_establish_your_right_to_rule_through_several_means_--_marrying_into_a_high-born_family,_recruiting_new_lords,_governing_your_lands,_treating_with_other_kings,_or_dispatching_your_companions_on_missions.^^At_any_rate,_your_first_step_should_be_to_appoint_a_chief_minister_from_among_your_companions,_to_handle_affairs_of_state._Different_companions_have_different_capabilities.^You_may_appoint_new_ministers_from_time_to_time._You_may_also_change_the_location_of_your_court,_by_speaking_to_the_minister.",
-        "translation": "现在，这片土地被冠以你的名字，而不跟其他王国有任何关系。你成为了一位能独立行使权力的君王，你的宫廷暂时坐落在{s12}。然而，在北地的其他国王的第一反应，就是把你当做一个威胁，因为，如果每一个强势的军阀都可以夺取王位，那么国王的权威肯定会受到质疑。^^你可能觉得这个时候宣誓效忠于一个现有的国家，是个非常不错的选择。如果你想继续当一个拥有主权的君王，那么首先你必须建立自己独立的统治权。这可以通过多个办法进行，比如与出身高贵的家族联姻，吸纳新的领主，管理你的领地，应付其他国王，以及派遣你的盟友去执行任务。^^无论如何，你首先要从你的同伴当中，任命一位首相，来处理各种事务。不同的同伴有不同的才能。^你可以不时地更换你的首相人选，还可以通过与首相对话，改变你的宫廷的所在地。"
-    },
-    {
-        "text": "Appoint_your_wife,_{s10}...",
-        "translation": "任命你的夫人，{s10}……"
-    },
-    {
-        "text": "Appoint_{s10}",
-        "translation": "任命{s10}"
-    },
-    {
-        "text": "Appoint_a_prominent_citizen_from_the_area...",
-        "translation": "任命当地的杰出人才……"
-    },
-    {
-        "text": "{s9}can_be_found_at_your_court_in_{s12}._You_should_consult_your_minister_periodically_to_avoid_the_accumulation_of_unresolved_issues_that_may_sap_your_authority...",
-        "translation": "{s9}正在你{s12}的大厅里。你应该不时向大臣咨询意见，以免悬疑不决的事项削弱你的权力。"
-    },
-    {
-        "text": "Your_kingdom_no_longer_holds_any_land.",
-        "translation": "你的王国失去了所有的领地。"
-    },
-    {
-        "text": "{s8}_wishes_to_inform_you_that_preparations_for_your_wedding_at_{s10}_have_been_completed_and_that_your_presence_is_expected_imminently.",
-        "translation": "{s8}想告诉你，你在{s10}即将举行的婚礼已经准备就绪，望你尽快出席。"
-    },
-    {
-        "text": "{s1}_has_been_besieged_by_{s2}_of_the_{s3}!_^^The_settlement_is_surrounded_and_besieged,_its_warriors_have_stocked_weapons_and_stones,_and_they_hope_to_resist_the_enemy.",
-        "translation": "{s1}被{s3}的{s2}围攻了！^^城镇被敌人围攻，守军有足够的防御，他们希望能够抵挡敌军。"
-    },
-    {
-        "text": "Enemies_have_Laid_Waste_to_a_Fief^^{s1}_has_been_raided_by_{s2}_of_the_{s3}!",
-        "translation": "敌人袭击了你的领地^^{s1}被{s3}的{s2}洗劫了！"
-    },
-    {
-        "text": "Your_Village_is_under_Attack!^^{s2}_of_the_{s3}_is_laying_waste_to_{s1}.",
-        "translation": "你的村子正受到袭击！^^{s3}的{s2}正在破坏{s1}。"
-    },
-    {
-        "text": "The_Northlands_Conquered_by_One_Kingdom^^The_{s1}_has_defeated_all_rivals_and_stands_as_the_sole_kingdom.^^You_are_BRYTENWALDA!",
-        "translation": "北地被一个王国征服了。^^{s1}打败了所有对手并建立了一个统一的王国。^^你是不列颠之王！"
-    },
-    {
-        "text": "Your_Old_Faction_was_Defeated^^You_won_the_battle_against_the_{s1}!_This_ends_your_struggle,_which_started_after_you_renounced_your_oath_to_them.",
-        "translation": "你从前所属的势力被击败了^^你在与{s1}的战斗中取胜了！你从这个势力中脱离了出去。"
-    },
-    {
-        "text": "An_Estate_was_Lost^^You_have_lost_{s1}_to_the_{s2}.",
-        "translation": "领地失去^^因为{s2}你失去了{s1}。"
-    },
-    {
-        "text": "Betrayal!^^{s1}_has_left_the_{s2}_and_joined_the_{s3}.",
-        "translation": "背叛！^^{s1}从{s2}离开了，并加入了{s3}。"
-    },
-    {
-        "text": "Good_news!^^{s1}_has_left_the_{s2}_and_joined_the_{s3}.",
-        "translation": "好消息！^^{s1}从{s2}离开了，并加入了{s3}。"
-    },
-    {
-        "text": "Declaration_of_War^^The_{s1}_has_declared_war_against_the_{s2}!^{s57}^^Blacksmiths_have_stopped_manufacturing_plows_to_forge_swords_and_spears._War_has_been_declared!",
-        "translation": "宣战^^{s1}向{s2}宣战！！^{s57}^^铁匠们停止生产犁转而锻造剑与矛。战争爆发了！"
-    },
-    {
-        "text": "Peace_Agreement^^The_{s1}_and_the_{s2}_have_made_peace!^{s57}^^These_two_peoples_have_stopped_fighting._It_may_only_be_a_temporary_truce_that_some_of_them_take_to_prepare_for_another_war,_or_perhaps_peace_is_sincere_and_lasting.",
-        "translation": "和平协议^^{s1}和{s2}达成了和平协议！^{s57}^^两国军队停止了战斗，这或许只是暂时的停战，另外一场战争正在酝酿，也可能是真挚而又持久的友好关系。"
+        "old_translation": "告诉{s15}，你愿意出任元帅。",
+        "translation": "告诉{s15}，你愿意出任元帅。"
     }
 ]

@@ -1,570 +1,1958 @@
 [
     {
+        "id": "mno_choice_20_2b",
+        "text": "Quickly._Send_all_men_to_protect_the_equipment.",
+        "old_translation": "快！派所有人去保护器械。",
+        "translation": "快！派所有人去保护器械。"
+    },
+    {
+        "id": "mno_choice_20_3b",
+        "text": "Do_not_worry._Our_men_will_guard_it.",
+        "old_translation": "别担心，我们的士兵会守住。",
+        "translation": "别担心，我们的士兵会守住。"
+    },
+    {
+        "id": "menu_no_defendiendo_equip",
+        "text": "The_enemy_has_overcome_our_defenses_and_burned_down_our_equipment.^^Your_casualties:_{s8}^^Enemy_casualties:_{s10}",
+        "old_translation": "敌人突破防线，焚毁了器械。^^你的伤亡：{s8}^^敌人伤亡：{s10}",
+        "translation": "敌人突破防线，焚毁了器械。^^你的伤亡：{s8}^^敌人伤亡：{s10}"
+    },
+    {
+        "id": "mno_defendiendo_1bnde",
+        "text": "We_must_begin_construction_again.",
+        "old_translation": "我们必须重新建造。",
+        "translation": "我们必须重新建造。"
+    },
+    {
+        "id": "menu_defendiendo_equip",
+        "text": "We_have_managed_to_repel_the_enemy,_who_returned_to_the_protection_of_his_walls.^^Your_casualties:_{s8}^^Enemy_casualties:_{s10}",
+        "old_translation": "我们击退了敌人，他们退回城墙。^^你的伤亡：{s8}^^敌人伤亡：{s10}",
+        "translation": "我们成功击退了敌人，他们退回城墙保护之下。^^你的伤亡：{s8}^^敌人伤亡：{s10}"
+    },
+    {
+        "id": "mno_defendiendo_1heq",
+        "text": "Well_done.",
+        "old_translation": "你的人回来了。一名内应已焚毁粮仓，即将逃离{s4}投奔我军。敌军将损失大量存粮。",
+        "translation": "干得漂亮。"
+    },
+    {
+        "id": "menu_defendiendo_mal_equip",
+        "text": "Another_group_of_enemies_has_surrounded_our_positions_and_burned_down_our_siege_equipment_on_the_other_side.^^Your_casualties:_{s8}^^Enemy_casualties:_{s10}",
+        "old_translation": "另一股敌人包围我们，从另一侧烧毁了攻城器械。^^你的伤亡：{s8}^^敌人伤亡：{s10}",
+        "translation": "另一股敌人包围我们，从另一侧烧毁了攻城器械。^^你的伤亡：{s8}^^敌人伤亡：{s10}"
+    },
+    {
+        "id": "menu_event_siege_21",
+        "text": "Your_guards_discovered_several_men_trying_to_sneak_out_at_night_to_escape_your_blockade.",
+        "old_translation": "你的卫兵发现几人趁夜潜出，想突破封锁。",
+        "translation": "你的卫兵发现几人趁夜潜出，想突破封锁。"
+    },
+    {
+        "id": "mno_choice_21_1b",
+        "text": "Allow_them_to_escape.",
+        "old_translation": "放他们走。",
+        "translation": "放他们走。"
+    },
+    {
+        "id": "mno_choice_21_2b",
+        "text": "Kill_them.",
+        "old_translation": "杀了他们。",
+        "translation": "杀了他们。"
+    },
+    {
+        "id": "menu_event_siege_22",
+        "text": "At_night,_your_guards_report_that_they_observed_a_group_of_enemies_dressed_in_sheepskins_heading_to_a_nearby_stream._Right_now,_they_are_filling_leather_sacks_with_water_to_bring_back_to_the_settlement.",
+        "old_translation": "夜里，卫兵报告一队披羊皮的敌人前往溪边，正用皮囊取水回城。",
+        "translation": "夜里，卫兵报告一队披羊皮的敌人前往溪边，正用皮囊取水回城。"
+    },
+    {
+        "id": "mno_atacar_emboscada_player2",
+        "text": "Go_there_with_any_companions_who_want_to_join.",
+        "old_translation": "带上愿意同行的伙伴前往。",
+        "translation": "带上愿意同行的伙伴前往。"
+    },
+    {
+        "id": "mno_choice_22_1b",
+        "text": "Send_men_to_ambush_the_enemy_in_sheepskins.",
+        "old_translation": "派人伏击披羊皮的敌人。",
+        "translation": "派人伏击披羊皮的敌人。"
+    },
+    {
+        "id": "mno_choice_22_2b",
+        "text": "Do_nothing.",
+        "old_translation": "按兵不动。",
+        "translation": "按兵不动。"
+    },
+    {
+        "id": "menu_victoria_ovejas",
+        "text": "Your_soldiers_surrounded_the_enemy_in_sheepskins_and_fell_upon_them_by_surprise,_spreading_death.^^Your_casualties:_{s8}^^Enemy_casualties:_{s10}",
+        "old_translation": "士兵包围并突袭披羊皮的敌人，将其全歼。^^你的伤亡：{s8}^^敌人伤亡：{s10}",
+        "translation": "士兵包围并突袭披羊皮的敌人，将其全歼。^^你的伤亡：{s8}^^敌人伤亡：{s10}"
+    },
+    {
+        "id": "mno_defendiendo_1lovej",
+        "text": "Perfect!",
+        "old_translation": "漂亮！",
+        "translation": "漂亮！"
+    },
+    {
+        "id": "menu_derrota_ovejas",
+        "text": "It's_a_trap!_{reg59?Lady:Sir},_the_men_dressed_in_sheepskins_were_a_decoy_to_bring_out_our_men_and_ambush_them._Many_were_killed_before_returning_to_the_protection_of_our_circumvallation.^^Your_casualties:_{s8}^^Enemy_casualties:_{s10}",
+        "old_translation": "中计了！{reg59?女士:先生}，披羊皮的是诱饵，引我们出营遭伏，多人未能撤回营垒。^^你的伤亡：{s8}^^敌人伤亡：{s10}",
+        "translation": "中计了！{reg59?女士:先生}，披羊皮的是诱饵，引我们出营遭伏，多人未能撤回营垒。^^你的伤亡：{s8}^^敌人伤亡：{s10}"
+    },
+    {
+        "id": "mno_defendiendo_1poveja",
+        "text": "That_is_terrible.",
+        "old_translation": "太糟了。",
+        "translation": "太糟了。"
+    },
+    {
+        "id": "menu_tablas_ovejas",
+        "text": "Your_soldiers_were_deployed_to_surround_the_enemy,_but_they_were_too_slow_and_noisy._The_men_in_sheepskins_sensed_the_threat_and_returned_to_the_settlement_quickly.",
+        "old_translation": "士兵奉命包围，却迟缓嘈杂，披羊皮的敌人察觉后迅速撤回。",
+        "translation": "士兵奉命包围，却迟缓嘈杂，披羊皮的敌人察觉后迅速撤回。"
+    },
+    {
+        "id": "mno_defendiendo_1oveja2",
+        "text": "Well,_next_time.",
+        "old_translation": "下次再说。",
+        "translation": "下次再说。"
+    },
+    {
+        "id": "menu_event_siege_23",
+        "text": "Today_a_mercenary_who_wants_to_join_our_ranks_came_to_our_camp._He_says_he_is_an_exile_from_the_place_that_we_are_besieging,_and_he_wants_revenge.",
+        "old_translation": "今天，一名想加入我们的雇佣兵来到营地。他自称是被我们围攻之地的流亡者，想要复仇。",
+        "translation": "今天，一名想加入我们的雇佣兵来到营地。他自称是被我们围攻之地的流亡者，想要复仇。"
+    },
+    {
+        "id": "mno_choice_23_1b",
+        "text": "Accept_him.",
+        "old_translation": "接受他。",
+        "translation": "接受他。"
+    },
+    {
+        "id": "mno_choice_23_2b",
+        "text": "I_don't_need_more_men.",
+        "old_translation": "我不需要更多人。",
+        "translation": "我不需要更多人。"
+    },
+    {
+        "id": "menu_event_siege_24",
+        "text": "We_have_accumulated_the_heads_of_enemies_and_dead_peasants._Do_you_want_to_launch_them_over_the_walls_to_undermine_the_morale_of_the_enemy_and_cause_disease?",
+        "old_translation": "我们已收集敌军与死去农民的脑袋。你要把它们抛过城墙，以打击敌军士气并散播疾病吗？",
+        "translation": "我们已收集敌军与死去农民的脑袋。你要把它们抛过城墙，以打击敌军士气并散播疾病吗？"
+    },
+    {
+        "id": "mno_choice_24_1b",
+        "text": "What?_You're_a_crazy_maniac._Do_not_do_that!",
+        "old_translation": "什么？你这疯子。别干这事！",
+        "translation": "什么？你这疯子。别干这事！"
+    },
+    {
+        "id": "mno_choice_24_2b",
+        "text": "Sure,_it_will_be_useful_when_negotiating_their_surrender.",
+        "old_translation": "当然，这会在谈判投降时派上用场。",
+        "translation": "当然，这会在谈判投降时派上用场。"
+    },
+    {
+        "id": "menu_cabezas_moral",
+        "text": "The_heads_are_launched_into_the_settlement._From_the_outside,_you_hear_the_cries_and_tears_of_the_citizens_when_they_recognize_a_loved_one._War_is_merciless,_and_you've_proven_you're_the_most_terrible_of_foes.",
+        "old_translation": "头颅被抛入城中。墙外传来市民认出亲人后的哭喊与哀号。战争无情，你已证明自己是最可怕的敌人。",
+        "translation": "头颅被抛入城中。墙外传来市民认出亲人后的哭喊与哀号。战争无情，你已证明自己是最可怕的敌人。"
+    },
+    {
+        "id": "mno_defendiendo_1q",
+        "text": "This_will_help_them_give_up..._or_die...",
+        "old_translation": "这会迫使他们投降……或死亡……",
+        "translation": "这会迫使他们投降……或死亡……"
+    },
+    {
+        "id": "menu_event_siege_25",
+        "text": "A_merchant_offers_a_group_of_dancers_to_entertain_your_men_during_the_night.",
+        "old_translation": "一名商人带来一群舞女，愿在夜里为你的士兵助兴。",
+        "translation": "一名杂货商人带来一群舞女，愿在夜里为你的士兵助兴。"
+    },
+    {
+        "id": "mno_choice_25_1b",
+        "text": "This_will_just_distract_and_tire_my_men.",
+        "old_translation": "这只会让我的士兵分心又疲惫。",
+        "translation": "这只会让我的士兵分心又疲惫。"
+    },
+    {
+        "id": "mno_choice_25_2b",
+        "text": "Hire_dancers_just_for_yourself_(100_peningas).",
+        "old_translation": "只为自己雇舞女（100银便士）。",
+        "translation": "只为自己雇舞女（100银便士）。"
+    },
+    {
+        "id": "mno_choice_25_3b",
+        "text": "Hire_dancers_for_your_men_(500_peningas).",
+        "old_translation": "为士兵们雇舞女（500银便士）。",
+        "translation": "为士兵们雇舞女（500银便士）。"
+    },
+    {
+        "id": "menu_event_siege_26",
+        "text": "A_group_of_bandits_approaches_your_camp._As_your_men_reach_for_their_arms,_the_bandits_put_down_their_weapons_and_say_they_come_in_peace._The_leader_of_the_bandits_steps_forward_and_asks_if_they_may_join_you.",
+        "old_translation": "一伙山贼逼近营地。士兵们刚要拔剑，山贼却放下武器，声称无意为敌。山贼首领上前，请求加入。",
+        "translation": "一伙山贼逼近营地。士兵们刚要拔剑，山贼却放下武器，声称无意为敌。山贼首领上前，请求加入。"
+    },
+    {
+        "id": "mno_choice_26_1b",
+        "text": "Of_course!_Such_promising_men_are_always_welcome!",
+        "old_translation": "当然！如此有前途的战士永远受欢迎！",
+        "translation": "当然！如此有前途的战士永远受欢迎！"
+    },
+    {
+        "id": "mno_choice_26_2b",
+        "text": "I'm_sorry._We_have_no_room_for_your_kind!",
+        "old_translation": "抱歉，我们不收你们这种人！",
+        "translation": "抱歉，我们不收你们这种人！"
+    },
+    {
+        "id": "mno_choice_26_3b",
+        "text": "Prove_yourselves_worthy_by_raiding_a_village.",
+        "old_translation": "去劫掠一个村子，证明你们的价值。",
+        "translation": "去劫掠一个村子，证明你们的价值。"
+    },
+    {
+        "id": "mno_choice_26_4b",
+        "text": "Kill_them_all!",
+        "old_translation": "杀光他们！",
+        "translation": "杀光他们！"
+    },
+    {
+        "id": "menu_sanguinario_p",
+        "text": "After_two_hours,_the_bandits_return_with_some_loot_and_someone's_head...",
+        "old_translation": "两小时后，山贼带着战利品和一颗人头归来……",
+        "translation": "两小时后，山贼带着战利品和一颗人头归来……"
+    },
+    {
+        "id": "mno_choice_26_5b",
+        "text": "Well_done!_An_officer_will_show_you_to_your_places.",
+        "old_translation": "干得好！军官会带你们去安置。",
+        "translation": "干得好！军官会带你们去安置。"
+    },
+    {
+        "id": "menu_event_siege_27",
+        "text": "Several_merchants_approach_you_wanting_to_sell_goods_in_the_camp_that_has_formed_close_to_yours_with_the_wives_of_the_soldiers,_prostitutes,_refugees,_children_and_other_followers_of_the_army.",
+        "old_translation": "几名商人前来，想在靠近你营地的集市卖货，那里已聚集士兵的妻子、妓女、难民、小孩和其他随军者。",
+        "translation": "几名商人前来，想在靠近你营地的集市卖货，那里已聚集士兵的妻子、妓女、难民、小孩和其他随军者。"
+    },
+    {
+        "id": "mno_choice_27_1b",
+        "text": "They_(and_their_money)_are_welcome.",
+        "old_translation": "欢迎他们（和他们的钱）。",
+        "translation": "欢迎他们（和他们的钱）。"
+    },
+    {
+        "id": "mno_choice_27_2b",
+        "text": "There_are_enough_merchants_already.",
+        "old_translation": "这里已经有足够的商人了。",
+        "translation": "这里已经有足够的商人了。"
+    },
+    {
+        "id": "mno_choice_27_3b",
+        "text": "Kill_them_and_steal_their_money.",
+        "old_translation": "把他们杀光，再抢走他们的钱。",
+        "translation": "把他们杀光，再抢走他们的钱。"
+    },
+    {
+        "id": "menu_event_siege_28",
+        "text": "To_make_the_food_last_longer,_the_defenders_threw_out_their_women,_children_and_elderly._You_can_see_them_moving_towards_your_circumvallation,_begging_for_food.",
+        "old_translation": "为了让食物多撑些时日，守军把女人、小孩和老人赶了出来。你看见他们正朝你的围城工事走来，向你讨吃的。",
+        "translation": "为了让食物多撑些时日，守军把女人、小孩和老人赶了出来。你看见他们正朝你的围城工事走来，向你讨吃的。"
+    },
+    {
+        "id": "mno_choice_28_1b",
+        "text": "Send_soldiers_to_kill_the_children_and_elderly,_taking_the_women.",
+        "old_translation": "派兵去杀掉小孩和老人，把女人带走。",
+        "translation": "派兵去杀掉小孩和老人，把女人带走。"
+    },
+    {
+        "id": "mno_choice_28_2b",
+        "text": "Buy_food_for_them_(1000_peningas)._Then_let_them_leave.",
+        "old_translation": "给他们买食物（1000银便士），然后放他们离开。",
+        "translation": "给他们买食物（1000银便士），然后放他们离开。"
+    },
+    {
+        "id": "mno_choice_28_3b",
+        "text": "Do_not_give_them_anything._Allow_them_to_die_of_starvation.",
+        "old_translation": "什么都不给，让他们饿死。",
+        "translation": "什么都不给，让他们饿死。"
+    },
+    {
+        "id": "menu_event_siege_29",
+        "text": "One_of_your_soldiers,_angered_by_the_long_siege,_rapes_the_wife_of_one_of_your_officers.",
+        "old_translation": "你的一名士兵因久攻不下而愤怒，强奸了你一位军官的妻子。",
+        "translation": "你的一名士兵因久攻不下而愤怒，强奸了你一位军官的妻子。"
+    },
+    {
+        "id": "mno_choice_29_1b",
+        "text": "Ignore_the_situation.",
+        "old_translation": "无视此事。",
+        "translation": "无视此事。"
+    },
+    {
+        "id": "mno_choice_29_2b",
+        "text": "Punish_the_soldier.",
+        "old_translation": "惩罚这名士兵。",
+        "translation": "惩罚这名士兵。"
+    },
+    {
+        "id": "mno_choice_29_3b",
+        "text": "Execute_the_soldier.",
+        "old_translation": "处决这名士兵。",
+        "translation": "处决这名士兵。"
+    },
+    {
+        "id": "mno_choice_29_4b",
+        "text": "Pay_wergild_(compensation)_to_the_officer_(1000_peningas).",
+        "old_translation": "向军官支付赔偿金（1000银便士）。",
+        "translation": "向军官支付赔偿金（1000银便士）。"
+    },
+    {
+        "id": "menu_lucha_oficial",
+        "text": "Your_officer_kills_the_soldier_and_there_is_a_brawl_between_some_friends_of_the_soldier_and_those_loyal_to_your_officer,_leaving_some_dead.",
+        "old_translation": "你的军官杀了那名士兵，士兵的朋友与军官的部下爆发斗殴，死了几个人。",
+        "translation": "你的军官杀了那名士兵，士兵的朋友与军官的部下爆发斗殴，死了几个人。"
+    },
+    {
+        "id": "mno_defendiendo_1z",
+        "text": "That_is_terrible.",
+        "old_translation": "太糟了。",
+        "translation": "太糟了。"
+    },
+    {
+        "id": "menu_messenger_system",
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'My_masters_sent_me_to_tell_you_that_the_messenger_you_sent_was_found_dead_on_the_side_of_the_road._We're_sorry_to_inform_you_that_your_message_never_reached_its_destination._We_will_be_at_your_disposal_for_any_other_message_that_you_need_to_send._You_know_where_to_find_us.'",
+        "old_translation": "这太糟了。",
+        "translation": "一名信使策马而来，在你面前勒马停下，喘了口气喊道：^^“我的主人派我来告诉你，你派出的信使被发现死在路边。很遗憾，你的信没能送达。如需再派信，尽管来找我们，你知道在哪儿。”"
+    },
+    {
+        "id": "mno_error_1",
+        "text": "Continue.",
+        "old_translation": "后退",
+        "translation": "继续。"
+    },
+    {
+        "id": "menu_messenger_system2",
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'My_masters_sent_me_to_tell_you_that_the_messenger_you_sent_to_{s9}_was_found_dead_on_the_side_of_the_road._We're_sorry_to_inform_you_that_your_message_never_reached_its_destination._We_will_be_at_your_disposal_for_any_other_message_that_you_need_to_send._You_know_where_to_find_us.'",
+        "old_translation": "一名信使策马而来，在你面前勒马停下，喘了口气喊道：^^“我的主人派我来告诉你，你派出的信使被发现死在路边。很遗憾，你的信没能送达。如需再派信，尽管来找我们，你知道在哪儿。”",
+        "translation": "一名信使策马而来，在你面前勒马停下，喘了口气喊道：^^“我的主人派我来告诉你，你派往{s9}的信使被发现死在路边。很遗憾，你的信没能送达。如需再派信，尽管来找我们，你知道在哪儿。”"
+    },
+    {
+        "id": "mno_finish_m",
+        "text": "Bad_luck.",
+        "old_translation": "一名信使策马而来，在你面前勒马停下，喘了口气喊道：^^“我的主人派我来告诉你，你派往{s9}的信使被发现死在路边。很遗憾，你的信没能送达。如需再派信，尽管来找我们，你知道在哪儿。”",
+        "translation": "真倒霉。"
+    },
+    {
+        "id": "menu_messenger_system_res_failure",
+        "text": "A_messenger_approaches,_galloping._He_stops_in_front_of_you,_takes_a_breath_and_shouts:^^'My_masters_sent_me_to_tell_you_that_the_messenger_you_sent_was_found_dead_on_the_side_of_the_road._We're_sorry_to_inform_you_that_your_message_never_reached_its_destination._We_will_be_at_your_disposal_for_any_other_message_that_you_need_to_send._You_know_where_to_find_us.'",
+        "old_translation": "这太糟了。",
+        "translation": "一名信使策马而来，在你面前勒马停下，喘了口气喊道：^^“我的主人派我来告诉你，你派出的信使被发现死在路边。很遗憾，你的信没能送达。如需再派信，尽管来找我们，你知道在哪儿。”"
+    },
+    {
+        "id": "mno_finish_m2",
+        "text": "Bad_luck.",
+        "old_translation": "一名信使策马而来，在你面前勒马停下，喘了口气喊道：^^“我的主人派我来告诉你，你派往{s9}的信使被发现死在路边。很遗憾，你的信没能送达。如需再派信，尽管来找我们，你知道在哪儿。”",
+        "translation": "真倒霉。"
+    },
+    {
+        "id": "mno_Continue_msse",
+        "text": "Thank_for_your_service.",
+        "old_translation": "感谢您的效力。",
+        "translation": "感谢您的效力。"
+    },
+    {
+        "id": "mno_Continue_mess2",
+        "text": "Well.",
+        "old_translation": "嗯。",
+        "translation": "嗯。"
+    },
+    {
+        "id": "mno_Continue_mess3",
+        "text": "Well.",
+        "old_translation": "嗯。",
+        "translation": "嗯。"
+    },
+    {
+        "id": "mno_Continue_mess4",
+        "text": "Well.",
+        "old_translation": "嗯。",
+        "translation": "嗯。"
+    },
+    {
+        "id": "mno_Continue_mess5",
+        "text": "Well.",
+        "old_translation": "嗯。",
+        "translation": "嗯。"
+    },
+    {
+        "id": "mno_Continue_mess6",
+        "text": "Thank_you_for_your_service.",
+        "old_translation": "嗯。",
+        "translation": "感谢您的效力。"
+    },
+    {
+        "id": "mno_Continue_mess7",
+        "text": "Thank_you_for_your_service.",
+        "old_translation": "嗯。",
+        "translation": "感谢您的效力。"
+    },
+    {
+        "id": "mno_Continue_messeng1",
+        "text": "Thank_you_for_your_service.",
+        "old_translation": "嗯。",
+        "translation": "感谢您的效力。"
+    },
+    {
+        "id": "mno_Continue_messeng2",
+        "text": "Thank_you_for_your_service.",
+        "old_translation": "嗯。",
+        "translation": "感谢您的效力。"
+    },
+    {
+        "id": "mno_Continue_messeng3",
+        "text": "I_have_my_war.",
+        "old_translation": "嗯。",
+        "translation": "我有我的战争。"
+    },
+    {
+        "id": "menu_random_juice_events",
+        "text": "Events",
+        "old_translation": "事件",
+        "translation": "事件"
+    },
+    {
+        "id": "menu_event_01_juicio",
+        "text": "Two_farmers,_one_very_tall_and_lanky,_the_other_low_and_stocky,_were_presented_to_you_to_discuss_the_ownership_of_a_calf._Apparently,_their_fields_bordered_each_other,_and_the_tall_farmer_had_a_bull_that_impregnated_a_cow_belonging_to_the_other._The_stocky_farmer_said_the_calf_was_his,_because_it_was_his_cow_giving_birth._The_tall_farmer_claimed_the_calf_to_be_his,_being_the_offspring_of_his_best_bull._He_said_he_should_at_least_get_stud_fees.",
+        "old_translation": "嗯。",
+        "translation": "两名农民被带到你面前，一个又高又瘦，另一个矮而壮实，他们要你裁决一头小牛的归属。原来他们的田地相邻，高个农民的公牛让矮个农民的母牛怀了孕。矮个农民说小牛是他的，因为是他的母牛所生；高个农民则称小牛应归他，因为那是他最好的公牛的后代，至少该给他配种费。"
+    },
+    {
+        "id": "mno_choice_01_1nj",
+        "text": "The_owner_of_the_cow_is_right._The_calf_is_his,_just_like_the_cow_is.",
+        "old_translation": "感谢您的效力。",
+        "translation": "母牛的主人是对的，小牛归他，正如母牛一样。"
+    },
+    {
+        "id": "mno_choice_01_2nj",
+        "text": "The_owner_of_the_bull_is_right._The_bull_is_his_and_the_calf_too.",
+        "old_translation": "感谢您的效力。",
+        "translation": "公牛的主人是对的，公牛是他的，小牛也是。"
+    },
+    {
+        "id": "mno_choice_01_3nj",
+        "text": "The_owner_of_the_cow_keeps_the_calf_and_pays_compensation_to_the_other.",
+        "old_translation": "感谢您的效力。",
+        "translation": "母牛的主人留下小牛，并向对方支付补偿。"
+    },
+    {
+        "id": "mno_choice_01_4nj",
+        "text": "Neither_is_right._I'll_slaughter_the_calf_for_its_meat_and_give_some_to_my_men!",
+        "old_translation": "感谢您的效力。",
+        "translation": "两人都不对。我要把小牛宰了吃肉，分给我的手下！"
+    },
+    {
+        "id": "mno_choice_01_5nj",
+        "text": "Neither_is_right._Kill_the_calf_and_give_the_meat_to_both_farmers!",
+        "old_translation": "我有我的战争。",
+        "translation": "两人都不对。把小牛宰了，把肉分给两个农民！"
+    },
+    {
+        "id": "menu_event_02_juicio",
+        "text": "My_{reg59?lady:lord},_we_captured_a_murderer!_This_is_the_man_who_attacked_one_of_our_messengers_in_{s4},_who_is_lying_seriously_injured_in_bed._This_doesn't_show_us_in_a_good_light,_for_the_messenger_was_under_your_protection._However,_the_attacker_has_an_interesting_story,_and_he_wishes_to_talk_to_you_before_his_execution.^^The_prisoner's_story:_'My_{reg59?lady:lord},_I_would_have_never_thought_of_attacking_your_messenger,_but_that_man_wished_to_sleep_with_my_young_daughter_at_night,_and_this_offer_was_refused!_However,_he_did_not_accept_our_answer,_entered_my_house_with_three_friends,_and_raped_my_dear_daughter,_laughingly_telling_me_all_the_while_that_you_would_never_believe_the_word_of_a_commoner._A_father_must_protect_his_only_child!'",
+        "old_translation": "事件",
+        "translation": "“我的{reg59?夫人:大人}，我们抓到了凶手！就是他在{s4}袭击了我们的信使，信使如今重伤卧床。这让我们脸上无光，因为信使受您保护。然而，凶手有番说辞，想在处决前与您一谈。^^凶手的故事：‘我的{reg59?夫人:大人}，我绝不会袭击您的信使，可那人夜里想睡我年幼的女儿，被我们拒绝！他不罢休，带三个朋友闯进我家，强奸了我亲爱的女儿，还笑着说我永远不可能相信一个平民的话。做父亲的必须保护唯一的孩子！’”},{"
+    },
+    {
+        "id": "mno_choice_02_1nj",
+        "text": "He_was_under_my_protection._You_and_your_family_will_be_executed.",
+        "old_translation": "两位农民被带到你面前，一个又高又瘦，另一个矮而壮实，他们要你裁决一头小牛的归属。原来他们的田地相邻，高个农民的公牛让矮个农民的母牛怀了孕。矮个农民说小牛是他的，因为是他的母牛所生；高个农民则称小牛应归他，因为那是他最好的公牛的后代，至少该给他配种费。",
+        "translation": "他曾受我保护。你和你的家人将被处决。"
+    },
+    {
+        "id": "mno_choice_02_2nj",
+        "text": "I_will_be_reasonable:_only_you_will_be_hanged.",
+        "old_translation": "母牛的主人是对的，小牛归他，正如母牛一样。",
+        "translation": "我会留点情：只绞死你一人。"
+    },
+    {
+        "id": "mno_choice_02_3nj",
+        "text": "Even_though_he_was_my_servant,_I_would_have_done_the_same._You_can_go.",
+        "old_translation": "即使他曾是我的仆人，我也会这么做。你可以走了。",
+        "translation": "即使他曾是我的仆人，我也会这么做。你可以走了。"
+    },
+    {
+        "id": "mno_choice_02_4nj",
+        "text": "I_order_him_to_be_hanged._No_one_should_take_advantage_of_their_position.",
+        "old_translation": "我下令将他绞死。任何人都不该仗势欺人。",
+        "translation": "我下令将他绞死。任何人都不该仗势欺人。"
+    },
+    {
+        "id": "menu_event_03_juicio",
+        "text": "You_summon_two_men_to_decide_a_dispute_between_them._One_is_a_local_leader,_while_the_other_is_a_farmer_who_rents_the_land_of_the_leader.^^The_man_says_his_harvest_was_poor_and_cannot_pay_the_rent,_so_the_leader_took_the_farmer's_daughter_to_his_own_bed_and_as_a_servant_in_his_house._The_local_leader_is_an_influential_figure_within_{s4}.",
+        "old_translation": "你召来两人裁决争端。一方是地方领袖，另一方是向他租地的农民。^^农夫说收成太差，交不起租，领袖便把农夫的女儿带进自己房里，既当侍女又当床伴。这位地方领袖在{s4}颇有势力。",
+        "translation": "你召来两人裁决争端。一方是地方领袖，另一方是向他租地的农民。^^农夫说收成太差，交不起租，领袖便把农夫的女儿带进自己房里，既当侍女又当床伴。这位地方领袖在{s4}颇有势力。"
+    },
+    {
+        "id": "mno_choice_03_1nj",
+        "text": "Punish_the_farmer._He_must_pay_rent_to_his_lord.",
+        "old_translation": "惩罚农民，他必须向领主交租。",
+        "translation": "惩罚农民，他必须向领主交租。"
+    },
+    {
+        "id": "mno_choice_03_2nj",
+        "text": "Punish_the_local_leader._He_has_no_right_to_take_the_farmer's_daughter.",
+        "old_translation": "惩罚地方领袖，他无权夺走农夫的女儿。",
+        "translation": "惩罚地方领袖，他无权夺走农夫的女儿。"
+    },
+    {
+        "id": "mno_choice_03_3nj",
+        "text": "Kill_the_noble_and_force_the_farmer_to_join_your_army_for_not_paying_his_taxes.",
+        "old_translation": "杀掉贵族，并因农夫欠税而强征他入伍。",
+        "translation": "杀掉贵族，并因农民欠税而强征他入伍。"
+    },
+    {
+        "id": "mno_choice_03_4nj",
+        "text": "Compensate_the_noble_yourself_for_the_tribute_and_send_the_girl_back.",
+        "old_translation": "你自掏腰包补偿贵族的租税，并把女孩送回去。",
+        "translation": "你自掏腰包补偿贵族的贡金，并把女孩送回去。"
+    },
+    {
+        "id": "mno_choice_03_5nj",
+        "text": "Compensate_the_farmer_by_paying_wergild_for_daughter_who_was_raped.",
+        "old_translation": "为被玷污的女儿向农夫支付偿命金。",
+        "translation": "为被玷污的女儿向农民支付偿命金。"
+    },
+    {
+        "id": "menu_farmer_attack_lord",
+        "text": "Not_satisfied_with_your_decision,_the_farmer_pulls_out_his_seax_and_pounces_on_the_local_leader,_killing_him_before_your_men_can_do_anything._Then_he_turns_to_you_and_says,_'This_is_justice,_bastard!'_Then_with_the_same_seax,_he_kills_himself.",
+        "old_translation": "农夫不服判决，拔出海克斯短刀猛扑向地方领袖，在你的手下反应过来前便将其刺死。他转身对你说：“这就是公道，杂种！”随后用同一把刀自尽。",
+        "translation": "农民不服判决，拔出海克斯短刀猛扑向地方领袖，在你的手下反应过来前便将其刺死。他转身对你说：“这就是公道，杂种！”随后用同一把刀自尽。"
+    },
+    {
+        "id": "mno_choice_03_1attackj",
+        "text": "Continue.",
+        "old_translation": "后退",
+        "translation": "继续。"
+    },
+    {
+        "id": "menu_event_04_juicio",
+        "text": "One_of_your_sworn_men_approaches_you._He_states_his_fears_that,_among_the_men,_there_is_much_dissatisfaction._Reason_being_that_you_are_too_placid_and_that_there_is_too_little_gold_and_honour_to_be_won_in_your_service.",
+        "old_translation": "一名誓死追随你的部下走近，坦言军中怨声四起。众人嫌你过于温吞，跟着你既捞不到黄金也挣不到荣誉。",
+        "translation": "一名誓死追随你的部下走近，坦言军中怨声四起。众人嫌你过于温吞，跟着你既捞不到黄金也挣不到荣誉。"
+    },
+    {
+        "id": "mno_choice_04_1nj",
+        "text": "Pay_the_men_and_give_rings_to_them.",
+        "old_translation": "发饷并赐给他们指环。",
+        "translation": "发饷并赐给他们指环。"
+    },
+    {
+        "id": "mno_choice_04_2nj",
+        "text": "The_men_are_released_from_their_oaths_if_they_want_to_leave.",
+        "old_translation": "若有人想走，可解除他们的誓言。",
+        "translation": "若有人想走，可解除他们的誓言。"
+    },
+    {
+        "id": "mno_choice_04_3nj",
+        "text": "Kill_the_man_who_approached_you_and_state_there_shall_be_no_more_talk_of_sedition.",
+        "old_translation": "当众处决进言者，并宣布再敢煽动者同罪。",
+        "translation": "当众处决进言者，并宣布再敢煽动者同罪。"
+    },
+    {
+        "id": "mno_choice_04_4nj",
+        "text": "Promise_to_change_your_leadership_style.",
+        "old_translation": "承诺改变你的统御之道。",
+        "translation": "承诺改变你的统御之道。"
+    },
+    {
+        "id": "menu_event_05_juicio",
+        "text": "In_{s4},_a_man_is_brought_before_you._Your_men_inform_you_that_he_refuses_to_pay_taxes_to_the_kingdom,_and_therefore_to_you._The_man_insists_that_he_will_not_pay_taxes_until_the_kingdom_gives_him_back_his_boys,_all_of_them_killed_in_recent_wars.",
+        "old_translation": "在{s4}，一人被带到你面前。手下禀报此人拒向王国——也就是向你——纳税。那人坚称，除非王国把他的儿子们还回来，否则绝不交税；而他的儿子们皆已死于最近的战事。",
+        "translation": "在{s4}，一人被带到你面前。手下禀报此人拒向王国——也就是向你——纳税。那人坚称，除非王国把他的儿子们还回来，否则绝不交税；而他的儿子们皆已死于最近的战事。"
+    },
+    {
+        "id": "mno_choice_05_1nj",
+        "text": "This_man_has_already_lost_enough._Forgive_his_taxes_for_life.",
+        "old_translation": "此人已失去太多，免他终身赋税。",
+        "translation": "此人已失去太多，免他终身赋税。"
+    },
+    {
+        "id": "mno_choice_05_2nj",
+        "text": "Punish_this_man_with_death_if_he_does_not_pay.",
+        "old_translation": "若仍拒缴，便以死罪惩处。",
+        "translation": "若仍拒缴，便以死罪惩处。"
+    },
+    {
+        "id": "mno_choice_05_3nj",
+        "text": "Pay_the_man_a_wergild_for_the_death_of_his_boys.",
+        "old_translation": "为他的亡子支付偿命金。",
+        "translation": "为他的亡子支付偿命金。"
+    },
+    {
+        "id": "menu_nobody_want_paytax",
+        "text": "Suddenly,_the_room_where_you_exercise_your_legal_authority_is_crowded_with_people_who_have_lost_sons_to_war,_all_demanding_equal_treatment.",
+        "old_translation": "突然，你行使司法的厅堂被一群因战争丧子的人挤满，他们齐声要求同等待遇。",
+        "translation": "突然，你行使司法的厅堂被一群因战争丧子的人挤满，他们齐声要求同等待遇。"
+    },
+    {
+        "id": "mno_choice_05_2notaxj",
+        "text": "Distribute_bags_of_money_among_the_people_as_compensation_(2000_peningas).",
+        "old_translation": "向百姓分发钱袋作为赔偿（2000银便士）。",
+        "translation": "向百姓分发钱袋作为赔偿（2000银便士）。"
+    },
+    {
+        "id": "mno_choice_05_3notaxj",
+        "text": "Having_no_money_for_all_these_people,_you_order_your_men_to_disperse_the_crowd.",
+        "old_translation": "手头没有足够钱财应付这么多人，你命手下驱散人群。",
+        "translation": "手头没有足够钱财应付这么多人，你命手下驱散人群。"
+    },
+    {
+        "id": "mno_choice_05_4notaxj",
+        "text": "Run_out,_escorted_by_your_men,_away_from_the_crowd.",
+        "old_translation": "在士兵护送下冲出人群，远离现场。",
+        "translation": "在士兵护送下冲出人群，远离现场。"
+    },
+    {
+        "id": "menu_event_06_juicio",
+        "text": "Two_men_come_to_you._Your_men_say_they_are_ready_to_kill_each_other._One_of_them_has_cut_some_old_oaks_that_were_blocking_traffic_on_the_way,_but_they_were_actually_within_the_borders_of_the_estate_of_the_other.^^'Those_trees_made_the_passage_of_my_cart_difficult!'_exclaims_the_first_one._'We_are_only_talking_about_trees._I_do_not_understand_this_suit!'^^'Those_trees_were_on_my_land,_planted_by_my_father,_recently_deceased,'_shouts_the_other.",
+        "old_translation": "两人来到你面前。手下说他们已拔剑相向。一人砍倒几棵阻碍道路的老橡树，却砍在他人领地之内。^^“那些树挡了我的车！”第一人喊道。“不过是几棵树，我不明白这算什么官司！”^^“那些树长在我的土地上，是我刚过世的父亲亲手种下。”另一人怒吼。",
+        "translation": "两人来到你面前。手下说他们已拔剑相向。一人砍倒几棵阻碍道路的老橡树，却砍在他人领地之内。^^“那些树挡了我的车！”第一人喊道。“不过是几棵树，我不明白这算什么官司！”^^“那些树长在我的土地上，是我刚过世的父亲亲手种下。”另一人怒吼。"
+    },
+    {
+        "id": "mno_choice_06_1nj",
+        "text": "The_man_who_cut_the_trees_must_pay_to_the_other_in_compensation.",
+        "old_translation": "砍树人必须向对方赔偿。",
+        "translation": "砍树人必须向对方赔偿。"
+    },
+    {
+        "id": "mno_choice_06_2nj",
+        "text": "Trees_hindered_the_way._They_had_to_be_cut.",
+        "old_translation": "树挡了路，本就该砍。",
+        "translation": "树挡了路，本就该砍。"
+    },
+    {
+        "id": "mno_choice_06_3nj",
+        "text": "The_man_who_cut_the_trees_must_give_money_to_the_other_and_to_you_as_punishment.",
+        "old_translation": "砍树人须向对方与你缴纳罚金。",
+        "translation": "砍树人须向对方与你缴纳罚金。"
+    },
+    {
+        "id": "menu_event_07_juicio",
+        "text": "The_harvest_this_year_promises_to_be_very_bad,_which_means_starvation_for_the_winter._What_should_we_do?",
+        "old_translation": "今年收成惨淡，冬天恐将挨饿。我们该怎么办？",
+        "translation": "今年收成惨淡，冬天恐将挨饿。我们该怎么办？"
+    },
+    {
+        "id": "mno_choice_07_1nj",
+        "text": "Buy_some_wagons_of_grain_from_other_places._(1000_peningas)",
+        "old_translation": "从外地购入几车粮食。（1000银便士）",
+        "translation": "从外地购入几车粮食。（1000银便士）"
+    },
+    {
+        "id": "mno_choice_07_2nj",
+        "text": "I_do_not_have_enough_money_to_buy_food_elsewhere.",
+        "old_translation": "我手头没钱去外地买粮。",
+        "translation": "我手头没钱去外地买粮。"
+    },
+    {
+        "id": "mno_choice_07_3nj",
+        "text": "Serves_them_right_for_not_tending_to_their_crops_carefully_enough!",
+        "old_translation": "谁让他们没好好侍弄庄稼，活该！",
+        "translation": "谁让他们没好好侍弄庄稼，活该！"
+    },
+    {
+        "id": "mno_choice_07_4nj",
+        "text": "Buy_some_grain_to_alleviate_the_problem._(500_peningas)",
+        "old_translation": "购入部分粮食缓解困境。（500银便士）",
+        "translation": "买些粮食来缓解困境。（500银便士）"
+    },
+    {
+        "id": "menu_event_08_juicio",
+        "text": "One_of_the_local_leaders_approaches_you_stating_that_he_has_an_illegitimate_son_(whom_he_favours)_who_wishes_to_join_your_captains._You_agree_to_meet_the_boy,_as_it_would_be_unseemly_to_reject_a_noble_outright._When_you_meet_the_boy,_however,_it_is_clear_that_he_is_a_homebody,_certainly_not_warrior_material._Faced_with_this_plump,_smiling_youth_do_you:",
+        "old_translation": "一位地方首领前来，说他有个私生子（他极宠爱）想加入你的船长行列。你同意见那孩子，毕竟直接拒绝贵族有失体面。可见面后，那少年胖乎乎、笑眯眯，显然不是战士的料。面对他，你：",
+        "translation": "一位地方领袖前来，说他有个私生子（他十分偏爱）想加入你的船长队伍。你同意见那孩子，毕竟直接拒绝贵族有失体面。可见面后，那少年胖乎乎、笑眯眯，显然不是战士的料。面对他，你："
+    },
+    {
+        "id": "mno_choice_08_1nj",
+        "text": "Allow_him_to_join_your_captains.",
+        "old_translation": "允许他加入船长行列。",
+        "translation": "允许他加入船长队伍。"
+    },
+    {
+        "id": "mno_choice_08_2nj",
+        "text": "Ask_for_payment_to_grease_the_deal.",
+        "old_translation": "索要好处，以促成此事。",
+        "translation": "索要好处，以促成此事。"
+    },
+    {
+        "id": "mno_choice_08_3nj",
+        "text": "Refuse._Only_the_best_will_serve_as_captains.",
+        "old_translation": "拒绝。唯有最优秀者才能当船长。",
+        "translation": "拒绝。唯有最优秀者才能当船长。"
+    },
+    {
+        "id": "menu_event_09_juicio",
+        "text": "Two_proposals_come_before_you_one_day._One_is_from_a_scholarly_young_priest_called_Osberh,_who_proposes_building_a_church_in_{s4}._He_promises_to_instruct_you_in_new_knowledge_that_will_increase_your_intelligence_in_return.^^Another_man,_upon_hearing_this,_pushes_himself_before_you._He_is_a_hulking,_great-bearded_warrior_who_overshadows_Osberh_completely._He_suggests_the_funds_would_be_better_used_on_a_training_camp,_and_he_promises_to_teach_you_a_trick_to_increase_your_physical_prowess.",
+        "old_translation": "某日，两份提议摆在你面前。一位名叫奥斯伯的年轻牧师建议在{s4}建教堂，并承诺传授新知识，提升你的智慧。^^另一人闻言挤到前面，是个魁梧大胡子的战士，把奥斯伯衬得渺小。他主张用这笔钱建训练营，并教你一招增强体魄。",
+        "translation": "某日，两份提议摆在你面前。一位名叫奥斯伯的年轻牧师建议在{s4}建教堂，并承诺传授新知识，提升你的智慧。^^另一人闻言挤到前面，是个魁梧大胡子的战士，把奥斯伯衬得渺小。他主张用这笔钱建训练营，并教你一招增强体魄。"
+    },
+    {
+        "id": "mno_choice_09_1nj",
+        "text": "Choose_Osberh's_idea._You_need_to_improve_your_intelligence.",
+        "old_translation": "选择奥斯伯的方案，你需要提升智慧。",
+        "translation": "选择奥斯伯的方案，你需要提升智慧。"
+    },
+    {
+        "id": "mno_choice_09_2nj",
+        "text": "Choose_the_warrior._You_need_improve_your_strength.",
+        "old_translation": "选择战士的方案，你需要增强力量。",
+        "translation": "选择战士的方案，你需要增强力量。"
+    },
+    {
+        "id": "mno_choice_09_3nj",
+        "text": "I_have_enough_money_to_build_both_facilities_(3000_peningas).",
+        "old_translation": "我财力充足，可建两处设施（3000银便士）。",
+        "translation": "我财力充足，可建两处设施（3000银便士）。"
+    },
+    {
+        "id": "mno_choice_9_4nj",
+        "text": "Hah!_You_have_enough_intelligence_already_not_to_fall_for_either_one.",
+        "old_translation": "哈！你早已足够聪明，不会上任何一方的当。",
+        "translation": "哈！你早已足够聪明，不会上任何一方的当。"
+    },
+    {
+        "id": "menu_event_10_juicio",
+        "text": "A_searing_flash_crosses_the_night_sky._There_is_much_talk_of_omens_the_next_day._The_people_of_{s4}_generally_agree_that_some_act_of_sacrifice_must_be_committed,_or_some_divine_wrath_will_befall_the_kingdom._The_practise_of_the_wickerman_suddenly_gains_impetus,_as_it_is_near_harvest_time._They_find_an_angelic_girl_and_treat_her_as_a_living_goddess._Suddenly,_you_realize_that_the_whole_place_follows_traditions_supposedly_lost_for_centuries.",
+        "old_translation": "一道炽烈的光划破夜空。翌日，众人议论纷纷，皆言此乃不祥之兆。{s4}的百姓普遍认为必须献上祭品，否则神怒将降临王国。因收获将近，柳条人祭忽然盛行。他们寻得一位天使般的少女，奉若活女神。你猛然惊觉，此地竟重拾已失传数百年的古老传统。",
+        "translation": "一道炽烈的光划破夜空。翌日，众人议论纷纷，皆言此乃不祥之兆。{s4}的百姓普遍认为必须献上祭品，否则神怒将降临王国。因收获将近，柳条人祭忽然盛行。他们寻得一位天使般的少女，奉若活女神。你猛然惊觉，此地竟重拾已失传数百年的古老传统。"
+    },
+    {
+        "id": "mno_choice_10_1nj",
+        "text": "Allow_the_sacrifice_of_the_girl.",
+        "old_translation": "允许献祭少女。",
+        "translation": "允许献祭少女。"
+    },
+    {
+        "id": "mno_choice_10_2nj",
+        "text": "Forbid_the_sacrifice_and_take_the_girl_into_your_party_for_safety.",
+        "old_translation": "禁止献祭，并将少女收入队伍以保安全。",
+        "translation": "禁止献祭，并将少女收入队伍以保安全。"
+    },
+    {
+        "id": "mno_choice_10_3nj",
+        "text": "This_is_no_affair_of_yours.",
+        "old_translation": "此事与我无关。",
+        "translation": "此事与我无关。"
+    },
+    {
+        "id": "menu_event_11_juicio",
+        "text": "A_runner_arrives_at_your_court,_and_after_you_allow_it,_starts_to_tell_dire_news._'My_{reg59?lady:lord},_a_nearby_village_is_in_great_danger!_The_populace_has_some_kind_of_strange_sickness,_they_can_hardly_move,_sweat_and_vomit,_and_the_local_wise-woman_has_no_cure_for_it._The_local_leader_doesn't_let_anyone_out_at_the_moment_and_is_expecting_your_orders!'",
+        "old_translation": "一名信使奔入宫廷，获准后急报凶讯。“{reg59?夫人:大人}，邻村危在旦夕！村民染怪疾，动弹不得，又呕又汗，当地巫婆束手无策。地方领袖已封村，只等您的命令！”",
+        "translation": "一名信使奔入宫廷，获准后急报凶讯。“{reg59?夫人:大人}，邻村危在旦夕！村民染怪疾，动弹不得，又呕又汗，当地巫婆束手无策。地方领袖已封村，只等您的命令！”"
+    },
+    {
+        "id": "mno_choice_11_1nj",
+        "text": "Quarantine_the_place,_but_send_the_best_area_physicians_to_help!_(500_peningas)",
+        "old_translation": "封锁村庄，并派最良医前往救治！（500银便士）",
+        "translation": "封锁村庄，并派最良医前往救治！（500银便士）"
+    },
+    {
+        "id": "mno_choice_11_2nj",
+        "text": "Quarantine_the_place!_We_will_examine_the_survivors_when_the_epidemic_is_over!",
+        "old_translation": "封锁村庄！待瘟疫过去再查幸存者！",
+        "translation": "封锁村庄！待瘟疫过去再查幸存者！"
+    },
+    {
+        "id": "menu_event_12_juicio",
+        "text": "Two_nuns_approach_you._'My_{reg59?lady:lord},_we_have_a_childbirth_that_is_not_going_well!_We_tried_everything_we_could,_but_it_seems_that_the_young_lady_is_simply_not_suited_for_pregnancy._The_girl_is_the_daughter_of_a_prominent_local_lord._What_can_we_do?'",
+        "old_translation": "两名修女趋前。“{reg59?夫人:大人}，有妇人难产！我们已尽所能，然此女似不宜生产。她乃本地显赫领主之女，我们该如何是好？”",
+        "translation": "两名修女趋前。“{reg59?夫人:大人}，有妇人难产！我们已尽所能，然此女似不宜生产。她乃本地显赫领主之女，我们该如何是好？”"
+    },
+    {
+        "id": "mno_choice_12_1nj",
+        "text": "Everybody,_kneel_down_and_start_praying!",
+        "old_translation": "众人跪下，即刻祈祷！",
+        "translation": "众人跪下，即刻祈祷！"
+    },
+    {
+        "id": "mno_choice_12_2nj",
+        "text": "Guards:_Bring_me_the_wise-woman_from_the_village,_NOW!",
+        "old_translation": "侍卫：立刻把村里的巫婆带来！",
+        "translation": "侍卫：立刻把村里的巫婆带来！"
+    },
+    {
+        "id": "menu_event_13_juicio",
+        "text": "One_day,_a_loyal_noble_from_nearby_comes_to_you_with_a_strange_request._'My_lord,_I_am_in_a_very_bad_situation._I_spent_all_my_money_on_proper_equipment_and_troops,_so_that_I_can_serve_you_well._However,_my_first_daughter_is_about_to_marry,_and_I_cannot_send_a_proper_dowry_with_her_to_the_husband.'",
+        "old_translation": "某日，一位邻近的忠诚贵族携奇求而来。“大人，我处境艰难。为效忠您，我已倾尽家财购置装备与兵士。然长女将嫁，我却无力置办嫁妆。”",
+        "translation": "某日，一位邻近的忠诚贵族携奇求而来。“大人，我处境艰难。为效忠您，我已倾尽家财购置装备与兵士。然长女将嫁，我却无力置办嫁妆。”"
+    },
+    {
+        "id": "mno_choice_13_1nj",
+        "text": "Take_this_bit_of_silver_for_your_faithful_service_(800_peningas).",
+        "old_translation": "拿这点银子，以酬你忠诚。（800银便士）",
+        "translation": "拿这点银子，以酬你忠诚。（800银便士）"
+    },
+    {
+        "id": "mno_choice_13_2nj",
+        "text": "I_will_help_you_now,_but_this_is_the_last_time_(400_peningas).",
+        "old_translation": "此次我帮你，但下不为例。（400银便士）",
+        "translation": "此次我帮你，但下不为例。（400银便士）"
+    },
+    {
+        "id": "mno_choice_13_3nj",
+        "text": "No,_you_should_have_saved_up_the_money_up_front!",
+        "old_translation": "不，你早该自己攒钱！",
+        "translation": "不，你早该自己攒钱！"
+    },
+    {
+        "id": "menu_event_14_juicio",
+        "text": "One_day,_a_Christian_missionary_arrives_at_your_doorstep._He_is_very_enthusiastic._'My_{reg59?lady:lord},_I_have_splendid_news!_There_is_a_merchant_from_Jerusalem_in_{s4}_now,_and_he_is_willing_to_sell_us_a_piece_of_the_Holy_Cross!_I_cannot_believe_that_we_have_the_opportunity_to_own_such_a_famous_relic!_And_this_would_help_me_so_much_to_spread_the_word_of_Christ_to_the_faithful!'",
+        "old_translation": "一日，一名基督教传教士登门，神情激昂。“{reg59?夫人:大人}，大喜讯！耶路撒冷商人现于{s4}，愿售圣十字架残片！竟能获此圣物，难以置信！此物将助我广传基督福音！”",
+        "translation": "一日，一名基督教传教士登门，神情激昂。“{reg59?夫人:大人}，大喜讯！耶路撒冷商人现于{s4}，愿售圣十字架残片！竟能获此圣物，难以置信！此物将助我广传基督福音！”"
+    },
+    {
+        "id": "mno_choice_14_1nj",
+        "text": "We_don't_pay_for_fake_relics!",
+        "old_translation": "我们不为假圣物付钱。",
+        "translation": "我们绝不花钱买假圣物！"
+    },
+    {
+        "id": "mno_choice_14_2nj",
+        "text": "Sorry,_but_this_place_worships_other_gods._I_won't_waste_my_money.",
+        "old_translation": "抱歉，此地信奉他神，我不会浪费钱财。",
+        "translation": "抱歉，这里敬的是别神，我可不想白花钱。"
+    },
+    {
+        "id": "mno_choice_14_3nj",
+        "text": "Good_offer_indeed,_but_sadly_we_don't_have_that_much_in_our_coffers.",
+        "old_translation": "价虽公道，可惜国库空虚。",
+        "translation": "价码不错，可惜我们的金库没那么多。"
+    },
+    {
+        "id": "mno_choice_14_4nj",
+        "text": "We_cannot_let_this_opportunity_slip!_(5000_peningas)",
+        "old_translation": "机不可失！（5000银便士）",
+        "translation": "绝不能错过这个机会！（5000银便士）"
+    },
+    {
+        "id": "menu_event_15_juicio",
+        "text": "You_are_having_a_feast_with_your_companions_when_a_messenger_comes_to_your_attention,_'My_{reg59?lady:lord},_there_is_a_situation_in_{s4}_that_needs_your_counsel.'_Excusing_yourself,_you_step_outside.^^A_crowd_has_gathered_there,_arguing,_but_when_you_appear,_it_quickly_falls_silent._An_elder_bows_to_you_and_asks_permission_to_speak,_which_you_give._He_speaks:_'My_{reg59?lady:lord},_we_need_your_wisdom._Two_women_claim_to_be_the_mother_of_this_child._Neither_will_defer.'^Two_women_are_presented._One_is_in_fine_clothes_and_the_other_in_rags.",
+        "old_translation": "你正与同伴们欢宴，一名信使上前：“我的{reg59?女士:阁下}，{s4}出了事，需要您裁断。”你致歉离席，走到屋外。^^门外已聚起人群，吵嚷不休，见你出现，立刻安静。一位长者躬身请言，你点头。他说：“我的{reg59?女士:阁下}，我们需要您的智慧。两个女人都自称这小孩的母亲，谁也不肯退让。”^两名女子被带上前，一人衣着华贵，一人衣衫褴褛。",
+        "translation": "你正与同伴宴饮，一名信使上前：“我的{reg59?女士:阁下}，{s4}出了事，需您裁断。”你致歉离席，走到屋外。^^门前已聚起人群，吵嚷不休，见你出现，立刻安静。一位长者躬身请言，你点头。他说：“我的{reg59?女士:阁下}，我们需要您的智慧。两个女人都自称这小孩的母亲，谁也不肯退让。”^两名女子被带上前，一人衣着华贵，一人衣衫褴褛。"
+    },
+    {
+        "id": "mno_choice_15_1nj",
+        "text": "Give_the_child_to_the_poor_woman.",
+        "old_translation": "把孩子给穷女人。",
+        "translation": "把小孩交给穷女人。"
+    },
+    {
+        "id": "mno_choice_15_2nj",
+        "text": "Give_the_child_to_the_rich_woman.",
+        "old_translation": "把孩子给富女人。",
+        "translation": "把小孩交给富女人。"
+    },
+    {
+        "id": "mno_choice_15_3nj",
+        "text": "Order_to_cut_the_child_in_half_and_give_each_half_to_one_of_the_women.",
+        "old_translation": "下令把小孩劈成两半，各给一半。",
+        "translation": "下令把小孩劈成两半，各给一半。"
+    },
+    {
+        "id": "menu_child_half_one",
+        "text": "Then_the_woman_in_rags_screams_and_says,_'No,_please_my_{reg59?lady:lord},_let_the_other_women_have_the_child_then.'^^Then_the_elder_near_you_exclaims,_'So_you_are_the_rightful_mother_and_this_child_belongs_to_you!'^^The_other_woman_seems_uneasy,_'I_can_give_that_child_a_better_life_than_always_living_in_poverty.'",
+        "old_translation": "衣衫褴褛的女人尖叫：“不！求您，我的{reg59?女士:阁下}，让那女人带走孩子吧！”^^身旁的长者高声道：“如此看来，你才是孩子真正的母亲，孩子归你！”^^另一女人神色不安：“我能让孩子摆脱贫困。”",
+        "translation": "衣衫褴褛的女人尖叫：“不！求您，我的{reg59?女士:阁下}，让那女人带走孩子吧！”^^身旁的长者高声道：“如此看来，你才是孩子真正的母亲，孩子归你！”^^另一女人神色不安：“我能让孩子摆脱贫困。”"
+    },
+    {
+        "id": "mno_choice_half1pj",
+        "text": "Give_the_child_to_the_poor_woman_and_punish_the_rich_woman_for_lying.",
+        "old_translation": "把孩子给穷女人，并以撒谎之罪惩罚富女人。",
+        "translation": "把小孩给穷女人，并以撒谎之罪惩罚富女人。"
+    },
+    {
+        "id": "mno_choice_half2pj",
+        "text": "Give_the_child_to_the_poor_woman_and_the_rich_woman_to_the_crowd.",
+        "old_translation": "把孩子给穷女人，把富女人交给众人处置。",
+        "translation": "把小孩给穷女人，把富女人交给众人处置。"
+    },
+    {
+        "id": "mno_choice_half3pj",
+        "text": "Give_the_child_to_the_rich_woman.",
+        "old_translation": "把孩子给富女人。",
+        "translation": "把小孩交给富女人。"
+    },
+    {
+        "id": "mno_choice_half4pj",
+        "text": "Give_the_child_to_the_rich_woman_and_poor_woman_to_your_men.",
+        "old_translation": "把孩子给富女人。",
+        "translation": "把小孩给富女人。"
+    },
+    {
+        "id": "menu_event_16_juicio",
+        "text": "Your_advisor,_streaked_with_dirt_and_sunburned,_arrives_after_inspecting_the_harvest._'My_Lord,_the_harvest_is_poor_this_year._If_you_do_not_reduce_taxes_there_will_be_starvation_this_winter.'",
+        "old_translation": "把孩子给富女人，把穷女人交给你的人。",
+        "translation": "你的顾问满身尘土、晒得通红，赶来汇报：“阁下，今年收成很差。若不减税，今冬必有人饿死。”"
+    },
+    {
+        "id": "mno_choice_16_1nj",
+        "text": "Less_taxes_means_less_soldiers._Better_an_empty_gut_than_a_cut_throat.",
+        "old_translation": "你的顾问满身尘土、晒得通红，赶来汇报：“阁下，今年收成很差。若不减税，今冬必有人饿死。”",
+        "translation": "减税便少兵，饿肚子总比掉脑袋强。"
+    },
+    {
+        "id": "mno_choice_16_2nj",
+        "text": "Well,_I_will_compensate_them_from_my_purse_(1000_peningas).",
+        "old_translation": "减税便少兵，饿肚子总比掉脑袋强。",
+        "translation": "也罢，我自掏腰包补上（1000银便士）。"
+    },
+    {
+        "id": "menu_event_17_juicio",
+        "text": "A_peasant_from_a_nearby_village_comes_to_you_as_a_supplicant._He_breathlessly_reports_that_armed_men_have_raided_his_farm,_carrying_off_women,_cattle_and_grain._He_is_spattered_with_blood_and_stinks_of_burned_thatch.",
+        "old_translation": "也罢，我自掏腰包补上（1000银便士）。",
+        "translation": "附近村庄的农民跪在你面前，喘着粗气说，有武装歹徒洗劫了他的农场，掳走女人、牛和粮食。他浑身血污，带着焦草臭味。"
+    },
+    {
+        "id": "mno_choice_17_1nj",
+        "text": "Hire_watchmen_to_guard_the_area_(800_peningas).",
+        "old_translation": "附近村庄的农民跪在你面前，喘着粗气说，有武装歹徒洗劫了他的农场，掳走女人、牛和粮食。他浑身血污，带着焦草臭味。",
+        "translation": "雇哨兵守卫此地（800银便士）。"
+    },
+    {
+        "id": "mno_choice_17_2nj",
+        "text": "There_is_nothing_to_be_done_here._Away_with_you,_mongrel!",
+        "old_translation": "雇哨兵守卫此地（800银便士）。",
+        "translation": "此事与我无关，滚开，贱民！"
+    },
+    {
+        "id": "mno_choice_17_3nj",
+        "text": "There_will_be_war._Take_this_money_and_rebuild_your_village.",
+        "old_translation": "此事与我无关，滚开，贱民！",
+        "translation": "大战将临，拿这些钱重建村庄。"
+    },
+    {
+        "id": "menu_event_18_juicio",
+        "text": "A_happy_widow_is_accused_of_witchcraft_after_several_men_sworn_to_your_vassal_report_pain_while_relieving_themselves._Your_vassal_backs_their_claim._You_suspect_he_has_the_same_complaint_but_knows_better_than_to_air_it_publicly.",
+        "old_translation": "大战将临，拿这些钱重建村庄。",
+        "translation": "风流寡妇被几名向你效忠的士兵指控施巫术，你的封臣也附议。你怀疑他同样受害，却不敢当众承认。"
+    },
+    {
+        "id": "mno_choice_18_1nj",
+        "text": "Banish_the_happy_widow,_exiling_her_to_another_place.",
+        "old_translation": "风流寡妇被几名向你效忠的士兵指控施巫术，你的封臣也附议。你怀疑他同样受害，却不敢当众承认。",
+        "translation": "将风流寡妇放逐他乡。"
+    },
+    {
+        "id": "mno_choice_18_2nj",
+        "text": "Pay_the_witch_to_help_counteract_the_spread_of_Christianity.",
+        "old_translation": "将风流寡妇放逐他乡。",
+        "translation": "付钱请女巫遏制基督教蔓延。"
+    },
+    {
+        "id": "mno_choice_18_3nj",
+        "text": "Where_there's_one,_there's_many!_Kill_anyone_else_reported_for_witchcraft.",
+        "old_translation": "付钱请女巫遏制基督教蔓延。",
+        "translation": "有一个就有更多！把其他被举报施巫术的人全杀掉。"
+    },
+    {
+        "id": "menu_event_19_juicio",
+        "text": "A_missionary_comes_upon_you_and_tells_you_of_one_of_your_villages_where_he_was_introducing_God's_grace._When_he_and_his_followers_wanted_to_fell_an_ancient_tree_important_to_the_pagans,_most_of_the_inhabitants_took_up_arms_and_drove_them_out.",
+        "old_translation": "一位传教士来到你面前，说他在你的一座村庄里传扬上帝的恩典。当他与追随者想砍倒一棵对多神教徒意义非凡的古老大树时，大多数村民拿起武器把他们赶了出去。",
+        "translation": "一位传教士来到你面前，说他在你的一座村庄里传扬上帝的恩典。当他与追随者想砍倒一棵对多神教徒意义非凡的古老大树时，大多数村民拿起武器把他们赶了出去。"
+    },
+    {
+        "id": "mno_choice_19_1nj",
+        "text": "This_missionary_is_right:_cut_down_this_heretical_tree.",
+        "old_translation": "这位传教士说得对：砍掉这棵异端之树。",
+        "translation": "这位传教士说得对：砍掉这棵异端之树。"
+    },
+    {
+        "id": "mno_choice_19_2nj",
         "text": "This_missionary_is_wrong._Have_him_and_his_followers_burn_for_the_gods.",
-        "translation": "这个传教士是错误的，应该将他和追随者献祭给众神。"
+        "old_translation": "这位传教士错了。让他和追随者为众神而焚。",
+        "translation": "这位传教士错了。让他和追随者为众神而焚。"
     },
     {
+        "id": "mno_choice_19_3nj",
         "text": "This_missionary_is_wrong._Have_those_Christians_abandon_this_village_in_peace.",
-        "translation": "这个传教士是错误的，让那些基督徒离开村子。"
+        "old_translation": "这位传教士错了。让那些基督徒平安离开这座村庄。",
+        "translation": "这位传教士错了。让那些基督徒平安离开这座村庄。"
     },
     {
+        "id": "menu_event_20_juicio",
         "text": "A_woman_from_a_nearby_village_comes_to_you_claiming_that_one_of_your_men_who_died_recently_was_her_husband._She_asks_for_assistance_to_take_care_of_the_remains.",
-        "translation": "一个来自附近村庄的女人声称，你最近死去的士兵之中有一个是她的丈夫。她请求帮忙善后和处理尸体。"
+        "old_translation": "邻村一名女子前来，声称你最近死去的一名士兵是她的丈夫。她请求协助料理后事。",
+        "translation": "邻村一名女子前来，声称你最近死去的一名士兵是她的丈夫。她请求协助料理后事。"
     },
     {
+        "id": "mno_choice_20_1nj",
         "text": "Give_her_monetary_assistance_and_send_for_a_priest.",
-        "translation": "资助她，并为她派遣一名牧师。"
+        "old_translation": "给她银两，并派一名牧师过去。",
+        "translation": "给她银两，并派一名牧师过去。"
     },
     {
+        "id": "mno_choice_20_2nj",
         "text": "Do_nothing._This_isn't_my_problem.",
-        "translation": "什么都不做，这不关我事。"
+        "old_translation": "什么也不做。这不关我的事。",
+        "translation": "什么也不做。这不关我的事。"
     },
     {
+        "id": "mno_choice_20_3nj",
         "text": "Unluckily,_I_do_not_have_money_for_this.",
-        "translation": "抱歉，我无能为力。"
+        "old_translation": "可惜，我拿不出这笔钱。",
+        "translation": "可惜，我拿不出这笔钱。"
     },
     {
+        "id": "menu_event_21_juicio",
         "text": "The_most_important_local_leader_comes_to_you_with_a_request._'My_{reg59?lady:lord},_would_it_not_show_your_great_mercy_and_honor_to_provide_for_those_who_have_suffered_while_serving_under_you?_We_have_dozens_of_maimed,_lame_and_aged_ex-warriors_begging_for_coin_in_the_streets_and_many_families_who_have_lost_fathers_and_husbands_in_your_battles._We_need_to_reward_and_protect_your_loyal_supporters,_or_else_men_might_be_hesitant_in_the_future_to_be_in_your_shield_wall.",
-        "translation": "一位最重要的地方首领向你提出了一个请求：“我的{reg59?女士:阁下}，你会对那些因对你效忠而受苦的人们展示你的宽宏大量么？很多残废、瘸腿和年迈的老兵在街头乞讨，还有很多家庭因为你的战争而失去了丈夫和父亲。我们需要奖励以及保护那些忠实的支持者们，还有那些以后可能会成为你麾下一员的年轻人。”"
+        "old_translation": "最重要的地方领袖向你请求：“我的{reg59?女士:阁下}，若能抚恤那些因效忠你而受苦的人，岂不更显你的仁慈与荣耀？如今街头有数十名伤残、跛足、年迈的老兵乞讨，许多家庭因你的战事失去父亲与丈夫。我们必须奖赏并保护忠诚的支持者，否则将来人们或许会犹豫是否加入你的盾墙。”",
+        "translation": "最重要的地方领袖向你请求：“我的{reg59?女士:阁下}，若能抚恤那些因效忠你而受苦的人，岂不更显你的仁慈与荣耀？如今街头有数十名伤残、跛足、年迈的老兵乞讨，许多家庭因你的战事失去父亲与丈夫。我们必须奖赏并保护忠诚的支持者，否则将来人们或许会犹豫是否加入你的盾墙。”"
     },
     {
+        "id": "mno_choice_21_1nj",
         "text": "It_isn't_my_fault_my_men_don't_save_their_wealth_for_their_families.",
-        "translation": "这不关我事，我的手下没有为自己的家庭准备后路，是他们自己的错。"
+        "old_translation": "这怪不得我，我的部下没为家人攒下钱财。",
+        "translation": "这怪不得我，我的部下没为家人攒下钱财。"
     },
     {
+        "id": "mno_choice_21_2nj",
         "text": "We_should_support_our_veterans_and_their_families_(800_peningas).",
-        "translation": "我们应该帮助老兵和他们的家庭。（800先令）"
+        "old_translation": "我们应支援老兵及其家庭（800银便士）。",
+        "translation": "我们应支援老兵及其家庭（800银便士）。"
     },
     {
+        "id": "mno_choice_21_3nj",
         "text": "Open_my_coffers._All_families_shall_receive_support_(2000_peningas).",
-        "translation": "打开我的金库，让所有家庭都得到帮助。（2000先令）"
+        "old_translation": "打开我的金库，让所有家庭都得到抚恤（2000银便士）。",
+        "translation": "打开我的金库，让所有家庭都得到抚恤（2000银便士）。"
     },
     {
+        "id": "mno_choice_21_4nj",
         "text": "I_have_no_money_for_this_unexpected_expense.",
-        "translation": "我没钱付这些额外的价格。"
+        "old_translation": "我无力承担这笔意外开销。",
+        "translation": "我无力承担这笔意外开销。"
     },
     {
+        "id": "menu_event_22_juicio",
         "text": "A_seemingly_straightforward_case_is_brought_before_you._Yesterday,_the_accused_man_broke_into_the_victim's_house_and_removed_large_amounts_of_wealth._Many_people_saw_him,_and_the_missing_items_were_discovered_in_his_house._The_victim_is_an_influential_supporter_of_the_previous_lord,_had_actually_served_as_a_councillor_and_was_known_to_be_of_doubtful_loyalty._The_accused,_on_the_other_hand,_happens_to_be_one_of_your_most_vocal_supporters_and_a_major_donor_to_your_cause.",
-        "translation": "有一个貌似很简单的案件要交给你。昨天，被告人破入被害人的家并卷走了大量财产。很多人都看到了，而且丢失的财物都在他家找到。但受害人是前任领主的一个有影响力的支持者和参赞，但是他的忠诚让人怀疑。而另一方面，被告人是你最忠实的支持者而且曾经给你支持了很多财物。"
+        "old_translation": "一桩看似简单的案子摆在你面前。昨日，被告闯入受害者家中，掠走大量财物。多人目睹，失物也在他家里搜出。受害者是前任领主的有影响力的支持者，曾任参赞，忠诚可疑；而被告却是你最积极的拥护者，曾为你的事业捐出重金。",
+        "translation": "一桩看似简单的案子摆在你面前。昨日，被告闯入受害者家中，掠走大量财物。多人目睹，失物也在他家里搜出。受害者是前任领主的有影响力的支持者，曾任参赞，忠诚可疑；而被告却是你最积极的拥护者，曾为你的事业捐出重金。"
     },
     {
+        "id": "mno_choice_22_1nj",
         "text": "Ignoring_the_evidence,_you_settle_in_your_man's_favor.",
-        "translation": "无视证据，你渐渐地在士兵的心中占据了最重要的位置。"
+        "old_translation": "无视证据，你偏袒自己人。",
+        "translation": "无视证据，你偏袒自己人。"
     },
     {
+        "id": "mno_choice_22_2nj",
         "text": "The_evidence_is_clear,_and_the_accused_is_found_guilty.",
-        "translation": "证据很明显表明了被告人有罪。"
+        "old_translation": "证据确凿，被告被判有罪。",
+        "translation": "证据确凿，被告被判有罪。"
     },
     {
+        "id": "mno_choice_22_3nj",
         "text": "Both_parties_are_in_the_wrong._You_exile_them_and_confiscate_all_material.",
-        "translation": "双方都有错。你把他们都流放了并没收了这案件的所有证据。"
+        "old_translation": "双方皆有过错。你将他们一并流放，并没收所有财物。",
+        "translation": "双方皆有过错。你将他们一并流放，并没收所有财物。"
     },
     {
+        "id": "menu_event_juicio_end",
         "text": "A_seemingly_straightforward_case_is_brought_before_you._Yesterday,_the_accused_man_broke_into_the_victim's_house_and_removed_large_amounts_of_wealth._Many_people_saw_him,_and_the_missing_items_were_discovered_in_his_house._But_the_victim_is_an_influential_supporter_of_the_previous_lord,_had_actually_served_as_a_councillor_and_was_known_to_be_of_doubtful_loyalties._The_accused,_on_the_other_hand,_happens_to_be_one_of_your_most_vocal_supporters_and_has_donated_much_money_to_your_cause.",
-        "translation": "有一个貌似很简单的案件要交给你。昨天，被告人破入被害人的家并卷走了大量财产。很多人都看到了，而且丢失的财物都在他家找到。但受害人是前任领主的一个有影响力的支持者和参赞，但他的忠诚让人怀疑。而另一方面，被告人是你最忠实的支持者而且曾经给你支持了很多财物。"
+        "old_translation": "一桩看似简单的案子摆在你面前。昨日，被告闯入受害者家中，掠走大量财物。多人目睹，失物也在他家里搜出。但受害者是前任领主的有影响力的支持者，曾任参赞，忠诚可疑；而被告却是你最积极的拥护者，曾为你的事业捐出重金。",
+        "translation": "一桩看似简单的案子摆在你面前。昨日，被告闯入受害者家中，掠走大量财物。多人目睹，失物也在他家里搜出。但受害者是前任领主的有影响力的支持者，曾任参赞，忠诚可疑；而被告却是你最积极的拥护者，曾为你的事业捐出重金。"
     },
     {
+        "id": "mno_choice_end_1nj",
+        "text": "Ignoring_the_evidence,_you_settle_in_your_man's_favor.",
+        "old_translation": "无视证据，你偏袒自己人。",
+        "translation": "无视证据，你偏袒自己人。"
+    },
+    {
+        "id": "mno_choice_end_2nj",
         "text": "The_evidence_is_clear,_and_the_accused_is_found_guilty!",
+        "old_translation": "无视证据，你偏袒自己人。",
         "translation": "证据确凿，被告被判有罪！"
     },
     {
+        "id": "mno_choice_end_3nj",
         "text": "You_claim_both_parties_are_in_the_wrong._You_exile_them_and_confiscate_all_material.",
-        "translation": "你说双方都是错的。你放逐了他们，没收所有和本案有关的材料。"
+        "old_translation": "你宣称双方都有过错。你放逐了他们，并没收全部物资。",
+        "translation": "你宣称双方都有过错。你放逐了他们，并没收全部物资。"
     },
     {
+        "id": "menu_riots_01",
         "text": "Your_relation_with_{s4}_is_very_bad._As_you_walk_its_streets,_people_look_at_you_hatefully_and_make_gestures_behind_your_back._You_get_beyond_a_corner,_and_you're_safe_--_until_several_people_begin_to_emerge._Ordinary_citizens_are_tired_of_your_government_and_begin_to_insult_you._Finally,_someone_becomes_bold_enough_to_pull_a_knife_and_attack_you.",
-        "translation": "你和{s4}的关系很糟糕。你走在大街上，人们都很痛恨地看着你并在你背后做了手势，等你到了没人的地方你就认为你安全了————直到一群人的出现。本地居民也厌倦了你的管理并开始辱骂你。终于，有人大胆地拔出了小刀并袭击你。"
+        "old_translation": "你与{s4}的关系极差。走在街上，人们用仇恨的目光盯着你，在背后做手势。你拐过街角，以为安全了——却见数人陆续现身。平民已厌倦你的统治，开始辱骂你。终于，有人胆大包天地拔刀袭击。",
+        "translation": "你与{s4}的关系极差。走在街上，人们用仇恨的目光盯着你，在背后做手势。你拐过街角，以为安全了——却见数人陆续现身。平民已厌倦你的统治，开始辱骂你。终于，有人胆大包天地拔刀袭击。"
     },
     {
+        "id": "mno_deffend_yr",
         "text": "Defend_yourself.",
-        "translation": "自我防御。"
+        "old_translation": "自卫。",
+        "translation": "自卫。"
     },
     {
+        "id": "menu_riots_02",
         "text": "An_angry_mob_insulted_your_name,_blamed_a_group_of_your_warriors_walking_the_streets_for_all_their_ills,_and_attacked_and_killed_them_all._You_should_improve_your_relations_with_{s4}_as_soon_as_possible.",
-        "translation": "你的一队战士在街道上行走时被一群愤怒暴民袭击并杀害了。你最好尽快和{s4}搞好关系。"
+        "old_translation": "一群愤怒的暴民辱骂你的名声，把街上巡逻的一队战士当成一切苦难的源头，袭击并杀光了他们。你应尽快改善与{s4}的关系。",
+        "translation": "一群愤怒的暴民辱骂你的名声，把街上巡逻的一队战士当成一切苦难的源头，袭击并杀光了他们。你应尽快改善与{s4}的关系。"
     },
     {
+        "id": "mno_deffend_01ri",
         "text": "Order_your_men_to_kill_the_perpetrators_and_seize_their_possessions.",
-        "translation": "命令你的人杀掉这些肇事者并抓捕相关人员。"
+        "old_translation": "命令部下杀掉肇事者，并夺取他们的财物。",
+        "translation": "命令部下杀掉肇事者，并夺取他们的财物。"
     },
     {
+        "id": "mno_deffend_02ri",
         "text": "I_will_not_rule_by_fear._I_have_to_improve_relations_by_other_means.",
-        "translation": "我不用恐惧来统治。我会和这里的人搞好关系的。"
+        "old_translation": "我不会用恐惧统治。我得用其他办法改善关系。",
+        "translation": "我不会用恐惧统治。我得用其他办法改善关系。"
     },
     {
+        "id": "mno_deffend_03ri",
         "text": "Exterminate_the_population_of_the_entire_city_and_repopulate_it_with_people_that_are_more_loyal.",
-        "translation": "把反对你的人统统杀光并把支持你的人拉进来"
+        "old_translation": "屠尽全城百姓，再用更忠诚的人重新填充。",
+        "translation": "屠尽全城百姓，再用更忠诚的人重新填充。"
     },
     {
+        "id": "menu_random_normal_events",
+        "text": "Events",
+        "old_translation": "事件",
+        "translation": "事件"
+    },
+    {
+        "id": "menu_random_normal_events2",
+        "text": "Events",
+        "old_translation": "事件",
+        "translation": "事件"
+    },
+    {
+        "id": "menu_event_01_normal",
         "text": "The_sound_of_a_galloping_horse_pierces_the_cold_morning,_and_you_run_outside_to_find_a_watchman_dismounting._He_tells_you_that_a_strange_ship_carrying_men_who_speak_a_foreign_language_has_been_shipwrecked_on_the_coast_nearby._What_do_you_do?",
-        "translation": "马蹄的声音刺穿了寒冷的早晨，当你走出门时看到卫兵从马上下来。他告诉你说有一艘陌生的船上载着一群说外语的人在附近的海滩靠岸了。你准备怎么做？"
+        "old_translation": "事件",
+        "translation": "一阵急促的马蹄声刺破寒冷的清晨，你跑出去，只见一名雇佣哨兵翻身下马。他告诉你，一艘载着外邦人的陌生船只在附近海岸搁浅。你打算怎么做？"
     },
     {
+        "id": "mno_choice_01_1nor",
         "text": "Send_men_to_search_for_valuables._If_there_are_any_survivors,_kill_them.",
-        "translation": "派人去抢贵重物品。活口统统杀掉。"
+        "old_translation": "疾驰的马蹄声划破寒冷的清晨，你冲出门，只见一名雇佣哨兵翻身下马。他告诉你，一艘载着说外语之人的陌生船只在附近海岸搁浅。你打算如何？",
+        "translation": "派人搜刮财物。若有幸存者，杀无赦。"
     },
     {
+        "id": "mno_choice_01_2nor",
         "text": "Send_men_to_investigate._If_there_are_any_survivors,_recruit_them.",
-        "translation": "派人去侦查，如有幸存者，招募他们。"
+        "old_translation": "派人搜刮财物。若有幸存者，格杀勿论。",
+        "translation": "派人调查。若有幸存者，收编他们。"
     },
     {
+        "id": "mno_choice_01_3nor",
+        "text": "Do_nothing.",
+        "old_translation": "按兵不动。",
+        "translation": "按兵不动。"
+    },
+    {
+        "id": "mno_choice_11_msgnor",
+        "text": "Continue.",
+        "old_translation": "后退",
+        "translation": "继续。"
+    },
+    {
+        "id": "menu_event_03_normal",
         "text": "You've_heard_that_a_bard_has_composed_a_song_about_your_noble_deeds.",
-        "translation": "你听说一个诗人到处歌颂你的高贵行为。"
+        "old_translation": "派人调查。若有幸存者，招募他们。",
+        "translation": "你听说有位吟游诗人谱写了一首歌颂你高尚事迹的曲子。"
     },
     {
+        "id": "mno_choice_03_1nor",
         "text": "Excellent_news!",
+        "old_translation": "你听说有位吟游诗人谱写了一首歌颂你高尚事迹的曲子。",
         "translation": "好消息！"
     },
     {
+        "id": "mno_choice_03_2nor",
         "text": "Reward_him_with_300_peningas._Let_this_song_be_played_across_the_land.",
-        "translation": "赏他300先令，让他的诗歌传遍整个大陆。"
+        "old_translation": "好消息！",
+        "translation": "赏他300银便士，让这首歌传遍大地。"
     },
     {
+        "id": "menu_event_04_normal",
         "text": "Tales_of_your_successes_spread_around_the_country._Everywhere_you_go,_your_procession_is_surrounded_by_beggars.",
-        "translation": "你的故事在全国范围你流传。你走到哪里都有一群乞丐围着你。"
+        "old_translation": "赏他300银便士，让这首歌传遍大地。",
+        "translation": "你的事迹传遍全国。无论走到哪里，你的队伍都被乞丐包围。"
     },
     {
+        "id": "mno_choice_04_1no",
         "text": "Allocate_200_peningas_to_an_alms_fund.",
-        "translation": "施舍200先令给他们"
+        "old_translation": "你的事迹传遍全国。无论走到哪里，你的队伍都被乞丐包围。",
+        "translation": "拨出200银便士作为救济金。"
     },
     {
+        "id": "mno_choice_04_2no",
         "text": "Ignore_them.",
-        "translation": "无视他们。"
+        "old_translation": "拨出200银便士作为救济金。",
+        "translation": "不予理会。"
     },
     {
+        "id": "mno_choice_04_3no",
         "text": "Beggars,_huh?_Release_the_hounds!",
-        "translation": "要饭的？放狗咬他们！"
+        "old_translation": "要饭的？放狗！",
+        "translation": "要饭的？放狗！"
     },
     {
+        "id": "menu_event_05_normal",
         "text": "A_young_noble_spreads_rumors_about_your_mother._Accusations_of_working_in_the_world's_oldest_profession_are_the_more_delicate_ones.",
-        "translation": "一个青年贵族到处散播你母亲的坏话。指责她正在从事世上最古老最细腻的职业。"
+        "old_translation": "一个年轻贵族四处散播关于你母亲的谣言，最客气的说法也是指她干着世上最古老的行当。",
+        "translation": "一个年轻贵族四处散播关于你母亲的谣言，最客气的说法也是指她干着世上最古老的行当。"
     },
     {
+        "id": "mno_choice_05_1no",
         "text": "I_challenge_him_to_a_duel!",
+        "old_translation": "我要和他决斗！",
         "translation": "我要和他决斗！"
     },
     {
+        "id": "mno_choice_05_2no",
         "text": "It's_just_talk.",
-        "translation": "就是说说罢了。"
+        "old_translation": "只是闲言碎语罢了。",
+        "translation": "只是闲言碎语罢了。"
     },
     {
+        "id": "menu_event_06_normal",
         "text": "You_encounter_one_of_your_soldiers'_wives._She_begs_you_to_release_her_husband_from_his_contract._The_harvest_was_poor_this_year,_and_his_wages_can't_feed_the_whole_family._If_he_could_come_back_and_work_on_the_field,_they_might_survive.",
-        "translation": "你遇到一名部下的妻子，她求你和她丈夫解除合同。今年收成不好，他的工资养不了他的全家，如果他回去种田的话或许他全家还能活下来。"
+        "old_translation": "你遇见一位部下的妻子，她哀求你解除她丈夫的契约。今年收成惨淡，他的军饷养不活全家；若他能回家耕田，一家人或许还能活下去。",
+        "translation": "你遇见一位军嫂，她哀求你解除她丈夫的契约。今年收成惨淡，他的军饷养不活全家；若他能回家耕田，一家人或许还能活下去。"
     },
     {
+        "id": "mno_choice_06_1no",
         "text": "This_can't_be!_Here,_take_200_peningas.",
-        "translation": "这可不行！拿走这200先令吧。"
+        "old_translation": "这怎么行！拿着这200银便士。",
+        "translation": "这怎么行！拿着这200银便士。"
     },
     {
+        "id": "mno_choice_06_2no",
         "text": "You_release_her_husband_from_his_duties.",
-        "translation": "你让你的部下回家了。"
+        "old_translation": "你准许她丈夫卸甲归田。",
+        "translation": "你准许她丈夫卸甲归田。"
     },
     {
+        "id": "menu_event_07_normal",
         "text": "A_local_naysayer_is_spreading_false_rumors_about_you._While_most_of_the_stories_are_just_pure_nonsense,_sooner_or_later_people_will_believe_them.",
-        "translation": "当地有人在散播你的谣言，他说的全都是荒诞的故事，但迟早会有人相信他。"
+        "old_translation": "当地有个唱反调的人正在散播关于你的谣言。虽然尽是胡言，但迟早会有人当真。",
+        "translation": "当地有个唱反调的人正在散播关于你的谣言。虽然尽是胡言，但迟早会有人当真。"
     },
     {
+        "id": "mno_choice_07_1no",
         "text": "Let_him_say_what_he_wants._Every_man_has_his_rights.",
-        "translation": "他想说就说吧，每个人都有自己的权力。"
+        "old_translation": "让他说去吧，人人都有说话的权利。",
+        "translation": "让他说去吧，人人都有说话的权利。"
     },
     {
+        "id": "mno_choice_07_2no",
         "text": "Ask_him_to_stop._One_hundred_peningas_might_help.",
-        "translation": "用100先令让他闭嘴。"
+        "old_translation": "给他100银便士，请他闭嘴。",
+        "translation": "给他100银便士，请他闭嘴。"
     },
     {
+        "id": "mno_choice_07_3no",
         "text": "Silence_him_permanently.",
-        "translation": "让他永远闭嘴。"
+        "old_translation": "让他永远开不了口。",
+        "translation": "让他永远开不了口。"
     },
     {
+        "id": "menu_event_08_normal",
         "text": "You_are_travelling_through_the_forest_and_you_suddenly_spot_a_wild_hare_trapped_in_the_snare._What_do_you_do?",
-        "translation": "你穿越森林时发现一只动物被困在陷阱里了，你该怎么做？"
+        "old_translation": "你穿越森林，忽见一只野兔落入陷阱。你打算怎么做？",
+        "translation": "你穿越森林，忽见一只野兔落入陷阱。你打算怎么做？"
     },
     {
+        "id": "mno_choice_08_1nor",
         "text": "Free_the_animal.",
-        "translation": "放了那动物。"
+        "old_translation": "放了它。",
+        "translation": "放了它。"
     },
     {
+        "id": "mno_choice_08_2nor",
         "text": "Clench_the_snare_and_kill_the_animal!",
-        "translation": "收了陷阱把动物给杀了！"
+        "old_translation": "收紧陷阱，宰了它！",
+        "translation": "收紧陷阱，宰了它！"
     },
     {
+        "id": "mno_choice_08_3nor",
         "text": "Pass_by_the_animal_and_ignore_it.",
-        "translation": "不管它。"
+        "old_translation": "视而不见，继续赶路。",
+        "translation": "视而不见，继续赶路。"
     },
     {
+        "id": "menu_event_09_normal",
         "text": "You_receive_news_that_a_group_of_veteran_warriors_has_heard_of_your_fame_and_wishes_to_join_you._However,_they_ask_more_pay_than_you_typically_pay_for_such_troops.",
-        "translation": "你接到消息说一群资深的战士闻风而来要加入你的部队。然而，他们要求得到更高的工资。"
+        "old_translation": "你得到消息，一群老兵听闻你的威名，愿来投奔，但他们索要的军饷高于你通常给这类部队的价码。",
+        "translation": "你得到消息，一群老兵听闻你的威名，愿来投奔，但他们索要的军饷高于你通常给这类部队的价码。"
     },
     {
+        "id": "mno_choice_9_1nor",
+        "text": "They_are_welcome.",
+        "old_translation": "你的部队带回了消息，他们说一些士兵心怀不满，而且一些人被说服投诚到我方军队。如果你同意的话，他们将在夜里离开城池加入你的军队。在他们离开之前，他们承诺将制造一些混乱来瓦解敌军斗志，使之更容易投降。",
+        "translation": "欢迎他们加入。"
+    },
+    {
+        "id": "mno_choice_9_2nor",
         "text": "I_do_not_need_more_troops.",
-        "translation": "我不想再要人了。"
+        "old_translation": "我不需要更多兵。",
+        "translation": "我不需要更多兵。"
     },
     {
+        "id": "mno_choice_9_3nor",
         "text": "Kill_them._Surely_they_will_yield_some_good_loot.",
-        "translation": "杀了他们，或许还能抢到一笔钱。"
+        "old_translation": "我不缺兵。",
+        "translation": "杀了他们，肯定能捞到不少战利品。"
     },
     {
+        "id": "menu_event_10_normal",
         "text": "You_receive_news_that_a_number_of_women_express_interest_in_becoming_camp_followers.",
-        "translation": "你接到消息说一群妇女想参加随营队伍。"
+        "old_translation": "杀了他们，肯定能捞到不少战利品。",
+        "translation": "你得到消息，一些妇女表示愿意成为随营妇女。"
     },
     {
+        "id": "mno_choice_10_1nor",
+        "text": "They_are_welcome.",
+        "old_translation": "你的部队带回了消息，他们说一些士兵心怀不满，而且一些人被说服投诚到我方军队。如果你同意的话，他们将在夜里离开城池加入你的军队。在他们离开之前，他们承诺将制造一些混乱来瓦解敌军斗志，使之更容易投降。",
+        "translation": "欢迎他们加入。"
+    },
+    {
+        "id": "mno_choice_10_2nor",
         "text": "I_do_not_need_more_mouths_to_feed.",
-        "translation": "我不想要喂更多的嘴了。"
+        "old_translation": "我不需要再多养一张嘴。",
+        "translation": "我不需要再多养一张嘴。"
     },
     {
+        "id": "menu_event_11_normal",
         "text": "You_receive_news_that_a_group_of_street_musicians_wishes_to_join_you_as_army_musicians_and_a_standard_bearer.",
-        "translation": "你接到消息说一群街道音乐家想以军乐手的身份加入你的队伍。"
+        "old_translation": "你得到消息，一群街头乐手想以军乐手和旗手的身份加入你的队伍。",
+        "translation": "你得到消息，一群街头乐手想以军乐手和旗手的身份加入你的队伍。"
     },
     {
+        "id": "mno_choice_11_1no",
+        "text": "They_are_welcome.",
+        "old_translation": "你的部队带回了消息，他们说一些士兵心怀不满，而且一些人被说服投诚到我方军队。如果你同意的话，他们将在夜里离开城池加入你的军队。在他们离开之前，他们承诺将制造一些混乱来瓦解敌军斗志，使之更容易投降。",
+        "translation": "欢迎他们加入。"
+    },
+    {
+        "id": "mno_choice_11_2no",
+        "text": "I_do_not_need_more_troops.",
+        "old_translation": "我不需要更多兵。",
+        "translation": "我不需要更多兵。"
+    },
+    {
+        "id": "menu_event_12_normal",
         "text": "You_see_a_crane_circling_above_your_party.",
-        "translation": "你看到一只鹳在空中盘旋。"
+        "old_translation": "你看到一只鹤在队伍上空盘旋。",
+        "translation": "你看到一只鹤在队伍上空盘旋。"
     },
     {
+        "id": "mno_choice_12_1nor",
         "text": "Tell_your_men_that_the_crane_symbolizes_victory!",
-        "translation": "告诉你的人鹳意味着胜利！"
+        "old_translation": "告诉部下，鹤象征胜利！",
+        "translation": "告诉部下，鹤象征胜利！"
     },
     {
+        "id": "mno_choice_12_2nor",
         "text": "Ignore_it.",
-        "translation": "不管它。"
+        "old_translation": "别理它。",
+        "translation": "别理它。"
     },
     {
+        "id": "mno_choice_12_3nor",
         "text": "The_cranes_signify_bad_fortune,_but_you_have_faith_in_your_men!",
-        "translation": "告诉你的人鹳意味着不祥的预兆，但你和他们命运与共！"
+        "old_translation": "鹤虽预示厄运，但你相信部下！",
+        "translation": "鹤虽预示厄运，但你相信部下！"
     },
     {
+        "id": "menu_event_13_normal",
         "text": "A_country_farmer_stands_before_you_on_the_road_with_a_weeping_girl_behind_him._He_points_his_finger_accusingly_at_one_of_your_men,_saying_that_he_raped_his_daughter_and_must_be_punished.",
-        "translation": "你的去路被一个农民和他背后正在哭泣的女孩挡住了。他的手指向你的一个部下，他说那人强奸了自己的女儿，必须受到惩罚。"
+        "old_translation": "一名农夫拦在路上，身后站着哭泣的女孩。他指着你的一名部下，指控那人玷污了他女儿，必须受罚。",
+        "translation": "一名农民拦在路上，身后站着哭泣的女孩。他指着你的一名部下，指控那人玷污了他女儿，必须受罚。"
     },
     {
+        "id": "mno_choice_13_1nor",
         "text": "Brand_the_man_and_cast_him_out_of_your_party.",
-        "translation": "给这人烙上刻印并永远地驱逐出部队。"
+        "old_translation": "给那人烙上印记，逐出队伍。",
+        "translation": "给那人烙上印记，逐出队伍。"
     },
     {
+        "id": "mno_choice_13_3nor",
         "text": "It_is_a_hard_world,_and_a_man_must_take_what_he_can.",
-        "translation": "这世道不太平，男人也是有需要的。"
+        "old_translation": "世道艰难，男人总得拿自己能拿的。",
+        "translation": "世道艰难，男人总得拿自己能拿的。"
     },
     {
+        "id": "menu_event_14_normal",
         "text": "After_hours,_while_your_army_rests_near_a_village,_the_priest's_wife_comes_to_see_you_(alone)_while_her_husband_is_away.",
-        "translation": "一段时间后，你的部队在附近的村庄休息，一个牧师的妻子在她丈夫不在的时候单独见你。"
+        "old_translation": "几小时后，部队在村边歇息，牧师的妻子趁丈夫不在，独自来找你。",
+        "translation": "几小时后，部队在村边歇息，牧师的妻子趁丈夫不在，独自来找你。"
     },
     {
+        "id": "mno_choice_14_1nor",
         "text": "You_agree.",
-        "translation": "接见她"
+        "old_translation": "你答应了。",
+        "translation": "你答应了。"
     },
     {
+        "id": "mno_choice_14_3nor",
         "text": "You_refuse.",
-        "translation": "拒绝她"
+        "old_translation": "你拒绝了。",
+        "translation": "你拒绝了。"
     },
     {
+        "id": "menu_event_15_normal",
         "text": "Your_fame_and_popularity_have_attracted_young_Norsemen_to_your_cause.",
-        "translation": "你的威名吸引了一群青年勇士想要加入你的部队。"
+        "old_translation": "你的威名引来年轻诺斯战士投奔。",
+        "translation": "你的威名引来年轻诺斯战士投奔。"
     },
     {
+        "id": "mno_choice_15_1nor",
         "text": "Accept_them.",
+        "old_translation": "接纳他们。",
+        "translation": "接纳他们。"
+    },
+    {
+        "id": "mno_choice_15_2nor",
+        "text": "I_don't_need_more_men.",
+        "old_translation": "我不需要更多人。",
+        "translation": "我不需要更多人。"
+    },
+    {
+        "id": "menu_event_16_normal",
+        "text": "You_spot_a_poor_man_on_the_road._He_looks_tired._You_send_one_of_your_men_to_ask_him_why_he_is_in_the_wilderness_alone._He_says_that_men_robbed_him,_and_if_he_doesn't_get_some_money_soon,_he_will_starve._He_says_he_served_in_the_army_once,_and_will_make_a_loyal_warrior.",
+        "old_translation": "接纳他们。",
+        "translation": "路上有个衣衫褴褛的人，神情疲惫。你派人去问，才知他遭劫，若再没钱就要饿死。他说自己当过兵，愿做忠诚战士。"
+    },
+    {
+        "id": "mno_choice_16_1nor",
+        "text": "Life's_not_fair._Give_him_nothing.",
+        "old_translation": "路上有个衣衫褴褛的人，神情疲惫。你派人去问，才知他遭劫，若再没钱就要饿死。他说自己当过兵，愿做忠诚战士。",
+        "translation": "世道不公。一文不给。"
+    },
+    {
+        "id": "mno_choice_16_2nor",
+        "text": "Give_him_enough_money_to_eat_for_a_day_(10_peningas).",
+        "old_translation": "给他一天饭钱（10银便士）。",
+        "translation": "给他一天饭钱（10银便士）。"
+    },
+    {
+        "id": "mno_choice_16_4nor",
+        "text": "Give_him_money_for_several_days_(200_peningas).",
+        "old_translation": "给他几天饭钱（200银便士）。",
+        "translation": "给他几天饭钱（200银便士）。"
+    },
+    {
+        "id": "mno_choice_16_5nor",
+        "text": "Pay_him_and_suggest_he_join_your_army.",
+        "old_translation": "给他钱，并邀他加入你的队伍。",
+        "translation": "给他钱，并邀他加入你的队伍。"
+    },
+    {
+        "id": "menu_event_17_normal",
+        "text": "A_group_of_bandits_approaches_your_camp._As_your_men_reach_for_their_arms,_the_bandits_put_down_their_weapons_and_say_they_come_in_peace._The_leader_of_the_bandits_approaches_you_and_asks_if_they_may_join_you.",
+        "old_translation": "一群山贼靠近营地。你的人刚摸向武器，山贼却放下兵刃，声称为和平而来。山贼首领上前，请求加入你们。",
+        "translation": "一群山贼靠近营地。你的人刚摸向武器，山贼却放下兵刃，声称为和平而来。山贼首领上前，请求加入你们。"
+    },
+    {
+        "id": "mno_choice_17_1nor",
+        "text": "Of_course!_My_party_always_welcomes_bloodthirsty_men!",
+        "old_translation": "当然！我的队伍永远欢迎嗜血好汉！",
+        "translation": "当然！我的队伍永远欢迎嗜血好汉！"
+    },
+    {
+        "id": "mno_choice_17_2nor",
+        "text": "I'm_sorry._We_have_no_room_for_your_kind!",
+        "old_translation": "抱歉，我们不收你们这种人！",
+        "translation": "抱歉，我们不收你们这种人！"
+    },
+    {
+        "id": "mno_choice_17_3nor",
+        "text": "Prove_yourselves_worthy_by_raiding_a_village!",
+        "old_translation": "去劫一座村庄，证明你们的价值！",
+        "translation": "去劫一座村庄，证明你们的价值！"
+    },
+    {
+        "id": "mno_choice_17_4nor",
+        "text": "Kill_them_all!",
+        "old_translation": "杀光他们！",
+        "translation": "杀光他们！"
+    },
+    {
+        "id": "menu_event_18_normal",
+        "text": "You_come_across_the_grave_of_an_old_forgotten_warlord.",
+        "old_translation": "你来到一座被人遗忘的老领主墓前。",
+        "translation": "你来到一座被人遗忘的老领主墓前。"
+    },
+    {
+        "id": "mno_choice_18_1nor",
+        "text": "Rifle_it_for_loot!",
+        "old_translation": "搜坟夺宝！",
+        "translation": "搜刮坟里的战利品！"
+    },
+    {
+        "id": "mno_choice_18_2nor",
+        "text": "Leave_the_place.",
+        "old_translation": "离开此地。",
+        "translation": "离开此地。"
+    },
+    {
+        "id": "mno_choice_18_3nor",
+        "text": "Tend_to_the_grave_and_pay_your_respects.",
+        "old_translation": "整理墓地，致以敬意。",
+        "translation": "打理坟墓，表达敬意。"
+    },
+    {
+        "id": "menu_event_19_normal",
+        "text": "You_come_across_unguarded_cattle_from_a_nearby_village",
+        "old_translation": "你在附近村庄外发现无人看管的牛。",
+        "translation": "你在附近村庄外发现无人看管的牛"
+    },
+    {
+        "id": "mno_choice_19_1nor",
+        "text": "Return_the_animals_to_the_village_and_ask_for_no_reward.",
+        "old_translation": "把牛送回村里，分文不取。",
+        "translation": "把牛送回村里，分文不取。"
+    },
+    {
+        "id": "mno_choice_19_2nor",
+        "text": "I_will_return_the_animals_and_demand_a_reward.",
+        "old_translation": "我会把牛还回去，但得讨个赏。",
+        "translation": "我会把牛还回去，但得讨个赏。"
+    },
+    {
+        "id": "mno_choice_19_3nor",
+        "text": "Dinner!_Round_up_and_slaughter_the_animals.",
+        "old_translation": "开饭！把牛围起来宰了。",
+        "translation": "开饭！把牛围起来宰了。"
+    },
+    {
+        "id": "menu_event_20_normal",
+        "text": "Your_fame_and_popularity_have_attracted_two_berserkir_to_your_cause.",
+        "old_translation": "你的声望引来两名熊皮狂战士投奔。",
+        "translation": "你的声望引来两名熊皮狂战士投奔。"
+    },
+    {
+        "id": "mno_choice_20_1nor",
+        "text": "Accept_them.",
+        "old_translation": "接纳他们。",
+        "translation": "接纳他们。"
+    },
+    {
+        "id": "mno_choice_20_2nor",
+        "text": "I_don't_need_more_men.",
+        "old_translation": "我不需要更多人。",
+        "translation": "我不需要更多人。"
+    },
+    {
+        "id": "menu_event_21_normal",
+        "text": "Your_fame_and_popularity_have_attracted_two_ulfhednar_to_your_cause.",
+        "old_translation": "你的声望引来两名狼皮狂战士投奔。",
+        "translation": "你的声望引来两名狼皮狂战士投奔。"
+    },
+    {
+        "id": "mno_choice_21_1nor",
+        "text": "Accept_them.",
+        "old_translation": "接纳他们。",
+        "translation": "接纳他们。"
+    },
+    {
+        "id": "mno_choice_21_2nor",
+        "text": "I_don't_need_more_men.",
+        "old_translation": "我不需要更多人。",
+        "translation": "我不需要更多人。"
+    },
+    {
+        "id": "menu_event_22_normal",
+        "text": "During_a_break,_some_of_your_men,_drunk,_start_to_fight_for_the_last_drink_of_mead._Both_draw_their_weapons_and_appear_ready_to_kill.",
+        "old_translation": "接受他们。",
         "translation": "接受他们。"
     },
     {
-        "text": "You_spot_a_poor_man_on_the_road._He_looks_tired._You_send_one_of_your_men_to_ask_him_why_he_is_in_the_wilderness_alone._He_says_that_men_robbed_him,_and_if_he_doesn't_get_some_money_soon,_he_will_starve._He_says_he_served_in_the_army_once,_and_will_make_a_loyal_warrior.",
-        "translation": "你在路上发现一个可怜的人。他看上去很累。您让人问他为什么在孤身一人在这里。他说他被抢劫，如果他不弄点钱他很快就会饿死。他说，他曾经是一名军人，并会成为忠诚的战士以报答你的恩泽。"
-    },
-    {
-        "text": "Life's_not_fair._Give_him_nothing.",
-        "translation": "人生而不平等，什么都不给他。"
-    },
-    {
-        "text": "Give_him_enough_money_to_eat_for_a_day_(10_peningas).",
-        "translation": "只给他一天的饭钱（10先令）。"
-    },
-    {
-        "text": "Give_him_money_for_several_days_(200_peningas).",
-        "translation": "只给他几天的饭钱（200先令）。"
-    },
-    {
-        "text": "Pay_him_and_suggest_he_join_your_army.",
-        "translation": "给他钱并让他加入部队。"
-    },
-    {
-        "text": "A_group_of_bandits_approaches_your_camp._As_your_men_reach_for_their_arms,_the_bandits_put_down_their_weapons_and_say_they_come_in_peace._The_leader_of_the_bandits_approaches_you_and_asks_if_they_may_join_you.",
-        "translation": "一群土匪接近你的营地。当你的人拿起时武器，土匪们放下武器，他们说是为和平而来。土匪的领袖接近你，并询问他们是否可以加入你们。"
-    },
-    {
-        "text": "Of_course!_My_party_always_welcomes_bloodthirsty_men!",
-        "translation": "当然！我的部队永远欢迎嗜血的男人！"
-    },
-    {
-        "text": "Prove_yourselves_worthy_by_raiding_a_village!",
-        "translation": "用劫掠村庄来证明自己吧！"
-    },
-    {
-        "text": "You_come_across_the_grave_of_an_old_forgotten_warlord.",
-        "translation": "你到了一个被人们遗忘的领主古墓。"
-    },
-    {
-        "text": "Rifle_it_for_loot!",
-        "translation": "去挖坟劫掠！"
-    },
-    {
-        "text": "Tend_to_the_grave_and_pay_your_respects.",
-        "translation": "到墓碑前祈祷以表示尊敬。"
-    },
-    {
-        "text": "You_come_across_unguarded_cattle_from_a_nearby_village",
-        "translation": "你在村庄附近看到了一群没人看管的牛群。"
-    },
-    {
-        "text": "Return_the_animals_to_the_village_and_ask_for_no_reward.",
-        "translation": "把这些牛还回去并不要报酬。"
-    },
-    {
-        "text": "I_will_return_the_animals_and_demand_a_reward.",
-        "translation": "我会还回牛群，但也是要报酬的。"
-    },
-    {
-        "text": "Dinner!_Round_up_and_slaughter_the_animals.",
-        "translation": "吃晚餐！把动物围起来杀掉。"
-    },
-    {
-        "text": "Your_fame_and_popularity_have_attracted_two_berserkir_to_your_cause.",
-        "translation": "你的名誉和声望吸引了两个熊皮狂战士想加入你。"
-    },
-    {
-        "text": "Your_fame_and_popularity_have_attracted_two_ulfhednar_to_your_cause.",
-        "translation": "你的名誉和声望吸引了两个狼皮狂战士想加入你。"
-    },
-    {
-        "text": "During_a_break,_some_of_your_men,_drunk,_start_to_fight_for_the_last_drink_of_mead._Both_draw_their_weapons_and_appear_ready_to_kill.",
-        "translation": "在休息中，一部分的你的手下，醉酒了，开始为最后的一瓶密酒打架。双方都剑拔弩张准备杀死对方。"
-    },
-    {
+        "id": "mno_choice_22_1nor",
         "text": "Allow_them_to_fight_for_the_amusement_of_the_rest_of_your_men.",
-        "translation": "允许他们继续打斗下去并以此娱乐你的部下。"
+        "old_translation": "在休息时，你的一些手下喝醉了，为最后一杯蜜酒大打出手。双方拔剑相向，眼看就要出人命。",
+        "translation": "让他们打下去，给其余人取乐。"
     },
     {
+        "id": "mno_choice_22_2nor",
         "text": "You_prohibit_drinking_while_on_campaign._Punish_both_drunks_with_death.",
-        "translation": "下战时禁酒令并处死这两个醉汉。"
+        "old_translation": "让他们打下去，给其余人取乐。",
+        "translation": "你下令战时禁酒，将两个醉汉处死。"
     },
     {
+        "id": "mno_choice_22_3nor",
         "text": "Stop_the_fight_and_punish_the_men_with_lashes.",
-        "translation": "停止这次打斗并以鞭刑处罚这两个醉汉。"
+        "old_translation": "你下令战时禁酒，将两个醉汉处死。",
+        "translation": "制止斗殴，各抽五十鞭。"
     },
     {
+        "id": "menu_event_23_normal",
         "text": "As_you_travel,_a_man_dressed_in_long_robes_approaches_your_army._When_you_grant_him_an_audience,_he_says_he_can_sell_you_Caledfwlch,_the_legendary_sword_of_King_Arthur,_for_8000_peningas.",
-        "translation": "在旅行中，你遇到了一个穿着长袍的男人，他说他可以卖给你卡里德福洛斯---亚瑟王的传奇之剑，定价8000个先令。"
+        "old_translation": "制止斗殴，各抽五十鞭。",
+        "translation": "行军途中，一名长袍男子拦住大军。他声称愿以8000银便士出售亚瑟王的传奇之剑卡里德福洛斯。"
     },
     {
+        "id": "mno_choice_23_1nor",
         "text": "Buy_the_sword.",
-        "translation": "购买这把剑。"
+        "old_translation": "行军途中，一名长袍男子拦住大军。他声称愿以8000银便士出售亚瑟王的传奇之剑卡里德福洛斯。",
+        "translation": "买下此剑。"
     },
     {
+        "id": "mno_choice_23_2nor",
         "text": "You_have_no_money_to_pay_the_sword.",
-        "translation": "你没有钱去购买这把剑。"
+        "old_translation": "买下此剑。",
+        "translation": "你囊中羞涩，买不起这把剑。"
     },
     {
+        "id": "mno_choice_23_3nor",
         "text": "I'm_not_interested.",
-        "translation": "我没有兴趣。"
+        "old_translation": "我没兴趣。",
+        "translation": "我没兴趣。"
     },
     {
+        "id": "menu_event_24_normal",
         "text": "As_you_travel,_you_come_upon_a_farm._Instead_of_showing_customary_hospitality,_the_farmer_bars_all_the_entries_and_puts_his_slaves,_armed,_at_the_door._Still,_you_know_they_are_no_match_for_your_men.",
-        "translation": "在旅行中，你来到了一个农场。与普通的农场的热情好客大不相同，这些农民封锁了所有的入口并让他们的奴隶武装着，看守着门口，不过，你知道他们并不是你的战士的对手。"
+        "old_translation": "你囊中羞涩，买不起这把剑。",
+        "translation": "行军途中，你来到一座农庄。庄主一反常态，紧闭门户，让武装奴隶守在门口。你心知他们挡不住你的战士。"
     },
     {
+        "id": "mno_choice_24_1nor",
         "text": "Attack_and_burn_the_farm_as_punishment.",
-        "translation": "进攻并且烧掉这个农场以示惩戒。"
+        "old_translation": "行军途中，你来到一座农庄。庄主一反常态，紧闭门户，让武装奴隶守在门口。你心知他们挡不住你的战士。",
+        "translation": "攻进去，焚毁农庄以示惩戒。"
     },
     {
+        "id": "mno_choice_24_2nor",
         "text": "Move_on._It's_not_worth_stopping.",
-        "translation": "离开，这并不值得让整个军队停下。"
+        "old_translation": "攻进去，焚毁农庄以示惩戒。",
+        "translation": "继续前进，不值得为此停留。"
     },
     {
+        "id": "menu_event_25_normal",
         "text": "Two_men_stop_your_army._They_tell_you_that_you_are_surrounded_by_five_hundred_warriors,_ready_to_attack_if_you_don't_pay_them_2000_peningas.",
-        "translation": "两个男人阻停了你的军队。他们告诉你你已经被五百个勇士包围了，他们时刻准备着发起进攻如果你不支付2000先令。"
+        "old_translation": "继续前进，不值得为此停留。",
+        "translation": "两名男子拦住大军，称你已被五百名战士包围，若不交出2000银便士，他们便发动进攻。"
     },
     {
+        "id": "mno_choice_25_1nor",
         "text": "Pay_them.",
-        "translation": "支付。"
+        "old_translation": "两名男子拦住大军，称你已被五百名战士包围，若不交出2000银便士，他们便发动进攻。",
+        "translation": "付钱。"
     },
     {
+        "id": "mno_choice_25_2nor",
         "text": "Attack!",
+        "old_translation": "付钱。",
         "translation": "进攻！"
     },
     {
+        "id": "mno_choice_25_3nor",
         "text": "Go_on_your_way.",
-        "translation": "离开。"
+        "old_translation": "进攻！",
+        "translation": "继续行军。"
     },
     {
+        "id": "menu_event_26_normal",
         "text": "One_of_you_scouts_shows_up_with_a_bag_on_his_back._You_don't_want_to_appear_suspicious,_but_a_fight-ready_soldier_would_never_carry_such_a_bag._It_sounds_like..._many_heavy_coins._You_decide_to.",
-        "translation": "一个你的斥候带来了一个袋子，你不想让他觉得你可疑，但是一个准备着战斗的战士永远不会带着这样一个袋子。听起来像是许多沉重的硬币，你决定"
+        "old_translation": "继续行军。",
+        "translation": "一名斥候背着鼓鼓囊囊的袋子归来。你不想显得多疑，但备战士兵绝不会带这种袋子。里面似乎装着沉甸甸的硬币。你决定——"
     },
     {
+        "id": "mno_choice_26_1nor",
         "text": "Confiscate_the_bag_and_punish_the_soldier.",
-        "translation": "没收袋子并惩罚这个士兵。"
+        "old_translation": "一名斥候背着鼓鼓囊囊的袋子归来。你不想显得多疑，但备战士兵绝不会带这种袋子。里面似乎装着沉甸甸的硬币。你决定——",
+        "translation": "没收袋子，惩处士兵。"
     },
     {
+        "id": "mno_choice_26_2nor",
         "text": "Allow_him_to_keep_it._He_risks_his_life_for_you,_so_he_deserves_it.",
-        "translation": "容许他保留这个袋子，他为你出生入死，他享有这个权利。"
+        "old_translation": "没收袋子，惩处士兵。",
+        "translation": "让他留着。他为你拼命，理应得到这份报酬。"
     },
     {
+        "id": "mno_choice_26_3nor",
         "text": "Force_him_to_share_the_benefits_with_the_whole_army.",
-        "translation": "强迫他与整个军队分享这些金子。"
+        "old_translation": "强迫他与全军分享好处。",
+        "translation": "逼他把好处分给全军。"
     },
     {
+        "id": "menu_event_27_normal",
         "text": "Your_soldiers_come_with_an_old_man._After_a_long_conversation,_he_admits_his_group_wants_to_join_your_army_and_leave_their_village._Accepting_them_could_cause_problems_with_their_lords._You_decide_to:",
-        "translation": "你的战士们带着一个老人出现了。在一段老生常谈之后，他告诉你他的村民们愿意加入你的军队并离开这个村子。接受他的请求会让他们的领主愤怒，你决定："
+        "old_translation": "你的士兵带来一位老人。长谈之后，他承认他们全村想加入你的队伍并离开故土。若接纳，必惹怒他们的领主。你决定：",
+        "translation": "你的士兵带来一位老人。长谈后，他承认他们全村想加入你的队伍并离开故土。若接纳，必惹怒他们的领主。你决定："
     },
     {
+        "id": "mno_choice_27_1nor",
         "text": "Not_get_involved_in_local_rebellions.",
-        "translation": "不要在当地的暴动中插手。"
+        "old_translation": "不插手地方叛乱。",
+        "translation": "不插手地方叛乱。"
     },
     {
+        "id": "mno_choice_27_2nor",
         "text": "Not_help_him_and_send_his_dead_body_to_the_village.",
-        "translation": "不帮他并且把他的尸体送到村子里。"
+        "old_translation": "不救他，把他的尸体送回村子。",
+        "translation": "不救他，把他的尸体送回村子。"
     },
     {
+        "id": "mno_choice_27_3nor",
         "text": "You_could_use_extra_men.",
-        "translation": "你需要一些人手。"
+        "old_translation": "你正缺人手。",
+        "translation": "你正缺人手。"
     },
     {
+        "id": "menu_event_28_normal",
         "text": "While_you_camp,_a_delegation_of_people_from_nearby_approach._They_say_they_have_had_a_bad_harvest_and_ask_you_for_money_to_feed_their_children.",
-        "translation": "当你扎营的时候，附近的一个代表团出现了。他们说他们遇到了差的收成，并向你乞讨钱来养他们的孩子。"
+        "old_translation": "你扎营时，附近来了一群人。他们说收成糟糕，求你施舍银便士养活小孩。",
+        "translation": "你扎营时，附近来了一群人。他们说收成糟糕，求你施舍银便士养活小孩。"
     },
     {
+        "id": "mno_choice_28_1nor",
         "text": "Give_them_4000_peningas.",
-        "translation": "给他们4000个先令。"
+        "old_translation": "给他们4000银便士。",
+        "translation": "给他们4000银便士。"
     },
     {
+        "id": "mno_choice_28_2nor",
         "text": "Give_them_1000_peningas.",
-        "translation": "给他们1000个先令。"
+        "old_translation": "给他们1000银便士。",
+        "translation": "给他们1000银便士。"
     },
     {
+        "id": "mno_choice_28_3nor",
         "text": "You_tell_them_you_do_not_have_enough_money_to_share.",
-        "translation": "你告诉他们你没有足够的钱。"
+        "old_translation": "你告诉他们自己也没余钱。",
+        "translation": "你告诉他们自己也没余钱。"
     },
     {
+        "id": "mno_choice_28_4nor",
+        "text": "Ignore_them.",
+        "old_translation": "拨出200银便士作为救济金。",
+        "translation": "不予理会。"
+    },
+    {
+        "id": "menu_event_29_normal",
         "text": "While_you_camp,_a_delegation_of_people_from_nearby_approach._They_seem_to_have_a_problem_with_their_lord_and_want_your_advice._Apparently,_Vikings_have_ransacked_the_area,_so_they_are_poor_now,_but_must_still_pay_taxes_to_their_lord._As_their_lord_did_not_protect_them_from_the_Vikings,_they_ask_whether_they_should_not_pay_and_prepare_to_fight_if_their_lord_attacks_them_or_whether_they_should_pay_and_let_their_families_starve.",
-        "translation": "当你扎营的时候，附近的一个代表团出现了。他们看起来与他们的领主不和而来寻求你的建议。在维京人的洗劫之后，他们变得非常贫穷，但是他们必须向他们的领主缴税。他们的领主并没有从维京人的刀剑下保护他们，他们要在准备反戈一击，如果他们的领主袭击他们;或交收税金，让他们的家人挨饿之间做出选择。"
+        "old_translation": "你扎营时，附近来了一群人。他们与领主有矛盾，前来求教。维京人劫掠后，他们一贫如洗，却仍得向领主缴税。领主未能保护他们，他们问：若拒税备战，领主来攻怎么办？若缴税，家人就得挨饿。你决定：",
+        "translation": "你扎营时，附近来了一群人。他们与领主有矛盾，前来求教。维京人劫掠后，他们一贫如洗，却仍得向领主缴税。领主未能保护他们，他们问：若拒税备战，领主来攻怎么办？若缴税，家人就得挨饿。你决定："
     },
     {
+        "id": "mno_choice_29_1nor",
         "text": "Give_them_8000_peningas_for_paying_their_taxes_and_buying_food.",
-        "translation": "给他们8000先令让他们交税并购买食物。"
+        "old_translation": "给他们8000银便士，让他们缴税并买粮。",
+        "translation": "给他们8000银便士，让他们缴税并买粮。"
     },
     {
+        "id": "mno_choice_29_2nor",
         "text": "Give_them_4000_peningas_for_paying_their_taxes.",
-        "translation": "给他们4000先令让他们交税。"
+        "old_translation": "给他们4000银便士缴税。",
+        "translation": "给他们4000银便士缴税。"
     },
     {
+        "id": "mno_choice_29_3nor",
         "text": "You_tell_them_they_should_fight_rather_than_pay.",
-        "translation": "你告诉他们应该战斗而不交税金。"
+        "old_translation": "你告诉他们宁可战斗也不缴税。",
+        "translation": "你告诉他们宁可战斗也不缴税。"
     },
     {
+        "id": "mno_choice_29_4nor",
         "text": "They_should_pay,_for_their_lord_would_kill_more_of_them_than_hunger.",
-        "translation": "他们应该交税金，因为他们的领主比饥饿更会杀人。"
+        "old_translation": "他们应缴税，领主的刀剑比饥饿更致命。",
+        "translation": "他们应缴税，领主的刀剑比饥饿更致命。"
     },
     {
+        "id": "mno_choice_29_5nor",
+        "text": "Ignore_them.",
+        "old_translation": "拨出200银便士作为救济金。",
+        "translation": "不予理会。"
+    },
+    {
+        "id": "menu_event_30_normal",
         "text": "Along_the_way,_you_find_a_sick_woman._Her_skin_has_a_yellow_tone,_and_she_coughs_constantly._She's_from_a_nearby_village,_but_as_no_one_there_knows_how_to_cure_her_illness,_they_have_sent_her_to_the_roadside_to_see_if_a_traveler_knows_a_cure.",
-        "translation": "在路上，你找到了一个身患重病的女人，她的皮肤显露黄斑，而她不断地在咳嗽。她来自附近的一个村庄，不过无人能够治好她的疾病，他们把她留在那儿，希望过往者知道些能治好她的线索。"
+        "old_translation": "途中，你遇见一位病妇。她皮肤发黄，咳个不停。她来自附近村庄，因无人能医，被送到路边，盼有过路旅行者知道疗法。",
+        "translation": "途中，你遇见一位病妇。她皮肤发黄，咳个不停。她来自附近村庄，因无人能医，被送到路边，盼有过路旅行者知道疗法。"
     },
     {
+        "id": "mno_choice_30_1nor",
         "text": "Give_her_1000_peningas_to_hire_a_good_physician.",
-        "translation": "给她1000先令去找一位医者。"
+        "old_translation": "给她1000银便士，请个好医生。",
+        "translation": "给她1000银便士，请个好医生。"
     },
     {
+        "id": "mno_choice_30_2nor",
         "text": "As_the_best_physician,_{reg3?you_order:{s3}_orders}_a_blood-letting.",
-        "translation": "作为最好的医者，{reg3?你决定:{s3}决定}放血治疗。"
+        "old_translation": "作为最好的医生，{reg3?你下令:{s3}下令}放血。",
+        "translation": "作为最好的医生，{reg3?你下令:{s3}下令}放血。"
     },
     {
+        "id": "mno_choice_30_3nor",
         "text": "Ignore_her._Her_illness_could_be_contagious.",
-        "translation": "离开她，她的疾病可能会传染。"
+        "old_translation": "别管她，这病可能传染。",
+        "translation": "别管她，这病可能传染。"
     },
     {
+        "id": "menu_troop_camp",
         "text": "A_small_camp_is_established_for_troops_you_want_to_leave_in_this_place_for_the_moment.^^(Select_the_troops_you_wish_to_leave_in_this_camp_and_press_the_Give_button_to_transfer_them.)",
-        "translation": "部队扎了一个小营地，你想先离开一小会。^^（选择你要留在营地的士兵，按给出取回键转换。）"
+        "old_translation": "你在此地留下部分部队，建起一座小营地。^^（选择要留在营地的士兵，按下“给予”按钮即可转移。）",
+        "translation": "你在此地留下部分部队，建起一座小营地。^^（选择要留在营地的士兵，按下“给予”按钮即可转移。）"
     },
     {
+        "id": "mno_station_troops",
         "text": "Take_a_look_at_the_troops.",
-        "translation": "管理部队"
+        "old_translation": "查看部队",
+        "translation": "查看部队"
     },
     {
+        "id": "menu_start_beda_final",
         "text": "FINAL_",
+        "old_translation": "最终",
         "translation": "最终"
     },
     {
+        "id": "menu_ship_capture",
         "text": "You_are_able_to_capture_one_of_the_enemy's_ships._It's_a_{s2},_but_due_to_the_fight,_the_'{s1}'_is_in_a_bad_condition._Do_you_want_to_add_this_ship_to_your_fleet_nevertheless?",
-        "translation": "你能够俘虏敌人的一艘船，那是一艘{s2}，但由于之前的战斗，“{s1}”的状况很恶劣。你想把这条船加入到你的舰队吗？"
+        "old_translation": "你成功俘获一艘敌舰，那是一艘{s2}，但“{s1}”在战斗中受损严重。你仍要将它编入舰队吗？",
+        "translation": "你成功俘获一艘敌舰，那是一艘{s2}，但“{s1}”在战斗中受损严重。你仍要将它编入舰队吗？"
     },
     {
+        "id": "mno_capture",
         "text": "Add_the_ship_to_your_fleet.",
-        "translation": "加入它。"
+        "old_translation": "将船加入舰队",
+        "translation": "将船加入舰队"
     },
     {
+        "id": "mno_leave_ship",
         "text": "Leave_the_ship_behind.",
-        "translation": "把船丢弃。"
+        "old_translation": "弃船离开",
+        "translation": "弃船离开"
     },
     {
+        "id": "menu_sandboxmode_ok",
         "text": "Go_to_Sandbox_mode?",
-        "translation": "开始沙盒模式？"
+        "old_translation": "进入沙盒模式？",
+        "translation": "进入沙盒模式？"
     },
     {
+        "id": "menu_start_sea_travel",
         "text": "You_are_starting_a_sea_travel.",
-        "translation": "你开始一趟海上之旅。"
+        "old_translation": "你即将开始海上航行。",
+        "translation": "你即将开始海上航行。"
     },
     {
+        "id": "menu_mutiny_start",
         "text": "The_morale_of_some_troops_is_low._They_start_a_mutiny.",
-        "translation": "一些部队的士气低落。他们发动了兵变。"
+        "old_translation": "部分部队士气低落，他们发动了兵变。",
+        "translation": "部分部队士气低落，他们发动了兵变。"
     },
     {
+        "id": "menu_mutiny_end",
         "text": "After_the_mutiny,_the_situation_calms_down.",
-        "translation": "兵变后局势平静了下来。"
+        "old_translation": "兵变过后，局势逐渐平息。",
+        "translation": "兵变过后，局势逐渐平息。"
     },
     {
+        "id": "menu_work_start",
         "text": "Before_long,_your_limbs_tire_of_the_monotonous_work,_but,_as_agreed,_you_work_for_an_entire_day.",
-        "translation": "不久，你的四肢由于单调乏味的工作变的劳累，但仍然能支持你工作一整天的时间。"
+        "old_translation": "不久，单调的劳作让你的四肢酸痛，但你仍如约干了一整天。",
+        "translation": "不久，单调的劳作让你的四肢酸痛，但你仍如约干了一整天。"
     },
     {
+        "id": "menu_work_end",
         "text": "Content,_you_look_back_on_a_day_of_honest_labour,_but_then,_looking_at_your_wages,_you_think_that_a_life_of_honest_labour_seems_to_be_a_rather_meager_existence.^^{s7}",
-        "translation": "你回忆了一天辛勤劳动。但是看了看自己的酬劳，你认为一个辛勤劳动的人的生活似乎是贫穷的。^^{s7}"
+        "old_translation": "你满意地回顾这一天的诚实劳动，可看到工钱时，又觉得靠诚实劳动过活实在清苦。^^{s7}",
+        "translation": "你满意地回顾这一天的诚实劳动，可看到工钱时，又觉得靠诚实劳动过活实在清苦。^^{s7}"
     },
     {
+        "id": "menu_landing_point_encounter_as_marshal",
         "text": "You_are_currently_marshal._You_attempt_to_disembark._{s1}_{s2}^^Do_you_want_to_disembark_now_or_wait?",
-        "translation": "你正在整顿部队并且试图上岸{s1}{s2}^^你想现在上岸还是等会？"
+        "old_translation": "你身为元帅，正尝试登陆。{s1}{s2}^^现在登陆还是再等等？",
+        "translation": "你身为元帅，正尝试登陆。{s1} {s2}^^现在登陆还是再等等？"
     },
     {
+        "id": "mno_disembark_yeslp",
+        "text": "Disembark.",
+        "old_translation": "上岸。",
+        "translation": "登陆。"
+    },
+    {
+        "id": "mno_disembark_nolp",
         "text": "Wait.",
+        "old_translation": "等等。",
         "translation": "等等。"
     },
     {
+        "id": "menu_landet_ships_encounter_as_marshal",
         "text": "You_are_currently_marshal._You_attempt_to_embark._{s1}_{s2}^^Do_you_want_to_embark_now_or_wait?",
-        "translation": "你正在整顿部队并且试图上船。{s1}{s2}^^你想现在上船还是等会？"
+        "old_translation": "你身为元帅，正尝试登船。{s1}{s2}^^现在登船还是再等等？",
+        "translation": "你身为元帅，正尝试登船。{s1} {s2}^^现在登船还是再等等？"
     },
     {
+        "id": "mno_reembark_yesls",
+        "text": "Embark.",
+        "old_translation": "拆除你的私人庇护所（500银便士）。",
+        "translation": "启程。"
+    },
+    {
+        "id": "mno_reembark_nols",
+        "text": "Wait.",
+        "old_translation": "等等。",
+        "translation": "等等。"
+    },
+    {
+        "id": "menu_hunting",
         "text": "You_have_encountered_{s1}._What_do_you_want_to_do?",
-        "translation": "你找到了{s1}。你希望干点什么？"
+        "old_translation": "等等。",
+        "translation": "你遇到了{s1}。你想做什么？"
     },
     {
+        "id": "mno_hunt_go",
         "text": "Go_hunting.",
-        "translation": "去狩猎。"
+        "old_translation": "你遇到了{s1}。你想做什么？",
+        "translation": "去打猎。"
     },
     {
+        "id": "menu_slave_hideout",
         "text": "You_have_encountered_a_hideout._What_do_you_want_to_do?",
-        "translation": "你找到了一个藏身之处，你希望干点什么？"
+        "old_translation": "你发现了一处贼窝。你想怎么做？",
+        "translation": "你发现了一处贼窝。你想怎么做？"
     },
     {
+        "id": "mno_not_now",
         "text": "Not_now.",
-        "translation": "不是现在。"
+        "old_translation": "现在不了。",
+        "translation": "现在不了。"
     },
     {
+        "id": "mno_new_goal",
         "text": "Choose_a_new_goal.",
-        "translation": "选择一个新的目标。"
+        "old_translation": "选择新的目标。",
+        "translation": "选择新的目标。"
     },
     {
+        "id": "menu_reconstruct_pre2049",
         "text": "This_save_game_appears_to_have_been_ruined_by_the_bug_in_v2.049._We_recommend_restoring_the_game_from_last_savegame_backup.sav_or_your_computer_files_backup._Do_you_wish_to_try_to_reconstruct_the_game,_instead?",
-        "translation": ""
+        "old_translation": "这份存档似乎已被v2.049的漏洞破坏。我们建议从savegame_backup.sav或电脑备份中恢复。你是否仍想尝试重建存档？",
+        "translation": "这份存档似乎已被v2.049的漏洞破坏。我们建议从savegame_backup.sav或电脑备份中恢复。你是否仍想尝试重建存档？"
     },
     {
+        "id": "mno_choice_yes",
         "text": "Yes,_attempt_to_reconstruct_save_game.",
-        "translation": ""
+        "old_translation": "是，尝试重建存档。",
+        "translation": "是，尝试重建存档。"
     },
     {
+        "id": "mno_choice_no",
         "text": "No,_I_will_look_for_a_game_saved_before_v2.049.",
-        "translation": ""
+        "old_translation": "否，我会寻找v2.049之前的存档。",
+        "translation": "否，我会寻找v2.049之前的存档。"
     }
 ]

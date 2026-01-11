@@ -1,2002 +1,3002 @@
 [
     {
+        "id": "trp_player",
         "text": "Player",
+        "old_translation": "",
         "translation": ""
     },
     {
+        "id": "trp_player_pl",
+        "text": "Player",
+        "old_translation": "",
+        "translation": ""
+    },
+    {
+        "id": "trp_multiplayer_profile_troop_male",
         "text": "multiplayer_profile_troop_male",
+        "old_translation": "",
         "translation": "联机男性玩家角色"
     },
     {
+        "id": "trp_multiplayer_profile_troop_male_pl",
+        "text": "multiplayer_profile_troop_male",
+        "old_translation": "",
+        "translation": "联机男性玩家角色"
+    },
+    {
+        "id": "trp_multiplayer_profile_troop_female",
         "text": "multiplayer_profile_troop_female",
+        "old_translation": "",
         "translation": "联机女性玩家角色"
     },
     {
+        "id": "trp_multiplayer_profile_troop_female_pl",
+        "text": "multiplayer_profile_troop_female",
+        "old_translation": "",
+        "translation": "联机女性玩家角色"
+    },
+    {
+        "id": "trp_temp_troop",
         "text": "Temp_Troop",
+        "old_translation": "",
         "translation": "TempTroop"
     },
     {
+        "id": "trp_temp_troop_pl",
+        "text": "Temp_Troop",
+        "old_translation": "",
+        "translation": "TempTroop"
+    },
+    {
+        "id": "trp_find_item_cheat",
         "text": "find_item_cheat",
+        "old_translation": "",
         "translation": "finditemcheat"
     },
     {
-        "text": "Random_Town_Sequence",
-        "translation": "RandomTownSequence"
+        "id": "trp_find_item_cheat_pl",
+        "text": "find_item_cheat",
+        "old_translation": "",
+        "translation": "finditemcheat"
     },
     {
+        "id": "trp_random_town_sequence",
+        "text": "Random_Town_Sequence",
+        "old_translation": "",
+        "translation": "随机城镇序列"
+    },
+    {
+        "id": "trp_random_town_sequence_pl",
+        "text": "Random_Town_Sequence",
+        "old_translation": "",
+        "translation": "随机城镇序列"
+    },
+    {
+        "id": "trp_tournament_participants",
         "text": "Tournament_Participants",
+        "old_translation": "",
         "translation": "竞技场选手"
     },
     {
-        "text": "Maceman",
-        "translation": "锤子手"
+        "id": "trp_tournament_participants_pl",
+        "text": "Tournament_Participants",
+        "old_translation": "",
+        "translation": "竞技场选手"
     },
     {
+        "id": "trp_tutorial_maceman",
+        "text": "Maceman",
+        "old_translation": "",
+        "translation": "锤士"
+    },
+    {
+        "id": "trp_tutorial_maceman_pl",
+        "text": "Maceman",
+        "old_translation": "",
+        "translation": "锤士"
+    },
+    {
+        "id": "trp_tutorial_archer",
         "text": "Archer",
+        "old_translation": "",
         "translation": "弓箭手"
     },
     {
+        "id": "trp_tutorial_archer_pl",
+        "text": "Archer",
+        "old_translation": "",
+        "translation": "弓箭手"
+    },
+    {
+        "id": "trp_tutorial_swordsman",
         "text": "Swordsman",
+        "old_translation": "",
         "translation": "剑士"
     },
     {
+        "id": "trp_tutorial_swordsman_pl",
+        "text": "Swordsman",
+        "old_translation": "",
+        "translation": "剑士"
+    },
+    {
+        "id": "trp_novice_fighter",
         "text": "Novice_Fighter",
+        "old_translation": "",
         "translation": "初级斗士"
     },
     {
+        "id": "trp_novice_fighter_pl",
         "text": "Novice_Fighters",
+        "old_translation": "",
         "translation": "初级斗士"
     },
     {
+        "id": "trp_regular_fighter",
         "text": "Fighter",
+        "old_translation": "",
         "translation": "正规斗士"
     },
     {
+        "id": "trp_regular_fighter_pl",
         "text": "Regular_Fighters",
+        "old_translation": "",
         "translation": "正规斗士"
     },
     {
+        "id": "trp_veteran_fighter",
         "text": "Veteran_Fighter",
+        "old_translation": "",
         "translation": "资深斗士"
     },
     {
+        "id": "trp_veteran_fighter_pl",
         "text": "Veteran_Fighters",
+        "old_translation": "",
         "translation": "资深斗士"
     },
     {
+        "id": "trp_champion_fighter",
         "text": "Champion_Fighter",
+        "old_translation": "",
         "translation": "精英斗士"
     },
     {
+        "id": "trp_champion_fighter_pl",
         "text": "Champion_Fighters",
+        "old_translation": "",
         "translation": "精英斗士"
     },
     {
+        "id": "trp_arena_training_fighter_1",
+        "text": "Novice_Fighter",
+        "old_translation": "",
+        "translation": "初级斗士"
+    },
+    {
+        "id": "trp_arena_training_fighter_1_pl",
+        "text": "Novice_Fighters",
+        "old_translation": "",
+        "translation": "初级斗士"
+    },
+    {
+        "id": "trp_arena_training_fighter_2",
+        "text": "Novice_Fighter",
+        "old_translation": "",
+        "translation": "初级斗士"
+    },
+    {
+        "id": "trp_arena_training_fighter_2_pl",
+        "text": "Novice_Fighters",
+        "old_translation": "",
+        "translation": "初级斗士"
+    },
+    {
+        "id": "trp_arena_training_fighter_3",
         "text": "Regular_Fighter",
+        "old_translation": "",
         "translation": "正规斗士"
     },
     {
+        "id": "trp_arena_training_fighter_3_pl",
+        "text": "Regular_Fighters",
+        "old_translation": "",
+        "translation": "正规斗士"
+    },
+    {
+        "id": "trp_arena_training_fighter_4",
+        "text": "Regular_Fighter",
+        "old_translation": "",
+        "translation": "正规斗士"
+    },
+    {
+        "id": "trp_arena_training_fighter_4_pl",
+        "text": "Regular_Fighters",
+        "old_translation": "",
+        "translation": "正规斗士"
+    },
+    {
+        "id": "trp_arena_training_fighter_5",
+        "text": "Regular_Fighter",
+        "old_translation": "",
+        "translation": "正规斗士"
+    },
+    {
+        "id": "trp_arena_training_fighter_5_pl",
+        "text": "Regular_Fighters",
+        "old_translation": "",
+        "translation": "正规斗士"
+    },
+    {
+        "id": "trp_arena_training_fighter_6",
+        "text": "Veteran_Fighter",
+        "old_translation": "",
+        "translation": "资深斗士"
+    },
+    {
+        "id": "trp_arena_training_fighter_6_pl",
+        "text": "Veteran_Fighters",
+        "old_translation": "",
+        "translation": "资深斗士"
+    },
+    {
+        "id": "trp_arena_training_fighter_7",
+        "text": "Veteran_Fighter",
+        "old_translation": "",
+        "translation": "资深斗士"
+    },
+    {
+        "id": "trp_arena_training_fighter_7_pl",
+        "text": "Veteran_Fighters",
+        "old_translation": "",
+        "translation": "资深斗士"
+    },
+    {
+        "id": "trp_arena_training_fighter_8",
+        "text": "Veteran_Fighter",
+        "old_translation": "",
+        "translation": "资深斗士"
+    },
+    {
+        "id": "trp_arena_training_fighter_8_pl",
+        "text": "Veteran_Fighters",
+        "old_translation": "",
+        "translation": "资深斗士"
+    },
+    {
+        "id": "trp_arena_training_fighter_9",
+        "text": "Champion_Fighter",
+        "old_translation": "",
+        "translation": "精英斗士"
+    },
+    {
+        "id": "trp_arena_training_fighter_9_pl",
+        "text": "Champion_Fighters",
+        "old_translation": "",
+        "translation": "精英斗士"
+    },
+    {
+        "id": "trp_arena_training_fighter_10",
+        "text": "Champion_Fighter",
+        "old_translation": "",
+        "translation": "精英斗士"
+    },
+    {
+        "id": "trp_arena_training_fighter_10_pl",
+        "text": "Champion_Fighters",
+        "old_translation": "",
+        "translation": "精英斗士"
+    },
+    {
+        "id": "trp_cattle",
         "text": "Cattle",
+        "old_translation": "",
         "translation": "牛"
     },
     {
+        "id": "trp_cattle_pl",
+        "text": "Cattle",
+        "old_translation": "",
+        "translation": "牛"
+    },
+    {
+        "id": "trp_farmer",
         "text": "Farmer",
+        "old_translation": "",
         "translation": "农民"
     },
     {
+        "id": "trp_farmer_pl",
         "text": "Farmers",
+        "old_translation": "",
         "translation": "农民"
     },
     {
+        "id": "trp_cantaber_iuventus",
         "text": "Cantabrian_Warrior",
+        "old_translation": "",
         "translation": "坎塔布里亚战士"
     },
     {
+        "id": "trp_cantaber_iuventus_pl",
         "text": "Cantabrian_Raider",
-        "translation": "坎塔布里亚战士"
+        "old_translation": "",
+        "translation": "坎塔布里亚掠袭者"
     },
     {
+        "id": "trp_asturias_veteran",
         "text": "Asturian_Veteran",
+        "old_translation": "",
         "translation": "阿斯图里亚斯老兵"
     },
     {
+        "id": "trp_asturias_veteran_pl",
+        "text": "Asturian_Veteran",
+        "old_translation": "",
+        "translation": "阿斯图里亚斯老兵"
+    },
+    {
+        "id": "trp_gallaecia_warrior",
         "text": "Gallaecian_Comes's_Guard",
-        "translation": "加雷西亚侍卫"
+        "old_translation": "",
+        "translation": "加雷西亚伯爵侍卫"
     },
     {
+        "id": "trp_gallaecia_warrior_pl",
+        "text": "Gallaecian_Comes's_Guard",
+        "old_translation": "",
+        "translation": "加雷西亚伯爵侍卫"
+    },
+    {
+        "id": "trp_townsman",
         "text": "Townsman",
+        "old_translation": "",
         "translation": "市民"
     },
     {
+        "id": "trp_townsman_pl",
         "text": "Townsmen",
+        "old_translation": "",
         "translation": "市民"
     },
     {
+        "id": "trp_watchman",
         "text": "Watchman",
+        "old_translation": "",
         "translation": "雇佣哨兵"
     },
     {
+        "id": "trp_watchman_pl",
         "text": "Watchmen",
+        "old_translation": "",
         "translation": "雇佣哨兵"
     },
     {
+        "id": "trp_mercenary_cavalry",
         "text": "Frank_Horseman",
-        "translation": "弗兰克雇佣骑兵"
+        "old_translation": "",
+        "translation": "法兰克骑兵"
     },
     {
+        "id": "trp_mercenary_cavalry_pl",
         "text": "Frank_Horsemen",
-        "translation": "弗兰克雇佣骑兵"
+        "old_translation": "",
+        "translation": "法兰克骑兵"
     },
     {
+        "id": "trp_caravan_guard",
         "text": "Spearman",
+        "old_translation": "",
         "translation": "雇佣矛兵"
     },
     {
+        "id": "trp_caravan_guard_pl",
         "text": "Spearmen",
+        "old_translation": "",
         "translation": "雇佣矛兵"
     },
     {
+        "id": "trp_mercenary_swordsman",
         "text": "Veteran",
-        "translation": "资深士兵"
+        "old_translation": "",
+        "translation": "老兵"
     },
     {
+        "id": "trp_mercenary_swordsman_pl",
         "text": "Veterans",
-        "translation": "资深士兵"
+        "old_translation": "",
+        "translation": "老兵"
     },
     {
+        "id": "trp_regular_sailors",
         "text": "Sailor",
+        "old_translation": "",
         "translation": "水手"
     },
     {
+        "id": "trp_regular_sailors_pl",
         "text": "Sailors",
+        "old_translation": "",
         "translation": "水手"
     },
     {
+        "id": "trp_mercenary_horseman",
         "text": "Aquitanian_Skirmisher",
+        "old_translation": "",
         "translation": "阿基坦游骑兵"
     },
     {
+        "id": "trp_mercenary_horseman_pl",
         "text": "Aquitanian_Skirmishers",
+        "old_translation": "",
         "translation": "阿基坦游骑兵"
     },
     {
+        "id": "trp_mercenary_leader",
         "text": "Old_Captain",
+        "old_translation": "",
         "translation": "老队长"
     },
     {
+        "id": "trp_mercenary_leader_pl",
         "text": "Old_Captains",
+        "old_translation": "",
         "translation": "老队长"
     },
     {
+        "id": "trp_hired_blade",
         "text": "Svear_Warrior",
+        "old_translation": "",
         "translation": "斯韦阿战士"
     },
     {
+        "id": "trp_hired_blade_pl",
         "text": "Sviar_Warriors",
+        "old_translation": "",
         "translation": "斯韦阿战士"
     },
     {
+        "id": "trp_mercenary_crossbowman",
         "text": "Finn_Archer",
+        "old_translation": "",
         "translation": "芬兰弓箭手"
     },
     {
+        "id": "trp_mercenary_crossbowman_pl",
         "text": "Finnas_Archers",
+        "old_translation": "",
         "translation": "芬兰弓箭手"
     },
     {
+        "id": "trp_mercenaries_end",
         "text": "Villager",
+        "old_translation": "",
         "translation": "村民"
     },
     {
+        "id": "trp_mercenaries_end_pl",
         "text": "Villagers",
+        "old_translation": "",
         "translation": "村民"
     },
     {
+        "id": "trp_norse_slave",
         "text": "Norse_Freedman_(Leysingi)",
-        "translation": "诺尔斯自由民(轻.步)"
+        "old_translation": "",
+        "translation": "诺斯自由民（赎身奴隶）"
     },
     {
+        "id": "trp_norse_slave_pl",
         "text": "Norse_Freedmen_(Leysingja)",
-        "translation": "诺尔斯自由民(轻.步)"
+        "old_translation": "",
+        "translation": "诺斯自由民（赎身奴隶）"
     },
     {
+        "id": "trp_norse_bowman",
         "text": "Norse_Bowman_(Gestr)",
-        "translation": "诺尔斯弓箭手(游)"
+        "old_translation": "",
+        "translation": "诺斯弓箭手（门客）"
     },
     {
+        "id": "trp_norse_bowman_pl",
         "text": "Norse_Bowmen_(Gestir)",
-        "translation": "诺尔斯弓箭手(游)"
+        "old_translation": "",
+        "translation": "诺斯弓箭手（门客）"
     },
     {
+        "id": "trp_norse_elitearcher",
         "text": "Norse_Warrior_Archer_(Heimthegi)",
-        "translation": "诺尔斯精英弓箭手(中.游)"
+        "old_translation": "",
+        "translation": "诺斯战士弓箭手（家臣）"
     },
     {
+        "id": "trp_norse_elitearcher_pl",
         "text": "Norse_Warriors_Archers_(Heimthegar)",
-        "translation": "诺尔斯精英弓箭手(中.游)"
+        "old_translation": "",
+        "translation": "诺斯战士弓箭手（家臣）"
     },
     {
+        "id": "trp_norse_level0_landed",
         "text": "Norse_Freeholder_(Boandi)",
-        "translation": "诺尔斯农民(轻.步)"
+        "old_translation": "",
+        "translation": "诺斯自耕农（农夫）"
     },
     {
+        "id": "trp_norse_level0_landed_pl",
         "text": "Norse_Freeholders_(Bondar)",
-        "translation": "诺尔斯农民(轻.步)"
+        "old_translation": "",
+        "translation": "诺斯自耕农（农夫）"
     },
     {
+        "id": "trp_norse_level1_landed",
         "text": "Norse_Spearman_(Drengr)",
-        "translation": "诺尔斯持矛兵(中.步)"
+        "old_translation": "",
+        "translation": "诺斯持矛兵（勇士）"
     },
     {
+        "id": "trp_norse_level1_landed_pl",
         "text": "Norse_Spearmen_(Drengir)",
-        "translation": "诺尔斯持矛兵(中.步)"
+        "old_translation": "",
+        "translation": "诺斯持矛兵（勇士）"
     },
     {
+        "id": "trp_norse_level2_landed",
         "text": "Norse_Elite_Spearman_(Thegn)",
-        "translation": "诺尔斯资深持矛兵(重.步)"
+        "old_translation": "",
+        "translation": "诺斯精英持矛兵（武士）"
     },
     {
+        "id": "trp_norse_level2_landed_pl",
         "text": "Norse_Elite_Spearmen_(Thegnar)",
-        "translation": "诺尔斯资深持矛兵(重.步)"
+        "old_translation": "",
+        "translation": "诺斯精英持矛兵（武士）"
     },
     {
+        "id": "trp_norse_level3_landed",
         "text": "Norse_Noble_(Hersir)",
-        "translation": "诺尔斯贵族(精.步)"
+        "old_translation": "",
+        "translation": "诺斯贵族（海希尔）"
     },
     {
+        "id": "trp_norse_level3_landed_pl",
         "text": "Norse_Nobles_(Hersir)",
-        "translation": "诺尔斯贵族(精.步)"
+        "old_translation": "",
+        "translation": "诺斯贵族（海希尔）"
     },
     {
+        "id": "trp_norse_level0_companion",
         "text": "Norse_Companion_(Hirthmathr)",
-        "translation": "诺尔斯青年勇士(中.步)"
+        "old_translation": "",
+        "translation": "诺斯同伴（侍从）"
     },
     {
+        "id": "trp_norse_level0_companion_pl",
         "text": "Norse_Companions_(Hirthmathr)",
-        "translation": "诺尔斯青年勇士(中.步)"
+        "old_translation": "",
+        "translation": "诺斯同伴（侍从）"
     },
     {
+        "id": "trp_norse_level1_companion",
         "text": "Norse_Veteran_(Rekkr)",
-        "translation": "诺尔斯资深士兵(重.步)"
+        "old_translation": "",
+        "translation": "诺斯老兵（老练侍从）"
     },
     {
+        "id": "trp_norse_level1_companion_pl",
         "text": "Norse_Veterans_(Rekkar)",
-        "translation": "诺尔斯资深士兵(重.步)"
+        "old_translation": "",
+        "translation": "诺斯老兵（老练侍从）"
     },
     {
+        "id": "trp_norse_level2_companion",
         "text": "Norse_Bodyguard_(Huskarl)",
-        "translation": "诺尔斯侍卫(精.步)"
+        "old_translation": "",
+        "translation": "诺斯侍卫（亲卫）"
     },
     {
+        "id": "trp_norse_level2_companion_pl",
         "text": "Norse_Bodyguards_(Huskarlar)",
-        "translation": "诺尔斯侍卫(精.步)"
+        "old_translation": "",
+        "translation": "诺斯侍卫（亲卫）"
     },
     {
+        "id": "trp_norse_standard_bearer",
         "text": "Standard_Bearer_(Merkismathr)",
-        "translation": "诺尔斯旗手"
+        "old_translation": "",
+        "translation": "诺斯旗手（旗手）"
     },
     {
+        "id": "trp_norse_standard_bearer_pl",
+        "text": "Standard_Bearer_(Merkismathr)",
+        "old_translation": "",
+        "translation": "诺斯旗手（旗手）"
+    },
+    {
+        "id": "trp_norse_priest",
         "text": "Gothi",
-        "translation": "奥丁祭司"
+        "old_translation": "",
+        "translation": "诺斯奥丁祭司"
     },
     {
+        "id": "trp_norse_priest_pl",
         "text": "Gothar",
-        "translation": "奥丁祭司"
+        "old_translation": "",
+        "translation": "诺斯奥丁祭司"
     },
     {
+        "id": "trp_briton_slave",
         "text": "Briton_Serf_(Aillt)",
-        "translation": "布立吞自由民(轻.步)"
+        "old_translation": "",
+        "translation": "布立吞农奴（流亡者）"
     },
     {
+        "id": "trp_briton_slave_pl",
         "text": "Briton_Serfs_(Aillts)",
-        "translation": "布立吞自由民(轻.步)"
+        "old_translation": "",
+        "translation": "布立吞农奴（流亡者）"
     },
     {
+        "id": "trp_briton_level0_landed",
         "text": "Briton_Freeman_(Bonheddwr)",
-        "translation": "布立吞自由民(轻.步)"
+        "old_translation": "",
+        "translation": "布立吞自由民（自耕农）"
     },
     {
+        "id": "trp_briton_level0_landed_pl",
         "text": "Briton_Freemen_(Bonheddwyr)",
-        "translation": "布立吞自由民(轻.步)"
+        "old_translation": "",
+        "translation": "布立吞自由民（自耕农）"
     },
     {
+        "id": "trp_briton_level1_landed",
         "text": "Briton_Spearman_(Pedyt)",
-        "translation": "布立吞持矛兵(中.步)"
+        "old_translation": "",
+        "translation": "布立吞持矛兵（步兵）"
     },
     {
+        "id": "trp_briton_level1_landed_pl",
         "text": "Briton_Spearmen_(Pedytes)",
-        "translation": "布立吞持矛兵(中.步)"
+        "old_translation": "",
+        "translation": "布立吞持矛兵（步兵）"
     },
     {
+        "id": "trp_briton_level2_landed",
         "text": "Briton_Elite_Spearman_(Gwrda)",
-        "translation": "布立吞资深持矛兵(重.步)"
+        "old_translation": "",
+        "translation": "布立吞资深持矛兵（士绅）"
     },
     {
+        "id": "trp_briton_level2_landed_pl",
         "text": "Briton_Elite_Spearmen_(Gwrdas)",
-        "translation": "布立吞资深持矛兵(重.步)"
+        "old_translation": "",
+        "translation": "布立吞资深持矛兵（士绅）"
     },
     {
+        "id": "trp_briton_level3_landed",
         "text": "Briton_Noble_(Uchelwr)",
-        "translation": "布立吞贵族(精.步)"
+        "old_translation": "",
+        "translation": "布立吞贵族（贵裔）"
     },
     {
+        "id": "trp_briton_level3_landed_pl",
         "text": "Briton_Nobles_(Uchelwyr)",
-        "translation": "布立吞贵族(精.步)"
+        "old_translation": "",
+        "translation": "布立吞贵族（贵裔）"
     },
     {
+        "id": "trp_briton_level0_companion",
         "text": "Briton_Warrior_(Cadwr)",
-        "translation": "布立吞战士(中.步)"
+        "old_translation": "",
+        "translation": "布立吞战士（卫兵）"
     },
     {
+        "id": "trp_briton_level0_companion_pl",
         "text": "Briton_Warriors_(Cadwyr)",
-        "translation": "布立吞战士(中.步)"
+        "old_translation": "",
+        "translation": "布立吞战士（卫兵）"
     },
     {
+        "id": "trp_briton_level1_companion",
         "text": "Briton_Champion_(Campiwr)",
-        "translation": "布立吞勇士(重.步)"
+        "old_translation": "",
+        "translation": "布立吞勇士（营地）"
     },
     {
+        "id": "trp_briton_level1_companion_pl",
         "text": "Briton_Champions_(Campgwr)",
-        "translation": "布立吞勇士(重.步)"
+        "old_translation": "",
+        "translation": "布立吞勇士（营地卫兵）"
     },
     {
+        "id": "trp_briton_level2_companion",
         "text": "Briton_Bodyguard_(Teulu)",
-        "translation": "布立吞侍卫(精.步)"
+        "old_translation": "",
+        "translation": "布立吞侍卫（私人卫兵）"
     },
     {
+        "id": "trp_briton_level2_companion_pl",
         "text": "Briton_Bodyguard_(Teulus)",
-        "translation": "布立吞侍卫(精.步)"
+        "old_translation": "",
+        "translation": "布立吞侍卫（私人卫兵）"
     },
     {
+        "id": "trp_briton_bowman",
         "text": "Briton_Skirmisher_(Cipryswr)",
-        "translation": "布立吞游击兵(游)"
+        "old_translation": "",
+        "translation": "布立吞散兵（斥候）"
     },
     {
+        "id": "trp_briton_bowman_pl",
         "text": "Briton_Skirmishers_(Cipryswyr)",
-        "translation": "布立吞游击兵(游)"
+        "old_translation": "",
+        "translation": "布立吞散兵（斥候）"
     },
     {
+        "id": "trp_briton_marksman",
         "text": "Briton_Archer_(Saethydd)",
-        "translation": "布立吞弓箭手(中.游)"
+        "old_translation": "",
+        "translation": "布立吞弓箭手（弓兵）"
     },
     {
+        "id": "trp_briton_marksman_pl",
         "text": "Briton_Archers_(Saethydds)",
-        "translation": "布立吞弓箭手(中.游)"
+        "old_translation": "",
+        "translation": "布立吞弓箭手（弓兵）"
     },
     {
+        "id": "trp_briton_horseman",
         "text": "Briton_Horseman_(Marchoc)",
-        "translation": "布立吞轻骑兵(轻.骑)"
+        "old_translation": "",
+        "translation": "布立吞骑手（轻骑）"
     },
     {
+        "id": "trp_briton_horseman_pl",
         "text": "Briton_Horsemen_(Marcach)",
-        "translation": "布立吞轻骑兵(轻.骑)"
+        "old_translation": "",
+        "translation": "布立吞骑手（轻骑）"
     },
     {
+        "id": "trp_briton_standard_bearer",
         "text": "Standard_Bearer_(Gwas_Ys_Tafell)",
-        "translation": "布立吞旗手"
+        "old_translation": "",
+        "translation": "布立吞旗手（席边近卫）"
     },
     {
+        "id": "trp_briton_standard_bearer_pl",
         "text": "Standard_Bearers_(Gwas_Ys_Tafell)",
-        "translation": "布立吞旗手"
+        "old_translation": "",
+        "translation": "布立吞旗手（席边近卫）"
     },
     {
+        "id": "trp_briton_priest",
         "text": "Briton_Priest",
+        "old_translation": "",
         "translation": "布立吞牧师"
     },
     {
+        "id": "trp_briton_priest_pl",
         "text": "Briton_Priests",
+        "old_translation": "",
         "translation": "布立吞牧师"
     },
     {
+        "id": "trp_saxon_slave",
         "text": "Saxon_Peasant_(Gebur)",
-        "translation": "撒克逊自由民(轻.步)"
+        "old_translation": "",
+        "translation": "撒克逊自由民（佃农）"
     },
     {
+        "id": "trp_saxon_slave_pl",
         "text": "Peasants_(Geburas)",
-        "translation": "盎格鲁自由民(轻.步)"
+        "old_translation": "",
+        "translation": "盎格鲁自由民（佃农）"
     },
     {
+        "id": "trp_saxon_bowman",
         "text": "Saxon_Bowman_(Scytta)",
-        "translation": "撒克逊弓箭手(游)"
+        "old_translation": "",
+        "translation": "撒克逊弓箭手（射手）"
     },
     {
+        "id": "trp_saxon_bowman_pl",
         "text": "Saxon_Bowmen_(Scyttena)",
-        "translation": "撒克逊弓箭手(游)"
+        "old_translation": "",
+        "translation": "撒克逊弓箭手（射手）"
     },
     {
+        "id": "trp_saxon_level0_landed",
         "text": "Saxon_Freeholder_(Kotsetla)",
-        "translation": "撒克逊自耕农(轻.步)"
+        "old_translation": "",
+        "translation": "撒克逊自耕农（小农）"
     },
     {
+        "id": "trp_saxon_level0_landed_pl",
         "text": "Saxon_Freeholders_(Kotsetlas)",
-        "translation": "撒克逊自耕农(轻.步)"
+        "old_translation": "",
+        "translation": "撒克逊自耕农（小农）"
     },
     {
+        "id": "trp_saxon_level1_landed",
         "text": "Saxon_Spearman_(Cniht)",
-        "translation": "撒克逊持矛兵(中.步)"
+        "old_translation": "",
+        "translation": "撒克逊持矛兵（勇士）"
     },
     {
+        "id": "trp_saxon_level1_landed_pl",
         "text": "Saxon_Spearmen_(Cnihtes)",
-        "translation": "撒克逊持矛兵(中.步)"
+        "old_translation": "",
+        "translation": "撒克逊持矛兵（勇士）"
     },
     {
+        "id": "trp_saxon_level2_landed",
         "text": "Saxon_Warrior_(Cempa)",
-        "translation": "撒克逊资深持矛兵(重.步)"
+        "old_translation": "",
+        "translation": "撒克逊资深持矛兵（武士）"
     },
     {
+        "id": "trp_saxon_level2_landed_pl",
         "text": "Saxon_Warriors_(Cempan)",
-        "translation": "撒克逊资深持矛兵(重.步)"
+        "old_translation": "",
+        "translation": "撒克逊资深持矛兵（武士）"
     },
     {
+        "id": "trp_saxon_level3_landed",
         "text": "Saxon_Noble_(Thegn)",
-        "translation": "撒克逊贵族(精.步)"
+        "old_translation": "",
+        "translation": "撒克逊贵族（贵族）"
     },
     {
+        "id": "trp_saxon_level3_landed_pl",
         "text": "Saxon_Nobles_(Thegns)",
-        "translation": "撒克逊贵族(精.步)"
+        "old_translation": "",
+        "translation": "撒克逊贵族（贵族）"
     },
     {
+        "id": "trp_saxon_level0_companion",
         "text": "Saxon_Companion_(Geneat)",
-        "translation": "撒克逊青年勇士(中.步)"
+        "old_translation": "",
+        "translation": "撒克逊青年勇士（侍卫）"
     },
     {
+        "id": "trp_saxon_level0_companion_pl",
         "text": "Saxon_Companions_(Geneata)",
-        "translation": "撒克逊战斧大师(精.步)"
+        "old_translation": "",
+        "translation": "撒克逊青年勇士（侍卫）"
     },
     {
+        "id": "trp_saxon_level1_companion",
         "text": "Saxon_Veteran_(Gesith)",
-        "translation": "撒克逊资深士兵(重.步)"
+        "old_translation": "",
+        "translation": "撒克逊资深士兵（近卫）"
     },
     {
+        "id": "trp_saxon_level1_companion_pl",
         "text": "Saxon_Veterans_(Gesithas)",
-        "translation": "撒克逊资深士兵(重.步)"
+        "old_translation": "",
+        "translation": "撒克逊资深士兵（近卫）"
     },
     {
+        "id": "trp_saxon_level2_companion",
         "text": "Saxon_Bodyguard_(Gedriht)",
-        "translation": "撒克逊侍卫(精.步)"
+        "old_translation": "",
+        "translation": "撒克逊侍卫（亲卫）"
     },
     {
+        "id": "trp_saxon_level2_companion_pl",
         "text": "Saxon_Bodyguards_(Gedrihtes)",
-        "translation": "撒克逊侍卫(精.步)"
+        "old_translation": "",
+        "translation": "撒克逊侍卫（亲卫）"
     },
     {
+        "id": "trp_saxon_horseman",
         "text": "Saxon_Horseman_(Ridda)",
-        "translation": "撒克逊骑兵(轻.骑)"
+        "old_translation": "",
+        "translation": "撒克逊骑兵（骑手）"
     },
     {
+        "id": "trp_saxon_horseman_pl",
         "text": "Saxon_Horsemen_(Riddan)",
-        "translation": "撒克逊骑兵(轻.骑)"
+        "old_translation": "",
+        "translation": "撒克逊骑兵（骑手）"
     },
     {
+        "id": "trp_saxon_standard_bearer",
         "text": "Standard_Bearer_(Tacnberend)",
-        "translation": "盎格鲁旗手"
+        "old_translation": "",
+        "translation": "盎格鲁旗手（执旗卫）"
     },
     {
+        "id": "trp_saxon_standard_bearer_pl",
         "text": "Standard_Bearers_(Tacnberends)",
-        "translation": "盎格鲁旗手"
+        "old_translation": "",
+        "translation": "盎格鲁旗手（执旗卫）"
     },
     {
+        "id": "trp_saxon_priest",
         "text": "Saxon_Priest",
+        "old_translation": "",
         "translation": "撒克逊牧师"
     },
     {
+        "id": "trp_saxon_priest_pl",
         "text": "Saxon_Priests",
+        "old_translation": "",
         "translation": "撒克逊牧师"
     },
     {
+        "id": "trp_scotch_peasant",
         "text": "Pictish_Peasant_(Bachlach)",
-        "translation": "皮克特农民(轻.步)"
+        "old_translation": "",
+        "translation": "皮克特贫民（奴仆）"
     },
     {
+        "id": "trp_scotch_peasant_pl",
         "text": "Peasants_(Bachlach)",
-        "translation": "皮克特农民(轻.步)"
+        "old_translation": "",
+        "translation": "皮克特贫民（奴仆）"
     },
     {
+        "id": "trp_scotch_bowman",
         "text": "Pictish_Skirmisher_(Fuidir)",
-        "translation": "皮克特轻步兵(游)"
+        "old_translation": "",
+        "translation": "皮克特轻步兵（流民）"
     },
     {
+        "id": "trp_scotch_bowman_pl",
         "text": "Skirmishers_(Fuidirs)",
-        "translation": "皮克特轻步兵(游)"
+        "old_translation": "",
+        "translation": "皮克特轻步兵（流民）"
     },
     {
+        "id": "trp_scotch_level0_skirmisher",
         "text": "Pictish_Veteran_Skirmisher_(Saigteoir)",
-        "translation": "皮克特资深轻步兵(中.游)"
+        "old_translation": "",
+        "translation": "皮克特资深轻步兵（弓手）"
     },
     {
+        "id": "trp_scotch_level0_skirmisher_pl",
         "text": "Veteran_Skirmishers_(Saigteoir)",
-        "translation": "皮克特资深轻步兵(中.游)"
+        "old_translation": "",
+        "translation": "皮克特资深轻步兵（弓手）"
     },
     {
+        "id": "trp_scotch_level1_skirmisher",
         "text": "Pictish_Elite_Skirmisher_(Cruithnen)",
-        "translation": "皮克特精英轻步兵(精.游)"
+        "old_translation": "",
+        "translation": "皮克特精英轻步兵（弓兵）"
     },
     {
+        "id": "trp_scotch_level1_skirmisher_pl",
         "text": "Elite_Skirmishers_(Cruithnen)",
-        "translation": "皮克特精英轻步兵(精.游)"
+        "old_translation": "",
+        "translation": "皮克特精英轻步兵（弓兵）"
     },
     {
+        "id": "trp_scotch_horseman",
         "text": "Pictish_Horseman_(Marcach)",
-        "translation": "皮克特轻骑兵(轻.骑)"
+        "old_translation": "",
+        "translation": "皮克特轻骑兵（轻骑）"
     },
     {
+        "id": "trp_scotch_horseman_pl",
         "text": "Light_Horsemen_(Marcach)",
-        "translation": "皮克特轻骑兵(轻.骑)"
+        "old_translation": "",
+        "translation": "皮克特轻骑兵（轻骑）"
     },
     {
+        "id": "trp_scotch_level0_landed",
         "text": "Pictish_Landowner_(Bothach)",
-        "translation": "皮克特地主(轻.步)"
+        "old_translation": "",
+        "translation": "皮克特地主（半农奴）"
     },
     {
+        "id": "trp_scotch_level0_landed_pl",
         "text": "Pictish_Landowners_(Bothach)",
-        "translation": "皮克特地主(轻.步)"
+        "old_translation": "",
+        "translation": "皮克特地主（半农奴）"
     },
     {
+        "id": "trp_scotch_level1_landed",
         "text": "Pictish_Spearman_(Octhigern)",
-        "translation": "皮克特持矛兵(中.步)"
+        "old_translation": "",
+        "translation": "皮克特持矛兵（有产者）"
     },
     {
+        "id": "trp_scotch_level1_landed_pl",
         "text": "Pictish_Spearmen_(Octhigern)",
-        "translation": "皮克特持矛兵(中.步)"
+        "old_translation": "",
+        "translation": "皮克特持矛兵（有产者）"
     },
     {
+        "id": "trp_scotch_level2_landed",
         "text": "Pictish_Warrior_(Gaithlennach)",
-        "translation": "皮克特重装持矛兵(重.步)"
+        "old_translation": "",
+        "translation": "皮克特重装持矛兵（执矛者）"
     },
     {
+        "id": "trp_scotch_level2_landed_pl",
         "text": "Pictish_Warriors_(Gaithlennach)",
-        "translation": "皮克特重装持矛兵(重.步)"
+        "old_translation": "",
+        "translation": "皮克特重装持矛兵（执矛者）"
     },
     {
+        "id": "trp_scotch_level0_companion",
         "text": "Pictish_Axeman_(Crechaire)",
-        "translation": "皮克特斧兵(中.步)"
+        "old_translation": "",
+        "translation": "皮克特斧兵（掠夺者）"
     },
     {
+        "id": "trp_scotch_level0_companion_pl",
         "text": "Pictish_Axesmen_(Crechaire)",
-        "translation": "皮克特斧兵(中.步)"
+        "old_translation": "",
+        "translation": "皮克特斧兵（掠夺者）"
     },
     {
+        "id": "trp_scotch_level1_companion",
         "text": "Pictish_Veteran_(Arsaid)",
-        "translation": "皮克特资深士兵(重.步)"
+        "old_translation": "",
+        "translation": "皮克特资深士兵（历战者）"
     },
     {
+        "id": "trp_scotch_level1_companion_pl",
         "text": "Pictish_Veterans_(Arsaid)",
-        "translation": "皮克特资深士兵(重.步)"
+        "old_translation": "",
+        "translation": "皮克特资深士兵（历战者）"
     },
     {
+        "id": "trp_scotch_level2_companion",
         "text": "Pictish_Champion_(Gaiscedach)",
-        "translation": "皮克特侍卫(精.步)"
+        "old_translation": "",
+        "translation": "皮克特侍卫（勇猛者）"
     },
     {
+        "id": "trp_scotch_level2_companion_pl",
         "text": "Pictish_Champions_(Gaisgidh)",
-        "translation": "皮克特侍卫(精.步)"
+        "old_translation": "",
+        "translation": "皮克特侍卫（勇猛者）"
     },
     {
+        "id": "trp_scotch_knight",
         "text": "Pictish_Noble_(Toisech)",
-        "translation": "皮克特贵族骑兵(精.骑)"
+        "old_translation": "",
+        "translation": "皮克特贵族骑兵（氏族首领）"
     },
     {
+        "id": "trp_scotch_knight_pl",
         "text": "Pictish_Nobles_(Toisechs)",
-        "translation": "皮克特贵族骑兵(精.骑)"
+        "old_translation": "",
+        "translation": "皮克特贵族骑兵（氏族首领）"
     },
     {
+        "id": "trp_scotch_standard_bearer",
         "text": "Standard_Bearer_(Samhladh)",
-        "translation": "皮克特旗手"
+        "old_translation": "",
+        "translation": "旗手（执旗者）"
     },
     {
+        "id": "trp_scotch_standard_bearer_pl",
+        "text": "Standard_Bearer_(Samhladh)",
+        "old_translation": "",
+        "translation": "旗手（执旗者）"
+    },
+    {
+        "id": "trp_scotch_musician",
         "text": "Pictish_Hornman",
+        "old_translation": "",
         "translation": "皮克特号手"
     },
     {
+        "id": "trp_scotch_musician_pl",
         "text": "Pictish_Hornmen",
+        "old_translation": "",
         "translation": "皮克特号手"
     },
     {
+        "id": "trp_scotch_priest",
         "text": "Priest",
-        "translation": "皮克特牧师"
-    },
-    {
-        "text": "Priests",
-        "translation": "皮克特牧师"
-    },
-    {
-        "text": "Angle_Peasant_(Gebur)",
-        "translation": "盎格鲁自由民(轻.步)"
-    },
-    {
-        "text": "Angle_Bowman_(Scytta)",
-        "translation": "盎格鲁弓箭手(游)"
-    },
-    {
-        "text": "Angle_Bowmen_(Scyttena)",
-        "translation": "盎格鲁弓箭手(游)"
-    },
-    {
-        "text": "Angle_Freeholder_(Kotsetla)",
-        "translation": "盎格鲁自耕农(轻.步)"
-    },
-    {
-        "text": "Angle_Freeholders_(Kotsetlas)",
-        "translation": "盎格鲁自耕农(轻.步)"
-    },
-    {
-        "text": "Angle_Spearman_(Cniht)",
-        "translation": "盎格鲁持矛兵(中.步)"
-    },
-    {
-        "text": "Spearmen_(Cnihtes)",
-        "translation": "盎格鲁持矛兵(中.步)"
-    },
-    {
-        "text": "Angle_Warrior_(Cempa)",
-        "translation": "盎格鲁资深持矛兵(重.步)"
-    },
-    {
-        "text": "Angle_Warriors_(Cempan)",
-        "translation": "盎格鲁资深持矛兵(重.步)"
-    },
-    {
-        "text": "Angle_Noble_(Thegn)",
-        "translation": "盎格鲁贵族(精.步)"
-    },
-    {
-        "text": "Angle_Nobles_(Thegns)",
-        "translation": "盎格鲁贵族(精.步)"
-    },
-    {
-        "text": "Angle_Companion_(Geneat)",
-        "translation": "盎格鲁勇士(中.步)"
-    },
-    {
-        "text": "Angle_Companions_(Geneata)",
-        "translation": "盎格鲁勇士(中.步)"
-    },
-    {
-        "text": "Angle_Veteran_(Gesith)",
-        "translation": "盎格鲁资深士兵(重.步)"
-    },
-    {
-        "text": "Angle_Veterans(Gesithas)",
-        "translation": "盎格鲁资深士兵(重.步)"
-    },
-    {
-        "text": "Angle_Bodyguard_(Gedriht)",
-        "translation": "盎格鲁侍卫(精.步)"
-    },
-    {
-        "text": "Angle_Bodyguards_(Gedrihtes)",
-        "translation": "盎格鲁侍卫(精.步)"
-    },
-    {
-        "text": "Angle_Horseman_(Ridda)",
-        "translation": "盎格鲁骑兵(轻.骑)"
-    },
-    {
-        "text": "Angle_Horsemen_(Riddan)",
-        "translation": "盎格鲁骑兵(轻.骑)"
-    },
-    {
-        "text": "Angle_Priest",
-        "translation": "盎格鲁牧师"
-    },
-    {
-        "text": "Angle_Priests",
-        "translation": "盎格鲁牧师"
-    },
-    {
-        "text": "Irish_Serf_(Senchleithe)",
-        "translation": "戈伊德尔农奴(轻.步)"
-    },
-    {
-        "text": "Irish_Serfs_(Senchleithe)",
-        "translation": "戈伊德尔农奴(轻.步)"
-    },
-    {
-        "text": "Irish_Skirmisher_(Fer_Midboth)",
-        "translation": "戈伊德尔随仆(游)"
-    },
-    {
-        "text": "Irish_Skirmishes_(Fer_Midboth)",
-        "translation": "戈伊德尔随仆(游)"
-    },
-    {
-        "text": "Irish_Veteran_Skirmisher_(Ceithernach)",
-        "translation": "戈伊德尔资深随仆(中.游)"
-    },
-    {
-        "text": "Irish_Veteran_Skirmishers_(Ceithern)",
-        "translation": "戈伊德尔资深随仆(中.游)"
-    },
-    {
-        "text": "Irish_Elite_Skirmisher_(Fianaige)",
-        "translation": "戈伊德尔掷矛兵(精.游)"
-    },
-    {
-        "text": "Irish_Elite_Skirmishers_(Fian)",
-        "translation": "戈伊德尔掷矛兵(精.游)"
-    },
-    {
-        "text": "Irish_Horseman_(Marcach)",
-        "translation": "戈伊德尔轻骑兵(轻.骑)"
-    },
-    {
-        "text": "Irish_Horsemen_(Marcach)",
-        "translation": "戈伊德尔轻骑兵(轻.骑)"
-    },
-    {
-        "text": "Irish_Laborer_(Bothach)",
-        "translation": "戈伊德尔民兵(轻.步)"
-    },
-    {
-        "text": "Irish_Militia_(Bothach)",
-        "translation": "戈伊德尔民兵(轻.步)"
-    },
-    {
-        "text": "Irish_Freeholder_(Ocaire)",
-        "translation": "戈伊德尔自耕农(中.步)"
-    },
-    {
-        "text": "Irish_Freeholders_(Ocaires)",
-        "translation": "戈伊德尔自耕农(中.步)"
-    },
-    {
-        "text": "Irish_Veteran_(Boaire)",
-        "translation": "戈伊德尔资深持矛兵(重.步)"
-    },
-    {
-        "text": "Irish_Veterans_(Boaires)",
-        "translation": "戈伊德尔资深持矛兵(重.步)"
-    },
-    {
-        "text": "Irish_Noble_(Aire)",
-        "translation": "戈伊德尔贵族(精.步)"
-    },
-    {
-        "text": "Irish_Nobles_(Airig)",
-        "translation": "戈伊德尔贵族(精.步)"
-    },
-    {
-        "text": "Irish_Warrior_(Cliarnach)",
-        "translation": "戈伊德尔斧兵(中.步)"
-    },
-    {
-        "text": "Irish_Warriors_(Cliathaire)",
-        "translation": "戈伊德尔斧兵(中.步)"
-    },
-    {
-        "text": "Irish_Champion_(Caur)",
-        "translation": "戈伊德尔资深士兵(重.步)"
-    },
-    {
-        "text": "Irish_Champions_(Curadmir)",
-        "translation": "戈伊德尔资深士兵(重.步)"
-    },
-    {
-        "text": "Irish_Bodyguard_(Riglach)",
-        "translation": "戈伊德尔侍卫(重.骑)"
-    },
-    {
-        "text": "Irish_Bodyguards_(Riglach)",
-        "translation": "戈伊德尔侍卫(重.骑)"
-    },
-    {
-        "text": "Standard_Bearer_(Meirgeach)",
-        "translation": "戈伊德尔旗手"
-    },
-    {
-        "text": "Standard_Bearers_(Meirgeach)",
-        "translation": "戈伊德尔旗手"
-    },
-    {
-        "text": "Godelic_Priest",
-        "translation": "戈伊德尔牧师"
-    },
-    {
-        "text": "Godelic_Priests",
-        "translation": "戈伊德尔牧师"
-    },
-    {
-        "text": "Hornman",
-        "translation": "号手"
-    },
-    {
-        "text": "Hornmen",
-        "translation": "号手"
-    },
-    {
-        "text": "Messenger_(Bodi)",
-        "translation": "诺尔斯信使"
-    },
-    {
-        "text": "Messengers_(Bodar)",
-        "translation": "诺尔斯信使"
-    },
-    {
-        "text": "Norse_Deserter",
-        "translation": "诺尔斯乱军"
-    },
-    {
-        "text": "Norse_Deserters",
-        "translation": "诺尔斯乱军"
-    },
-    {
-        "text": "Prison_Guard",
-        "translation": "监狱看守"
-    },
-    {
-        "text": "Prison_Guards",
-        "translation": "监狱看守"
-    },
-    {
-        "text": "Fort_Guard",
-        "translation": "要塞守卫"
-    },
-    {
-        "text": "Fort_Guards",
-        "translation": "要塞守卫"
-    },
-    {
-        "text": "Frisian_(Husmo)",
-        "translation": "弗里斯人(轻.步)"
-    },
-    {
-        "text": "Frisians_(Fresen)",
-        "translation": "弗里斯人(轻.步)"
-    },
-    {
-        "text": "Frisian_Warrior_(Wigand)",
-        "translation": "弗里斯战士(中.步)"
-    },
-    {
-        "text": "Frisian_Warriors_(Wiganda)",
-        "translation": "弗里斯战士(中.步)"
-    },
-    {
-        "text": "Frisian_Veteran_(Werand)",
-        "translation": "弗里斯资深士兵(重.步)"
-    },
-    {
-        "text": "Frisian_Veterans_(Weranda)",
-        "translation": "弗里斯资深士兵(重.步)"
-    },
-    {
-        "text": "Frisian_Horseman_(Riddere)",
-        "translation": "弗里斯骑兵(轻.骑)"
-    },
-    {
-        "text": "Frisian_Horsemen_(Riddere)",
-        "translation": "弗里斯骑兵(轻.骑)"
-    },
-    {
-        "text": "Messenger",
-        "translation": "戈伊德尔信使"
-    },
-    {
-        "text": "Messengers",
-        "translation": "戈伊德尔信使"
-    },
-    {
-        "text": "Briton_Deserter",
-        "translation": "布立吞乱军"
-    },
-    {
-        "text": "Briton_Deserters",
-        "translation": "布立吞乱军"
-    },
-    {
-        "text": "Messenger_(Horsweala)",
-        "translation": "盎格鲁信使"
-    },
-    {
-        "text": "Messengers_(Horswealas)",
-        "translation": "盎格鲁信使"
-    },
-    {
-        "text": "Saxon_Deserter",
-        "translation": "撒克逊乱军"
-    },
-    {
-        "text": "Saxon_Deserters",
-        "translation": "撒克逊乱军"
-    },
-    {
-        "text": "Picti_Deserter",
-        "translation": "皮克特乱军"
-    },
-    {
-        "text": "Picti_Deserters",
-        "translation": "皮克特乱军"
-    },
-    {
-        "text": "Angle_Deserter",
-        "translation": "盎格鲁乱军"
-    },
-    {
-        "text": "Angle_Deserters",
-        "translation": "盎格鲁乱军"
-    },
-    {
-        "text": "Goidelic_Deserter",
-        "translation": "戈伊德尔乱军"
-    },
-    {
-        "text": "Goidelic_Deserters",
-        "translation": "戈伊德尔乱军"
-    },
-    {
-        "text": "Ruffian",
-        "translation": "恶棍"
-    },
-    {
-        "text": "Ruffians",
-        "translation": "恶棍"
-    },
-    {
-        "text": "Footpad",
-        "translation": "拦路贼"
-    },
-    {
-        "text": "Footpads",
-        "translation": "拦路贼"
-    },
-    {
-        "text": "Brigand",
-        "translation": "土匪"
-    },
-    {
-        "text": "Brigands",
-        "translation": "土匪"
-    },
-    {
-        "text": "Robber",
-        "translation": "强盗"
-    },
-    {
-        "text": "Robbers",
-        "translation": "强盗"
-    },
-    {
-        "text": "Bandit",
-        "translation": "山贼"
-    },
-    {
-        "text": "Bandits",
-        "translation": "山贼"
-    },
-    {
-        "text": "Reaver",
-        "translation": "掠夺者"
-    },
-    {
-        "text": "Reavers",
-        "translation": "掠夺者"
-    },
-    {
-        "text": "Highwayman",
-        "translation": "响马"
-    },
-    {
-        "text": "Highwaymen",
-        "translation": "响马"
-    },
-    {
-        "text": "Northmathr_Vikingr",
-        "translation": "挪威维京海盗"
-    },
-    {
-        "text": "Northmenn_Vikingarnir",
-        "translation": "挪威维京海盗"
-    },
-    {
-        "text": "Vikingr",
-        "translation": "维京海盗"
-    },
-    {
-        "text": "Vikingarnir",
-        "translation": "维京海盗"
-    },
-    {
-        "text": "Danish_Elite_Vikingr",
-        "translation": "丹麦精锐维京海盗"
-    },
-    {
-        "text": "Danish_Elite_Vikingarnir",
-        "translation": "丹麦精锐维京海盗"
-    },
-    {
-        "text": "Svear_Elite_Vikingr",
-        "translation": "瑞典精锐维京海盗"
-    },
-    {
-        "text": "Sviar_Elite_Vikingarnir",
-        "translation": "瑞典精锐维京海盗"
-    },
-    {
-        "text": "Ship_Captain",
-        "translation": "船长"
-    },
-    {
-        "text": "Captains",
-        "translation": "船长"
-    },
-    {
-        "text": "Bandit_Leader",
-        "translation": "土匪头子"
-    },
-    {
-        "text": "Bandit_Leaders",
-        "translation": "山贼头子"
-    },
-    {
-        "text": "Young_Warrior",
-        "translation": "青年战士"
-    },
-    {
-        "text": "Young_Warriors",
-        "translation": "青年战士"
-    },
-    {
-        "text": "Slave_Driver",
-        "translation": "奴贩押解"
-    },
-    {
-        "text": "Slave_Drivers",
-        "translation": "奴贩押解"
-    },
-    {
-        "text": "Slave_Hunter",
-        "translation": "奴贩猎手"
-    },
-    {
-        "text": "Slave_Hunters",
-        "translation": "奴贩猎手"
-    },
-    {
-        "text": "Veteran_Slave_Hunter",
-        "translation": "资深奴贩猎手"
-    },
-    {
-        "text": "Veteran_Slave_Hunters",
-        "translation": "资深奴贩猎手"
-    },
-    {
-        "text": "Slaver_Chief",
-        "translation": "奴贩首领"
-    },
-    {
-        "text": "Slaver_Chiefs",
-        "translation": "奴贩首领"
-    },
-    {
-        "text": "Camp_Woman",
-        "translation": "随营妓女"
-    },
-    {
-        "text": "Camp_Women",
-        "translation": "随营妓女"
-    },
-    {
-        "text": "Camp_Follower",
-        "translation": "随营妇女"
-    },
-    {
-        "text": "Camp_Followers",
-        "translation": "随营妇女"
-    },
-    {
-        "text": "Soldier's_Wife",
-        "translation": "军嫂"
-    },
-    {
-        "text": "Soldiers'_Wives",
-        "translation": "军嫂"
-    },
-    {
-        "text": "Camp_Defender",
-        "translation": "营地守卫"
-    },
-    {
-        "text": "Camp_Defenders",
-        "translation": "营地守卫"
-    },
-    {
-        "text": "Refugee",
-        "translation": "女难民"
-    },
-    {
-        "text": "Refugees",
-        "translation": "女难民"
-    },
-    {
-        "text": "Peasant_Woman",
-        "translation": "农妇"
-    },
-    {
-        "text": "Peasant_Women",
-        "translation": "农妇"
-    },
-    {
-        "text": "Young_Band",
-        "translation": "青年帮"
-    },
-    {
-        "text": "Prisoner",
-        "translation": "俘虏"
-    },
-    {
-        "text": "Prisoners",
-        "translation": "俘虏"
-    },
-    {
-        "text": "Worker",
-        "translation": "工人"
-    },
-    {
-        "text": "Workers",
-        "translation": "工人"
-    },
-    {
-        "text": "Foreman",
-        "translation": "工头"
-    },
-    {
-        "text": "Foremen",
-        "translation": "工头"
-    },
-    {
-        "text": "Lumber_Camp_Foreman",
-        "translation": "伐木营工头"
-    },
-    {
-        "text": "Lumber_Camp_Foremen",
-        "translation": "伐木营工头"
-    },
-    {
-        "text": "Farmstead_Reeve",
-        "translation": "农庄工头"
-    },
-    {
-        "text": "Farmstead_Reeves",
-        "translation": "农庄工头"
-    },
-    {
-        "text": "Abbot",
-        "translation": "修道院院长"
-    },
-    {
-        "text": "Monk",
-        "translation": "僧侣"
-    },
-    {
-        "text": "Monks",
-        "translation": "僧侣"
-    },
-    {
-        "text": "Caravan_Master",
-        "translation": "商队头领"
-    },
-    {
-        "text": "Caravan_Masters",
-        "translation": "商队头领"
-    },
-    {
-        "text": "Kidnapped_Girl",
-        "translation": "被绑架的女孩"
-    },
-    {
-        "text": "Kidnapped_Girls",
-        "translation": "被绑架的女孩"
-    },
-    {
-        "text": "Townswoman",
-        "translation": "女市民"
-    },
-    {
-        "text": "Townswomen",
-        "translation": "女市民"
-    },
-    {
-        "text": "Child",
-        "translation": "小孩"
-    },
-    {
-        "text": "Children",
-        "translation": "小孩"
-    },
-    {
-        "text": "Tournament_Master",
-        "translation": "竞技场老板"
-    },
-    {
-        "text": "Trainer",
-        "translation": "教练"
-    },
-    {
-        "text": "Constable_Hareck",
-        "translation": "治安官哈瑞克"
-    },
-    {
-        "text": "Aethelmaer,_the_Slaver",
-        "translation": "奴隶商人阿特马尔"
-    },
-    {
-        "text": "Ulric",
-        "translation": "尤里克"
-    },
-    {
-        "text": "Anchoret_the_Pict",
-        "translation": "皮克特人隐士"
-    },
-    {
-        "text": "Anchoret",
-        "translation": "隐士"
-    },
-    {
-        "text": "Niall_the_Briton",
-        "translation": "布立吞人尼欧"
-    },
-    {
-        "text": "Niall",
-        "translation": "尼欧"
-    },
-    {
-        "text": "Uthred_the_Saxon",
-        "translation": "撒克逊人厄佛德"
-    },
-    {
-        "text": "Kradus",
-        "translation": "喀拉杜斯"
-    },
-    {
-        "text": "Training_Ground_Master",
-        "translation": "训练场教练"
-    },
-    {
-        "text": "Balin",
-        "translation": "巴林"
-    },
-    {
-        "text": "Harald",
-        "translation": "哈罗德"
-    },
-    {
-        "text": "Ransom_Broker",
-        "translation": "奴隶贩子"
-    },
-    {
-        "text": "Slave_Trader",
-        "translation": "奴隶贩子"
-    },
-    {
-        "text": "Traveller",
-        "translation": "旅行者"
-    },
-    {
-        "text": "Book_Merchant",
-        "translation": "书籍商人"
-    },
-    {
-        "text": "Wandering_Skald",
-        "translation": "流浪诗人"
-    },
-    {
-        "text": "Minstrel",
-        "translation": "吟游诗人"
-    },
-    {
-        "text": "Wandering_Bard",
-        "translation": "吟游诗人"
-    },
-    {
-        "text": "Happy_Widow",
-        "translation": "风流寡妇"
-    },
-    {
-        "text": "quastuosa",
-        "translation": "营妓"
-    },
-    {
-        "text": "Kingdom_Skald",
-        "translation": "皇家诗人"
-    },
-    {
-        "text": "Skald",
-        "translation": "皇家诗人"
-    },
-    {
-        "text": "Kingdom_Bard",
-        "translation": "皇家诗人"
-    },
-    {
-        "text": "Owain",
-        "translation": "欧文"
-    },
-    {
-        "text": "Bard",
-        "translation": "吟游诗人"
-    },
-    {
-        "text": "Christian_Bishop",
-        "translation": "基督教主教"
-    },
-    {
-        "text": "Bishop_Ealhheard",
-        "translation": "艾赫德主教"
-    },
-    {
-        "text": "sacerdote",
+        "old_translation": "",
         "translation": "牧师"
     },
     {
-        "text": "Priest_both_religions_end",
-        "translation": "Priestbothreligionsend"
+        "id": "trp_scotch_priest_pl",
+        "text": "Priests",
+        "old_translation": "",
+        "translation": "牧师"
     },
     {
-        "text": "Hermit_Derfel_Gadarn",
-        "translation": "德尔法·哥丹隐士"
+        "id": "trp_angle_slave",
+        "text": "Angle_Peasant_(Gebur)",
+        "old_translation": "",
+        "translation": "盎格鲁贫民（佃农）"
     },
     {
-        "text": "especiales",
-        "translation": "特殊人物"
+        "id": "trp_angle_slave_pl",
+        "text": "Peasants_(Geburas)",
+        "old_translation": "",
+        "translation": "盎格鲁自由民（佃农）"
     },
     {
-        "text": "kingdom_heroes_including_player_begin",
-        "translation": "kingdomheroesincludingplayerbegin"
+        "id": "trp_angle_bowman",
+        "text": "Angle_Bowman_(Scytta)",
+        "old_translation": "",
+        "translation": "盎格鲁弓箭手（射手）"
     },
     {
-        "text": "Caio",
-        "translation": "卡约"
+        "id": "trp_angle_bowman_pl",
+        "text": "Angle_Bowmen_(Scyttena)",
+        "old_translation": "",
+        "translation": "盎格鲁弓箭手（射手）"
     },
     {
-        "text": "Egil",
-        "translation": "埃吉尔"
+        "id": "trp_angle_level0_landed",
+        "text": "Angle_Freeholder_(Kotsetla)",
+        "old_translation": "",
+        "translation": "盎格鲁自耕农（小农）"
     },
     {
-        "text": "Brunhild",
-        "translation": "伯伦希尔"
+        "id": "trp_angle_level0_landed_pl",
+        "text": "Angle_Freeholders_(Kotsetlas)",
+        "old_translation": "",
+        "translation": "盎格鲁自耕农（小农）"
     },
     {
-        "text": "Donnchadh",
-        "translation": "唐察德"
+        "id": "trp_angle_level1_landed",
+        "text": "Angle_Spearman_(Cniht)",
+        "old_translation": "",
+        "translation": "盎格鲁持矛兵（勇士）"
     },
     {
-        "text": "Morgant",
-        "translation": "摩根"
+        "id": "trp_angle_level1_landed_pl",
+        "text": "Spearmen_(Cnihtes)",
+        "old_translation": "",
+        "translation": "盎格鲁持矛兵（勇士）"
     },
     {
-        "text": "Bodo",
-        "translation": "博多"
+        "id": "trp_angle_level2_landed",
+        "text": "Angle_Warrior_(Cempa)",
+        "old_translation": "",
+        "translation": "盎格鲁资深持矛兵（武士）"
     },
     {
-        "text": "Dwywei",
-        "translation": "杜威"
+        "id": "trp_angle_level2_landed_pl",
+        "text": "Angle_Warriors_(Cempan)",
+        "old_translation": "",
+        "translation": "盎格鲁资深持矛兵（武士）"
     },
     {
-        "text": "Reginhard",
-        "translation": "雷因哈德"
+        "id": "trp_angle_level3_landed",
+        "text": "Angle_Noble_(Thegn)",
+        "old_translation": "",
+        "translation": "盎格鲁贵族（贵族）"
     },
     {
-        "text": "Clovis",
-        "translation": "克洛维"
+        "id": "trp_angle_level3_landed_pl",
+        "text": "Angle_Nobles_(Thegns)",
+        "old_translation": "",
+        "translation": "盎格鲁贵族（贵族）"
     },
     {
-        "text": "Ceawlin",
-        "translation": "葛文林"
+        "id": "trp_angle_level0_companion",
+        "text": "Angle_Companion_(Geneat)",
+        "old_translation": "",
+        "translation": "盎格鲁勇士（侍卫）"
     },
     {
-        "text": "Solveig",
-        "translation": "苏维格"
+        "id": "trp_angle_level0_companion_pl",
+        "text": "Angle_Companions_(Geneata)",
+        "old_translation": "",
+        "translation": "盎格鲁勇士（侍卫）"
     },
     {
-        "text": "Asbjorn",
-        "translation": "阿斯比恩"
+        "id": "trp_angle_level1_companion",
+        "text": "Angle_Veteran_(Gesith)",
+        "old_translation": "",
+        "translation": "盎格鲁资深士兵（近卫）"
     },
     {
-        "text": "Helgi",
-        "translation": "海尔吉"
+        "id": "trp_angle_level1_companion_pl",
+        "text": "Angle_Veterans(Gesithas)",
+        "old_translation": "",
+        "translation": "盎格鲁资深士兵（近卫）"
     },
     {
-        "text": "Ailchu",
-        "translation": "艾尔楚"
+        "id": "trp_angle_level2_companion",
+        "text": "Angle_Bodyguard_(Gedriht)",
+        "old_translation": "",
+        "translation": "盎格鲁侍卫（亲卫）"
     },
     {
-        "text": "Agathinos",
-        "translation": "阿格霍斯"
+        "id": "trp_angle_level2_companion_pl",
+        "text": "Angle_Bodyguards_(Gedrihtes)",
+        "old_translation": "",
+        "translation": "盎格鲁侍卫（亲卫）"
     },
     {
-        "text": "Beda",
-        "translation": "贝达"
+        "id": "trp_angle_horseman",
+        "text": "Angle_Horseman_(Ridda)",
+        "old_translation": "",
+        "translation": "盎格鲁骑手（骑手）"
     },
     {
-        "text": "Konungr_Horik_Gottfredsson",
-        "translation": "霍里克·葛佛逊国王"
+        "id": "trp_angle_horseman_pl",
+        "text": "Angle_Horsemen_(Riddan)",
+        "old_translation": "",
+        "translation": "盎格鲁骑手（骑手）"
     },
     {
-        "text": "Horik_Gottfredsson",
-        "translation": "霍里克·葛佛逊"
+        "id": "trp_angle_standard_bearer",
+        "text": "Standard_Bearer_(Tacnberend)",
+        "old_translation": "",
+        "translation": "盎格鲁旗手（执旗卫）"
     },
     {
-        "text": "Konungr_Harald_Halfdanarson",
-        "translation": "哈拉尔·哈弗丹逊国王"
+        "id": "trp_angle_standard_bearer_pl",
+        "text": "Standard_Bearers_(Tacnberends)",
+        "old_translation": "",
+        "translation": "盎格鲁旗手（执旗卫）"
     },
     {
-        "text": "Harald_Halfdanarson",
-        "translation": "哈拉尔·哈弗丹逊国王"
+        "id": "trp_angle_priest",
+        "text": "Angle_Priest",
+        "old_translation": "",
+        "translation": "盎格鲁牧师"
     },
     {
-        "text": "Konungr_Gudrod_Ragnarson",
-        "translation": "古德罗·拉格纳逊国王"
+        "id": "trp_angle_priest_pl",
+        "text": "Angle_Priests",
+        "old_translation": "",
+        "translation": "盎格鲁牧师"
     },
     {
-        "text": "Gudrod_Ragnarson",
-        "translation": "古德罗·拉格纳逊"
+        "id": "trp_irish_slave",
+        "text": "Irish_Serf_(Senchleithe)",
+        "old_translation": "",
+        "translation": "爱尔兰农奴（世袭农奴）"
     },
     {
-        "text": "Konungr_Hrorek_Hemmingsson",
-        "translation": "罗里克·赫敏逊国王"
+        "id": "trp_irish_slave_pl",
+        "text": "Irish_Serfs_(Senchleithe)",
+        "old_translation": "",
+        "translation": "爱尔兰农奴（世袭农奴）"
     },
     {
-        "text": "Hrorek_Hemmingsson",
-        "translation": "罗里克·赫敏逊"
+        "id": "trp_irish_bowman",
+        "text": "Irish_Skirmisher_(Fer_Midboth)",
+        "old_translation": "",
+        "translation": "爱尔兰随仆（预备士兵）"
     },
     {
-        "text": "Brytenwalda_Aethelred_Aethelwulfing",
-        "translation": "不列颠共主埃塞尔烈德·埃塞尔沃夫英"
+        "id": "trp_irish_bowman_pl",
+        "text": "Irish_Skirmishes_(Fer_Midboth)",
+        "old_translation": "",
+        "translation": "爱尔兰随仆（预备士兵）"
     },
     {
-        "text": "Aethelred_Aethelwulfing",
-        "translation": "不列颠共主埃塞尔烈德·埃塞尔沃夫英"
+        "id": "trp_irish_level0_skirmisher",
+        "text": "Irish_Veteran_Skirmisher_(Ceithernach)",
+        "old_translation": "",
+        "translation": "爱尔兰资深随仆（轻兵）"
     },
     {
-        "text": "Cyning_Eadmund_Aethelberhting",
-        "translation": "埃默德·艾尔伯宁国王"
+        "id": "trp_irish_level0_skirmisher_pl",
+        "text": "Irish_Veteran_Skirmishers_(Ceithern)",
+        "old_translation": "",
+        "translation": "爱尔兰资深随仆（轻兵）"
     },
     {
-        "text": "Eadmund_Aethelberhting",
-        "translation": "埃默德·艾尔伯宁"
+        "id": "trp_irish_level1_skirmisher",
+        "text": "Irish_Elite_Skirmisher_(Fianaige)",
+        "old_translation": "",
+        "translation": "爱尔兰掷矛兵（费奥纳猎手）"
     },
     {
-        "text": "Cyning_Brugred_Beorhtwulfing",
-        "translation": "布鲁格·贝奥武甫国王"
+        "id": "trp_irish_level1_skirmisher_pl",
+        "text": "Irish_Elite_Skirmishers_(Fian)",
+        "old_translation": "",
+        "translation": "爱尔兰掷矛兵（费奥纳猎手）"
     },
     {
-        "text": "Brugred_Beorhtwulfing",
-        "translation": "布鲁格·贝奥武甫"
+        "id": "trp_irish_horseman",
+        "text": "Irish_Horseman_(Marcach)",
+        "old_translation": "",
+        "translation": "爱尔兰轻骑兵（轻骑）"
     },
     {
-        "text": "Jarl_Halfdan_Ragnarsson",
-        "translation": "哈弗丹·拉格纳逊雅尔"
+        "id": "trp_irish_horseman_pl",
+        "text": "Irish_Horsemen_(Marcach)",
+        "old_translation": "",
+        "translation": "爱尔兰轻骑兵（轻骑）"
     },
     {
-        "text": "Halfdan_Ragnarsson",
-        "translation": "哈弗丹·拉格纳逊"
+        "id": "trp_irish_level0_landed",
+        "text": "Irish_Laborer_(Bothach)",
+        "old_translation": "",
+        "translation": "爱尔兰民兵（半农奴）"
     },
     {
-        "text": "Ri_Rhodri_map_Merfyn",
-        "translation": "罗德里·马普·玛菲尔首领"
+        "id": "trp_irish_level0_landed_pl",
+        "text": "Irish_Militia_(Bothach)",
+        "old_translation": "",
+        "translation": "爱尔兰民兵（半农奴）"
     },
     {
-        "text": "Rhodri_map_Merfyn",
-        "translation": "罗德里·马普·玛菲尔"
+        "id": "trp_irish_level1_landed",
+        "text": "Irish_Freeholder_(Ocaire)",
+        "old_translation": "",
+        "translation": "爱尔兰自耕农（平民）"
     },
     {
-        "text": "Ri_Elisedd_map_Tewdr",
-        "translation": "爱立思·马普·图德首领"
+        "id": "trp_irish_level1_landed_pl",
+        "text": "Irish_Freeholders_(Ocaires)",
+        "old_translation": "",
+        "translation": "爱尔兰自耕农（平民）"
     },
     {
-        "text": "Elisedd_map_Tewdr",
-        "translation": "爱立思·马普·图德"
+        "id": "trp_irish_level2_landed",
+        "text": "Irish_Veteran_(Boaire)",
+        "old_translation": "",
+        "translation": "爱尔兰资深持矛兵（蓄牛民）"
     },
     {
-        "text": "Ri_Arthgal_map_Dumnagual",
-        "translation": "阿萨伽·马普·杜纳古首领"
+        "id": "trp_irish_level2_landed_pl",
+        "text": "Irish_Veterans_(Boaires)",
+        "old_translation": "",
+        "translation": "爱尔兰资深持矛兵（蓄牛民）"
     },
     {
-        "text": "Arthgal_map_Dumnagual",
-        "translation": "阿萨伽·马普·杜纳古"
+        "id": "trp_irish_level3_landed",
+        "text": "Irish_Noble_(Aire)",
+        "old_translation": "",
+        "translation": "爱尔兰贵族（部落领袖）"
     },
     {
-        "text": "Ri_Dunyart_map_Eferferdyn",
-        "translation": "杜亚特·马普·艾弗丁首领"
+        "id": "trp_irish_level3_landed_pl",
+        "text": "Irish_Nobles_(Airig)",
+        "old_translation": "",
+        "translation": "爱尔兰贵族（部落领袖）"
     },
     {
-        "text": "Dunyart_map_Eferferdyn",
-        "translation": "杜亚特·马普·艾弗丁"
+        "id": "trp_irish_level0_companion",
+        "text": "Irish_Warrior_(Cliarnach)",
+        "old_translation": "",
+        "translation": "爱尔兰斧兵（侍从）"
     },
     {
-        "text": "Ri_Hywel_map_Rhys",
-        "translation": "海威·马普·瑞斯首领"
+        "id": "trp_irish_level0_companion_pl",
+        "text": "Irish_Warriors_(Cliathaire)",
+        "old_translation": "",
+        "translation": "爱尔兰斧兵（侍从）"
     },
     {
-        "text": "Hywel_map_Rhys",
-        "translation": "海威·马普·瑞斯首领"
+        "id": "trp_irish_level1_companion",
+        "text": "Irish_Champion_(Caur)",
+        "old_translation": "",
+        "translation": "爱尔兰资深士兵（近从）"
     },
     {
-        "text": "Ruire_Lethlobar_mac_Loingsig",
-        "translation": "列夫罗巴·麦·罗恩锡大首领"
+        "id": "trp_irish_level1_companion_pl",
+        "text": "Irish_Champions_(Curadmir)",
+        "old_translation": "",
+        "translation": "爱尔兰资深士兵（近从）"
     },
     {
-        "text": "Lethlobar_mac_Loingsig",
-        "translation": "列夫罗巴·麦·罗恩锡"
+        "id": "trp_irish_knight",
+        "text": "Irish_Bodyguard_(Riglach)",
+        "old_translation": "",
+        "translation": "爱尔兰侍卫（亲从）"
     },
     {
-        "text": "Ruire_Dunlaing_mac_Muiredaig",
-        "translation": "杜莱恩·麦·穆尔戴大首领"
+        "id": "trp_irish_knight_pl",
+        "text": "Irish_Bodyguards_(Riglach)",
+        "old_translation": "",
+        "translation": "爱尔兰侍卫（亲从）"
     },
     {
-        "text": "Dunlaing_mac_Muiredaig",
-        "translation": "杜莱恩·麦·穆尔戴"
+        "id": "trp_irish_standard_bearer",
+        "text": "Standard_Bearer_(Meirgeach)",
+        "old_translation": "",
+        "translation": "爱尔兰旗手（执旗人）"
     },
     {
-        "text": "Ruire_Cenn_Faelad_hua_Mugthigirn",
-        "translation": "赛恩·科莱德·华·穆格林大首领"
+        "id": "trp_irish_standard_bearer_pl",
+        "text": "Standard_Bearers_(Meirgeach)",
+        "old_translation": "",
+        "translation": "爱尔兰旗手（执旗人）"
     },
     {
-        "text": "Cenn_Faelad_hua_Mugthigirn",
-        "translation": "赛恩·科莱德·华·穆格林"
+        "id": "trp_irish_priest",
+        "text": "Godelic_Priest",
+        "old_translation": "",
+        "translation": "盖尔牧师"
     },
     {
-        "text": "Ruire_Mugron_mac_Cothaid",
-        "translation": "默格隆·麦·迈尔·柯泰德大首领"
+        "id": "trp_irish_priest_pl",
+        "text": "Godelic_Priests",
+        "old_translation": "",
+        "translation": "盖尔牧师"
     },
     {
-        "text": "Mugron_mac_Cothaid",
-        "translation": "默格隆·麦·迈尔·柯泰德大"
+        "id": "trp_todos_cuerno",
+        "text": "Hornman",
+        "old_translation": "",
+        "translation": "号手"
     },
     {
-        "text": "Ard_Ruire_Aed_mac_Niall",
-        "translation": "艾德·麦·尼尔大首领"
+        "id": "trp_todos_cuerno_pl",
+        "text": "Hornmen",
+        "old_translation": "",
+        "translation": "号手"
     },
     {
-        "text": "Aed_mac_Niall",
-        "translation": "艾德·麦·尼尔"
+        "id": "trp_norse_messenger",
+        "text": "Messenger_(Bodi)",
+        "old_translation": "",
+        "translation": "诺斯信使"
     },
     {
-        "text": "Ruire_Donnchad_mac_Eochocai",
-        "translation": "当察德·麦·欧楚柴大首领"
+        "id": "trp_norse_messenger_pl",
+        "text": "Messengers_(Bodar)",
+        "old_translation": "",
+        "translation": "诺斯信使"
     },
     {
-        "text": "Donnchad_mac_Eochocai",
-        "translation": "当察德·麦·欧楚柴"
+        "id": "trp_norse_deserter",
+        "text": "Norse_Deserter",
+        "old_translation": "",
+        "translation": "诺斯逃兵"
     },
     {
-        "text": "Ruire_Causantin_mac_Cinaeda",
-        "translation": "科撒丁·麦·辛奈德大首领"
+        "id": "trp_norse_deserter_pl",
+        "text": "Norse_Deserters",
+        "old_translation": "",
+        "translation": "诺斯逃兵"
     },
     {
-        "text": "Causantin_mac_Cinaeda",
-        "translation": "科撒丁·麦·辛奈德"
+        "id": "trp_norse_prison_guard",
+        "text": "Prison_Guard",
+        "old_translation": "",
+        "translation": "监狱守卫"
     },
     {
-        "text": "Ruire_Cerball_mac_Dunlainge",
-        "translation": "赛伯·麦·杜莱格大首领"
+        "id": "trp_norse_prison_guard_pl",
+        "text": "Prison_Guards",
+        "old_translation": "",
+        "translation": "监狱守卫"
     },
     {
-        "text": "Cerball_mac_Dunlainge",
-        "translation": "西伯·麦·敦莱格"
+        "id": "trp_norse_castle_guard",
+        "text": "Fort_Guard",
+        "old_translation": "",
+        "translation": "要塞守卫"
     },
     {
-        "text": "Jarl_Sigifrid_Angantyrsson",
-        "translation": "西格弗雷德·昂纳泰逊雅尔"
+        "id": "trp_norse_castle_guard_pl",
+        "text": "Fort_Guards",
+        "old_translation": "",
+        "translation": "要塞守卫"
     },
     {
-        "text": "Sigifrid_Angantyrsson",
-        "translation": "西格弗雷德·昂纳泰逊"
+        "id": "trp_frisian_basic",
+        "text": "Frisian_(Husmo)",
+        "old_translation": "",
+        "translation": "弗里斯人（家仆）"
     },
     {
-        "text": "Jarl_Bagsecg",
-        "translation": "巴萨克雅尔"
+        "id": "trp_frisian_basic_pl",
+        "text": "Frisians_(Fresen)",
+        "old_translation": "",
+        "translation": "弗里斯人（家仆）"
     },
     {
-        "text": "Bagsecg",
-        "translation": "巴赛克"
+        "id": "trp_frisian_mid",
+        "text": "Frisian_Warrior_(Wigand)",
+        "old_translation": "",
+        "translation": "弗里斯战士（战斗者）"
     },
     {
-        "text": "Jarl_Halfdan_Angantyrsson",
-        "translation": "哈弗丹·昂纳泰逊雅尔"
+        "id": "trp_frisian_mid_pl",
+        "text": "Frisian_Warriors_(Wiganda)",
+        "old_translation": "",
+        "translation": "弗里斯战士（战斗者）"
     },
     {
-        "text": "Halfdan_Angantyrsson",
-        "translation": "哈弗丹·昂纳泰逊"
+        "id": "trp_frisian_heavy",
+        "text": "Frisian_Veteran_(Werand)",
+        "old_translation": "",
+        "translation": "弗里斯资深士兵（保卫者）"
     },
     {
-        "text": "Hersir_Gothormr",
-        "translation": "古斯鲁姆领主"
+        "id": "trp_frisian_heavy_pl",
+        "text": "Frisian_Veterans_(Weranda)",
+        "old_translation": "",
+        "translation": "弗里斯资深士兵（保卫者）"
     },
     {
-        "text": "Gothormr",
-        "translation": "古斯鲁姆领主"
+        "id": "trp_frisian_cav",
+        "text": "Frisian_Horseman_(Riddere)",
+        "old_translation": "",
+        "translation": "弗里斯骑兵（骑手）"
     },
     {
-        "text": "Jarl_Sigurd_Ragnarsson",
-        "translation": "西格德·拉格纳逊雅尔"
+        "id": "trp_frisian_cav_pl",
+        "text": "Frisian_Horsemen_(Riddere)",
+        "old_translation": "",
+        "translation": "弗里斯骑兵（骑手）"
     },
     {
-        "text": "Sigurd_Ragnarsson",
-        "translation": "西格德·拉格纳逊"
+        "id": "trp_briton_messenger",
+        "text": "Messenger",
+        "old_translation": "",
+        "translation": "信使"
     },
     {
-        "text": "Hersir_Helgi_Hvassi",
-        "translation": "海尔吉·哈佛斯领主"
+        "id": "trp_briton_messenger_pl",
+        "text": "Messengers",
+        "old_translation": "",
+        "translation": "信使"
     },
     {
-        "text": "Helgi_Hvassi",
-        "translation": "海尔吉·哈佛斯"
+        "id": "trp_briton_deserter",
+        "text": "Briton_Deserter",
+        "old_translation": "",
+        "translation": "布立吞逃兵"
     },
     {
-        "text": "Jarl_Guthorm_Haraldrsson",
-        "translation": "古斯鲁姆·哈罗德逊雅尔"
+        "id": "trp_briton_deserter_pl",
+        "text": "Briton_Deserters",
+        "old_translation": "",
+        "translation": "布立吞逃兵"
     },
     {
-        "text": "Guthorm_Haraldrsson",
-        "translation": "古斯鲁姆·哈罗德逊雅尔"
+        "id": "trp_briton_prison_guard",
+        "text": "Prison_Guard",
+        "old_translation": "",
+        "translation": "监狱守卫"
     },
     {
-        "text": "Konungr_Eirik",
-        "translation": "埃里克国王"
+        "id": "trp_briton_prison_guard_pl",
+        "text": "Prison_Guards",
+        "old_translation": "",
+        "translation": "监狱守卫"
     },
     {
-        "text": "Eirik",
-        "translation": "埃里克"
+        "id": "trp_briton_castle_guard",
+        "text": "Fort_Guard",
+        "old_translation": "",
+        "translation": "要塞守卫"
     },
     {
-        "text": "Jarl_Kjotvi_Hinn_Audgi",
-        "translation": "贾维·轩·奥吉雅尔"
+        "id": "trp_briton_castle_guard_pl",
+        "text": "Fort_Guards",
+        "old_translation": "",
+        "translation": "要塞守卫"
     },
     {
-        "text": "Kjotvi_Hinn_Audgi",
-        "translation": "贾维·轩·奥吉"
+        "id": "trp_saxon_messenger",
+        "text": "Messenger_(Horsweala)",
+        "old_translation": "",
+        "translation": "撒克逊信使"
     },
     {
-        "text": "Hersir_Ketill_Bjornsson",
-        "translation": "科提尔·比约恩逊领主"
+        "id": "trp_saxon_messenger_pl",
+        "text": "Messengers_(Horswealas)",
+        "old_translation": "",
+        "translation": "撒克逊信使"
     },
     {
-        "text": "Ketill_Bjornsson",
-        "translation": "科提尔·比约恩逊"
+        "id": "trp_saxon_deserter",
+        "text": "Saxon_Deserter",
+        "old_translation": "",
+        "translation": "撒克逊逃兵"
     },
     {
-        "text": "Hersir_Bjorn_Ketilsson",
-        "translation": "比约恩·卡提尔逊领主"
+        "id": "trp_saxon_deserter_pl",
+        "text": "Saxon_Deserters",
+        "old_translation": "",
+        "translation": "撒克逊逃兵"
     },
     {
-        "text": "Bjorn_Ketilsson",
-        "translation": "比约恩·卡提尔逊"
+        "id": "trp_saxon_prison_guard",
+        "text": "Prison_Guard",
+        "old_translation": "",
+        "translation": "监狱守卫"
     },
     {
-        "text": "Jarl_Olaf_Gudrodrsson",
-        "translation": "奥拉夫·古罗德逊雅尔"
+        "id": "trp_saxon_prison_guard_pl",
+        "text": "Prison_Guards",
+        "old_translation": "",
+        "translation": "监狱守卫"
     },
     {
-        "text": "Olaf_Gudrodrsson",
-        "translation": "奥拉夫·古罗德逊"
+        "id": "trp_saxon_castle_guard",
+        "text": "Fort_Guard",
+        "old_translation": "",
+        "translation": "要塞守卫"
     },
     {
-        "text": "Jarl_Ivar_Gudrodrsson",
-        "translation": "艾瓦·古罗德逊雅尔"
+        "id": "trp_saxon_castle_guard_pl",
+        "text": "Fort_Guards",
+        "old_translation": "",
+        "translation": "要塞守卫"
     },
     {
-        "text": "Ivarr_Gudrodrsson",
-        "translation": "艾瓦·古罗德逊"
+        "id": "trp_scotch_messenger",
+        "text": "Messenger",
+        "old_translation": "",
+        "translation": "信使"
     },
     {
-        "text": "Jarl_Asl_Gudrodrsson",
-        "translation": "阿索·古罗德逊雅尔"
+        "id": "trp_scotch_messenger_pl",
+        "text": "Messengers",
+        "old_translation": "",
+        "translation": "信使"
     },
     {
-        "text": "Asl_Gudrodrsson",
-        "translation": "阿索·古罗德逊"
+        "id": "trp_scotch_deserter",
+        "text": "Picti_Deserter",
+        "old_translation": "",
+        "translation": "皮克特逃兵"
     },
     {
-        "text": "Jarl_Orkan",
-        "translation": "奥坎雅尔"
+        "id": "trp_scotch_deserter_pl",
+        "text": "Picti_Deserters",
+        "old_translation": "",
+        "translation": "皮克特逃兵"
     },
     {
-        "text": "Orkan",
-        "translation": "奥坎"
+        "id": "trp_scotch_prison_guard",
+        "text": "Prison_Guard",
+        "old_translation": "",
+        "translation": "监狱守卫"
     },
     {
-        "text": "Jarl_Helgi_Ketilsson",
-        "translation": "海尔吉·卡特逊雅尔"
+        "id": "trp_scotch_prison_guard_pl",
+        "text": "Prison_Guards",
+        "old_translation": "",
+        "translation": "监狱守卫"
     },
     {
-        "text": "Helgi_Ketilsson",
-        "translation": "海尔吉·卡特逊"
+        "id": "trp_scotch_castle_guard",
+        "text": "Fort_Guard",
+        "old_translation": "",
+        "translation": "要塞守卫"
     },
     {
-        "text": "Hersir_Eystein_Olafsson",
-        "translation": "艾斯坦·奥拉夫逊领主"
+        "id": "trp_scotch_castle_guard_pl",
+        "text": "Fort_Guards",
+        "old_translation": "",
+        "translation": "要塞守卫"
     },
     {
-        "text": "Eystein_Olafsson",
-        "translation": "艾斯坦·奥拉夫逊"
+        "id": "trp_angle_messenger",
+        "text": "Messenger_(Horsweala)",
+        "old_translation": "",
+        "translation": "撒克逊信使"
     },
     {
-        "text": "Hersir_Sygtrygg_Ivarrsson",
-        "translation": "希泰格·艾瓦逊领主"
+        "id": "trp_angle_messenger_pl",
+        "text": "Messengers_(Horswealas)",
+        "old_translation": "",
+        "translation": "撒克逊信使"
     },
     {
-        "text": "Sygtrygg_Ivarrsson",
-        "translation": "希泰格·艾瓦逊"
+        "id": "trp_angle_deserter",
+        "text": "Angle_Deserter",
+        "old_translation": "",
+        "translation": "盎格鲁逃兵"
     },
     {
-        "text": "Hersir_Thorstein_Olafsson",
-        "translation": "索尔斯坦·奥拉夫逊领主"
+        "id": "trp_angle_deserter_pl",
+        "text": "Angle_Deserters",
+        "old_translation": "",
+        "translation": "盎格鲁逃兵"
     },
     {
-        "text": "Thorstein_Olafsson",
-        "translation": "索尔斯坦·奥拉夫逊"
+        "id": "trp_angle_prison_guard",
+        "text": "Prison_Guard",
+        "old_translation": "",
+        "translation": "监狱守卫"
     },
     {
-        "text": "Jarl_Harald_Hemmingsson",
-        "translation": "哈拉尔·赫敏逊雅尔"
+        "id": "trp_angle_prison_guard_pl",
+        "text": "Prison_Guards",
+        "old_translation": "",
+        "translation": "监狱守卫"
     },
     {
-        "text": "Haraldr_Hemmingsson",
-        "translation": "哈拉尔·赫敏逊雅尔"
+        "id": "trp_angle_castle_guard",
+        "text": "Fort_Guard",
+        "old_translation": "",
+        "translation": "要塞守卫"
     },
     {
-        "text": "Jarl_Gotrik_Haraldsson",
-        "translation": "戈里克·哈罗德逊雅尔"
+        "id": "trp_angle_castle_guard_pl",
+        "text": "Fort_Guards",
+        "old_translation": "",
+        "translation": "要塞守卫"
     },
     {
-        "text": "Gotrik_Haraldsson",
-        "translation": "戈里克·哈罗德逊"
+        "id": "trp_irish_messenger",
+        "text": "Messenger",
+        "old_translation": "",
+        "translation": "信使"
     },
     {
-        "text": "Jarl_Hrodulf_Haraldsson",
-        "translation": "侯多夫·哈罗德逊雅尔"
+        "id": "trp_irish_messenger_pl",
+        "text": "Messengers",
+        "old_translation": "",
+        "translation": "信使"
     },
     {
-        "text": "Hrodulfr_Haraldsson",
-        "translation": "侯多夫·哈罗德逊"
+        "id": "trp_irish_deserter",
+        "text": "Goidelic_Deserter",
+        "old_translation": "",
+        "translation": "盖尔逃兵"
     },
     {
-        "text": "Aetheling_Aelfred_Aethelwulfing",
-        "translation": "阿尔弗雷德·埃塞尔沃夫英王子"
+        "id": "trp_irish_deserter_pl",
+        "text": "Goidelic_Deserters",
+        "old_translation": "",
+        "translation": "盖尔逃兵"
     },
     {
-        "text": "Aelfred_Aethelwulfing",
-        "translation": "阿尔弗雷德·埃塞尔沃夫英王子"
+        "id": "trp_irish_prison_guard",
+        "text": "Prison_Guard",
+        "old_translation": "",
+        "translation": "监狱守卫"
     },
     {
-        "text": "Ealdorman_Aethelmod",
-        "translation": "阿弗芒郡长"
+        "id": "trp_irish_prison_guard_pl",
+        "text": "Prison_Guards",
+        "old_translation": "",
+        "translation": "监狱守卫"
     },
     {
-        "text": "Aethelmod",
-        "translation": "阿弗芒"
+        "id": "trp_irish_castle_guard",
+        "text": "Fort_Guard",
+        "old_translation": "",
+        "translation": "要塞守卫"
     },
     {
-        "text": "Ealdorman_Wulfhere",
-        "translation": "沃夫赫郡长"
+        "id": "trp_irish_castle_guard_pl",
+        "text": "Fort_Guards",
+        "old_translation": "",
+        "translation": "要塞守卫"
     },
     {
-        "text": "Wulfhere",
-        "translation": "沃夫赫"
+        "id": "trp_looter",
+        "text": "Ruffian",
+        "old_translation": "",
+        "translation": "恶棍"
     },
     {
-        "text": "Ealdorman_Aelfstan",
-        "translation": "艾弗斯坦郡长"
+        "id": "trp_looter_pl",
+        "text": "Ruffians",
+        "old_translation": "",
+        "translation": "恶棍"
     },
     {
-        "text": "Aelfstan",
-        "translation": "艾弗斯坦"
+        "id": "trp_bandit",
+        "text": "Footpad",
+        "old_translation": "",
+        "translation": "拦路贼"
     },
     {
-        "text": "Ealdorman_Cuthred",
-        "translation": "裘霍德郡长"
+        "id": "trp_bandit_pl",
+        "text": "Footpads",
+        "old_translation": "",
+        "translation": "拦路贼"
     },
     {
-        "text": "Cuthred",
-        "translation": "裘霍德"
+        "id": "trp_brigand",
+        "text": "Brigand",
+        "old_translation": "",
+        "translation": "土匪"
     },
     {
-        "text": "Ealdorman_Bucca",
-        "translation": "布卡郡长"
+        "id": "trp_brigand_pl",
+        "text": "Brigands",
+        "old_translation": "",
+        "translation": "土匪"
     },
     {
-        "text": "Bucca",
-        "translation": "布卡"
+        "id": "trp_mountain_bandit",
+        "text": "Robber",
+        "old_translation": "",
+        "translation": "强盗"
     },
     {
-        "text": "Ealdorman_Wulfred",
-        "translation": "沃弗雷德郡长"
+        "id": "trp_mountain_bandit_pl",
+        "text": "Robbers",
+        "old_translation": "",
+        "translation": "强盗"
     },
     {
-        "text": "Wulfred",
-        "translation": "沃弗雷德"
+        "id": "trp_forest_bandit",
+        "text": "Bandit",
+        "old_translation": "",
+        "translation": "山贼"
     },
     {
-        "text": "Ealdorman_Wigstan",
-        "translation": "威克斯坦郡长"
+        "id": "trp_forest_bandit_pl",
+        "text": "Bandits",
+        "old_translation": "",
+        "translation": "山贼"
     },
     {
-        "text": "Wigstan",
-        "translation": "威克斯坦郡"
+        "id": "trp_sea_raider",
+        "text": "Reaver",
+        "old_translation": "",
+        "translation": "掠夺者"
     },
     {
-        "text": "Ealdorman_Sigeberht_Sigewulfing",
-        "translation": "西格伯特·希戈沃夫郡长"
+        "id": "trp_sea_raider_pl",
+        "text": "Reavers",
+        "old_translation": "",
+        "translation": "掠夺者"
     },
     {
-        "text": "Sigeberht_Sigewulfing",
-        "translation": "西格伯特·希戈沃夫"
+        "id": "trp_desert_bandit",
+        "text": "Highwayman",
+        "old_translation": "",
+        "translation": "响马"
     },
     {
-        "text": "Ealdorman_Garulf",
-        "translation": "加罗夫郡长"
+        "id": "trp_desert_bandit_pl",
+        "text": "Highwaymen",
+        "old_translation": "",
+        "translation": "响马"
     },
     {
-        "text": "Garulf",
-        "translation": "加罗夫"
+        "id": "trp_steppe_bandit",
+        "text": "Northmathr_Vikingr",
+        "old_translation": "",
+        "translation": "挪威维京海盗"
     },
     {
-        "text": "Dryhten_Drihtwald",
-        "translation": "杜里沃德领主"
+        "id": "trp_steppe_bandit_pl",
+        "text": "Northmenn_Vikingarnir",
+        "old_translation": "",
+        "translation": "挪威维京海盗"
     },
     {
-        "text": "Drihtwald",
-        "translation": "杜里沃德领"
+        "id": "trp_taiga_bandit",
+        "text": "Vikingr",
+        "old_translation": "",
+        "translation": "维京海盗"
     },
     {
-        "text": "Ealdorman_Oswald",
-        "translation": "奥斯沃德郡长"
+        "id": "trp_taiga_bandit_pl",
+        "text": "Vikingarnir",
+        "old_translation": "",
+        "translation": "维京海盗"
     },
     {
-        "text": "Oswald",
-        "translation": "奥斯瓦德"
+        "id": "trp_elite_viking",
+        "text": "Danish_Elite_Vikingr",
+        "old_translation": "",
+        "translation": "丹麦精锐维京海盗"
     },
     {
-        "text": "Ealdorman_Aethelred",
-        "translation": "阿尔弗雷德郡长"
+        "id": "trp_elite_viking_pl",
+        "text": "Danish_Elite_Vikingarnir",
+        "old_translation": "",
+        "translation": "丹麦精锐维京海盗"
     },
     {
-        "text": "Aethelred",
-        "translation": "阿尔弗雷德"
+        "id": "trp_elite_viking_2",
+        "text": "Svear_Elite_Vikingr",
+        "old_translation": "",
+        "translation": "瑞典精锐维京海盗"
     },
     {
-        "text": "Ealdorman_Ealhhere",
-        "translation": "艾赫尔郡长"
+        "id": "trp_elite_viking_2_pl",
+        "text": "Sviar_Elite_Vikingarnir",
+        "old_translation": "",
+        "translation": "瑞典精锐维京海盗"
     },
     {
-        "text": "Ealhhere",
-        "translation": "艾赫尔"
+        "id": "trp_sea_raider_leader2",
+        "text": "Ship_Captain",
+        "old_translation": "",
+        "translation": "船长"
     },
     {
-        "text": "Dryhten_Eanfrith",
-        "translation": "艾弗斯首领"
+        "id": "trp_sea_raider_leader2_pl",
+        "text": "Captains",
+        "old_translation": "",
+        "translation": "船长"
     },
     {
-        "text": "Eanfrith",
-        "translation": "艾弗斯首领"
+        "id": "trp_looter_leader2",
+        "text": "Bandit_Leader",
+        "old_translation": "",
+        "translation": "山贼头子"
     },
     {
-        "text": "Dryhten_Ecgwald",
-        "translation": "厄克沃德首领"
+        "id": "trp_looter_leader2_pl",
+        "text": "Bandit_Leaders",
+        "old_translation": "",
+        "translation": "山贼头子"
     },
     {
-        "text": "Ecgwald",
-        "translation": "厄克沃德首领"
+        "id": "trp_manhunter",
+        "text": "Young_Warrior",
+        "old_translation": "",
+        "translation": "青年战士"
     },
     {
-        "text": "Ealdorman_Ceowulf_Ceowulfing",
-        "translation": "西奥沃夫郡长"
+        "id": "trp_manhunter_pl",
+        "text": "Young_Warriors",
+        "old_translation": "",
+        "translation": "青年勇士"
     },
     {
-        "text": "Ceowulf_Ceowulfing",
-        "translation": "西奥沃夫"
+        "id": "trp_slave_driver",
+        "text": "Slave_Driver",
+        "old_translation": "",
+        "translation": "奴隶押解者"
     },
     {
-        "text": "Ealdorman_Hereberht",
-        "translation": "赫尔伯特郡长"
+        "id": "trp_slave_driver_pl",
+        "text": "Slave_Drivers",
+        "old_translation": "",
+        "translation": "奴隶押解者"
     },
     {
-        "text": "Hereberht",
-        "translation": "赫尔伯特"
+        "id": "trp_slave_hunter",
+        "text": "Slave_Hunter",
+        "old_translation": "",
+        "translation": "奴隶猎手"
     },
     {
-        "text": "Ealdorman_Aethelred_Mucel",
-        "translation": "阿尔弗雷德·穆赛郡长"
+        "id": "trp_slave_hunter_pl",
+        "text": "Slave_Hunters",
+        "old_translation": "",
+        "translation": "奴隶猎手"
     },
     {
-        "text": "Aethelred_Mucel",
-        "translation": "阿尔弗雷德·穆赛"
+        "id": "trp_slave_crusher",
+        "text": "Veteran_Slave_Hunter",
+        "old_translation": "",
+        "translation": "资深奴隶猎手"
     },
     {
-        "text": "Ealdorman_Aelfgar",
-        "translation": "阿弗加尔郡长"
+        "id": "trp_slave_crusher_pl",
+        "text": "Veteran_Slave_Hunters",
+        "old_translation": "",
+        "translation": "资深奴隶猎手"
     },
     {
-        "text": "Aelfgar",
-        "translation": "阿弗加尔"
+        "id": "trp_slaver_chief",
+        "text": "Slaver_Chief",
+        "old_translation": "",
+        "translation": "奴隶贩子首领"
     },
     {
-        "text": "Ealdorman_Aethulf",
-        "translation": "艾弗尔郡长"
+        "id": "trp_slaver_chief_pl",
+        "text": "Slaver_Chiefs",
+        "old_translation": "",
+        "translation": "奴隶贩子首领"
     },
     {
-        "text": "Aethulf",
-        "translation": "艾弗尔郡长"
+        "id": "trp_follower_woman",
+        "text": "Camp_Woman",
+        "old_translation": "",
+        "translation": "随营妇女"
     },
     {
-        "text": "Ealdorman_Beornoth",
-        "translation": "贝奥诺夫郡长"
+        "id": "trp_follower_woman_pl",
+        "text": "Camp_Women",
+        "old_translation": "",
+        "translation": "随营妇女"
     },
     {
-        "text": "Beornoth",
-        "translation": "贝奥诺夫"
+        "id": "trp_hunter_woman",
+        "text": "Camp_Follower",
+        "old_translation": "",
+        "translation": "随营妇女"
     },
     {
-        "text": "Ealdorman_Sigberth",
-        "translation": "希格伯斯郡长"
+        "id": "trp_hunter_woman_pl",
+        "text": "Camp_Followers",
+        "old_translation": "",
+        "translation": "随营妇女"
     },
     {
-        "text": "Sigberth",
-        "translation": "希格伯斯"
+        "id": "trp_fighter_woman",
+        "text": "Soldier's_Wife",
+        "old_translation": "",
+        "translation": "军嫂"
     },
     {
-        "text": "Dryhten_Aethelwulf_Aethelreding",
-        "translation": "艾尔沃夫·阿尔弗丁领主"
+        "id": "trp_fighter_woman_pl",
+        "text": "Soldiers'_Wives",
+        "old_translation": "",
+        "translation": "军嫂"
     },
     {
-        "text": "Aethelwulf_Aethelreding",
-        "translation": "艾尔沃夫·阿尔弗丁"
+        "id": "trp_sword_sister",
+        "text": "Camp_Defender",
+        "old_translation": "",
+        "translation": "营地守卫"
     },
     {
-        "text": "Cyning_Egbert",
-        "translation": "艾格伯特国王"
+        "id": "trp_sword_sister_pl",
+        "text": "Camp_Defenders",
+        "old_translation": "",
+        "translation": "营地守卫"
     },
     {
-        "text": "Egbert",
-        "translation": "艾格伯特"
+        "id": "trp_refugee",
+        "text": "Refugee",
+        "old_translation": "",
+        "translation": "难民"
     },
     {
-        "text": "Jarl_Rathbarth_Ragnarsson",
-        "translation": "拉弗伯斯·拉格纳逊雅尔"
+        "id": "trp_refugee_pl",
+        "text": "Refugees",
+        "old_translation": "",
+        "translation": "难民"
     },
     {
-        "text": "Rathbarth_Ragnarsson",
-        "translation": "拉弗伯斯·拉格纳逊"
+        "id": "trp_peasant_woman",
+        "text": "Peasant_Woman",
+        "old_translation": "",
+        "translation": "农妇"
     },
     {
-        "text": "Ealdorman_Ealdred",
-        "translation": "厄雷德郡长"
+        "id": "trp_peasant_woman_pl",
+        "text": "Peasant_Women",
+        "old_translation": "",
+        "translation": "农妇"
     },
     {
-        "text": "Ealdred",
-        "translation": "厄雷德"
+        "id": "trp_refugeeromanruins",
+        "text": "Refugee",
+        "old_translation": "",
+        "translation": "难民"
     },
     {
-        "text": "Jarl_Sidroc_the_Elder",
-        "translation": "老希德罗雅尔"
+        "id": "trp_refugeeromanruins_pl",
+        "text": "Refugees",
+        "old_translation": "",
+        "translation": "难民"
     },
     {
-        "text": "Sidroc_the_Elder",
-        "translation": "老希德罗雅尔"
+        "id": "trp_peasant_womanromanruins",
+        "text": "Peasant_Woman",
+        "old_translation": "",
+        "translation": "农妇"
     },
     {
-        "text": "Ealdorman_Ricsige",
-        "translation": "里克塞郡长"
+        "id": "trp_peasant_womanromanruins_pl",
+        "text": "Peasant_Women",
+        "old_translation": "",
+        "translation": "农妇"
     },
     {
-        "text": "Ricsige",
-        "translation": "里克塞"
+        "id": "trp_refugeedruid",
+        "text": "Refugee",
+        "old_translation": "",
+        "translation": "难民"
     },
     {
-        "text": "Ealdorman_Egbert_the_Second",
-        "translation": "艾格伯特二世郡长"
+        "id": "trp_refugeedruid_pl",
+        "text": "Refugees",
+        "old_translation": "",
+        "translation": "难民"
     },
     {
-        "text": "Egbert_the_Second",
-        "translation": "艾格伯特"
+        "id": "trp_peasant_womandruid",
+        "text": "Peasant_Woman",
+        "old_translation": "",
+        "translation": "农妇"
     },
     {
-        "text": "Jarl_Bjorn_Ragnarsson",
-        "translation": "比约恩·拉格纳逊雅尔"
+        "id": "trp_peasant_womandruid_pl",
+        "text": "Peasant_Women",
+        "old_translation": "",
+        "translation": "农妇"
     },
     {
-        "text": "Bjorn_Jarnsida",
-        "translation": "比约恩·拉格纳逊"
+        "id": "trp_farmerdruid",
+        "text": "Farmer",
+        "old_translation": "",
+        "translation": "农民"
+    },
+    {
+        "id": "trp_farmerdruid_pl",
+        "text": "Farmers",
+        "old_translation": "",
+        "translation": "农民"
+    },
+    {
+        "id": "trp_manhunterdruid",
+        "text": "Young_Warrior",
+        "old_translation": "",
+        "translation": "青年战士"
+    },
+    {
+        "id": "trp_manhunterdruid_pl",
+        "text": "Young_Band",
+        "old_translation": "",
+        "translation": "青年帮"
+    },
+    {
+        "id": "trp_prisionerdruid",
+        "text": "Prisoner",
+        "old_translation": "",
+        "translation": "俘虏"
+    },
+    {
+        "id": "trp_prisionerdruid_pl",
+        "text": "Prisoners",
+        "old_translation": "",
+        "translation": "俘虏"
+    },
+    {
+        "id": "trp_quarry_trabajador",
+        "text": "Worker",
+        "old_translation": "",
+        "translation": "工人"
+    },
+    {
+        "id": "trp_quarry_trabajador_pl",
+        "text": "Workers",
+        "old_translation": "",
+        "translation": "工人"
+    },
+    {
+        "id": "trp_quarry_capataz",
+        "text": "Foreman",
+        "old_translation": "",
+        "translation": "工头"
+    },
+    {
+        "id": "trp_quarry_capataz_pl",
+        "text": "Foremen",
+        "old_translation": "",
+        "translation": "工头"
+    },
+    {
+        "id": "trp_saltmine_capataz",
+        "text": "Foreman",
+        "old_translation": "",
+        "translation": "工头"
+    },
+    {
+        "id": "trp_saltmine_capataz_pl",
+        "text": "Foremen",
+        "old_translation": "",
+        "translation": "工头"
+    },
+    {
+        "id": "trp_lumbercamp_capataz",
+        "text": "Lumber_Camp_Foreman",
+        "old_translation": "",
+        "translation": "伐木营工头"
+    },
+    {
+        "id": "trp_lumbercamp_capataz_pl",
+        "text": "Lumber_Camp_Foremen",
+        "old_translation": "",
+        "translation": "伐木营工头"
+    },
+    {
+        "id": "trp_farmstead_boss",
+        "text": "Farmstead_Reeve",
+        "old_translation": "",
+        "translation": "农庄总管"
+    },
+    {
+        "id": "trp_farmstead_boss_pl",
+        "text": "Farmstead_Reeves",
+        "old_translation": "",
+        "translation": "农庄总管"
+    },
+    {
+        "id": "trp_bandit_lairmerchant",
+        "text": "Bandit_Leader",
+        "old_translation": "",
+        "translation": "山贼头子"
+    },
+    {
+        "id": "trp_bandit_lairmerchant_pl",
+        "text": "Bandit_Leader",
+        "old_translation": "",
+        "translation": "山贼头子"
+    },
+    {
+        "id": "trp_abad",
+        "text": "Abbot",
+        "old_translation": "",
+        "translation": "修道院院长"
+    },
+    {
+        "id": "trp_abad_pl",
+        "text": "Abbot",
+        "old_translation": "",
+        "translation": "修道院院长"
+    },
+    {
+        "id": "trp_monjes",
+        "text": "Monk",
+        "old_translation": "",
+        "translation": "僧侣"
+    },
+    {
+        "id": "trp_monjes_pl",
+        "text": "Monks",
+        "old_translation": "",
+        "translation": "僧侣们"
+    },
+    {
+        "id": "trp_caravan_master",
+        "text": "Caravan_Master",
+        "old_translation": "",
+        "translation": "商队头领"
+    },
+    {
+        "id": "trp_caravan_master_pl",
+        "text": "Caravan_Masters",
+        "old_translation": "",
+        "translation": "商队头领"
+    },
+    {
+        "id": "trp_kidnapped_girl",
+        "text": "Kidnapped_Girl",
+        "old_translation": "",
+        "translation": "被绑架的女孩"
+    },
+    {
+        "id": "trp_kidnapped_girl_pl",
+        "text": "Kidnapped_Girls",
+        "old_translation": "",
+        "translation": "被绑架的女孩"
+    },
+    {
+        "id": "trp_town_walker_1",
+        "text": "Townsman",
+        "old_translation": "",
+        "translation": "市民"
+    },
+    {
+        "id": "trp_town_walker_1_pl",
+        "text": "Townsmen",
+        "old_translation": "",
+        "translation": "市民"
+    },
+    {
+        "id": "trp_town_walker_2",
+        "text": "Townswoman",
+        "old_translation": "",
+        "translation": "女市民"
+    },
+    {
+        "id": "trp_town_walker_2_pl",
+        "text": "Townswomen",
+        "old_translation": "",
+        "translation": "女市民们"
+    },
+    {
+        "id": "trp_town_walker_3",
+        "text": "Townsman",
+        "old_translation": "",
+        "translation": "市民"
+    },
+    {
+        "id": "trp_town_walker_3_pl",
+        "text": "Townsmen",
+        "old_translation": "",
+        "translation": "市民"
+    },
+    {
+        "id": "trp_town_walker_4",
+        "text": "Townswoman",
+        "old_translation": "",
+        "translation": "女市民"
+    },
+    {
+        "id": "trp_town_walker_4_pl",
+        "text": "Townswomen",
+        "old_translation": "",
+        "translation": "女市民们"
+    },
+    {
+        "id": "trp_town_walker_5",
+        "text": "Townsman",
+        "old_translation": "",
+        "translation": "市民"
+    },
+    {
+        "id": "trp_town_walker_5_pl",
+        "text": "Townsmen",
+        "old_translation": "",
+        "translation": "市民"
+    },
+    {
+        "id": "trp_town_walker_6",
+        "text": "Townswoman",
+        "old_translation": "",
+        "translation": "女市民"
+    },
+    {
+        "id": "trp_town_walker_6_pl",
+        "text": "Townswomen",
+        "old_translation": "",
+        "translation": "女市民们"
+    },
+    {
+        "id": "trp_town_walker_7",
+        "text": "Townsman",
+        "old_translation": "",
+        "translation": "市民"
+    },
+    {
+        "id": "trp_town_walker_7_pl",
+        "text": "Townsmen",
+        "old_translation": "",
+        "translation": "市民"
+    },
+    {
+        "id": "trp_town_walker_8",
+        "text": "Townswoman",
+        "old_translation": "",
+        "translation": "女市民"
+    },
+    {
+        "id": "trp_town_walker_8_pl",
+        "text": "Townswomen",
+        "old_translation": "",
+        "translation": "女市民们"
+    },
+    {
+        "id": "trp_nino_varon",
+        "text": "Child",
+        "old_translation": "",
+        "translation": "小孩"
+    },
+    {
+        "id": "trp_nino_varon_pl",
+        "text": "Children",
+        "old_translation": "",
+        "translation": "小孩们"
+    },
+    {
+        "id": "trp_nina_chica",
+        "text": "Child",
+        "old_translation": "",
+        "translation": "小孩"
+    },
+    {
+        "id": "trp_nina_chica_pl",
+        "text": "Children",
+        "old_translation": "",
+        "translation": "小孩们"
+    },
+    {
+        "id": "trp_monk_walker",
+        "text": "Monk",
+        "old_translation": "",
+        "translation": "僧侣"
+    },
+    {
+        "id": "trp_monk_walker_pl",
+        "text": "Monks",
+        "old_translation": "",
+        "translation": "僧侣们"
+    },
+    {
+        "id": "trp_village_walker_1",
+        "text": "Villager",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_1_pl",
+        "text": "Villagers",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_2",
+        "text": "Villager",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_2_pl",
+        "text": "Villagers",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_3",
+        "text": "Villager",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_3_pl",
+        "text": "Villager",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_4",
+        "text": "Villager",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_4_pl",
+        "text": "Villager",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_5",
+        "text": "Villager",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_5_pl",
+        "text": "Villager",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_6",
+        "text": "Villager",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_6_pl",
+        "text": "Villager",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_7",
+        "text": "Villager",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_7_pl",
+        "text": "Villagers",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_8",
+        "text": "Villager",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_8_pl",
+        "text": "Villager",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_1a",
+        "text": "Villager",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_1a_pl",
+        "text": "Villagers",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_3a",
+        "text": "Villager",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_3a_pl",
+        "text": "Villager",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_5a",
+        "text": "Villager",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_village_walker_5a_pl",
+        "text": "Villager",
+        "old_translation": "",
+        "translation": "村民"
+    },
+    {
+        "id": "trp_spy_walker_1",
+        "text": "Townsman",
+        "old_translation": "",
+        "translation": "市民"
+    },
+    {
+        "id": "trp_spy_walker_1_pl",
+        "text": "Townsmen",
+        "old_translation": "",
+        "translation": "市民"
+    },
+    {
+        "id": "trp_spy_walker_2",
+        "text": "Townswoman",
+        "old_translation": "",
+        "translation": "女市民"
+    },
+    {
+        "id": "trp_spy_walker_2_pl",
+        "text": "Townswomen",
+        "old_translation": "",
+        "translation": "女市民们"
+    },
+    {
+        "id": "trp_tournament_master",
+        "text": "Tournament_Master",
+        "old_translation": "",
+        "translation": "竞技场主人"
+    },
+    {
+        "id": "trp_tournament_master_pl",
+        "text": "Tournament_Master",
+        "old_translation": "",
+        "translation": "竞技场主人"
+    },
+    {
+        "id": "trp_trainer",
+        "text": "Trainer",
+        "old_translation": "",
+        "translation": "教练"
+    },
+    {
+        "id": "trp_trainer_pl",
+        "text": "Trainer",
+        "old_translation": "",
+        "translation": "教练"
+    },
+    {
+        "id": "trp_constable_hareck",
+        "text": "Constable_Hareck",
+        "old_translation": "",
+        "translation": "哈瑞克治安官"
+    },
+    {
+        "id": "trp_constable_hareck_pl",
+        "text": "Constable_Hareck",
+        "old_translation": "",
+        "translation": "哈瑞克治安官"
+    },
+    {
+        "id": "trp_ramun_the_slave_trader",
+        "text": "Aethelmaer,_the_Slaver",
+        "old_translation": "",
+        "translation": "奴隶商人阿特马尔"
+    },
+    {
+        "id": "trp_ramun_the_slave_trader_pl",
+        "text": "Aethelmaer,_the_Slaver",
+        "old_translation": "",
+        "translation": "奴隶商人阿特马尔"
+    },
+    {
+        "id": "trp_guide",
+        "text": "Ulric",
+        "old_translation": "",
+        "translation": "尤里克"
+    },
+    {
+        "id": "trp_guide_pl",
+        "text": "Ulric",
+        "old_translation": "",
+        "translation": "尤里克"
+    },
+    {
+        "id": "trp_xerina",
+        "text": "Anchoret_the_Pict",
+        "old_translation": "",
+        "translation": "皮克特人隐士"
+    },
+    {
+        "id": "trp_xerina_pl",
+        "text": "Anchoret",
+        "old_translation": "",
+        "translation": "隐士"
+    },
+    {
+        "id": "trp_dranton",
+        "text": "Niall_the_Briton",
+        "old_translation": "",
+        "translation": "布立吞人尼欧"
+    },
+    {
+        "id": "trp_dranton_pl",
+        "text": "Niall",
+        "old_translation": "",
+        "translation": "尼亚尔"
+    },
+    {
+        "id": "trp_kradus",
+        "text": "Uthred_the_Saxon",
+        "old_translation": "",
+        "translation": "撒克逊人厄佛德"
+    },
+    {
+        "id": "trp_kradus_pl",
+        "text": "Kradus",
+        "old_translation": "",
+        "translation": "喀拉杜斯"
+    },
+    {
+        "id": "trp_tutorial_trainer",
+        "text": "Training_Ground_Master",
+        "old_translation": "",
+        "translation": "训练场教练"
+    },
+    {
+        "id": "trp_tutorial_trainer_pl",
+        "text": "Training_Ground_Master",
+        "old_translation": "",
+        "translation": "训练场教练"
+    },
+    {
+        "id": "trp_galeas",
+        "text": "Balin",
+        "old_translation": "",
+        "translation": "巴林"
+    },
+    {
+        "id": "trp_galeas_pl",
+        "text": "Balin",
+        "old_translation": "",
+        "translation": "巴林"
+    },
+    {
+        "id": "trp_farmer_from_bandit_village",
+        "text": "Farmer",
+        "old_translation": "",
+        "translation": "农民"
+    },
+    {
+        "id": "trp_farmer_from_bandit_village_pl",
+        "text": "Farmers",
+        "old_translation": "",
+        "translation": "农民"
+    },
+    {
+        "id": "trp_trainer_2",
+        "text": "Harald",
+        "old_translation": "",
+        "translation": "哈拉尔"
+    },
+    {
+        "id": "trp_trainer_2_pl",
+        "text": "Trainer",
+        "old_translation": "",
+        "translation": "教练"
+    },
+    {
+        "id": "trp_trainer_1",
+        "text": "Veteran",
+        "old_translation": "",
+        "translation": "老兵"
+    },
+    {
+        "id": "trp_trainer_1_pl",
+        "text": "Veteran",
+        "old_translation": "",
+        "translation": "老兵"
+    },
+    {
+        "id": "trp_trainer_3",
+        "text": "Trainer",
+        "old_translation": "",
+        "translation": "教练"
+    },
+    {
+        "id": "trp_trainer_3_pl",
+        "text": "Trainer",
+        "old_translation": "",
+        "translation": "教练"
+    },
+    {
+        "id": "trp_trainer_4",
+        "text": "Trainer",
+        "old_translation": "",
+        "translation": "教练"
+    },
+    {
+        "id": "trp_trainer_4_pl",
+        "text": "Trainer",
+        "old_translation": "",
+        "translation": "教练"
+    },
+    {
+        "id": "trp_trainer_5",
+        "text": "Trainer",
+        "old_translation": "",
+        "translation": "教练"
+    },
+    {
+        "id": "trp_trainer_5_pl",
+        "text": "Trainer",
+        "old_translation": "",
+        "translation": "教练"
+    },
+    {
+        "id": "trp_ransom_broker_1",
+        "text": "Ransom_Broker",
+        "old_translation": "",
+        "translation": "赎金经纪人"
+    },
+    {
+        "id": "trp_ransom_broker_1_pl",
+        "text": "Slave_Trader",
+        "old_translation": "",
+        "translation": "奴隶商人"
+    },
+    {
+        "id": "trp_ransom_broker_2",
+        "text": "Ransom_Broker",
+        "old_translation": "",
+        "translation": "赎金经纪人"
+    },
+    {
+        "id": "trp_ransom_broker_2_pl",
+        "text": "Slave_Trader",
+        "old_translation": "",
+        "translation": "奴隶商人"
+    },
+    {
+        "id": "trp_ransom_broker_3",
+        "text": "Ransom_Broker",
+        "old_translation": "",
+        "translation": "赎金经纪人"
+    },
+    {
+        "id": "trp_ransom_broker_3_pl",
+        "text": "Slave_Trader",
+        "old_translation": "",
+        "translation": "奴隶商人"
+    },
+    {
+        "id": "trp_ransom_broker_4",
+        "text": "Ransom_Broker",
+        "old_translation": "",
+        "translation": "赎金经纪人"
+    },
+    {
+        "id": "trp_ransom_broker_4_pl",
+        "text": "Slave_Trader",
+        "old_translation": "",
+        "translation": "奴隶商人"
+    },
+    {
+        "id": "trp_ransom_broker_5",
+        "text": "Ransom_Broker",
+        "old_translation": "",
+        "translation": "赎金经纪人"
+    },
+    {
+        "id": "trp_ransom_broker_5_pl",
+        "text": "Slave_Trader",
+        "old_translation": "",
+        "translation": "奴隶商人"
+    },
+    {
+        "id": "trp_ransom_broker_6",
+        "text": "Ransom_Broker",
+        "old_translation": "",
+        "translation": "赎金经纪人"
+    },
+    {
+        "id": "trp_ransom_broker_6_pl",
+        "text": "Slave_Trader",
+        "old_translation": "",
+        "translation": "奴隶商人"
+    },
+    {
+        "id": "trp_ransom_broker_7",
+        "text": "Ransom_Broker",
+        "old_translation": "",
+        "translation": "赎金经纪人"
+    },
+    {
+        "id": "trp_ransom_broker_7_pl",
+        "text": "Slave_Trader",
+        "old_translation": "",
+        "translation": "奴隶商人"
+    },
+    {
+        "id": "trp_ransom_broker_8",
+        "text": "Ransom_Broker",
+        "old_translation": "",
+        "translation": "赎金经纪人"
+    },
+    {
+        "id": "trp_ransom_broker_8_pl",
+        "text": "Slave_Trader",
+        "old_translation": "",
+        "translation": "奴隶商人"
+    },
+    {
+        "id": "trp_ransom_broker_9",
+        "text": "Ransom_Broker",
+        "old_translation": "",
+        "translation": "赎金经纪人"
+    },
+    {
+        "id": "trp_ransom_broker_9_pl",
+        "text": "Slave_Trader",
+        "old_translation": "",
+        "translation": "奴隶商人"
+    },
+    {
+        "id": "trp_ransom_broker_10",
+        "text": "Ransom_Broker",
+        "old_translation": "",
+        "translation": "赎金经纪人"
+    },
+    {
+        "id": "trp_ransom_broker_10_pl",
+        "text": "Slave_Trader",
+        "old_translation": "",
+        "translation": "奴隶商人"
+    },
+    {
+        "id": "trp_ransom_broker_20",
+        "text": "Ransom_Broker",
+        "old_translation": "",
+        "translation": "赎金经纪人"
+    },
+    {
+        "id": "trp_ransom_broker_20_pl",
+        "text": "Slave_Trader",
+        "old_translation": "",
+        "translation": "奴隶商人"
+    },
+    {
+        "id": "trp_tavern_traveler_1",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_1_pl",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_2",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_2_pl",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_3",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_3_pl",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_4",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_4_pl",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_5",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_5_pl",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_6",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_6_pl",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_7",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_7_pl",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_8",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_8_pl",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_9",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_9_pl",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_10",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_traveler_10_pl",
+        "text": "Traveller",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_tavern_bookseller_1",
+        "text": "Book_Merchant",
+        "old_translation": "",
+        "translation": "书籍商人"
+    },
+    {
+        "id": "trp_tavern_bookseller_1_pl",
+        "text": "Book_Merchant",
+        "old_translation": "",
+        "translation": "书籍商人"
     }
 ]

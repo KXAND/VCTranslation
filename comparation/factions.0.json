@@ -1,170 +1,260 @@
 [
     {
+        "id": "fac_no_faction",
         "text": "No_Faction",
-        "translation": "NoFaction{***}"
+        "old_translation": "",
+        "translation": "无阵营"
     },
     {
+        "id": "fac_commoners",
         "text": "Commoners",
+        "old_translation": "",
         "translation": "平民"
     },
     {
+        "id": "fac_outlaws",
         "text": "Outlaws",
-        "translation": "不法之徒"
+        "old_translation": "",
+        "translation": "盗贼"
     },
     {
+        "id": "fac_neutral",
         "text": "Neutral",
+        "old_translation": "",
         "translation": "中立者"
     },
     {
+        "id": "fac_innocents",
         "text": "Innocents",
+        "old_translation": "",
         "translation": "无辜者"
     },
     {
+        "id": "fac_merchants",
         "text": "Merchants",
+        "old_translation": "",
         "translation": "商人"
     },
     {
+        "id": "fac_culture_norse",
         "text": "Norse",
-        "translation": "诺尔斯"
+        "old_translation": "",
+        "translation": "诺斯"
     },
     {
+        "id": "fac_culture_saxon",
         "text": "Saxon",
+        "old_translation": "",
         "translation": "撒克逊"
     },
     {
+        "id": "fac_culture_angle",
         "text": "Angle",
+        "old_translation": "",
         "translation": "盎格鲁"
     },
     {
+        "id": "fac_culture_welsh",
         "text": "Brittonic",
+        "old_translation": "",
         "translation": "布立吞"
     },
     {
+        "id": "fac_culture_irish",
         "text": "Goidelic",
-        "translation": "戈伊德尔"
+        "old_translation": "",
+        "translation": "盖尔"
     },
     {
+        "id": "fac_culture_scotch",
         "text": "Pictish",
+        "old_translation": "",
         "translation": "皮克特"
     },
     {
+        "id": "fac_player_faction",
         "text": "Player_Faction",
+        "old_translation": "",
         "translation": "玩家阵营"
     },
     {
+        "id": "fac_player_supporters_faction",
         "text": "Player's_Supporters",
-        "translation": "某个意淫王国"
+        "old_translation": "",
+        "translation": "玩家的支持者"
     },
     {
+        "id": "fac_kingdom_1",
         "text": "Kingdom_of_Danmark",
+        "old_translation": "",
         "translation": "丹麦王国"
     },
     {
+        "id": "fac_kingdom_2",
         "text": "Kingdom_of_Northvegr",
+        "old_translation": "",
         "translation": "挪威王国"
     },
     {
+        "id": "fac_kingdom_3",
         "text": "Kingdom_of_Laithlind",
-        "translation": "雷弗莱王国"
+        "old_translation": "",
+        "translation": "莱斯林王国"
     },
     {
+        "id": "fac_kingdom_4",
         "text": "Kingdom_of_Friese",
-        "translation": "弗里斯王国"
+        "old_translation": "",
+        "translation": "弗里西亚王国"
     },
     {
+        "id": "fac_kingdom_5",
         "text": "Kingdom_of_West_Seaxe",
+        "old_translation": "",
         "translation": "西撒克逊王国"
     },
     {
+        "id": "fac_kingdom_6",
         "text": "Kingdom_of_East_Engle",
-        "translation": "东盎格里亚王国"
+        "old_translation": "",
+        "translation": "东盎格利亚王国"
     },
     {
+        "id": "fac_kingdom_7",
         "text": "Kingdom_of_Mierce",
+        "old_translation": "",
         "translation": "麦西亚王国"
     },
     {
+        "id": "fac_kingdom_8",
         "text": "Kingdom_of_Northhymbre",
+        "old_translation": "",
         "translation": "诺森布里亚王国"
     },
     {
+        "id": "fac_kingdom_9",
         "text": "Kingdom_of_Gwynedd",
-        "translation": "格温特王国"
+        "old_translation": "",
+        "translation": "圭内斯王国"
     },
     {
+        "id": "fac_kingdom_10",
         "text": "Kingdom_of_Brycheiniog",
-        "translation": "拜卡灵王国"
+        "old_translation": "",
+        "translation": "布瑞赫尼奥格王国"
     },
     {
+        "id": "fac_kingdom_11",
         "text": "Kingdom_of_Alt_Clut",
-        "translation": "奥卡勒王国"
+        "old_translation": "",
+        "translation": "阿尔特·克卢特王国"
     },
     {
+        "id": "fac_kingdom_12",
         "text": "Kingdom_of_Cornubia",
-        "translation": "康比亚王国"
+        "old_translation": "",
+        "translation": "康沃尔王国"
     },
     {
+        "id": "fac_kingdom_13",
         "text": "Kingdom_of_Glywyssing",
-        "translation": "格莱永王国"
+        "old_translation": "",
+        "translation": "格卢辛王国"
     },
     {
+        "id": "fac_kingdom_14",
         "text": "Kingdom_of_Uladh",
-        "translation": "阿尔斯特王国"
+        "old_translation": "",
+        "translation": "乌拉德王国"
     },
     {
+        "id": "fac_kingdom_15",
         "text": "Kingdom_of_Laigin",
-        "translation": "雷金王国"
+        "old_translation": "",
+        "translation": "拉因王国"
     },
     {
+        "id": "fac_kingdom_16",
         "text": "Kingdom_of_Mumain",
-        "translation": "穆梅殷王国"
+        "old_translation": "",
+        "translation": "穆恩王国"
     },
     {
+        "id": "fac_kingdom_17",
         "text": "Kingdom_of_Connachta",
-        "translation": "卡内塔王国"
+        "old_translation": "",
+        "translation": "康纳赫塔王国"
     },
     {
+        "id": "fac_kingdom_18",
         "text": "Ui_Neill_of_Aileach",
-        "translation": "欧莱克王国"
+        "old_translation": "",
+        "translation": "艾利赫的乌伊·尼尔王朝"
     },
     {
+        "id": "fac_kingdom_19",
         "text": "Kingdom_of_Mide",
-        "translation": "迈德王国"
+        "old_translation": "",
+        "translation": "米德王国"
     },
     {
+        "id": "fac_kingdom_20",
         "text": "Kingdom_of_Alban",
-        "translation": "奥尔本王国"
+        "old_translation": "",
+        "translation": "阿尔巴王国"
     },
     {
+        "id": "fac_kingdom_21",
         "text": "Tribe_of_Osraige",
-        "translation": "奥斯里部落"
+        "old_translation": "",
+        "translation": "奥索里部落"
     },
     {
+        "id": "fac_christians",
         "text": "Christians",
+        "old_translation": "",
         "translation": "基督徒"
     },
     {
+        "id": "fac_pagans",
         "text": "Pagans",
+        "old_translation": "",
         "translation": "多神教徒"
     },
     {
+        "id": "fac_manhunters",
         "text": "Manhunters",
+        "old_translation": "",
         "translation": "赏金猎人"
     },
     {
+        "id": "fac_deserters",
         "text": "Deserters",
+        "old_translation": "",
         "translation": "乱军"
     },
     {
+        "id": "fac_mountain_bandits",
         "text": "Sea_Warriors",
+        "old_translation": "",
         "translation": "海盗"
     },
     {
+        "id": "fac_forest_bandits",
         "text": "Forest_Bandits",
+        "old_translation": "",
         "translation": "绿林强盗"
     },
     {
+        "id": "fac_apoyoplayer",
+        "text": "Neutral",
+        "old_translation": "",
+        "translation": "中立者"
+    },
+    {
+        "id": "fac_adventurers",
         "text": "Adventurers",
-        "translation": "冒险家"
+        "old_translation": "",
+        "translation": "冒险者"
     }
 ]

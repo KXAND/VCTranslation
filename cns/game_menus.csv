@@ -1,568 +1,540 @@
-menu_start_game_0|欢 迎 来 到 维 京 征 服 世 界（游 戏 版 本 V2.036） 。
-mno_continue_i|继 续 ...
-mno_continue_cheat|跳 过 教 程 。
-mno_go_back_dot|后 退 。
-menu_start_game_3|选 择 剧 本 
+menu_start_game_0|欢 迎 来 到 维 京 征 服 。 
+mno_continue_i|继 续 … … 
+mno_continue_cheat|跳 过 教 程 。 
+mno_go_back_dot|后 退 。 
+menu_start_game_3|选 择 剧 本 ： 
 mno_go_back|后 退 
-menu_tutorial|你 进 入 了 训 练 场 ， 不 少 当 地 人 都 在 里 面 进 行 着 武 器 的 训 练 。 在 这 里 你 可 以 通 过 各 种 训 练 来 提 高 你 的 战 斗 技 巧 。 
-mno_continue|继 续 ...
-menu_reports|角 色 声 望 ： {reg5}^ 荣 誉 级 别 ： {reg6}^ 部 队 士 气 ： {reg8}^ 部 队 上 限 ： {reg7}^ 
+menu_tutorial|你 走 近 一 片 空 地 ， 当 地 人 正 在 这 里 练 习 武 器 。 你 可 以 在 此 训 练 ， 提 升 战 斗 技 巧 。 
+mno_continue|继 续 … … 
+menu_reports|角 色 声 望 ： {reg5}^荣 誉 级 别 ： {reg6}^部 队 士 气 ： {reg8}^部 队 上 限 ： {reg7}^
 mno_resume_travelling|继 续 旅 程 。 
 menu_start_phase_2x|后 退 
-mno_town_4|继 续 
-menu_custom_battle_end|战 斗 结 束 ， 在 这 场 战 斗 中 ， {s1}你 的 队 伍 杀 死 了 {reg5}人 ， 敌 人 的 队 伍 杀 死 了 {reg6} ， 你 杀 死 了 {reg7}人 。 
-menu_start_game_2|欢 迎 来 到 维 京 征 服 世 界 
-menu_start_game_1|欢 迎 来 到 维 京 征 服 世 界 
+mno_town_4|继 续 。 
+menu_custom_battle_end|战 斗 结 束 。 {s1}你 的 部 队 击 杀 {reg5}名 敌 人 ， 损 失 {reg6}名 士 兵 。 你 亲 手 斩 杀 {reg7}人 。 
+menu_start_game_2|欢 迎 来 到 维 京 征 服 。 
+menu_start_game_1|欢 迎 来 到 维 京 征 服 。 
 menu_start_game_11|退 出 ？ 
-menu_start_game_4|你 已 经 做 出 了 一 些 选 择 。你 在 冒 险 开 始 后 将 无 法 改 变 。你 仍 然 坚 持 你 的 选 择 开 始 你 的 冒 险 吗 ？ 
-menu_camp|营 地 已 经 建 好 了 ， 你 想 要 做 什 么 ？ 
-mno_camp_action|干 点 事 情 。 
-mno_camp_wait_here|在 这 里 待 一 会 儿 。 
-menu_camp_action_rest|扎 营 允 许 你 的 士 兵 从 长 途 跋 涉 中 得 到 休 息 ， 也 允 许 你 搜 寻 食 物 来 补 充 库 存 粮 草 。 这 一 点 在 你 进 入 敌 人 领 地 时 非 常 有 用 ， 因 为 你 将 难 以 购 买 补 给 。 
-menu_build_refuge_new|你 的 士 兵 等 待 你 下 令 开 始 建 立 避 难 所 。现 在 有 足 够 的 材 料 ，并 且 缺 失 的 材 料 可 以 在 附 近 村 庄 购 买 。^^总 成 本 ：1000 先 令 。^ 需 要 时 间 ：6 小 时 。
-mno_refuge_here|是 的 。 
-menu_camp_cheat|选 择 作 弊 项 目 ： 
-mno_camp_cheat_find_item|查 找 一 件 物 品 ……
-mno_testing_cheats|使 用 作 弊 代 码 。 
-mno_back_to_camp_menu|回 到 宿 营 菜 单 。 
-menu_cheat_testing_cheats1|选 择 一 个 作 弊 效 果 。 
+menu_start_game_4|你 已 做 出 选 择 ， 游 戏 开 始 后 无 法 更 改 。 是 否 保 留 并 继 续 ？ 
+mno_back|后 退 。 
+menu_camp|你 扎 下 营 地 。 想 做 些 什 么 ？ 
+mno_camp_action|采 取 行 动 。 
+mno_camp_wait_here|在 此 稍 候 片 刻 。 
+menu_camp_action_rest|扎 营 能 让 部 下 歇 息 片 刻 ， 从 旅 途 劳 顿 中 恢 复 。 还 能 就 地 觅 食 ， 补 充 粮 草 。 深 入 敌 境 、 难 以 购 粮 时 ， 此 法 尤 显 重 要 。 
+menu_build_refuge_new|部 下 已 待 命 筑 寨 。 材 料 已 备 齐 ， 若 缺 少 许 ， 可 在 附 近 村 庄 购 得 。 ^^总 花 费 ： 1000 银 便 士 。 ^所 需 时 间 ： 6 小 时 。 
+mno_refuge_here|那 就 下 令 。 
+menu_camp_cheat|选 择 一 项 作 弊 ： 
+mno_camp_cheat_find_item|寻 找 物 品 … … 
+mno_testing_cheats|快 速 使 用 作 弊 。 
+mno_back_to_camp_menu|返 回 营 地 菜 单 。 
+menu_cheat_testing_cheats1|选 择 一 项 作 弊 ： 
 menu_storyline_cheat|选 择 一 项 作 弊 ： 
-mno_back_cm|后退 。
-menu_camp_action|选 择 你 要 做 的 事 ： 
-mno_toggle_cheat_on|作 弊 目 录 开 启 。
-mno_toggle_cheat_off|作 弊 目 录 关 闭 。
-mno_camp_action_4|退 回 营 地 菜 单 。 
-menu_camp_recruit_prisoners|你 答 应 这 些 俘 虏 ， 如 果 他 们 加 入 你 的 话 ， 你 就 给 予 他 们 自 由 。 {s18}
-mno_camp_recruit_prisoners_accept|接 受 。 
-mno_camp_recruit_prisoners_half|招 降 一 半 。 
-mno_camp_recruit_prisoners_reject|拒 绝 。 
-menu_camp_no_prisoners|你 没 有 俘 虏 可 以 招 降 。 
-menu_camp_action_read_book|选 一 本 书 读 ： 
-menu_retirement_verify|现 在 总 共 冒 险 的 时 间 是 {reg0}天 ， 运 气 是 {reg1} 。 你 确 实 想 要 从 这 场 冒 险 中 退 出 吗 ？ 
-mno_yes_dot|是 的 。 
+menu_camp_action|选 择 一 项 行 动 ： 
+mno_toggle_cheat_on|开 启 作 弊 菜 单 。 
+mno_toggle_cheat_off|关 闭 作 弊 菜 单 。 
+menu_camp_recruit_prisoners|你 向 俘 虏 提 议 ： 若 愿 投 军 ， 便 赐 其 自 由 。 {s18}
+mno_camp_recruit_prisoners_accept|全 部 带 走 。 
+mno_camp_recruit_prisoners_half|带 走 一 半 。 
+mno_camp_recruit_prisoners_reject|拒 绝 他 们 。 
+menu_camp_no_prisoners|你 目 前 没 有 可 招 募 的 俘 虏 。 
+menu_camp_action_read_book|选 择 要 阅 读 的 书 ： 
+menu_retirement_verify|今 天 是 第 {reg0}天 ， 你 当 前 的 幸 运 值 为 {reg1}。 确 定 要 退 休 吗 ？ 
+mno_yes_dot|是 。 
 mno_no_dot|不 。 
-menu_end_game|去 意 已 决 ， 你 决 定 放 弃 冒 险 者 的 生 活 ， 并 定 居 下 来 。 你 卖 掉 了 所 有 的 武 器 与 护 甲 ， 收 拾 起 行 囊 ， 策 马 奔 向 夕 阳 的 余 辉 之 中 。。。。
+menu_end_game|去 意 已 决 ， 你 决 定 放 弃 冒 险 者 的 生 活 ， 就 此 安 顿 。 你 卖 掉 武 器 与 盔 甲 ， 收 拢 全 部 钱 财 ， 策 马 奔 向 落 日 余 晖 … … 
 mno_end_game_bye|再 会 。 
-menu_cattle_herd|你 遇 到 了 一 群 牛 。 
-mno_cattle_drive_away|驱 赶 他 们 。
+menu_cattle_herd|你 遇 到 一 群 牛 。 
+mno_cattle_drive_away|驱 赶 牛 群 继 续 前 进 。 
 mno_cattle_stop|让 牛 群 停 下 休 息 。 
-mno_cattle_kill|屠 宰 其 中 的 一 些 。 
-mno_leave|离 开 
-menu_cattle_herd_kill|你 想 屠 宰 几 头 ？ 
+mno_cattle_kill|宰 杀 几 头 牲 口 。 
+mno_leave|离 开 。 
+menu_cattle_herd_kill|你 想 宰 杀 几 头 ？ 
 mno_cattle_kill_1|一 。 
 mno_cattle_kill_2|二 。 
 mno_cattle_kill_3|三 。 
 mno_cattle_kill_4|四 。 
 mno_cattle_kill_5|五 。 
-mno_cattle_kill_20|二 十 。
-menu_arena_duel_fight|决 斗 是 件 非 常 严 肃 的 事 情 ， 尤 其 是 到 一 方 死 亡 为 止 。 两 个 人 进 入 决 斗 场 ， 但 是 只 有 一 个 可 以 走 出 来 … ^^身 心 要 同 时 对 压 力 和 危 机 做 出 反 应 。 你 感 觉 你 的 腋 下 在 出 冷 汗 ， 那 种 出 汗 的 感 觉 和 冷 热 完 全 无 关 ， 那 是 战 斗 的 汗 水 ， 同 时 预 示 着 … 你 已 经 准 备 好 了 。 
-menu_simple_encounter|{s2}你 将 以 {reg10}人 的 部 队 迎 战 对 手 {reg11}人 。 ^^{s7}
-mno_playerambush_attack|被 伏 击 ！ 
-mno_ambush_attack|伏 击 敌 人 ！
-mno_encounter_attack|{s7}向 敌 人 发 起 冲 锋 ！ 
+mno_cattle_kill_20|二 十 。 
+menu_arena_duel_fight|决 斗 极 其 严 肃 ， 尤 其 以 命 相 搏 。 两 人 踏 入 圈 中 ， 唯 有 一 人 能 走 出 … … ^^身 心 同 时 回 应 压 力 与 危 险 。 你 感 到 腋 下 渗 出 冷 汗 ， 那 种 汗 与 冷 热 无 关 ， 是 战 斗 之 汗 ， 它 的 出 现 表 明 … … 你 已 准 备 就 绪 。 
+menu_simple_encounter|{s2}你 率 {reg10}名 可 战 之 兵 ， 对 阵 敌 方 {reg11}人 。 ^^{s7}
+mno_playerambush_attack|伏 击 进 攻 ！ 
+mno_ambush_attack|伏 击 防 守 ！ 
+mno_encounter_attack|{s7}敌 军 ！ 
 mno_encounter_deploy|战 斗 开 始 后 坚 守 阵 地 。 
 mno_encounter_order_attack|坐 镇 指 挥 ， 让 你 的 部 队 进 攻 。 
 mno_tactical_nuevo|指 挥 官 的 选 择 。 
-mno_encounter_leave|离 开 。 
 mno_encounter_retreat|以 留 下 少 量 部 队 掩 护 为 代 价 撤 退 。 
 mno_encounter_surrender|投 降 。 
-menu_encounter_retreat_confirm|队 员 中 最 高 战 术 技 能 为 {reg2}级 ， 因 此 {reg3?你 制 定 :{s3}制 定 }了 一 个 计 划 ， 允 许 你 和 大 部 分 士 兵 可 以 无 损 地 撤 退 ， 但 是 你 必 须 牺 牲 {reg4}个 战 士 来 阻 止 敌 人 追 击 。 
-mno_leave_behind|实 行 计 划 ， 牺 牲 那 些 士 兵 ， 拯 救 剩 下 的 部 队 。
-mno_dont_leave_behind|不 ， 我 们 不 会 牺 牲 任 何 一 个 战 友 。 
-menu_encounter_retreat|你 命 令 {reg4}名 战 士 负 责 在 大 部 队 撤 退 的 时 候 拖 住 敌 人 前 进 的 步 伐 。 
-menu_order_attack_begin|你 的 部 队 已 经 做 好 了 战 斗 准 备 。 
+menu_encounter_retreat_confirm|队 员 中 最 高 战 术 技 能 为 {reg2}级 ， 因 此 {reg3?你 制 定 :{s3}制 定 }了 一 个 计 划 ， 允 许 你 和 大 部 分 士 兵 无 损 撤 退 ， 但 你 必 须 牺 牲 {reg4}名 战 士 来 阻 止 敌 人 追 击 。 
+mno_leave_behind|实 行 计 划 ， 牺 牲 那 些 士 兵 ， 拯 救 剩 下 的 部 队 。 
+mno_dont_leave_behind|不 ， 我 们 不 会 丢 下 任 何 人 。 
+menu_encounter_retreat|你 命 令 {reg4}名 战 士 拖 住 敌 人 ， 自 己 率 余 部 撤 退 。 
+menu_order_attack_begin|你 的 部 队 已 做 好 攻 击 准 备 。 
 mno_order_attack_begin|下 令 攻 击 。 
-mno_call_back|后 撤 。 
-menu_order_attack_2|{s4}^^ 我 军 人 员 伤 亡 ： {s8}^^ 敌 军 人 员 伤 亡 ： {s9}
+mno_call_back|召 回 他 们 。 
+menu_order_attack_2|{s4}^^我 军 伤 亡 ： {s8}^^敌 军 伤 亡 ： {s9}
 mno_order_attack_continue|继 续 攻 击 。 
 mno_order_retreat|让 你 的 士 兵 撤 回 来 。 
 menu_battle_debrief|{s11}^^我 军 伤 亡 ： {s8}{s10}^^敌 军 伤 亡 ： {s9}
-menu_total_victory|你 不 该 看 这 个 ……{s9}
-menu_pre_join|你 遇 到 {s2}正 在 攻 击 {s1} ， 你 决 定 ……
-mno_pre_join_help_attackers|对 {s2}施 以 援 手 。 
-mno_pre_join_help_defenders|对 {s1}施 以 援 手 。 
-mno_pre_join_leave|不 卷 入 纷 争 。 
-menu_join_battle|你 决 定 帮 助 {s2}对 抗 {s1} ， 你 将 有 {reg10}名 士 兵 参 加 战 斗 对 抗 {reg11}个 敌 人 。 
-mno_join_attack|攻 入 敌 阵 ！ 
-mno_join_order_attack|仅 仅 让 你 的 士 兵 加 入 你 的 盟 友 。 
-mno_join_leave|离 开 。 
-menu_join_order_attack|{s4}^^ 我 军 伤 亡 ： {s8}^^ 盟 军 伤 亡 ： {s9}^^ 敌 军 伤 亡 ： {s10}
-menu_zendar|你 进 入 了 禅 达 镇 。 
-mno_zendar_enter|【 进 入】 
-mno_zendar_enter_door|去 镇 广 场 。 
-mno_zendar_tavern|【 进 入】 
-mno_zendar_tavern_door|进 入 酒 馆 。 
-mno_zendar_merchant|【 进 入】 
-mno_zendar_merchant_door|进 入 商 店 。 
-mno_zendar_arena|【 进 入】 
-mno_zendar_arena_door|进 入 竞 技 场 。 
-mno_town_1_leave|【 进 入】 
-menu_salt_mine|你 进 入 了 盐 矿 。 
+menu_total_victory|你 不 该 看 到 这 个 … … {s9}
+menu_pre_join|你 撞 见 {s2}与 {s1}交 战 ， 你 决 定 … … 
+mno_pre_join_help_attackers|前 去 支 援 {s2}。 
+mno_pre_join_help_defenders|驰 援 {s1}。 
+mno_pre_join_leave|置 身 事 外 。 
+menu_join_battle|你 正 协 助 {s2}对 抗 {s1}， 麾 下 {reg10}名 战 士 可 上 阵 ， 敌 军 则 有 {reg11}人 。 
+mno_join_attack|{s7}敌 军 ！ 
+mno_join_order_attack|命 部 队 支 援 盟 友 ， 你 按 兵 不 动 。 
+menu_join_order_attack|{s4}^^我 军 伤 亡 ： {s8}^^盟 军 伤 亡 ： {s9}^^敌 军 伤 亡 ： {s10}
+menu_zendar|你 踏 入 Zendar 镇 。 
+mno_zendar_enter|【进 入 】
+mno_zendar_tavern|【进 入 】
+mno_zendar_merchant|【进 入 】
+mno_zendar_arena|【进 入 】
+menu_salt_mine|你 进 入 盐 矿 。 
 mno_enter|进 入 
-menu_four_ways_inn|你 进 入 了 四 方 客 栈 。 
-menu_test_scene|你 进 入 了 测 试 场 景 。 
-menu_quarry1|你 到 达 了 采 石 场 ， 一 些 奴 隶 在 工 作 ， 空 气 中 响 彻 着 手 推 车 和 凿 子 的 声 音 。 
-mno_enterqu|进 入 。 
-mno_leavequ|离 开 。 
-menu_salt_mine_vc|你 到 达 了 盐 矿 ， 一 些 奴 隶 在 工 作 ， 空 气 中 响 彻 着 手 推 车 和 铁 锹 的 声 音 。 
-mno_enter_sm|进 入 。 
-mno_leave_sm|离 开 。 
-menu_lumber_camp|你 到 达 了 伐 木 场 ， 一 些 奴 隶 在 工 作 ， 空 气 中 响 彻 着 斧 头 和 锯 子 的 声 音 。 
-mno_enter_lc|进 入 。 
-mno_leave_lc|离 开 。 
-menu_farmstead_special|你 到 达 了 农 场 。 农 场 是  食 物 的 来 源 ，所 以 这 里 的 东 西 很 便 宜 。 ^{s10}
-mno_take_cattlefs|带 走 一 部 分 牛 。 
-mno_enter_fs|进 入 。 
-mno_leave_fs|离 开 。 
-menu_hadrian_wall1|你 到 达 了 哈 德 良 长 城 的 遗 址 。 
-mno_enter_hw|进 入 。 
-mno_leave_hw|离 开 。 
-menu_celidon_forest|在 你 面 前 出 现 的 是 一 个 陌 生 的 地 方 ， 那 里 散 发 着 来 自 古 代 的 神 秘 能 量 。 
-mno_enter_ce|进 入 。 
-mno_leave_ce|离 开 。 
-menu_hidden_valley|你 到 达 了 一 处 陌 生 的 地 方 ， 这 里 似 乎 是 罗 马 废 墟 。 你 的 部 队 在 后 方 搭 起 了 营 帐 ， 而 你 开 始 了 探 险 … 
-mno_enter_hv|探 寻 。
-mno_leave_hv|离 开 。 
-menu_join_siege_outside|{s1}正 被 {s2}围 攻 。 
-mno_approach_besiegers|进 入 围 城 营 地 。 
-mno_pass_through_siege|穿 过 围 城 进 入 {s1} 。 
-menu_cut_siege_without_fight|围 城 方 放 你 进 入 了 城 堡 。 
-menu_besiegers_camp_with_allies|{s1}依 然 被 围 困 中 ， 你 和 你 的 部 队 在 上 空 飞 扬 着 {s2}的 旗 帜 的 围 城 营 地 那 里 被 热 烈 的 欢 迎 了 。 
-mno_talk_to_siege_commander|要 求 和 指 挥 官 会 面 。 
-mno_join_siege_with_allies|加 入 下 一 轮 的 攻 城 。 
-mno_join_siege_stay_back|坐 镇 指 挥 ， 让 你 的 部 队 协 助 下 一 轮 的 攻 城 。 
-menu_castle_outside|你 在 {s2}的 外 面 。 {s11}{s3}{s4}
-mno_approach_gates|走 近 城 门 ， 叫 守 卫 出 来 。 
-mno_town_sneak|伪 装 ， 偷 偷 溜 进 {s7}里 去 。 
-mno_castle_start_siege|围 攻 {reg6?城 镇:城 堡}
-mno_castle_leave|离 开 。 
-menu_castle_guard|你 走 近 了 城 门 。 城 墙 上 的 守 卫 正 紧 盯 着 你 。 ^^{s10}
-mno_request_shelter|要 求 进 入 城 堡 。 
-mno_request_meeting_commander|要 求 和 城 堡 中 的 某 人 会 面 。 
-mno_guard_leave|离 开 。 
-menu_castle_entry_granted|简 短 的 等 待 之 后 ， 守 卫 打 开 了 城 门 ， 允 许 你 和 你 的 部 队 进 入 城 中 。 
-menu_castle_entry_denied|城 堡 中 的 指 挥 官 拒 绝 了 你 的 请 求 ， 禁 止 你 走 近 城 池 一 步 ， 否 则 守 军 就 会 向 你 发 起 攻 击 。 
-menu_castle_meeting|你 想 要 见 谁 ？ 
+menu_four_ways_inn|你 抵 达 福 泽 斯 坦 。 
+menu_test_scene|你 进 入 测 试 场 景 。 
+menu_quarry1|你 来 到 采 石 场 ， 数 名 自 由 民 挥 镐 推 车 ， 叮 当 声 回 荡 。 
+menu_salt_mine_vc|你 来 到 盐 矿 ， 数 名 自 由 民 挥 铲 推 车 ， 声 响 不 绝 。 
+menu_lumber_camp|你 来 到 伐 木 营 ， 数 名 自 由 民 挥 斧 拉 锯 ， 声 震 林 间 。 
+menu_farmstead_special|你 来 到 农 场 。 农 场 出 产 粮 食 ， 此 地 物 价 低 廉 。 ^{s10}
+mno_take_cattlefs|牵 走 几 头 牛 。 
+menu_hadrian_wall1|你 抵 达 了 哈 德 良 长 城 的 残 垣 断 壁 。 
+menu_celidon_forest|眼 前 是 一 处 奇 异 之 地 ， 仿 佛 自 远 古 便 散 发 着 神 秘 气 息 。 
+menu_hidden_valley|你 来 到 一 处 陌 生 所 在 ， 看 似 罗 马 废 墟 。 部 下 在 你 身 后 扎 营 ， 你 则 开 始 探 查 … … 
+mno_enter_hv|探 查 。 
+menu_join_siege_outside|{s1}正 遭 {s2}围 攻 。 
+mno_approach_besiegers|靠 近 围 城 营 地 。 
+mno_pass_through_siege|穿 过 围 城 线 ， 进 入 {s1}。 
+menu_cut_siege_without_fight|围 城 者 未 加 阻 拦 ， 让 你 径 直 来 到 城 门 。 
+menu_besiegers_camp_with_allies|{s1}仍 被 围 困 。 围 城 营 地 上 空 飘 扬 着 {s2}的 旗 帜 ， 你 和 部 下 受 到 欢 迎 。 
+mno_talk_to_siege_commander|请 求 与 指 挥 官 会 面 。 
+mno_join_siege_with_allies|加 入 下 一 轮 攻 城 。 
+mno_join_siege_stay_back|坐 镇 指 挥 ， 让 士 兵 自 行 参 与 下 一 轮 攻 城 。 
+menu_castle_outside|你 在 {s2}外 。 {s11}{s3}{s4}
+mno_approach_gates|走 近 城 门 ， 向 守 卫 喊 话 。 
+mno_town_sneak|乔 装 潜 入 {s7}。 
+mno_castle_start_siege|围 攻 {reg6?城 镇 :城 堡 }。 
+menu_castle_guard|你 靠 近 城 门 ， 墙 上 士 兵 紧 盯 着 你 。 ^^{s10}
+mno_request_shelter|请 求 入 城 。 
+mno_request_meeting_commander|请 求 与 城 中 某 人 见 面 。 
+menu_castle_entry_granted|稍 候 片 刻 ， 守 卫 打 开 城 门 ， 放 你 一 行 入 内 。 
+menu_castle_entry_denied|这 座 城 堡 的 领 主 已 下 令 禁 止 你 踏 入 城 墙 一 步 ， 守 卫 队 长 警 告 ， 若 再 靠 近 ， 他 的 手 下 便 会 放 箭 。 
+menu_castle_meeting|你 想 见 谁 ？ 
 mno_forget_it|算 了 。 
-menu_castle_meeting_selected|你 的 会 面 请 求 被 传 递 上 去 了 ， 最 终 {s6}出 现 在 你 面 前 与 你 进 行 交 涉 。 
-menu_port_attack|你 正 在 攻 击 {s1}的 港 口 。 你 将 有 {reg10}名 士 兵 参 加 战 斗 对 抗 {reg11}个 敌 人 。 
-mno_lead_attack|亲 自 率 领 攻 城 。 
-mno_attack_stay_back|坐 镇 指 挥 ， 让 你 的 部 队 攻 击 … 
-mno_abandon_attack|放 弃 攻 击 。 
-mno_lift_siege|放 弃 围 城 。 
-menu_castle_besiege|你 已 经 在 围 攻 {s1} 。 {s2}^^{s15}{s16}{s17}{s18}{s19}{s20}{s21}{s22}
-mno_siege_request_meeting|要 求 和 城 堡 的 指 挥 官 会 面 。 
-mno_siege_warfare_p|围 城 战 (计 划 攻 城 ) 。 
-mno_siege_assault_p|围 城 战 (准 备 突 击 ) 。 
-mno_siege_assault_camp|你 的 攻 城 营 地 。
+menu_castle_meeting_selected|你 的 会 面 请 求 被 传 了 进 去 ， 最 终 {s6}出 现 在 庭 院 里 ， 与 你 交 谈 。 
+menu_port_attack|你 正 在 攻 打 {s1}的 港 口 。 你 麾 下 {reg10}名 战 士 可 投 入 战 斗 ， 敌 军 则 有 {reg11}人 。 
+mno_lead_attack|亲 自 率 领 海 岸 突 击 。 
+mno_attack_stay_back|坐 镇 后 方 ， 命 令 士 兵 进 攻 … … 
+mno_abandon_attack|放 弃 进 攻 。 
+menu_castle_besiege|你 正 围 攻 {s4}。 {s2}^^{s15}{s16}{s17}{s18}{s19}{s20}{s21}{s22}
+mno_siege_request_meeting|要 求 与 城 堡 指 挥 官 会 面 。 
+mno_siege_warfare_p|围 城 战 （ 筹 划 攻 城 ） 。 
+mno_siege_assault_p|围 城 战 （ 准 备 突 击 ） 。 
+mno_siege_assault_camp|你 的 攻 城 营 地 。 
 mno_wait_24_hours|等 到 明 天 。 
-menu_siege_plan|你 和 参 谋 们 计 划 以 最 小 的 代 价 攻 下 {s4} ， 你 的 策 略 是 利 用 饥 荒 和 内 乱 削 弱 敌 人 。 ^^{s15}{s17}{s18}{s19}{s20}
-mno_build_circunvalation|围 困 ：环 绕 {s4}建 立 围 城 工 事 。 
-mno_close_circunvalation|工 事 已 经 修 建 完 成 。 现 在 围 困 开 始 了 。 
-mno_town_investigar|潜 入 侦 查 这 个 地 区 的 防 御 。 追 踪 能 力 将 发 挥 作 用 。 
-mno_traicion_interna|试 图 寻 找 {s4}中 的 内 应 。 
-mno_traicion_interna3|潜 入 城 中 寻 找 内 应 的 人 有 什 么 消 息 了 吗 ？ 
-mno_infiltracion_interna|派 一 些 人 渗 透 进 去 ，破 坏 守 备 。 
-mno_infiltracion_interna3|渗 透 城 中 进 行 破 坏 的 部 队 有 什 么 消 息 了 吗 ？ 
-mno_build_varios|命 令 建 立 卫 生 设 施 以 防 止 瘟 疫 。 
-mno_destruir_campos_a|坚 壁 清 野 以 削 弱 敌 人 。 
-mno_destruir_campos_b|派 去 坚 壁 清 野 的 部 队 有 什 么 消 息 了 吗 ？ 
-menu_siege_assault|时 间 就 是 生 命 ， 你 担 心 敌 人 的 增 援 可 能 随 时 到 达 。 攻 城 为 下 ， 但 你 已 别 无 选 择 。 ^^{s17}{s18}{s19}
-mno_scout_investigar|召 见 奉 命 去 侦 查 {s4}的 斥 候 。 
-mno_poniendo_elementos_mantles|命 令 先 锋 使 用 挡 箭 牌 推 进 ， 并 准 备 发 动 总 攻 。 
-mno_poniendo_elementos|准 备 突 击 用 具 并 准 备 发 动 总 攻 。 
-mno_castle_lead_attack|这 一 刻 终 于 来 临 了 ， 率 领 你 的 士 兵 突 击 ！ 顶 着 横 飞 的 血 肉 和 刀 光 剑 影 前 进 吧 … 
+mno_lift_siege|放 弃 围 城 。 
+menu_siege_plan|你 与 幕 僚 商 议 如 何 以 最 小 伤 亡 夺 取 {s4}。 你 的 策 略 可 以 是 让 饥 饿 与 士 气 低 落 拖 垮 守 军 。 ^^{s15}{s17}{s18}{s19}{s20}
+mno_build_circunvalation|围 困 ： 在 {s4}四 周 设 立 哨 卡 。 
+mno_close_circunvalation|哨 卡 已 完 工 。 现 在 下 令 严 密 监 视 。 
+mno_town_investigar|潜 入 侦 查 防 御 ： 设 法 溜 进 城 内 。 （ 需 追 踪 技 能 ） 
+mno_traicion_interna|在 {s4}的 守 军 中 寻 找 内 应 。 
+mno_traicion_interna3|派 去 搜 捕 叛 徒 的 人 可 有 消 息 ？ 
+mno_infiltracion_interna|派 些 人 潜 入 该 地 。 
+mno_infiltracion_interna3|派 去 潜 入 的 人 可 有 消 息 ？ 
+mno_build_varios|下 令 修 建 排 污 设 施 以 防 疫 病 。 
+mno_destruir_campos_a|劫 掠 农 庄 以 补 充 军 粮 并 打 击 敌 军 。 
+mno_destruir_campos_b|派 去 劫 掠 农 庄 的 人 可 有 消 息 ？ 
+menu_siege_assault|时 间 紧 迫 ， 你 担 心 援 军 随 时 抵 达 。 强 攻 将 付 出 惨 重 代 价 ， 但 你 已 下 定 决 心 。 ^^{s17}{s18}{s19}
+mno_scout_investigar|召 见 斥 候 ， 汇 报 {s4}的 敌 情 。 
+mno_poniendo_elementos_mantles|令 先 锋 架 设 挡 箭 牌 。 
+mno_poniendo_elementos|令 先 锋 准 备 进 攻 。 
+mno_castle_lead_attack|时 辰 已 到 ， 率 领 士 兵 冲 锋 ！ 
 mno_build_mantlet|制 作 挡 箭 牌 。 
-mno_build_ladders|搭 建 器 械 并 准 备 地 点 去 突 击 。 
-mno_build_siege_tower|建 造 冲 车 登 城 作 战 。 请 做 好 伤 亡 的 心 理 准 备 。 
-menu_siege_attack_meets_sally|守 城 方 派 了 部 队 来 对 你 进 行 还 击 。 
-menu_nofood_siege_defenders_sally|食 物 短 缺 迫 使 {s4}的 守 军 孤 注 一 掷 ， 他 们 冲 出 城 门 试 图 突 围 。 
-menu_surrender_siege_defenders_starved|{s4}的 守 军 已 经 精 疲 力 竭 了 ， 粮 草 断 绝 使 他 们 虚 弱 不 堪 ， 许 多 弱 者 已 经 饿 死 了 ， 城 内 甚 至 出 现 了 人 相 食 的 惨 状 。 ^{s4}准 备 开 城 投 降 了 … 
-menu_castle_attack_walls_simulate2|{s4}^^己 方 伤 亡 ：{s8}^^敌 方 伤 亡 ：{s9}
-menu_sneak_into_town_suceeded2|乔 装 打 扮 ， 趁 着 漆 黑 的 夜 色 ， 你 潜 入 了 防 守 严 密 的 {s4} 。 现 在 该 好 好 侦 查 他 们 的 守 备 了 。 
-menu_construct_saneamiento|卫 生 设 施 可 以 很 好 地 避 免 鼠 害 和 疾 病 。 建 立 公 厕 和 污 水 渠 来 防 止 污 物 的 堆 积 和 雨 水 带 来 的 秽 物 ， 同 时 修 建 贮 水 池 以 获 得 可 靠 的 供 水 。 是 否 动 工 ？ ^将 花 费 4 小 时 。 
-mno_build_saneamiento|行 动 。 
-menu_construct_circunvalation|在 围 城 过 程 中 封 锁 一 个 区 域 以 保 护 你 的 军 队 ， 防 止 敌 人 实 施 游 击 作 战 ， 并 且 阻 止 粮 草 补 给 进 入 城 内 。 这 同 样 会 降 低 敌 人 的 士 气 ， 增 加 劝 降 的 筹 码 。 ^^根 据 队 伍 成 员 中 的 最 高 工 程 学 能 力 ， ({reg2}) ， {reg3?你 估 计 :{s3}预 计 }对 这 个 区 域 进 行 完 全 封 锁 需 要 花 费 {reg4}小 时 。 
-mno_build_circun_cont|行 动 。 
-menu_traicion_interna2|你 的 围 困 行 动 削 弱 了 敌 人 ， 你 的 一 些 部 下 想 要 联 系 {s4}的 守 军 和 居 民 ， 希 望 找 到 愿 意 投 诚 并 协 助 破 城 的 内 应 。 他 们 需 要 500 先 令 来 执 行 这 个 任 务 。 
-mno_intentar_traicion|允 许 这 些 人 去 寻 找 内 应 。 
-menu_traicion_resultado1|他 们 带 回 了 消 息 ， 没 有 人 愿 意 背 叛 。 
-mno_back_behind|无 妨 ， 其 忠 义 可 嘉 。 
-menu_traicion_resultado2|阁 下 ！ 我 们 的 人 在 {s4}的 城 墙 边 上 被 敌 人 发 现 了 ， 就 在 那 个 吊 桥 的 位 置 。 他 们 试 图 撤 回 ， 但 被 包 围 了 … 
-mno_ayudar_infiltrados|下 令 ： 派 出 一 支 增 援 部 队 营 救 。 
-mno_leave_men|让 他 们 听 天 由 命 ， 军 人 要 做 好 随 时 牺 牲 的 准 备 。 
-menu_traicion_resultado3|你 的 人 带 回 了 消 息 ， 一 个 内 应 声 称 他 将 点 燃 城 内 的 库 房 {s4}而 且 来 投 奔 你 的 军 队 。 敌 人 将 会 因 此 而 损 失 一 些 粮 草 和 牲 畜 。 
+mno_build_ladders|打 造 器 械 并 清 理 攻 城 场 地 。 
+mno_build_siege_tower|建 造 攻 城 塔 等 器 械 以 强 攻 堡 垒 ， 恐 伤 亡 惨 重 。 
+menu_siege_attack_meets_sally|守 军 出 城 迎 战 。 
+menu_nofood_siege_defenders_sally|粮 尽 援 绝 ， {s4}守 军 孤 注 一 掷 ， 突 围 求 存 。 
+menu_surrender_siege_defenders_starved|{s4}的 守 军 已 撑 不 下 去 。 缺 粮 让 他 们 虚 弱 ， 最 弱 的 人 已 饿 死 ， 甚 至 出 现 了 人 相 食 。 ^{s4}准 备 投 降 … … 
+menu_castle_attack_walls_simulate2|{s4}^^己 方 伤 亡 ： {s8}^^敌 方 伤 亡 ： {s10}
+menu_sneak_into_town_suceeded2|你 乔 装 打 扮 ， 趁 夜 潜 入 {s4}， 是 时 候 探 查 他 们 的 防 御 了 。 
+menu_construct_saneamiento|卫 生 设 施 能 防 鼠 患 与 疾 病 。 可 建 厕 所 和 管 道 ， 避 免 雨 后 泥 泞 污 秽 ， 再 挖 蓄 水 池 保 障 水 源 。 要 动 工 吗 ？ ^需 4 小 时 。 
+mno_build_saneamiento|动 手 。 
+menu_construct_circunvalation|围 城 时 封 锁 据 点 可 保 护 部 队 ， 避 开 敌 军 散 兵 ， 并 切 断 粮 食 与 援 军 。 此 举 还 能 打 击 敌 人 士 气 ， 助 你 逼 降 。 ^^作 为 队 伍 中 工 程 学 最 高 者 （ {reg2}） ， {reg3?你 估 计 :{s3}估 计 }完 成 封 锁 需 {reg4}小 时 。 
+mno_build_circun_cont|动 手 。 
+menu_traicion_interna2|行 动 。 
+mno_intentar_traicion|允 许 这 些 人 去 找 内 应 。 
+menu_traicion_resultado1|他 们 空 手 而 归 ， 无 人 愿 意 背 叛 。 
+mno_back_behind|真 倒 霉 。 
+menu_traicion_resultado2|阁 下 ！ 我 们 的 人 在 {s4}墙 下 被 发 现 ， 正 突 围 而 出 。 看 那 边 的 出 击 口 ， 他 们 想 逃 却 被 包 围 … … 
+mno_ayudar_infiltrados|下 令 ： 再 派 一 队 人 马 支 援 。 
+mno_leave_men|让 他 们 听 天 由 命 ， 他 们 早 有 觉 悟 。 
+menu_traicion_resultado3|你 的 人 回 来 了 。 一 名 内 应 已 焚 毁 粮 仓 ， 即 将 逃 离 {s4}投 奔 我 军 ， 敌 军 将 损 失 大 量 存 粮 。 
 mno_back_to_siege|干 得 漂 亮 。 
-menu_traicion_resultado4|你 的 人 带 回 了 消 息 ， 他 们 说 一 个 内 应 声 称 他 熟 悉 守 军 巡 逻 的 路 线 。 当 他 们 到 城 墙 外 的 一 条 小 溪 取 水 的 时 候 ， 他 很 愿 意 带 路 去 伏 击 巡 逻 队 … 
-mno_atacar_emboscada_player|带 领 你 的 贴 身 侍 卫 去 执 行 这 个 任 务 。 
-mno_atacar_emboscada|派 遣 一 支 部 队 和 内 应 执 行 埋 伏 任 务 。 
-menu_emboscada_player|以 植 被 做 掩 护 ， 你 的 行 动 震 惊 了 敌 人 而 且 收 益 颇 丰 。 现 在 守 军 在 派 遣 队 伍 出 城 之 前 要 三 思 而 后 行 了 。 
-mno_victory_bang|行 动 胜 利 ！ 
-menu_emboscada_nada|以 植 被 做 掩 护 ， 队 伍 避 开 了 城 墙 上 来 回 巡 视 的 目 光 ， 但 是 当 他 们 到 达 预 定 的 集 合 地 点 时 ， 没 有 人 出 现 。 这 名 内 应 可 能 被 发 现 或 退 缩 了 ， 你 的 士 兵 失 望 地 归 来 。 
-mno_emboscada_nanai|不 要 担 心 ， 机 会 有 的 是 。 
-menu_emboscada_lose|急 报 ！ 中 计 了 ！ 这 名 所 谓 的 内 应 带 领 你 的 部 队 进 入 了 敌 人 的 伏 击 圈 ， 他 们 正 绝 望 地 抵 抗 ， 不 断 有 人 倒 下 。 
-mno_regreso_lucha|你 最 担 心 的 事 情 发 生 了 。 
-menu_emboscada_victory|内 应 带 领 着 你 的 人 趁 着 夜 色 来 到 了 一 座 小 山 上 ， 这 里 控 制 着 前 往 水 井 的 道 路 。 你 的 人 在 植 被 的 掩 护 中 展 开 了 队 形 ， 他 们 隐 藏 于 寂 静 与 黑 暗 中 。 终 于 在 破 晓 时 分 ， 一 支 人 数 众 多 的 敌 军 出 现 于 视 线 之 内 。 ^^喊 杀 声 响 彻 山 坳 的 同 时 ， 你 的 士 兵 如 裹 挟 着 死 神 的 潮 水 一 般 涌 向 敌 人 … 杀 伤 无 数 。 
-menu_traicion_resultado5|当 你 的 部 队 返 回 的 时 候 ， 他 们 告 诉 你 联 系 上 了 一 位 掌 握 补 给 的 军 士 ， 他 承 诺 将 抬 高 补 给 品 的 价 格 ， 以 迫 使 更 多 的 居 民 逃 离 据 点 。 
+menu_traicion_resultado4|你 的 人 回 来 了 。 他 们 找 到 一 名 熟 悉 守 军 作 息 的 内 应 ， 此 人 愿 带 小 队 埋 伏 ， 趁 守 军 出 城 取 水 时 袭 击 … … 
+mno_atacar_emboscada_player|亲 自 率 贴 身 侍 卫 前 往 。 
+mno_atacar_emboscada|下 令 ： 派 一 队 人 马 随 内 应 埋 伏 。 
+mno_leave_men1|这 让 我 不 安 ， 就 此 作 罢 。 
+menu_emboscada_player|借 草 木 掩 护 ， 你 们 出 其 不 意 ， 战 果 颇 丰 ， 守 军 再 不 敢 轻 易 出 城 。 
+mno_victory_bang|胜 利 ！ 
+menu_emboscada_nada|你 的 人 借 植 被 掩 护 避 开 城 墙 视 线 ， 抵 达 会 合 点 却 空 无 一 人 。 那 名 内 应 或 被 发 现 ， 或 已 反 悔 ， 士 兵 失 望 而 归 。 
+mno_emboscada_nanai|别 急 ， 还 会 有 机 会 。 
+menu_emboscada_lose|急 报 ！ 有 诈 ！ 那 名 所 谓 内 应 把 你 的 人 引 入 伏 击 ， 他 们 正 绝 望 苦 战 ， 不 断 有 人 倒 下 。 
+mno_regreso_lucha|你 最 担 心 的 事 还 是 发 生 了 。 
+menu_emboscada_victory|叛 徒 带 着 你 的 人 趁 夜 摸 到 一 座 小 山 ， 那 里 扼 守 着 通 往 水 井 的 道 路 。 你 的 人 隐 入 草 木 ， 无 声 无 息 ， 脸 上 涂 满 黑 泥 。 拂 晓 时 分 ， 他 们 发 现 水 边 有 一 大 股 敌 军 。 ^^战 吼 响 彻 山 谷 ， 你 的 士 兵 如 死 亡 潮 水 般 扑 向 敌 人 … … 斩 杀 无 数 。 
+menu_traicion_resultado5|部 下 回 报 ， 他 们 联 络 到 一 名 掌 管 粮 饷 的 人 ， 那 人 答 应 抬 高 城 内 粮 价 ， 激 起 民 怨 ， 让 更 多 人 弃 堡 而 去 。 
 mno_traicion_moral|漂 亮 ！ 
-menu_traicion_lucha|你 的 部 队 和 敌 人 在 城 墙 的 脚 下 拼 死 作 战 ， 而 且 所 有 条 件 都 不 利 于 你 们 。 你 看 到 手 下 被 逼 撤 退 到 自 己 面 前 ， 丢 下 许 多 尸 首 。 ^^己 方 伤 亡 ：{s8}^^敌 方 伤 亡 ：{s9}
-mno_regreso_luchar|好 ， 绝 不 丢 下 任 何 一 个 人 。
-menu_infiltracion_resultado1|他 们 没 有 带 回 新 消 息 ， 据 点 守 备 严 密 ， 难 以 突 破 。 
-mno_back_behindi|只 是 运 气 不 好 ，我 想 。 
-menu_infiltracion_resultado2|阁 下 ！ 我 们 的 人 在 {s4}的 城 墙 脚 下 被 发 现 了 ， 而 且 已 经 全 军 覆 没 了 。 
+menu_traicion_lucha|你 的 人 与 敌 军 在 墙 根 死 战 ， 地 势 对 你 们 极 为 不 利 。 你 看 着 他 们 边 打 边 退 ， 尸 横 遍 地 。 ^^己 方 伤 亡 ： {s8}^^敌 方 伤 亡 ： {s10}
+mno_regreso_luchar|好 ， 绝 不 丢 下 任 何 一 个 人 。 
+menu_infiltracion_resultado1|他 们 空 手 而 回 ， 没 能 混 进 聚 落 。 
+mno_back_behindi|只 是 运 气 不 好 ， 我 想 。 
+menu_infiltracion_resultado2|阁 下 ！ 我 们 的 人 在 {s4}被 发 现 ， 无 人 生 还 ， 不 是 被 杀 就 是 被 俘 。 
 mno_muertos_infiltrado|晴 天 霹 雳 。 
-menu_infiltracion_resultado3|捷 报 ！ 他 们 烧 毁 了 不 少 粮 草 ， 敌 人 陷 入 了 混 乱 。 也 许 这 是 一 个 让 他 们 投 降 的 好 机 会 。 
-mno_back_to_siegei|好 吧 ，给 他 们 一 桶 酒 。
-menu_infiltracion_resultado3_c|捷 报 ！ 他 们 杀 掉 了 不 少 牲 畜 并 破 坏 了 储 水 设 施 。 敌 人 陷 入 了 混 乱 ， 而 且 他 们 的 领 主 损 失 了 部 分 声 望 。 也 许 这 是 一 个 让 他 们 投 降 的 好 机 会 。 
-mno_back_to_siegein|好 吧 ，给 他 们 一 桶 酒 。
-menu_infiltracion_resultado4|你 的 部 队 带 回 了 消 息 ， 他 们 说 一 些 士 兵 心 怀 不 满 ， 而 且 一 些 人 被 说 服 投 诚 到 我 方 军 队 。 如 果 你 同 意 的 话 ， 他 们 将 在 夜 里 离 开 城 池 加 入 你 的 军 队 。 在 他 们 离 开 之 前 ， 他 们 承 诺 将 制 造 一 些 混 乱 来 瓦 解 敌 军 斗 志 ， 使 之 更 容 易 投 降 。 
-mno_aceptar_si|欢 迎 投 诚 士 兵 的 加 入 。 
-mno_leave_men1|这 让 我 感 到 不 安 。 忘 记 它 。
-menu_infiltracion_resultado4_c|你 的 部 队 带 回 了 消 息 ， 他 们 说 已 经 在 一 些 水 井 和 附 近 的 溪 流 中 撒 下 毒 药 ， 这 应 该 能 够 让 不 少 的 守 军 生 病 。 
-mno_aceptar_oki|这 是 个 好 消 息 ， 这 样 将 大 大 削 减 守 军 的 有 生 力 量 。 
-menu_infiltracion_resultado5|噢 ， 长 官 ， 敌 人 送 来 了 个 装 着 我 们 士 兵 人 头 的 袋 子 。 许 多 士 兵 看 到 了 ， 恐 慌 在 营 帐 间 蔓 延 。 
-mno_infiltracion_morali|懦 夫 ！ 几 个 人 头 就 把 他 们 吓 成 这 样 ？ 他 们 是 牲 口 还 是 战 士 ？ 
-mno_infiltracion_morali2|我 们 要 报 仇 雪 恨 ！ 
-menu_campos_cercanos1|长 官 ， 谷 物 和 农 场 已 经 被 烧 毁 了 ， 但 因 为 这 不 是 收 获 的 季 节 ， 所 以 并 没 有 找 到 太 多 补 给 。 
-mno_back_behind_d|干 得 好 ， 不 用 担 心 。 
-menu_campos_cercanos2|长 官 ， 谷 物 和 农 场 已 经 被 烧 毁 了 ， 而 且 因 为 这 是 收 获 的 季 节 ， 所 以 我 们 找 到 了 大 量 的 食 物 。 
-mno_back_behind_c|干 得 好 ， 食 物 总 是 宝 贵 的 资 源 。 
-menu_campos_cercanos2_c|长 官 ， 谷 物 和 农 场 已 经 被 烧 毁 了 ， 地 里 的 庄 稼 还 是 青 茬 ， 但 可 以 食 用 ， 我 们 找 到 了 很 多 食 物 。 
-mno_back_behind_cc|干 的 好 ， 食 物 永 远 是 受 欢 迎 的 。 
-menu_campos_cercanos3|长 官 ， 我 们 烧 毁 了 农 田 ， 但 是 收 获 季 节 已 经 过 去 了 ， 所 以 没 找 到 多 少 食 物 。 不 过 ， 农 民 们 在 逃 走 前 落 下 了 一 些 牲 畜 。 
-mno_back_behind_bc|食 物 总 是 宝 贵 的 资 源 。 
-menu_campos_cercanos4|我 们 遇 到 了 抵 抗 ， 农 田 已 被 烧 毁 ， 但 是 农 民 在 守 军 的 支 援 下 杀 了 回 来 。 ^^己 方 伤 亡 ：{s8}^^敌 方 伤 亡 ：{s9}
-mno_back_behind_ac|师 出 不 利 ！ 
-menu_poner_escaleras|你 的 先 锋 带 着 云 梯 ， 挡 箭 牌 ， 铲 子 等 攻 城 器 械 前 进 着 … 一 队 装 备 着 远 程 武 器 的 士 兵 走 到 了 前 方 ， 吸 引 敌 人 的 火 力 ，你 的 心 脏 在 体 内 狂 跳 不 止 ， 似 乎 每 次 战 斗 都 像 初 次 上 阵 一 样 。 ^刺 激 ， 恐 惧 和 汗 水 交 织 ， 一 如 既 往 。 你 见 证 了 你 的 士 兵 是 如 何 组 成 了 盾 阵 攻 上 了 城 墙 … ^^己 方 伤 亡 ：{s8}^^敌 方 伤 亡 ：{s9}
-mno_back_behind_esc1|你 的 队 伍 遇 到 敌 人 ， 现 在 … 
-menu_poner_escaleras_mantlets|你 的 先 锋 带 着 云 梯 ， 挡 箭 牌 ， 铲 子 等 攻 城 器 械 前 进 着 … 一 队 装 备 着 远 程 武 器 的 士 兵 走 到 了 前 方 ， 在 挡 箭 牌 的 掩 护 下 ， 吸 引 敌 人 的 火 力 … 你 的 心 脏 在 体 内 狂 跳 不 止 ， 似 乎 每 次 战 斗 都 像 初 次 上 阵 一 样 。 ^刺 激 ， 恐 惧 和 汗 水 交 织 ， 一 如 既 往 。 你 见 证 了 你 的 士 兵 是 如 何 组 成 了 盾 阵 攻 上 了 城 墙 … 挡 箭 牌 掩 护 了 很 多 士 兵 ， 保 住 了 他 们 的 性 命 。 ^^己 方 伤 亡 ：{s8}^^敌 方 伤 亡 ：{s9}
-mno_back_behind_esc2|你 的 队 伍 遇 到 敌 人 ， 现 在 … 
-menu_informacion_ciudad|斥 候 在 你 的 面 前 停 了 下 来 ：'{s11}^{s12}{s1}{s5}{s17}
-mno_regreso_luchain|谢 谢 你 。 你 给 的 信 息 很 重 要 ！ 
-menu_build_mantles2|在 你 的 先 锋 使 用 攻 城 器 械 的 时 候 ， 挡 箭 牌 将 保 护 他 们 免 受 城 头 火 力 的 伤 害 。 根 据 队 伍 成 员 中 的 最 高 工 程 学 能 力 ， ({reg2}) ， {reg3?你 预 计 :{s3}预 计 }要 花 费 {reg4}小 时 来 建 造 挡 箭 牌 。 
-mno_build_mantles|开 始 建 造 。 
-menu_construct_ladders|根 据 队 伍 成 员 中 的 最 高 工 程 学 能 力 ({reg2}) ， {reg3?你 预 计 :{s3}预 计 }将 要 花 费 {reg4}小 时 来 准 备 足 够 的 装 备 用 于 突 击 。 
-mno_build_ladders_cont|继 续 ……
-menu_construct_siege_tower|根 据 队 伍 成 员 中 的 最 高 工 程 学 能 力 ， ({reg2}) ， {reg3?你 预 计 :{s3}预 计 }用 来 建 立 攻 城 塔 而 其 他 用 来 突 击 的 装 备 则 需 要 {reg4}小 时 。 
+menu_infiltracion_resultado3|捷 报 ！ 他 们 烧 毁 多 处 粮 仓 ， 敌 军 士 气 大 跌 。 或 许 该 逼 他 们 投 降 了 。 
+mno_back_to_siegei|好 吧 ， 给 他 们 一 桶 蜜 酒 。 
+menu_infiltracion_resultado3_c|捷 报 ！ 他 们 宰 了 不 少 牛 ， 又 污 染 水 源 ， 敌 军 士 气 低 落 ， 其 领 主 声 望 受 损 。 或 许 该 逼 他 们 投 降 了 。 
+mno_back_to_siegein|好 吧 ， 给 他 们 一 桶 蜜 酒 。 
+menu_infiltracion_resultado4|好 吧 ， 给 他 们 一 桶 酒 。 
+mno_aceptar_si|欢 迎 他 们 加 入 。 
+menu_infiltracion_resultado4_c|你 的 部 队 回 报 ， 他 们 已 在 几 口 井 和 附 近 溪 流 投 毒 ， 守 军 必 有 大 片 病 倒 。 
+mno_aceptar_oki|好 消 息 ， 守 墙 的 人 会 更 少 。 
+menu_infiltracion_resultado5|阁 下 ， 敌 人 送 来 一 袋 人 头 ， 不 少 士 兵 看 见 ， 营 中 人 心 惶 惶 。 
+mno_infiltracion_morali|懦 夫 ！ 区 区 几 颗 人 头 就 能 吓 垮 大 军 ？ 他 们 是 牛 还 是 人 ？ 
+mno_infiltracion_morali2|为 我 们 受 的 侮 辱 报 仇 ！ 
+menu_campos_cercanos1|{reg59?女 士 :先 生 }， 庄 稼 和 农 场 都 被 烧 了 ， 可 眼 下 并 非 收 获 季 ， 没 能 弄 到 粮 食 。 
+mno_back_behind_d|干 得 好 ， 不 必 担 心 。 
+menu_campos_cercanos2|{reg59?女 士 :先 生 }， 庄 稼 和 农 场 都 被 烧 了 ， 又 恰 逢 收 获 季 ， 我 们 缴 获 了 大 量 粮 食 。 
+mno_back_behind_c|干 得 好 ， 粮 食 永 远 不 嫌 多 。 
+menu_campos_cercanos2_c|{reg59?女 士 :先 生 }， 庄 稼 和 农 场 都 被 烧 了 ， 谷 粒 尚 青 ， 却 还 能 吃 ， 我 们 弄 到 了 不 少 粮 食 。 
+mno_back_behind_cc|干 得 好 ， 粮 食 永 远 不 嫌 多 。 
+menu_campos_cercanos3|{reg59?女 士 :先 生 }， 我 们 焚 毁 了 田 野 ， 但 收 获 已 过 ， 田 里 颗 粒 无 存 。 不 过 ， 农 民 逃 跑 时 留 下 了 一 些 牛 。 
+mno_back_behind_bc|粮 食 永 远 不 嫌 多 。 
+menu_campos_cercanos4|我 们 遇 到 麻 烦 。 田 野 虽 被 焚 毁 ， 农 民 却 在 守 军 支 援 下 反 击 。 ^^己 方 伤 亡 ： {s8}^^敌 方 伤 亡 ： {s10}
+mno_back_behind_ac|噩 耗 ！ 
+menu_poner_escaleras|你 的 先 锋 带 着 云 梯 、 挡 箭 牌 、 铁 锹 等 攻 城 器 械 前 进 … … 一 队 弓 弩 手 列 阵 而 出 ， 吸 引 敌 军 火 力 ， 你 的 心 脏 在 胸 腔 里 狂 跳 。 不 知 为 何 ， 每 一 场 仗 都 像 第 一 次 。 ^刺 激 、 恐 惧 与 汗 水 ， 一 如 既 往 。 士 兵 们 结 成 盾 阵 自 保 … … ^^己 方 伤 亡 ： {s8}^^敌 方 伤 亡 ： {s10}
+mno_back_behind_esc1|你 的 部 队 已 与 敌 军 接 战 ， 轮 到 你 出 手 了 … … 
+menu_poner_escaleras_mantlets|你 的 先 锋 带 着 云 梯 、 挡 箭 牌 、 铁 锹 等 攻 城 器 械 前 进 … … 一 队 弓 弩 手 在 挡 箭 牌 掩 护 下 列 阵 ， 吸 引 敌 军 火 力 ， 你 的 心 脏 在 胸 腔 里 狂 跳 。 不 知 为 何 ， 每 一 场 仗 都 像 第 一 次 。 ^刺 激 、 恐 惧 与 汗 水 ， 一 如 既 往 。 士 兵 们 结 成 盾 阵 ， 挡 箭 牌 又 救 下 不 少 性 命 。 ^^己 方 伤 亡 ： {s8}^^敌 方 伤 亡 ： {s10}
+mno_back_behind_esc2|你 的 部 队 已 与 敌 军 接 战 ， 轮 到 你 出 手 了 … … 
+menu_informacion_ciudad|一 名 斥 候 来 到 你 面 前 ： “ {s11}^{s12}{s1}{s5}{s17}” 
+mno_regreso_luchain|多 谢 ， 你 的 情 报 至 关 重 要 ！ 
+menu_build_mantles2|使 用 攻 城 器 械 时 ， 挡 箭 牌 能 护 住 士 兵 ， 救 下 许 多 性 命 。 作 为 队 伍 中 工 程 学 最 高 者 （ {reg2}） ， {reg3?你 估 计 :{s3}估 计 }造 好 挡 箭 牌 需 {reg4}小 时 。 
+mno_build_mantles|动 手 。 
+menu_construct_ladders|作 为 队 伍 中 工 程 学 技 能 最 高 者 （ {reg2}） ， {reg3?你 估 计 :{s3}估 计 }需 要 {reg4}小 时 才 能 造 齐 进 攻 所 需 的 装 备 。 
+mno_build_ladders_cont|动 手 。 
+menu_construct_siege_tower|作 为 队 伍 中 工 程 学 技 能 最 高 者 （ {reg2}） ， {reg3?你 估 计 :{s3}估 计 }建 造 攻 城 塔 及 其 他 进 攻 器 械 将 耗 时 {reg4}小 时 。 
 mno_build_siege_tower_cont|开 始 建 造 。 
-menu_castle_attack_walls_simulate|{s4}^^己 方 伤 亡 ：{s8}^^敌 方 伤 亡 ：{s9}
-menu_castle_attack_walls_with_allies_simulate|{s4}^^ 我 军 伤 亡 ： {s8}^^ 盟 军 伤 亡 ： {s9}^^ 敌 军 伤 亡 ： {s10}
-menu_castle_taken|{s60}的 战 斗 已 经 接 近 尾 声 ， 你 的 手 下 们 已 经 对 即 将 到 来 的 劫 掠 {reg2?城 镇 :城 堡 } 跃 跃 欲 试 了 。 {s10}^如 果 你 想 要 将 其 纳 入 自 己 的 阵 营 ， 你 可 以 选 择 禁 止 士 兵 毁 坏 {reg2?城 镇 :城 堡 } 。 你 也 可 以 充 实 下 你 的 钱 包 ， 劫 掠 一 番 弃 之 而 去 。 最 后 ， 你 也 可 以 完 全 毁 灭 这 个 地 方 ， 这 样 可 以 获 得 尽 可 能 多 的 东 西 ， 奴 役 当 地 的 居 民 ， 并 摧 毁 其 之 于 敌 人 的 价 值 。
-mno_saqueo_noallowed|攻 下 这 座 {reg2?城 镇:城 堡 } 后 禁 止 手 下 掠 夺 。 
-mno_keep_plunder|征 服 与 掠 夺 {reg2?城 镇:城 堡 } 。
-mno_saqueo_normal|洗 劫 这 座 {reg2?城 镇:城 堡 } ， 然 后 离 开 。
-mno_saqueo_total|毁 灭 这 个 地 方 ， 屠 杀 居 民 。 
-menu_castle_taken_plunder|{reg2?城 镇:城 堡 }被 洗 劫 了 ， 你 收 集 到 了 {reg7} 先 令 。 
-menu_castle_taken_native|你 的 部 队 攻 陷 了 {s3} ， 现 在 你 已 经 完 全 地 掌 控 了 这 个 {reg2?城 镇:城 堡 } 。 {reg1?你 可 以 在 这 里 驻 军 以 防 那 些 打 算 重 新 夺 回 它 的 敌 军 。 同 时 ， 你 可 以 选 择 保 留 这 座 {reg2?城 镇:城 堡 }给 自 己 或 者 分 封 给 某 个 忠 诚 的 部 下 … : }
-menu_castle_taken_keepplunder|{s3} 面 对 你 的 军 队 后 溃 不 成 军 ， 而 你 现 在 拥 有 了 {reg2?城 镇:城 堡 }的 全 面 控 制 。 你 的 士 兵 们 在 街 道 上 掠 夺 着 尽 可 能 多 的 东 西 。 {reg2?城 镇 :城 堡 } 已 经 被 掠 夺 。 你 获 得 了 {reg7} 先 令 。 {reg1?你 可 以 驻 扎 士 兵 在 此 地 以 防 止 敌 人 重 新 占 领 它 。 而 且 ， 现 在 你 可 以 选 择 为 自 己 保 留 {reg2?城 镇:城 堡 } 或 者 把 它 给 予 一 位 忠 心 的 下 属 …… :}
-menu_castle_taken_2|你 的 部 队 攻 陷 了 {s3} ， 现 在 你 已 经 完 全 地 掌 控 了 这 个 城 堡 。 现 在 应 该 把 这 个 胜 利 的 消 息 告 诉 给 {s9}了 。 {s5}
-mno_castle_taken_claim|要 求 他 把 {s3}封 给 你 。 
-mno_castle_taken_claim_2|要 求 他 把 {s3}封 配 为 你 的 {reg59?丈 夫:妻 子 } 。 
-mno_castle_taken_no_claim|什 么 也 不 要 求 。 
-menu_saqueo_loot_continue|这 个 地 方 已 经 被 掠 夺 过 了 。 
-menu_requested_castle_granted_to_another|你 从 国 王 {s3}那 里 得 到 通 知 。 ^^我 听 说 你 很 英 勇 地 战 斗 并 把 {s2}给 攻 下 来 了 。 你 的 胜 利 极 大 的 鼓 舞 了 我 们 。 你 说 过 你 想 要 我 把 这 个 地 方 封 给 你 ， 但 恐 怕 我 并 不 能 同 意 你 的 要 求 ， 因 为 在 我 统 治 的 范 围 内 ， 你 已 经 有 了 封 地 。 所 以 我 送 你 {reg6} 先 令 作 为 你 的 军 费 开 支 ， 而 {s2} ， 我 把 它 封 给 {s5}了 。 
-mno_accept_decision|接 受 你 的 君 主 的 决 定 。 
-mno_leave_faction|你 遭 到 了 不 公 的 待 遇 了 ！ 背 弃 你 对 君 主 的 誓 言 ！ 
-menu_requested_castle_granted_to_another_female|你 从 国 王 {s3}那 里 得 到 通 知 。 ^^我 听 说 你 很 英 勇 地 战 斗 并 把 {s2}给 攻 下 来 了 。 你 的 胜 利 极 大 的 鼓 舞 了 我 们 。 你 说 过 你 想 要 我 把 这 个 地 方 封 给 你 ， 但 恐 怕 我 并 不 能 同 意 你 的 要 求 ， 因 为 在 我 统 治 的 范 围 内 ， 你 已 经 有 了 封 地 。 所 以 我 送 你 {reg6} 先 令 作 为 你 的 军 费 开 支 ， 而 {s2} ， 我 把 它 封 给 {s5}了 。 ？ 
+menu_castle_attack_walls_simulate|{s4}^^己 方 伤 亡 ： {s8}^^敌 方 伤 亡 ： {s10}
+menu_castle_attack_walls_with_allies_simulate|{s4}^^我 军 伤 亡 ： {s8}^^盟 军 伤 亡 ： {s9}^^敌 军 伤 亡 ： {s10}
+menu_castle_taken|{s60}的 战 斗 已 近 尾 声 ， 你 的 士 兵 迫 不 及 待 要 洗 劫 这 座 {reg2?城 镇 :堡 垒 }。 {s10}你 也 可 以 只 往 钱 袋 里 装 一 点 就 离 开 ， 把 被 劫 之 地 留 给 敌 人 。 最 后 ， 你 还 可 以 彻 底 摧 毁 此 地 ， 尽 可 能 掠 夺 一 切 、 奴 役 居 民 ， 让 它 对 原 主 人 毫 无 价 值 。 
+mno_saqueo_noallowed|攻 下 这 座 {reg2?城 镇 :堡 垒 }， 但 禁 止 劫 掠 。 
+mno_keep_plunder|征 服 并 洗 劫 这 座 {reg2?城 镇 :堡 垒 }。 
+mno_saqueo_normal|洗 劫 这 座 {reg2?城 镇 :堡 垒 }后 离 开 。 
+mno_saqueo_total|彻 底 毁 灭 此 地 后 离 开 。 
+menu_castle_taken_plunder|这 座 {reg2?城 镇 :堡 垒 }已 被 洗 劫 ， 你 搜 得 {reg7}银 便 士 。 
+menu_castle_taken_native|{s3}已 落 入 你 手 ， 你 完 全 掌 控 了 这 座 {reg2?城 镇 :堡 垒 }。 {reg1?你 可 以 在 此 驻 军 ， 以 防 敌 军 反 扑 。 现 在 请 选 择 ： 亲 自 镇 守 这 座 {reg2?城 镇 :城 堡 }， 还 是 把 它 赐 给 一 位 忠 心 的 封 臣 … … :}
+menu_castle_taken_keepplunder|{s3}已 落 入 你 手 ， 你 完 全 掌 控 了 这 座 {reg2?城 镇 :堡 垒 }。 士 兵 们 沿 街 搜 刮 ， 能 拿 多 少 就 拿 多 少 。 {reg2?城 镇 :堡 垒 }被 洗 劫 一 空 ， 你 获 得 {reg7}银 便 士 。 {reg1?你 可 以 在 此 驻 军 ， 以 防 敌 军 反 扑 。 现 在 请 选 择 ： 亲 自 镇 守 这 座 {reg2?城 镇 :城 堡 }， 还 是 把 它 赐 给 一 位 忠 心 的 封 臣 … … :}
+menu_castle_taken_2|{s3}已 落 入 你 手 ， 你 完 全 掌 控 了 这 座 堡 垒 。 是 时 候 向 {s9}报 捷 了 。 {s5}
+mno_castle_taken_claim|请 求 将 {s3}封 赏 给 你 。 
+mno_castle_taken_claim_2|请 求 将 {s3}封 赏 给 你 的 {reg59?丈 夫 :妻 子 }。 
+mno_castle_taken_no_claim|不 索 取 任 何 奖 赏 。 
+menu_saqueo_loot_continue|此 地 尚 未 从 你 上 次 劫 掠 中 恢 复 。 
+menu_requested_castle_granted_to_another|你 的 君 主 {s3}来 信 ： ^^“ 闻 你 英 勇 夺 取 {s2}， 朕 心 大 悦 ， 举 国 同 庆 。 你 曾 请 求 将 城 堡 赐 你 ， 然 你 已 在 王 国 拥 有 大 片 领 地 ， 朕 实 难 再 允 。 特 赐 {reg6}银 便 士 以 补 军 费 ， 而 {s2}则 封 予 {s5}。 ” 
+mno_accept_decision|接 受 决 定 。 
+mno_leave_faction|你 遭 到 了 不 公 ！ 背 弃 你 对 君 主 的 誓 言 ！ 
+menu_requested_castle_granted_to_another_female|你 从 君 主 {s3}处 收 到 消 息 。 ^^“ 得 悉 你 英 勇 夺 取 {s2}， 我 甚 感 欣 慰 。 你 的 胜 利 振 奋 了 众 人 。 你 曾 请 求 我 将 该 城 堡 赐 予 你 丈 夫 ， 但 此 恩 我 恐 怕 无 法 赐 予 ， 因 他 在 我 疆 域 内 已 拥 有 大 片 领 地 。 我 改 赐 你 {reg6}银 便 士 以 补 偿 征 战 开 销 ， 而 {s2}则 授 予 {s5}。 ” 
 mno_accept_decision2|接 受 决 定 。 
-menu_leave_faction|放 弃 誓 言 是 一 件 很 严 重 的 事 情 。 你 的 君 主 将 宣 判 你 有 罪 ， 并 没 收 你 的 土 地 与 城 堡 。 如 果 你 自 愿 交 出 你 的 土 地 与 城 堡 ， 他 也 许 会 饶 恕 你 ， 放 你 走 。 
-mno_leave_faction_give_back|我 交 出 我 的 土 地 与 城 堡 给 我 的 君 主 ， 但 是 我 放 弃 我 的 誓 言 。 
-mno_leave_faction_hold|我 放 弃 我 的 誓 言 。 并 以 自 己 的 名 义 占 有 我 的 城 堡 ， 包 括 {s2} 。 
-mno_leave_faction_cancel|我 改 变 主 意 了 。 我 还 是 对 我 的 君 主 效 忠 。 
-menu_give_center_to_player_2|短 暂 的 仪 式 之 后 ， 你 已 受 封 新 封 地 。 你 现 在 是 {s2}{reg3?和 从 属 的 {s4}村:}的 领 主 。 {reg3?它 们:它 }会 成 为 你 新 的 封 地 。 你 可 以 在 这 里 横 征 暴 敛 ， 大 拉 壮 丁 ， 但 你 也 得 保 证 这 里 的 安 全 和 秩 序 。 
-menu_oath_fulfilled|你 发 誓 为 {s1}服 务 一 段 时 间 。 你 的 誓 言 已 经 完 结 了 ， 你 准 备 怎 么 办 ？ 
-mno_renew_oath|继 续 向 {s1}发 誓 ， 再 服 务 一 个 月 。 
-mno_dont_renew_oath|恢 复 自 由 身 。 
-menu_siege_started_defender|{s1}正 在 攻 击 {s2}的 城 墙 。 你 有 {reg10}人 可 以 参 战 对 抗 敌 人 的 {reg11}人 。 你 决 定 ……
-mno_siege_defender_join_battle|参 加 战 斗 。 
-mno_siege_defender_troops_join_battle|坐 镇 指 挥 ， 让 你 的 部 队 攻 击 。 
-menu_siege_join_defense|{s4}^^ 我 军 伤 亡 ： {s8}^^ 盟 军 伤 亡 ： {s9}^^ 敌 军 伤 亡 ： {s10}
+menu_leave_faction|接 受 决 定 。 
+mno_leave_faction_give_back|背 弃 誓 言 乃 重 罪 。 君 主 可 判 你 有 罪 ， 没 收 你 的 土 地 与 产 业 。 若 你 自 愿 奉 还 ， 他 或 许 宽 恕 你 的 背 叛 。 
+mno_leave_faction_hold|背 弃 誓 言 ， 交 出 领 地 。 
+mno_leave_faction_cancel|背 弃 誓 言 ， 以 自 己 的 名 义 统 治 你 的 土 地 ， 包 括 {s2}。 
+menu_give_center_to_player_2|简 短 仪 式 后 ， 你 正 式 受 封 为 {s2}{reg3?及 其 附 属 村 庄 {s4}:}的 新 领 主 。 {reg3?它 们 :它 }将 成 为 你 封 地 的 一 部 分 。 你 可 征 收 租 税 、 募 兵 ， 并 依 己 意 治 理 此 地 。 然 而 ， 你 也 必 须 保 卫 封 地 与 子 民 ， 维 持 法 纪 。 
+menu_oath_fulfilled|你 与 {s1}的 契 约 已 到 期 。 你 曾 立 誓 为 他 效 力 一 段 时 日 。 如 今 契 约 期 满 ， 你 打 算 如 何 ？ 
+mno_renew_oath|与 {s1}续 约 ， 再 效 力 一 月 。 
+mno_dont_renew_oath|解 除 束 缚 ， 重 获 自 由 。 
+menu_siege_started_defender|{s1}正 攻 打 {s2}的 城 墙 。 你 有 {reg10}名 可 战 之 兵 ， 敌 军 则 有 {reg11}人 。 你 决 定 … … 
+mno_siege_defender_join_battle|加 入 战 斗 。 
+mno_siege_defender_troops_join_battle|命 部 下 参 战 ， 你 不 出 阵 。 
+menu_siege_join_defense|{s4}^^我 军 伤 亡 ： {s8}^^盟 军 伤 亡 ： {s9}^^敌 军 伤 亡 ： {s10}
 menu_village|{s10}{s12}^{s11}^{s6}{s7}^^{s15}
-mno_village_manage|管 理 这 个 村 庄 。 
-mno_recruit_volunteers|征 募 志 愿 兵 。 
-mno_village_center|前 往 村 中 心 。 
+mno_village_manage|管 理 此 村 庄 。 
+mno_recruit_volunteers|招 募 志 愿 兵 。 
+mno_village_center|前 往 村 庄 中 心 。 
 mno_village_center_door|村 庄 中 心 的 大 门 。 
 mno_meet_leader|与 村 庄 长 老 见 面 。 
-mno_meet_leader_door|通 往 村 庄 中 心 的 门 。 
-mno_village_buy_food|向 村 民 购 买 给 养 。 
+mno_meet_leader_door|村 庄 中 心 的 大 门 。 
+mno_village_buy_food|向 农 民 购 买 补 给 。 
 mno_comprar_cattle|我 想 买 些 牛 。 
-mno_village_attack_bandits|进 攻 强 盗 。 
-mno_village_wait|在 这 里 待 一 会 儿 。 
-mno_collect_taxes_qst|{reg5?继 续 收 税:所 得 税 款 } 。
-mno_train_peasants_against_bandits_qst|训 练 这 些 农 民 。 
-mno_village_hostile_action|做 一 些 带 有 敌 意 的 事 情 。 
-mno_village_leave|离 开 ……
-menu_village_hostile_action|你 现 在 打 算 做 些 什 么 ？ （ 你 需 要 20 多 人 的 部 队 ）
-mno_village_force_convert|强 迫 村 民 皈 依 。 
-mno_village_take_food|强 征 给 养 。 
-mno_village_steal_cattle|偷 一 些 牛 。 
+mno_village_attack_bandits|进 攻 山 贼 。 
+mno_village_wait|在 此 稍 候 片 刻 。 
+mno_collect_taxes_qst|{reg5?继 续 收 税 :收 税 }。 
+mno_train_peasants_against_bandits_qst|训 练 农 民 。 
+mno_village_hostile_action|采 取 敌 对 行 动 。 
+mno_village_leave|离 开 … … 
+menu_village_hostile_action|你 打 算 做 什 么 ？ （ 需 要 20 名 以 上 士 兵 ） 
+mno_village_force_convert|试 图 强 行 让 农 民 皈 依 。 
+mno_village_take_food|强 迫 农 民 交 出 补 给 。 
+mno_village_steal_cattle|偷 牛 。 
 mno_enslave_villagers|奴 役 村 民 。 
-mno_village_loot|劫 掠 这 个 村 子 ， 然 后 把 它 夷 为 平 地 ！ 
-mno_continue_not_enough_gold|我 没 有 足 够 的 钱 。 
-mno_recruit_them|招 募 他 们 。 ({reg6} 先 令 ) 。 
-menu_village_hunt_down_fugitive_defeated|逃 犯 的 重 重 一 击 让 你 天 旋 地 转 ， 并 昏 倒 在 地 上 。 时 间 飞 逝 ， 当 你 再 次 睁 开 眼 睛 时 ， 发 现 自 己 伤 痕 累 累 ， 但 幸 好 没 有 一 处 是 致 命 伤 。 
-menu_village_confront_contact_defeated|来 自 村 民 的 一 个 重 拳 把 你 打 趴 到 了 地 上 ， 而 且 你 的 视 觉 旋 转 着 并 变 模 糊 了 。 时 间 飞 去 。 当 你 再 次 张 开 眼 睛 ， 你 认 识 到 你 被 殴 打 了 而 且 流 着 血 ， 不 过 幸 运 的 是 没 有 一 处 伤 口 是 致 命 的 。 
-menu_village_hunt_lover_defeated|来 自 幽 灵 的 一 个 重 拳 把 你 打 趴 到 了 地 上 ， 而 且 你 的 视 觉 旋 转 着 并 变 模 糊 了 。 时 间 飞 去 。 当 你 再 次 张 开 眼 睛 ， 你 认 识 到 你 被 殴 打 了 而 且 流 着 血 ， 不 过 幸 运 的 是 没 有 一 处 伤 口 是 致 命 的 。 
-menu_village_hunt_music_defeated|来 自 守 卫 的 一 个 重 拳 把 你 打 趴 到 了 地 上 ， 而 且 你 的 视 觉 旋 转 着 并 变 模 糊 了 。 时 间 飞 去 。 当 你 再 次 张 开 眼 睛 ， 你 认 识 到 你 被 殴 打 了 而 且 流 着 血 ， 不 过 幸 运 的 是 没 有 一 处 伤 口 是 致 命 的 。 
-menu_village_infestation_removed|经 过 足 以 令 人 传 诵 的 英 勇 的 战 斗 ， 你 和 你 的 同 伴 打 败 了 强 盗 。 这 个 村 子 再 次 安 全 了 。 经 过 他 们 的 抢 劫 以 后 ， 村 民 几 乎 没 有 什 么 东 西 剩 下 了 ， 但 他 们 还 是 拿 出 了 任 何 他 们 有 的 东 西 。 
-mno_village_bandits_defeated_accept|我 接 受 你 们 的 赠 品 。 
-mno_village_bandits_defeated_cont|你 们 比 我 更 需 要 这 些 东 西 。 你 们 的 感 谢 已 经 足 够 了 。 
-menu_center_manage|{s19}^{reg6?^^ 你 现 在 正 在 建 造 {s7} 。 这 个 建 筑 将 于 {reg8}{reg9?日:日 }后 完 成 。:}
-mno_center_build_manor|建 造 一 个 庄 园 。 
-mno_center_build_fish_pond|建 造 一 个 磨 坊 。 
-mno_center_build_watch_tower|建 造 一 个 了 望 塔 。 
-mno_center_build_school|建 造 一 个 学 校 。 
-mno_center_build_messenger_post|建 造 一 个 驿 站 。 
-mno_center_build_prisoner_tower|建 造 一 个 哨 塔 。 
-mno_center_build_religion1|修 建 一 座 基 督 教 修 道 院（ 转 换 信 仰） 
-mno_center_build_religion2|修 筑 一 座 奥 丁 神 庙（ 转 换 信 仰） 
-mno_center_build_religion3|修 建 一 座 基 督 教 堂（ 转 换 信 仰） 
-mno_center_build_religion4|修 建 一 个 诺 尔 斯 神 龛（ 转 换 信 仰） 
-mno_center_build_herreria|修 建 一 间 铁 匠 铺 
-mno_center_build_guilds|修 建 一 个 商 业 行 会 
-mno_center_build_library|修 建 一 座 缮 写 室 
-mno_center_build_slavemarket|建 立 一 个 奴 隶 市 场 。 
+mno_village_loot|劫 掠 并 焚 毁 这 座 村 庄 。 
+mno_continue_not_enough_gold|我 的 钱 不 够 。 
+mno_recruit_them|招 募 他 们 （ {reg6}银 便 士 ） 。 
+menu_village_hunt_down_fugitive_defeated|逃 犯 一 记 重 击 把 你 打 倒 在 地 ， 眼 前 天 旋 地 转 ， 随 即 陷 入 黑 暗 。 不 知 过 了 多 久 ， 你 睁 开 眼 ， 浑 身 青 紫 、 血 迹 斑 斑 ， 所 幸 没 有 致 命 伤 。 
+menu_village_confront_contact_defeated|村 民 一 记 重 击 把 你 打 倒 在 地 ， 眼 前 天 旋 地 转 ， 随 即 陷 入 黑 暗 。 不 知 过 了 多 久 ， 你 睁 开 眼 ， 浑 身 青 紫 、 血 迹 斑 斑 ， 所 幸 没 有 致 命 伤 。 
+menu_village_hunt_lover_defeated|幽 灵 一 记 重 击 把 你 打 倒 在 地 ， 眼 前 天 旋 地 转 ， 随 即 陷 入 黑 暗 。 不 知 过 了 多 久 ， 你 睁 开 眼 ， 浑 身 青 紫 、 血 迹 斑 斑 ， 所 幸 没 有 致 命 伤 。 
+menu_village_hunt_music_defeated|叛 变 守 卫 一 记 重 击 把 你 打 倒 在 地 ， 眼 前 天 旋 地 转 ， 随 即 陷 入 黑 暗 。 不 知 过 了 多 久 ， 你 睁 开 眼 ， 浑 身 青 紫 、 血 迹 斑 斑 ， 所 幸 没 有 致 命 伤 。 
+menu_village_infestation_removed|一 场 足 以 入 歌 的 激 战 过 后 ， 你 率 众 将 山 贼 逐 出 村 庄 ， 此 地 再 度 安 宁 。 村 民 虽 遭 洗 劫 ， 所 剩 无 几 ， 仍 倾 其 所 有 相 赠 。 
+mno_village_bandits_defeated_accept|我 收 下 ， 这 是 我 应 得 的 。 
+mno_village_bandits_defeated_cont|婉 拒 ， 告 诉 他 们 你 们 比 我 更 需 要 这 些 。 
+menu_center_manage|{s19}^{reg6?^^你 正 在 建 造 {s7}， {reg8}天 {reg9?后 :后 }完 工 。 :}
+mno_center_build_manor|建 造 蜜 酒 大 厅 。 
+mno_center_build_fish_pond|建 造 磨 坊 。 
+mno_center_build_watch_tower|建 造 瞭 望 塔 。 
+mno_center_build_school|建 造 学 校 。 
+mno_center_build_messenger_post|建 造 信 使 岗 哨 。 
+mno_center_build_prisoner_tower|建 造 俘 虏 塔 。 
+mno_center_build_religion1|建 造 基 督 教 修 道 院 （ 转 化 信 仰 ） 。 
+mno_center_build_religion2|建 造 奥 丁 神 庙 （ 转 化 信 仰 ） 。 
+mno_center_build_religion3|建 造 基 督 教 堂 （ 转 化 信 仰 ） 。 
+mno_center_build_religion4|建 造 诺 斯 神 祠 （ 转 化 信 仰 ） 。 
+mno_center_build_herreria|建 造 铁 匠 铺 。 
+mno_center_build_guilds|建 造 商 人 驿 馆 。 
+mno_center_build_library|建 造 缮 写 室 。 
+mno_center_build_slavemarket|建 造 奴 隶 市 场 。 
 mno_center_kill_slavemarket|拆 除 奴 隶 市 场 。 
-mno_center_build_brewery|建 造 一 个 酒 馆 。 
-menu_remove_slaves|你 真 的 希 望 把 奴 隶 贩 子 以 他 们 不 神 圣 的 行 为 为 由 从 你 的 城 镇 里 赶 出 去 吗 ？ 请 注 意 这 会 在 一 定 时 间 内 减 少 你 的 城 镇 收 入 。 
-mno_remove_slaves|离 开 。 
-menu_center_improve|{s19}队 员 中 最 高 工 程 技 能 为 {reg2}级 ， 由 此 {reg3?你 预 期 :{s3}预 期 }建 造 {s4}要 花 费 {reg5} 先 令 ， 升 级 需 要 {reg6}日 。 
-mno_improve_cont|去 {s15} ……
-mno_improve_not_enough_gold|我 没 有 足 够 的 钱 。 
-menu_town_bandits_succeeded|你 干 掉 了 强 盗 ， 如 同 横 扫 草 芥 ！ 你 再 次 孤 身 一 人 站 在 街 头 ， 在 你 的 周 围 散 布 着 强 盗 们 的 尸 体 ， 看 到 这 一 幕 ， 他 们 的 残 党 惊 慌 地 四 散 而 去 ， 消 失 在 街 道 深 处 。 搜 寻 尸 体 后 你 发 现 了 一 袋 钱 ， 或 者 它 属 于 前 一 个 无 辜 的 牺 牲 者 ， 或 者 是 有 人 想 要 买 你 的 命 。 {s33}
-mno_reveal|尝 试 找 出 谁 买 下 了 你 的 人 头 。 
-menu_village_force_convert_confirm|这 将 花 费 5 小 时 的 时 间 找 遍 整 个 村 子 ， 找 出 所 有 的 异 端 分 子 ， 而 且 强 迫 他 们 放 弃 他 们 的 错 误 信 仰 。 
-mno_village_force_convert_confirm|离 开 。 
-menu_village_steal_cattle_confirm|队 员 中 最 高 掠 夺 技 能 为 {reg2}级 ， 由 此 {reg3?你 预 期:{s1}预 期 }你 最 多 可 以 偷 到 {reg4}头 牛 。 
-mno_village_steal_cattle_confirm|继 续 ……
-menu_village_take_food_confirm|强 迫 农 民 们 准 备 好 补 给 品 需 要 花 费 至 少 一 个 小 时 。 
-mno_village_take_food_confirm|可 以 。 
-menu_village_take_food|村 民 们 勉 强 交 出 了 一 些 给 养 。 
-mno_take_supplies|带 走 。 
+mno_center_build_brewery|建 造 酿 酒 坊 。 
+menu_remove_slaves|你 是 否 要 驱 逐 奴 隶 贩 子 ， 禁 止 他 们 在 镇 内 继 续 这 亵 渎 的 生 意 ？ 此 举 会 暂 时 降 低 城 镇 的 关 税 与 繁 荣 。 
+mno_remove_slaves|继 续 。 
+menu_center_improve|{s19}作 为 队 伍 中 工 程 技 能 最 高 （ {reg2}级 ） 的 人 ， {reg3?你 估 计 :{s3}估 计 }建 造 {s4}需 花 费 {reg5}银 便 士 ， 耗 时 {reg6}天 。 
+mno_improve_cont|继 续 {s15}。 
+mno_improve_not_enough_gold|我 的 钱 不 够 。 
+menu_town_bandits_succeeded|敌 人 如 麦 秆 般 在 你 面 前 倒 下 ！ 很 快 ， 街 道 只 剩 你 一 人 站 立 ， 而 袭 击 者 大 多 已 昏 迷 、 死 亡 或 垂 死 。 搜 身 时 ， 你 发 现 一 个 钱 袋 ， 它 或 许 曾 属 于 这 些 暴 徒 的 某 位 受 害 者 ， 也 可 能 是 有 人 雇 他 们 取 你 性 命 。 {s33}
+mno_reveal|追 查 是 谁 想 要 你 的 命 。 
+menu_village_force_convert_confirm|你 需 要 5 小 时 搜 遍 全 村 ， 把 异 端 从 藏 身 之 处 揪 出 ， 并 迫 使 他 们 放 弃 错 误 信 仰 。 
+mno_village_force_convert_confirm|继 续 。 
+menu_village_steal_cattle_confirm|作 为 队 伍 中 掠 夺 技 能 最 高 （ {reg2}级 ） 的 人 ， {reg3?你 估 计 :{s1}估 计 }你 最 多 能 偷 走 村 里 {reg4}头 牛 。 
+mno_village_steal_cattle_confirm|继 续 。 
+menu_village_take_food_confirm|威 逼 农 民 交 出 宝 贵 的 补 给 并 不 容 易 ， 你 估 计 至 少 需 要 一 小 时 。 
+mno_village_take_food_confirm|继 续 。 
+menu_village_take_food|村 民 不 情 愿 地 拿 出 他 们 仅 有 的 东 西 交 给 你 。 
+mno_take_supplies|拿 走 补 给 。 
 mno_let_them_keep_it_2|让 他 们 留 着 。 
-menu_village_start_attack|一 些 村 民 拿 起 农 具 准 备 抵 抗 你 的 掠 夺 。 
-mno_village_raid_attack|镇 压 他 们 。 
-mno_village_raid_leave|离 开 。 
-menu_village_raid_villagers_toslaves|你 想 把 村 民 如 动 物 般 屠 戮 净 尽 ， 还 是 把 他 们 掳 为 奴 隶 ？ 
-mno_villagers_slaves|带 上 所 有 村 民 作 为 奴 隶 ！ 
-mno_no_cancel|不 ，收 回 成 命 。 
-menu_village_loot_no_resist|村 民 们 在 你 的 军 队 前 望 风 而 逃 ， 但 是 你 的 士 兵 把 他 们 抓 住 了 ， 村 庄 由 你 控 制 了 。 
-mno_village_plunder|掠 夺 村 庄 ，然 后 将 其 夷 为 平 地 。
-mno_village_enslave|奴 役 村 民 。
-mno_take_supplies1|取 补 给 品 。 
-menu_village_loot_no_resist_population_flee|多 数 村 民 们 在 你 的 军 队 前 望 风 而 逃 ， 村 民 求 你 手 下 留 情 。 
-mno_village_lootflee|掠 夺 村 庄 ， 然 后 摧 毁 它 。 
-mno_take_supplies1flee|获 取 补 给 。 
-mno_village_raid_leaveflee|独 自 离 开 这 个 村 子 。 
-menu_village_loot_complete|遵 照 你 的 命 令 ， 你 的 部 队 洗 劫 了 村 子 ， 带 走 了 所 有 有 价 值 的 器 件 ， 然 后 把 房 屋 付 之 一 炬 。 你 从 洗 劫 所 得 中 分 得 了 {reg1} 先 令 。
-menu_village_loot_defeat|村 民 们 以 极 大 的 勇 气 和 决 心 ， 团 结 一 致 ， 赶 跑 了 你 的 军 队 。 
-menu_village_loot_continue|你 还 想 继 续 洗 劫 这 个 村 子 吗 ？ 
-mno_lootvillage_yes|是 的 。 
-mno_lootvillage_no|不 。 
-menu_close|没 事 。 
-mno_castle_castle|去 宫 殿 。 
-mno_castle_castle_door|去 宫 殿 门 口 。 
-mno_join_tournament|加 入 比 赛 。 
-mno_town_castle|去 宫 殿 。 
-mno_town_castle_door|去 宫 殿 门 口 。 
-mno_town_center|去 街 上 转 转 。 
-mno_town_center_door|去 城 镇 中 心 。 
-mno_town_tavern|去 蜜 酒 厅 。 
-mno_town_tavern_door|去 酒 馆 。 
-mno_town_merchant|与 商 人 交 谈 。 
-mno_town_merchant_door|去 商 人 那 儿 。 
-mno_town_arena|进 入 竞 技 场 。 
-mno_town_arena_door|去 训 练 场 。 
-mno_town_dungeon|永 无 可 能 ： 进 入 地 牢 。 
-mno_town_dungeon_door|去 地 牢 。 
-mno_castle_inspect|视 察 城 堡 。 
+menu_village_start_attack|一 些 愤 怒 的 村 民 抓 起 工 具 ， 准 备 反 抗 你 。 看 样 子 你 若 继 续 ， 就 得 动 手 了 。 
+mno_village_raid_attack|冲 锋 他 们 。 
+mno_village_raid_leave|放 过 这 个 村 子 。 
+menu_village_raid_villagers_toslaves|你 要 把 村 民 当 野 兽 一 样 追 杀 ， 再 把 他 们 变 成 奴 隶 吗 ？ 
+mno_villagers_slaves|把 所 有 村 民 都 抓 起 来 ！ 
+mno_no_cancel|不 ， 撤 销 命 令 ！ 
+menu_village_loot_no_resist|这 里 的 村 民 稀 少 又 惊 恐 ， 他 们 一 见 你 就 四 散 奔 逃 ， 但 你 的 部 下 还 是 抓 住 了 一 些 人 。 村 子 任 你 处 置 。 
+mno_village_plunder|洗 劫 村 庄 ， 然 后 把 它 烧 光 。 
+mno_village_enslave|奴 役 村 民 。 
+mno_take_supplies1|拿 走 补 给 。 
+menu_village_loot_no_resist_population_flee|大 多 数 村 民 一 见 你 的 军 队 就 逃 了 。 村 子 任 你 处 置 。 
+mno_village_lootflee|洗 劫 村 庄 ， 然 后 把 它 烧 光 。 
+mno_take_supplies1flee|拿 走 补 给 。 
+mno_village_raid_leaveflee|放 过 这 个 村 子 。 
+menu_village_loot_complete|按 你 的 命 令 ， 部 队 洗 劫 村 庄 ， 把 值 钱 的 东 西 抢 光 ， 再 放 火 烧 屋 。 从 搜 到 的 钱 币 和 贵 重 物 品 中 ， 你 分 到 了 {reg1}银 便 士 。 
+menu_village_loot_defeat|村 民 英 勇 顽 强 ， 齐 心 协 力 击 退 了 你 的 部 队 。 
+menu_village_loot_continue|你 想 继 续 洗 劫 这 个 村 庄 吗 ？ 
+menu_close|什 么 都 不 做 。 
+mno_castle_castle|前 往 领 主 大 厅 。 
+mno_castle_castle_door|前 往 美 杜 塞 尔 德 。 
+mno_join_tournament|参 加 比 赛 。 
+mno_town_castle|前 往 领 主 大 厅 。 
+mno_town_castle_door|前 往 美 杜 塞 尔 德 。 
+mno_town_center|在 镇 上 漫 步 。 
+mno_town_center_door|前 往 城 镇 中 心 。 
+mno_town_tavern|前 往 蜜 酒 厅 。 
+mno_town_tavern_door|前 往 蜜 酒 厅 。 
+mno_town_merchant|与 杂 货 商 人 交 谈 。 
+mno_town_merchant_door|前 往 杂 货 商 人 处 。 
+mno_town_arena|前 往 训 练 场 。 
+mno_town_arena_door|前 往 训 练 场 。 
+mno_town_dungeon|永 不 ： 进 入 监 狱 。 
+mno_town_dungeon_door|前 往 监 狱 。 
+mno_castle_inspect|巡 视 城 堡 。 
 mno_castle_inspect_door|离 开 。 
-mno_town_enterprise|访 问 你 的 农 场 。 
-mno_town_enterprise_door|去 你 投 资 的 工 场 。 
+mno_town_enterprise|前 往 你 的 农 场 。 
+mno_town_enterprise_door|前 往 你 的 产 业 。 
 mno_visit_lady|尝 试 拜 访 一 位 女 士 。 
-mno_visit_lady_door|去 花 园 。 
-mno_trade_with_merchants|去 市 场 。 
-mno_travel|旅 行 到 另 一 个 港 口 。
-mno_travel_door|装 备 你 的 部 队 。 
-mno_walled_center_manage|管 理 这 个 {reg0?城 镇:城 堡 } 。 
-mno_walled_center_move_court|移 都 到 这 里 。 
-mno_castle_station_troops|管 理 {s10}驻 军 
-mno_castle_wait|在 这 里 休 息 一 会 儿 {s5} 。 
+mno_visit_lady_door|前 往 花 园 。 
+mno_trade_with_merchants|与 当 地 人 交 易 。 
+mno_travel|前 往 另 一 处 港 口 。 
+mno_travel_door|装 备 你 的 队 伍 。 
+mno_walled_center_manage|管 理 这 个 {reg0?城 镇 :城 堡 }。 
+mno_walled_center_move_court|把 宫 廷 迁 到 这 里 。 
+mno_castle_station_troops|管 理 驻 军 。 
+mno_castle_wait|在 此 稍 候 片 刻 。 
 mno_castle_wait_door|休 息 。 
-mno_town_alley|招 募 潜 在 兵 种 。
-mno_town_visit_port|去 城 镇 港 口 。 
-mno_banquete_mead|为 我 的 手 下 在 {reg0?城 镇 :城 堡 }举 行 庆 功 宴 ， 购 买 酒 和 食 物 。 
+mno_town_alley|招 募 潜 在 兵 员 。 
+mno_town_visit_port|查 看 船 只 。 
+mno_banquete_mead|我 的 部 下 该 喝 庆 功 蜜 酒 了 ， 去 买 些 酒 和 食 物 。 
 mno_banquete_mead_door|扬 帆 起 航 。 
-mno_set_sail|从 港 口 起 航 。 
+mno_set_sail|从 港 口 启 航 。 
 mno_set_sail_door|扬 帆 起 航 。 
-mno_town_leave|离 开 ……
-mno_town_leave_door|离 开 此 地 。 
-menu_cannot_enter_court|领 主 的 大 厅 里 正 在 举 行 一 场 宴 会 ， 但 是 你 还 没 有 足 够 资 格 进 入 。 或 者 想 办 法 增 加 声 望 来 赢 得 入 场 劵 ， 或 者 在 竞 技 大 会 上 胜 出 也 是 个 捷 径 。 
-menu_lady_visit|你 想 要 拜 访 谁 呢 ？ 
+mno_town_leave|离 开 … … 
+mno_town_leave_door|离 开 … … 
+menu_cannot_enter_court|领 主 大 厅 正 在 举 行 宴 会 ， 可 你 地 位 尚 低 ， 未 被 邀 请 。 若 想 入 内 ， 可 设 法 提 高 声 望 ， 或 在 宴 会 期 间 于 竞 技 大 会 中 扬 名 。 
+menu_lady_visit|你 想 拜 访 谁 ？ 
 mno_visit_lady_1|拜 访 {s12}
 mno_visit_lady_2|拜 访 {s12}
 mno_visit_lady_3|拜 访 {s12}
-mno_visit_lady_3_door|花 园 大 门 。 
+mno_visit_lady_3_door|通 往 花 园 的 门 。 
 mno_visit_lady_4|拜 访 {s12}
 mno_visit_lady_5|拜 访 {s12}
 mno_visit_lady_6|拜 访 {s12}
 mno_visit_lady_7|拜 访 {s12}
 mno_visit_lady_8|拜 访 {s12}
-menu_town_tournament_lost|你 在 竞 技 大 会 中 被 淘 汰 了 。 {s8}
-menu_town_tournament_won|你 在 {s3}的 竞 技 大 会 中 获 得 了 优 胜 ！ 听 到 周 围 的 人 们 高 呼 着 你 的 名 字 ， 你 感 到 无 限 荣 耀 。 除 此 之 外 ， 你 还 获 得 了 {reg9} 先 令 的 奖 金 。 
-menu_town_tournament_won_by_another|作 为 当 日 最 终 胜 利 的 {reg3?人:人 } ， {s1}赢 得 了 该 场 竞 技 大 会 的 奖 金 以 及 荣 誉 。 
-menu_town_tournament|{s1}你 现 在 处 于 竞 技 大 会 中 的 第 {reg0}轮 ， 现 在 还 剩 有 {reg1}名 参 与 者 。 下 一 轮 中 ， 将 会 有 {reg2}队 ， 其 中 每 队 有 {reg3}{reg4?人:人 }参 加 战 斗 。 
-mno_tournament_view_participants|查 看 参 与 者 名 单 。 
+menu_town_tournament_lost|你 已 被 淘 汰 出 竞 技 大 会 。 {s8}
+menu_town_tournament_won|你 赢 得 了 {s3}的 竞 技 大 会 ！ 人 群 高 呼 你 的 名 字 ， 你 满 心 自 豪 。 除 荣 誉 、 名 望 与 荣 光 外 ， 你 还 获 得 {reg9}银 便 士 的 奖 赏 。 {s8}
+menu_town_tournament_won_by_another|作 为 今 日 唯 一 不 败 的 {reg3?正 规 斗 士 :男 人 }， {s1}赢 得 这 场 竞 技 大 会 的 奖 金 与 荣 耀 。 
+menu_town_tournament|{s1}你 处 于 大 赛 第 {reg0}轮 ， 尚 余 {reg1}名 参 赛 者 。 下 一 轮 将 分 {reg2}队 ， 每 队 {reg3}名 {reg4?战 士 :正 规 斗 士 }。 
+mno_tournament_view_participants|查 看 参 赛 者 名 单 。 
 mno_tournament_bet|在 自 己 身 上 下 注 。 
-mno_tournament_join_next_fight|进 入 下 一 轮 。 
-mno_leave_tournament|从 竞 技 大 会 中 退 出 。 
-menu_tournament_withdraw_verify|你 确 认 要 从 竞 技 大 会 中 退 出 吗 ？ 
-mno_tournament_withdraw_yes|是 的 ， 这 是 毫 无 希 望 的 努 力 。 
-mno_tournament_withdraw_no|不 ， 只 要 还 有 一 丝 机 会 胜 利 ！ 
-menu_tournament_bet|现 在 的 比 率 是 {reg5}比 {reg6} 。 {reg1?你 已 经 在 你 身 上 下 了 {reg1} 先 令 的 赌 注 ， 如 果 你 胜 出 的 话 ， 你 会 赢 得 {reg2} 先 令 。:}你 想 下 多 少 赌 注 ？ 
-mno_bet_100_denars|100 先 令 
-mno_bet_50_denars|50 先 令 
-mno_bet_20_denars|20 先 令 
-mno_bet_10_denars|10 先 令 
-mno_bet_5_denars|5 先 令 
-menu_tournament_bet_confirm|如 果 你 下 {reg1} 先 令 的 赌 注 并 且 赌 中 的 话 ， 你 会 得 到 {reg2} 先 令 。 决 定 了 吗 ？ 
-mno_tournament_bet_accept|可 以 。 
+mno_tournament_join_next_fight|参 加 下 一 轮 。 
+mno_leave_tournament|退 出 竞 技 大 会 。 
+menu_tournament_withdraw_verify|你 确 定 要 退 出 竞 技 大 会 吗 ？ 
+mno_tournament_withdraw_yes|是 的 ， 这 不 过 是 徒 劳 的 虚 饰 。 
+mno_tournament_withdraw_no|不 ， 只 要 还 有 胜 算 ， 我 就 绝 不 退 出 ！ 
+menu_tournament_bet|你 当 前 的 赔 率 是 {reg5}比 {reg6}。 {reg1?你 已 在 自 己 身 上 押 了 {reg1}银 便 士 ， 若 获 胜 ， 将 赢 得 {reg2}银 便 士 :}你 想 押 多 少 ？ 
+mno_bet_100_denars|100 银 便 士 。 
+mno_bet_50_denars|50 银 便 士 。 
+mno_bet_20_denars|20 银 便 士 。 
+mno_bet_10_denars|10 银 便 士 。 
+mno_bet_5_denars|5 银 便 士 。 
+menu_tournament_bet_confirm|若 你 押 {reg1}银 便 士 ， 赢 得 竞 技 赛 就 能 拿 到 {reg2}银 便 士 。 确 定 吗 ？ 
+mno_tournament_bet_accept|继 续 。 
 mno_tournament_bet_cancel|算 了 。 
-menu_tournament_participants|你 从 一 位 正 在 哭 泣 的 失 败 者 那 里 打 听 到 了 这 场 竞 技 大 赛 中 参 与 者 的 名 单 。 他 们 是 ：^{s11}
-menu_collect_taxes|队 员 中 最 高 交 易 技 能 为 {reg2}级 ， 由 此 {reg3?你 预 期 :{s1}预 期 }需 要 {reg4}天 来 完 成 征 税 ……
+menu_tournament_participants|你 向 一 名 传 令 官 询 问 竞 技 场 选 手 的 名 单 。 他 们 是 ： ^{s11}
+menu_collect_taxes|作 为 队 内 交 易 技 能 最 高 （ {reg2}级 ） 的 人 ， {reg3?你 预 计 :{s1}预 计 }在 此 征 税 需 {reg4}天 … … 
 mno_start_collecting|开 始 征 收 。 
-mno_collect_later|待 会 再 说 。 
-menu_collect_taxes_complete|你 已 经 在 {s3}收 集 完 {reg3} 先 令 的 税 金 。 {s19}看 到 你 把 这 笔 钱 交 给 他 会 很 开 心 的 。 
-menu_collect_taxes_rebels_killed|你 成 功 地 镇 压 了 反 抗 。 任 何 想 站 起 来 反 抗 的 人 将 会 惧 怕 并 再 三 考 虑 的 。 
-menu_collect_taxes_failed|在 村 民 们 暴 动 之 前 ， 你 只 能 在 {s3}收 到 {reg3} 先 令 的 税 。 {s1}不 会 开 心 的 ， 不 过 这 总 比 什 么 都 没 有 好 …
-menu_collect_taxes_revolt_warning|{s3}的 人 们 对 你 要 求 的 高 税 款 表 示 强 烈 的 义 愤 。 如 果 你 继 续 压 迫 他 们 ， 他 们 将 准 备 起 来 反 抗 。 
-mno_continue_collecting_taxes|依 然 像 以 前 那 样 征 税 。 
-mno_halve_taxes|同 意 减 轻 一 半 的 税 款 。（ {s1}也 许 会 不 满） 。 
-menu_collect_taxes_revolt|当 你 在 {s3}收 取 税 款 的 时 候 ， 突 然 看 见 一 大 群 愤 怒 的 {reg9?农 民:居 民 }已 经 对 你 提 出 的 高 税 款 忍 无 可 忍 ， 正 挥 舞 着 火 把 和 武 器 逐 渐 向 你 逼 近 。 这 是 要 向 你 开 战 ！ 
-menu_train_peasants_against_bandits|队 员 中 最 高 训 练 技 能 为 {reg2}级 ， 由 此 {reg3?你 预 期:{s1}预 期 }需 要 {reg4}小 时 来 进 行 理 论 讲 解 ， 使 这 些 农 民 变 成 英 勇 的 战 士 。 在 这 期 间 他 们 将 会 学 到 战 斗 的 基 本 知 识 以 及 如 何 去 沉 着 冷 静 地 应 对 一 切 战 斗 。 
+mno_collect_later|稍 后 再 说 。 
+menu_collect_taxes_complete|你 已 在 {s3}征 到 {reg3}银 便 士 税 款 。 {s19}正 等 你 把 钱 送 去 。 
+menu_collect_taxes_rebels_killed|你 雷 厉 风 行 ， 迅 速 镇 压 了 叛 乱 。 此 后 ， 任 何 想 造 反 的 人 都 会 三 思 。 
+menu_collect_taxes_failed|叛 乱 爆 发 前 ， 你 只 在 {s3}征 到 {reg3}银 便 士 税 款 。 {s1}会 不 高 兴 ， 但 有 点 银 子 总 比 空 手 好 … … 
+menu_collect_taxes_revolt_warning|{s3}的 民 众 怒 斥 你 的 要 求 纯 属 勒 索 。 他 们 躁 动 不 安 ， 若 再 逼 迫 ， 恐 生 祸 端 。 
+mno_continue_collecting_taxes|无 视 他 们 ， 继 续 征 收 。 
+mno_halve_taxes|同 意 把 征 收 额 减 半 。 （ {s1}可 能 会 生 气 ） 
+menu_collect_taxes_revolt|你 在 {s3}征 税 时 被 打 断 。 一 大 群 愤 怒 的 {reg9?农 民 :市 民 }高 举 火 把 武 器 ， 高 喊 税 赋 过 重 ， 正 步 步 逼 近 ， 看 样 子 要 动 手 ！ 
+menu_train_peasants_against_bandits|作 为 队 内 训 练 技 能 最 高 （ {reg2}级 ） 的 人 ， {reg3?你 预 计 :{s1}预 计 }让 农 民 做 好 准 备 要 花 {reg4}小 时 。 
 mno_make_preparation|训 练 他 们 。 
-mno_train_later|待 会 再 说 。 
-menu_train_peasants_against_bandits_ready|你 对 那 些 农 民 们 进 行 了 一 些 最 基 本 的 训 练 ， 你 认 为 他 们 中 的 {reg0}人 {reg1?已 经:已 经 }完 全 地 掌 握 了 训 练 的 内 容 ， {reg1?他 们:他 }已 经 准 备 好 进 行 实 战 演 习 了 。 
+mno_train_later|稍 后 再 说 。 
+menu_train_peasants_against_bandits_ready|你 让 农 民 接 受 基 础 军 纪 与 服 从 训 练 。 你 觉 得 {reg0}人 {reg1?已 :已 }完 全 掌 握 ， 可 以 开 始 演 练 。 
 mno_peasant_start_practice|开 始 演 习 。 
-menu_train_peasants_against_bandits_attack|当 你 准 备 继 续 训 练 的 时 候 ， 一 个 从 村 子 里 来 的 卫 兵 向 你 奔 来 ， 呼 喊 着 告 急 。 那 些 强 盗 已 经 出 现 在 视 野 里 ， 奔 向 {s3} 。 村 长 恳 求 你 组 织 那 些 你 训 练 的 民 兵 去 抵 抗 他 们 。 
-mno_peasants_against_bandits_attack_resist|准 备 开 战 吧 ！ 
-menu_train_peasants_against_bandits_success|这 些 强 盗 被 打 败 了 ！ 那 些 还 活 着 的 和 意 识 还 清 醒 的 都 夹 着 尾 巴 逃 跑 了 ， 他 们 惧 怕 这 些 农 民 和 他 们 的 新 教 官 。 经 过 他 们 的 抢 劫 以 后 ， 村 民 几 乎 没 有 什 么 东 西 剩 下 了 ， 但 他 们 还 是 拿 出 了 任 何 他 们 有 的 东 西 以 表 达 感 激 之 情 。 
-menu_loot_options|战 斗 结 束 了 。 你 想 怎 么 处 理 这 些 战 利 品 ？ 
-mno_loot_0|像 平 常 一 样 分 配 战 利 品 。 
-mno_loot_1|自 己 先 挑 选 战 利 品 。 
-mno_loot_2|把 所 有 的 战 利 品 留 给 你 的 手 下 。 
-mno_loot_3|留 下 战 利 品 ， 并 花 些 时 间 来 埋 葬 死 者 。 
+menu_train_peasants_against_bandits_attack|你 正 准 备 继 续 训 练 ， 一 名 村 哨 兵 奔 来 示 警 ： 山 贼 已 出 现 在 天 际 ， 正 疾 驰 向 {s3}。 地 方 领 袖 恳 求 你 率 新 练 民 兵 迎 战 。 
+mno_peasants_against_bandits_attack_resist|准 备 开 战 ！ 
+menu_train_peasants_against_bandits_success|山 贼 溃 散 ！ 残 兵 夹 着 尾 巴 逃 窜 ， 惧 怕 农 民 与 他 们 新 拥 立 的 勇 士 。 村 民 劫 后 余 贫 ， 仍 倾 其 所 有 以 表 谢 意 。 
+menu_loot_options|战 斗 结 束 。 你 想 如 何 处 置 战 利 品 ？ 
+mno_loot_0|按 惯 例 分 配 战 利 品 。 
+mno_loot_1|优 先 挑 选 全 部 战 利 品 。 
+mno_loot_2|把 战 利 品 全 留 给 部 下 。 
+mno_loot_3|放 弃 战 利 品 ， 用 时 间 安 葬 死 者 。 
 menu_landing_point_encounter|你 要 下 船 吗 ？ 
-mno_disembark_no|不 。 
 menu_landet_ships_encounter|你 要 上 船 吗 ？ 
-mno_reembark_no|不 。 
-menu_ferry_encounter|渡 船 的 主 人 会 以 {reg7} 先 令 的 报 酬 把 你 送 到 另 一 边 。 
-mno_back|返 回 。 
-menu_port_encounter|你 发 现 了 {s2}的 港 口 。 {s3}
+menu_ferry_encounter|渡 船 船 长 愿 以 {reg7}银 便 士 送 你 到 对 岸 。 
+menu_port_encounter|你 抵 达 {s2}港 口 。 {s3}
 mno_attack|进 攻 。 
 mno_merge|合 并 船 队 。 
-menu_center_reports|城 镇 名 ： {s1}^地 租 ： {reg1} 先 令 ^关 税 ： {reg2} 先 令 ^储 粮 可 维 持 {reg3}天 
-mno_to_price_and_productions|报 告 价 格 与 产 品 。 
-menu_price_and_production|产 品 有 ： ^（ 提 示 ： 基 础 的 / 原 材 料 加 工 而 来 的 / 材 料 加 工 并 加 以 修 饰 的 )^{s1}^^价 格 因 素 有 ： ^{s2}
-menu_town_trade|你 向 市 场 走 去 。 
-mno_assess_prices|估 价 。 
-mno_trophies|出 售 你 的 战 利 品 。 
-mno_highking_trophies|兑 现 你 的 至 高 王 奖 杯 。 
+menu_center_reports|城 镇 名 ： {s1}^地 租 收 入 ： {reg1}银 便 士 ^关 税 收 入 ： {reg2}银 便 士 ^存 粮 ： 可 维 持 {reg3}天 
+mno_to_price_and_productions|显 示 价 格 与 生 产 。 
+menu_price_and_production|产 品 如 下 ： ^（ 注 ： 基 础 值 /受 原 材 料 影 响 /受 材 料 与 繁 荣 度 影 响 ） ^{s1}^^价 格 因 素 ： ^{s2}
+menu_town_trade|你 走 向 集 市 。 
+mno_assess_prices|评 估 当 地 价 格 。 
+mno_trophies|兑 换 你 的 战 斗 战 利 品 。 
+mno_highking_trophies|兑 换 你 的 至 高 王 奖 杯 。 
 mno_trade_with_arms_merchant|与 武 器 商 人 交 易 。 
-mno_trade_with_armor_merchant|与 盔 甲 商 人 交 易 。 
-mno_trade_with_horse_merchant|与 马 匹 贩 子 交 易 。 
+mno_trade_with_armor_merchant|与 防 具 商 人 交 易 。 
+mno_trade_with_horse_merchant|与 马 匹 商 人 交 易 。 
 mno_trade_with_goods_merchant|与 杂 货 商 人 交 易 。 
 mno_back_to_town_menu|返 回 。 
-menu_trophy_premium|你 出 售 了 战 利 品 ， 获 得 了 金 钱 和 经 验 。 
-mno_premium_a|交 易 你 的 战 斗 战 利 品 。 
-mno_premium_b|交 易 你 的 战 争 战 利 品 。 
-mno_premium_c|交 易 你 的 史 诗 战 利 品 。 
-menu_trophy_hihgking_premium|至 高 王 奖 杯 是 令 人 垂 延 的 宝 物 ， 因 为 它 们 只 属 于 那 些 能 够 把 众 多 领 地 收 于 旗 下 的 强 大 的 领 主 ， 兑 换 掉 它 能 够 带 来 大 量 的 金 钱 和 经 验 。 
-mno_premium_norse|兑 换 诺 尔 斯 国 王 奖 杯 
-mno_premium_cymry|兑 换 布 立 吞 国 王 奖 杯 
-mno_premium_irish|兑 换 戈 伊 德 尔 大 首 领 奖 杯 
-mno_premium_saxon|兑 换 盎 格 鲁 国 王 奖 杯 
-menu_town_trade_assessment_begin|你 偶 然 听 到 了 一 些 关 于 物 品 价 格 的 情 报 。 ^你 试 着 从 这 些 情 报 中 寻 找 到 一 些 有 用 的 东 西 。 
-menu_town_trade_assessment|队 员 中 最 高 交 易 技 能 为 {reg2}级 ， {reg3?你 尝 试 算 出 :{s1} 尝 试 算 出 } 利 润 最 高 的 商 品 。 {s2}
-menu_sneak_into_town_suceeded|假 装 成 穿 着 破 烂 的 朝 圣 者 ， 你 骗 过 了 守 卫 ， 顺 利 的 混 入 城 里 。 
-menu_sneak_into_town_caught|在 你 尝 试 溜 进 去 时 ， 一 名 守 卫 发 现 了 你 并 发 出 了 警 报 ！ 你 必 须 在 所 有 守 卫 都 开 始 搜 捕 你 之 前 从 大 门 逃 出 去 。 
+menu_trophy_premium|战 斗 战 利 品 是 抢 手 货 。 把 它 们 换 成 金 钱 与 经 验 。 
+mno_premium_a|兑 换 战 斗 战 利 品 。 
+mno_premium_b|兑 换 战 争 战 利 品 。 
+mno_premium_c|兑 换 史 诗 战 利 品 。 
+menu_trophy_hihgking_premium|至 高 王 奖 杯 人 人 垂 涎 ， 唯 有 能 统 御 众 多 领 地 的 强 大 领 主 方 能 获 得 。 兑 换 它 们 可 换 取 大 量 金 钱 与 经 验 。 
+mno_premium_norse|兑 换 诺 斯 康 戈 尔 奖 杯 。 
+mno_premium_cymry|兑 换 布 立 吞 大 王 奖 杯 。 
+mno_premium_irish|兑 换 盖 尔 大 王 奖 杯 。 
+mno_premium_saxon|兑 换 “ 不 列 颠 共 主 ” 奖 杯 。 
+menu_town_trade_assessment_begin|你 听 见 旁 人 议 论 本 地 货 物 的 行 市 。 ^你 侧 耳 细 听 ， 想 摸 清 最 划 算 的 生 意 。 
+menu_town_trade_assessment|队 伍 里 交 易 技 能 最 高 的 是 {reg2}级 ， {reg3?你 盘 算 :{s1}盘 算 }该 做 哪 笔 买 卖 。 {s2}
+menu_sneak_into_town_suceeded|你 扮 作 衣 衫 褴 褛 的 朝 圣 者 ， 骗 过 守 卫 ， 混 进 城 中 。 
+menu_sneak_into_town_caught|你 正 潜 行 入 内 ， 一 名 守 卫 认 出 你 ， 立 刻 示 警 ！ 你 必 须 在 满 城 守 卫 围 捕 前 逃 出 城 门 ！ 
 mno_sneak_caught_fight|杀 出 一 条 血 路 ！ 
 mno_sneak_caught_surrender|投 降 。 
-menu_sneak_into_town_caught_dispersed_guards|你 轻 易 的 甩 掉 了 守 卫 ， 消 失 在 街 道 的 深 处 。 
-menu_sneak_into_town_caught_ran_away|你 杀 开 一 条 血 路 终 于 夺 关 而 走 ， 迅 速 逃 到 了 郊 外 的 安 全 地 带 。 {s11}
-menu_enemy_offer_ransom_for_prisoner|{s2}想 用 {reg12} 先 令 与 你 交 换 {s1} 。 
-mno_ransom_accept|接 受 这 个 建 议 。 
-mno_ransom_reject|拒 绝 这 个 建 议 。 
-menu_training_ground|你 到 达 了 训 练 场 。 在 这 里 你 可 以 提 升 你 的 战 斗 技 巧 。 你 想 要 进 行 哪 种 训 练 ？ 
-mno_camp_trainer|和 教 练 交 谈 。 
+menu_sneak_into_town_caught_dispersed_guards|你 击 退 守 卫 ， 抹 去 痕 迹 ， 在 街 巷 迷 宫 中 轻 松 甩 掉 追 兵 。 
+menu_sneak_into_town_caught_ran_away|你 冲 出 城 门 ， 迅 速 撤 回 安 全 的 乡 村 。 {s11}
+menu_enemy_offer_ransom_for_prisoner|{s2}愿 出 {reg12}银 便 士 换 取 {s1}。 
+mno_ransom_accept|接 受 出 价 。 
+mno_ransom_reject|拒 绝 提 议 。 
+menu_training_ground|你 来 到 训 练 场 ， 可 在 此 磨 炼 武 艺 。 想 练 哪 一 项 ？ 
+mno_camp_trainer|与 教 练 交 谈 。 
 mno_camp_train_melee|对 战 练 习 。 
-mno_camp_train_archery|射 击 练 习 。 
-mno_camp_train_mounted|骑 乘 练 习 。 
-menu_training_ground_selection_details_melee_1|你 想 要 同 时 面 对 几 个 对 手 ？ 
+mno_camp_train_archery|远 程 武 器 练 习 。 
+mno_camp_train_mounted|骑 术 练 习 。 
+menu_training_ground_selection_details_melee_1|准 备 迎 战 几 名 对 手 ？ 
 mno_camp_train_melee_num_men_1|一 。 
 mno_camp_train_melee_num_men_2|二 。 
 mno_camp_train_melee_num_men_3|三 。 
 mno_camp_train_melee_num_men_4|四 。 
 mno_cancel_dot|取 消 。 
-menu_training_ground_selection_details_melee_2|选 择 你 的 {reg1}号 对 手 ： 
+menu_training_ground_selection_details_melee_2|选 择 第 {reg1}位 对 手 ： 
 mno_training_ground_selection_details_melee_random|随 机 选 择 。 
-menu_training_ground_selection_details_mounted|你 想 要 用 哪 种 武 器 进 行 训 练 ？ 
+menu_training_ground_selection_details_mounted|你 想 用 哪 种 武 器 训 练 ？ 
 mno_camp_train_mounted_details_1|单 手 武 器 。 
 mno_camp_train_mounted_details_2|长 杆 。 
 mno_camp_train_mounted_details_3|弓 箭 。 
 mno_camp_train_mounted_details_4|投 掷 。 
-menu_training_ground_selection_details_ranged_1|你 想 要 用 哪 种 远 程 武 器 进 行 训 练 ？ 
-mno_camp_train_ranged_weapon_bow|弓 和 箭 。
-mno_camp_train_ranged_weapon_crossbow|弩 。 
+menu_training_ground_selection_details_ranged_1|你 想 用 哪 种 远 程 武 器 训 练 ？ 
+mno_camp_train_ranged_weapon_bow|弓 和 箭 。 
+mno_camp_train_ranged_weapon_crossbow|标 枪 。 
 mno_camp_train_ranged_weapon_thrown|飞 刀 。 
-menu_training_ground_selection_details_ranged_2|你 想 要 在 距 标 靶 多 远 的 距 离 练 习 ？ 
-mno_camp_train_ranged_details_1|10码 。 
-mno_camp_train_ranged_details_2|20码 。 
-mno_camp_train_ranged_details_3|30码 。 
-mno_camp_train_ranged_details_4|40码 。 
-mno_camp_train_ranged_details_5|50码 。 
-mno_camp_train_ranged_details_6|60码 。 
-mno_camp_train_ranged_details_7|70码 。 
+menu_training_ground_selection_details_ranged_2|你 想 在 多 远 的 距 离 练 习 ？ 
+mno_camp_train_ranged_details_1|10 码 。 
+mno_camp_train_ranged_details_2|20 码 。 
+mno_camp_train_ranged_details_3|30 码 。 
+mno_camp_train_ranged_details_4|40 码 。 
+mno_camp_train_ranged_details_5|50 码 。 
+mno_camp_train_ranged_details_6|60 码 。 
+mno_camp_train_ranged_details_7|70 码 。 
 menu_training_ground_training_result|{s7}{s2}
-menu_marshal_selection_candidate_ask|{s15}很 快 就 要 为 {s23}选 出 新 元 帅 。 一 些 领 主 推 荐 你 为 候 选 人 。 
-mno_marshal_candidate_accept|让 {s15}知 道 你 想 以 元 帅 之 职 为 其 效 忠 。 
+menu_marshal_selection_candidate_ask|{s15}很 快 要 为 {s23}选 出 新 元 帅 ， 几 位 领 主 已 举 荐 你 。 
+mno_marshal_candidate_accept|告 诉 {s15}， 你 愿 意 出 任 元 帅 。 
 mno_marshal_candidate_reject|告 诉 所 有 人 你 这 几 天 很 忙 。 
 menu_captivity_start_wilderness|返 回 
 menu_captivity_start_wilderness_surrender|返 回 
-menu_captivity_start_wilderness_defeat|你 被 敌 人 俘 虏 了 。 
+menu_captivity_start_wilderness_defeat|敌 人 把 你 俘 虏 了 。 
 menu_captivity_start_castle_surrender|返 回 
 menu_captivity_start_castle_defeat|返 回 
-menu_captivity_start_under_siege_defeat|你 被 敌 人 俘 虏 了 。 
-mno_continue1|继 续 …
-menu_captivity_wilderness_check|返 回 
-menu_captivity_end_wilderness_escape|经 过 了 几 天 痛 苦 的 俘 虏 生 活 。 你 找 了 个 机 会 逃 跑 了 ！ 
-menu_captivity_castle_taken_prisoner|卫 兵 们 包 围 了 你 ， 夺 下 了 你 的 武 器 。 他 们 咒 骂 着 把 你 丢 进 了 地 牢 ， 接 下 来 有 你 受 的 了 。 
-menu_captivity_rescue_lord_taken_prisoner|你 在 自 己 的 身 份 暴 露 之 前 一 直 伪 装 成 朝 圣 者 ， 这 激 怒 了 那 些 守 卫 。 他 们 狂 暴 而 粗 鲁 地 痛 打 你 ， 不 知 道 过 了 多 长 时 间 以 后 才 停 息 下 来 ……
-menu_captivity_castle_check|返 回 
-menu_captivity_end_exchanged_with_prisoner|经 过 了 数 天 的 关 押 ， 抓 你 的 人 用 你 交 换 了 一 名 俘 虏 ， 你 自 由 了 。 
-menu_captivity_end_propose_ransom|你 在 阴 暗 的 地 牢 中 不 知 道 呆 了 多 久 ， 抓 你 的 人 提 供 了 一 个 选 择 ： 从 你 藏 钱 的 地 方 交 出 {reg5} 先 令 ， 他 们 就 会 放 了 你 。 你 决 定 …
-mno_captivity_end_ransom_accept|接 受 这 个 建 议 。 
+menu_captivity_start_under_siege_defeat|敌 人 把 你 俘 虏 了 。 
+mno_continue1|继 续 … … 
+menu_captivity_wilderness_check|树 桩 
+menu_captivity_end_wilderness_escape|经 过 几 天 痛 苦 的 俘 虏 生 活 ， 你 抓 住 机 会 逃 出 了 敌 手 ！ 
+menu_captivity_castle_taken_prisoner|卫 兵 们 迅 速 围 上 来 ， 夺 走 了 你 的 武 器 。 他 们 咒 骂 着 把 你 扔 进 地 牢 ， 让 你 在 囚 禁 的 苦 难 中 熬 日 子 。 
+menu_captivity_rescue_lord_taken_prisoner|你 尽 可 能 久 地 伪 装 身 份 ， 直 到 无 法 再 隐 瞒 。 守 卫 们 勃 然 大 怒 ， 把 你 毒 打 一 顿 ， 又 把 你 扔 回 牢 房 ， 天 知 道 要 关 多 久 … … 
+menu_captivity_castle_check|树 桩 
+menu_captivity_end_exchanged_with_prisoner|被 囚 多 日 后 ， 敌 人 终 于 用 你 交 换 另 一 名 俘 虏 ， 你 重 获 自 由 。 
+menu_captivity_end_propose_ransom|在 无 光 潮 湿 的 地 牢 里 ， 你 数 不 清 熬 过 了 多 少 时 辰 。 忽 然 一 名 看 守 进 牢 房 提 出 交 易 ： 只 要 你 交 出 隐 藏 的 {reg5}银 便 士 ， 他 就 放 你 走 。 你 决 定 … … 
+mno_captivity_end_ransom_accept|接 受 出 价 。 
 mno_captivity_end_ransom_deny|拒 绝 他 ， 等 待 更 好 的 机 会 。 
-menu_captivity_castle_remain|时 光 流 逝 ， 你 在 监 牢 里 痛 苦 的 忍 受 着 被 囚 禁 的 痛 苦 ， 还 有 轻 蔑 的 笑 话 ……
-menu_kingdom_army_quest_report_to_army|{s8}邀 请 你 一 起 去 参 加 {reg4?她:他 } 的 远 征 。 你 需 要 带 上 至 少 {reg13}名 战 士 ， 如 果 现 在 不 够 的 话 ， 你 需 要 尽 快 达 到 要 求 的 人 数 。 
-menu_kingdom_army_quest_messenger|{s8}派 信 使 来 告 诉 你 ， 他 要 给 你 指 定 一 个 任 务 ， 并 要 求 你 尽 快 去 见 他 。 
-menu_kingdom_army_quest_join_siege_order|{s8}派 信 使 来 命 令 你 加 入 对 于 {s9}的 围 攻 。 不 论 付 出 多 大 的 代 价 都 必 须 拿 下 {s9} 。 
-menu_kingdom_army_follow_failed|你 和 {s8}走 散 了 。 元 帅 认 为 你 可 能 另 有 要 务 ， 不 过 他 对 于 你 的 支 持 还 是 表 示 感 激 。 
-menu_invite_player_to_faction_without_center|你 收 到 了 一 份 封 臣 的 邀 请 ！ ^^{s9}的 {s8}派 遣 了 一 个 王 家 信 使 来 亲 自 递 送 这 份 邀 请 。 你 将 成 为 {s9}的 一 位 封 臣 ， 从 此 冠 以 {阁 下 /女 士 }的 称 呼 ， 但 是 并 没 有 给 予 你 封 地 以 及 额 外 的 头 衔 ， 当 然 作 为 回 报 {s8}要 求 你 宣 誓 对 他 效 忠 并 与 他 一 起 加 入 他 的 远 征 。 虽 然 他 没 有 许 诺 封 地 和 头 衔 ， 但 如 果 你 拒 绝 这 个 请 求 的 话 ， 他 无 疑 会 感 到 冒 犯 的 … 
-mno_faction_accept|接 受 邀 请 ！ 
+menu_captivity_castle_remain|黑 暗 牢 房 里 又 过 去 数 日 。 你 尽 力 支 撑 ， 忍 受 守 卫 的 踢 打 与 咒 骂 ， 看 着 营 养 不 良 的 身 体 日 渐 消 瘦 … … 
+menu_kingdom_army_quest_report_to_army|{s8}传 话 要 你 加 入 {reg4?她 :他 }的 新 战 役 。 你 必 须 带 至 少 {reg13}名 士 兵 入 伍 ， 若 人 数 不 足 ， 须 火 速 募 兵 。 
+menu_kingdom_army_quest_messenger|{s8}传 话 ， 说 有 任 务 要 与 你 商 谈 ， 请 你 尽 快 前 去 见 他 。 
+menu_kingdom_army_quest_join_siege_order|{s8}派 信 使 来 命 令 你 加 入 对 {s9}的 围 攻 ， 为 全 面 进 攻 做 准 备 。 你 的 部 队 必 须 不 惜 一 切 代 价 攻 下 {s9}。 
+menu_kingdom_army_follow_failed|你 未 能 跟 上 {s8}。 元 帅 推 测 你 另 有 要 务 ， 但 仍 感 激 你 的 支 持 。 
+menu_invite_player_to_faction_without_center|你 收 到 了 一 份 封 臣 邀 请 ！ ^^{s9}的 {s8}派 王 家 信 使 亲 手 递 来 邀 请 。 你 将 获 封 为 {s9}的 封 臣 {reg59?女 男 爵 :男 爵 }， 作 为 回 报 ， {s8}要 求 你 宣 誓 效 忠 并 随 他 征 战 ， 但 未 赐 封 地 或 头 衔 。 若 拒 绝 ， 他 定 会 动 怒 … … 
+mno_faction_accept|接 受 ！ 
 mno_faction_reject|拒 绝 邀 请 。 
-menu_invite_player_to_faction|你 收 到 了 一 份 封 臣 的 邀 请 ！ ^^{s9}的 {s8}派 遣 了 一 个 皇 家 信 使 来 亲 自 递 送 这 份 邀 请 。 你 将 成 为 {s9}的 一 位 诸 侯 ， 从 此 被 人 以 {阁 下 / 女 士 }称 呼 ， 但 是 并 没 有 给 予 你 封 地 以 及 额 外 的 头 衔 ， 当 然 作 为 回 报 {s8}要 求 你 宣 誓 对 他 效 忠 并 与 他 一 起 加 入 他 的 远 征 。 他 许 诺 给 你 {s2}的 封 地 和 头 衔 ， 如 果 你 不 同 意 这 个 请 求 的 话 他 一 定 会 被 激 怒 的 ……
-menu_invite_player_to_faction_accepted|为 了 成 为 一 名 封 臣 ， 你 必 须 向 {s3}宣 誓 效 忠 。 你 必 须 找 到 他 并 当 面 发 誓 。 {s5}
-menu_question_peace_offer|你 收 到 了 一 份 停 战 的 邀 请 ^^{s1}发 给 你 一 份 停 战 邀 请 。 你 将 如 何 回 复 ？ 
+menu_invite_player_to_faction|你 收 到 了 一 份 封 臣 邀 请 ！ ^^{s9}的 {s8}派 王 家 信 使 亲 手 递 来 邀 请 。 你 将 获 封 为 {s9}的 封 臣 {reg59?女 男 爵 :男 爵 }， 作 为 回 报 ， {s8}要 求 你 宣 誓 效 忠 并 随 他 征 战 ， 并 赐 {s2}作 为 你 忠 勤 的 采 邑 。 若 拒 绝 ， 他 定 会 动 怒 … … 
+menu_invite_player_to_faction_accepted|要 成 为 封 臣 ， 你 必 须 向 {s3}宣 誓 效 忠 。 你 得 亲 自 找 到 他 ， 当 面 立 誓 。 {s5}
+menu_question_peace_offer|停 战 ^^{s1}向 你 提 出 和 平 协 议 。 你 意 下 如 何 ？ 
 mno_peace_offer_accept|接 受 
 mno_peace_offer_reject|拒 绝 
-menu_notification_sortie_possible|敌 报 ： 已 经 在 {s4}的 城 墙 外 发 现 敌 人 。 {s5}和 其 他 领 主 正 准 备 出 击 。 如 果 愿 意 的 话 你 可 以 加 入 他 们 。 
-menu_notification_casus_belli_expired|王 国 没 有 回 应 ^^{s1}没 有 回 应 {s2}的 挑 衅 ， 这 导 致 {s3}在 {reg4?她:他 }手 下 的 好 战 派 中 威 信 扫 地 ……^
-menu_notification_lord_defects|背 叛 ： {s4}已 经 抛 弃 了 {s5}并 且 加 入 了 {s7} ， 带 着 {reg4?她:他 }的 封 地 一 起 
+menu_notification_sortie_possible|敌 报 ： 在 {s4}城 墙 外 发 现 敌 军 ， {s5}等 人 正 准 备 出 击 。 你 可 自 行 决 定 是 否 加 入 。 
+menu_notification_casus_belli_expired|王 国 未 回 应 ^^{s1}未 回 应 {s2}的 挑 衅 ， {s3}在 {reg4?她 :他 }的 好 战 臣 民 中 威 信 扫 地 … … ^
+menu_notification_lord_defects|背 叛 ： {s4}已 背 弃 {s5}， 转 投 {s7}， 并 携 {reg4?她 :他 }的 采 邑 同 行 。 
 menu_notification_treason_indictment|叛 国 控 告 ^^{s9}
-menu_notification_border_incident|边 界 冲 突 ^^有 消 息 传 来 ， {s9} 。 虽 然 传 言 真 假 未 知 ， 但 有 件 事 是 确 定 的 — — 这 件 看 来 很 小 的 事 件 在 {s4}内 部 已 经 掀 起 轩 然 大 波 ， 使 得 与 {s3}的 战 争 一 触 即 发 ……
-menu_notification_player_faction_active|现 在 ， 这 片 土 地 被 冠 以 你 的 名 字 ， 而 不 跟 其 他 王 国 有 任 何 关 系 。 你 成 为 了 一 位 能 独 立 行 使 权 力 的 君 王 ， 你 的 宫 廷 暂 时 坐 落 在 {s12} 。 然 而 ， 在 北 地 的 其 他 国 王 的 第 一 反 应 ， 就 是 把 你 当 做 一 个 威 胁 ， 因 为 ， 如 果 每 一 个 强 势 的 军 阀 都 可 以 夺 取 王 位 ， 那 么 国 王 的 权 威 肯 定 会 受 到 质 疑 。 ^^你 可 能 觉 得 这 个 时 候 宣 誓 效 忠 于 一 个 现 有 的 国 家 ， 是 个 非 常 不 错 的 选 择 。 如 果 你 想 继 续 当 一 个 拥 有 主 权 的 君 王 ， 那 么 首 先 你 必 须 建 立 自 己 独 立 的 统 治 权 。 这 可 以 通 过 多 个 办 法 进 行 ， 比 如 与 出 身 高 贵 的 家 族 联 姻 ， 吸 纳 新 的 领 主 ， 管 理 你 的 领 地 ， 应 付 其 他 国 王 ， 以 及 派 遣 你 的 盟 友 去 执 行 任 务 。 ^^无 论 如 何 ， 你 首 先 要 从 你 的 同 伴 当 中 ， 任 命 一 位 首 相 ， 来 处 理 各 种 事 务 。 不 同 的 同 伴 有 不 同 的 才 能 。 ^你 可 以 不 时 地 更 换 你 的 首 相 人 选 ， 还 可 以 通 过 与 首 相 对 话 ， 改 变 你 的 宫 廷 的 所 在 地 。 
-mno_appoint_spouse|任 命 你 的 夫 人 ， {s10}……
+menu_notification_border_incident|边 境 冲 突 ^^消 息 称 {s9}。 虽 不 知 真 假 ， 但 此 事 已 在 {s4}激 起 民 愤 ， 使 对 {s3}开 战 更 易 … … 
+menu_notification_player_faction_active|你 如 今 名 下 拥 有 土 地 ， 却 不 依 附 任 何 王 国 。 这 让 你 自 成 君 主 ， 朝 廷 暂 设 {s12}。 然 而 北 境 诸 王 初 时 会 视 你 为 威 胁 ， 因 为 若 随 便 哪 个 暴 发 户 都 能 夺 位 ， 他 们 自 己 的 正 统 就 受 质 疑 。 ^^此 刻 你 或 许 该 向 现 存 王 国 宣 誓 效 忠 。 若 想 继 续 为 独 立 君 主 ， 首 要 之 务 便 是 确 立 统 治 的 正 当 性 。 你 可 以 通 过 联 姻 高 门 、 招 募 新 领 主 、 治 理 领 地 、 与 他 王 交 涉 或 派 遣 同 伴 执 行 任 务 来 确 立 正 统 。 ^^无 论 如 何 ， 第 一 步 应 从 同 伴 中 任 命 一 位 大 臣 ， 以 处 理 国 务 。 不 同 同 伴 各 有 所 长 。 ^你 可 随 时 更 换 大 臣 ， 也 可 与 大 臣 对 话 迁 移 朝 廷 。 
+mno_appoint_spouse|任 命 你 的 妻 子 {s10}… … 
 mno_appoint_npc1|任 命 {s10}
 mno_appoint_npc2|任 命 {s10}
 mno_appoint_npc3|任 命 {s10}
@@ -579,810 +551,776 @@ mno_appoint_npc13|任 命 {s10}
 mno_appoint_npc14|任 命 {s10}
 mno_appoint_npc15|任 命 {s10}
 mno_appoint_npc16|任 命 {s10}
-mno_appoint_default|任 命 当 地 的 杰 出 人 才 ……
-menu_minister_confirm|{s9}正 在 你 {s12}的 大 厅 里 。 你 应 该 不 时 向 大 臣 咨 询 意 见 ， 以 免 悬 疑 不 决 的 事 项 削 弱 你 的 权 力 。 
-menu_notification_player_faction_deactive|你 的 王 国 失 去 了 所 有 的 领 地 。 
-menu_notification_player_wedding_day|{s8}想 告 诉 你 ， 你 在 {s10}即 将 举 行 的 婚 礼 已 经 准 备 就 绪 ， 望 你 尽 快 出 席 。 
-menu_notification_center_under_siege|{s1}被 {s3}的 {s2}围 攻 了 ！ ^^城 镇 被 敌 人 围 攻 ， 守 军 有 足 够 的 防 御 ， 他 们 希 望 能 够 抵 挡 敌 军 。 
-menu_notification_village_raided|敌 人 袭 击 了 你 的 领 地 ^^{s1}被 {s3}的 {s2}洗 劫 了 ！ 
-menu_notification_village_raid_started|你 的 村 子 正 受 到 袭 击 ！ ^^{s3}的 {s2}正 在 破 坏 {s1} 。 
-menu_notification_one_faction_left|北 地 被 一 个 王 国 征 服 了 。 ^^{s1}打 败 了 所 有 对 手 并 建 立 了 一 个 统 一 的 王 国 。 ^^你 是 不 列 颠 之 王 ！ 
-menu_notification_oath_renounced_faction_defeated|你 从 前 所 属 的 势 力 被 击 败 了 ^^你 在 与 {s1}的 战 斗 中 取 胜 了 ！ 你 从 这 个 势 力 中 脱 离 了 出 去 。 
-menu_notification_center_lost|领 地 失 去 ^^因 为 {s2}你 失 去 了 {s1} 。 
-menu_notification_troop_left_players_faction|背 叛 ！ ^^{s1}从 {s2}离 开 了 ， 并 加 入 了 {s3} 。 
-menu_notification_troop_joined_players_faction|好 消 息 ！ ^^{s1}从 {s2}离 开 了 ， 并 加 入 了 {s3} 。 
-menu_notification_war_declared|宣 战 ^^{s1}向 {s2}宣 战 ！ ！ ^{s57}^^铁 匠 们 停 止 生 产 犁 转 而 锻 造 剑 与 矛 。 战 争 爆 发 了 ！ 
-menu_notification_peace_declared|和 平 协 议 ^^{s1}和 {s2}达 成 了 和 平 协 议 ！ ^{s57}^^两 国 军 队 停 止 了 战 斗 ， 这 或 许 只 是 暂 时 的 停 战 ， 另 外 一 场 战 争 正 在 酝 酿 ， 也 可 能 是 真 挚 而 又 持 久 的 友 好 关 系 。 
-menu_notification_alliance_declared|结 盟 协 议 ^^{s1}和 {s2}结 成 了 联 盟 ^{s57}^^两 国 将 他 们 的 命 运 结 合 在 一 起 ， 更 加 强 大 起 来 了 。 
-menu_notification_alliance_offer|{s1}想 和 你 组 成 联 盟 ， 你 的 答 复 是 ？ 
+mno_appoint_default|任 命 当 地 一 位 显 贵 … … 
+menu_minister_confirm|{s9}可 在 {s12}的 朝 廷 找 到 。 你 应 定 期 咨 询 大 臣 ， 以 免 积 压 未 决 事 务 削 弱 权 威 … … 
+menu_notification_player_faction_deactive|你 的 王 国 已 不 剩 寸 土 。 
+menu_notification_player_wedding_day|{s8}禀 报 ： {s10}的 婚 礼 已 筹 备 完 毕 ， 请 你 即 刻 驾 临 。 
+menu_notification_center_under_siege|{s1}遭 {s3}的 {s2}围 攻 ！ ^^该 聚 落 被 围 ， 战 士 们 已 备 武 器 与 石 块 ， 誓 要 抗 敌 。 
+menu_notification_village_raided|领 地 遭 劫 ^^{s1}被 {s3}的 {s2}劫 掠 ！ 
+menu_notification_village_raid_started|你 的 村 庄 正 遭 攻 击 ！ ^^{s3}的 {s2}正 在 蹂 躏 {s1}。 
+menu_notification_one_faction_left|北 境 被 一 国 征 服 ^^{s1}已 击 败 所 有 对 手 ， 成 为 唯 一 的 王 国 。 ^^你 是 不 列 颠 共 主 ！ 
+menu_notification_oath_renounced_faction_defeated|你 旧 日 阵 营 覆 灭 ^^你 战 胜 了 {s1}！ 自 你 背 弃 誓 言 起 ， 这 场 斗 争 终 于 落 幕 。 
+menu_notification_center_lost|一 处 庄 园 失 守 ^^你 把 {s1}丢 给 了 {s2}。 
+menu_notification_troop_left_players_faction|背 叛 ！ ^^{s1}已 离 开 {s2}， 转 投 {s3}。 
+menu_notification_troop_joined_players_faction|喜 讯 ！ ^^{s1}已 离 开 {s2}， 转 投 {s3}。 
+menu_notification_war_declared|宣 战 ^^{s1}向 {s2}宣 战 ！ ^{s57}^^铁 匠 们 不 再 打 犁 ， 转 而 锻 造 剑 与 矛 。 战 争 已 爆 发 ！ 
+menu_notification_peace_declared|和 平 协 议 ^^{s1}与 {s2}缔 结 和 平 ！ ^{s57}^^双 方 停 战 。 也 许 这 只 是 暂 时 的 喘 息 ， 有 人 暗 中 备 战 ； 也 许 和 平 真 诚 而 长 久 。 
+menu_notification_alliance_declared|结 盟 协 议 ^^{s1}与 {s2}结 成 同 盟 ！ ^{s57}^^两 国 命 运 相 连 ， 如 今 更 加 强 大 。 
+menu_notification_alliance_offer|{s1}提 议 与 你 结 盟 ， 你 意 下 如 何 ？ 
 mno_offer_accept|接 受 
 mno_offer_reject|拒 绝 
-menu_notification_kingdom_reborn|暴 动 ！ ^^人 们 打 败 了 {s13} 并 拿 走 了 他 们 的 武 器 ， {s14} 把 领 地 从 {s12} 手 中 抢 走 了 。 {s13} 已 经 被 重 建！ 国 王 万 岁！ 
-menu_notification_center_restoration|当 地 暴 动 ！ ^^ {s12} 的 人 民 拿 起 了 武 器 并 恢 复 了 {s11}.
-menu_notification_faction_defeated|阵 营 覆 灭 ^^{s1}不 再 存 在 了 。 
-menu_notification_rebels_switched_to_faction|成 功 叛 变 ^^你 的 叛 变 十 分 成 功 ！ 现 在 你 的 势 力 将 {s12}尊 为 {s11}唯 一 的 统 治 者 。 
-menu_notification_player_should_consult|你 的 首 相 传 话 来 说 ， 王 国 内 部 有 些 问 题 正 在 酝 酿 ， 如 果 不 及 时 处 理 的 话 会 逐 渐 威 胁 到 你 的 王 权 。 你 必 须 尽 早 与 他 进 行 磋 商 。 
-menu_banquete_moral|你 命 令 士 兵 们 卸 下 武 器 ， 然 后 邀 请 他 们 进 入 大 厅 ， 并 且 逐 级 而 座 ， 最 亲 密 的 人 则 坐 在 你 最 近 。 ^女 佣 们 以 丰 盛 的 菜 肴 和 蜜 酒 款 待 着 来 宾 。 你 为 这 场 盛 宴 支 付 了 一 笔 巨 额 的 账 单 ， 不 过 你 认 为 你 的 部 下 们 应 当 享 有 这 一 切 。 ^因 为 他 们 是 与 你 同 生 共 死 、 助 你 横 扫 千 军 的 人 ， 他 们 也 是 对 你 无 比 忠 诚 的 追 随 者 。 ^夜 深 了 ， 许 多 人 喝 得 烂 醉 如 泥 ， 有 的 又 叫 又 唱 ， 而 一 些 人 呕 吐 不 止 ， 其 他 人 则 为 了 吸 引 姑 娘 们 的 青 睐 而 像 斗 鸡 一 样 打 闹 。 ^在 你 背 后 ， 吟 游 诗 人 歌 颂 着 你 的 丰 功 伟 绩 和 英 雄 荣 耀 。 你 像 领 主 一 样 行 动 ， 你 也 确 实 是 个 领 主 ， 一 个“ 牧 人” 。 
-mno_banquete_ok|你 与 士 兵 们 一 起 大 喝 大 笑 大 叫 。 
-mno_banquete_ok2|你 打 算 保 持 清 醒 ， 细 细 品 尝 佳 酿 ， 直 到 你 微 醉 为 止 ， 而 不 超 出 分 量 。 
-menu_comprar_cattle2|总 共 有 {reg5}头 牛 ， 每 头 {reg6} 先 令 。 您 想 买 多 少 ？ 
-mno_cattle_okc|1头 。 
-mno_cattle_ok2c|5头 。 
+menu_notification_kingdom_reborn|起 义 ！ ^^{s13}的 遗 民 再 度 拿 起 武 器 ， {s14}从 {s12}手 中 夺 回 一 块 封 地 。 {s13}复 国 ！ 国 王 万 岁 ！ 
+menu_notification_center_restoration|地 方 起 义 ！ ^^{s12}的 民 众 武 装 起 来 ， 夺 回 了 {s11}。 
+menu_notification_faction_defeated|阵 营 覆 灭 ^^{s1}已 不 复 存 在 ！ 
+menu_notification_rebels_switched_to_faction|起 义 成 功 ^^你 的 起 义 大 获 全 胜 ！ 如 今 你 的 阵 营 独 揽 {s11}之 名 ， {s12}成 为 唯 一 统 治 者 。 
+menu_notification_player_should_consult|你 的 大 臣 传 话 ： 国 内 暗 流 涌 动 ， 若 放 任 不 管 ， 恐 将 削 弱 你 的 权 威 。 你 应 尽 快 与 他 商 议 。 
+menu_banquete_moral|命 部 下 解 剑 于 外 ， 邀 他 们 入 大 厅 ， 按 位 次 就 座 。 最 亲 近 者 紧 靠 你 而 坐 。 ^侍 女 端 上 成 堆 的 肉 与 蜜 酒 。 你 为 这 场 盛 宴 花 费 不 菲 ， 因 他 们 值 得 。 ^他 们 与 你 浴 血 奋 战 ， 助 你 征 服 疆 土 ， 是 忠 诚 的 追 随 者 。 ^夜 色 渐 深 ， 醉 汉 们 或 歌 或 吼 ， 有 人 跑 去 呕 吐 ， 有 人 为 博 姑 娘 一 笑 斗 如 公 鸡 。 ^你 身 后 ， 吟 游 诗 人 颂 唱 你 的 威 权 与 功 绩 。 你 举 止 如 领 主 ， 你 本 就 是 领 主 ， 是 “ 众 人 之 牧 ” 。 
+mno_banquete_ok|你 与 他 们 同 饮 同 笑 同 喊 。 
+mno_banquete_ok2|你 保 持 清 醒 ， 只 略 尝 杯 中 物 ， 绝 不 多 饮 。 
+menu_comprar_cattle2|共 有 {reg5}头 牛 ， 每 头 {reg6}银 便 士 。 你 想 买 几 头 ？ 
+mno_cattle_okc|一 。 
+mno_cattle_ok2c|五 。 
 mno_cattle_ok3c|算 了 。 
-menu_notification_lady_requests_visit|一 位 老 妇 人 找 到 了 你 的 部 队 ， 给 了 你 手 下 一 封 纯 蜡 密 封 着 的 信 。 地 址 是 写 给 你 的 。 当 你 打 这 封 信 时 ， 发 现 是 {s15}写 来 的 。 上 面 说 ：“ 上 次 来 访 ， 相 聚 甚 欢 。 {s14} 。 我 现 在 {s10} ， {s12} 。” 
-mno_continuewo|让 那 个 女 人 通 知 她 的 女 主 人 ， 你 很 快 就 会 来 的 。 
-mno_continuewo2|让 那 个 女 人 通 知 她 的 女 主 人 ， 你 不 愿 意 。 
-mno_nurse|在 泉 水 边 等 待 
-mno_nurse2|等 到 春 天 
-menu_kill_local_merchant_begin|你 发 现 了 你 的 目 标 ， 他 转 弯 走 进 了 一 条 背 街 的 巷 子 。 这 将 是 你 发 起 袭 击 的 最 好 时 机 。 
+menu_notification_lady_requests_visit|一 位 老 妇 人 走 近 你 的 队 伍 ， 把 一 封 用 素 蜡 封 口 的 书 信 递 给 你 的 手 下 。 信 是 写 给 你 的 。 你 拆 开 蜡 封 ， 发 现 是 {s15}所 写 。 信 上 写 道 ： “ 上 次 来 访 ， 十 分 愉 快 。 {s14}我 此 刻 在 {s10}。 {s12}” 
+mno_continuewo|让 那 妇 人 转 告 她 的 女 主 人 ， 你 即 刻 便 到 。 
+mno_continuewo2|让 那 妇 人 转 告 她 的 女 主 人 ， 你 身 体 不 适 。 
+mno_nurse|与 护 士 同 行 
+mno_nurse2|在 泉 边 等 候 
+menu_kill_local_merchant_begin|你 发 现 目 标 ， 尾 随 其 后 ， 见 他 拐 进 一 条 幽 暗 小 巷 。 此 刻 正 是 下 手 的 绝 佳 机 会 。 
 menu_debug_alert_from_s65|调 试 警 报 ： {s65}
 menu_auto_return_to_map|树 桩 
-mno_continue_1l|进 攻 贼 巢 ……
-mno_trade_withbanditsl|把 赃 物 卖 给 强 盗 。 
-mno_leave_no_attackl|离 开 ……
-mno_leave_victoryl|继 续 ……
-mno_leave_defeatl|继 续 ……
-menu_notification_player_faction_political_issue_resolved|经 过 和 王 国 贵 族 们 的 商 议 ， {s10}已 经 决 定 授 予 {s12}{s11} 。 
-menu_notification_player_faction_political_issue_resolved_for_player|经 过 和 王 国 贵 族 们 的 商 议 ， {s10}已 经 决 定 授 予 你 {s11} 。 你 可 以 拒 绝 这 项 任 命 ， 但 是 这 也 许 意 味 着 短 时 间 内 你 不 会 再 收 到 其 它 任 何 授 予 。 {s12}
-mno_accept|接 受 任 命 
-mno_decline|拒 绝 任 命 
-menu_establish_court|如 果 你 要 将 {s4}建 为 自 己 的 都 城 ， 就 需 要 把 它 翻 修 一 番 。 具 体 来 说 ， 你 需 要 一 套 工 具 以 及 一 些 银 子 ， 也 许 你 的 追 随 者 还 需 要 花 点 时 间 来 重 新 部 署 。 你 要 继 续 吗 ？ 
-mno_establish|将 {s4}建 为 你 的 都 城 
-mno_hold_off|等 等 ... 
-menu_notification_relieved_as_marshal|{s4}想 要 通 知 你 不 再 需 要 继 续 担 当 元 帅 之 职 了 。 不 过 ， 在 过 去 的 {reg4}天 里 ， 你 勇 于 维 护 国 家 的 利 益 ， 为 了 表 示 对 你 的 敬 意 ， {reg8?她:他 }赏 赐 给 你 {reg5} 先 令 。 
-menu_monasterio_visit|你 来 到 了 一 所 修 道 院 。 这 里 占 地 广 阔 ， 附 有 一 个 教 堂 ， 供 给 修 道 士 和 他 们 仆 人 的 房 间 ， 以 及 一 个 带 牲 畜 圈 的 园 地 ， 这 个 地 方 富 得 流 油 ！ ^^{s13}
-mno_enter_interiorm|拜 访 院 长 。 
-mno_enter_interiorm_door|前 往 院 长 处 。 
-mno_entermo|参 观 修 道 院 。 
+mno_continue_1l|进 攻 贼 巢 … … 
+mno_trade_withbanditsl|把 战 利 品 卖 给 山 贼 。 
+mno_leave_no_attackl|离 开 … … 
+mno_leave_victoryl|继 续 … … 
+mno_leave_defeatl|继 续 … … 
+menu_notification_player_faction_political_issue_resolved|经 与 王 国 贵 族 商 议 ， {s10}决 定 授 予 {s12}{s11}。 
+menu_notification_player_faction_political_issue_resolved_for_player|经 与 王 国 贵 族 商 议 ， {s10}决 定 授 予 你 {s11}。 你 可 以 拒 绝 这 份 荣 誉 ， 但 短 时 间 内 可 能 不 会 再 获 其 他 封 赏 。 {s12}
+mno_accept|接 受 荣 誉 
+mno_decline|拒 绝 荣 誉 
+menu_establish_court|如 果 你 要 把 {s4}设 为 你 的 宫 廷 ， 就 得 稍 作 修 缮 。 具 体 来 说 ， 你 需 要 一 套 工 具 和 一 些 银 便 士 ， 你 的 部 分 随 从 也 得 花 点 时 间 迁 来 。 要 继 续 吗 ？ 
+mno_establish|将 {s4}设 为 你 的 宫 廷 
+mno_hold_off|再 等 等 … … 
+menu_notification_relieved_as_marshal|{s4}想 通 知 你 ， 不 再 需 要 你 的 元 帅 之 职 。 然 而 ， 为 了 表 彰 你 在 过 去 {reg4}天 里 为 王 国 立 下 的 赫 赫 战 功 ， {reg8?她 :他 }赐 你 一 袋 {reg5}银 便 士 。 
+menu_monasterio_visit|你 来 到 一 座 修 道 院 。 这 里 占 地 广 阔 ， 有 教 堂 、 供 僧 侣 们 和 仆 役 居 住 的 房 舍 ， 还 有 带 畜 栏 的 大 花 园 。 此 地 显 然 富 甲 一 方 ！ ^^{s13}
+mno_enter_interiorm|拜 访 修 道 院 院 长 
+mno_enter_interiorm_door|前 往 院 长 处 
+mno_entermo|参 观 修 道 院 
 mno_entermo_door|离 开 。 
-mno_monasterio_recruitm|询 问 是 否 有 人 想 要 加 入 你 的 部 队 。 
-mno_donatemo|祈 祷 并 捐 赠 表 示 敬 意 。 (500 先 令 )
-mno_aprender_leermo|学 习 如 何 阅 读 。 (4000 先 令 )
-mno_convertirmo|转 信 基 督 教 。 
-mno_camp_wait_heremo|等 待 一 段 时 间 。 
-mno_pillage_monasterymo|抢 劫 修 道 院 。 
-mno_leavemo|离 开 。 
-menu_paganholysites_visit|你 来 到 了 一 个 神 庙 。 在 这 个 地 方 ， 古 老 的 斯 堪 的 纳 维 亚 神 在 这 里 被 崇 拜 。 这 个 地 方 存 着 大 量 的 财 富！ ^^{s13}
-mno_enter_hofho|进 入 神 庙 。 
+mno_monasterio_recruitm|询 问 是 否 有 人 愿 意 加 入 
+mno_donatemo|向 修 道 院 捐 赠 （ 500 银 便 士 ） 
+mno_aprender_leermo|学 习 识 字 （ 4000 银 便 士 ） 
+mno_convertirmo|皈 依 基 督 教 
+mno_camp_wait_heremo|在 此 稍 候 片 刻 。 
+mno_pillage_monasterymo|洗 劫 修 道 院 
+menu_paganholysites_visit|你 来 到 一 座 神 庙 。 这 里 供 奉 着 古 老 的 诺 斯 诸 神 ， 显 然 也 藏 有 大 量 财 富 ！ ^^{s13}
+mno_enter_hofho|进 入 神 庙 
 mno_enter_hofho_door|离 开 。 
-mno_hof_recruitho|尝 试 招 募 狂 战 士 。 
-mno_donate_hofho|向 神 庙 捐 款 (500 先 令 ) 。 
-mno_convertir_norsegho|转 而 跟 随 北 欧 众 神 。 
-mno_camp_wait_hereho|等 待 一 段 时 间 。 
-mno_pillage_hofho|掠 夺 神 庙 。 
-mno_leaveho|离 开 。 
-menu_saquear_monasterio|哪 里 有 财 富 ， 哪 里 就 有 杀 戮 。 你 将 手 下 缺 少 宗 教 约 束 的 人 派 遣 到 {s3} ， 不 留 活 口 ， 大 肆 掠 夺 。 火 焰 与 死 亡 在 这 里 四 处 蔓 延 。 你 所 掠 夺 的 财 产 和 战 利 品 共 值 {reg3} 先 令 。 ^^{s7}^^{s4}^
+mno_hof_recruitho|尝 试 招 募 狂 战 士 
+mno_donate_hofho|向 神 庙 捐 赠 （ 500 银 便 士 ） 
+mno_convertir_norsegho|转 而 追 随 诺 斯 诸 神 。 
+mno_camp_wait_hereho|在 此 稍 候 片 刻 。 
+mno_pillage_hofho|洗 劫 圣 祠 。 
+menu_saquear_monasterio|血 与 财 富 。 你 手 下 那 些 无 所 顾 忌 的 战 士 扑 向 {s3}， 见 人 就 杀 ， 把 财 宝 洗 劫 一 空 。 烈 火 与 死 亡 席 卷 此 地 。 你 夺 得 价 值 {reg3}银 便 士 的 战 利 品 。 ^^{!}{s4}。 
 mno_backho|离 开 此 地 。 
-menu_saquear_paganholysite|血 与 财 富 。 那 些 你 手 下 的 毫 无 顾 忌 的 战 士 们 冲 往 {s3} ， 杀 死 了 每 一 个 挡 在 他 们 路 上 的 人 并 掠 夺 着 财 富 。 猖 獗 的 火 焰 与 死 亡 席 卷 了 这 个 地 方 。 通 过 这 次 掠 夺 你 获 得 了 {reg3} 先 令 。 ^^{s7}^^{s4}^
+menu_saquear_paganholysite|血 与 财 富 。 你 手 下 那 些 无 所 顾 忌 的 战 士 扑 向 {s3}， 见 人 就 杀 ， 把 财 宝 洗 劫 一 空 。 烈 火 与 死 亡 席 卷 此 地 。 你 夺 得 价 值 {reg3}银 便 士 的 战 利 品 。 ^^{s7}^^{!}{s4}。 
 mno_backpa|离 开 此 地 。 
-menu_refugee_recruit_troops12|有 一 些 寡 妇 和 孤 儿 想 要 加 入 你 ， 并 且 希 望 和 你 的 战 士 们 开 始 一 段 新 的 生 活 。 
-mno_acept_themmo|雇 佣 他 们 (20 先 令 ) 。 
-mno_back_to_town_menumo|回 去 。 
-menu_refugee_recruit_troops22|没 人 想 要 加 入 你 。 
-menu_refugee_recruit_troops32|一 些 牧 师 和 农 民 想 要 加 入 你 的 部 队 。 
-mno_acept_themmo2|雇 佣 他 们 。 (60 先 令 )
-menu_refugee_recruit_troops42|一 些 教 士 和 年 轻 的 勇 士 想 要 加 入 你 的 部 队 。 
-mno_acept_themmo3|雇 佣 他 们 。 (400 先 令 )
-menu_berserker_recruit_2troop|这 里 有 两 个 狼 皮 狂 战 士 可 以 加 入 你 的 部 队 。 
+menu_refugee_recruit_troops12|离 开 此 地 。 
+mno_acept_themmo|有 些 寡 妇 和 孤 儿 想 加 入 你 们 ， 希 望 与 士 兵 们 开 始 新 生 活 。 
+menu_refugee_recruit_troops22|雇 佣 他 们 。 （ 20 银 便 士 ） 
+menu_refugee_recruit_troops32|无 人 愿 意 加 入 。 
+mno_acept_themmo2|雇 佣 他 们 。 （ 60 银 便 士 ） 
+menu_refugee_recruit_troops42|有 一 名 教 士 和 一 些 青 年 勇 士 想 加 入 你 的 军 队 。 
+mno_acept_themmo3|雇 佣 他 们 。 （ 400 银 便 士 ） 
+menu_berserker_recruit_2troop|有 两 名 狼 皮 狂 战 士 可 以 加 入 你 。 
 mno_acept_thempa|欢 迎 他 们 ！ 
-mno_back_to_town_menupa|回 去 。 
-menu_berserker_recruit_troop|这 里 有 两 个 狂 战 士 可 以 加 入 你 的 部 队 。 
+menu_berserker_recruit_troop|有 一 名 狂 战 士 可 以 加 入 你 。 
 mno_acept_thempa2|欢 迎 他 ！ 
-mno_back_to_town_menupa2|回 去 。 
-menu_nonberserker_avaiable_troop|狂 战 士 们 并 不 愿 意 加 入 你 的 部 队 。 
-menu_nonberserker_renown_low|你 看 起 来 像 一 个 乞 丐 ， 并 不 像 是 一 个 值 得 追 随 的 领 主 。 你 需 要 更 多 的 声 望 ( 大于 150 ) 才 能 让 狂 战 士 加 入 你 的 部 队 。 
-menu_panel_comandante|开 始 战 斗 前 …
-mno_choice_1comm|用 振 奋 人 心 的 演 讲 来 激 励 你 的 士 兵 。 
-mno_choice_2comm|以 荣 誉 之 名 ， 向 敌 人 发 起 决 斗 。 
-mno_choice_3comm|游 击 ： 派 你 的 人 去 搅 扰 敌 军 的 前 进 。 
-mno_choice_4comm|向 众 神 献 祭 。 
-mno_choice_5comm|算 了 。 
-menu_escaramuza_1|长 官 ， 不 好 了 ！ 敌 军 指 挥 官 破 解 了 你 的 战 术 ， 我 们 还 被 敌 人 的 远 程 部 队 打 了 个 措 手 不 及 。 ^^我 军 伤 亡 人 数 ： {s8}
+menu_nonberserker_avaiable_troop|狂 战 士 们 不 愿 加 入 你 。 
+menu_nonberserker_renown_low|你 像 个 乞 丐 ， 根 本 不 像 值 得 追 随 的 领 袖 。 你 需 要 更 高 的 声 望 （ >150） 才 能 让 狂 战 士 加 入 你 的 队 伍 。 
+menu_panel_comandante|战 斗 打 响 之 前 … … 
+mno_choice_1comm|用 慷 慨 激 昂 的 演 说 点 燃 士 兵 的 斗 志 。 
+mno_choice_2comm|以 荣 誉 之 名 ， 邀 敌 将 单 挑 。 
+mno_choice_3comm|游 击 ： 派 兵 袭 扰 敌 军 推 进 。 
+mno_choice_4comm|向 诸 神 献 祭 。 
+mno_choice_5comm|按 兵 不 动 。 
+menu_escaramuza_1|{reg59?夫 人 :长 官 }， 敌 军 统 帅 识 破 了 我 的 布 阵 。 我 们 尚 未 列 阵 ， 便 遭 敌 弓 弩 突 袭 ， 伤 亡 惨 重 。 ^^我 军 伤 亡 ： {s8}
 mno_damn|该 死 ！ 
-menu_escaramuza_2|我 们 的 士 兵 早 已 悄 悄 埋 伏 在 对 方 附 近 的 盲 点 处 ， 很 顺 利 地 接 近 敌 人 并 发 动 了 奇 袭 ， 重 创 了 他 们 。 ^^敌 军 伤 亡 人 数 ： {s9}
+menu_escaramuza_2|我 军 及 时 展 开 ， 逼 近 敌 阵 ， 重 创 敌 军 后 撤 回 。 ^^敌 军 伤 亡 ： {s8}
 mno_defendiendo_2e|干 得 漂 亮 。 
-menu_escaramuza_3|我 们 的 士 兵 在 靠 近 敌 军 的 时 候 ， 发 现 了 对 方 的 指 挥 官 已 部 署 好 了 远 程 部 队 来 掩 护 其 余 士 兵 的 前 进 。 为 了 避 免 不 必 要 的 伤 亡 ， 我 们 的 士 兵 放 弃 攻 击 并 迅 速 撤 退 。 
-mno_defendiendo_3e|是 的 。
-menu_lucha_2_no|看 来 对 方 无 人 应 战 。 
-mno_defendiendo_4e|后 退 。 
-menu_lucha_1_d|一 名 敌 军 武 士 单 枪 匹 马 走 向 你 的 军 队 ， 几 乎 进 入 了 你 们 投 石 射 程 之 内 。 他 将 脖 子 上 的 羊 皮 脱 下 ， 可 以 看 到 他 正 在 跳 跃 准 备 热 身 。 他 把 斗 篷 甩 到 一 边 ， 脱 掉 长 袍 和 靴 子 后 近 乎 全 裸 ， 只 拿 着 盾 牌 和 长 矛 。 他 是 敌 人 中 的 冠 军 武 士 ， 指 着 你 的 军 队 向 你 们 发 起 挑 战 。 ^^你 还 没 来 得 及 开 口 ， 一 个 家 伙 从 队 列 中 跑 出 来 。 他 既 不 是 老 兵 也 算 不 上 很 有 实 力 的 人 ， 但 他 非 常 勇 敢 。 ^^你 的 武 士 ， 你 的 冠 军 武 士 向 敌 人 前 进 。 他 们 相 互 绕 着 圈 子 对 峙 ， 模 仿 着 对 方 的 行 动 。 你 的 武 士 的 神 经 终 于 崩 溃 ， 他 开 始 放 低 盾 牌 用 长 矛 不 停 猛 戳 ， 而 敌 方 武 士 则 抓 住 这 个 机 会 ， 迅 速 将 长 矛 刺 入 你 的 武 士 的 心 脏 … ^^你 输 掉 了 决 斗 。 
-mno_defendiendo_5e|后 退 。 
-menu_lucha_2_v|你 的 武 士 走 出 队 伍 大 摇 大 摆 地 晃 到 敌 人 军 前 ， 转 身 掀 起 衣 服 ， 对 着 敌 人 撅 起 屁 股 。 敌 人 的 冠 军 武 士 愤 怒 地 冲 向 他 ， 扔 出 一 根 标 枪 ， 落 在 了 离 你 武 士 几 步 远 的 地 方 ， 随 后 敌 人 的 武 士 拔 剑 怒 吼 着 向 你 的 武 士 冲 来 。 ^^你 的 武 士 迅 速 做 好 迎 战 准 备 ， 攥 着 长 矛 等 待 敌 人 。 两 个 武 士 都 用 自 己 的 盾 牌 相 互 撞 击 ， 想 让 对 方 先 露 出 破 绽 。 ^^仔 细 看 ， 你 看 到 了 决 斗 中 的 第 一 滴 血 ， 直 到 最 后 一 滴 ， 是 你 的 武 士 把 长 矛 捅 进 了 敌 人 的 嘴 里 。 你 的 武 士 屏 住 呼 吸 然 后 转 身 大 喊:“ 我 可 不 是 能 一 口 吃 下 的 ！” ^^你 赢 得 了 决 斗 。 
-mno_defendiendo_6e|后 退 。 
-menu_lucha_1_p|对 方 首 领 走 出 队 列 用 手 指 着 你 ， 要 你 和 他 决 斗 。 
-mno_defendiendo_7e|Accept.
-mno_defendiendo_8e|后 退 。 
-menu_sacrificio_off|神 明 仍 然 对 你 的 祈 祷 和 牺 牲 缄 默 不 语 。 
-mno_sacri_1s|后 退 。 
-menu_sacrificio_1|宰 杀 掉 的 动 物 的 内 脏 中 都 是 蛆 虫 ， 这 是 一 个 不 祥 之 兆 。 ^^也 许 今 天 不 应 该 出 战 。 
-mno_sacri_1s2|后 退 。 
-menu_sacrificio_2|当 你 看 着 被 宰 杀 的 动 物 流 血 时 ， 一 名 士 兵 指 向 天 边 ， 发 现 有 一 只 叼 着 蛇 的 鹰 。 真 是 个 好 兆 头 。 ^^进 攻 的 时 机 已 经 成 熟 。 
-mno_sacri_1s3|后 退 。 
-menu_sacrificio_3|当 你 把 匕 首 刺 进 牲 口 的 脖 子 时 ， 它 从 你 的 手 下 挣 脱 出 去 跑 了 几 步 后 倒 在 地 上 ， 面 向 着 敌 军 。 这 只 能 是 一 个 不 祥 的 征 兆 。 ^^也 许 今 天 不 该 作 战 。 
-mno_sacri_1s4|后 退 。 
-menu_sacrificio_4|当 挖 开 被 屠 宰 动 物 的 肠 子 时 ， 你 发 现 了 一 个 银 吊 坠 环 。 这 肯 定 是 个 好 兆 头 。 ^^你 已 准 备 好 作 战 。 
-mno_sacri_1s5|后 退 。 
-menu_discurso_off|你 上 前 一 步 想 说 出 些 居 高 临 下 的 话 ， 但 是 没 用 ， 你 的 神 经 太 脆 弱 ， 你 一 个 字 也 说 不 出 来 。 
-mno_defendiendo_1_bd|后 退 。 
-menu_discurso_1|你 在 队 伍 中 前 进 ， 向 士 兵 们 演 讲 ， 你 看 着 每 一 名 士 兵 的 眼 睛 ， 试 着 传 达 这 个 时 刻 非 同 寻 常 的 意 义 ： ^^“ 当 村 庄 里 年 轻 的 小 伙 子 和 漂 亮 姑 娘 们 问 起 你 的 伤 疤 时 ， 你 可 以 告 诉 他 们 ， 你 是 一 名 全 不 列 颠 和 爱 尔 兰 最 伟 大 的 将 领 所 率 领 的 军 队 中 的 战 士 。” 
-mno_defendiendo_1_cd|精 彩 的 演 讲，后 退 。
-menu_discurso_2|你 在 队 伍 中 前 进 ， 向 士 兵 们 演 讲 ， 你 看 着 每 一 名 士 兵 的 眼 睛 ， 试 着 传 达 这 个 时 刻 非 同 寻 常 的 意 义 ： ^^“ 当 村 庄 里 年 轻 的 小 伙 子 和 漂 亮 姑 娘 们 问 起 你 的 伤 疤 时 ， 你 可 以 告 诉 他 们 ， 你 是 一 名 全 不 列 颠 和 爱 尔 兰 最 伟 大 的 将 领 所 率 领 的 军 队 中 的 战 士 。” 
-mno_defendiendo_1_dd|一 般 的 演 讲，后 退 。
-menu_discurso_3|你 在 队 伍 中 前 进 ， 向 士 兵 们 演 讲 ， 你 看 着 每 一 名 士 兵 的 眼 睛 ， 试 着 传 达 这 个 时 刻 非 同 寻 常 的 意 义 ： ^^“ 想 想 看 ， 在 不 列 颠 ， 那 些 胆 小 鬼 们 和 老 弱 病 残 放 羊 ， 种 地 ， 流 尽 血 汗 ， 能 得 到 什 么 ？ 什 么 也 没 有 ！ 他 们 就 像 畜 牲 一 样 活 着 ！ 今 天 我 们 作 为 自 由 人 站 在 这 里 ， 真 正 的 事 业 正 要 开 始 ， 我 们 的 汗 水 和 鲜 血 正 在 沸 腾 ， 为 了 什 么 ？ 为 了 荣 誉 ！ 为 了 光 荣 ！ 为 了 财 富 ！” 
-mno_defendiendo_1_ed|好 的 演 讲 ，后 退 。
-menu_discurso_4|你 在 队 伍 中 前 进 ， 向 士 兵 们 演 讲 ， 你 看 着 每 一 名 士 兵 的 眼 睛 ， 试 着 传 达 这 个 时 刻 非 同 寻 常 的 意 义 ： ^^“ 在 我 们 所 穿 越 的 土 地 上 ， 在 我 们 直 面 命 运 的 战 场 上 ， 在 此 时 此 刻 ， 即 便 当 我 们 所 有 人 的 生 命 都 消 逝 了 很 久 ， 人 们 仍 然 会 在 歌 中 传 唱 我 们 的 名 字 。 他 们 要 歌 颂 我 们 在 这 个 战 场 上 创 造 的 伟 大 和 荣 耀 ！” ？ 
-mno_defendiendo_1_fd|好 的 演 讲 ，后 退 。
-menu_discurso_5|你 在 队 伍 中 前 进 ， 向 士 兵 们 演 讲 ， 你 看 着 每 一 名 士 兵 的 眼 睛 ， 试 着 传 达 这 个 时 刻 非 同 寻 常 的 意 义 ： ^^“ 兄 弟 们 ！ 你 们 生 而 成 长 为 一 个 男 人 ， 昨 天 我 们 进 军 ， 今 天 我 们 将 要 战 斗 ！ 今 天 我 们 要 让 敌 人 流 血 ， 让 他 们 溃 不 成 军 。 今 天 我 们 要 粉 碎 敌 人 的 盾 牌 。 你 们 所 经 历 过 的 每 一 天 注 定 了 今 天 的 成 就 。 今 天 我 们 像 兄 弟 一 样 战 斗 ， 今 夜 我 们 要 在 敌 人 的 桌 子 上 举 办 盛 宴 ！” 
-mno_defendiendo_1_gd|好 的 演 讲 ，后 退 。
-menu_discurso_6|你 在 队 伍 中 前 进 ， 向 士 兵 们 演 讲 ， 你 看 着 每 一 名 士 兵 的 眼 睛 ， 试 着 传 达 这 个 时 刻 非 同 寻 常 的 意 义 ： ^^“ 战 士 们 ！ 我 的 兄 弟 们 ！ 瞧 ， 我 们 已 经 走 了 这 么 多 天 ， 而 战 利 品 正 等 待 着 你 们 ！ 财 富 ， 荣 耀 ， 都 来 自 于 敌 人 的 痛 苦 呻 吟 ！ 现 在 前 进 ！ 向 命 运 前 进 ！ 夺 取 你 的 战 利 品 ！ 战 斗 ！ 战 斗 ！ 战 斗 ！” 
-mno_defendiendo_1_hd|后 退 。 
-menu_discurso_7|你 在 队 伍 中 前 进 ， 向 士 兵 们 演 讲 ， 你 看 着 每 一 名 士 兵 的 眼 睛 ， 试 着 传 达 这 个 时 刻 非 同 寻 常 的 意 义 ： ^^“ 朋 友 们 ！ 听 我 说 ！ 今 天 就 是 用 我 们 敌 人 的 血 写 下 曲 谱 的 时 候 ！ 你 们 是 自 由 的 人 ！ 任 何 人 都 不 可 侵 犯 我 们 的 土 地 ， 勇 敢 地 站 出 来 。 在 我 们 面 前 是 巨 大 的 挑 战 ， 但 他 们 不 是 为 了 自 己 的 家 园 而 战 ， 而 是 在 掠 夺 你 们 的 土 地 。 他 们 一 定 会 失 败 ！ 准 备 好 你 的 长 矛 ！ 坚 持 住 ， 永 不 屈 服 ！ 懦 夫 没 有 荣 誉 ！ 战 斗 至 死 ， 决 不 屈 服 ！” 
-mno_defendiendo_1_id|好 的 演 讲 ，后 退 。
-menu_discurso_8|你 在 队 伍 中 前 进 ， 向 士 兵 们 演 讲 ， 你 看 着 每 一 名 士 兵 的 眼 睛 ， 试 着 传 达 这 个 时 刻 非 同 寻 常 的 意 义 ： ^^“ 士 兵 们 ， 我 们 正 站 在 敌 人 的 面 前 ， 准 备 好 战 斗 。 拿 好 你 的 剑 ！ 握 紧 你 的 枪 ！ 这 个 盾 墙 就 是 我 们 的 家 园 ， 让 我 们 欢 迎 敌 人 吧 ！ 让 他 来 ！ 让 盾 墙 迎 接 他 们 ！ 我 们 需 要 力 量 和 勇 气 。 在 盾 墙 后 坚 守 ， 我 的 兄 弟 们 。 我 知 道 ， 在 每 个 人 的 胸 中 都 燃 烧 着 怒 火 ， 以 至 于 我 敢 说 这 些 盾 墙 保 护 的 是 敌 人 而 不 是 我 们 ！ 我 们 的 命 运 就 是 荣 耀 ！ 没 有 人 可 以 将 它 夺 走 ！” 
-mno_defendiendo_1_jd|好 的 演 讲 ，后 退 。
-menu_discurso_9|你 在 队 伍 中 前 进 ， 向 士 兵 们 演 讲 ， 你 看 着 每 一 名 士 兵 的 眼 睛 ， 试 着 传 达 这 个 时 刻 非 同 寻 常 的 意 义 ： ^^“ 来 吧 ， 男 子 汉 们 ， 让 我 们 在 战 场 上 面 对 我 们 的 敌 人 ！ 只 要 有 你 们 这 样 的 人 ， 在 这 些 胆 小 鬼 面 前 ， 我 们 的 盾 牌 永 远 不 会 被 打 破 ！ 像 古 代 的 英 雄 ， 让 我 们 去 屠 杀 敌 人 ， 每 个 人 都 会 成 为 英 雄 ， 每 个 人 都 是 一 个 真 正 的 男 人 ！ 这 一 天 ， 我 们 将 让 乌 鸦 饕 餮 大 餐 ！” 
-mno_defendiendo_1_kd|好 的 演 讲 ，后 退 。
-menu_discurso_10|你 在 队 伍 中 前 进 ， 向 士 兵 们 演 讲 ， 你 看 着 每 一 名 士 兵 的 眼 睛 ， 试 着 传 达 这 个 时 刻 非 同 寻 常 的 意 义 ： ^^“ 记 住 你 们 的 孩 子 和 妻 子 ， 记 住 你 的 家 庭 和 你 的 祖 先 ， 记 住 你 的 神 ， 记 住 一 切 ， 为 了 我 们 今 天 的 战 斗 。 我 们 来 这 里 是 为 了 建 设 一 个 更 美 好 的 世 界 ！ 我 们 的 对 手 不 仅 对 此 非 常 明 了 ， 而 且 害 怕 我 们 的 决 心 。 他 们 怕 得 直 尿 裤 子 ， 颤 抖 不 止 ， 根 本 无 法 抓 住 一 根 长 矛 。 男 子 汉 们 ！ 我 与 你 们 ， 与 剑 和 盾 牌 ， 流 血 流 汗 ， 自 豪 地 并 肩 作 战 ， 我 们 的 命 运 在 等 待 着 我 们 。 这 是 我 们 功 成 名 就 的 时 候 了 ！” 
-mno_defendiendo_1_l|好 的 演 讲 ，后 退 。
-menu_discurso_11|你 在 队 伍 中 前 进 ， 向 士 兵 们 演 讲 ， 你 看 着 每 一 名 士 兵 的 眼 睛 ， 试 着 传 达 这 个 时 刻 非 同 寻 常 的 意 义 ： ^^“ 让 我 们 离 开 这 个 燃 烧 熊 熊 烈 火 的 地 方 ， 转 移 到 开 阔 的 地 方 ， 站 起 来 面 对 我 们 的 敌 人 。 死 去 的 战 士 将 与 上 帝 同 在 。 他 是 不 死 的 ， 他 的 名 字 将 成 为 荣 耀 。 我 将 第 一 个 冲 锋 ， 我 做 什 么 ， 你 们 就 做 什 么 。 上 帝 为 我 作 证 ， 我 永 远 不 会 离 开 你 们 ， 我 的 兄 弟 和 骑 士 们 ！” 。 
-mno_defendiendo_1_ll|后 退 。 
-menu_discurso_12|你 在 队 伍 中 前 进 ， 向 士 兵 们 演 讲 ， 你 看 着 每 一 名 士 兵 的 眼 睛 ， 试 着 传 达 这 个 时 刻 非 同 寻 常 的 意 义 ： ^^“ 太 阳 将 在 今 晚 不 再 落 下 ， 为 我 们 照 亮 敌 人 ， 而 我 们 将 如 沐 春 风 。 可 能 你 们 在 紧 张 发 抖 了 ， 但 他 们 不 过 是 秋 风 中 的 瑟 瑟 落 叶； 我 们 咆 哮 的 暴 风 雨 将 把 他 们 粉 碎 在 草 地 上 ， 消 失 无 踪 。 挥 动 你 的 长 矛 ， 像 闪 电 一 样 击 倒 他 们 。 这 块 土 地 是 属 于 我 们 的 — — 这 些 树 林 ， 这 些 山 ， 这 些 田 野 — — 一 季 又 一 季 ， 一 年 又 一 年 ， 直 到 永 远 ！” 
-mno_defendiendo_1_m|精 彩 的 演 讲，后 退 。
-menu_doccinga_messenger|来 了 一 个 农 民 ， 赶 着 一 匹 肮 脏 的 骡 子 。 他 在 你 面 前 停 下 ， 喘 了 口 气 然 后 大 喊 着 说 ， ^^“ 牛 颈 斯 温 正 在 前 往 道 琴 嘉 ， 还 带 着 三 艘 战 船 ！ 索 里 克 让 我 来 警 告 你 。 {s4}不 会 来； 他 抛 弃 了 我 们 ！ 我 会 把 消 息 传 给 其 他 的 领 主 们 ， 但 他 们 都 是 丹 麦 人 ， 不 会 真 的 为 弗 里 斯 人 操 心 。 我 们 需 要 您 的 帮 助 ， 救 救 我 们 的 人 民 吧 ！” ^^那 个 农 民 赶 着 骡 子 离 开 了 。 他 的 呼 喊 声“ 救 救 我 们” 仍 然 回 荡 在 你 的 脑 中 …
+menu_escaramuza_3|接 近 敌 阵 时 ， 我 军 发 现 敌 将 已 布 弓 弩 掩 护 推 进 。 为 避 免 伤 亡 ， 我 军 未 发 动 攻 击 ， 迅 速 撤 回 。 
+mno_defendiendo_3e|明 白 。 
+menu_lucha_2_no|似 乎 无 人 应 战 。 
+menu_lucha_1_d|一 名 敌 武 士 行 至 我 军 阵 前 ， 停 在 投 石 可 及 之 处 。 他 取 下 颈 间 羊 皮 酒 囊 掷 于 地 上 ， 跳 跃 热 身 ， 甩 下 斗 篷 ， 脱 去 长 袍 与 靴 子 ， 赤 身 仅 持 矛 与 盾 。 他 是 敌 阵 冠 军 ， 以 矛 指 我 军 ， 邀 战 。 ^^未 及 你 开 口 ， 一 名 少 年 冲 出 队 列 。 他 非 老 兵 ， 亦 非 最 强 ， 却 勇 气 十 足 。 ^^你 的 勇 士 ， 你 的 冠 军 ， 迎 向 敌 手 。 二 人 绕 圈 对 峙 ， 揣 摩 彼 此 。 你 的 勇 士 心 神 动 摇 ， 举 矛 猛 刺 ， 盾 牌 下 垂 。 敌 冠 军 抓 住 机 会 ， 长 矛 迅 疾 刺 入 你 勇 士 的 心 口 … … ^^你 输 掉 了 决 斗 。 
+menu_lucha_2_v|一 名 士 兵 离 阵 而 出 ， 大 摇 大 摆 走 向 敌 阵 ， 忽 转 身 半 掀 衣 摆 ， 亮 出 屁 股 。 敌 冠 军 怒 极 ， 掷 出 标 枪 ， 却 偏 落 数 步 之 外 ， 随 即 拔 剑 怒 吼 冲 锋 。 ^^你 的 士 兵 迅 速 持 矛 立 定 ， 静 候 来 敌 。 两 盾 相 击 ， 双 方 皆 欲 破 盾 致 胜 。 ^^你 紧 盯 战 局 ， 先 见 首 血 ， 再 见 终 血 — — 你 的 勇 士 一 矛 贯 敌 之 口 。 他 喘 息 片 刻 ， 转 身 高 呼 ： “ 我 可 没 那 么 好 吞 ！ ” ^^你 赢 得 了 决 斗 。 
+menu_lucha_1_p|敌 军 首 领 立 于 阵 前 ， 指 名 邀 你 决 斗 。 
+mno_defendiendo_7e|接 受 。 
+menu_sacrificio_off|诸 神 对 你 的 祈 祷 与 祭 品 仍 保 持 沉 默 。 
+menu_sacrificio_1|祭 牲 的 内 脏 布 满 虫 蛆 ： 这 是 凶 兆 。 ^^也 许 今 天 不 宜 出 战 。 
+menu_sacrificio_2|当 你 俯 视 祭 牲 的 鲜 血 时 ， 一 名 手 下 指 向 地 平 线 ： 一 只 鹰 爪 擒 蛇 ， 振 翅 高 飞 ， 确 是 吉 兆 。 ^^进 攻 的 时 机 成 熟 了 。 
+menu_sacrificio_3|你 把 祭 刀 刺 进 牲 口 脖 颈 ， 它 却 挣 脱 你 的 手 ， 奔 出 几 步 后 扑 倒 ， 正 朝 敌 人 方 向 。 这 只 能 是 凶 兆 。 ^^也 许 今 天 不 宜 出 战 。 
+menu_sacrificio_4|剖 开 祭 牲 的 肠 子 ， 你 发 现 一 枚 银 坠 环 。 这 定 是 吉 兆 。 ^^你 已 准 备 好 战 斗 。 
+menu_discurso_off|你 也 上 前 一 步 ， 想 说 几 句 居 高 临 下 的 话 ， 却 毫 无 说 服 力 。 紧 张 出 卖 了 你 ， 你 一 个 字 也 吐 不 出 来 。 
+menu_discurso_1|你 巡 视 部 队 ， 穿 行 其 间 。 你 直 视 每 个 人 的 眼 睛 ， 想 让 他 们 明 白 此 刻 的 分 量 ： ^^“ 当 村 里 的 俊 男 美 女 问 起 你 的 伤 疤 ， 你 就 告 诉 他 们 ： ‘我 随 全 不 列 颠 与 爱 尔 兰 最 伟 大 的 将 军 ， 在 最 伟 大 的 军 中 征 战 ！ ’” 
+mno_defendiendo_1_cd|精 彩 演 讲 。 返 回 。 
+menu_discurso_2|你 巡 视 部 队 ， 穿 行 其 间 。 你 直 视 每 个 人 的 眼 睛 ， 想 让 他 们 明 白 此 刻 的 分 量 ： ^^“ 当 村 里 的 俊 男 美 女 问 起 你 的 伤 疤 ， 你 就 告 诉 他 们 ： ‘我 随 全 不 列 颠 与 爱 尔 兰 最 伟 大 的 将 军 ， 在 最 伟 大 的 军 中 征 战 ！ ’” 
+mno_defendiendo_1_dd|普 通 演 讲 。 返 回 。 
+menu_discurso_3|你 巡 视 部 队 ， 穿 行 其 间 。 你 直 视 每 个 人 的 眼 睛 ， 想 让 他 们 明 白 此 刻 的 分 量 ： ^^“ 想 想 此 刻 ， 全 不 列 颠 的 懦 夫 与 老 汉 正 放 山 羊 、 种 庄 稼 ， 流 汗 劳 作 却 一 无 所 获 ！ 而 我 们 自 由 人 站 在 这 里 。 我 们 的 辛 劳 即 将 开 始 ， 血 汗 即 将 流 淌 。 为 何 ？ 为 荣 誉 ！ 为 荣 耀 ！ 为 财 富 ！ ” 
+mno_defendiendo_1_ed|好 演 讲 。 返 回 。 
+menu_discurso_4|你 巡 视 部 队 ， 穿 行 其 间 。 你 直 视 每 个 人 的 眼 睛 ， 想 让 他 们 明 白 此 刻 的 分 量 ： ^^“ 我 们 跋 涉 千 里 ， 只 为 在 这 战 场 、 在 这 时 刻 迎 接 命 运 。 待 我 们 百 年 之 后 ， 人 们 仍 会 在 歌 里 传 唱 我 们 的 名 字 ， 传 颂 今 日 我 们 将 在 这 片 土 地 赢 得 的 伟 业 ！ ” 
+mno_defendiendo_1_fd|好 演 讲 。 返 回 。 
+menu_discurso_5|你 巡 视 部 队 ， 穿 行 其 间 。 你 直 视 每 个 人 的 眼 睛 ， 想 让 他 们 明 白 此 刻 的 分 量 ： ^^“ 兄 弟 们 ！ 你 们 出 生 ， 成 长 ， 昨 日 行 军 ， 今 日 作 战 ！ 今 日 让 敌 群 流 血 溃 败 ， 今 日 砸 碎 他 们 的 盾 ！ 你 们 一 生 都 在 走 向 此 刻 。 今 日 我 们 并 肩 征 服 ， 今 夜 在 敌 营 欢 宴 ！ ” 
+mno_defendiendo_1_gd|好 演 讲 。 返 回 。 
+menu_discurso_6|好 演 讲 。 返 回 。 
+menu_discurso_7|你 巡 视 部 队 ， 穿 行 其 间 。 你 直 视 每 个 人 的 眼 睛 ， 想 让 他 们 明 白 此 刻 的 分 量 ： ^^“ 朋 友 们 ！ 听 我 说 ！ 今 日 我 们 要 用 敌 人 的 鲜 血 谱 写 家 园 之 歌 ！ 你 们 是 自 由 人 ！ 没 人 能 侵 犯 我 们 的 土 地 还 站 着 离 开 。 面 前 的 敌 军 虽 众 ， 他 们 不 为 保 家 ， 只 为 劫 掠 。 他 们 必 败 ！ 握 紧 长 矛 ！ 坚 守 ， 永 不 屈 服 ！ 没 人 会 把 土 地 与 荣 耀 让 给 面 前 的 懦 夫 。 战 斗 ！ 死 战 ， 也 绝 不 屈 服 ！ 永 不 ， 永 不 ， 永 不 ！ ” 
+mno_defendiendo_1_id|好 演 讲 。 返 回 。 
+menu_discurso_8|好 演 讲 。 返 回 。 
+mno_defendiendo_1_jd|好 演 讲 。 返 回 。 
+menu_discurso_9|你 巡 视 部 队 ， 穿 行 其 间 。 你 直 视 每 个 人 的 眼 睛 ， 想 让 他 们 明 白 此 刻 的 分 量 ： ^^“ 来 吧 ， 战 士 们 ！ 让 我 们 走 向 战 场 ， 直 面 敌 人 ！ 有 你 们 在 ， 盾 墙 绝 不 会 被 那 群 胆 小 的 狗 攻 破 ！ 像 古 时 英 雄 ， 我 们 去 制 造 屠 杀 ， 人 人 皆 英 雄 ， 人 人 皆 真 汉 ！ 今 日 ， 我 们 要 让 乌 鸦 饱 餐 ！ ” 
+mno_defendiendo_1_kd|好 演 讲 。 返 回 。 
+menu_discurso_10|你 巡 视 部 队 ， 穿 行 其 间 。 你 直 视 每 个 人 的 眼 睛 ， 想 让 他 们 明 白 此 刻 的 分 量 ： ^^“ 记 住 你 们 的 孩 子 和 妻 子 ， 记 住 家 园 与 祖 先 ， 记 住 诸 神 ， 记 住 我 们 今 日 为 之 而 战 的 一 切 。 我 们 要 在 这 里 缔 造 一 个 更 美 好 的 世 界 ！ 对 面 的 敌 人 深 知 这 一 点 ， 他 们 畏 惧 我 们 的 决 心 。 他 们 怕 得 尿 裤 ， 抖 如 落 叶 ， 连 长 矛 都 握 不 住 。 兄 弟 们 ！ 我 与 你 们 同 在 ， 持 剑 举 盾 ， 流 血 淌 汗 ， 骄 傲 地 与 这 些 巨 人 并 肩 。 兄 弟 们 ， 命 运 在 前 方 等 着 我 们 ， 是 时 候 把 它 握 在 手 里 ！ ” 
+mno_defendiendo_1_l|好 演 讲 。 返 回 。 
+menu_discurso_11|你 巡 视 部 队 ， 穿 行 其 间 。 你 直 视 每 个 人 的 眼 睛 ， 想 让 他 们 明 白 此 刻 的 分 量 ： ^^“ 让 我 们 离 开 这 片 火 海 ， 走 向 开 阔 地 ， 直 面 敌 人 。 战 死 的 人 将 随 神 而 去 ； 生 还 的 人 ， 名 字 将 被 传 颂 。 我 走 在 最 前 ， 我 做 什 么 ， 你 们 便 做 什 么 。 愿 神 作 证 ， 我 永 不 抛 弃 你 们 ， 我 的 兄 弟 与 骑 士 ！ ” 
+menu_discurso_12|你 巡 视 部 队 ， 穿 行 其 间 。 你 直 视 每 个 人 的 眼 睛 ， 想 让 他 们 明 白 此 刻 的 分 量 ： ^^“ 今 晚 太 阳 将 为 敌 人 落 下 ， 而 我 们 却 将 如 春 日 阳 光 般 闪 耀 。 你 们 此 刻 或 许 紧 张 发 抖 ， 但 你 们 的 颤 抖 远 不 及 他 们 。 他 们 不 过 是 风 中 秋 叶 ； 我 们 是 呼 啸 的 暴 风 ， 将 把 他 们 卷 散 在 草 地 ， 永 不 再 现 。 举 起 长 矛 ， 化 作 劈 倒 大 树 的 雷 霆 。 这 片 土 地 属 于 我 们 — — 这 些 树 林 、 这 些 山 丘 、 这 些 田 野 — — 岁 岁 年 年 ， 永 永 远 远 ！ ” 
+mno_defendiendo_1_m|精 彩 演 讲 。 返 回 。 
+menu_doccinga_messenger|一 位 农 民 赶 着 一 头 邋 遢 的 骡 子 走 来 。 他 在 你 面 前 勒 住 骡 子 ， 喘 口 气 后 大 喊 ： ^^“ ‘牛 颈 ’斯 温 正 率 三 艘 船 逼 近 道 琴 嘉 ！ 索 里 克 派 我 来 报 信 。 {s4}不 会 来 ； 他 把 我 们 交 给 命 运 ！ 我 会 把 消 息 带 给 其 他 雅 尔 ， 可 他 们 是 丹 麦 人 ， 不 在 乎 弗 里 斯 人 。 求 您 ， 救 救 我 们 ！ ” ^^农 民 踢 了 骡 子 一 脚 ， 疾 驰 而 去 。 那 句 “ 救 救 我 们 ” 在 你 脑 中 回 荡 ， 久 久 不 散 。 
 mno_choice_01mess_1|继 续 
-menu_doccinga_messenger2|一 名 信 使 飞 奔 而 来 ， 他 在 你 面 前 停 下 ， 喘 着 粗 气 大 喊 着 说 ： ^^“ 索 里 克 在 道 琴 嘉 正 派 人 到 处 找 你 ， {playername} 。 他 逮 住 了 一 名 俘 虏 ， 那 是 在 最 近 的 战 斗 中 听 命 于 牛 颈 斯 温 的 一 个 维 京 海 盗 。 ^他 认 为 你 会 对 审 问 俘 虏 很 有 兴 趣 ， 而 且 要 求 你 尽 快 前 往 。 在 国 王 或 者 雅 尔 注 意 到 此 事 之 前 ， 索 里 克 不 知 道 能 关 着 这 个 俘 虏 多 长 时 间 。” 
-mno_choice_01mess2_1|告 诉 索 里 克 ， 已 收 到 消 息 。 
-menu_doccinga_c_assault|从 道 琴 嘉 附 近 的 山 坡 上 ， 你 能 看 到 村 民 们 正 在 逃 亡 ， 而 一 些 勇 士 和 国 王 的 士 兵 试 图 在 海 岸 处 建 立 一 道 盾 墙 ， 准 备 保 护 他 们 的 财 产 ， 或 者 在 最 坏 的 情 况 下 ， 掩 护 他 们 的 家 人 撤 离 。 ^^远 处 海 面 上 隐 约 有 三 艘 维 京 战 船 ， 在 这 个 距 离 上 没 法 看 清 楚 ， 但 还 是 能 够 想 象 得 到 船 上 装 满 了 维 京 战 士 。 ^^你 不 可 抗 拒 地 想 起 了 之 前 牛 颈 斯 温 攻 击 你 的 船 的 情 景 。 终 于 ， 维 京 大 船 又 一 次 兵 临 城 下 。 ^^你 注 意 到 一 个 人 从 道 琴 嘉 跑 着 离 开 了 ， 他 看 起 来 像 个 士 兵 。 他 发 现 了 你 ， 正 朝 着 你 跑 来 … 
-mno_choice_01ass_1d|前 往 帮 助 道 琴 嘉 ， 并 且 见 见 那 个 士 兵 。 
-mno_choice_doccinga|保 存 。 
-mno_encounter_save|我 等 会 回 来 ， 道 琴 嘉 还 有 时 间 。 
-menu_doccinga_c_assaultnoche|现 在 已 经 深 夜 ， 你 的 人 也 需 要 休 息 。 明 早 再 来 。 
+menu_doccinga_messenger2|一 名 信 使 策 马 而 来 。 他 在 你 面 前 勒 马 ， 喘 口 气 后 大 喊 ： ^^“ 索 里 克 请 你 去 道 琴 嘉 ， {playername}。 他 在 最 近 的 战 斗 中 抓 住 了 ‘牛 颈 ’斯 温 的 一 名 维 京 劫 掠 者 。 ^他 认 为 你 会 想 亲 自 审 问 ， 请 你 尽 快 前 往 。 索 里 克 不 知 道 在 国 王 或 雅 尔 索 要 前 ， 他 还 能 关 押 那 俘 虏 多 久 。 ” 
+mno_choice_01mess2_1|告 诉 索 里 克 消 息 已 收 到 。 
+menu_doccinga_c_assault|从 道 琴 嘉 附 近 的 山 坡 上 ， 你 能 看 见 镇 民 正 在 逃 亡 。 一 些 胆 大 的 和 几 名 国 王 的 士 兵 在 海 滩 上 列 盾 墙 ， 准 备 守 护 财 物 ， 或 至 少 掩 护 亲 人 撤 离 。 ^^远 处 海 面 ， 三 艘 维 京 战 船 隐 约 可 见 。 距 离 太 远 ， 看 不 清 细 节 ， 却 不 难 想 象 船 上 满 是 战 士 。 ^^你 忍 不 住 回 忆 起 “ 牛 颈 ” 斯 温 袭 击 你 座 舰 的 那 场 海 战 。 如 今 ， 这 个 维 京 巨 汉 终 于 又 近 在 咫 尺 。 ^^道 琴 嘉 方 向 ， 一 名 战 士 模 样 的 人 奔 出 ， 看 见 你 后 朝 你 跑 来 … … 
+mno_choice_01ass_1d|前 去 支 援 道 琴 嘉 ， 与 那 名 战 士 会 面 。 
+mno_choice_doccinga|我 需 要 再 招 募 些 人 手 。 
+mno_encounter_save|我 稍 后 再 来 ， 道 琴 嘉 等 得 起 。 
+menu_doccinga_c_assaultnoche|夜 深 了 ， 你 的 人 需 要 休 息 。 明 早 再 来 。 
 mno_choice_01assault_3d|继 续 。 
-menu_noaccessallowed|在 聚 会 上 带 太 多 人 会 让 人 们 以 为 你 要 发 起 攻 击 而 感 到 害 怕 。 你 现 在 必 须 把 一 些 人 留 在 营 地 。 
+menu_noaccessallowed|队 伍 人 数 过 多 会 让 当 地 人 以 为 你 要 进 攻 ， 心 生 恐 惧 。 你 最 好 先 把 部 分 士 兵 留 在 营 地 。 
 mno_choice_01nall_3d|继 续 。 
-menu_doccinga_c_assault2|到 达 村 庄 时 ， 你 看 到 难 民 们 正 在 排 着 长 队 逃 离 道 琴 嘉 。 他 们 带 着 所 有 的 财 产 和 拉 车 徒 步 离 开 ， 所 以 移 动 得 很 慢 。 如 果 你 不 去 阻 止 维 京 人 在 海 滩 上 登 陆 ， 所 有 的 难 民 都 会 死 在 他 们 的 剑 下 。 
-mno_choice_01ent_1e|迎 战 ！ 
-menu_doccinga_victory|血 从 你 的 手 和 肘 部 流 下 。 你 身 边 只 有 死 亡 ， 耳 中 充 满 死 亡 的 呻 吟 。 ^^维 京 人 被 击 败 了 ， 退 回 了 大 海 ， 扔 下 了 许 多 伤 者 和 尸 体 ， 但 是 你 们 的 代 价 也 很 惨 重 。 ^^牛 颈 斯 温 并 不 在 场 ， 这 点 很 让 你 惊 讶 ， 这 些 明 明 就 是 他 的 船 ， 但 你 的 仇 人 上 哪 里 去 了 ？ ^^索 里 克 的 话 在 你 的 脑 中 浮 现 ， 也 许 是 时 候 去 拜 访 肯 尼 莫 的 雅 尔 了 ， 他 需 要 解 释 一 些 事 情 。 
+menu_doccinga_c_assault2|靠 近 村 庄 时 ， 你 看 见 逃 离 道 琴 嘉 的 难 民 队 伍 。 他 们 背 着 全 部 家 当 ， 拖 着 沉 重 的 马 车 ， 行 进 缓 慢 。 若 不 在 海 滩 挡 住 维 京 人 ， 所 有 难 民 都 将 死 于 他 们 的 剑 下 。 
+mno_choice_01ent_1e|进 入 道 琴 嘉 。 
+menu_doccinga_victory|鲜 血 顺 着 你 的 手 指 滴 到 肘 部 。 四 周 只 有 死 亡 ， 耳 边 尽 是 垂 死 者 的 呻 吟 。 ^^维 京 人 败 退 ， 退 回 海 上 ， 留 下 众 多 死 伤 ， 但 代 价 惨 重 。 ^^“ 牛 颈 ” 斯 温 并 不 在 袭 击 者 中 ， 这 让 你 惊 讶 ， 因 为 船 是 他 的 。 那 么 ， 你 痛 恨 的 敌 人 在 哪 ？ ^^索 里 克 的 话 在 你 脑 海 回 响 。 也 许 该 去 拜 访 肯 尼 莫 的 雅 尔 ， 他 得 给 出 解 释 。 
 mno_choice_01vic_1|继 续 
-menu_frisa_proscrito|肯 尼 莫 的 雅 尔 给 你 离 开 道 琴 嘉 的 时 限 结 束 了 。 现 在 你 是 弗 里 斯 王 国 的 一 名 罪 犯 。 
+menu_frisa_proscrito|肯 尼 莫 的 雅 尔 给 你 离 开 道 琴 嘉 的 时 限 已 过 。 如 今 你 在 弗 里 西 成 了 被 通 缉 的 罪 犯 。 
 mno_choice_01poc_1a|继 续 
-menu_thiaderd_muerto|战 斗 很 艰 难 ， 泰 德 的 士 兵 如 雄 狮 一 样 勇 猛 作 战 ， 但 是 你 的 人 也 设 法 解 决 他 们 了 。 ^^泰 德 的 尸 体 和 他 的 战 士 们 倒 在 一 起 。 你 该 干 的 已 经 干 完 了； 剩 下 的 就 是 去 掠 夺 泰 德 的 营 地 ， 而 营 地 就 在 前 面 。 
+menu_thiaderd_muerto|战 斗 异 常 惨 烈 。 提 亚 德 尔 的 部 下 如 雄 狮 般 奋 战 ， 但 你 的 部 队 还 是 将 他 们 尽 数 歼 灭 。 ^^提 亚 德 尔 的 尸 体 倒 在 他 的 战 士 之 间 。 你 已 完 成 了 自 己 的 任 务 ； 剩 下 的 就 是 洗 劫 前 方 的 提 亚 德 尔 营 地 。 
 mno_choice_01_1ath|继 续 
-menu_thiaderd_battle|战 斗 无 法 避 免 。 泰 德 看 到 了 雷 因 哈 德 后 勃 然 大 怒 ， 并 下 令 攻 击 。 
+menu_thiaderd_battle|战 斗 已 无 法 避 免 。 提 亚 德 尔 一 见 到 雷 因 哈 德 便 怒 火 中 烧 ， 立 刻 下 令 进 攻 。 
 mno_choice_01_thiaderd|战 斗 ！ 
-mno_talk_to_thiaderd|和 那 些 人 交 谈 。 
-mno_kill_thiader_fam|杀 光 他 们 ， 烧 毁 营 地 并 把 所 有 值 钱 的 东 西 抢 走 。 
-mno_loot_thiader_fam|洗 劫 营 地 ， 但 是 给 营 地 里 面 的 人 一 条 生 路 。 
-mno_no_kill_thiader_f|我 们 不 是 杀 人 犯 ！ 让 他 们 宁 静 地 生 活 下 去 。 
-mno_choice_farmth|保 存 。 
-mno_encounter_savefarmth|离 开 。 
-menu_frisa_beach|海 风 迎 面 吹 拂 ， 你 听 到 了 海 鸥 在 你 头 顶 盘 旋 ， 同 时 盐 分 的 气 息 越 来 越 强 。 在 远 处 ， 你 发 现 了 隐 蔽 的 海 滩 里 一 艘 船 的 轮 廓 。 那 就 是 索 里 克 跟 你 提 起 的 …属 于 你 的 船 。 
-mno_enterbea|走 下 海 滩 。 
-mno_leavebea|再 回 来 。 
-menu_sven_lair|沿 着 河 畔 ， 你 发 现 了 一 处 维 京 人 的 据 点 ， 那 是 斯 温 的 藏 身 地 ！ ^那 个 港 口 对 于 船 只 来 说 显 得 狭 小 ， 易 守 难 攻 。 在 壁 垒 之 后 和 房 屋 之 中 ， 你 可 以 看 见 一 些 战 士 。 你 不 可 能 在 保 持 隐 蔽 的 情 况 下 数 出 他 们 的 总 数 ， 但 是 你 知 道 对 方 人 多 势 众 。 ^在 城 堡 的 中 央 ， 你 可 以 看 到 有 些 待 售 的 奴 隶 。 你 母 亲 是 否 会 在 他 们 中 间 呢 ？ 
-mno_talk_to_fort_leader|请 求 与 据 点 首 领 见 面 。 
-mno_enter_to_buy_prisoners|进 入 据 点 购 买 奴 隶 。 
+mno_talk_to_thiaderd|和 士 兵 们 谈 谈 。 
+mno_kill_thiader_fam|杀 光 他 们 ， 焚 毁 营 地 ， 把 值 钱 的 东 西 统 统 带 走 。 
+mno_loot_thiader_fam|洗 劫 营 地 ， 但 饶 过 里 面 的 人 。 
+mno_no_kill_thiader_f|我 们 不 是 屠 夫 ！ 让 他 们 安 生 过 日 子 。 
+mno_choice_farmth|我 需 要 再 招 募 些 人 手 。 
+menu_frisa_beach|海 风 轻 抚 你 的 面 颊 ， 头 顶 传 来 海 鸥 的 鸣 叫 ， 咸 涩 的 味 道 愈 发 浓 烈 。 远 处 ， 隐 蔽 的 海 滩 上 现 出 一 艘 船 的 轮 廓 。 那 就 是 索 里 克 提 到 的 那 艘 船 … … 你 的 船 。 
+mno_enterbea|走 向 海 滩 。 
+mno_leavebea|稍 后 再 来 。 
+menu_sven_lair|河 岸 旁 ， 你 辨 认 出 一 座 维 京 人 的 堡 垒 。 你 找 到 了 斯 温 的 藏 身 之 处 ！ ^这 地 方 不 错 ， 带 有 一 个 供 船 只 停 泊 的 小 港 口 ， 易 守 难 攻 。 墙 后 屋 舍 之 间 可 见 战 士 的 身 影 。 你 无 法 在 不 暴 露 的 情 况 下 数 清 人 数 ， 但 里 面 少 说 也 有 几 十 人 。 {!}{s4}
+mno_talk_to_fort_leader|请 求 与 堡 垒 首 领 会 面 。 
+mno_enter_to_buy_prisoners|进 入 堡 垒 购 买 俘 虏 。 
 mno_initial_attack|发 动 奇 袭 。 
-mno_nosurprise_attack|全 军 出 击 ！ 
-mno_conquestsl_attack0|斯 温 的 手 下 在 盯 着 我 的 部 队 ， 我 回 头 再 来 。 
+mno_nosurprise_attack|全 面 进 攻 ！ 
+mno_conquestsl_attack0|斯 温 的 手 下 盯 着 我 的 部 队 ， 我 得 回 头 再 来 。 
 mno_conquestsl_attack|征 服 斯 温 的 藏 身 地 ！ 
-mno_choice_fort|保 存 。 
-mno_encounter_savefort|离 开 。 
-menu_sven_lair_comprado|你 离 开 了 牛 颈 斯 温 的 藏 身 地 。 你 决 定 用 外 交 手 段 来 达 到 目 的 ， 以 避 免 手 下 伤 亡 。 ^^在 你 的 队 伍 里 ， 出 现 了 一 个 新 人 ， 也 是 一 个 老 朋 友 ， 他 是 坎 塔 布 里 亚 人 博 多 。 就 在 斯 温 的 藏 身 地 外 面 ， 他 请 求 和 你 一 起 离 开 ， 并 告 诉 你 在 牛 颈 斯 温 袭 击 沃 登 里 克 号 之 后 发 生 了 什 么 。 
+mno_choice_fort|我 需 要 再 招 募 些 人 手 。 
+menu_sven_lair_comprado|你 离 开 了 “ 牛 颈 ” 斯 温 的 藏 身 地 。 你 决 定 用 外 交 手 段 达 成 目 标 ， 避 免 手 下 伤 亡 。 ^^现 在 队 伍 里 多 了 个 新 人 ， 也 是 老 朋 友 — — 坎 塔 布 里 亚 人 博 多 。 就 在 斯 温 的 藏 身 地 外 ， 他 请 你 跟 他 一 起 离 开 ， 想 告 诉 你 斯 温 袭 击 沃 登 里 克 号 之 后 发 生 了 什 么 。 
 mno_talk_to_bodo|和 博 多 谈 话 。 
-menu_svenlair_victory|经 过 一 场 艰 苦 的 战 斗 ， 你 的 手 下 终 于 击 败 了 守 卫 藏 身 地 的 维 京 战 士 。 在 其 中 一 个 房 子 里 ， 你 找 到 了 3个 俘 虏 ： 2个 女 人 和 1个 男 人 。 你 不 认 识 女 俘 虏 ， 她 们 也 许 是 维 京 人 从 其 他 地 方 掠 夺 过 来 的； 但 这 个 男 人 正 是 博 多 ， 在 沃 登 里 克 号 上 与 你 同 行 的 一 个 坎 塔 布 里 亚 人 。 ^^博 多 加 入 了 你 的 队 伍 ， 一 个 老 朋 友 回 来 了 。 他 请 求 和 你 一 起 离 开 ， 并 告 诉 你 在 牛 颈 斯 温 袭 击 沃 登 里 克 号 之 后 发 生 了 什 么 。 但 是 首 先 你 要 决 定 如 何 处 理 斯 温 的 藏 身 地 。 
-mno_take_itv|它 是 个 不 错 的 地 方 ， 我 命 令 我 的 人 帮 我 把 它 清 理 干 净 。
-mno_destroy_itv|呸 。 我 为 了 我 的 士 兵 掠 夺 并 摧 毁 它 。 
-menu_sven_lair_final|命 运 弄 人 。 初 时 ， 一 切 都 指 向 了 你 母 亲 不 复 生 还 的 事 实 。 生 存 和 复 仇 的 欲 望 驱 使 着 你 ： 找 到 牛 颈 斯 温 并 杀 死 他 。 但 是 ， 现 在 你 母 亲 还 活 着 并 且 落 在 敌 人 的 手 里 ， 你 的 首 要 任 务 是 营 救 她 。 
+menu_svenlair_victory|经 过 一 场 苦 战 ， 你 的 手 下 击 败 了 守 卫 藏 身 地 的 维 京 人 。 在 其 中 一 间 屋 子 里 ， 你 发 现 了 三 名 俘 虏 ： 两 名 女 子 和 一 名 男 子 。 你 不 认 识 那 两 名 女 子 ， 她 们 可 能 是 其 他 维 京 劫 掠 中 的 俘 虏 ； 但 那 名 男 子 正 是 博 多 ， 曾 与 你 同 乘 沃 登 里 克 号 的 坎 塔 布 里 亚 人 。 ^^博 多 加 入 了 你 的 队 伍 ， 老 朋 友 回 来 了 。 他 请 你 跟 他 一 起 离 开 ， 想 告 诉 你 “ 牛 颈 ” 斯 温 袭 击 沃 登 里 克 号 之 后 发 生 了 什 么 。 但 首 先 ， 你 得 决 定 如 何 处 理 斯 温 的 藏 身 地 。 
+mno_take_itv|这 地 方 不 错 ， 我 命 人 把 它 打 扫 干 净 。 
+mno_destroy_itv|呸 ， 我 命 人 洗 劫 并 毁 掉 它 。 
+menu_sven_lair_final|命 运 在 捉 弄 你 。 起 初 ， 一 切 都 指 向 你 母 亲 的 死 亡 。 你 半 为 求 生 ， 半 为 复 仇 ： 找 到 “ 牛 颈 ” 斯 温 并 杀 了 他 。 然 而 ， 如 今 你 母 亲 仍 活 着 ， 却 落 入 敌 手 ， 你 的 首 要 任 务 变 成 了 找 到 并 救 回 她 。 
 mno_travel_sv|行 动 。 
-menu_svenlair_victory_conquista|经 过 一 场 艰 苦 的 战 斗 ， 你 的 手 下 终 于 击 败 了 守 卫 藏 身 地 的 维 京 战 士 。 你 要 决 定 该 如 何 处 理 这 个 据 点 。 
-mno_take_itsl|它 是 个 不 错 的 地 方 ， 我 命 令 我 的 人 帮 我 把 它 清 理 干 净 。 
-mno_destroy_itsl|呸 。 我 为 了 我 的 士 兵 掠 夺 并 摧 毁 它 。 
-menu_farmstead_sigurd|一 条 灰 尘 漫 布 的 小 路 通 向 一 面 大 栅 栏 ， 在 栅 栏 后 面 建 有 一 些 房 屋 。 这 里 看 上 去 很 繁 荣 ， 是 一 个 有 钱 人 的 家 园 。 ^在 你 的 位 置 ， 可 以 看 到 一 些 人 在 活 动 。 一 切 都 看 上 去 很 平 静 。 
+menu_svenlair_victory_conquista|经 过 一 场 苦 战 ， 你 的 手 下 击 败 了 守 卫 藏 身 地 的 维 京 人 。 你 得 决 定 如 何 处 理 这 个 据 点 。 
+mno_take_itsl|这 地 方 不 错 ， 我 命 人 把 它 打 扫 干 净 。 
+mno_destroy_itsl|呸 ， 我 命 人 洗 劫 并 毁 掉 它 。 
+menu_farmstead_sigurd|一 条 尘 土 飞 扬 的 小 路 通 向 高 大 的 栅 栏 ， 栅 栏 后 建 着 几 座 房 屋 。 这 里 看 起 来 富 足 ， 是 个 富 人 的 家 园 。 ^从 你 所 在 的 位 置 ， 能 看 到 一 些 人 在 活 动 ， 一 切 显 得 平 静 。 
 mno_enter_to_farmstead|进 入 农 场 。 
-mno_encounter_savefarm|离 开 。 
-menu_farmstead_sigurd2|没 过 多 久 ， 你 的 哨 兵 发 出 警 告 ， 一 队 人 马 在 接 近 。 农 场 的 气 氛 马 上 紧 张 起 来 ， 但 是 埃 吉 尔 已 经 在 山 坡 上 待 命 ， 并 告 诉 大 家 不 要 担 心 ， 因 为 这 些 人 挂 着 国 王 的 旗 帜 。 ^^霍 里 克 国 王 派 出 了 援 军 ！ 
-mno_talk_kingleader|和 对 方 的 首 领 交 谈 。 
-menu_farmstead_sigurd3|你 发 现 ， 这 个 农 场 能 够 让 人 躲 开 危 险 和 烦 恼 ， 是 个 舒 服 安 稳 的 避 世 之 地 。 那 一 刻 你 幻 想 自 己 成 为 了 农 场 的 主 人 ， 在 田 里 耕 种 ， 使 唤 奴 隶 ， 日 子 一 天 比 一 天 美 好 。 {s2} 。 看 到 自 己 坐 在 门 边 的 长 凳 上 ， 惬 意 地 欣 赏 日 出 日 落 … 这 就 是 你 想 要 的 日 子 吗 ？ 或 者 对 你 来 说 这 个 目 标 太 遥 远 了 ？ 无 论 如 何 ， 你 在 幻 想 宁 静 的 生 活 前 还 需 要 考 虑 很 多 事 情 。 ^第 二 天 ， 一 个 哨 兵 警 告 你 一 队 武 装 人 员 在 接 近 。 他 们 人 数 众 多 ， 并 且 扛 着“ 蛇 眼” 西 格 德 的 旗 帜 。 你 还 没 来 得 及 下 令 ， 手 下 已 经 全 副 武 装 起 来 ， 并 且 跑 到 农 场 门 口 列 起 了 盾 墙 。 
-mno_enter_to_battlefs|开 始 交 换 。 
-menu_farmstead_sigurd4|你 仔 细 打 量 来 人 。 对 方 人 数 可 能 超 过 六 十 ， 并 且 武 装 精 良 。 一 个 头 罩 麻 袋 的 囚 犯 被 推 到 前 面 … 
-mno_choice_01_sigur|进 入 。 
-menu_hablar_olvir|经 过 一 场 残 忍 的 战 斗 ， 乌 尔 夫 的 农 场 遍 布 尸 首 。 你 的 手 下 在 尸 体 中 漫 步 ， 解 决 掉 濒 死 的 敌 人 并 且 拿 走 一 切 值 钱 的 东 西 。 你 注 意 到 埃 吉 尔 正 在 切 掉 一 个 死 者 的 手 指 来 取 下 一 枚 金 戒 指 ， 而 伯 伦 希 尔 在 用 厌 恶 的 目 光 扫 视 着 战 场 ， 然 后 是 雷 因 哈 德 坐 在 尸 体 上 放 声 大 笑 ， 你 却 不 知 道 自 己 是 如 何 想 的 。 有 人 说 战 争 能 改 变 一 个 人 ， 好 比 贪 得 无 厌 的 恶 魔 吞 噬 掉 你 的 灵 魂 。 你 已 经 变 了 吗 ？ 你 变 得 和 以 前 不 同 了 吗 ？ ^^当 两 名 士 兵 把 奥 利 维 带 到 你 面 前 的 时 候 ， 你 的 思 绪 被 打 断 了 。 他 还 活 着 ， 但 是 命 不 长 了 。 血 液 从 他 的 身 侧 不 断 涌 出 … 没 法 停 下 。 
-mno_talk_to_olvir|和 奥 利 维 谈 话 。
-menu_doccinga_prisonerjoined|在 你 的 旅 途 中 ， 有 一 个 人 来 到 你 的 部 队 面 前 ， 在 几 码 的 距 离 之 外 ， 他 放 下 了 自 己 的 武 器 ， 并 向 你 展 示 他 手 无 寸 铁 。 你 几 乎 快 认 不 出 来 他 了 。 他 就 是 你 在 道 琴 嘉 审 问 的 那 个 人 ， 一 个 你 饶 了 他 命 的 人 。 
-mno_talk_to_captain|听 听 他 想 说 什 么 。 
-menu_entregar_bodo|你 带 着 两 个 西 格 德 的 人 去 找 博 多 ， 当 你 在 对 此 解 释 时 ， 他 毫 不 抗 拒 。 在 西 格 德 的 手 下 把 他 带 走 前 ， 他 停 在 你 面 前 ， 两 眼 满 含 泪 水 。 伯 伦 希 尔 和 雷 因 哈 德 似 乎 对 你 的 选 择 很 不 满 。 
-mno_talk_to_bodoentregado|和 博 多 交 谈 。 
-menu_arboleda_conrey|你 跟 着 国 王 去 附 近 的 一 个 小 树 林 ， 远 离 了 窥 探 的 耳 目 。 
+menu_farmstead_sigurd2|不 久 ， 你 的 哨 兵 警 告 有 一 队 人 马 接 近 。 农 场 气 氛 骤 然 紧 张 ， 但 埃 吉 尔 站 在 山 坡 上 示 意 不 必 惊 慌 ， 因 为 来 者 打 着 国 王 的 旗 帜 。 ^^霍 里 克 国 王 派 来 了 援 军 ！ 
+mno_talk_kingleader|与 对 方 的 首 领 交 谈 。 
+menu_farmstead_sigurd3|你 发 现 这 座 农 场 是 个 远 离 路 途 危 险 与 艰 难 抉 择 的 好 去 处 。 一 时 间 ， 你 幻 想 农 场 归 你 所 有 ： 你 耕 种 田 地 ， 指 挥 奴 隶 ， 日 子 一 天 天 变 好 。 {s2}。 你 看 见 自 己 坐 在 门 前 长 凳 上 ， 看 日 出 日 落 … … 这 是 你 想 要 的 吗 ？ 抑 或 你 会 觉 得 太 过 平 淡 ？ 不 管 怎 样 ， 在 想 过 安 静 生 活 之 前 ， 你 还 有 许 多 事 要 做 。 ^第 二 天 ， 哨 兵 报 警 ： 大 批 武 装 人 员 逼 近 ， 他 们 打 着 “ 蛇 眼 ” 西 格 德 的 旗 帜 。 无 需 下 令 ， 你 的 手 下 已 拿 起 武 器 ， 披 挂 整 齐 ， 奔 向 农 场 入 口 列 起 盾 墙 。 
+mno_enter_to_battlefs|开 始 交 涉 。 
+menu_farmstead_sigurd4|你 打 量 来 者 。 他 们 人 数 众 多 ， 或 许 超 过 六 十 ， 全 副 武 装 。 一 名 俘 虏 被 推 到 前 面 ， 头 上 套 着 麻 袋 … … 
+menu_hablar_olvir|经 过 一 场 残 酷 的 战 斗 ， 乌 尔 夫 的 农 场 尸 横 遍 野 。 你 的 手 下 在 尸 体 间 穿 梭 ， 了 结 伤 兵 ， 搜 刮 一 切 值 钱 之 物 。 你 望 向 埃 吉 尔 ， 他 正 割 下 一 名 垂 死 战 士 的 手 指 ， 只 为 取 下 一 枚 金 戒 指 ； 又 看 向 伯 伦 希 尔 ， 她 惊 恐 地 注 视 着 这 场 屠 戮 ； 再 看 雷 因 哈 德 ， 他 坐 在 尸 体 上 放 声 大 笑 。 你 自 己 却 说 不 清 心 中 滋 味 。 有 人 曾 说 ， 战 争 会 改 变 人 ， 它 是 一 头 贪 婪 的 恶 魔 ， 吞 噬 灵 魂 。 你 变 了 吗 ？ 你 与 从 前 不 同 了 吗 ？ ^^两 名 士 兵 把 奥 维 尔 押 到 你 面 前 ， 打 断 了 你 的 思 绪 。 他 还 活 着 ， 但 已 命 不 久 矣 。 鲜 血 从 他 身 侧 喷 涌 … … 止 不 住 。 
+mno_talk_to_olvir|和 奥 维 尔 谈 话 。 
+menu_doccinga_prisonerjoined|行 军 途 中 ， 一 名 男 子 靠 近 你 的 队 伍 。 他 在 数 步 外 放 下 武 器 ， 摊 开 空 空 的 双 手 。 你 几 乎 认 不 出 他 — — 正 是 你 在 道 琴 嘉 审 问 过 的 那 位 维 京 船 长 ， 你 曾 饶 他 一 命 。 
+mno_talk_to_captain|听 听 他 要 说 什 么 。 
+menu_entregar_bodo|你 带 着 西 格 德 的 两 名 手 下 去 找 博 多 ， 说 明 情 况 后 ， 他 毫 无 反 抗 。 当 西 格 德 的 人 押 他 离 开 时 ， 他 在 你 面 前 停 下 ， 泪 眼 婆 娑 。 伯 伦 希 尔 和 雷 因 哈 德 对 你 的 决 定 显 然 不 满 。 
+mno_talk_to_bodoentregado|和 博 多 谈 话 。 
+menu_arboleda_conrey|你 随 国 王 来 到 附 近 的 小 树 林 ， 避 开 窥 视 与 耳 目 。 
 mno_talk_to_reyhorik|和 霍 里 克 国 王 交 谈 。 
-menu_arboleda_conrey2|你 跟 着 国 王 去 附 近 的 一 个 小 树 林 ， 远 离 了 窥 探 的 耳 目 。 
-mno_talk_to_reyhorik2|和 霍 里 克 国 王 交 谈 
-menu_meeting_ragnarssons|几 个 男 人 来 到 诺 丁 汉 的 大 门 见 你 。 尽 管 这 些 人 全 副 武 装 ， 但 是 他 们 对 你 没 有 威 胁 ， 反 而 看 上 去 很 高 兴 见 到 你 。 
-mno_talk_to_siegemen|和 他 们 交 谈 。 
-menu_primer_barco|你 获 得 了 你 的 第 一 条 船 。 一 条 船 不 仅 仅 允 许 你 能 漂 洋 过 海 ， 还 能 让 你 通 过 海 上 贸 易 发 家 致 富 ， 或 是 掠 夺 沿 海 的 村 镇 以 威 震 一 方 ， 还 可 以 远 征 敌 国 来 成 为 一 地 之 主 。 挪 威 人 还 说 一 条 船 甚 至 能 够 把 你 带 到 往 生 世 界 。 ^^然 而 ， 航 行 充 满 了 危 机 ， 大 海 如 同 一 口 大 开 着 的 坟 墓 ， 随 时 准 备 吞 噬 你 们 。 冬 季 的 暴 风 雨 会 让 船 体 受 损 ， 但 是 平 静 天 气 也 好 不 了 哪 里 去 ， 因 为 无 风 的 日 子 将 迫 使 你 的 手 下 拼 命 划 桨 。 为 了 防 止 水 手 疲 劳 过 度 ， 在 夜 幕 降 临 时 停 留 在 陆 地 上 休 息 是 一 个 好 习 惯 。 ^^船 也 是 一 笔 宝 贵 的 财 富 ， 它 的 主 人 必 须 时 刻 珍 惜 。 ^^如 果 你 想 出 航 离 开 的 话 ， 就 回 到 这 里 … 
+menu_arboleda_conrey2|你 随 国 王 来 到 附 近 的 小 树 林 ， 避 开 窥 视 与 耳 目 。 
+mno_talk_to_reyhorik2|和 霍 里 克 国 王 交 谈 。 
+menu_meeting_ragnarssons|诺 丁 汉 城 门 外 ， 几 名 男 子 前 来 迎 你 。 他 们 虽 全 副 武 装 ， 却 无 敌 意 ， 反 而 面 露 喜 色 。 
+mno_talk_to_siegemen|和 他 们 谈 谈 。 
+menu_primer_barco|你 拥 有 了 第 一 艘 船 。 船 不 仅 让 你 得 以 渡 海 ， 更 能 让 你 靠 海 上 贸 易 致 富 ， 凭 突 袭 海 岸 村 镇 令 人 畏 惧 ， 凭 征 服 异 域 称 王 。 北 方 人 还 说 ， 船 能 载 你 前 往 来 世 。 ^^然 而 ， 航 行 亦 险 象 环 生 。 大 海 如 同 船 底 敞 开 的 坟 墓 ， 随 时 吞 噬 你 和 部 下 。 冬 季 风 暴 会 损 毁 船 只 ， 无 风 之 日 却 更 糟 ， 逼 得 人 拼 命 划 桨 。 为 避 免 水 手 过 劳 ， 惯 例 是 夜 泊 陆 地 ， 上 岸 休 息 。 ^^船 也 是 珍 贵 财 产 ， 主 人 必 须 时 刻 看 顾 。 ^^若 想 启 航 ， 就 回 到 此 处 … … 
 mno_choice_01_1bar|继 续 。 
-mno_lugar_des|出 发 。 
-menu_banquete_moral_refuge|你 命 令 士 兵 们 卸 下 武 器 ， 然 后 邀 请 他 们 进 入 大 厅 ， 并 且 逐 级 而 座 ， 最 亲 密 的 人 则 坐 在 你 最 近 。 ^女 佣 们 以 丰 盛 的 菜 肴 和 蜜 酒 款 待 着 来 宾 。 你 为 这 场 盛 宴 支 付 了 一 笔 巨 额 的 账 单 ， 不 过 你 认 为 你 的 部 下 们 应 当 享 有 这 一 切 。 ^因 为 他 们 是 与 你 同 生 共 死 、 助 你 横 扫 千 军 的 人 ， 他 们 也 是 对 你 无 比 忠 诚 的 追 随 者 。 ^夜 深 了 ， 许 多 人 喝 得 烂 醉 如 泥 ， 有 的 又 叫 又 唱 ， 而 一 些 人 呕 吐 不 止 ， 其 他 人 则 为 了 吸 引 姑 娘 们 的 青 睐 而 像 斗 鸡 一 样 打 闹 。 ^在 你 背 后 ， 吟 游 诗 人 歌 颂 着 你 的 丰 功 伟 绩 和 英 雄 荣 耀 。 你 像 领 主 一 样 行 动 ， 你 也 确 实 是 个 领 主 ， 一 个“ 牧 人” 。 
-mno_banquete_okr|你 边 喝 边 大 声 笑 ， 他 们 来 了 。 
-mno_banquete_ok2r|你 保 持 清 醒 ， 酒 虽 好 ， 但 没 有 必 要 过 量 。 
-mno_banquete_ok3r|你 向 手 下 分 发 指 环 和 手 镯（ 2000 先 令） 。 
-menu_player_lair_menus|{s10}这 是 属 于 你 的 据 点 ， 让 你 在 逃 离 敌 人 后 藏 身 于 此 ， 或 者 在 运 气 不 佳 时 等 待 东 山 再 起 ， 长 途 奔 波 后 在 这 里 歇 脚 ， 还 能 把 你 个 人 的 财 富 藏 在 这 儿 。 ^^{s11}^^{s13}
-mno_banquete_refugemead|为 我 的 士 兵 举 办 一 场 盛 宴 。 
-mno_guarida_rename|重 命 名 你 的 避 难 所 。 
-mno_lair_interior|前 往 避 难 所 大 厅 。 
-mno_lair_interior_door|前 往 避 难 所 。 
-mno_visit_tavern_lair|前 往 蜜 酒 厅 
-mno_visit_tavern_lair_door|出 门 前 往 会 议 厅 。 
-mno_lair_buildings_improve|和 你 的 队 长 谈 话 。 
-mno_lair_buildings_improve_door|前 往 避 难 所 。 
-mno_hirelair_staff|招 募 员 工 。 
-mno_lair_inspect|在 你 的 避 难 所 转 转 。 
-mno_lair_inspect_door|出 门 前 往 广 场 。 
-mno_mylair_station_troops|管 理 驻 兵 。 
-mno_demoler_lair|拆 除 你 的 避 难 所 (500 先 令 ) 。 
-mno_lair_wait|在 这 里 休 息 一 会 儿 。 
-mno_see_ships|看 看 你 的 船 。 ( 建 造 中 )
-mno_embarkre|上 船 。 
-mno_lair_leave|离 开 … 
-mno_lair_leave_door|离 开 此 地 。
-menu_demoler_lairm|你 确 定 你 要 拆 除 避 难 所 吗 ？ 
-mno_demoler_yes|是 的 (1000 先 令 ) 。 
+mno_lugar_des|行 动 。 
+menu_banquete_moral_refuge|命 部 下 把 武 器 留 在 外 面 ， 请 他 们 进 大 厅 ， 按 位 次 入 座 。 最 亲 近 者 坐 你 最 近 。 姑 娘 们 端 上 大 份 肉 和 蜜 酒 。 ^^这 场 宴 会 花 掉 你 一 小 笔 财 富 ， 但 部 下 值 得 。 他 们 与 你 并 肩 流 血 ， 助 你 征 服 领 地 ， 是 你 忠 心 的 追 随 者 。 ^^夜 色 渐 深 ， 许 多 人 醉 如 酒 桶 ， 喊 叫 歌 唱 。 有 人 跑 去 呕 吐 ， 有 人 像 斗 鸡 般 打 架 只 为 吸 引 姑 娘 注 意 。 你 身 后 ， 吟 游 诗 人 唱 诵 你 的 威 权 与 功 绩 。 ^^你 表 现 得 像 一 位 战 争 领 主 。 你 正 是 战 争 领 主 … … “ 众 人 的 牧 者 ” 。 
+mno_banquete_okr|你 与 他 们 同 饮 同 笑 同 喊 。 
+mno_banquete_ok2r|你 保 持 清 醒 ， 只 略 尝 杯 中 物 ， 绝 不 多 饮 。 
+mno_banquete_ok3r|你 召 集 部 下 ， 赐 给 他 们 戒 指 与 臂 环 （ 2000 银 便 士 ） 。 
+menu_player_lair_menus|你 身 处 {s10}， 这 是 只 属 于 你 自 己 的 庇 护 所 ， 一 处 远 离 敌 人 的 隐 秘 退 处 。 当 局 势 恶 化 ， 你 可 在 此 藏 身 ； 旅 途 疲 惫 ， 可 在 此 歇 息 ； 最 私 人 的 珍 宝 ， 也 可 存 放 于 此 。 ^{s11}^{s13}
+mno_banquete_refugemead|我 的 部 下 理 当 在 我 的 庇 护 所 里 享 用 盛 宴 。 
+mno_guarida_rename|重 命 名 你 的 庇 护 所 。 
+mno_lair_interior|前 往 庇 护 所 大 厅 。 
+mno_lair_interior_door|庇 护 所 之 门 。 
+mno_visit_tavern_lair|前 往 蜜 酒 厅 。 
+mno_visit_tavern_lair_door|蜜 酒 厅 之 门 。 
+mno_lair_buildings_improve|与 你 的 船 长 交 谈 。 
+mno_lair_buildings_improve_door|庇 护 所 之 门 。 
+mno_hirelair_staff|招 募 人 手 。 
+mno_lair_inspect|在 庇 护 所 里 走 走 。 
+mno_lair_inspect_door|前 往 广 场 。 
+mno_mylair_station_troops|管 理 驻 军 。 
+mno_demoler_lair|拆 除 你 的 私 人 庇 护 所 。 
+mno_lair_wait|在 此 稍 候 片 刻 。 
+mno_see_ships|查 看 船 只 。 
+mno_embarkre|启 程 。 
+mno_lair_leave|离 开 … … 
+mno_lair_leave_door|离 开 … … 
+menu_demoler_lairm|你 确 定 要 拆 除 庇 护 所 吗 ？ 
+mno_demoler_yes|确 定 （ {reg1}银 便 士 ） 。 
 mno_demoler_no|返 回 。 
-menu_conversacion_companions1|在 半 路 上 停 下 休 息 的 时 候 ， 伯 伦 希 尔 带 领 着 伙 伴 们 来 到 你 面 前 ， 她 有 什 么 话 要 说 。 
+menu_conversacion_companions1|途 中 休 息 时 ， 伯 伦 希 尔 带 着 伙 伴 们 走 近 ， 她 有 事 要 说 。 
 mno_talk_to_brunhild|听 听 伯 伦 希 尔 想 说 什 么 。 
-menu_conversacion_companions2|在 半 路 上 停 下 休 息 的 时 候 ， 你 的 伙 伴 们 靠 近 过 来 ， 他 们 神 情 焦 虑 。 
+menu_conversacion_companions2|途 中 休 息 时 ， 伙 伴 们 走 近 ， 他 们 神 情 忧 虑 。 
 mno_talk_to_companions2|听 听 他 们 想 说 什 么 。 
-menu_conversacion_companionsbodo_choice|在 半 路 上 停 下 休 息 的 时 候 ， 博 多 带 领 着 伙 伴 们 来 到 你 面 前 ， 他 有 什 么 话 要 说 。 
-mno_talk_to_bodochoice|听 听 博 多 想 说 什 么 。 
-menu_caio_entry|你 的 手 下 报 告 ， 有 人 来 访 。 这 是 一 个 瘦 高 的 男 孩 ， 他 看 上 去 很 高 兴 ， 你 确 定 他 是 老 罗 马 人 的 儿 子 。 
+menu_conversacion_companionsbodo_choice|途 中 休 息 时 ， 博 多 带 着 伙 伴 们 走 近 ， 他 有 事 要 说 。 
+mno_talk_to_bodochoice|听 博 多 说 话 。 
+menu_caio_entry|手 下 通 报 有 人 来 访 。 那 是 个 瘦 高 少 年 ， 一 脸 欢 喜 。 你 认 出 他 是 老 罗 马 人 的 儿 子 。 
 mno_talk_to_caio|继 续 。 
-menu_egil_conversacion|你 的 仆 人 告 诉 你 ， 有 一 个 男 人 来 觐 见 你 ， 那 是 一 个 身 强 力 壮 的 男 人 ， 看 起 来 充 满 自 信 ， 也 没 有 携 带 武 器 。 他 大 步 向 你 走 来 ， 一 直 盯 着 你 的 眼 睛 。 在 他 快 要 到 你 面 前 时 ， 你 的 贴 身 侍 卫 用 长 矛 拦 住 了 他 …
+menu_egil_conversacion|手 下 通 报 有 人 向 你 走 来 。 只 有 一 人 ， 毫 不 躲 藏 ， 大 步 而 来 。 他 身 材 高 大 ， 健 壮 挺 拔 。 走 到 你 人 面 前 ， 他 摊 开 双 手 ， 示 意 无 兵 无 刃 。 他 目 光 搜 寻 ， 最 终 落 在 你 身 上 ， 径 直 向 你 走 来 。 一 名 手 下 举 矛 拦 住 … … 
 mno_talk_to_egil|继 续 。 
-menu_aghatinos_conversacion|在 路 边 ， 一 个 男 人 坐 在 一 块 大 岩 石 上 。 他 又 高 又 瘦 ， 穿 的 衣 服 很 糟 糕 ， 似 乎 人 畜 无 害 。 他 冷 静 地 打 量 着 过 往 行 人 ， 似 乎 在 等 着 什 么 人 ， 直 到 你 走 到 他 身 边 ， 他 的 眼 睛 牢 牢 盯 住 你 ， 并 起 身 向 你 走 来 … 
+menu_aghatinos_conversacion|路 边 ， 一 人 独 坐 巨 石 之 上 。 他 又 高 又 瘦 ， 衣 衫 褴 褛 ， 看 似 无 害 。 陌 生 人 平 静 等 候 ， 直 到 你 走 近 。 他 扫 视 众 人 ， 目 光 停 在 你 身 上 ， 随 即 起 身 迎 上 。 
 mno_talk_to_aghatinos|和 他 谈 谈 。 
-menu_egil_rebelion|似 乎 有 点 不 对 劲 。 你 听 到 尖 叫 ， 看 见 埃 吉 尔 正 走 向 你 。 
+menu_egil_rebelion|似 乎 出 了 乱 子 。 你 听 见 尖 叫 ， 看 见 埃 吉 尔 正 朝 你 走 来 。 
 mno_talk_to_egilreb|听 埃 吉 尔 说 。 
-menu_egil_rebelion2|埃 吉 尔 倒 在 你 的 脚 边 ， 并 将 长 眠 不 起 ， 你 的 手 下 把 他 的 尸 体 抬 走 埋 葬 。 埃 吉 尔 是 你 十 分 要 好 的 朋 友 ， 也 是 你 团 队 重 要 的 一 员 ， 他 的 死 沉 重 地 压 在 你 和 你 战 士 的 心 头 。 
-mno_permitir1|亲 手 埋 葬 埃 吉 尔 ， 并 支 付 他 的 丧 葬 费 。 
-mno_permitir2|让 手 下 埋 了 埃 吉 尔 。 
-mno_permitir3|不 要 让 士 兵 埋 葬 埃 吉 尔 。 把 尸 体 留 给 乌 鸦 ！ 
-menu_egil_duel|埃 吉 尔 走 向 你 ， 你 们 俩 是 很 好 的 朋 友 ， 是 你 还 是 他 …
+menu_egil_rebelion2|埃 吉 尔 的 尸 体 倒 在 你 脚 边 ， 永 眠 于 此 。 几 名 随 从 抬 走 他 的 遗 体 准 备 安 葬 。 埃 吉 尔 是 队 中 深 受 爱 戴 的 一 员 ， 他 的 死 让 众 战 士 心 头 沉 重 。 
+mno_permitir1|亲 自 参 加 葬 礼 ， 为 埃 吉 尔 支 付 丧 葬 费 用 。 
+mno_permitir2|允 许 他 们 安 葬 埃 吉 尔 。 
+mno_permitir3|不 许 士 兵 埋 葬 埃 吉 尔 ， 把 尸 体 留 给 乌 鸦 ！ 
+menu_egil_duel|埃 吉 尔 向 你 走 来 ， 众 人 围 成 一 圈 。 不 是 你 ， 就 是 他 … … 
 mno_fight_egilrebdu|战 斗 。 
 mno_choice_01_1frankia|继 续 
-menu_cueva_odin|大 海 的 气 味 在 这 个 区 域 无 处 不 在 ， 海 浪 拍 击 悬 崖 产 生 的 声 音 如 雷 鸣 般 在 你 的 脑 海 中 回 荡 。 在 狭 窄 海 滩 的 尽 头 ， 有 一 条 小 路 ， 你 辨 别 地 上 的 足 迹 ， 猜 测 那 是 属 于 一 个 男 人 的 。 这 条 路 很 难 走 ， 你 决 定 自 己 跟 过 去 看 看 ， 所 以 你 命 令 手 下 在 这 等 待 。 
+menu_cueva_odin|海 风 咸 腥 扑 面 ， 浪 击 悬 崖 的 轰 鸣 在 脑 中 回 荡 。 海 滩 尽 头 有 条 狭 窄 小 径 ， 你 辨 出 有 人 留 下 的 痕 迹 。 路 极 险 ， 只 能 独 往 ， 你 命 部 下 原 地 等 候 ， 自 己 前 去 探 查 。 
 mno_enterod|靠 近 。 
-mno_enterod2|看 起 来 像 某 人 的 窝 ， 调 查 。 
-mno_choice_od|我 需 要 招 募 更 多 的 人 。
-mno_encounter_savefarmod|离 开 。 
-menu_orm_duel|你 从 农 场 走 到 一 块 空 地 上 ， 此 时 乌 尔 夫 的 奴 隶 正 在 准 备 决 斗 的 场 地 ， 他 们 用 石 头 围 成 一 个 大 圆 圈 。 你 慢 步 走 到 圈 外 ， 农 场 里 的 所 有 人 和 你 的 伙 伴 们 都 围 在 你 的 身 边 ， 给 你 加 油 鼓 劲 。 奥 姆 正 在 热 身 ， 他 显 得 很 自 信 ， 好 像 对 你 不 屑 一 顾 。 他 也 确 实 有 这 个 资 格 ， 因 为 他 的 连 胜 纪 录 到 目 前 为 止 都 未 曾 被 打 破 。 你 的 同 伴 轻 轻 拍 了 拍 你 的 背 ， 告 诉 你 一 些 关 于 决 斗 的 技 巧 ， 所 有 人 都 在 祝 福 你； 除 了 雷 因 哈 德 ， 他 悲 伤 的 说 他 要 帮 你 写 墓 志 铭 ， 并 亲 手 刻 在 你 的 墓 碑 上 … 突 然 ， 埃 吉 尔 指 着 奥 姆 叫 你 快 看 ， 你 转 头 发 现 奥 姆 已 经 停 止 了 热 身 ， 他 的 身 体 仿 佛 不 受 控 制 了 ， 而 且 不 停 抽 搐 ， 口 吐 白 沫 。 突 然 ， 他 慢 慢 抬 起 了 头 ， 只 见 他 布 满 血 丝 的 眼 中 直 勾 勾 的 盯 着 你 ， 口 中 不 停 地 说 着 些 莫 名 奇 妙 的 话 。 就 在 你 思 考 这 一 切 是 怎 么 回 事 的 时 候 ， 奥 姆 像 一 条 毒 蛇 一 样 飞 速 的 向 你 扑 来 … 
-mno_duel_orm|进 入 战 斗 。 
-menu_orm_duel_win|黑 人 奥 姆 的 尸 体 直 挺 挺 地 倒 在 你 的 脚 边 ， 你 握 剑 的 手 臂 被 奥 姆 震 得 发 麻 。 你 的 脑 中 不 段 的 重 复 着 刚 才 决 斗 的 画 面 ， 心 里 疑 惑 他 是 如 何 用 手 臂 挡 住 你 锋 利 的 剑 锋 的 ， 难 道 他 能 对 疼 痛 免 疫 ？ 但 毫 无 疑 问 你 是 幸 运 的 ， 因 为 你 刚 刚 打 败 了 一 个 狂 战 士 ！ 
-menu_viking_duel_win|决 斗 结 束 ， 你 击 败 了 {s1} 。 吟 游 诗 人 们 把 你 的 壮 举 编 成 诗 歌 ， 四 处 传 唱 。 
-menu_viking_duel_lose|{s1}由 于 对 手 太 过 厉 害 ， 你 已 经 被 打 败 了 。 {s1}的 连 胜 记 录 上 将 再 增 加 一 次 ， 而 诗 人 们 也 将 继 续 传 唱 他 的 事 迹 ， 而 你 ， 仅 仅 是 作 为 手 下 败 将 被 人 们 偶 尔 谈 起 。 
+mno_enterod2|像 是 某 人 的 巢 穴 ， 前 去 调 查 。 
+mno_choice_od|洞 穴 无 人 再 占 ， 回 忆 让 你 不 寒 而 栗 。 
+mno_encounter_savefarmod|你 觉 得 还 需 更 多 准 备 ， 离 开 。 
+menu_orm_duel|你 从 农 场 走 到 空 地 ， 乌 尔 夫 的 奴 隶 正 用 石 头 围 出 决 斗 圈 。 农 场 的 人 与 你 的 手 下 列 成 外 圈 为 你 呐 喊 。 你 面 前 ， “ 黑 ” 奥 姆 活 动 着 硕 大 的 肌 肉 ， 神 情 自 信 ； 凭 他 全 胜 的 战 绩 ， 这 份 自 信 也 不 算 过 分 。 同 伴 们 拍 你 后 背 ， 送 上 技 巧 与 祝 福 ， 只 有 雷 因 哈 德 悲 观 地 说 要 为 你 刻 墓 志 铭 。 突 然 ， 埃 吉 尔 指 向 奥 姆 ： 狂 战 士 已 停 止 热 身 ， 全 身 抽 搐 ， 口 吐 白 沫 。 他 猛 地 抬 头 ， 血 红 双 眼 盯 着 你 ， 嘶 吼 着 无 人 能 懂 的 话 语 ， 像 毒 蛇 般 扑 来 ， 速 度 之 快 远 超 这 巨 汉 应 有 的 敏 捷 … … 
+mno_duel_orm|跳 入 战 团 。 
+menu_orm_duel_win|“ 黑 ” 奥 姆 的 尸 体 横 陈 在 你 脚 边 。 你 因 格 挡 他 狂 暴 的 攻 势 而 双 臂 酸 痛 ， 脑 中 不 断 闪 回 决 斗 的 惊 险 瞬 间 。 你 惊 异 于 奥 姆 的 狂 怒 与 对 疼 痛 的 免 疫 。 毫 无 疑 问 ， 你 刚 与 一 名 狂 战 士 搏 命 并 幸 存 ， 实 属 幸 运 。 
+menu_viking_duel_win|决 斗 结 束 ， 你 击 败 了 {s1}。 吟 游 诗 人 将 传 颂 你 的 胜 利 ， 你 的 威 名 会 随 口 碑 远 播 。 
+menu_viking_duel_lose|{s1}技 艺 高 超 ， 你 败 下 阵 来 。 吟 游 诗 人 将 以 歌 声 传 扬 他 的 胜 利 ， 而 你 的 名 字 只 会 作 为 败 者 被 偶 尔 提 起 。 
 mno_duel_rebelion|接 受 挑 战 。 
-menu_duel_rebelion_enemyback|鉴 于 你 的 凶 猛 ， 你 的 对 手 拒 绝 与 你 进 行 决 斗 。 他 在 你 的 手 下 们 的 嘘 声 中 离 开 了 。 
-menu_duel_rebelion_win|决 斗 结 束 了 。 你 的 敌 人 躺 在 地 上 ， 你 用 娴 熟 的 武 技 和 出 众 的 武 器 打 败 了 他 。 你 也 希 望 这 能 成 为 对 其 他 潜 在 的 竞 争 对 手 的 警 告 。 现 在 你 的 首 要 任 务 是 恢 复 体 力 和 提 高 部 队 的 士 气 。 
-menu_thething_messenger|一 名 信 使 策 马 飞 奔 而 来 。 他 跑 到 你 面 前 气 喘 咻 咻 道 ： ^^我 的 国 王 ， 丹 麦 的 霍 里 克 国 王 ， 邀 请 您 参 加 在 里 伯 举 行 的 议 事 会 。 大 会 将 讨 论 你 与 牛 颈 斯 温 和 西 格 德· 拉 格 纳 逊 的 争 执 ， 你 必 须 尽 快 赶 过 去 ， 否 则 议 事 会 将 取 消 你 的 资 格 。 ^^然 后 信 使 踢 了 下 他 坐 骑 的 屁 股 ， 一 溜 烟 离 开 了 。 
+menu_duel_rebelion_enemyback|对 手 被 你 的 凶 猛 吓 倒 ， 最 终 拒 绝 决 斗 。 他 退 走 时 ， 你 的 部 下 嘲 笑 他 的 怯 懦 。 
+menu_duel_rebelion_win|决 斗 结 束 。 敌 人 倒 在 你 的 武 器 技 巧 之 下 ， 败 于 地 面 。 你 希 望 这 能 警 示 其 他 潜 在 对 手 。 如 今 你 的 任 务 是 恢 复 信 心 ， 提 振 军 队 士 气 。 
+menu_thething_messenger|一 名 信 使 策 马 而 来 ， 挥 鞭 疾 驰 。 他 在 你 面 前 勒 住 马 ， 喘 口 气 后 高 喊 ： ^^“ 陛 下 ， 丹 麦 的 霍 里 克 国 王 邀 您 前 往 里 伯 附 近 的 集 结 地 。 因 会 议 将 处 理 您 对 ‘牛 颈 ’斯 温 与 西 格 德 · 拉 格 纳 逊 的 控 诉 ， 您 必 须 尽 快 动 身 ， 否 则 集 结 地 将 作 出 对 您 不 利 的 裁 决 。 ” ^^说 罢 ， 信 使 踢 马 离 去 。 
 mno_choice_01_1thing|继 续 
-menu_the_holmgang|一 群 全 副 武 装 的 人 接 近 你 ， 他 们 由 国 王 的 得 力 助 手 哈 罗 德· 哈 罗 德 逊 带 领 ， 他 让 你 想 起 议 事 会 的 判 决 ， 是 时 候 要 登 上 短 岛 进 行 决 斗 了 。 他 们 监 视 着 你 的 队 伍 ， 把 你 带 到 不 远 处 的 一 个 海 滩 ， 已 经 有 一 个 憔 悴 的 老 头 在 那 等 着 了 。 他 们 把 你 安 排 到 小 船 上 ， 哈 罗 德 的 两 个 手 下 将 小 船 推 进 海 中 。 你 和 老 头 都 一 言 不 发 ， 他 开 始 向 着 海 平 面 上 的 一 个 小 岛 划 去 。 
+menu_the_holmgang|一 队 重 装 战 士 向 你 走 来 ， 由 国 王 的 右 手 哈 拉 尔 · 哈 拉 尔 森 率 领 ， 他 提 醒 你 在 集 结 地 立 下 的 承 诺 。 此 刻 正 是 决 斗 之 时 ， 你 的 对 手 已 在 短 岛 等 候 。 他 们 围 住 你 的 队 伍 ， 带 你 到 附 近 海 滩 ， 一 名 瘦 削 老 者 已 在 一 条 小 船 旁 等 待 。 你 上 船 后 ， 哈 拉 尔 的 两 人 将 船 推 入 水 中 。 老 者 一 言 不 发 ， 开 始 向 地 平 线 处 的 小 岛 划 桨 。 
 mno_choice_01_1duelhom|继 续 。 
-menu_the_holmgang2|水 波 潋 滟 ， 你 能 听 到 唯 一 的 是 木 桨 划 水 的 声 音 ， 那 是 一 种 缓 慢 而 沉 稳 的 节 奏 。 老 头 其 实 也 并 不 老 ， 但 艰 苦 的 生 活 和 海 上 风 吹 日 晒 使 他 的 皮 肤 沟 壑 横 生 ， 使 他 看 起 来 像 一 个 长 者 。 他 穿 着 一 件 破 旧 的 盐 漂 白 束 腰 外 衣 ， 手 掌 的 皮 肤 如 同 皮 革 般 粗 糙 。 他 的 瞳 仁 是 海 蓝 色 的 ， 清 澈 如 水 ， 连 一 秒 钟 也 不 看 你 。 前 方 等 待 着 的 对 手 是 一 位 曾 经 的 朋 友 。 议 事 会 的 判 决 很 明 确 ， 二 人 去 小 岛 ， 但 只 有 一 个 能 回 来 。 船 停 在 小 海 滩 附 近 ， 你 下 船 后 ， 老 人 划 着 它 往 大 海 中 走 了 几 十 米 ， 然 后 在 那 里 停 下 来 等 待 。 
+menu_the_holmgang2|水 面 平 静 。 你 只 听 得 到 船 桨 缓 慢 而 坚 定 的 击 水 声 。 老 者 其 实 不 算 老 ， 只 是 海 上 艰 辛 的 皱 纹 让 他 显 得 苍 老 。 他 穿 着 褪 色 的 盐 渍 短 衫 ， 双 手 皮 肤 如 硬 革 。 他 的 蓝 眼 澄 澈 ， 却 从 不 与 你 对 视 ， 只 盯 着 前 方 小 岛 。 前 方 等 待 的 对 手 曾 是 同 伴 。 集 结 地 已 裁 定 ： 两 人 登 短 岛 ， 仅 一 人 可 归 。 船 靠 小 滩 停 下 ， 你 下 船 后 ， 老 者 将 船 划 回 数 十 米 外 的 海 面 ， 静 候 不 动 。 
 mno_choice_01_2duelhom|决 斗 。 
-menu_the_holmgang3|“ 二 人 去 ， 一 人 归 。” ^^你 胜 利 了 ， 但 代 价 是 杀 死 了 一 个 老 朋 友 。 你 还 记 得 雷 因 哈 德 的 一 句 口 头 禅 ： 命 运 无 常 ！ ^^你 搭 乘 老 人 的 船 返 回 到 在 丹 麦 等 待 的 战 士 身 边 。 当 你 到 达 时 ， 他 们 各 自 收 拾 行 囊 ， 但 都 沉 默 不 语 ， 因 为 大 家 都 意 识 到 这 个 时 刻 如 何 凝 重 。 不 久 ， 他 们 准 备 好 了 。 哈 罗 德 和 他 的 人 已 经 离 开 。 现 在 是 时 候 前 往 里 伯 的 蜜 酒 厅 ， 寻 找 那 个 名 叫 阿 斯 比 恩 的 议 事 会 判 官 了 。 
-mno_choice_01_3duelhom|长 途 旅 行 。
-menu_the_thing|在 古 籍 的 记 载 中 ， 当 人 们 背 负 着 巨 石 来 祭 祀 死 者 或 膜 拜 神 灵 时 ， 他 们 就 会 来 到 议 事 会 。 慢 慢 接 近 时 ， 你 会 听 到 了 各 种 嘈 杂 声 音 ， 看 到 各 种 各 样 帐 篷 ， 嗅 到 商 人 们 贩 卖 的 食 物 气 味 。 你 现 在 有 点 明 白 议 事 会 是 什 么 东 西 了 ， 这 里 不 仅 用 于 商 议 政 事 或 作 出 判 决 ， 还 是 人 们 交 换 货 物 和 信 息 的 场 所 。 
-mno_enter_thing|进 入 。 
-mno_encounter_leavethething|离 开 。 
-menu_partida_ribe_fleet|最 终 ， 在 你 为 这 次 长 途 旅 程 做 好 准 备 之 后 ， 加 入 了 在 里 伯 港 口 外 的 壮 观 的 舰 队 ， 沿 着 鲸 鱼 游 动 的 路 线 ， 离 开 了 丹 麦 。 
-mno_choice_01_3dfl|参 加 探 险 队 。 
-menu_partida_ribe_fleet2|目 前 ， 舰 队 被 明 显 分 成 两 支 ， 它 们 有 着 各 自 的 指 挥 官 ， 一 边 是 由 西 格 德 雅 尔 撑 腰 的 牛 颈 斯 温 ， 一 边 是 由 霍 里 克 国 王 支 持 的 哈 罗 德· 哈 罗 德 逊 。 ^^但 现 在 不 是 担 心 的 时 候 ， 迎 着 大 海 带 来 的 自 由 气 息 ， 你 的 船 正 驶 向 英 格 兰 — — 那 个 遍 地 是 金 ， 男 儿 名 扬 四 海 的 地 方 。 现 在 你 比 任 何 时 候 都 更 接 近 牛 颈 斯 温 。 你 只 需 等 待 一 个 机 会 ， 杀 掉 他 然 后 救 回 你 的 母 亲 … 命 运 总 是 眷 顾 有 耐 心 的 人 。 
+menu_the_holmgang3|“ 两 人 登 岛 ， 仅 一 人 归 。 ” ^^你 获 胜 了 ， 却 付 出 杀 死 旧 日 同 伴 的 代 价 。 你 脑 中 回 响 着 雷 因 哈 德 常 念 的 那 句 ： Gaedawyrdswahioscel！ 命 运 总 是 如 她 所 愿 ！ ^^老 者 驾 船 把 你 送 回 丹 麦 ， 战 士 们 正 等 在 那 里 。 你 抵 达 后 ， 他 们 默 默 收 拾 行 装 ， 无 人 言 语 ， 都 明 白 此 刻 的 沉 重 。 很 快 ， 他 们 准 备 就 绪 。 哈 拉 尔 和 他 的 人 已 离 去 。 是 时 候 前 往 里 伯 的 蜜 酒 厅 ， 寻 找 名 叫 阿 斯 比 恩 的 集 结 地 判 官 了 。 
+mno_choice_01_3duelhom|旅 行 。 
+menu_the_thing|在 仿 佛 远 古 的 场 景 里 ， 人 们 曾 搬 动 巨 石 以 祭 奠 亡 者 或 荣 耀 诸 神 ， 如 今 集 结 地 亦 在 此 举 行 。 走 近 时 ， 数 百 人 的 声 音 愈 发 清 晰 ， 帐 篷 林 立 ， 商 摊 的 食 物 香 气 扑 鼻 。 集 结 地 ， 或 称 “ 庭 ” ， 不 仅 是 讨 论 事 务 、 作 出 裁 决 的 集 会 ， 也 是 周 边 民 众 交 换 消 息 、 买 卖 货 物 的 盛 会 。 
+mno_enter_thing|靠 近 。 
+menu_partida_ribe_fleet|自 你 抵 达 以 来 ， 里 伯 港 口 便 喧 嚣 不 止 。 八 百 名 维 京 人 及 其 船 长 正 按 到 达 顺 序 登 船 ， 奴 隶 们 搬 运 行 李 、 补 给 ， 甚 至 牲 畜 。 多 为 载 货 用 的 克 诺 尔 船 ， 亦 有 二 十 余 艘 战 船 。 ^^夜 里 你 宿 于 船 上 ， 白 日 尽 力 帮 忙 。 战 士 们 借 邻 人 和 快 活 寡 妇 的 好 意 消 磨 时 光 。 你 尚 未 靠 近 “ 牛 颈 ” 斯 温 — — 或 者 说 他 的 船 — — 但 听 说 他 与 哈 拉 尔 这 两 位 舰 队 首 领 常 为 琐 事 争 吵 ， 哈 拉 尔 的 人 甚 至 在 街 头 被 捅 。 ^^终 于 ， 众 人 备 妥 远 航 ， 舰 队 驶 离 里 伯 ， 循 鲸 之 路 ， 告 别 丹 麦 。 
+mno_choice_01_3dfl|加 入 远 征 。 
+menu_partida_ribe_fleet2|如 今 ， 受 雅 尔 西 格 德 庇 护 的 “ 牛 颈 ” 斯 温 与 受 霍 里 克 国 王 庇 护 的 哈 拉 尔 · 哈 拉 尔 森 之 间 分 歧 昭 然 ， 舰 队 依 拥 护 对 象 一 分 为 二 。 ^^但 此 刻 无 须 忧 虑 。 海 风 带 来 浪 花 的 自 由 ， 你 的 船 正 驶 向 英 格 兰 — — 那 片 河 流 淌 银 、 男 儿 扬 名 的 土 地 。 你 离 “ 牛 颈 ” 斯 温 从 未 如 此 之 近 ， 只 待 时 机 一 到 ， 杀 他 救 母 … … 命 运 总 酬 耐 心 之 人 。 
 mno_choice_02_3dfl|继 续 前 往 英 格 兰 。 
-menu_sven_attack_fleet|在 好 天 气 的 情 况 下 ， 从 里 伯 到 约 维 克 的 航 程 一 般 需 要 三 天 ， 但 因 为 航 速 较 慢 ， 所 以 可 能 要 额 外 花 上 一 两 天 。 船 只 分 散 前 进 ， 但 这 是 常 态 ， 航 行 的 方 向 往 往 都 由 风 向 作 主 ， 船 队 最 后 会 在 目 的 地 集 合 。 ^^这 样 的 长 途 旅 行 需 要 由 水 手 们 按 照 日 常 的 计 划 工 作 ， 不 分 昼 夜 ， 因 为 船 只 不 能 在 海 上 停 下 。 男 人 们 拥 挤 在 一 起 的 气 味 ， 以 及 饮 食 都 让 你 很 难 受 ， 尤 其 是 当 你 必 须 趴 在 船 舷 上 喘 息 的 时 候 。 ^^最 后 ， 哈 罗 德 和 斯 温 之 间 的 分 歧 变 得 越 来 越 大 ， 各 自 忠 于 两 边 的 船 长 都 只 会 单 独 会 面 ， 而 船 队 也 在 分 开 航 行 。 哈 罗 德 通 知 你 和 其 他 船 长 到 他 的 船 上 召 开 紧 急 会 议 。 很 明 显 ， 一 个 忠 于 牛 颈 斯 温 的 船 长 改 投 了 哈 罗 德 ， 并 且 带 来 了 消 息 。 ^^你 期 待 着 会 议 上 将 有 好 消 息 ， 特 别 是 关 于 你 母 亲 的 。 
+menu_sven_attack_fleet|自 里 伯 至 埃 奥 弗 维 克 — — 丹 麦 人 称 约 维 克 — — 若 天 公 作 美 三 日 可 达 ， 然 克 诺 尔 船 慢 ， 多 半 要 多 耗 一 两 日 。 船 只 分 散 ， 却 属 常 事 ； 风 帆 听 风 ， 终 在 目 的 地 会 合 。 ^^长 途 需 例 程 ： 众 人 轮 班 劳 作 ， 夜 亦 不 歇 ， 因 舰 队 离 岸 不 停 。 拥 挤 的 男 人 气 味 熏 天 ， 饮 水 与 食 物 皆 难 以 下 咽 ， 解 手 时 还 得 探 身 船 尾 ， 极 不 自 在 。 ^^最 终 ， 哈 拉 尔 与 斯 温 的 裂 痕 公 开 。 两 人 各 自 召 集 效 忠 的 船 长 ， 舰 队 分 途 。 哈 拉 尔 召 你 与 其 他 船 长 至 其 船 紧 急 会 商 。 原 来 一 名 原 属 斯 温 的 船 长 改 投 哈 拉 尔 ， 并 带 来 消 息 。 ^^你 也 期 待 这 次 会 议 ， 或 许 终 能 得 知 母 亲 的 消 息 。 
 mno_choice_mettingcap|船 长 会 议 。 
-menu_playerflee_svenattack|当 你 逃 离 战 场 之 际 ， 身 后 充 斥 着 伤 者 的 哭 喊 ， 以 及 剑 刃 的 激 烈 碰 撞 。 当 牛 颈 斯 温 的 手 下 屠 戮 哈 罗 德· 哈 罗 德 逊 的 部 队 时 ， 你 只 能 抛 下 他 们 。 当 务 之 急 是 前 往 英 格 兰 找 到 拉 弗 伯 斯· 拉 格 纳 逊 ， 将 牛 颈 斯 温 背 叛 国 王 的 行 为 告 知 他 。 
+menu_playerflee_svenattack|身 后 ， 战 斗 渐 远 ， 伤 者 哀 号 与 金 铁 交 击 皆 被 抛 下 。 你 离 开 哈 拉 尔 · 哈 拉 尔 森 的 军 队 ， 任 “ 牛 颈 ” 斯 温 的 人 屠 戮 他 们 。 你 的 任 务 如 今 是 前 往 英 格 兰 ， 找 到 拉 弗 伯 斯 · 拉 格 纳 逊 ， 告 诉 他 发 生 的 一 切 ， 以 及 “ 牛 颈 ” 斯 温 如 何 背 叛 国 王 的 人 。 
 mno_choice_flee1|逃 跑 。 
-menu_way_to_douaranenez|你 立 即 集 合 船 队 并 命 令 水 手 解 开 舰 绳 ， 船 长 们 命 令 水 手 扬 帆 划 桨 。 舰 队 在 晨 风 驱 动 下 驶 离 港 口 ， 开 进 广 阔 的 海 域 。 
-mno_choice_01_3ddouar|去 当 纳 莱 斯 
-menu_way_to_douaranenez2|与 如 此 众 多 的 男 人 挤 在 一 条 船 上 的 日 子 里 ， 没 有 隐 私 和 安 宁 可 言 。 空 气 中 充 满 了 汗 水 、 尿 液 和 皮 脂 的 臭 味 ， 甚 至 盖 过 了 海 的 咸 味 。 ^气 候 温 和 ： 没 有 雷 暴 ， 没 有 狂 风 ， 除 了 雾 气 的 出 现 。 实 际 上 ， 由 于 缺 乏 风 力 ， 航 速 非 常 缓 慢 ， 让 旅 程 更 加 漫 长 。 ^^终 于 ， 附 近 另 一 条 船 的 斥 候 传 来 消 息 ， 当 纳 莱 斯 出 现 了 。 在 村 庄 的 港 湾 里 ， 有 超 过 40条 船 在 等 待 ， 大 部 分 已 经 待 命 战 斗 。 其 中 一 艘 船 离 开 舰 队 并 且 朝 你 驶 来 … 
-mno_choice_d1douar2|开 始 谈 判 。 
-menu_way_to_douaranenez3|你 听 到 村 子 里 有 人 在 讨 论 阿 斯 图 里 亚 斯 的 内 部 分 歧 ， 这 里 偶 而 发 出 剑 声 和 叫 喊 声 。 ^^不 过 现 在 这 些 都 不 重 要 ， 一 艘 坎 塔 布 里 亚 的 船 只 全 速 前 进 把 你 带 回 自 己 的 船 上 。 你 远 远 望 见 ， 你 的 舰 队 正 在 准 备 应 战 敌 人 。 甘 迪 索 瓦 陪 伴 着 你 ， 他 很 严 肃 ， 非 常 严 肃 ， 尽 管 他 在 会 面 中 露 出 了 丑 态 。 他 望 向 双 方 战 船 接 舷 作 战 的 情 况 ， 神 情 狰 狞 ， 即 使 他 是 一 名 无 畏 死 亡 的 资 深 战 士 。 你 的 船 马 上 要 回 归 到 舰 队 中 ， 是 时 候 准 备 指 挥 了 …
-mno_choice_douarbdouar3|加 入 战 斗 。 
-menu_way_to_douaranenez4|海 面 成 为 了 烈 火 、 血 肉 和 死 亡 的 地 狱 。 你 取 胜 了 ， 但 牺 牲 了 无 数 战 士 ， 包 括 那 个 坎 塔 布 里 亚 人 ， 甘 迪 索 瓦 。 ^^这 场 海 战 是 纯 粹 的 疯 狂 ， 但 你 的 敌 人 已 经 逃 离 ， 到 当 纳 莱 斯 寻 找 避 难 之 处 ， 而 你 的 士 兵 正 在 乘 胜 追 击 。 那 里 正 是 你 离 开 博 多 的 地 方 ， 他 曾 尽 其 所 能 把 阿 斯 图 里 亚 斯 和 其 他 国 家 结 成 联 盟 。 ^^轮 到 你 加 入 战 斗 了 …
-mno_choice_douard4|上 岸 。 
-menu_way_to_douaranenez5|当 纳 莱 斯 已 经 不 复 当 初 ， 现 在 只 有 烈 火 和 死 亡 …这 里 的 居 民 纷 纷 在 折 磨 中 惨 死 ， 你 怀 疑 日 后 是 否 还 有 人 敢 在 此 处 定 居 。 ^^你 受 伤 的 士 兵 遍 地 哀 嚎 ， 还 有 一 些 人 依 然 被 战 争 所 震 惊 ， 麻 木 地 呆 望 天 际 ， 无 视 你 的 存 在 。 你 想 起 了 博 多 之 死 ， 还 有 你 最 后 一 次 与 他 并 肩 作 战 的 情 景 。 他 的 失 败 是 不 可 避 免 的 命 运 。 来 自 阿 斯 图 里 亚 斯 王 国 的 舰 队 不 复 存 在 ， 只 有 一 些 失 去 了 首 领 甘 迪 索 瓦 的 坎 塔 布 里 亚 残 兵 跟 随 你 。 你 的 一 些 士 兵 正 在 沉 迷 于 终 结 苟 延 残 喘 的 敌 人 ， 并 抢 光 他 们 的 财 物 。 
-mno_choice_douarb15|宣 布 占 有 这 些 战 利 品 。 
-mno_choice_douarb26|让 你 的 士 兵 分 享 战 利 品 。 
-menu_bjorn_camp|丹 麦 人 在 一 座 山 包 上 建 立 了 一 个 小 型 据 点 ， 通 过 点 算 帐 篷 的 数 量 ， 你 估 计 这 里 驻 扎 着 250至 300人 。 其 中 一 个 行 营 飘 扬 着 比 约 恩 的 旗 帜 ， 他 是 拉 格 纳 最 有 名 的 子 嗣 之 一 。 ^^一 些 人 拦 住 了 你 ， 当 他 们 验 明 你 的 身 份 后 ， 马 上 让 你 通 行 ， 好 像 他 们 早 已 知 道 你 的 来 临 。 
+menu_way_to_douaranenez|你 登 上 舰 队 ， 水 手 们 立 刻 解 缆 拉 索 升 帆 。 微 风 鼓 帆 ， 船 队 启 动 。 船 长 们 向 船 员 喝 令 ， 桨 叶 翻 飞 。 帆 桨 并 用 ， 舰 队 离 港 ， 驶 向 开 阔 海 面 。 
+mno_choice_01_3ddouar|前 往 杜 瓦 讷 内 。 
+menu_way_to_douaranenez2|你 与 众 多 男 人 挤 在 船 上 ， 日 子 难 熬 ， 既 无 隐 私 ， 也 无 宁 静 。 空 气 里 尽 是 陈 汗 、 尿 骚 与 皮 脂 的 臭 味 ， 盖 过 了 海 的 咸 腥 。 ^气 候 温 和 ： 无 风 暴 ， 无 大 风 ， 唯 晨 雾 早 现 。 风 弱 ， 船 行 缓 慢 ， 航 程 拉 长 。 ^^终 于 ， 邻 船 瞭 望 手 指 向 地 平 线 ， 杜 瓦 讷 内 显 现 。 村 湾 泊 着 四 十 余 艘 船 ， 多 在 海 中 ， 已 结 战 阵 。 一 艘 船 离 队 向 你 驶 来 … … 
+mno_choice_d1douar2|加 入 谈 判 。 
+menu_way_to_douaranenez3|身 后 村 中 传 来 争 执 ， 阿 斯 图 里 亚 斯 营 内 似 起 内 讧 ， 刀 剑 声 与 喊 叫 交 织 。 ^^此 刻 皆 与 你 无 关 。 一 艘 坎 塔 布 里 亚 船 满 帆 载 你 回 自 家 战 船 。 远 处 ， 你 的 舰 队 正 调 整 阵 形 迎 敌 。 甘 迪 萨 尔 沃 同 行 ， 他 神 情 严 峻 ， 全 无 会 上 的 滑 稽 。 他 凝 视 两 军 操 桨 占 位 ， 面 如 铁 铸 ， 乃 不 惧 死 的 老 兵 。 你 一 回 船 便 直 指 舰 队 ， 是 时 候 接 管 指 挥 … … 
+mno_choice_douarbdouar3|投 入 战 斗 。 
+menu_way_to_douaranenez4|海 面 已 成 火 、 血 与 死 亡 的 地 狱 。 胜 利 属 于 你 ， 但 许 多 人 倒 在 剑 刃 下 ， 包 括 坎 塔 布 里 亚 人 甘 迪 萨 尔 沃 。 ^^海 战 曾 是 疯 狂 的 谵 妄 ， 如 今 敌 人 溃 逃 。 他 们 欲 退 入 杜 瓦 讷 内 ， 但 你 的 战 士 紧 追 不 舍 ， 在 小 村 再 燃 战 火 。 你 曾 把 博 多 留 在 那 里 ， 他 正 试 图 收 拢 阿 斯 图 里 亚 斯 人 并 协 调 抵 抗 。 ^^轮 到 你 加 入 战 斗 … … 
+mno_choice_douard4|登 陆 。 
+menu_way_to_douaranenez5|杜 瓦 讷 内 已 非 你 初 来 时 的 模 样 ， 如 今 只 剩 烈 火 与 死 亡 … … 居 民 尽 遭 折 磨 ， 你 怀 疑 是 否 还 有 人 敢 再 踏 足 这 片 被 诅 咒 之 地 。 ^^你 听 见 自 己 伤 兵 的 哀 号 ， 有 人 茫 然 从 你 身 旁 走 过 ， 仍 被 战 火 震 骇 。 你 想 起 博 多 战 死 的 那 刻 ， 以 及 你 们 最 后 一 次 并 肩 。 他 的 使 命 终 究 无 可 挽 回 地 失 败 。 阿 斯 图 里 亚 斯 王 国 的 舰 队 已 不 复 存 在 ， 只 剩 失 去 首 领 甘 迪 萨 尔 沃 的 坎 塔 布 里 亚 残 兵 追 随 你 。 如 今 你 是 他 们 的 领 袖 。 一 些 士 兵 正 忙 着 结 果 残 敌 ， 搜 刮 财 物 。 
+mno_choice_douarb15|领 取 你 那 份 战 利 品 。 
+mno_choice_douarb26|让 你 的 手 下 把 全 部 战 利 品 都 留 下 。 
+menu_bjorn_camp|山 丘 上 ， 丹 麦 人 搭 起 一 座 小 营 。 你 数 着 可 见 的 帐 篷 ， 估 计 约 有 二 百 五 十 到 三 百 人 。 其 中 一 顶 帐 篷 上 飘 扬 着 比 约 恩 的 旗 帜 — — 拉 格 纳 最 负 盛 名 的 儿 子 之 一 。 ^^几 名 战 士 拦 住 你 ， 但 一 听 你 自 报 姓 名 便 放 行 ， 仿 佛 早 已 得 知 你 要 来 。 
 mno_enter_bjorncamp|进 入 营 地 。 
-mno_enter_bjorncamp2|调 查 。 
-menu_nothingam_siege|在 远 处 望 下 去 ， 可 以 两 个 撒 克 逊 和 盎 格 鲁 人 的 营 地 包 围 着 诺 丁 汉 。 营 地 非 常 大 ， 能 容 纳 上 千 人 ， 而 且 还 有 战 士 在 周 边 巡 逻 ， 确 保 没 有 人 进 出 。 在 这 个 距 离 ， 你 可 以 分 辨 出 沿 着 城 墙 巡 逻 的 丹 麦 战 士 ， 他 们 肯 定 情 况 不 妙 ， 不 仅 没 有 人 数 优 势 ， 粮 草 也 每 天 有 减 无 增 。 
+mno_enter_bjorncamp2|探 查 。 
+menu_nothingam_siege|远 处 ， 两 座 撒 克 逊 与 盎 格 鲁 人 的 大 营 包 围 诺 丁 汉 ， 足 以 容 纳 数 千 兵 马 ； 城 周 还 有 战 士 巡 逻 ， 禁 止 任 何 人 出 入 。 从 远 处 ， 你 依 稀 看 见 丹 麦 战 士 在 城 墙 上 来 回 巡 守 。 他 们 人 数 明 显 劣 势 ， 粮 草 也 日 渐 枯 竭 。 
 mno_mierce_patrols|穿 过 麦 西 亚 的 巡 逻 队 ， 前 往 诺 丁 汉 。 
-mno_choice_snott|保 存 。 
-menu_nothingam_siege2|你 离 开 诺 丁 汉 ， 回 到 森 林 … 
+mno_choice_snott|我 需 要 再 招 募 些 人 手 。 
+menu_nothingam_siege2|你 离 开 诺 丁 汉 ， 回 到 森 林 … … 
 mno_mierce_patrols2|穿 过 麦 西 亚 的 巡 逻 队 ， 前 往 诺 丁 汉 。 
-menu_nothingam_siege_al|当 你 接 近 诺 丁 汉 时 ， 撒 克 逊 斥 候 们 包 围 了 你 ， 但 没 有 发 起 袭 击 ， 因 为 你 带 着 一 面 使 者 的 旗 帜 。 ^^最 后 ， 几 名 骑 手 出 现 了 ， 他 们 下 马 走 向 你 。 
+menu_nothingam_siege_al|接 近 诺 丁 汉 时 ， 撒 克 逊 巡 逻 队 围 住 你 ， 却 因 你 打 着 使 者 旗 而 未 动 手 。 他 们 让 你 等 了 近 一 个 时 辰 ， 去 请 阿 尔 弗 雷 德 。 ^^终 于 ， 一 队 骑 手 赶 到 ， 下 马 向 你 走 来 。 
 mno_talk_to_alfred|继 续 。 
-menu_ambush_kennemer|当 你 的 队 伍 在 路 边 休 整 时 ， 你 借 此 时 间 来 解 决 一 些 私 事 ， 因 为 你 的 肚 子 感 觉 不 舒 服 。 ^^但 是 当 你 躲 在 石 头 之 间 享 受 片 刻 的 时 候 ， 一 阵 骚 动 从 右 边 打 断 了 你 。 
+menu_ambush_kennemer|队 伍 在 路 边 休 整 ， 你 趁 机 离 营 片 刻 ， 独 自 解 决 肚 腹 不 适 。 ^^你 躲 在 岩 石 间 ， 却 被 右 侧 的 响 动 惊 扰 … … 
 mno_relax_broken|赶 紧 穿 好 裤 子 ， 拿 起 你 的 武 器 。 
-menu_welsh_and_pictish_complete|这 三 十 天 来 ， 你 设 法 保 住 {s3} 。 根 据 博 多 的 信 件 ， 是 时 候 回 去 看 看 有 没 有 牛 颈 斯 温 的 消 息 了 。 
-menu_messeger_mothernews|一 名 送 信 者 鞭 策 着 肮 脏 的 马 停 在 你 的 面 前 叫 喊 着 。 ^^“ 这 个 口 信 送 给 叫 {playername}的 人 。 如 果 你 想 知 道 母 亲 的 消 息 ， 就 去 杜 威 克 附 近 的 野 猪 林 ， 找 找 伐 木 工 的 屋 子 。” ^^送 信 者 转 身 策 马 离 开 。 
-mno_choice_01_newsm|继 续 。 
-menu_circle_mystic|你 发 现 了 一 个 特 别 的 地 方 ， 这 里 看 来 曾 被 古 人 们 修 饰 过 。 也 许 现 在 正 是 欣 赏 另 一 个 时 代 的 艺 术 的 好 时 候 。 
-mno_enter_quest|出 发 。 
-mno_enter_mystic|进 入 。 
-menu_troll_bridge|不 远 处 的 河 上 有 一 道 桥 ， 河 流 没 有 名 字 ， 但 是 这 道 桥 的 名 字 却 广 为 人 知 ， 它 就 是 巨 魔 桥 。 
-mno_enter_troll|往 桥 走 去 。 
-menu_battle_stones|你 看 见 一 所 环 绕 着 卵 石 路 的 房 子 ， 这 里 看 来 是 理 想 的 居 所 ， 处 处 都 是 和 平 和 宁 静 ， 每 天 只 需 要 打 理 牲 畜 和 庄 稼 …因 此 ， 这 里 看 来 也 与 你 动 荡 不 安 的 生 活 格 格 不 入 。 
-mno_enter_stones|进 入 。 
-menu_roman_fort|沿 路 前 进 ， 你 看 见 了 一 些 古 罗 马 堡 垒 的 遗 迹 ， 跟 在 不 列 颠 其 他 地 方 发 现 的 很 相 似 。 
-mno_enter_romanfort|调 查 。 
-menu_farmland_menu|你 到 达 了 一 座 小 农 庄 ， 炊 烟 袅 袅 升 起 ， 但 你 没 有 看 见 半 个 人 影 。 
-mno_enter_ambush|参 观 农 庄 。 
-menu_boar_grove|你 到 达 树 林 的 深 处 。 {s4}
-mno_enter_hut|接 近 小 屋 。 
-mno_enter_hut2|接 近 小 屋 。 
-menu_aescesdun_camp|撒 克 逊 的 军 队 在 雷 丁 镇 被 打 败 后 ， 他 们 撤 到 这 里 重 新 集 结 ， 并 在 山 包 上 建 立 了 一 处 营 地 ， 随 着 每 天 回 营 的 士 兵 渐 渐 恢 复 。 在 丹 麦 人 向 西 撒 克 逊 进 军 的 途 中 ， 这 里 是 一 个 进 行 拦 截 的 要 地 。 ^^这 个 地 方 叫 做 阿 先 顿 。 ^^{s4}
+menu_welsh_and_pictish_complete|二 十 天 过 去 ， 你 设 法 保 住 了 {s3}。 是 时 候 回 去 ， 看 看 “ 牛 颈 ” 斯 温 的 消 息 ， 以 及 博 多 那 封 信 的 答 复 。 
+menu_messeger_mothernews|一 名 信 使 策 马 而 来 ， 坐 骑 瘦 弱 不 堪 。 他 在 你 面 前 勒 住 ， 喘 口 气 喊 道 ： ^^“ 这 封 信 是 给 叫 {playername}的 人 。 若 想 得 知 你 母 亲 的 消 息 ， 就 去 多 默 克 修 道 院 附 近 的 野 猪 林 ， 找 樵 夫 的 小 屋 。 ” ^^说 罢 ， 他 踢 马 启 程 ， 疾 驰 而 去 。 
+mno_choice_01_newsm|继 续 
+menu_circle_mystic|你 眼 尖 地 看 到 一 处 特 别 之 地 ， 像 是 古 人 所 建 。 也 许 正 适 合 前 去 一 游 ， 领 略 旧 日 技 艺 。 
+mno_enter_quest|行 动 。 
+mno_enter_mystic|靠 近 。 
+menu_troll_bridge|不 远 处 有 一 座 横 跨 溪 流 的 桥 。 溪 流 本 身 没 有 名 字 ， 但 这 座 桥 却 广 为 人 知 ， 名 为 巨 魔 桥 。 
+mno_enter_troll|向 桥 走 去 。 
+menu_battle_stones|你 看 到 附 近 有 一 幢 房 子 ， 地 面 围 着 一 圈 石 头 。 这 里 似 乎 是 个 田 园 牧 歌 般 的 居 所 ， 四 周 宁 静 祥 和 ， 只 需 起 床 照 料 牲 畜 或 庄 稼 … … 与 你 奔 波 劳 顿 的 旅 途 生 活 简 直 天 差 地 别 。 
+menu_roman_fort|沿 着 小 路 前 行 ， 你 能 看 见 一 座 古 罗 马 堡 垒 的 废 墟 ， 与 在 不 列 颠 其 他 地 方 发 现 的 类 似 。 
+mno_enter_romanfort|探 查 。 
+menu_farmland_menu|你 抵 达 途 中 的 一 座 小 村 庄 。 烟 囱 里 升 起 炊 烟 ， 却 不 见 屋 外 有 人 。 
+mno_enter_ambush|探 访 村 庄 。 
+menu_boar_grove|你 来 到 一 片 幽 深 的 树 林 。 {s4}
+mno_enter_hut|靠 近 小 屋 。 
+mno_enter_hut2|靠 近 小 屋 。 
+menu_aescesdun_camp|撒 克 逊 军 在 雷 丁 姆 战 败 后 撤 至 此 地 重 整 。 他 们 在 山 丘 上 扎 营 ， 每 天 都 有 士 兵 赶 来 增 援 。 这 里 既 能 休 养 生 息 ， 又 能 在 丹 麦 人 向 西 撒 克 逊 推 进 前 予 以 拦 截 ， 地 势 极 佳 。 ^^此 地 名 为 阿 什 顿 。 ^^{!}{s4}
 mno_enter_aescendun|进 入 营 地 。 
-menu_aescesdun_empty|当 大 军 开 拔 前 往 作 战 之 后 ， 营 地 几 乎 空 无 一 人 ， 只 有 寥 寥 几 个 守 军 。 
-menu_readingum_camp|在 一 个 叫 雷 丁 镇 的 撒 克 逊 村 庄 ， 拉 格 纳 的 子 嗣 们 已 经 建 立 了 一 处 营 地 。 这 里 易 守 难 攻 ， 还 有 一 道 护 城 河 ， 撒 克 逊 人 和 丹 麦 人 作 战 的 痕 迹 依 然 存 在 。 这 个 地 方 是 扼 守 四 方 的 战 略 要 地 。 ^^{s4}
+menu_aescesdun_empty|大 军 开 赴 战 场 后 ， 营 地 几 乎 空 空 如 也 ， 只 剩 寥 寥 数 人 。 
+menu_readingum_camp|拉 格 纳 的 子 嗣 们 在 名 为 雷 丁 姆 的 撒 克 逊 村 庄 筑 起 营 寨 。 此 处 防 御 坚 固 ， 外 有 壕 沟 ， 仍 可 见 早 前 撒 克 逊 人 试 图 驱 逐 丹 麦 人 的 战 斗 痕 迹 。 这 是 扼 守 四 方 的 要 地 。 ^^{!}{s4}
 mno_enter_readingum|进 入 营 地 。 
 mno_the_speech|加 入 他 们 。 
-menu_thetravel_danisharmy_l|丹 麦 人 的 军 队 ， 伟 大 的 夏 军 ， 已 经 抵 达 阿 先 顿 。 ^^ 阿 弗 雷 德 国 王 将 自 己 的 军 队 一 分 为 二 ： 一 支 由 他 自 己 领 导 ， 另 一 支 由 他 的 兄 弟 ， 年 轻 的 艾 弗 德 领 导 ， 两 支 军 队 各 自 沿 着 古 老 的 驿 道 前 进 。 ^^ 当 维 京 人 展 开 部 署 时 ， 阿 尔 弗 雷 德 决 定 要 在 战 前 进 行 祈 祷 ， 而 且 直 到 仪 式 完 成 之 前 拒 绝 动 身 。 但 丹 麦 人 行 动 迅 速 ， 也 兵 分 两 路 …
-mno_choice_01_3ddarm|阿 先 顿 战 役 。 
-menu_mega_battle_ashdown|撒 克 逊 人 占 领 了 两 座 山 的 有 利 位 置 ， 一 分 为 二 。 一 支 由 阿 尔 弗 雷 德 国 王 带 领 ， 另 一 支 由 艾 弗 德 指 挥 。 丹 麦 人 动 作 非 常 迅 速 ， 没 有 停 下 休 整 或 重 组 ， 这 件 事 阿 尔 弗 雷 德 并 没 有 料 到 。 他 还 在 祈 祷 ， 而 且 下 令 在 仪 式 完 成 前 不 准 任 何 人 打 扰 。 丹 麦 人 没 有 耐 性 等 待 ， 他 们 同 样 把 自 己 的 军 队 一 分 为 二 ， 一 支 由 哈 弗 丹 雅 尔 和 巴 萨 克 国 王 领 导 ， 迎 战 阿 尔 弗 雷 德 。 而 另 一 支 则 由 其 余 五 名 雅 尔 指 挥 ， 向 艾 弗 德 进 军 。 他 们 开 始 占 领 高 于 撒 克 逊 人 的 山 地 ， 一 旦 部 署 完 成 ， 他 们 将 拥 有 高 度 的 优 势 … ^^{s2}你 将 有 {reg10}名 士 兵 迎 战 {reg11}名 敌 人 。 
-mno_encounter_attackasc|阿 先 顿 之 战 。 
-menu_svenbn_hunting|从 战 场 上 离 开 时 ， 满 目 皆 是 被 遗 弃 的 武 器 ， 尸 体 ， 伤 员 ， 掠 夺 者 ， 还 有 为 垂 死 之 人 作 最 后 祈 祷 的 牧 师 ， 你 的 心 头 交 织 着 快 感 和 悲 凉 。 除 此 以 外 ， 你 一 再 询 问 自 己 ： 为 什 么 ？ 当 那 么 多 生 命 消 逝 的 同 时 ， 我 为 什 么 还 能 活 着 ？ ^^不 过 你 的 思 索 与 你 的 命 运 正 背 道 而 驰 。 {s4}
-mno_talk_to_leader|跟 他 谈 谈 。 
-menu_ashdown_battle_over|战 争 已 经 结 束 了 ， 但 是 剑 和 盾 刺 耳 的 撞 击 声 ， 人 们 无 力 的 叫 喊 声 ， 和 受 伤 的 人 们 撕 心 裂 肺 的 哭 喊 声 仍 然 刺 激 着 你 的 耳 膜 。 你 僵 硬 的 手 正 在 紧 紧 的 握 住 武 器 ， 你 仍 然 可 以 感 受 到 战 斗 带 来 的 紧 张 不 安 的 气 氛 ， 甚 至 这 种 感 觉 比 以 往 更 加 令 人 不 安 。 你 从 另 一 个 大 屠 杀 中 幸 存 下 来 ， 就 像 之 前 的 几 次 一 样 ， 总 是 挣 扎 在 生 死 的 边 缘 ， 总 是 依 靠 你 最 信 赖 的 剑 。 你 今 天 赢 了 ， 但 是 你 必 须 知 道 你 的 好 运 总 会 有 结 束 的 一 天 ， 你 的 生 命 将 会 终 结 ， 让 那 个 杀 了 你 的 人 赢 得 荣 誉 和 名 声 。 ^^艾 克 丹 已 不 仅 仅 是 一 场 战 斗 ， 它 聚 集 了 数 百 人 ， 他 们 中 的 大 多 数 人 现 在 尸 横 遍 野 。 艾 克 丹 的 故 事 吟 游 诗 人 和 小 说 家 将 会 将 此 流 传 多 年 。 
+menu_thetravel_danisharmy_l|丹 麦 人 的 夏 日 大 军 已 抵 达 阿 先 顿 。 ^^埃 塞 尔 雷 德 王 将 军 队 一 分 为 二 ： 自 己 统 领 一 部 ， 另 一 部 交 予 其 弟 年 轻 的 阿 尔 弗 雷 德 。 两 部 各 据 古 道 “ 山 脊 路 ” 一 侧 。 ^^维 京 人 布 阵 之 际 ， 埃 塞 尔 雷 德 决 定 战 前 必 须 祈 祷 ， 仪 式 未 完 绝 不 移 动 。 然 而 丹 麦 人 逼 近 迅 速 ， 同 样 兵 分 两 路 … … 
+mno_choice_01_3ddarm|阿 什 顿 之 战 。 
+menu_mega_battle_ashdown|撒 克 逊 军 抢 占 两 座 山 丘 ， 一 分 为 二 。 一 座 由 埃 塞 尔 雷 德 王 坐 镇 ， 另 一 座 由 阿 尔 弗 雷 德 指 挥 。 丹 麦 人 行 动 之 快 超 出 预 料 ， 既 不 歇 脚 也 不 整 队 。 埃 塞 尔 雷 德 始 料 未 及 ， 仍 沉 浸 在 祈 祷 中 ， 下 令 仪 式 结 束 前 不 得 打 扰 。 丹 麦 人 并 不 等 待 ， 同 样 分 兵 两 路 ： 一 路 由 雅 尔 哈 夫 丹 与 国 王 巴 萨 克 率 领 ， 直 扑 埃 塞 尔 雷 德 ； 另 一 路 由 五 位 雅 尔 指 挥 ， 朝 阿 尔 弗 雷 德 方 向 推 进 ， 开 始 抢 占 高 于 撒 克 逊 阵 地 的 山 丘 。 一 旦 部 署 完 成 ， 他 们 将 居 高 临 下 … … ^^{s2}你 拥 有 {reg10}名 可 战 之 兵 ， 对 阵 他 们 的 {reg11}人 。 
+mno_encounter_attackasc|阿 什 顿 之 战 。 
+menu_svenbn_hunting|离 战 场 途 中 ， 你 只 见 断 刃 残 兵 、 尸 横 遍 野 、 伤 兵 哀 号 、 掠 夺 者 穿 梭 ， 牧 师 为 垂 死 者 行 临 终 涂 油 。 你 既 因 幸 存 而 狂 喜 ， 又 感 荒 凉 。 你 反 复 自 问 ： 为 何 ？ 为 何 众 人 皆 亡 ， 独 我 苟 活 ？ ^^然 而 ， 思 绪 与 命 运 各 行 其 道 。 {s4}
+mno_talk_to_leader|和 他 谈 谈 。 
+menu_ashdown_battle_over|战 斗 已 止 ， 盾 与 剑 的 撞 击 、 男 人 的 嘶 吼 、 伤 者 的 哭 号 仍 在 耳 畔 回 响 。 你 僵 硬 的 手 仍 紧 握 兵 器 ， 战 斗 的 紧 张 未 散 ， 感 官 仍 紧 绷 。 你 再 次 从 屠 杀 中 幸 存 ， 一 如 往 常 ， 靠 的 正 是 刀 口 舔 血 、 倚 剑 为 生 。 今 日 你 赢 了 ， 但 你 知 道 好 运 终 有 尽 头 。 那 时 ， 你 的 生 命 将 终 结 ， 把 荣 耀 与 声 名 赠 予 杀 你 之 人 。 ^^阿 什 顿 并 非 寻 常 之 战 。 数 百 人 汇 聚 于 此 ， 如 今 大 多 横 尸 草 地 。 阿 什 顿 的 故 事 必 将 被 吟 游 诗 人 传 颂 多 年 。 
 mno_aescesdun_no|继 续 。 
-menu_followers_camp_begin|由 于 你 的 军 队 在 不 断 壮 大 ， 最 近 有 一 些 牧 师 和 女 人 加 入 了 你 的 队 伍 ， 现 在 甚 至 一 些 商 人 也 请 求 能 跟 随 你 。 ^^虽 然 这 意 味 着 能 更 简 便 地 获 得 许 多 服 务 来 提 高 你 的 士 气 ， 但 你 应 该 知 道 像 那 样 的 团 队 会 使 你 的 军 队 行 动 变 慢 。 ^^追 随 者 的 服 务 可 以 从 营 地 菜 单 找 到 。 
+menu_followers_camp_begin|因 你 军 势 日 盛 ， 近 日 有 牧 师 与 妇 女 前 来 投 奔 ， 如 今 连 商 人 也 请 求 随 行 。 ^^他 们 虽 能 让 军 中 便 利 诸 多 、 士 气 高 涨 ， 却 也 会 拖 慢 行 军 。 ^^追 随 者 的 服 务 可 在 营 地 菜 单 使 用 。 
 mno_followers_yes|当 然 ， 欢 迎 他 们 。 
-mno_followers_no|不 。 这 是 一 支 军 队 ， 可 不 是 什 么 马 戏 团 。 
-menu_followers_camp_leave|由 于 最 近 的 事 件 和 士 兵 的 大 幅 减 少 ， 你 的 追 随 者 离 开 了 ……
-mno_follw_yes|该 死 。 
-menu_followers_remove|你 确 定 想 要 赶 走 你 的 追 随 者 吗 ？ 这 将 使 您 的 追 随 者 停 止 跟 随 你 的 军 队 ， 并 且 可 能 使 得 你 的 军 队 士 气 产 生 极 大 的 负 面 影 响 。 
-mno_remove_yes|是 的 。 
-mno_remove_no|不 。 
-menu_sven_bullneck_readingum|这 个 地 方 有 很 好 的 防 护 和 护 城 河 ， 并 且 仍 留 有 之 前 撒 克 逊 人 试 图 驱 逐 丹 麦 人 战 斗 的 痕 迹 。 这 是 一 个 很 好 的 堡 垒 。 ^^{s4}
-mno_talk_to_leadermen|告 诉 他 。 
-mno_enter_to_talk_sven|接 近 雷 丁 镇 。 
-mno_svenreadingum_attack|全 力 进 攻 ！ 
-mno_choice_doccingatsvf|我 需 要 招 募 更 多 的 人 手 。 
-mno_encounter_savereadingum|离 开 。 
-menu_sven_halllatest|雷 丁 镇 的 屠 杀 还 在 继 续 ， 你 的 士 兵 还 在 与 斯 温 的 部 队 厮 杀 ， 但 这 并 不 是 你 想 要 的 战 斗 。 牛 颈 斯 温 带 走 了 你 的 母 亲 和 一 些 人 手 ， 在 雷 丁 镇 的 蜜 酒 厅 里 死 守 。 是 时 候 结 束 这 场 该 死 的 派 对 了 ……
+mno_followers_no|不 。 这 是 军 队 ， 不 是 杂 耍 班 子 。 
+menu_followers_camp_leave|近 日 变 故 与 兵 员 骤 减 ， 致 使 随 营 人 员 散 去 … … 
+menu_followers_remove|你 确 定 要 遣 散 追 随 者 吗 ？ 此 举 将 使 他 们 不 再 随 行 ， 并 可 能 严 重 打 击 士 气 。 
+menu_sven_bullneck_readingum|此 地 防 御 坚 固 ， 又 有 护 城 河 ， 仍 留 撒 克 逊 人 先 前 驱 逐 丹 麦 人 的 战 痕 ， 是 易 守 难 攻 之 所 。 ^^{!}{s4}
+mno_talk_to_leadermen|和 他 谈 谈 。 
+mno_enter_to_talk_sven|逼 近 雷 丁 姆 。 
+mno_svenreadingum_attack|全 面 进 攻 ！ 
+mno_choice_doccingatsvf|我 需 要 再 招 募 些 人 手 。 
+menu_sven_halllatest|屠 杀 在 雷 丁 姆 继 续 ， 你 的 士 兵 仍 在 清 剿 斯 温 残 部 ， 但 那 并 非 你 追 寻 的 战 场 。 “ 牛 颈 ” 斯 温 已 带 你 的 母 亲 与 少 数 随 从 退 守 雷 丁 姆 蜜 酒 厅 。 是 时 候 结 束 这 场 狂 欢 … … 
 mno_fight_svhall|进 入 蜜 酒 厅 。 
-menu_mother_death|牛 颈 斯 温 终 于 死 了 ， 你 大 仇 得 报 ， 但 心 中 的 苦 涩 在 不 断 蔓 延 ， 因 为 你 母 亲 的 尸 体 就 在 斯 温 的 不 远 处 。 这 个 生 你 养 你 的 女 人 ， 你 为 了 她 抛 下 了 一 切 ， 前 往 弗 里 斯 寻 找 治 疗 者 ， 她 关 切 的 遗 言 依 旧 时 刻 萦 绕 于 你 的 脑 海 ， 如 同 不 灭 的 回 响 。 ^^牛 颈 斯 温 和 你 的 母 亲 是 驱 动 你 走 到 今 天 这 一 步 的 动 力 ， 而 如 今 他 们 都 死 了 。 你 感 到 前 所 未 有 的 空 虚 ， 好 像 你 身 心 的 一 部 分 也 随 他 们 而 去 了 。 ^^尘 埃 落 定 ， 剩 下 的 只 有 回 忆 ……
-mno_mother_funeral|举 行 一 个 葬 礼 。 
-menu_addons_messenger|一 个 信 使 飞 驰 而 来 ，在 你 的 面 前 停 下 了 。 呼 了 一 口 气 并 大 声 说 道 :^^ {playername} ： 我 的 主 人 ， 菲 尼 安 修 道 院 长 让 我 捎 来 了 口 信 ， 他 久 仰 您 的 大 名 希 望 你 能 去 与 他 谈 谈 一 个 重 要 的 任 务 。 他 希 望 你 去 拜 访 菲 尼 安 修 道 院 ， 就 在 巴 尔 依 彻 达 附 近 。 只 要 你 去 了 ， 他 会 先 付 给 你 1000 个 先 令 。 
-mno_morrigan_1|告 诉 修 道 院 长 他 的 信 息 已 经 传 到 了 。 
-menu_addons_messenger_morriganlair|一 个 信 使 飞 驰 而 来 ，在 你 的 面 前 停 下 了 。 呼 了 一 口 气 并 大 声 说 道 :^^{playername} ： 我 的 领 主 ， 奥 乔 巴· 麦 · 辛 奈 德 和 他 的 同 僚 艾 德 · 麦 ·艾 门 奇 ， 让 我 捎 来 了 口 信 。 他 们 在 西 方 找 到 了 莫 莉 安 的 巢 穴 ， 它 们 在 攻 击 之 前 等 待 你 的 到 来 。 
-mno_morriganlair_1|告 诉 你 的 领 主 我 在 我 的 路 上 。 
-menu_first_attack_morrigan|你 知 道 ， 通 过 卡 利 卡 斯 长 老 的 指 引 ， 那 个 老 人 的 烧 掉 的 草 屋 并 离 村 庄 不 远 ， 但 是 你 却 看 不 到 它 。 深 深 的 ， 不 自 然 的 雾 掠 过 所 有 东 西 ， 而 且 让 你 只 能 看 到 一 步 的 距 离 。 正 当 你 认 为 不 能 够 更 糟 糕 的 时 候 ， 你 听 到 了 附 近 有 狼 嚎 传 出 ， 每 次 都 更 加 接 近 。 ^^ 然 后 ， 你 的 耳 朵 听 到 一 段 旋 律 。 莫 莉 安 找 到 了 你 。 
-mno_morrigan_ambush|打 架 ！ 
-menu_morrigan_leave|你 的 敌 人 们 在 号 角 的 指 令 下 逃 跑 。 围 绕 在 你 身 边 的 浓 雾 看 起 来 没 有 那 么 浓 了 ， 或 许 只 是 因 为 你 更 加 冷 静 了 ， 你 的 眼 睛 能 够 在 雾 中 看 得 更 清 楚 。 你 的 敌 人 跑 了 ， 但 是 奇 怪 的 是 并 没 有 留 下 任 何 尸 体 。 你 的 军 队 的 刀 剑 并 没 有 为 他 们 带 来 任 何 伤 亡 ^^ 号 角 声 听 起 来 更 近 了 ， 而 且 有 人 开 始 进 入 你 所 在 的 地 方 。 他 们 数 量 并 不 多 ， 比 你 意 料 中 听 到 的 号 角 的 声 音 要 少 。 你 的 其 中 一 个 部 下 带 来 了 这 些 人 的 头 儿 。 
-mno_campeones_primerencuentro|与 他 们 对 话 。 
-mno_morrigan_ambush2n|打 架 ！ 
-mno_enter_morriganlairch|走 近 胜 者 。 
-mno_leaveslmorrigan|离 开 。 
-mno_enter_maelbresail|进 入 。 
-mno_enter_maelbresailhall|跑 ！ 
-mno_mailbresail_attack|打 架 ！ 
-mno_leave_bresail_farm|离 开 。 
-menu_bresail_fort_visit|在 河 的 远 处 ， 有 一 些 零 落 的 屋 子 ， 在 背 景 里 ， 一 个 小 型 的 要 塞 矗 立 在 那 里 。 那 些 逃 离 了 该 地 的 平 民 们 遇 到 了 你 的 勇 士 们 。 
-mno_enter_mbfort|前 往 。 
-mno_leave_mbfort|离 开 。 
-mno_leave_finalmbfort|离 开 。 
-menu_morrigan_dialog_final|当 你 离 开 了 普 雷 西 尔 王 子 的 要 塞 ， 莫 莉 安 出 现 在 你 的 面 前 并 想 与 你 交 谈 。 
-mno_talk_to_morrigan|与 莫 莉 安 谈 话 。 
-menu_event_siege_01|你 的 一 位 顾 问 说 ， 他 发 现 有 老 鼠 在 偷 吃 部 队 的 粮 草 。 这 本 来 是 可 以 通 过 一 些 卫 生 措 施 来 避 免 的 ！ 
-mno_choice_01_1a|太 可 怕 了 ！ 供 给 被 破 坏 和 污 染 了 。 
-mno_choice_01_2a|我 不 能 让 士 兵 挨 饿 ， 杀 光 所 有 老 鼠 。 
-menu_ratas_siege|在 所 有 的 老 鼠 被 消 灭 之 前 ， 你 的 许 多 士 兵 都 得 了 疾 病 并 且 死 亡 ^^队 伍 伤 亡 ： {s8}
+menu_mother_death|“ 牛 颈 ” 斯 温 终 于 倒 下 。 你 大 仇 得 报 ， 却 满 嘴 苦 涩 ， 因 母 亲 遗 体 就 在 斯 温 不 远 处 。 抚 养 你 长 大 的 女 人 ， 你 为 她 远 赴 弗 里 西 寻 医 治 者 。 她 最 后 的 关 爱 之 语 在 脑 海 回 荡 ， 如 遥 远 回 声 。 ^^斯 温 和 母 亲 曾 是 你 前 行 的 动 力 ， 如 今 俱 亡 。 你 感 到 空 虚 ， 仿 佛 自 身 的 一 部 分 随 他 们 而 去 。 ^^尘 埃 落 定 ， 唯 余 回 忆 … … 
+mno_mother_funeral|举 行 葬 礼 。 
+menu_addons_messenger|一 名 信 使 策 马 疾 驰 而 来 ， 在 你 面 前 勒 马 停 住 ， 喘 了 口 气 高 声 喊 道 ： ^^“ 致 名 为 {playername}的 {reg59?女 :男 }： 我 的 主 人 ， 菲 尼 安 修 道 院 院 长 派 我 前 来 。 他 久 闻 你 的 大 名 ， 想 与 你 商 谈 一 项 重 要 使 命 。 他 请 你 前 往 巴 尔 依 彻 达 附 近 的 菲 尼 安 修 道 院 一 见 。 只 要 你 肯 来 听 他 讲 述 ， 他 愿 先 付 1000 银 便 士 。 ” 
+mno_morrigan_1|告 诉 修 道 院 院 长 ， 口 信 已 收 到 。 
+menu_addons_messenger_morriganlair|一 名 信 使 策 马 疾 驰 而 来 ， 在 你 面 前 勒 马 停 住 ， 喘 了 口 气 高 声 喊 道 ： ^^“ 致 名 为 {playername}的 {reg59?女 :男 }： 我 的 领 主 奥 乔 巴 · 麦 · 辛 奈 德 与 其 同 伴 艾 德 · 麦 · 艾 门 奇 派 我 前 来 。 他 们 在 西 方 发 现 了 莫 莉 甘 的 藏 身 处 ， 进 攻 前 正 等 你 到 来 。 ” 
+mno_morriganlair_1|告 诉 你 的 领 主 ， 我 这 就 动 身 。 
+menu_first_attack_morrigan|你 根 据 卡 利 卡 斯 的 指 引 知 道 ， 那 老 人 的 焦 黑 茅 屋 离 村 子 不 远 ， 可 眼 前 却 看 不 见 。 深 冷 而 不 自 然 的 浓 雾 笼 罩 一 切 ， 只 能 看 清 一 步 之 内 。 祸 不 单 行 ， 远 处 又 传 来 狼 嚎 ， 一 声 比 一 声 近 。 ^^接 着 ， 一 段 旋 律 灌 入 你 耳 。 莫 莉 甘 已 找 到 你 。 
+mno_morrigan_ambush|战 斗 ！ 
+menu_morrigan_leave|敌 人 闻 号 角 声 而 逃 。 四 周 的 雾 似 乎 散 去 ， 又 或 许 你 冷 静 后 看 得 更 清 。 敌 人 遁 去 ， 却 未 留 下 尸 体 ， 你 的 兵 刃 竟 无 一 伤 亡 。 ^^号 角 更 近 ， 有 人 进 入 你 们 所 在 之 处 。 他 们 人 数 寥 寥 ， 远 少 于 号 角 声 势 。 一 名 部 下 领 来 他 们 的 首 领 。 
+mno_campeones_primerencuentro|和 他 们 谈 谈 。 
+mno_morrigan_ambush2n|战 斗 ！ 
+mno_enter_morriganlairch|靠 近 那 些 勇 士 。 
+mno_enter_maelbresailhall|快 跑 ！ 
+mno_mailbresail_attack|战 斗 ！ 
+menu_bresail_fort_visit|河 对 岸 散 落 着 几 间 屋 舍 ， 远 处 矗 立 着 一 座 本 地 风 格 的 小 堡 垒 。 农 民 们 见 武 装 战 士 逼 近 ， 早 已 逃 散 。 
+mno_enter_mbfort|行 动 。 
+menu_morrigan_dialog_final|你 离 开 梅 尔 · 布 雷 赛 尔 的 堡 垒 时 ， 莫 莉 甘 走 近 ， 请 求 与 你 一 谈 。 
+mno_talk_to_morrigan|与 莫 莉 甘 交 谈 。 
+menu_event_siege_01|一 位 顾 问 禀 报 ， 军 粮 中 发 现 老 鼠 啃 食 。 若 注 意 卫 生 ， 本 可 避 免 ！ 
+mno_choice_01_1a|太 糟 了 ！ 销 毁 被 污 染 的 粮 食 。 
+mno_choice_01_2a|我 的 士 兵 必 须 吃 饭 。 尽 量 多 杀 老 鼠 。 
+menu_ratas_siege|老 鼠 尚 未 除 尽 ， 许 多 士 兵 已 染 病 身 亡 。 ^^你 的 伤 亡 ： {s8}
 mno_back_to_siegea|完 成 。 
-menu_event_siege_02|糟 糕 的 卫 生 条 件 导 致 你 的 部 队 中 痢 疾 肆 虐 ， 周 围 的 人 开 始 死 亡 。 这 本 来 是 可 以 通 过 一 些 卫 生 措 施 避 免 的 ！ 
-mno_choice_02_1b|雇 佣 一 个 医 生 来 帮 助 生 病 的 人 (1000 先 令 ) 。 
+menu_event_siege_02|营 地 卫 生 恶 劣 ， 痢 疾 蔓 延 ， 士 兵 接 连 倒 下 。 若 早 做 清 洁 ， 本 可 避 免 ！ 
+mno_choice_02_1b|雇 一 名 医 生 救 治 病 人 （ 1000 银 便 士 ） 。 
 mno_choice_02_2b|我 无 能 为 力 。 
-mno_choice_02_3b|向 你 的 神 灵 祈 祷 吧 。 
-mno_choice_02_4b|我 或 我 的 同 伴 能 够 治 愈 他 们 。 
-menu_enfermedad_siege|死 亡 的 阴 影 笼 罩 了 你 的 队 伍 ， 许 多 士 兵 生 病 并 且 死 亡 。 ^^你 的 伤 亡 ：{s8}
-mno_back_to_siegeb|该 死 。 
-menu_enfermedad2_siege|有 些 人 死 于 疾 病 ， 但 多 亏 你 雇 佣 的 医 生 ， 大 部 分 人 都 幸 免 于 难 。 ^^你 的 伤 亡 ：{s8}
-menu_enfermedad3_siege|死 亡 的 阴 影 笼 罩 着 你 的 队 伍 ， 许 多 士 兵 生 病 并 且 死 亡 。 也 许 你 的 神 灵 已 经 挽 救 了 一 些 生 命 。 ^^你 的 伤 亡 ：{s8}
+mno_choice_02_3b|向 你 的 神 明 祈 祷 。 
+mno_choice_02_4b|我 或 我 的 同 伴 能 治 好 他 们 。 
+menu_enfermedad_siege|死 亡 笼 罩 营 地 ， 许 多 士 兵 病 倒 垂 危 。 ^^你 的 伤 亡 ： {s8}
+menu_enfermedad2_siege|虽 有 少 数 人 病 逝 ， 多 亏 你 雇 的 医 生 ， 大 多 数 人 得 以 康 复 。 ^^你 的 伤 亡 ： {s8}
+mno_back_to_siegeb|返 回 攻 城 。 
+menu_enfermedad3_siege|死 亡 笼 罩 营 地 ， 许 多 士 兵 病 倒 垂 危 。 也 许 神 明 已 救 下 几 条 性 命 。 ^^你 的 伤 亡 ： {s8}
 mno_back_to_sieged|完 成 。 
-menu_enfermedad4_siege|多 亏 了 你 的 医 治 能 力 ， 你 挽 救 了 很 多 士 兵 ， 但 一 些 人 仍 然 死 去 了 。 ^^你 的 伤 亡 ：{s8}
-mno_back_to_siegees|回 到 攻 城 营 地 。 
-menu_event_siege_03|由 于 太 多 的 垃 圾 ， 害 虫 和 其 他 脏 乱 不 堪 的 事 物 ， 你 的 阵 营 更 加 脏 乱 。 你 的 士 兵 很 不 高 兴 。 这 本 来 是 可 以 通 过 一 些 卫 生 预 防 措 施 来 避 免 的 ！ 
-mno_choice_03_4c|在 我 采 取 措 施 的 同 时 ， 我 会 给 众 人 一 个 振 奋 人 心 的 演 讲 。 
-mno_choice_03_2c|我 会 看 看 我 能 够 做 什 么 。 
-menu_event_siege_04|一 些 敌 人 在 晚 上 设 法 潜 入 你 的 营 地 并 且 烧 毁 你 的 队 伍 物 资 ， 你 的 一 部 分 食 物 被 毁 了 。 
-mno_choice_04_1d|惩 罚 当 晚 值 岗 的 人 ， 以 儆 效 尤 。 
-mno_choice_04_2d|什 么 也 不 做 。 
-menu_event_siege_05|在 夜 里 ， 你 的 士 兵 抓 到 了 一 些 意 图 潜 入 破 坏 的 敌 人 并 且 杀 死 了 他 们 。 
-mno_choice_05_1e|表 扬 他 们 。 
-mno_choice_05_2e|奖 励 他 们 每 人 一 个 战 士 手 镯 ( 300 先 令 ) 。 
-mno_choice_05_3e|奖 励 他 们 在 附 近 的 妓 院 度 过 一 个 难 忘 的 夜 晚 ( 200 先 令 ) 。 
-mno_choice_05_4e|什 么 也 不 做 。 你 是 一 个 坚 定 的 领 导 者 ， 不 会 暴 露 自 己 的 弱 点 。 
-menu_event_siege_06|先 生 ， 我 们 的 食 物 补 给 路 线 可 能 处 于 危 险 之 中 ， 侦 察 兵 发 现 了 在 我 们 后 方 有 准 备 突 袭 的 敌 人 。 ^我 们 可 以 封 锁 这 个 地 方 来 避 免 袭 击 。^^您 想 派 部 分 士 兵 去 保 护 路 线 并 且 追 击 敌 人 么 ？ 
-mno_choice_06_1f|派 人 (部 分 士 兵 将 从 你 的 队 伍 中 被 派 遣 ) 。 
-mno_choice_06_2f|派 使 者 去 支 付 他 们 一 笔 钱 ， 请 求 不 要 攻 击 你 的 食 物 补 给 路 线 (500 先 令 ， 不 一 定 成 功 ) 。 
-mno_choice_06_3f|什 么 也 不 做 (你 将 会 失 去 一 部 分 食 物 ， 但 能 保 住 你 士 兵 的 生 命 ) 。 
-menu_encuentro_avituallamiento|分 派 一 群 士 兵 去 追 击 那 些 袭 击 食 物 补 给 路 线 的 敌 人 ， 你 的 士 兵 把 敌 人 逼 到 绝 境 并 一 一 杀 死 。 有 一 些 损 失 ， 但 是 你 的 士 兵 赢 得 了 战 斗 并 且 保 障 了 供 应 路 线 。 ^^你 的 伤 亡 ：{s8}^^敌 人 伤 亡 ：{s9}
-mno_back_to_siegeg2|干 得 漂 亮 。
-mno_back_to_siegeg3|嗯 。
-menu_event_siege_07|我 们 的 侦 察 兵 发 现 ， 守 城 方 用 动 物 的 尸 体 污 染 了 水 源 。 您 想 向 商 人 买 一 些 水 并 且 从 补 给 路 线 运 过 来 么 ？ 
-mno_choice_07_1g|好 的 ( 600 先 令 ) 。 
-mno_choice_07_2g|不用，我 们 限 量 分 配 食 水 并 且 挖 一 口 井 。 
-mno_choice_07_3g|没 有 水 源 不 能 继 续 攻 城 ， 放 弃 围 攻 。 
-menu_sed_siege|水 已 经 不 多 了 ， 你 的 士 兵 开 始 变 得 虚 弱 。 由 于 太 渴 ， 一 些 人 喝 了 有 毒 的 水 死 亡 了 。 一 口 井 终 于 挖 出 来 了 ， 你 暂 时 得 到 一 些 水 。 你 可 以 继 续 围 攻 。 ^^被 毒 死 的 人 数 ：{s8}
-mno_back_to_siegeh|命 运 无 法 被 改 变 。 
-menu_event_siege_08|一 个 坏 消 息 ： 我 们 的 一 个 士 兵 投 靠 了 对 方 。 这 可 能 是 因 为 这 名 士 兵 缺 乏 士 气 ， 或 者 对 方 提 供 了 大 笔 赏 金 。 无 论 什 么 原 因 ， 敌 人 可 能 会 知 道 我 们 的 计 划 。 
-mno_choice_08_1h|提 供 400 先 令 给 军 队 提 高 士 气 。 我 不 想 出 现 更 多 的 逃 兵 。 
-mno_choice_08_2h|提 供 800 先 令 ， 我 不 希 望 他 们 被 敌 人 的 钱 诱 惑 。 
-mno_choice_08_3h|别 担 心 ，我 可 以 随 时 改 变 计 划 。 
-menu_event_siege_09|一 个 对 方 的 逃 兵 加 入 了 我 们 的 队 伍 ， 给 我 们 提 供 了 情 报 ： {s2} 。 
-mno_choice_09_1i|我 们 欢 迎 他 。 
-mno_choice_09_2i|我 不 希 望 有 逃 兵 加 入 我 的 队 伍 ， 杀 了 他 。 
-mno_choice_09_3i|我 确 信 他 是 一 个 间 谍 ， 把 他 遣 送 回 去 。 
-menu_event_siege_10|我 们 的 士 兵 和 敌 人 不 再 像 之 前 互 相 侮 辱 ， 甚 至 有 时 攀 谈 起 来 。 当 我 们 在 进 攻 时 ， 这 可 能 影 响 到 他 们 的 战 斗 意 志 。 我 们 应 该 怎 么 做 呢 ？ 
-mno_choice_10_1j|允 许 ， 敌 人 的 战 斗 意 志 也 将 受 到 影 响 。 
-mno_choice_10_2j|什 么 ？ 禁 止 这 种 情 况 ， 惩 罚 那 些 违 反 命 令 的 人 。 
-menu_event_siege_11|寒 冷 的 冬 天 总 是 会 造 成 伤 亡 。 有 些 人 死 于 感 冒 ， 流 感 和 其 他 一 些 小 疾 病 。 ^^你 的 伤 亡 ：{s8}
+menu_enfermedad4_siege|凭 你 的 医 术 ， 救 回 不 少 士 兵 ， 但 仍 有 人 死 去 。 ^^你 的 伤 亡 ： {s8}
+mno_back_to_siegees|返 回 攻 城 。 
+menu_event_siege_03|营 地 垃 圾 成 山 ， 鼠 虫 横 行 ， 简 直 成 了 猪 圈 。 士 兵 怨 声 载 道 。 若 早 做 清 洁 ， 本 可 避 免 ！ 
+mno_choice_03_4c|我 先 发 表 一 番 鼓 舞 士 气 的 演 说 ， 争 取 时 间 。 
+mno_choice_03_2c|我 会 尽 力 而 为 。 
+menu_event_siege_04|夜 里 敌 人 潜 入 ， 焚 毁 部 分 辎 重 ， 粮 食 受 损 。 
+mno_choice_04_1d|惩 罚 当 晚 值 守 的 士 兵 。 
+mno_choice_04_2d|不 ， 什 么 都 不 做 ！ 
+menu_event_siege_05|夜 里 ， 你 的 人 马 抓 获 并 处 决 了 一 伙 试 图 潜 入 并 焚 毁 补 给 的 敌 人 。 ^^敌 军 伤 亡 ： {s8}
+mno_choice_05_1e|表 扬 他 们 干 得 漂 亮 。 
+mno_choice_05_2e|每 人 赏 一 只 战 士 手 镯 （ 300 银 便 士 ） 。 
+mno_choice_05_3e|给 他 们 带 薪 放 一 晚 假 （ 200 银 便 士 ） 。 
+mno_choice_05_4e|什 么 也 不 做 。 你 是 一 位 严 厉 的 领 袖 。 
+menu_event_siege_06|{reg59?夫 人 :先 生 }， 我 们 的 粮 道 可 能 陷 入 危 险 。 斥 候 发 现 敌 军 劫 掠 者 已 绕 到 我 军 后 方 。 ^^若 封 锁 该 地 ， 或 可 免 去 此 患 。 ^^您 是 否 派 人 护 路 并 追 击 敌 军 ？ 
+mno_choice_06_1f|派 人 。 
+mno_choice_06_2f|派 信 使 去 收 买 他 们 （ 500 银 便 士 ） 。 
+mno_choice_06_3f|按 兵 不 动 。 
+menu_encuentro_avituallamiento|你 派 出 一 队 士 兵 保 护 并 追 击 那 些 袭 扰 粮 道 的 敌 人 。 部 下 设 法 将 敌 逼 入 死 角 ， 迫 其 死 战 。 虽 有 所 伤 亡 ， 但 终 获 胜 ， 粮 道 得 保 。 ^^你 的 伤 亡 ： {s8}^^敌 军 伤 亡 ： {s10}
+mno_back_to_siegeg2|干 得 漂 亮 。 
+mno_back_to_siegeg3|很 好 。 
+menu_event_siege_07|斥 候 发 现 守 军 以 死 畜 投 毒 水 源 。 是 否 购 水 并 请 商 人 沿 补 给 线 运 来 ？ 
+mno_choice_07_1g|好 的 （ 600 银 便 士 ） 。 
+mno_choice_07_2g|不 必 ， 限 量 配 水 并 掘 井 。 
+mno_choice_07_3g|无 水 难 继 ， 放 弃 围 城 。 
+menu_sed_siege|水 将 告 罄 ， 士 卒 疲 弱 。 渴 极 者 饮 毒 泉 而 亡 。 终 得 井 成 ， 暂 解 水 困 ， 可 续 围 城 。 ^^饮 毒 水 而 亡 ： {s8}
+mno_back_to_siegeh|命 运 无 可 违 逆 。 
+menu_event_siege_08|噩 耗 ： 一 名 士 卒 投 敌 。 或 因 士 气 低 落 ， 或 因 敌 以 利 诱 。 无 论 如 何 ， 敌 军 或 已 悉 我 部 署 。 
+mno_choice_08_1h|出 400 银 便 士 ， 免 再 逃 。 
+mno_choice_08_2h|出 800 银 便 士 ， 绝 其 诱 惑 。 
+mno_choice_08_3h|别 担 心 ， 我 随 时 可 以 改 计 划 。 
+menu_event_siege_09|一 名 敌 方 乱 军 投 奔 我 军 ， 并 透 露 ： {s2}。 
+mno_choice_09_1i|欢 迎 他 加 入 。 
+mno_choice_09_2i|我 不 容 逃 兵 ， 杀 了 他 。 
+mno_choice_09_3i|我 认 定 他 是 奸 细 ， 把 他 送 回 去 。 
+menu_event_siege_10|我 军 与 敌 军 不 再 互 骂 ， 甚 至 偶 尔 交 谈 。 进 攻 时 ， 这 会 削 弱 斗 志 。 怎 么 办 ？ 
+mno_choice_10_1j|随 它 去 ， 敌 军 斗 志 也 会 下 降 。 
+mno_choice_10_2j|什 么 ？ 禁 止 此 事 ， 违 者 受 罚 。 
+menu_event_siege_11|寒 冬 降 临 ， 总 要 付 出 代 价 。 有 人 因 风 寒 、 小 病 而 亡 。 ^^你 的 伤 亡 ： {s8}
 mno_choice_11_1j|愿 他 们 安 息 。 
-menu_event_siege_12|住 在 围 攻 阵 营 附 近 一 个 村 庄 的 农 民 来 找 你 ， 说 你 的 一 个 士 兵 强 奸 了 他 的 女 儿 。 农 民 希 望 能 得 到 100 先 令 的 补 偿 金 。 您 会 怎 么 做 ？ 
+menu_event_siege_12|一 位 农 民 前 来 ， 说 你 手 下 在 围 城 营 地 附 近 的 村 庄 里 玷 污 了 他 女 儿 ， 要 求 赔 偿 100 银 便 士 。 你 怎 么 办 ？ 
 mno_choice_12_1j|支 付 赔 偿 金 。 
-mno_choice_12_2j|支 付 赔 偿 金 和 惩 罚 你 的 战 士 。 
-mno_choice_12_3j|拒 绝 支 付 。 你 在 敌 人 的 领 土 上 ， 所 以 你 的 士 兵 有 权 利 享 受 随 意 掠 夺 。
-mno_choice_12_4j|杀 了 农 夫 和 他 的 女 儿 。
-menu_no_paymentandkill|农 夫 所 在 村 庄 里 的 人 想 要 为 他 复 仇 ， 他 们 聚 集 在 一 起 袭 击 了 你 的 征 粮 队 。 ^^你 的 伤 亡 ：{s8}
-mno_choice_nppayment_2j|该 死 ！
-menu_event_siege_13|一 群 敌 人 突 然 袭 击 我 们 的 士 兵 后 快 速 撤 离 了 。 ^^你 的 伤 亡 ：{s8}^^敌 人 伤 亡 ：{s9}
-mno_choice_13_1b|这 是 很 常 见 的 情 况 ， 注 意 小 心 谨 慎 。 ( 解 决 方 案 ：封 锁 区 域 ) 。 
-menu_event_siege_14|在 寻 找 食 物 的 时 候 ， 我 们 的 士 兵 遭 遇 了 一 群 敌 方 骑 兵 。 ^^你 的 伤 亡 ：{s8}^^敌 人 伤 亡 ：{s9}
-mno_choice_14_1b|这 是 很 常 见 的 情 况 ， 注 意 小 心 谨 慎 。 ( 解 决 方 案 ：封 锁 区 域 ) 。
-menu_event_siege_15|当 我 们 在 掠 夺 邻 近 村 庄 时 ， 遭 到 敌 军 的 攻 击 。 村 民 们 加 入 了 对 方 ， 造 成 我 们 许 多 士 兵 伤 亡 。 ^^你 的 伤 亡 ：{s8}^^敌 人 伤 亡 ：{s9}
-mno_choice_15_1b|这 是 很 常 见 的 情 况 ， 注 意 小 心 谨 慎 。 ( 解 决 方 案 ：封 锁 区 域 ) 。
-menu_event_siege_16|敌 人 和 我 们 的 士 兵 在 一 条 河 上 遭 遇 ， 双 方 因 为 争 夺 水 源 而 造 成 了 大 量 伤 亡 。 ^^你 的 伤 亡 ：{s8}^^敌 人 伤 亡 ：{s9}
-mno_choice_16_1b|这 是 很 常 见 的 情 况 ， 注 意 小 心 谨 慎 。 ( 解 决 方 案 ：封 锁 区 域 ) 。
-menu_event_siege_17|敌 人 从 一 个 秘 密 通 道 一 涌 而 出 ， 突 袭 我 们 后 迅 速 逃 回 城 墙 里 。 ^^你 的 伤 亡 ：{s8}^^敌 人 伤 亡 ：{s9}
-mno_choice_17_1b|这 是 很 常 见 的 情 况 ， 注 意 小 心 谨 慎 。 ( 解 决 方 案 ：封 锁 区 域 ) 。
-menu_event_siege_18|你 的 一 些 士 兵 从 周 围 的 村 庄 绑 架 了 一 些 女 人 ， 带 到 围 城 营 帐 里 找 乐 子 。 
-mno_choice_18_1b|你 默 认 了 他 们 的 行 为 ， 并 且 要 了 一 个 最 漂 亮 的 女 人 。 
-mno_choice_18_2b|命 令 你 的 士 兵 释 放 那 些 女 人 ， 惩 罚 那 些 参 与 绑 架 的 人 。 
-menu_event_siege_19|敌 人 试 图 突 破 封 锁 ， 我 们 的 士 兵 试 图 牵 制 住 他 们 。 ^^你 的 伤 亡 ：{s8}^^敌 人 伤 亡 ：{s9}
-mno_choice_19_1b|当 我 进 行 佯 攻 时 ， 派 一 些 士 兵 去 巩 固 围 城 ， 这 能 迫 使 敌 人 撤 退 。 
-mno_choice_19_2b|命 令 所 有 士 兵 保 护 城 墙 。 
-mno_choice_19_3b|不 必 担 心 ， 我 们 的 城 墙 固 若 金 汤 。 
-menu_no_defendiendo|敌 人 瓦 解 了 我 们 的 防 御 ， 烧 毁 了 一 些 小 营 地 和 关 卡 ， 突 破 了 我 们 的 封 锁 。 ^^你 的 伤 亡 ：{s8}^^敌 人 伤 亡 ：{s9}
-mno_defendiendo_1bnd|我 们 必 须 重 新 建 立 封 锁 线 。 
-menu_defendiendo_circunvallation|我 们 设 法 击 退 敌 人 ， 逼 迫 他 们 回 到 城 墙 后 … ^^你 的 伤 亡 ：{s8}^^敌 人 伤 亡 ：{s9}
-mno_defendiendo_1dcir|做 得 好 。 
-menu_defendiendo_mal|另 一 股 敌 军 乘 着 我 们 的 空 档 ， 放 火 突 破 了 另 一 边 的 封 锁 线 。 ^^你 的 伤 亡 ：{s8}^^敌 人 伤 亡 ：{s9}
-mno_defendiendo_1mal|该 死 ！
-menu_event_siege_20|敌 人 试 图 破 坏 我 们 的 攻 城 器 械 。 ^^你 的 伤 亡 ：{s8}^^敌 人 伤 亡 ：{s9}
-mno_choice_20_1b|派 人 支 援 攻 城 器 械 那 边 的 防 守 ， 这 能 迫 使 敌 人 撤 退 。 
-mno_choice_20_2b|快 ， 命 令 所 有 士 兵 保 护 攻 城 器 械 。 
-mno_choice_20_3b|不 必 担 心 ， 我 们 的 士 兵 会 守 住 的 。 
-menu_no_defendiendo_equip|敌 人 瓦 解 了 我 们 的 防 御 ， 烧 毁 了 我 们 的 攻 城 器 械 。 ^^你 的 伤 亡 ：{s8}^^敌 人 伤 亡 ：{s9}
-mno_defendiendo_1bnde|我 们 必 须 重 新 开 始 建 设 。 
-menu_defendiendo_equip|我 们 成 功 地 击 退 了 敌 人 ， 他 们 回 去 保 护 城 墙 了 … ^^我 军 伤 亡 ：{s8}^^敌 军 伤 亡 ：{s9}
-mno_defendiendo_1heq|做 得 好 。
-menu_defendiendo_mal_equip|另 一 波 敌 人 已 经 包 围 了 我 们 所 在 的 位 置 ， 并 从 另 一 边 烧 掉 了 我 们 的 攻 城 设 施 。 ^^我 军 伤 亡 ：{s8}^^敌 军 伤 亡 ：{s9}
-mno_defendiendo_1vmal|该 死 ！
-menu_event_siege_21|你 的 卫 兵 发 现 了 几 个 人 试 图 借 着 夜 色 溜 过 你 的 封 锁 线 。 
-mno_choice_21_1b|跟 踪 他 们 。 
+mno_choice_12_2j|支 付 赔 偿 金 并 惩 处 那 名 战 士 。 
+mno_choice_12_3j|拒 绝 赔 偿 。 我 们 在 敌 土 ， 士 兵 有 权 劫 掠 。 
+mno_choice_12_4j|杀 掉 农 民 和 他 女 儿 。 
+menu_no_paymentandkill|附 近 村 庄 的 人 为 报 仇 ， 联 手 袭 击 你 的 征 粮 队 。 ^^你 的 伤 亡 ： {s8}
+menu_event_siege_13|一 队 敌 军 突 袭 我 军 后 迅 速 撤 退 。 ^^你 的 伤 亡 ： {s8}^^敌 军 伤 亡 ： {s10}
+mno_choice_13_1b|提 高 警 惕 （ 对 策 ： 封 锁 该 地 ） 。 
+menu_event_siege_14|征 粮 时 ， 我 军 与 敌 军 遭 遇 。 ^^你 的 伤 亡 ： {s8}^^敌 军 伤 亡 ： {s10}
+mno_choice_14_1b|提 高 警 惕 （ 对 策 ： 封 锁 该 地 ） 。 
+menu_event_siege_15|我 们 在 劫 掠 邻 近 村 庄 时 遭 到 敌 军 袭 击 ， 村 民 倒 向 敌 方 ， 令 我 们 伤 亡 惨 重 。 ^^你 的 伤 亡 ： {s8}^^敌 人 伤 亡 ： {s10}
+mno_choice_15_1b|提 高 警 惕 （ 对 策 ： 封 锁 该 地 ） 。 
+menu_event_siege_16|敌 我 两 军 在 河 边 遭 遇 ， 为 争 夺 水 源 激 战 ， 双 方 伤 亡 惨 重 。 ^^你 的 伤 亡 ： {s8}^^敌 人 伤 亡 ： {s10}
+mno_choice_16_1b|提 高 警 惕 （ 对 策 ： 封 锁 该 地 ） 。 
+menu_event_siege_17|敌 军 从 密 道 杀 出 ， 突 袭 我 军 后 迅 速 退 回 城 墙 之 内 。 ^^你 的 伤 亡 ： {s8}^^敌 人 伤 亡 ： {s10}
+mno_choice_17_1b|提 高 警 惕 （ 对 策 ： 封 锁 该 地 ） 。 
+menu_event_siege_18|你 的 一 些 士 兵 从 周 边 村 庄 掳 来 女 子 ， 带 到 围 城 营 地 取 乐 。 
+mno_choice_18_1b|你 默 许 此 事 ， 并 索 要 最 貌 美 的 女 子 。 
+mno_choice_18_2b|下 令 释 放 女 子 ， 严 惩 掳 人 者 。 
+menu_event_siege_19|敌 军 试 图 突 破 封 锁 ， 我 军 奋 力 阻 截 。 ^^你 的 伤 亡 ： {s8}^^敌 人 伤 亡 ： {s10}
+mno_choice_19_1b|我 带 一 部 佯 攻 ， 你 派 兵 增 援 ， 逼 敌 撤 退 。 
+mno_choice_19_2b|全 军 前 往 守 住 那 段 围 城 壁 垒 。 
+mno_choice_19_3b|别 担 心 ， 我 们 的 墙 够 坚 固 。 
+menu_no_defendiendo|敌 军 突 破 防 线 ， 烧 毁 我 们 的 前 哨 和 小 营 ， 封 锁 被 破 。 ^^你 的 伤 亡 ： {s8}^^敌 人 伤 亡 ： {s10}
+mno_defendiendo_1bnd|我 们 必 须 重 建 封 锁 线 。 
+menu_defendiendo_circunvallation|我 们 成 功 击 退 了 敌 人 ， 他 们 退 回 城 墙 保 护 之 下 ...^^你 的 伤 亡 ： {s8}^^敌 人 伤 亡 ： {s10}
+mno_defendiendo_1dcir|干 得 漂 亮 。 
+menu_defendiendo_mal|另 一 股 敌 人 趁 我 军 在 此 ， 放 火 烧 毁 封 锁 线 另 一 段 。 ^^你 的 伤 亡 ： {s8}^^敌 人 伤 亡 ： {s10}
+menu_event_siege_20|敌 人 正 试 图 焚 毁 我 们 的 攻 城 器 械 。 ^^你 的 伤 亡 ： {s8}^^敌 人 伤 亡 ： {s10}
+mno_choice_20_1b|我 带 一 部 佯 攻 ， 你 派 兵 增 援 ， 逼 敌 撤 退 。 
+mno_choice_20_2b|快 ！ 派 所 有 人 去 保 护 器 械 。 
+mno_choice_20_3b|别 担 心 ， 我 们 的 士 兵 会 守 住 。 
+menu_no_defendiendo_equip|敌 人 突 破 防 线 ， 焚 毁 了 器 械 。 ^^你 的 伤 亡 ： {s8}^^敌 人 伤 亡 ： {s10}
+mno_defendiendo_1bnde|我 们 必 须 重 新 建 造 。 
+menu_defendiendo_equip|我 们 成 功 击 退 了 敌 人 ， 他 们 退 回 城 墙 保 护 之 下 。 ^^你 的 伤 亡 ： {s8}^^敌 人 伤 亡 ： {s10}
+mno_defendiendo_1heq|干 得 漂 亮 。 
+menu_defendiendo_mal_equip|另 一 股 敌 人 包 围 我 们 ， 从 另 一 侧 烧 毁 了 攻 城 器 械 。 ^^你 的 伤 亡 ： {s8}^^敌 人 伤 亡 ： {s10}
+menu_event_siege_21|你 的 卫 兵 发 现 几 人 趁 夜 潜 出 ， 想 突 破 封 锁 。 
+mno_choice_21_1b|放 他 们 走 。 
 mno_choice_21_2b|杀 了 他 们 。 
-menu_event_siege_22|在 晚 上 ， 你 的 卫 兵 告 诉 你 他 们 看 到 了 一 队 披 着 羊 皮 ， 伪 装 成 羊 的 敌 人 。 现 在 他 们 用 瓶 子 从 河 里 灌 满 了 水 ， 准 备 把 水 送 回 城 中 。 
-mno_atacar_emboscada_player2|前 往 该 处 ， 让 同 伴 们 自 愿 参 加 战 斗 。 
-mno_choice_22_1b|伏 击 他 们 。 
-mno_choice_22_2b|什 么 都 不 做 。 
-menu_victoria_ovejas|你 的 士 兵 们 把 伪 装 成 羊 的 敌 人 给 包 围 了 ， 杀 个 片 甲 不 留 。 ^^我 军 伤 亡 ：{s8}^^敌 军 伤 亡 ：{s9}
+menu_event_siege_22|夜 里 ， 卫 兵 报 告 一 队 披 羊 皮 的 敌 人 前 往 溪 边 ， 正 用 皮 囊 取 水 回 城 。 
+mno_atacar_emboscada_player2|带 上 愿 意 同 行 的 伙 伴 前 往 。 
+mno_choice_22_1b|派 人 伏 击 披 羊 皮 的 敌 人 。 
+mno_choice_22_2b|按 兵 不 动 。 
+menu_victoria_ovejas|士 兵 包 围 并 突 袭 披 羊 皮 的 敌 人 ， 将 其 全 歼 。 ^^你 的 伤 亡 ： {s8}^^敌 人 伤 亡 ： {s10}
 mno_defendiendo_1lovej|漂 亮 ！ 
-menu_derrota_ovejas|这 是 个 圈 套 ！ 长 官 ， 他 们 伪 装 成 羊 只 是 诱 饵 ， 把 我 们 的 人 引 出 来 ， 他 们 已 经 做 好 埋 伏 了 。 许 多 士 兵 没 有 活 着 回 来 。 ^^我 军 伤 亡 ：{s8}^^敌 军 伤 亡 ：{s9}
-mno_defendiendo_1poveja|这 太 糟 了 。 
-menu_tablas_ovejas|你 的 士 兵 们 被 派 去 包 围 敌 人 ， 但 是 他 们 太 慢 也 太 吵 了 。 披 羊 皮 的 敌 人 察 觉 到 不 妥 ， 迅 速 撤 退 了 。 
-mno_defendiendo_1oveja2|好 吧 ， 还 有 机 会 。 
-menu_event_siege_23|今 天 有 一 名 雇 佣 兵 来 到 了 你 的 防 御 工 事 ， 想 要 加 入 你 的 部 队 。 他 声 称 自 己 被 城 中 驱 逐 出 来 ， 而 他 想 要 报 复 。 
+menu_derrota_ovejas|中 计 了 ！ {reg59?女 士 :先 生 }， 披 羊 皮 的 是 诱 饵 ， 引 我 们 出 营 遭 伏 ， 多 人 未 能 撤 回 营 垒 。 ^^你 的 伤 亡 ： {s8}^^敌 人 伤 亡 ： {s10}
+mno_defendiendo_1poveja|太 糟 了 。 
+menu_tablas_ovejas|士 兵 奉 命 包 围 ， 却 迟 缓 嘈 杂 ， 披 羊 皮 的 敌 人 察 觉 后 迅 速 撤 回 。 
+mno_defendiendo_1oveja2|下 次 再 说 。 
+menu_event_siege_23|今 天 ， 一 名 想 加 入 我 们 的 雇 佣 兵 来 到 营 地 。 他 自 称 是 被 我 们 围 攻 之 地 的 流 亡 者 ， 想 要 复 仇 。 
 mno_choice_23_1b|接 受 他 。 
-mno_choice_23_2b|我 不 想 要 更 多 的 人 了 。 
-menu_event_siege_24|我 们 已 经 积 累 了 很 多 敌 人 和 农 民 的 脑 袋 ， 你 想 把 它 们 扔 到 城 墙 里 ， 以 削 弱 敌 人 的 士 气 并 造 成 疾 病 吗 ？ 
-mno_choice_24_1b|什 么 ？ 你 这 个 疯 子 。 别 这 么 做 ！ 
-mno_choice_24_2b|当 然 ， 这 能 让 我 们 在 谈 判 时 取 得 优 势 。 
-menu_cabezas_moral|许 多 脑 袋 被 扔 进 了 城 中 ， 你 从 外 面 就 能 听 到 市 民 们 的 哭 喊 声 ， 尤 其 是 当 他 们 看 到 自 己 所 爱 的 人 的 头 颅 时 。 战 争 是 残 酷 的 ， 你 似 乎 很 愿 意 向 他 们 证 明 自 己 是 他 们 的 头 号 死 敌 。 
-mno_defendiendo_1q|这 将 会 有 助 于 迫 使 他 们 投 降 … 或 死 亡 … 
-menu_event_siege_25|一 名 商 人 向 你 提 供 一 个 舞 蹈 团 ， 在 夜 间 为 你 的 部 队 提 供 娱 乐 。 
-mno_choice_25_1b|我 需 要 我 的 士 兵 们 随 时 待 命 ， 而 不 是 分 心 或 疲 倦 。 
-mno_choice_25_2b|为 自 己 雇 佣 舞 女 (100 先 令 ) 。 
-mno_choice_25_3b|这 是 你 的 士 兵 们 应 得 的 ， 为 他 们 雇 佣 舞 女 (500 先 令 ) 。 
-menu_event_siege_26|一 伙 强 盗 靠 近 了 你 的 营 帐 ， 正 当 你 的 士 兵 们 拔 剑 时 ， 强 盗 们 放 下 了 他 们 的 武 器 ， 并 说 他 们 没 有 恶 意 。 强 盗 头 子 向 你 走 来 ， 问 他 们 可 否 加 入 你 的 部 队 。 
-mno_choice_26_1b|当 然 ！ 我 的 部 队 永 远 欢 迎 出 色 的 战 士 。 
-mno_choice_26_2b|我 很 抱 歉 ， 我 们 这 里 不 收 留 你 们 这 种 人 ！ 
-mno_choice_26_3b|向 我 证 明 你 们 的 价 值 ， 去 掠 夺 一 个 村 子 ！ 
-mno_choice_26_4b|杀 了 他 们 ！ 
-menu_sanguinario_p|两 个 小 时 后 ， 强 盗 们 带 着 他 们 的 投 名 状 向 你 走 来 … 
-mno_choice_26_5b|做 得 好 ！军 官 会 带 你 去 你 的 地 方 。 
-menu_event_siege_27|一 些 商 人 靠 近 你 的 营 帐 ， 想 向 你 出 售 他 们 的 货 物 ， 接 着 就 在 你 身 边 形 成 了 一 支 由 士 兵 的 妻 子 、 妓 女 、 难 民 、 儿 童 和 其 他 追 随 者 组 成 的 队 伍 。 
-mno_choice_27_1b|欢 迎 他 们（ 和 他 们 的 钱） 。 
+mno_choice_23_2b|我 不 需 要 更 多 人 。 
+menu_event_siege_24|我 们 已 收 集 敌 军 与 死 去 农 民 的 脑 袋 。 你 要 把 它 们 抛 过 城 墙 ， 以 打 击 敌 军 士 气 并 散 播 疾 病 吗 ？ 
+mno_choice_24_1b|什 么 ？ 你 这 疯 子 。 别 干 这 事 ！ 
+mno_choice_24_2b|当 然 ， 这 会 在 谈 判 投 降 时 派 上 用 场 。 
+menu_cabezas_moral|头 颅 被 抛 入 城 中 。 墙 外 传 来 市 民 认 出 亲 人 后 的 哭 喊 与 哀 号 。 战 争 无 情 ， 你 已 证 明 自 己 是 最 可 怕 的 敌 人 。 
+mno_defendiendo_1q|这 会 迫 使 他 们 投 降 … … 或 死 亡 … … 
+menu_event_siege_25|一 名 杂 货 商 人 带 来 一 群 舞 女 ， 愿 在 夜 里 为 你 的 士 兵 助 兴 。 
+mno_choice_25_1b|这 只 会 让 我 的 士 兵 分 心 又 疲 惫 。 
+mno_choice_25_2b|只 为 自 己 雇 舞 女 （ 100 银 便 士 ） 。 
+mno_choice_25_3b|为 士 兵 们 雇 舞 女 （ 500 银 便 士 ） 。 
+menu_event_siege_26|一 伙 山 贼 逼 近 营 地 。 士 兵 们 刚 要 拔 剑 ， 山 贼 却 放 下 武 器 ， 声 称 无 意 为 敌 。 山 贼 首 领 上 前 ， 请 求 加 入 。 
+mno_choice_26_1b|当 然 ！ 如 此 有 前 途 的 战 士 永 远 受 欢 迎 ！ 
+mno_choice_26_2b|抱 歉 ， 我 们 不 收 你 们 这 种 人 ！ 
+mno_choice_26_3b|去 劫 掠 一 个 村 子 ， 证 明 你 们 的 价 值 。 
+mno_choice_26_4b|杀 光 他 们 ！ 
+menu_sanguinario_p|两 小 时 后 ， 山 贼 带 着 战 利 品 和 一 颗 人 头 归 来 … … 
+mno_choice_26_5b|干 得 好 ！ 军 官 会 带 你 们 去 安 置 。 
+menu_event_siege_27|几 名 商 人 前 来 ， 想 在 靠 近 你 营 地 的 集 市 卖 货 ， 那 里 已 聚 集 士 兵 的 妻 子 、 妓 女 、 难 民 、 小 孩 和 其 他 随 军 者 。 
+mno_choice_27_1b|欢 迎 他 们 （ 和 他 们 的 钱 ） 。 
 mno_choice_27_2b|这 里 已 经 有 足 够 的 商 人 了 。 
-mno_choice_27_3b|把 他 们 杀 光 再 抢 走 身 上 的 钱 。 
-menu_event_siege_28|为 了 使 食 物 能 支 撑 地 更 久 些 ， 敌 方 守 军 丢 弃 了 他 们 的 妻 子 、 孩 子 和 老 人 。 你 看 见 他 们 正 向 你 的 防 御 工 事 走 来 ， 并 向 你 乞 讨 食 物 。 
-mno_choice_28_1b|派 一 队 士 兵 ， 去 把 孩 子 和 老 人 杀 光 ， 把 女 人 带 给 你 的 士 兵 们 。 
-mno_choice_28_2b|买 点 食 物 给 这 些 市 民 (400 先 令 ) 。 
-mno_choice_28_3b|什 么 都 不 给 。 任 由 他 们 饿 死 ！ 
-menu_event_siege_29|你 的 一 个 士 兵 ， 对 长 时 间 的 围 城 感 到 愤 怒 ， 强 奸 了 你 一 个 军 官 的 妻 子 。 
-mno_choice_29_1b|无 视 此 情 况 。 
-mno_choice_29_2b|处 罚 这 名 士 兵 。 
+mno_choice_27_3b|把 他 们 杀 光 ， 再 抢 走 他 们 的 钱 。 
+menu_event_siege_28|为 了 让 食 物 多 撑 些 时 日 ， 守 军 把 女 人 、 小 孩 和 老 人 赶 了 出 来 。 你 看 见 他 们 正 朝 你 的 围 城 工 事 走 来 ， 向 你 讨 吃 的 。 
+mno_choice_28_1b|派 兵 去 杀 掉 小 孩 和 老 人 ， 把 女 人 带 走 。 
+mno_choice_28_2b|给 他 们 买 食 物 （ 1000 银 便 士 ） ， 然 后 放 他 们 离 开 。 
+mno_choice_28_3b|什 么 都 不 给 ， 让 他 们 饿 死 。 
+menu_event_siege_29|你 的 一 名 士 兵 因 久 攻 不 下 而 愤 怒 ， 强 奸 了 你 一 位 军 官 的 妻 子 。 
+mno_choice_29_1b|无 视 此 事 。 
+mno_choice_29_2b|惩 罚 这 名 士 兵 。 
 mno_choice_29_3b|处 决 这 名 士 兵 。 
-mno_choice_29_4b|付 给 军 官 赔 偿 金 (1000 先 令 ) 。 
-menu_lucha_oficial|你 的 军 官 杀 了 这 名 士 兵 ， 并 由 此 引 发 了 士 兵 和 军 官 之 间 的 斗 殴 ， 造 成 了 人 员 伤 亡 。 
-mno_defendiendo_1z|这 太 糟 了 。 
-menu_messenger_system|一 个 信 使 跑 到 你 面 前 ， 气 喘 咻 咻 地 对 你 说 ：^^“ 我 的 主 人 派 我 来 告 诉 你 ， 你 派 出 的 信 使 被 发 现 死 在 了 路 边 。 我 们 遗 憾 地 通 知 你 ， 这 个 信 使 没 有 到 达 目 的 地 。 我 们 可 以 为 你 处 置 任 何 信 件 ， 你 也 知 道 能 在 哪 里 找 到 我 们 。” 
+mno_choice_29_4b|向 军 官 支 付 赔 偿 金 （ 1000 银 便 士 ） 。 
+menu_lucha_oficial|你 的 军 官 杀 了 那 名 士 兵 ， 士 兵 的 朋 友 与 军 官 的 部 下 爆 发 斗 殴 ， 死 了 几 个 人 。 
+mno_defendiendo_1z|太 糟 了 。 
+menu_messenger_system|一 名 信 使 策 马 而 来 ， 在 你 面 前 勒 马 停 下 ， 喘 了 口 气 喊 道 ： ^^“ 我 的 主 人 派 我 来 告 诉 你 ， 你 派 出 的 信 使 被 发 现 死 在 路 边 。 很 遗 憾 ， 你 的 信 没 能 送 达 。 如 需 再 派 信 ， 尽 管 来 找 我 们 ， 你 知 道 在 哪 儿 。 ” 
 mno_error_1|继 续 。 
-menu_messenger_system2|一 个 信 使 跑 到 你 面 前 ， 气 喘 咻 咻 地 对 你 说 ：^^“ 我 的 主 人 派 我 来 告 诉 你 ， 你 派 到 {s9}的 信 使 被 发 现 死 在 了 路 边 。 我 们 遗 憾 地 通 知 你 ， 这 个 信 使 没 有 到 达 目 的 地 。 我 们 可 以 为 你 处 置 任 何 信 件 ， 你 也 知 道 能 在 哪 里 找 到 我 们 。” 
-mno_finish_m|该 死 。 
-menu_messenger_system_res_failure|一 个 信 使 出 现 了 ， 他 在 舞 动 着 。 他 在 你 的 面 前 停 下 了 。 呼 了 一 口 气 并 大 声 说 道 :^^' 我 的 主 人 让 我 捎 来 口 信 ， 你 送 去 {s9} 的 信 使 的 尸 体 在 路 旁 被 找 到 了 。 我 们 很 抱 歉 的 告 诉 你 你 的 信 息 没 有 到 达 终 点 。 我 们 会 乐 意 的 接 受 任 何 其 他 的 送 往 任 何 人 的 信 息 ， 你 知 道 在 哪 里 找 到 我 们 '
-mno_finish_m2|坏 运 气 。 
-mno_Continue_msse|谢 谢 您 的 服 务 。 
+menu_messenger_system2|一 名 信 使 策 马 而 来 ， 在 你 面 前 勒 马 停 下 ， 喘 了 口 气 喊 道 ： ^^“ 我 的 主 人 派 我 来 告 诉 你 ， 你 派 往 {s9}的 信 使 被 发 现 死 在 路 边 。 很 遗 憾 ， 你 的 信 没 能 送 达 。 如 需 再 派 信 ， 尽 管 来 找 我 们 ， 你 知 道 在 哪 儿 。 ” 
+mno_finish_m|真 倒 霉 。 
+menu_messenger_system_res_failure|一 名 信 使 策 马 而 来 ， 在 你 面 前 勒 马 停 下 ， 喘 了 口 气 喊 道 ： ^^“ 我 的 主 人 派 我 来 告 诉 你 ， 你 派 出 的 信 使 被 发 现 死 在 路 边 。 很 遗 憾 ， 你 的 信 没 能 送 达 。 如 需 再 派 信 ， 尽 管 来 找 我 们 ， 你 知 道 在 哪 儿 。 ” 
+mno_finish_m2|真 倒 霉 。 
+mno_Continue_msse|感 谢 您 的 效 力 。 
 mno_Continue_mess2|嗯 。 
 mno_Continue_mess3|嗯 。 
 mno_Continue_mess4|嗯 。 
 mno_Continue_mess5|嗯 。 
-mno_Continue_mess6|谢 谢 您 的 服 务 。 
-mno_Continue_mess7|谢 谢 您 的 服 务 。 
-mno_Continue_messeng1|谢 谢 您 的 服 务 。 
-mno_Continue_messeng2|谢 谢 您 的 服 务 。 
-mno_Continue_messeng3|我 有 我 的 战 争 。
+mno_Continue_mess6|感 谢 您 的 效 力 。 
+mno_Continue_mess7|感 谢 您 的 效 力 。 
+mno_Continue_messeng1|感 谢 您 的 效 力 。 
+mno_Continue_messeng2|感 谢 您 的 效 力 。 
+mno_Continue_messeng3|我 有 我 的 战 争 。 
 menu_random_juice_events|事 件 
-mno_leave_jui|离 开 。
-menu_event_01_juicio|有 两 个 农 民 ， 一 个 身 高 体 壮 ， 另 一 个 身 材 矮 小 ， 他 们 因 为 牛 的 归 属 问 题 产 生 分 歧 ， 来 找 你 裁 决 。 事 情 的 起 因 是 这 样 ： 他 们 两 个 的 田 地 相 邻 ， 高 个 农 民 的 公 牛 和 矮 个 农 民 的 母 牛 产 下 了 一 头 小 牛 ， 小 个 农 民 说 小 牛 应 该 属 于 他 ， 因 为 这 是 他 的 母 牛 生 的 ， 而 高 个 农 民 认 为 小 牛 属 于 他 ， 因 为 这 是 他 最 强 壮 的 公 牛 的 后 代 ， 至 少 ， 他 认 为 自 己 应 该 得 到 补 偿 。 
-mno_choice_01_1nj|矮 个 农 民 是 对 的 ， 小 牛 属 于 他 ， 因 为 这 是 他 家 母 牛 产 下 的 。 
-mno_choice_01_2nj|高 个 农 民 是 对 的 ， 小 牛 属 于 他 ， 因 为 这 是 他 家 最 强 壮 的 公 牛 的 后 代 。 
-mno_choice_01_3nj|小 牛 属 于 矮 个 农 民 ， 但 你 必 须 给 予 高 个 农 民 一 定 补 偿 。 
-mno_choice_01_4nj|你 们 俩 都 有 道 理 ， 但 现 在 我 要 把 小 牛 宰 了 ， 我 要 一 半 牛 肉 ， 然 后 你 们 俩 分 剩 下 一 半 牛 肉 。 
-mno_choice_01_5nj|你 们 俩 说 都 有 道 理 ， 不 如 把 小 牛 宰 了 ， 你 们 俩 一 人 一 半 。 
-menu_event_02_juicio|我 的 {reg59?女 士:阁 下 } ， 我 们 抓 到 了 凶 手 ！ 这 就 是 那 个 在 {s4}袭 击 了 您 的 使 者 的 人 ， 使 者 现 在 还 卧 病 在 床 ， 但 这 件 事 没 那 么 简 单 。 我 在 审 问 凶 手 时 他 提 到 一 件 事 ， 并 且 希 望 在 行 刑 前 告 诉 您 这 个 故 事 ， 我 希 望 您 能 听 听 ^^囚 犯 说 ： 我 的 {reg59?女 士:阁 下 } ， 我 本 来 与 您 的 使 者 素 不 相 识 ， 但 是 他 看 上 了 我 的 女 儿 ， 并 且 希 望 我 的 女 儿 能 陪 他 一 晚 。 对 于 这 样 的 要 求 我 当 然 拒 绝 ！ 然 而 ， 您 的 信 使 并 不 死 心 ， 他 回 去 后 叫 来 了 另 外 三 个 人 ， 冲 进 我 家 ， 要 强 奸 我 亲 爱 的 女 儿 ， 并 且 笑 着 告 诉 我 ： 即 使 我 把 这 件 事 告 到 您 这 ， 您 也 永 远 不 会 相 信 这 件 事 的 ！ 因 为 我 是 平 民 ！ 但 是 作 为 父 亲 我 必 须 保 护 自 己 唯 一 的 孩 子 ！ 所 以 ， 我 才 攻 击 了 他 ！ 
-mno_choice_02_1nj|很 精 彩 的 故 事 ， 但 是 你 胆 敢 攻 击 我 的 使 者 ， 来 人 ！ 把 他 和 他 的 家 人 在 日 出 之 前 全 部 绞 死 ！ 
-mno_choice_02_2nj|好 吧 ， 这 听 起 来 是 个 理 由 ， 我 宣 布 你 的 家 人 无 罪 ， 但 你 要 被 绞 死 。 
-mno_choice_02_3nj|如 果 有 人 对 我 做 同 样 的 事 ， 我 也 会 这 样 干 ， 我 宣 布 你 是 无 罪 的 ， 你 可 以 走 了 。 
-mno_choice_02_4nj|如 果 事 情 真 的 如 此 ， 我 要 亲 手 宰 了 他 ！ 并 吊 起 来 示 众 ！ 没 人 可 以 拥 有 特 权 ， 即 使 是 我 的 使 者 也 不 例 外 。 
-menu_event_03_juicio|你 叫 来 两 人 来 裁 定 他 们 之 间 的 争 端 。 一 个 是 当 地 的 地 主 ， 而 另 一 个 是 一 个 租 借 土 地 耕 作 的 农 夫 。 ^^农 夫 说 他 今 年 的 收 成 很 差 ， 无 法 支 付 房 租 ， 所 以 地 主 要 求 农 夫 把 他 的 女 儿 交 出 来 ， 企 图 占 有 农 夫 的 女 儿 。 地 主 在 {s4}是 一 个 有 影 响 力 的 人 物 。 
-mno_choice_03_1nj|惩 罚 农 民 ， 他 必 须 交 地 租 给 地 主 。 
-mno_choice_03_2nj|惩 罚 地 主 ， 他 没 有 权 利 占 有 农 夫 的 女 儿 。 
-mno_choice_03_3nj|杀 了 地 主 ， 迫 使 无 法 缴 税 的 农 夫 加 入 你 的 军 队 。 
-mno_choice_03_4nj|向 地 主 表 示 敬 意 ， 并 且 要 求 农 夫 把 女 儿 交 给 地 主 。 
-mno_choice_03_5nj|因 奸 杀 行 为 赔 偿 农 民 一 些 钱 。 
-menu_farmer_attack_lord|农 夫 不 满 你 的 决 定 ， 拔 出 了 刀 扑 向 地 主 ， 当 着 你 的 面 杀 死 了 他 。 然 后 农 夫 转 向 你 ， 冷 冷 的 说 ： " 这 就 是 所 谓 的 公 正 ？ 你 就 是 个 混 蛋 ！"  然 后 用 杀 死 地 主 的 刀 ， 结 束 了 自 己 的 生 命 。 
+menu_event_01_juicio|两 名 农 民 被 带 到 你 面 前 ， 一 个 又 高 又 瘦 ， 另 一 个 矮 而 壮 实 ， 他 们 要 你 裁 决 一 头 小 牛 的 归 属 。 原 来 他 们 的 田 地 相 邻 ， 高 个 农 民 的 公 牛 让 矮 个 农 民 的 母 牛 怀 了 孕 。 矮 个 农 民 说 小 牛 是 他 的 ， 因 为 是 他 的 母 牛 所 生 ； 高 个 农 民 则 称 小 牛 应 归 他 ， 因 为 那 是 他 最 好 的 公 牛 的 后 代 ， 至 少 该 给 他 配 种 费 。 
+mno_choice_01_1nj|母 牛 的 主 人 是 对 的 ， 小 牛 归 他 ， 正 如 母 牛 一 样 。 
+mno_choice_01_2nj|公 牛 的 主 人 是 对 的 ， 公 牛 是 他 的 ， 小 牛 也 是 。 
+mno_choice_01_3nj|母 牛 的 主 人 留 下 小 牛 ， 并 向 对 方 支 付 补 偿 。 
+mno_choice_01_4nj|两 人 都 不 对 。 我 要 把 小 牛 宰 了 吃 肉 ， 分 给 我 的 手 下 ！ 
+mno_choice_01_5nj|两 人 都 不 对 。 把 小 牛 宰 了 ， 把 肉 分 给 两 个 农 民 ！ 
+menu_event_02_juicio|“ 我 的 {reg59?夫 人 :大 人 }， 我 们 抓 到 了 凶 手 ！ 就 是 他 在 {s4}袭 击 了 我 们 的 信 使 ， 信 使 如 今 重 伤 卧 床 。 这 让 我 们 脸 上 无 光 ， 因 为 信 使 受 您 保 护 。 然 而 ， 凶 手 有 番 说 辞 ， 想 在 处 决 前 与 您 一 谈 。 ^^凶 手 的 故 事 ： ‘我 的 {reg59?夫 人 :大 人 }， 我 绝 不 会 袭 击 您 的 信 使 ， 可 那 人 夜 里 想 睡 我 年 幼 的 女 儿 ， 被 我 们 拒 绝 ！ 他 不 罢 休 ， 带 三 个 朋 友 闯 进 我 家 ， 强 奸 了 我 亲 爱 的 女 儿 ， 还 笑 着 说 我 永 远 不 可 能 相 信 一 个 平 民 的 话 。 做 父 亲 的 必 须 保 护 唯 一 的 孩 子 ！ ’” }， {
+mno_choice_02_1nj|他 曾 受 我 保 护 。 你 和 你 的 家 人 将 被 处 决 。 
+mno_choice_02_2nj|我 会 留 点 情 ： 只 绞 死 你 一 人 。 
+mno_choice_02_3nj|即 使 他 曾 是 我 的 仆 人 ， 我 也 会 这 么 做 。 你 可 以 走 了 。 
+mno_choice_02_4nj|我 下 令 将 他 绞 死 。 任 何 人 都 不 该 仗 势 欺 人 。 
+menu_event_03_juicio|你 召 来 两 人 裁 决 争 端 。 一 方 是 地 方 领 袖 ， 另 一 方 是 向 他 租 地 的 农 民 。 ^^农 夫 说 收 成 太 差 ， 交 不 起 租 ， 领 袖 便 把 农 夫 的 女 儿 带 进 自 己 房 里 ， 既 当 侍 女 又 当 床 伴 。 这 位 地 方 领 袖 在 {s4}颇 有 势 力 。 
+mno_choice_03_1nj|惩 罚 农 民 ， 他 必 须 向 领 主 交 租 。 
+mno_choice_03_2nj|惩 罚 地 方 领 袖 ， 他 无 权 夺 走 农 夫 的 女 儿 。 
+mno_choice_03_3nj|杀 掉 贵 族 ， 并 因 农 民 欠 税 而 强 征 他 入 伍 。 
+mno_choice_03_4nj|你 自 掏 腰 包 补 偿 贵 族 的 贡 金 ， 并 把 女 孩 送 回 去 。 
+mno_choice_03_5nj|为 被 玷 污 的 女 儿 向 农 民 支 付 偿 命 金 。 
+menu_farmer_attack_lord|农 民 不 服 判 决 ， 拔 出 海 克 斯 短 刀 猛 扑 向 地 方 领 袖 ， 在 你 的 手 下 反 应 过 来 前 便 将 其 刺 死 。 他 转 身 对 你 说 ： “ 这 就 是 公 道 ， 杂 种 ！ ” 随 后 用 同 一 把 刀 自 尽 。 
 mno_choice_03_1attackj|继 续 。 
-menu_event_04_juicio|一 个 对 你 忠 心 耿 耿 的 手 下 悄 悄 告 诉 你 ， 现 在 有 很 多 手 下 对 你 不 满 ， 因 为 你 太 过 平 庸 。 如 果 你 能 获 得 更 多 的 荣 誉 和 战 利 品 ， 或 许 会 有 些 改 观 。 
-mno_choice_04_1nj|给 这 个 手 下 一 点 钱 ， 将 珠 宝 分 给 士 兵 们 。 
-mno_choice_04_2nj|告 诉 手 下 ， 如 果 他 们 真 的 愚 蠢 到 想 要 离 队 ， 我 可 以 解 除 他 们 曾 对 我 许 下 的 誓 言 。 
-mno_choice_04_3nj|公 开 杀 死 有 意 见 的 手 下 ， 直 到 没 有 人 再 敢 议 论 纷 纷 。 
-mno_choice_04_4nj|承 诺 自 己 会 有 所 改 变 ！ 
-menu_event_05_juicio|在 {s4} ， 一 个 人 被 带 到 你 面 前 ， 据 说 这 个 人 拒 绝 向 王 国 纳 税 ， 所 以 被 带 了 过 来 。 那 个 人 坚 持 声 称 ， 在 王 国 归 还 他 的 孩 子 们 之 前 ， 他 都 会 拒 绝 纳 税 ， 而 这 个 人 的 孩 子 都 已 经 死 在 了 最 近 的 战 争 之 中 。 
-mno_choice_05_1nj|这 个 可 怜 的 人 已 经 失 去 了 太 多 ， 你 决 定 免 除 他 一 辈 子 的 债 务 。 
-mno_choice_05_2nj|如 果 这 个 人 依 然 不 纳 税 ， 就 用 死 刑 来 处 罚 这 个 人 。
-mno_choice_05_3nj|给 予 这 个 人 一 定 的 慰 问 金 。 
-menu_nobody_want_paytax|突 然 ， 本 来 你 用 于 行 使 司 法 权 威 的 办 公 室 ， 被 失 去 子 嗣 的 人 们 挤 满 了 ， 而 他 们 所 有 人 都 希 望 得 到 公 平 的 对 待 。 
-mno_choice_05_2notaxj|分 发 钱 包 给 人 们 作 为 补 偿（ 2000 先 令 ） 。 
-mno_choice_05_3notaxj|因 为 没 有 足 够 的 钱 给 所 有 的 人 ， 你 命 令 士 兵 疏 散 人 群 。 
-mno_choice_05_4notaxj|在 你 的 士 兵 的 护 卫 下 跑 出 去 ，远 离 人 群 。 
-menu_event_06_juicio|两 个 人 来 到 你 面 前 ， 据 说 他 们 已 经 准 备 好 杀 死 对 方 。 其 中 一 个 人 砍 下 一 些 堵 塞 交 通 的 老 橡 树 ， 但 实 际 上 他 是 在 双 方 的 地 界 上 这 么 做 的 。 ^^“ 那 些 树 让 我 的 推 车 很 难 通 过 ！” 第 一 个 人 这 么 解 释 道 。“ 我 们 只 是 在 讨 论 那 些 树 ， 我 根 本 不 懂 你 为 什 么 要 这 么 做 ！” ^^“ 那 些 树 在 我 的 土 地 上 ， 而 且 是 由 我 最 近 去 世 的 老 爹 之 前 亲 手 栽 下 的 ！” 另 一 个 人 喊 道 。 
-mno_choice_06_1nj|那 个 砍 了 树 的 人 应 该 向 对 方 进 行 赔 偿 。 
-mno_choice_06_2nj|那 些 树 挡 住 了 路 ， 当 然 应 该 被 砍 。 
-mno_choice_06_3nj|那 个 砍 了 树 的 人 应 该 向 对 方 和 你 提 交 罚 款 ， 以 此 作 为 惩 罚 。 
-menu_event_07_juicio|今 年 的 收 成 看 起 来 很 差 劲 ， 这 意 味 着 冬 天 我 们 会 受 到 饥 饿 的 困 扰 ， 我 们 应 该 怎 么 办 ？ 
-mno_choice_07_1nj|从 其 他 地 方 买 几 车 粮 食 回 来 。（ 1000 先 令） 
-mno_choice_07_2nj|我 没 有 足 够 的 钱 来 从 其 他 地 方 买 粮 食 。 
-mno_choice_07_3nj|这 是 他 们 没 有 仔 细 照 料 田 地 的 恶 果 ！ 
-mno_choice_07_4nj|购 买 一 些 小 麦 来 缓 和 问 题 (500 先 令 )
-menu_event_08_juicio|一 个 当 地 的 首 领 跟 你 说 ， 他 有 一 个 私 生 子（ 而 且 是 他 最 喜 欢 的） ， 希 望 加 入 到 你 的 队 伍 。 你 同 意 去 和 那 个 孩 子 会 面 ， 因 为 拒 绝 一 个 贵 族 是 不 得 体 的 行 为 。 当 你 看 见 这 个 孩 子 的 时 候 ， 不 管 怎 样 ， 显 而 易 见 他 更 像 一 个 农 夫 ， 而 不 是 战 士 的 料 子 。 面 对 这 个 满 面 笑 容 且 体 形 丰 满 的 少 年 ： 
-mno_choice_08_1nj|允 许 他 加 入 。 
-mno_choice_08_2nj|要 求 得 到 报 酬 来 达 成 交 易 。 
-mno_choice_08_3nj|拒 绝 ， 只 有 最 好 的 人 才 能 加 入 你 。 
-menu_event_09_juicio|这 一 天 ， 你 面 前 出 现 了 两 份 提 议 。 其 中 一 个 来 自 于 一 位 名 为 奥 斯 伯 的 年 轻 牧 师 ， 他 提 议 在 {s4}修 建 一 座 教 堂 ， 承 诺 将 带 来 新 的 知 识 ， 以 此 作 为 回 报 。 ^^另 一 个 人 听 到 这 件 事 情 之 后 则 毛 遂 自 荐 到 你 面 前 ， 他 是 一 个 满 面 络 腮 胡 子 的 强 壮 战 士 ， 完 全 让 瘦 弱 的 奥 斯 伯 黯 然 失 色 。 他 提 议 资 金 最 好 是 用 来 建 立 一 个 训 练 营 地 ， 而 他 将 教 你 一 招 来 提 高 你 的 武 技 。 
-mno_choice_09_1nj|选 择 奥 斯 伯 的 提 议 ， 你 需 要 学 习 新 知 识 。 
-mno_choice_09_2nj|选 择 战 士 的 提 议 ， 你 需 要 学 习 新 武 技 。 
-mno_choice_09_3nj|我 有 足 够 的 钱 来 修 建 这 两 所 设 施 。（ 3000 先 令） 
-mno_choice_9_4nj|哈 ！ 你 有 足 够 的 智 慧 和 武 技 ， 不 输 他 们 任 何 一 个 。 
-menu_event_10_juicio|一 道 闪 光 闪 过 夜 空 ， 第 二 天 有 很 多 关 于 这 个 预 兆 的 解 读 。 {s4}中 人 们 的 说 法 是 ， 我 们 必 须 进 行 一 些 献 祭 行 为 ， 不 然 的 话 就 会 有 神 罚 降 临 到 这 个 王 国 。 由 于 临 近 收 获 时 节 ， 这 个 迷 信 的 说 法 突 然 得 到 广 泛 的 传 播 。 他 们 找 到 了 一 个 天 使 般 的 女 孩 ， 她 在 收 获 之 前 一 直 被 视 为 一 个 圣 女 。 这 个 时 候 你 突 然 发 现 整 个 地 区 恢 复 了 早 已 消 失 几 个 世 纪 的 献 祭 传 统 。 
-mno_choice_10_1nj|允 许 献 祭 这 个 女 孩 。 
-mno_choice_10_2nj|禁 止 献 祭 ， 并 把 女 孩 带 到 安 全 的 地 方 。 
-mno_choice_10_3nj|这 件 事 与 我 无 关 。 
-menu_event_11_juicio|有 人 跑 进 你 的 宫 廷 ， 在 得 到 你 的 允 许 后 说 出 了 一 个 消 息 。“ {reg59?女 士:阁 下 } ， 附 近 的 一 个 村 庄 陷 入 了 危 险 之 中 ！ 人 们 患 上 了 一 种 奇 怪 的 疾 病 ， 他 们 难 以 动 弹 ， 而 且 不 停 流 汗 和 呕 吐 ， 当 地 的 智 者 也 没 有 办 法 治 疗 他 们 。 现 在 地 方 首 领 不 让 任 何 人 外 出 ， 等 候 着 你 的 命 令 。” 
-mno_choice_11_1nj|进 行 隔 离 ！ 但 我 会 派 出 附 近 最 好 的 医 师 来 帮 忙 。（ 500 先 令） 
-mno_choice_11_2nj|进 行 隔 离 ！ 我 们 会 在 流 行 病 过 去 之 后 对 生 还 者 进 行 研 究 。 
-menu_event_12_juicio|两 个 修 女 向 你 走 来 。“ {reg59?女 士:阁 下 } ， 我 们 这 有 一 个 孩 子 的 出 生 不 太 顺 利 ， 我 们 已 经 尽 力 了 ， 但 是 看 起 来 这 个 年 轻 的 女 士 并 不 适 合 怀 孕 生 产 。 而 这 个 女 孩 是 一 个 德 高 望 重 的 地 方 领 主 的 女 儿 ， 我 们 能 做 点 什 么 吗 ？ ” 
-mno_choice_12_1nj|所 有 人 跪 下 来 ， 开 始 祈 祷 ！ 
-mno_choice_12_2nj|侍 卫 ， 把 村 庄 的 智 者 请 过 来 ， 马 上 ！ 
-menu_event_13_juicio|一 天 ， 附 近 一 个 忠 诚 的 贵 族 向 你 提 出 了 一 个 奇 怪 的 要 求 ：“ 阁 下 ， 我 现 在 处 境 不 太 好 。 我 把 所 有 钱 都 花 在 整 顿 装 备 和 部 队 上 面 ， 这 样 就 能 更 好 地 服 侍 您 。 然 而 我 的 大 女 儿 即 将 结 婚 ， 但 我 却 不 能 给 她 和 她 丈 夫 一 份 合 适 的 嫁 妆 。” 
-mno_choice_13_1nj|拿 走 这 些 钱 吧 ， 就 当 是 你 忠 诚 的 回 报 。（ 800 先 令） 
-mno_choice_13_2nj|我 现 在 会 帮 你 ， 但 这 是 最 后 一 次 。（ 400 先 令） 
-mno_choice_13_3nj|不 ， 我 不 会 帮 你 的 ， 你 之 前 就 应 该 存 点 钱 下 来 。 
-menu_event_14_juicio|有 一 天 ， 一 个 基 督 教 的 传 教 士 来 到 你 家 门 前 。 他 很 热 情 地 说 道 ：“ {reg59?女 士:阁 下 } ， 我 有 一 个 好 消 息 ！ 有 个 从 耶 路 撒 冷 来 的 商 人 现 在 正 处 于 {s4} ， 而 他 愿 意 出 售 一 件 圣 十 字 架 ！ 我 几 乎 不 敢 相 信 我 们 有 这 么 一 个 机 会 ， 可 以 获 得 一 件 著 名 的 圣 物 ！ 这 将 大 大 帮 助 我 向 信 徒 们 传 播 关 于 耶 稣 的 事 情 ！” 
-mno_choice_14_1nj|我 们 并 不 会 为 假 的 圣 物 付 钱 。 
-mno_choice_14_2nj|抱 歉 ， 但 是 这 个 地 方 崇 拜 其 他 的 神 。 我 不 会 因 此 浪 费 我 的 钱 。 
-mno_choice_14_3nj|价 钱 的 确 不 错 ， 但 遗 憾 的 是 我 们 没 有 那 么 多 钱 。 
-mno_choice_14_4nj|我 们 不 能 让 这 个 机 会 溜 走 ！（ 5000 先 令） 
-menu_event_15_juicio|你 正 在 和 同 伴 们 举 行 一 场 宴 会 ， 这 时 一 位 使 者 进 来 了 。“ 我 的 {reg59?女 士:阁 下 } ， 在 {s4}出 了 点 情 况 ， 需 要 您 的 建 议 。” 你 向 同 伴 们 说 明 情 况 ， 走 到 了 外 面 。 ^^一 群 人 已 经 聚 集 在 那 里 了 ， 正 在 争 论 不 休 ， 但 当 你 出 现 之 后 ， 他 们 很 快 就 安 静 了 下 来 。 这 时 候 一 位 老 人 请 求 允 许 说 话 ， 他 说 道 ：“ 我 的 {reg59?女 士:阁 下 } ， 我 们 需 要 您 的 智 慧 ， 这 里 有 两 个 女 人 自 称 是 这 个 孩 子 的 母 亲 。” ^两 个 女 人 出 现 了 ， 其 中 一 个 衣 着 光 鲜 而 另 一 个 衣 衫 褴 褛 。 
-mno_choice_15_1nj|把 孩 子 给 穷 女 人 。 
-mno_choice_15_2nj|把 孩 子 给 富 女 人 。 
-mno_choice_15_3nj|下 令 把 小 孩 切 成 两 半 并 给 到 两 个 女 人 的 手 上 。 
-menu_child_half_one|然 后 衣 衫 褴 褛 的 女 人 尖 叫 道“ 不 ！ 求 求 你 ， 我 的 {reg59?女 士:阁 下 } ， 让 另 一 个 女 人 领 走 孩 子 吧 。” ^^在 你 身 旁 的 老 人 大 声 说 道 ：“ 所 以 你 是 那 个 孩 子 合 法 的 母 亲 ！ 孩 子 是 你 的 ！” ^^另 一 个 女 人 看 起 来 似 乎 有 点 不 安 ，“ 我 可 以 让 孩 子 脱 离 贫 穷 的 生 活 。” 
-mno_choice_half1pj|把 孩 子 给 穷 女 人 ， 并 以 说 谎 的 罪 名 惩 罚 富 女 人 。 
-mno_choice_half2pj|把 孩 子 给 穷 女 人 ， 并 把 富 女 人 交 给 人 群 。 
-mno_choice_half3pj|把 孩 子 给 富 女 人 。
-mno_choice_half4pj||把 孩 子 给 富 女 人 ， 并 把 穷 女 人 交 给 你 的 人 。 
-menu_event_16_juicio|你 的 顾 问 风 尘 仆 仆 而 来 ， 现 在 正 是 收 割 的 时 节 。“ 阁 下 ， 今 年 的 收 成 十 分 差 劲 。 如 果 你 不 减 税 的 话 ， 冬 天 将 会 出 现 饥 荒 。” 
-mno_choice_16_1nj|减 少 税 收 意 味 着 背 叛 ， 饿 着 肚 子 总 比 被 处 死 要 好 。 
-mno_choice_16_2nj|好 吧 ， 我 会 从 自 己 的 钱 包 里 面 掏 出 钱 来 补 齐 不 足 的 部 分 。（ 1000 先 令） 
-menu_event_17_juicio|一 个 来 自 附 近 村 庄 的 农 民 向 你 求 助 ， 他 上 气 不 接 下 气 地 说 道 ， 有 一 伙 土 匪 袭 击 了 他 的 农 场 ， 抢 走 了 女 人 和 牛 还 有 粮 食 。 他 身 上 都 是 血 和 烧 焦 茅 草 的 臭 味 。 
-mno_choice_17_1nj|雇 佣 守 卫 来 看 护 这 个 地 区 。（ 800 先 令） 
-mno_choice_17_2nj|这 跟 我 没 关 系 ， 滚 开 ！ 杂 种 ！ 
-mno_choice_17_3nj|战 争 马 上 要 打 响 了 ， 拿 走 这 些 钱 来 重 建 你 的 村 子 吧 。 
-menu_event_18_juicio|一 名 妓 女 被 几 名 向 你 效 忠 的 士 兵 指 控 使 用 了 巫 术 ， 而 你 的 随 从 则 证 实 了 这 件 事 。 你 怀 疑 他 也 有 同 样 的 抱 怨 ， 但 最 好 不 要 公 之 于 众 。 
-mno_choice_18_1nj|把 这 个 妓 女 流 放 到 另 一 个 地 方 。 
-mno_choice_18_2nj|付 钱 给 这 个 女 巫 ， 让 她 帮 忙 抑 制 基 督 教 的 传 播 。 
-mno_choice_18_3nj|这 只 是 其 中 一 个 ， 还 有 很 多 的 巫 女 ！ 杀 掉 所 有 被 举 报 的 巫 女 ！ 
-menu_event_19_juicio|一 个 传 教 士 前 来 告 诉 你 ， 他 之 前 正 在 你 的 一 个 村 庄 里 面 传 教 布 道 ， 而 当 他 和 他 的 追 随 者 想 要 伐 倒 一 棵 对 异 教 徒 来 说 很 重 要 的 树 时 ， 大 部 分 居 民 拿 起 武 器 把 他 们 赶 了 出 去 。 因 此 他 想 来 讨 个 说 法 。 
-mno_choice_19_1nj|这 个 传 教 士 是 对 的 ， 应 该 砍 掉 这 棵 象 征 着 异 端 的 树 。 
-mno_choice_19_2nj|这 个 传 教 士 是 错 误 的 ， 应 该 将 他 和 追 随 者 献 祭 给 众 神 。 
-mno_choice_19_3nj|这 个 传 教 士 是 错 误 的 ， 让 那 些 基 督 徒 离 开 村 子 。 
-menu_event_20_juicio|一 个 来 自 附 近 村 庄 的 女 人 声 称 ， 你 最 近 死 去 的 士 兵 之 中 有 一 个 是 她 的 丈 夫 。 她 请 求 帮 忙 善 后 和 处 理 尸 体 。 
-mno_choice_20_1nj|资 助 她 ， 并 为 她 派 遣 一 名 牧 师 。 
-mno_choice_20_2nj|什 么 都 不 做 ， 这 不 关 我 事 。 
-mno_choice_20_3nj|抱 歉 ， 我 无 能 为 力 。 
-menu_event_21_juicio|一 位 最 重 要 的 地 方 首 领 向 你 提 出 了 一 个 请 求 ：“ 我 的 {reg59?女 士:阁 下 } ， 你 会 对 那 些 因 对 你 效 忠 而 受 苦 的 人 们 展 示 你 的 宽 宏 大 量 么 ？ 很 多 残 废 、 瘸 腿 和 年 迈 的 老 兵 在 街 头 乞 讨 ， 还 有 很 多 家 庭 因 为 你 的 战 争 而 失 去 了 丈 夫 和 父 亲 。 我 们 需 要 奖 励 以 及 保 护 那 些 忠 实 的 支 持 者 们 ， 还 有 那 些 以 后 可 能 会 成 为 你 麾 下 一 员 的 年 轻 人 。” 
-mno_choice_21_1nj|这 不 关 我 事 ， 我 的 手 下 没 有 为 自 己 的 家 庭 准 备 后 路 ， 是 他 们 自 己 的 错 。 
-mno_choice_21_2nj|我 们 应 该 帮 助 老 兵 和 他 们 的 家 庭 。（ 800 先 令） 
-mno_choice_21_3nj|打 开 我 的 金 库 ， 让 所 有 家 庭 都 得 到 帮 助 。（ 2000 先 令） 
-mno_choice_21_4nj|我 没 钱 付 这 些 额 外 的 价 格 。 
-menu_event_22_juicio|有 一 个 貌 似 很 简 单 的 案 件 要 交 给 你 。 昨 天 ， 被 告 人 破 入 被 害 人 的 家 并 卷 走 了 大 量 财 产 。 很 多 人 都 看 到 了 ， 而 且 丢 失 的 财 物 都 在 他 家 找 到 。 但 受 害 人 是 前 任 领 主 的 一 个 有 影 响 力 的 支 持 者 和 参 赞 ， 但 是 他 的 忠 诚 让 人 怀 疑 。 而 另 一 方 面 ， 被 告 人 是 你 最 忠 实 的 支 持 者 而 且 曾 经 给 你 支 持 了 很 多 财 物 。 
-mno_choice_22_1nj|无 视 证 据 ， 袒 护 自 己 的 人 。 
-mno_choice_22_2nj|证 据 很 明 显 表 明 了 被 告 人 有 罪 。 
-mno_choice_22_3nj|双 方 都 有 错 。 你 把 他 们 都 流 放 了 并 没 收 了 这 案 件 的 所 有 证 据 。 
-menu_event_juicio_end|有 一 个 貌 似 很 简 单 的 案 件 要 交 给 你 。 昨 天 ， 被 告 人 破 入 被 害 人 的 家 并 卷 走 了 大 量 财 产 。 很 多 人 都 看 到 了 ， 而 且 丢 失 的 财 物 都 在 他 家 找 到 。 但 受 害 人 是 前 任 领 主 的 一 个 有 影 响 力 的 支 持 者 和 参 赞 ， 但 他 的 忠 诚 让 人 怀 疑 。 而 另 一 方 面 ， 被 告 人 是 你 最 忠 实 的 支 持 者 而 且 曾 经 给 你 支 持 了 很 多 财 物 。 
-mno_choice_end_1nj|无 视 证 据 ， 你 渐 渐 地 在 士 兵 的 心 中 占 据 了 最 重 要 的 位 置 。 
+menu_event_04_juicio|一 名 誓 死 追 随 你 的 部 下 走 近 ， 坦 言 军 中 怨 声 四 起 。 众 人 嫌 你 过 于 温 吞 ， 跟 着 你 既 捞 不 到 黄 金 也 挣 不 到 荣 誉 。 
+mno_choice_04_1nj|发 饷 并 赐 给 他 们 指 环 。 
+mno_choice_04_2nj|若 有 人 想 走 ， 可 解 除 他 们 的 誓 言 。 
+mno_choice_04_3nj|当 众 处 决 进 言 者 ， 并 宣 布 再 敢 煽 动 者 同 罪 。 
+mno_choice_04_4nj|承 诺 改 变 你 的 统 御 之 道 。 
+menu_event_05_juicio|在 {s4}， 一 人 被 带 到 你 面 前 。 手 下 禀 报 此 人 拒 向 王 国 — — 也 就 是 向 你 — — 纳 税 。 那 人 坚 称 ， 除 非 王 国 把 他 的 儿 子 们 还 回 来 ， 否 则 绝 不 交 税 ； 而 他 的 儿 子 们 皆 已 死 于 最 近 的 战 事 。 
+mno_choice_05_1nj|此 人 已 失 去 太 多 ， 免 他 终 身 赋 税 。 
+mno_choice_05_2nj|若 仍 拒 缴 ， 便 以 死 罪 惩 处 。 
+mno_choice_05_3nj|为 他 的 亡 子 支 付 偿 命 金 。 
+menu_nobody_want_paytax|突 然 ， 你 行 使 司 法 的 厅 堂 被 一 群 因 战 争 丧 子 的 人 挤 满 ， 他 们 齐 声 要 求 同 等 待 遇 。 
+mno_choice_05_2notaxj|向 百 姓 分 发 钱 袋 作 为 赔 偿 （ 2000 银 便 士 ） 。 
+mno_choice_05_3notaxj|手 头 没 有 足 够 钱 财 应 付 这 么 多 人 ， 你 命 手 下 驱 散 人 群 。 
+mno_choice_05_4notaxj|在 士 兵 护 送 下 冲 出 人 群 ， 远 离 现 场 。 
+menu_event_06_juicio|两 人 来 到 你 面 前 。 手 下 说 他 们 已 拔 剑 相 向 。 一 人 砍 倒 几 棵 阻 碍 道 路 的 老 橡 树 ， 却 砍 在 他 人 领 地 之 内 。 ^^“ 那 些 树 挡 了 我 的 车 ！ ” 第 一 人 喊 道 。 “ 不 过 是 几 棵 树 ， 我 不 明 白 这 算 什 么 官 司 ！ ” ^^“ 那 些 树 长 在 我 的 土 地 上 ， 是 我 刚 过 世 的 父 亲 亲 手 种 下 。 ” 另 一 人 怒 吼 。 
+mno_choice_06_1nj|砍 树 人 必 须 向 对 方 赔 偿 。 
+mno_choice_06_2nj|树 挡 了 路 ， 本 就 该 砍 。 
+mno_choice_06_3nj|砍 树 人 须 向 对 方 与 你 缴 纳 罚 金 。 
+menu_event_07_juicio|今 年 收 成 惨 淡 ， 冬 天 恐 将 挨 饿 。 我 们 该 怎 么 办 ？ 
+mno_choice_07_1nj|从 外 地 购 入 几 车 粮 食 。 （ 1000 银 便 士 ） 
+mno_choice_07_2nj|我 手 头 没 钱 去 外 地 买 粮 。 
+mno_choice_07_3nj|谁 让 他 们 没 好 好 侍 弄 庄 稼 ， 活 该 ！ 
+mno_choice_07_4nj|买 些 粮 食 来 缓 解 困 境 。 （ 500 银 便 士 ） 
+menu_event_08_juicio|一 位 地 方 领 袖 前 来 ， 说 他 有 个 私 生 子 （ 他 十 分 偏 爱 ） 想 加 入 你 的 船 长 队 伍 。 你 同 意 见 那 孩 子 ， 毕 竟 直 接 拒 绝 贵 族 有 失 体 面 。 可 见 面 后 ， 那 少 年 胖 乎 乎 、 笑 眯 眯 ， 显 然 不 是 战 士 的 料 。 面 对 他 ， 你 ： 
+mno_choice_08_1nj|允 许 他 加 入 船 长 队 伍 。 
+mno_choice_08_2nj|索 要 好 处 ， 以 促 成 此 事 。 
+mno_choice_08_3nj|拒 绝 。 唯 有 最 优 秀 者 才 能 当 船 长 。 
+menu_event_09_juicio|某 日 ， 两 份 提 议 摆 在 你 面 前 。 一 位 名 叫 奥 斯 伯 的 年 轻 牧 师 建 议 在 {s4}建 教 堂 ， 并 承 诺 传 授 新 知 识 ， 提 升 你 的 智 慧 。 ^^另 一 人 闻 言 挤 到 前 面 ， 是 个 魁 梧 大 胡 子 的 战 士 ， 把 奥 斯 伯 衬 得 渺 小 。 他 主 张 用 这 笔 钱 建 训 练 营 ， 并 教 你 一 招 增 强 体 魄 。 
+mno_choice_09_1nj|选 择 奥 斯 伯 的 方 案 ， 你 需 要 提 升 智 慧 。 
+mno_choice_09_2nj|选 择 战 士 的 方 案 ， 你 需 要 增 强 力 量 。 
+mno_choice_09_3nj|我 财 力 充 足 ， 可 建 两 处 设 施 （ 3000 银 便 士 ） 。 
+mno_choice_9_4nj|哈 ！ 你 早 已 足 够 聪 明 ， 不 会 上 任 何 一 方 的 当 。 
+menu_event_10_juicio|一 道 炽 烈 的 光 划 破 夜 空 。 翌 日 ， 众 人 议 论 纷 纷 ， 皆 言 此 乃 不 祥 之 兆 。 {s4}的 百 姓 普 遍 认 为 必 须 献 上 祭 品 ， 否 则 神 怒 将 降 临 王 国 。 因 收 获 将 近 ， 柳 条 人 祭 忽 然 盛 行 。 他 们 寻 得 一 位 天 使 般 的 少 女 ， 奉 若 活 女 神 。 你 猛 然 惊 觉 ， 此 地 竟 重 拾 已 失 传 数 百 年 的 古 老 传 统 。 
+mno_choice_10_1nj|允 许 献 祭 少 女 。 
+mno_choice_10_2nj|禁 止 献 祭 ， 并 将 少 女 收 入 队 伍 以 保 安 全 。 
+mno_choice_10_3nj|此 事 与 我 无 关 。 
+menu_event_11_juicio|一 名 信 使 奔 入 宫 廷 ， 获 准 后 急 报 凶 讯 。 “ {reg59?夫 人 :大 人 }， 邻 村 危 在 旦 夕 ！ 村 民 染 怪 疾 ， 动 弹 不 得 ， 又 呕 又 汗 ， 当 地 巫 婆 束 手 无 策 。 地 方 领 袖 已 封 村 ， 只 等 您 的 命 令 ！ ” 
+mno_choice_11_1nj|封 锁 村 庄 ， 并 派 最 良 医 前 往 救 治 ！ （ 500 银 便 士 ） 
+mno_choice_11_2nj|封 锁 村 庄 ！ 待 瘟 疫 过 去 再 查 幸 存 者 ！ 
+menu_event_12_juicio|两 名 修 女 趋 前 。 “ {reg59?夫 人 :大 人 }， 有 妇 人 难 产 ！ 我 们 已 尽 所 能 ， 然 此 女 似 不 宜 生 产 。 她 乃 本 地 显 赫 领 主 之 女 ， 我 们 该 如 何 是 好 ？ ” 
+mno_choice_12_1nj|众 人 跪 下 ， 即 刻 祈 祷 ！ 
+mno_choice_12_2nj|侍 卫 ： 立 刻 把 村 里 的 巫 婆 带 来 ！ 
+menu_event_13_juicio|某 日 ， 一 位 邻 近 的 忠 诚 贵 族 携 奇 求 而 来 。 “ 大 人 ， 我 处 境 艰 难 。 为 效 忠 您 ， 我 已 倾 尽 家 财 购 置 装 备 与 兵 士 。 然 长 女 将 嫁 ， 我 却 无 力 置 办 嫁 妆 。 ” 
+mno_choice_13_1nj|拿 这 点 银 子 ， 以 酬 你 忠 诚 。 （ 800 银 便 士 ） 
+mno_choice_13_2nj|此 次 我 帮 你 ， 但 下 不 为 例 。 （ 400 银 便 士 ） 
+mno_choice_13_3nj|不 ， 你 早 该 自 己 攒 钱 ！ 
+menu_event_14_juicio|一 日 ， 一 名 基 督 教 传 教 士 登 门 ， 神 情 激 昂 。 “ {reg59?夫 人 :大 人 }， 大 喜 讯 ！ 耶 路 撒 冷 商 人 现 于 {s4}， 愿 售 圣 十 字 架 残 片 ！ 竟 能 获 此 圣 物 ， 难 以 置 信 ！ 此 物 将 助 我 广 传 基 督 福 音 ！ ” 
+mno_choice_14_1nj|我 们 绝 不 花 钱 买 假 圣 物 ！ 
+mno_choice_14_2nj|抱 歉 ， 这 里 敬 的 是 别 神 ， 我 可 不 想 白 花 钱 。 
+mno_choice_14_3nj|价 码 不 错 ， 可 惜 我 们 的 金 库 没 那 么 多 。 
+mno_choice_14_4nj|绝 不 能 错 过 这 个 机 会 ！ （ 5000 银 便 士 ） 
+menu_event_15_juicio|你 正 与 同 伴 宴 饮 ， 一 名 信 使 上 前 ： “ 我 的 {reg59?女 士 :阁 下 }， {s4}出 了 事 ， 需 您 裁 断 。 ” 你 致 歉 离 席 ， 走 到 屋 外 。 ^^门 前 已 聚 起 人 群 ， 吵 嚷 不 休 ， 见 你 出 现 ， 立 刻 安 静 。 一 位 长 者 躬 身 请 言 ， 你 点 头 。 他 说 ： “ 我 的 {reg59?女 士 :阁 下 }， 我 们 需 要 您 的 智 慧 。 两 个 女 人 都 自 称 这 小 孩 的 母 亲 ， 谁 也 不 肯 退 让 。 ” ^两 名 女 子 被 带 上 前 ， 一 人 衣 着 华 贵 ， 一 人 衣 衫 褴 褛 。 
+mno_choice_15_1nj|把 小 孩 交 给 穷 女 人 。 
+mno_choice_15_2nj|把 小 孩 交 给 富 女 人 。 
+mno_choice_15_3nj|下 令 把 小 孩 劈 成 两 半 ， 各 给 一 半 。 
+menu_child_half_one|衣 衫 褴 褛 的 女 人 尖 叫 ： “ 不 ！ 求 您 ， 我 的 {reg59?女 士 :阁 下 }， 让 那 女 人 带 走 孩 子 吧 ！ ” ^^身 旁 的 长 者 高 声 道 ： “ 如 此 看 来 ， 你 才 是 孩 子 真 正 的 母 亲 ， 孩 子 归 你 ！ ” ^^另 一 女 人 神 色 不 安 ： “ 我 能 让 孩 子 摆 脱 贫 困 。 ” 
+mno_choice_half1pj|把 小 孩 给 穷 女 人 ， 并 以 撒 谎 之 罪 惩 罚 富 女 人 。 
+mno_choice_half2pj|把 小 孩 给 穷 女 人 ， 把 富 女 人 交 给 众 人 处 置 。 
+mno_choice_half3pj|把 小 孩 交 给 富 女 人 。 
+mno_choice_half4pj|把 小 孩 给 富 女 人 。 
+menu_event_16_juicio|你 的 顾 问 满 身 尘 土 、 晒 得 通 红 ， 赶 来 汇 报 ： “ 阁 下 ， 今 年 收 成 很 差 。 若 不 减 税 ， 今 冬 必 有 人 饿 死 。 ” 
+mno_choice_16_1nj|减 税 便 少 兵 ， 饿 肚 子 总 比 掉 脑 袋 强 。 
+mno_choice_16_2nj|也 罢 ， 我 自 掏 腰 包 补 上 （ 1000 银 便 士 ） 。 
+menu_event_17_juicio|附 近 村 庄 的 农 民 跪 在 你 面 前 ， 喘 着 粗 气 说 ， 有 武 装 歹 徒 洗 劫 了 他 的 农 场 ， 掳 走 女 人 、 牛 和 粮 食 。 他 浑 身 血 污 ， 带 着 焦 草 臭 味 。 
+mno_choice_17_1nj|雇 哨 兵 守 卫 此 地 （ 800 银 便 士 ） 。 
+mno_choice_17_2nj|此 事 与 我 无 关 ， 滚 开 ， 贱 民 ！ 
+mno_choice_17_3nj|大 战 将 临 ， 拿 这 些 钱 重 建 村 庄 。 
+menu_event_18_juicio|风 流 寡 妇 被 几 名 向 你 效 忠 的 士 兵 指 控 施 巫 术 ， 你 的 封 臣 也 附 议 。 你 怀 疑 他 同 样 受 害 ， 却 不 敢 当 众 承 认 。 
+mno_choice_18_1nj|将 风 流 寡 妇 放 逐 他 乡 。 
+mno_choice_18_2nj|付 钱 请 女 巫 遏 制 基 督 教 蔓 延 。 
+mno_choice_18_3nj|有 一 个 就 有 更 多 ！ 把 其 他 被 举 报 施 巫 术 的 人 全 杀 掉 。 
+menu_event_19_juicio|一 位 传 教 士 来 到 你 面 前 ， 说 他 在 你 的 一 座 村 庄 里 传 扬 上 帝 的 恩 典 。 当 他 与 追 随 者 想 砍 倒 一 棵 对 多 神 教 徒 意 义 非 凡 的 古 老 大 树 时 ， 大 多 数 村 民 拿 起 武 器 把 他 们 赶 了 出 去 。 
+mno_choice_19_1nj|这 位 传 教 士 说 得 对 ： 砍 掉 这 棵 异 端 之 树 。 
+mno_choice_19_2nj|这 位 传 教 士 错 了 。 让 他 和 追 随 者 为 众 神 而 焚 。 
+mno_choice_19_3nj|这 位 传 教 士 错 了 。 让 那 些 基 督 徒 平 安 离 开 这 座 村 庄 。 
+menu_event_20_juicio|邻 村 一 名 女 子 前 来 ， 声 称 你 最 近 死 去 的 一 名 士 兵 是 她 的 丈 夫 。 她 请 求 协 助 料 理 后 事 。 
+mno_choice_20_1nj|给 她 银 两 ， 并 派 一 名 牧 师 过 去 。 
+mno_choice_20_2nj|什 么 也 不 做 。 这 不 关 我 的 事 。 
+mno_choice_20_3nj|可 惜 ， 我 拿 不 出 这 笔 钱 。 
+menu_event_21_juicio|最 重 要 的 地 方 领 袖 向 你 请 求 ： “ 我 的 {reg59?女 士 :阁 下 }， 若 能 抚 恤 那 些 因 效 忠 你 而 受 苦 的 人 ， 岂 不 更 显 你 的 仁 慈 与 荣 耀 ？ 如 今 街 头 有 数 十 名 伤 残 、 跛 足 、 年 迈 的 老 兵 乞 讨 ， 许 多 家 庭 因 你 的 战 事 失 去 父 亲 与 丈 夫 。 我 们 必 须 奖 赏 并 保 护 忠 诚 的 支 持 者 ， 否 则 将 来 人 们 或 许 会 犹 豫 是 否 加 入 你 的 盾 墙 。 ” 
+mno_choice_21_1nj|这 怪 不 得 我 ， 我 的 部 下 没 为 家 人 攒 下 钱 财 。 
+mno_choice_21_2nj|我 们 应 支 援 老 兵 及 其 家 庭 （ 800 银 便 士 ） 。 
+mno_choice_21_3nj|打 开 我 的 金 库 ， 让 所 有 家 庭 都 得 到 抚 恤 （ 2000 银 便 士 ） 。 
+mno_choice_21_4nj|我 无 力 承 担 这 笔 意 外 开 销 。 
+menu_event_22_juicio|一 桩 看 似 简 单 的 案 子 摆 在 你 面 前 。 昨 日 ， 被 告 闯 入 受 害 者 家 中 ， 掠 走 大 量 财 物 。 多 人 目 睹 ， 失 物 也 在 他 家 里 搜 出 。 受 害 者 是 前 任 领 主 的 有 影 响 力 的 支 持 者 ， 曾 任 参 赞 ， 忠 诚 可 疑 ； 而 被 告 却 是 你 最 积 极 的 拥 护 者 ， 曾 为 你 的 事 业 捐 出 重 金 。 
+mno_choice_22_1nj|无 视 证 据 ， 你 偏 袒 自 己 人 。 
+mno_choice_22_2nj|证 据 确 凿 ， 被 告 被 判 有 罪 。 
+mno_choice_22_3nj|双 方 皆 有 过 错 。 你 将 他 们 一 并 流 放 ， 并 没 收 所 有 财 物 。 
+menu_event_juicio_end|一 桩 看 似 简 单 的 案 子 摆 在 你 面 前 。 昨 日 ， 被 告 闯 入 受 害 者 家 中 ， 掠 走 大 量 财 物 。 多 人 目 睹 ， 失 物 也 在 他 家 里 搜 出 。 但 受 害 者 是 前 任 领 主 的 有 影 响 力 的 支 持 者 ， 曾 任 参 赞 ， 忠 诚 可 疑 ； 而 被 告 却 是 你 最 积 极 的 拥 护 者 ， 曾 为 你 的 事 业 捐 出 重 金 。 
+mno_choice_end_1nj|无 视 证 据 ， 你 偏 袒 自 己 人 。 
 mno_choice_end_2nj|证 据 确 凿 ， 被 告 被 判 有 罪 ！ 
-mno_choice_end_3nj|你 说 双 方 都 是 错 的 。 你 放 逐 了 他 们 ， 没 收 所 有 和 本 案 有 关 的 材 料 。 
-menu_riots_01|你 和 {s4} 的 关 系 很 糟 糕 。 你 走 在 大 街 上 ， 人 们 都 很 痛 恨 地 看 着 你 并 在 你 背 后 做 了 手 势 ， 等 你 到 了 没 人 的 地 方 你 就 认 为 你 安 全 了 — — — — 直 到 一 群 人 的 出 现 。 本 地 居 民 也 厌 倦 了 你 的 管 理 并 开 始 辱 骂 你 。 终 于 ， 有 人 大 胆 地 拔 出 了 小 刀 并 袭 击 你 。 
-mno_deffend_yr|自 我 防 御 。 
-menu_riots_02|你 的 一 队 战 士 在 街 道 上 行 走 时 被 一 群 愤 怒 暴 民 袭 击 并 杀 害 了 。 你 最 好 尽 快 和 {s4} 搞 好 关 系 。 
-mno_deffend_01ri|命 令 你 的 人 杀 掉 这 些 肇 事 者 并 抓 捕 相 关 人 员 。 
-mno_deffend_02ri|我 不 用 恐 惧 来 统 治 。 我 会 和 这 里 的 人 搞 好 关 系 的 。 
-mno_deffend_03ri|把 反 对 你 的 人 统 统 杀 光 并 把 支 持 你 的 人 拉 进 来 
+mno_choice_end_3nj|你 宣 称 双 方 都 有 过 错 。 你 放 逐 了 他 们 ， 并 没 收 全 部 物 资 。 
+menu_riots_01|你 与 {s4}的 关 系 极 差 。 走 在 街 上 ， 人 们 用 仇 恨 的 目 光 盯 着 你 ， 在 背 后 做 手 势 。 你 拐 过 街 角 ， 以 为 安 全 了 — — 却 见 数 人 陆 续 现 身 。 平 民 已 厌 倦 你 的 统 治 ， 开 始 辱 骂 你 。 终 于 ， 有 人 胆 大 包 天 地 拔 刀 袭 击 。 
+mno_deffend_yr|自 卫 。 
+menu_riots_02|一 群 愤 怒 的 暴 民 辱 骂 你 的 名 声 ， 把 街 上 巡 逻 的 一 队 战 士 当 成 一 切 苦 难 的 源 头 ， 袭 击 并 杀 光 了 他 们 。 你 应 尽 快 改 善 与 {s4}的 关 系 。 
+mno_deffend_01ri|命 令 部 下 杀 掉 肇 事 者 ， 并 夺 取 他 们 的 财 物 。 
+mno_deffend_02ri|我 不 会 用 恐 惧 统 治 。 我 得 用 其 他 办 法 改 善 关 系 。 
+mno_deffend_03ri|屠 尽 全 城 百 姓 ， 再 用 更 忠 诚 的 人 重 新 填 充 。 
 menu_random_normal_events|事 件 
 menu_random_normal_events2|事 件 
-menu_event_01_normal|马 蹄 的 声 音 刺 穿 了 寒 冷 的 早 晨 ， 当 你 走 出 门 时 看 到 卫 兵 从 马 上 下 来 。 他 告 诉 你 说 有 一 艘 陌 生 的 船 上 载 着 一 群 说 外 语 的 人 在 附 近 的 海 滩 靠 岸 了 。 你 准 备 怎 么 做 ？ 
-mno_choice_01_1nor|派 人 去 抢 贵 重 物 品 。 活 口 统 统 杀 掉 。 
-mno_choice_01_2nor|派 人 去 侦 查 ，如 有 幸 存 者 ，招 募 他 们 。
-mno_choice_01_3nor|什 么 都 不 做 。 
-mno_choice_11_msgnor|继 续 
-menu_event_03_normal|你 听 说 一 个 诗 人 到 处 歌 颂 你 的 高 贵 行 为 。 
-mno_choice_03_1nor|好 消 息 ！
-mno_choice_03_2nor|赏 他 300 先 令 ， 让 他 的 诗 歌 传 遍 整 个 大 陆 。 
-menu_event_04_normal|你 的 故 事 在 全 国 范 围 你 流 传 。 你 走 到 哪 里 都 有 一 群 乞 丐 围 着 你 。 
-mno_choice_04_1no|施 舍 200 先 令 给 他 们 
-mno_choice_04_2no|无 视 他 们 
-mno_choice_04_3no|要 饭 的 ？ 放 狗 咬 他 们 ！ 
-menu_event_05_normal|一 个 青 年 贵 族 到 处 散 播 你 母 亲 的 坏 话 。 指 责 她 正 在 从 事 世 上 最 古 老 最 细 腻 的 职 业 。 
+menu_event_01_normal|一 阵 急 促 的 马 蹄 声 刺 破 寒 冷 的 清 晨 ， 你 跑 出 去 ， 只 见 一 名 雇 佣 哨 兵 翻 身 下 马 。 他 告 诉 你 ， 一 艘 载 着 外 邦 人 的 陌 生 船 只 在 附 近 海 岸 搁 浅 。 你 打 算 怎 么 做 ？ 
+mno_choice_01_1nor|派 人 搜 刮 财 物 。 若 有 幸 存 者 ， 杀 无 赦 。 
+mno_choice_01_2nor|派 人 调 查 。 若 有 幸 存 者 ， 收 编 他 们 。 
+mno_choice_01_3nor|按 兵 不 动 。 
+mno_choice_11_msgnor|继 续 。 
+menu_event_03_normal|你 听 说 有 位 吟 游 诗 人 谱 写 了 一 首 歌 颂 你 高 尚 事 迹 的 曲 子 。 
+mno_choice_03_1nor|好 消 息 ！ 
+mno_choice_03_2nor|赏 他 300 银 便 士 ， 让 这 首 歌 传 遍 大 地 。 
+menu_event_04_normal|你 的 事 迹 传 遍 全 国 。 无 论 走 到 哪 里 ， 你 的 队 伍 都 被 乞 丐 包 围 。 
+mno_choice_04_1no|拨 出 200 银 便 士 作 为 救 济 金 。 
+mno_choice_04_2no|不 予 理 会 。 
+mno_choice_04_3no|要 饭 的 ？ 放 狗 ！ 
+menu_event_05_normal|一 个 年 轻 贵 族 四 处 散 播 关 于 你 母 亲 的 谣 言 ， 最 客 气 的 说 法 也 是 指 她 干 着 世 上 最 古 老 的 行 当 。 
 mno_choice_05_1no|我 要 和 他 决 斗 ！ 
-mno_choice_05_2no|就 是 说 说 罢 了 。 
-menu_event_06_normal|你 遇 到 一 名 部 下 的 妻 子 ， 她 求 你 和 她 丈 夫 解 除 合 同 。 今 年 收 成 不 好 ， 他 的 工 资 养 不 了 他 的 全 家 ， 如 果 他 回 去 种 田 的 话 或 许 他 全 家 还 能 活 下 来 。 
-mno_choice_06_1no|这 可 不 行 ！ 拿 走 这 200 先 令 吧 。 
-mno_choice_06_2no|你 让 你 的 部 下 回 家 了 。 
-menu_event_07_normal|当 地 有 人 在 散 播 你 的 谣 言 ， 他 说 的 全 都 是 荒 诞 的 故 事 ， 但 迟 早 会 有 人 相 信 他 。 
-mno_choice_07_1no|他 想 说 就 说 吧 ， 每 个 人 都 有 自 己 的 权 力 。 
-mno_choice_07_2no|用 100 先 令 让 他 闭 嘴 。 
-mno_choice_07_3no|让 他 永 远 闭 嘴 。 
-menu_event_08_normal|你 穿 越 森 林 时 发 现 一 只 动 物 被 困 在 陷 阱 里 了 ， 你 该 怎 么 做 ？ 
-mno_choice_08_1nor|放 了 那 动 物 。 
-mno_choice_08_2nor|收 了 陷 阱 把 动 物 给 杀 了 ！ 
-mno_choice_08_3nor|不 管 它 。 
-menu_event_09_normal|你 接 到 消 息 说 一 群 资 深 的 战 士 闻 风 而 来 要 加 入 你 的 部 队 。 然 而 ， 他 们 要 求 得 到 更 高 的 工 资 。 
-mno_choice_9_1nor|欢 迎 他 们 。 
-mno_choice_9_2nor|我 不 想 再 要 人 了 。 
-mno_choice_9_3nor|杀 了 他 们 ， 或 许 还 能 抢 到 一 笔 钱 。 
-menu_event_10_normal|你 接 到 消 息 说 一 群 妇 女 想 参 加 随 营 队 伍 。 
-mno_choice_10_1nor|欢 迎 她 们 。 
-mno_choice_10_2nor|我 不 想 要 喂 更 多 的 嘴 了 。 
-menu_event_11_normal|你 接 到 消 息 说 一 群 街 道 音 乐 家 想 以 军 乐 手 的 身 份 加 入 你 的 队 伍 。 
-mno_choice_11_1no|欢 迎 他 们 。 
-mno_choice_11_2no|我 不 想 再 要 人 了 。 
-menu_event_12_normal|你 看 到 一 只 鹳 在 空 中 盘 旋 。 
-mno_choice_12_1nor|告 诉 你 的 人 鹳 意 味 着 胜 利 ！ 
-mno_choice_12_2nor|不 管 它 。 
-mno_choice_12_3nor|告 诉 你 的 人 鹳 意 味 着 不 祥 的 预 兆 ， 但 你 和 他 们 命 运 与 共 ！ 
-menu_event_13_normal|你 的 去 路 被 一 个 农 民 和 他 背 后 正 在 哭 泣 的 女 孩 挡 住 了 。 他 的 手 指 向 你 的 一 个 部 下 ， 他 说 那 人 强 奸 了 自 己 的 女 儿 ， 必 须 受 到 惩 罚 。 
-mno_choice_13_1nor|给 这 人 烙 上 刻 印 并 永 远 地 驱 逐 出 部 队 。 
-mno_choice_13_3nor|这 世 道 不 太 平 ， 男 人 也 是 有 需 要 的 。 
-menu_event_14_normal|一 段 时 间 后 ， 你 的 部 队 在 附 近 的 村 庄 休 息 ， 一 个 牧 师 的 妻 子 在 她 丈 夫 不 在 的 时 候 单 独 见 你 。 
-mno_choice_14_1nor|接 见 她 
-mno_choice_14_3nor|拒 绝 她 
-menu_event_15_normal|你 的 威 名 吸 引 了 一 群 青 年 勇 士 想 要 加 入 你 的 部 队 。 
-mno_choice_15_1nor|接 受 他 们 
-mno_choice_15_2nor|我 不 想 再 要 人 了 。 
-menu_event_16_normal|你 在 路 上 发 现 一 个 可 怜 的 人 。 他 看 上 去 很 累 。 您 让 人 问 他 为 什 么 在 孤 身 一 人 在 这 里 。 他 说 他 被 抢 劫 ， 如 果 他 不 弄 点 钱 他 很 快 就 会 饿 死 。 他 说 ， 他 曾 经 是 一 名 军 人 ， 并 会 成 为 忠 诚 的 战 士 以 报 答 你 的 恩 泽 。 
-mno_choice_16_1nor|人 生 而 不 平 等 ， 什 么 都 不 给 他 。 
-mno_choice_16_2nor|只 给 他 一 天 的 饭 钱（ 10 先 令） 。 
-mno_choice_16_4nor|只 给 他 几 天 的 饭 钱（ 200 先 令） 。 
-mno_choice_16_5nor|给 他 钱 并 让 他 加 入 部 队 。 
-menu_event_17_normal|一 群 土 匪 接 近 你 的 营 地 。 当 你 的 人 拿 起 时 武 器 ， 土 匪 们 放 下 武 器 ， 他 们 说 是 为 和 平 而 来 。 土 匪 的 领 袖 接 近 你 ， 并 询 问 他 们 是 否 可 以 加 入 你 们 。 
-mno_choice_17_1nor|当 然 ！ 我 的 部 队 永 远 欢 迎 嗜 血 的 男 人 ！ 
-mno_choice_17_2nor|对 不 起 ， 我 不 接 受 你 这 种 人 。 
-mno_choice_17_3nor|用 劫 掠 村 庄 来 证 明 自 己 吧 ！ 
-mno_choice_17_4nor|把 他 们 全 杀 了 ！ 
-menu_event_18_normal|你 到 了 一 个 被 人 们 遗 忘 的 领 主 古 墓 。 
-mno_choice_18_1nor|去 挖 坟 劫 掠 ！ 
-mno_choice_18_2nor|离 开 这 里 。 
-mno_choice_18_3nor|到 墓 碑 前 祈 祷 以 表 示 尊 敬 。 
-menu_event_19_normal|你 在 村 庄 附 近 看 到 了 一 群 没 人 看 管 的 牛 群 。 
-mno_choice_19_1nor|把 这 些 牛 还 回 去 并 不 要 报 酬 。 
-mno_choice_19_2nor|我 会 还 回 牛 群 ， 但 也 是 要 报 酬 的 。 
-mno_choice_19_3nor|吃 晚 餐 ！ 把 动 物 围 起 来 杀 掉 。
-menu_event_20_normal|你 的 名 誉 和 声 望 吸 引 了 两 个 熊 皮 狂 战 士 想 加 入 你 。 
-mno_choice_20_1nor|接 受 他 们 。 
-mno_choice_20_2nor|我 不 需 要 更 多 的 人 手 。 
-menu_event_21_normal|你 的 名 誉 和 声 望 吸 引 了 两 个 狼 皮 狂 战 士 想 加 入 你 。 
-mno_choice_21_1nor|接 受 他 们 。 
-mno_choice_21_2nor|我 不 需 要 更 多 的 人 手 。 
-menu_event_22_normal|在 休 息 中 ， 一 部 分 的 你 的 手 下 ， 醉 酒 了 ， 开 始 为 最 后 的 一 瓶 密 酒 打 架 。 双 方 都 剑 拔 弩 张 准 备 杀 死 对 方 。 
-mno_choice_22_1nor|允 许 他 们 继 续 打 斗 下 去 并 以 此 娱 乐 你 的 部 下 。 
-mno_choice_22_2nor|下 战 时 禁 酒 令 并 处 死 这 两 个 醉 汉 。 
-mno_choice_22_3nor|停 止 这 次 打 斗 并 以 鞭 刑 处 罚 这 两 个 醉 汉 。 
-menu_event_23_normal|在 旅 行 中 ， 你 遇 到 了 一 个 穿 着 长 袍 的 男 人 ， 他 说 他 可 以 卖 给 你 卡 里 德 福 洛 斯 --- 亚 瑟 王 的 传 奇 之 剑 ， 定 价 8000 个 先 令 。 
-mno_choice_23_1nor|购 买 这 把 剑 。 
-mno_choice_23_2nor|你 没 有 钱 去 购 买 这 把 剑 。 
-mno_choice_23_3nor|我 没 有 兴 趣 。 
-menu_event_24_normal|在 旅 行 中 ， 你 来 到 了 一 个 农 场 。 与 普 通 的 农 场 的 热 情 好 客 大 不 相 同 ， 这 些 农 民 封 锁 了 所 有 的 入 口 并 让 他 们 的 奴 隶 武 装 着 ， 看 守 着 门 口 ， 不 过 ， 你 知 道 他 们 并 不 是 你 的 战 士 的 对 手 。 
-mno_choice_24_1nor|进 攻 并 且 烧 掉 这 个 农 场 以 示 惩 戒 。 
-mno_choice_24_2nor|离 开 ， 这 并 不 值 得 让 整 个 军 队 停 下 。 
-menu_event_25_normal|两 个 男 人 阻 停 了 你 的 军 队 。 他 们 告 诉 你 你 已 经 被 五 百 个 勇 士 包 围 了 ， 他 们 时 刻 准 备 着 发 起 进 攻 如 果 你 不 支 付 2000 先 令 。 
-mno_choice_25_1nor|支 付 。 
+mno_choice_05_2no|只 是 闲 言 碎 语 罢 了 。 
+menu_event_06_normal|你 遇 见 一 位 军 嫂 ， 她 哀 求 你 解 除 她 丈 夫 的 契 约 。 今 年 收 成 惨 淡 ， 他 的 军 饷 养 不 活 全 家 ； 若 他 能 回 家 耕 田 ， 一 家 人 或 许 还 能 活 下 去 。 
+mno_choice_06_1no|这 怎 么 行 ！ 拿 着 这 200 银 便 士 。 
+mno_choice_06_2no|你 准 许 她 丈 夫 卸 甲 归 田 。 
+menu_event_07_normal|当 地 有 个 唱 反 调 的 人 正 在 散 播 关 于 你 的 谣 言 。 虽 然 尽 是 胡 言 ， 但 迟 早 会 有 人 当 真 。 
+mno_choice_07_1no|让 他 说 去 吧 ， 人 人 都 有 说 话 的 权 利 。 
+mno_choice_07_2no|给 他 100 银 便 士 ， 请 他 闭 嘴 。 
+mno_choice_07_3no|让 他 永 远 开 不 了 口 。 
+menu_event_08_normal|你 穿 越 森 林 ， 忽 见 一 只 野 兔 落 入 陷 阱 。 你 打 算 怎 么 做 ？ 
+mno_choice_08_1nor|放 了 它 。 
+mno_choice_08_2nor|收 紧 陷 阱 ， 宰 了 它 ！ 
+mno_choice_08_3nor|视 而 不 见 ， 继 续 赶 路 。 
+menu_event_09_normal|你 得 到 消 息 ， 一 群 老 兵 听 闻 你 的 威 名 ， 愿 来 投 奔 ， 但 他 们 索 要 的 军 饷 高 于 你 通 常 给 这 类 部 队 的 价 码 。 
+mno_choice_9_1nor|欢 迎 他 们 加 入 。 
+mno_choice_9_2nor|我 不 需 要 更 多 兵 。 
+mno_choice_9_3nor|杀 了 他 们 ， 肯 定 能 捞 到 不 少 战 利 品 。 
+menu_event_10_normal|你 得 到 消 息 ， 一 些 妇 女 表 示 愿 意 成 为 随 营 妇 女 。 
+mno_choice_10_1nor|欢 迎 他 们 加 入 。 
+mno_choice_10_2nor|我 不 需 要 再 多 养 一 张 嘴 。 
+menu_event_11_normal|你 得 到 消 息 ， 一 群 街 头 乐 手 想 以 军 乐 手 和 旗 手 的 身 份 加 入 你 的 队 伍 。 
+mno_choice_11_1no|欢 迎 他 们 加 入 。 
+mno_choice_11_2no|我 不 需 要 更 多 兵 。 
+menu_event_12_normal|你 看 到 一 只 鹤 在 队 伍 上 空 盘 旋 。 
+mno_choice_12_1nor|告 诉 部 下 ， 鹤 象 征 胜 利 ！ 
+mno_choice_12_2nor|别 理 它 。 
+mno_choice_12_3nor|鹤 虽 预 示 厄 运 ， 但 你 相 信 部 下 ！ 
+menu_event_13_normal|一 名 农 民 拦 在 路 上 ， 身 后 站 着 哭 泣 的 女 孩 。 他 指 着 你 的 一 名 部 下 ， 指 控 那 人 玷 污 了 他 女 儿 ， 必 须 受 罚 。 
+mno_choice_13_1nor|给 那 人 烙 上 印 记 ， 逐 出 队 伍 。 
+mno_choice_13_3nor|世 道 艰 难 ， 男 人 总 得 拿 自 己 能 拿 的 。 
+menu_event_14_normal|几 小 时 后 ， 部 队 在 村 边 歇 息 ， 牧 师 的 妻 子 趁 丈 夫 不 在 ， 独 自 来 找 你 。 
+mno_choice_14_1nor|你 答 应 了 。 
+mno_choice_14_3nor|你 拒 绝 了 。 
+menu_event_15_normal|你 的 威 名 引 来 年 轻 诺 斯 战 士 投 奔 。 
+mno_choice_15_1nor|接 纳 他 们 。 
+mno_choice_15_2nor|我 不 需 要 更 多 人 。 
+menu_event_16_normal|路 上 有 个 衣 衫 褴 褛 的 人 ， 神 情 疲 惫 。 你 派 人 去 问 ， 才 知 他 遭 劫 ， 若 再 没 钱 就 要 饿 死 。 他 说 自 己 当 过 兵 ， 愿 做 忠 诚 战 士 。 
+mno_choice_16_1nor|世 道 不 公 。 一 文 不 给 。 
+mno_choice_16_2nor|给 他 一 天 饭 钱 （ 10 银 便 士 ） 。 
+mno_choice_16_4nor|给 他 几 天 饭 钱 （ 200 银 便 士 ） 。 
+mno_choice_16_5nor|给 他 钱 ， 并 邀 他 加 入 你 的 队 伍 。 
+menu_event_17_normal|一 群 山 贼 靠 近 营 地 。 你 的 人 刚 摸 向 武 器 ， 山 贼 却 放 下 兵 刃 ， 声 称 为 和 平 而 来 。 山 贼 首 领 上 前 ， 请 求 加 入 你 们 。 
+mno_choice_17_1nor|当 然 ！ 我 的 队 伍 永 远 欢 迎 嗜 血 好 汉 ！ 
+mno_choice_17_2nor|抱 歉 ， 我 们 不 收 你 们 这 种 人 ！ 
+mno_choice_17_3nor|去 劫 一 座 村 庄 ， 证 明 你 们 的 价 值 ！ 
+mno_choice_17_4nor|杀 光 他 们 ！ 
+menu_event_18_normal|你 来 到 一 座 被 人 遗 忘 的 老 领 主 墓 前 。 
+mno_choice_18_1nor|搜 刮 坟 里 的 战 利 品 ！ 
+mno_choice_18_2nor|离 开 此 地 。 
+mno_choice_18_3nor|打 理 坟 墓 ， 表 达 敬 意 。 
+menu_event_19_normal|你 在 附 近 村 庄 外 发 现 无 人 看 管 的 牛 
+mno_choice_19_1nor|把 牛 送 回 村 里 ， 分 文 不 取 。 
+mno_choice_19_2nor|我 会 把 牛 还 回 去 ， 但 得 讨 个 赏 。 
+mno_choice_19_3nor|开 饭 ！ 把 牛 围 起 来 宰 了 。 
+menu_event_20_normal|你 的 声 望 引 来 两 名 熊 皮 狂 战 士 投 奔 。 
+mno_choice_20_1nor|接 纳 他 们 。 
+mno_choice_20_2nor|我 不 需 要 更 多 人 。 
+menu_event_21_normal|你 的 声 望 引 来 两 名 狼 皮 狂 战 士 投 奔 。 
+mno_choice_21_1nor|接 纳 他 们 。 
+mno_choice_21_2nor|我 不 需 要 更 多 人 。 
+menu_event_22_normal|接 受 他 们 。 
+mno_choice_22_1nor|让 他 们 打 下 去 ， 给 其 余 人 取 乐 。 
+mno_choice_22_2nor|你 下 令 战 时 禁 酒 ， 将 两 个 醉 汉 处 死 。 
+mno_choice_22_3nor|制 止 斗 殴 ， 各 抽 五 十 鞭 。 
+menu_event_23_normal|行 军 途 中 ， 一 名 长 袍 男 子 拦 住 大 军 。 他 声 称 愿 以 8000 银 便 士 出 售 亚 瑟 王 的 传 奇 之 剑 卡 里 德 福 洛 斯 。 
+mno_choice_23_1nor|买 下 此 剑 。 
+mno_choice_23_2nor|你 囊 中 羞 涩 ， 买 不 起 这 把 剑 。 
+mno_choice_23_3nor|我 没 兴 趣 。 
+menu_event_24_normal|行 军 途 中 ， 你 来 到 一 座 农 庄 。 庄 主 一 反 常 态 ， 紧 闭 门 户 ， 让 武 装 奴 隶 守 在 门 口 。 你 心 知 他 们 挡 不 住 你 的 战 士 。 
+mno_choice_24_1nor|攻 进 去 ， 焚 毁 农 庄 以 示 惩 戒 。 
+mno_choice_24_2nor|继 续 前 进 ， 不 值 得 为 此 停 留 。 
+menu_event_25_normal|两 名 男 子 拦 住 大 军 ， 称 你 已 被 五 百 名 战 士 包 围 ， 若 不 交 出 2000 银 便 士 ， 他 们 便 发 动 进 攻 。 
+mno_choice_25_1nor|付 钱 。 
 mno_choice_25_2nor|进 攻 ！ 
-mno_choice_25_3nor|离 开 。 
-menu_event_26_normal|一 个 你 的 斥 候 带 来 了 一 个 袋 子 ， 你 不 想 让 他 觉 得 你 可 疑 ， 但 是 一 个 准 备 着 战 斗 的 战 士 永 远 不 会 带 着 这 样 一 个 袋 子 。 听 起 来 像 是 许 多 沉 重 的 硬 币 ， 你 决 定 
-mno_choice_26_1nor|没 收 袋 子 并 惩 罚 这 个 士 兵 。 
-mno_choice_26_2nor|容 许 他 保 留 这 个 袋 子 ， 他 为 你 出 生 入 死 ， 他 享 有 这 个 权 利 。 
-mno_choice_26_3nor|强 迫 他 与 整 个 军 队 分 享 这 些 金 子 。 
-menu_event_27_normal|你 的 战 士 们 带 着 一 个 老 人 出 现 了 。 在 一 段 老 生 常 谈 之 后 ， 他 告 诉 你 他 的 村 民 们 愿 意 加 入 你 的 军 队 并 离 开 这 个 村 子 。 接 受 他 的 请 求 会 让 他 们 的 领 主 愤 怒 ， 你 决 定： 
-mno_choice_27_1nor|不 要 在 当 地 的 暴 动 中 插 手 。 
-mno_choice_27_2nor|不 帮 他 并 且 把 他 的 尸 体 送 到 村 子 里 。 
-mno_choice_27_3nor|你 需 要 一 些 人 手 。 
-menu_event_28_normal|当 你 扎 营 的 时 候 ， 附 近 的 一 个 代 表 团 出 现 了 。 他 们 说 他 们 遇 到 了 差 的 收 成 ， 并 向 你 乞 讨 钱 来 养 他 们 的 孩 子 。 
-mno_choice_28_1nor|给 他 们 4000 个 先 令 。 
-mno_choice_28_2nor|给 他 们 1000 个 先 令 。 
-mno_choice_28_3nor|你 告 诉 他 们 你 没 有 足 够 的 钱 。 
-mno_choice_28_4nor|无 视 他 们 。 
-menu_event_29_normal|当 你 扎 营 的 时 候 ， 附 近 的 一 个 代 表 团 出 现 了 。 他 们 看 起 来 与 他 们 的 领 主 不 和 而 来 寻 求 你 的 建 议 。 在 维 京 人 的 洗 劫 之 后 ， 他 们 变 得 非 常 贫 穷 ， 但 是 他 们 必 须 向 他 们 的 领 主 缴 税 。 他 们 的 领 主 并 没 有 从 维 京 人 的 刀 剑 下 保 护 他 们 ， 他 们 要 在 准 备 反 戈 一 击 ， 如 果 他 们 的 领 主 袭 击 他 们 ; 或 交 收 税 金 ， 让 他 们 的 家 人 挨 饿 之 间 做 出 选 择 。 
-mno_choice_29_1nor|给 他 们 8000 先 令 让 他 们 交 税 并 购 买 食 物 。 
-mno_choice_29_2nor|给 他 们 4000 先 令 让 他 们 交 税 。 
-mno_choice_29_3nor|你 告 诉 他 们 应 该 战 斗 而 不 交 税 金 。 
-mno_choice_29_4nor|他 们 应 该 交 税 金 ， 因 为 他 们 的 领 主 比 饥 饿 更 会 杀 人 。 
-mno_choice_29_5nor|无 视 他 们 。 
-menu_event_30_normal|在 路 上 ， 你 找 到 了 一 个 身 患 重 病 的 女 人 ， 她 的 皮 肤 显 露 黄 斑 ， 而 她 不 断 地 在 咳 嗽 。 她 来 自 附 近 的 一 个 村 庄 ， 不 过 无 人 能 够 治 好 她 的 疾 病 ， 他 们 把 她 留 在 那 儿 ， 希 望 过 往 者 知 道 些 能 治 好 她 的 线 索 。 
-mno_choice_30_1nor|给 她 1000 先 令 去 找 一 位 医 者 。 
-mno_choice_30_2nor|作 为 最 好 的 医 者 ，{reg3?你 决 定 :{s3} 决 定 } 放 血 治 疗 。 
-mno_choice_30_3nor|离 开 她 ， 她 的 疾 病 可 能 会 传 染 。 
-menu_troop_camp|部 队 扎 了 一 个 小 营 地 ， 你 想 先 离 开 一 小 会 。 ^^（ 选 择 你 要 留 在 营 地 的 士 兵 ， 按 给 出 取 回 键 转 换 。） 
-mno_station_troops|管 理 部 队 
+mno_choice_25_3nor|继 续 行 军 。 
+menu_event_26_normal|一 名 斥 候 背 着 鼓 鼓 囊 囊 的 袋 子 归 来 。 你 不 想 显 得 多 疑 ， 但 备 战 士 兵 绝 不 会 带 这 种 袋 子 。 里 面 似 乎 装 着 沉 甸 甸 的 硬 币 。 你 决 定 — — 
+mno_choice_26_1nor|没 收 袋 子 ， 惩 处 士 兵 。 
+mno_choice_26_2nor|让 他 留 着 。 他 为 你 拼 命 ， 理 应 得 到 这 份 报 酬 。 
+mno_choice_26_3nor|逼 他 把 好 处 分 给 全 军 。 
+menu_event_27_normal|你 的 士 兵 带 来 一 位 老 人 。 长 谈 后 ， 他 承 认 他 们 全 村 想 加 入 你 的 队 伍 并 离 开 故 土 。 若 接 纳 ， 必 惹 怒 他 们 的 领 主 。 你 决 定 ： 
+mno_choice_27_1nor|不 插 手 地 方 叛 乱 。 
+mno_choice_27_2nor|不 救 他 ， 把 他 的 尸 体 送 回 村 子 。 
+mno_choice_27_3nor|你 正 缺 人 手 。 
+menu_event_28_normal|你 扎 营 时 ， 附 近 来 了 一 群 人 。 他 们 说 收 成 糟 糕 ， 求 你 施 舍 银 便 士 养 活 小 孩 。 
+mno_choice_28_1nor|给 他 们 4000 银 便 士 。 
+mno_choice_28_2nor|给 他 们 1000 银 便 士 。 
+mno_choice_28_3nor|你 告 诉 他 们 自 己 也 没 余 钱 。 
+mno_choice_28_4nor|不 予 理 会 。 
+menu_event_29_normal|你 扎 营 时 ， 附 近 来 了 一 群 人 。 他 们 与 领 主 有 矛 盾 ， 前 来 求 教 。 维 京 人 劫 掠 后 ， 他 们 一 贫 如 洗 ， 却 仍 得 向 领 主 缴 税 。 领 主 未 能 保 护 他 们 ， 他 们 问 ： 若 拒 税 备 战 ， 领 主 来 攻 怎 么 办 ？ 若 缴 税 ， 家 人 就 得 挨 饿 。 你 决 定 ： 
+mno_choice_29_1nor|给 他 们 8000 银 便 士 ， 让 他 们 缴 税 并 买 粮 。 
+mno_choice_29_2nor|给 他 们 4000 银 便 士 缴 税 。 
+mno_choice_29_3nor|你 告 诉 他 们 宁 可 战 斗 也 不 缴 税 。 
+mno_choice_29_4nor|他 们 应 缴 税 ， 领 主 的 刀 剑 比 饥 饿 更 致 命 。 
+mno_choice_29_5nor|不 予 理 会 。 
+menu_event_30_normal|途 中 ， 你 遇 见 一 位 病 妇 。 她 皮 肤 发 黄 ， 咳 个 不 停 。 她 来 自 附 近 村 庄 ， 因 无 人 能 医 ， 被 送 到 路 边 ， 盼 有 过 路 旅 行 者 知 道 疗 法 。 
+mno_choice_30_1nor|给 她 1000 银 便 士 ， 请 个 好 医 生 。 
+mno_choice_30_2nor|作 为 最 好 的 医 生 ， {reg3?你 下 令 :{s3}下 令 }放 血 。 
+mno_choice_30_3nor|别 管 她 ， 这 病 可 能 传 染 。 
+menu_troop_camp|你 在 此 地 留 下 部 分 部 队 ， 建 起 一 座 小 营 地 。 ^^（ 选 择 要 留 在 营 地 的 士 兵 ， 按 下 “ 给 予 ” 按 钮 即 可 转 移 。 ） 
+mno_station_troops|查 看 部 队 
 menu_start_beda_final|最 终 
-menu_ship_capture|你 能 够 俘 虏 敌 人 的 一 艘 船 ， 那 是 一 艘 {s2} ， 但 由 于 之 前 的 战 斗 ，“ {s1}” 的 状 况 很 恶 劣 。 你 想 把 这 条 船 加 入 到 你 的 舰 队 吗 ？ 
-mno_capture|加 入 它 。 
-mno_leave_ship|把 船 丢 弃 。 
-menu_sandboxmode_ok|开 始 沙 盒 模 式 ？ 
-mno_continuesdb|是 的 。 
-menu_start_sea_travel|你 开 始 一 趟 海 上 之 旅 。 
-menu_mutiny_start|一 些 部 队 的 士 气 低 落 。 他 们 发 动 了 兵 变 。 
-menu_mutiny_end|兵 变 后 局 势 平 静 了 下 来 。 
-menu_work_start|不 久 ， 你 的 四 肢 由 于 单 调 乏 味 的 工 作 变 的 劳 累 ， 但 仍 然 能 支 持 你 工 作 一 整 天 的 时 间 。 
-menu_work_end|你 回 忆 了 一 天 辛 勤 劳 动 。 但 是 看 了 看 自 己 的 酬 劳 ， 你 认 为 一 个 辛 勤 劳 动 的 人 的 生 活 似 乎 是 贫 穷 的 。 ^^{s7}
-menu_landing_point_encounter_as_marshal|你 正 在 整 顿 部 队 并 且 试 图 上 岸 {s1} {s2} ^^你 想 现 在 上 岸 还 是 等 会 ？ 
-mno_disembark_yeslp|下 船 。
+menu_ship_capture|你 成 功 俘 获 一 艘 敌 舰 ， 那 是 一 艘 {s2}， 但 “ {s1}” 在 战 斗 中 受 损 严 重 。 你 仍 要 将 它 编 入 舰 队 吗 ？ 
+mno_capture|将 船 加 入 舰 队 
+mno_leave_ship|弃 船 离 开 
+menu_sandboxmode_ok|进 入 沙 盒 模 式 ？ 
+menu_start_sea_travel|你 即 将 开 始 海 上 航 行 。 
+menu_mutiny_start|部 分 部 队 士 气 低 落 ， 他 们 发 动 了 兵 变 。 
+menu_mutiny_end|兵 变 过 后 ， 局 势 逐 渐 平 息 。 
+menu_work_start|不 久 ， 单 调 的 劳 作 让 你 的 四 肢 酸 痛 ， 但 你 仍 如 约 干 了 一 整 天 。 
+menu_work_end|你 满 意 地 回 顾 这 一 天 的 诚 实 劳 动 ， 可 看 到 工 钱 时 ， 又 觉 得 靠 诚 实 劳 动 过 活 实 在 清 苦 。 ^^{s7}
+menu_landing_point_encounter_as_marshal|你 身 为 元 帅 ， 正 尝 试 登 陆 。 {s1}{s2}^^现 在 登 陆 还 是 再 等 等 ？ 
+mno_disembark_yeslp|登 陆 。 
 mno_disembark_nolp|等 等 。 
-menu_landet_ships_encounter_as_marshal|你 正 在 整 顿 部 队 并 且 试 图 上 船 。 {s1} {s2} ^^你 想 现 在 上 船 还 是 等 会 ？ 
-mno_reembark_yesls|上 船 。 
+menu_landet_ships_encounter_as_marshal|你 身 为 元 帅 ， 正 尝 试 登 船 。 {s1}{s2}^^现 在 登 船 还 是 再 等 等 ？ 
+mno_reembark_yesls|启 程 。 
 mno_reembark_nols|等 等 。 
-menu_hunting|你 找 到 了 {s1} 。 你 希 望 干 点 什 么 ？ 
-mno_hunt_go|去 狩 猎 。 
-menu_slave_hideout|你 找 到 了 一 个 藏 身 之 处 ， 你 希 望 干 点 什 么 ？ 
-mno_not_now|不 是 现 在 。 
-mno_new_goal|选 择 一 个 新 的 目 标 。 
+menu_hunting|你 遇 到 了 {s1}。 你 想 做 什 么 ？ 
+mno_hunt_go|去 打 猎 。 
+menu_slave_hideout|你 发 现 了 一 处 贼 窝 。 你 想 怎 么 做 ？ 
+mno_not_now|现 在 不 了 。 
+mno_new_goal|选 择 新 的 目 标 。 
+menu_reconstruct_pre2049|这 份 存 档 似 乎 已 被 v2.049 的 漏 洞 破 坏 。 我 们 建 议 从 savegame_backup.sav 或 电 脑 备 份 中 恢 复 。 你 是 否 仍 想 尝 试 重 建 存 档 ？ 
+mno_choice_yes|是 ， 尝 试 重 建 存 档 。 
+mno_choice_no|否 ， 我 会 寻 找 v2.049 之 前 的 存 档 。 

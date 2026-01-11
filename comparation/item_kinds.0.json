@@ -1,1558 +1,3002 @@
 [
     {
+        "id": "itm_no_item",
         "text": "INVALID_ITEM",
+        "old_translation": "",
         "translation": "INVALIDITEM"
     },
     {
+        "id": "itm_no_item_pl",
+        "text": "INVALID_ITEM",
+        "old_translation": "",
+        "translation": "INVALIDITEM"
+    },
+    {
+        "id": "itm_tutorial_spear",
         "text": "Spear",
+        "old_translation": "",
         "translation": "矛"
     },
     {
+        "id": "itm_tutorial_spear_pl",
+        "text": "Spear",
+        "old_translation": "",
+        "translation": "矛"
+    },
+    {
+        "id": "itm_tutorial_club",
         "text": "Club",
+        "old_translation": "",
         "translation": "棍棒"
     },
     {
+        "id": "itm_tutorial_club_pl",
+        "text": "Club",
+        "old_translation": "",
+        "translation": "棍棒"
+    },
+    {
+        "id": "itm_tutorial_battle_axe",
         "text": "Long_Battle_Axe",
+        "old_translation": "",
         "translation": "长战斧"
     },
     {
+        "id": "itm_tutorial_battle_axe_pl",
+        "text": "Long_Battle_Axe",
+        "old_translation": "",
+        "translation": "长战斧"
+    },
+    {
+        "id": "itm_tutorial_arrows",
         "text": "Arrows",
+        "old_translation": "",
         "translation": "箭"
     },
     {
+        "id": "itm_tutorial_arrows_pl",
+        "text": "Arrows",
+        "old_translation": "",
+        "translation": "箭"
+    },
+    {
+        "id": "itm_tutorial_bolts",
         "text": "Bolts",
+        "old_translation": "",
         "translation": "螺栓"
     },
     {
+        "id": "itm_tutorial_bolts_pl",
+        "text": "Bolts",
+        "old_translation": "",
+        "translation": "螺栓"
+    },
+    {
+        "id": "itm_tutorial_short_bow",
         "text": "Long_Bow",
+        "old_translation": "",
         "translation": "长弓"
     },
     {
+        "id": "itm_tutorial_short_bow_pl",
+        "text": "Long_Bow",
+        "old_translation": "",
+        "translation": "长弓"
+    },
+    {
+        "id": "itm_tutorial_crossbow",
         "text": "Crossbow",
+        "old_translation": "",
         "translation": "弩"
     },
     {
+        "id": "itm_tutorial_crossbow_pl",
+        "text": "Crossbow",
+        "old_translation": "",
+        "translation": "弩"
+    },
+    {
+        "id": "itm_tutorial_throwing_daggers",
         "text": "Javelins",
+        "old_translation": "",
         "translation": "标枪"
     },
     {
+        "id": "itm_tutorial_throwing_daggers_pl",
+        "text": "Javelins",
+        "old_translation": "",
+        "translation": "标枪"
+    },
+    {
+        "id": "itm_tutorial_saddle_horse",
         "text": "Saddle_Pony",
+        "old_translation": "",
         "translation": "带鞍矮种马"
     },
     {
+        "id": "itm_tutorial_saddle_horse_pl",
+        "text": "Saddle_Pony",
+        "old_translation": "",
+        "translation": "带鞍矮种马"
+    },
+    {
+        "id": "itm_tutorial_shield",
         "text": "Round_Shield",
+        "old_translation": "",
         "translation": "圆盾"
     },
     {
+        "id": "itm_tutorial_shield_pl",
+        "text": "Round_Shield",
+        "old_translation": "",
+        "translation": "圆盾"
+    },
+    {
+        "id": "itm_tutorial_staff_no_attack",
         "text": "Staff",
+        "old_translation": "",
         "translation": "棍"
     },
     {
+        "id": "itm_tutorial_staff_no_attack_pl",
+        "text": "Staff",
+        "old_translation": "",
+        "translation": "棍"
+    },
+    {
+        "id": "itm_tutorial_staff",
+        "text": "Staff",
+        "old_translation": "",
+        "translation": "棍"
+    },
+    {
+        "id": "itm_tutorial_staff_pl",
+        "text": "Staff",
+        "old_translation": "",
+        "translation": "棍"
+    },
+    {
+        "id": "itm_tutorial_sword",
         "text": "Common_Sword",
+        "old_translation": "",
         "translation": "平民剑"
     },
     {
+        "id": "itm_tutorial_sword_pl",
+        "text": "Common_Sword",
+        "old_translation": "",
+        "translation": "平民剑"
+    },
+    {
+        "id": "itm_tutorial_axe",
         "text": "Axe",
+        "old_translation": "",
         "translation": "斧"
     },
     {
+        "id": "itm_tutorial_axe_pl",
+        "text": "Axe",
+        "old_translation": "",
+        "translation": "斧"
+    },
+    {
+        "id": "itm_tutorial_dagger",
         "text": "Seax",
+        "old_translation": "",
         "translation": "刀"
     },
     {
+        "id": "itm_tutorial_dagger_pl",
+        "text": "Seax",
+        "old_translation": "",
+        "translation": "刀"
+    },
+    {
+        "id": "itm_horse_meat",
         "text": "Horse_Meat",
+        "old_translation": "",
         "translation": "马肉"
     },
     {
+        "id": "itm_horse_meat_pl",
+        "text": "Horse_Meat",
+        "old_translation": "",
+        "translation": "马肉"
+    },
+    {
+        "id": "itm_practice_sword",
+        "text": "Common_Sword",
+        "old_translation": "",
+        "translation": "平民剑"
+    },
+    {
+        "id": "itm_practice_sword_pl",
+        "text": "Common_Sword",
+        "old_translation": "",
+        "translation": "平民剑"
+    },
+    {
+        "id": "itm_heavy_practice_sword",
         "text": "Goidelic_Champion_Sword",
+        "old_translation": "",
         "translation": "戈伊德尔勇士剑"
     },
     {
+        "id": "itm_heavy_practice_sword_pl",
+        "text": "Goidelic_Champion_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔勇士剑"
+    },
+    {
+        "id": "itm_practice_dagger",
+        "text": "Seax",
+        "old_translation": "",
+        "translation": "刀"
+    },
+    {
+        "id": "itm_practice_dagger_pl",
+        "text": "Seax",
+        "old_translation": "",
+        "translation": "刀"
+    },
+    {
+        "id": "itm_practice_axe",
+        "text": "Axe",
+        "old_translation": "",
+        "translation": "斧"
+    },
+    {
+        "id": "itm_practice_axe_pl",
+        "text": "Axe",
+        "old_translation": "",
+        "translation": "斧"
+    },
+    {
+        "id": "itm_arena_axe",
         "text": "Short_Axe",
+        "old_translation": "",
         "translation": "短战斧"
     },
     {
+        "id": "itm_arena_axe_pl",
+        "text": "Short_Axe",
+        "old_translation": "",
+        "translation": "短战斧"
+    },
+    {
+        "id": "itm_arena_sword",
+        "text": "Common_Sword",
+        "old_translation": "",
+        "translation": "平民剑"
+    },
+    {
+        "id": "itm_arena_sword_pl",
+        "text": "Common_Sword",
+        "old_translation": "",
+        "translation": "平民剑"
+    },
+    {
+        "id": "itm_arena_sword_two_handed",
+        "text": "Goidelic_Champion_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔勇士剑"
+    },
+    {
+        "id": "itm_arena_sword_two_handed_pl",
+        "text": "Goidelic_Champion_Sword",
+        "old_translation": "",
+        "translation": "戈伊德尔勇士剑"
+    },
+    {
+        "id": "itm_arena_lance",
+        "text": "Spear",
+        "old_translation": "",
+        "translation": "矛"
+    },
+    {
+        "id": "itm_arena_lance_pl",
+        "text": "Spear",
+        "old_translation": "",
+        "translation": "矛"
+    },
+    {
+        "id": "itm_practice_staff",
+        "text": "Staff",
+        "old_translation": "",
+        "translation": "棍"
+    },
+    {
+        "id": "itm_practice_staff_pl",
+        "text": "Staff",
+        "old_translation": "",
+        "translation": "棍"
+    },
+    {
+        "id": "itm_practice_lance",
+        "text": "Spear",
+        "old_translation": "",
+        "translation": "矛"
+    },
+    {
+        "id": "itm_practice_lance_pl",
+        "text": "Spear",
+        "old_translation": "",
+        "translation": "矛"
+    },
+    {
+        "id": "itm_practice_shield",
         "text": "Practice_Shield",
+        "old_translation": "",
         "translation": "练习盾"
     },
     {
+        "id": "itm_practice_shield_pl",
+        "text": "Practice_Shield",
+        "old_translation": "",
+        "translation": "练习盾"
+    },
+    {
+        "id": "itm_practice_bow",
+        "text": "Long_Bow",
+        "old_translation": "",
+        "translation": "长弓"
+    },
+    {
+        "id": "itm_practice_bow_pl",
+        "text": "Long_Bow",
+        "old_translation": "",
+        "translation": "长弓"
+    },
+    {
+        "id": "itm_practice_crossbow",
         "text": "Sling",
+        "old_translation": "",
         "translation": "投石索"
     },
     {
-        "text": "Javelin",
+        "id": "itm_practice_crossbow_pl",
+        "text": "Sling",
+        "old_translation": "",
+        "translation": "投石索"
+    },
+    {
+        "id": "itm_practice_javelin",
+        "text": "Javelins",
+        "old_translation": "",
         "translation": "标枪"
     },
     {
+        "id": "itm_practice_javelin_pl",
+        "text": "Javelins",
+        "old_translation": "",
+        "translation": "标枪"
+    },
+    {
+        "id": "itm_practice_javelin_melee",
+        "text": "Javelin",
+        "old_translation": "",
+        "translation": "标枪"
+    },
+    {
+        "id": "itm_practice_javelin_melee_pl",
+        "text": "Javelin",
+        "old_translation": "",
+        "translation": "标枪"
+    },
+    {
+        "id": "itm_practice_throwing_daggers",
+        "text": "Javelins",
+        "old_translation": "",
+        "translation": "标枪"
+    },
+    {
+        "id": "itm_practice_throwing_daggers_pl",
+        "text": "Javelins",
+        "old_translation": "",
+        "translation": "标枪"
+    },
+    {
+        "id": "itm_practice_throwing_daggers_100_amount",
+        "text": "Javelins",
+        "old_translation": "",
+        "translation": "标枪"
+    },
+    {
+        "id": "itm_practice_throwing_daggers_100_amount_pl",
+        "text": "Javelins",
+        "old_translation": "",
+        "translation": "标枪"
+    },
+    {
+        "id": "itm_practice_horse",
+        "text": "Saddle_Pony",
+        "old_translation": "",
+        "translation": "带鞍矮种马"
+    },
+    {
+        "id": "itm_practice_horse_pl",
+        "text": "Saddle_Pony",
+        "old_translation": "",
+        "translation": "带鞍矮种马"
+    },
+    {
+        "id": "itm_practice_arrows",
+        "text": "Arrows",
+        "old_translation": "",
+        "translation": "箭"
+    },
+    {
+        "id": "itm_practice_arrows_pl",
+        "text": "Arrows",
+        "old_translation": "",
+        "translation": "箭"
+    },
+    {
+        "id": "itm_practice_bolts",
         "text": "Sling_Rocks",
+        "old_translation": "",
         "translation": "投石索用石"
     },
     {
+        "id": "itm_practice_bolts_pl",
+        "text": "Sling_Rocks",
+        "old_translation": "",
+        "translation": "投石索用石"
+    },
+    {
+        "id": "itm_practice_arrows_10_amount",
+        "text": "Arrows",
+        "old_translation": "",
+        "translation": "箭"
+    },
+    {
+        "id": "itm_practice_arrows_10_amount_pl",
+        "text": "Arrows",
+        "old_translation": "",
+        "translation": "箭"
+    },
+    {
+        "id": "itm_practice_arrows_100_amount",
+        "text": "Arrows",
+        "old_translation": "",
+        "translation": "箭"
+    },
+    {
+        "id": "itm_practice_arrows_100_amount_pl",
+        "text": "Arrows",
+        "old_translation": "",
+        "translation": "箭"
+    },
+    {
+        "id": "itm_practice_bolts_9_amount",
         "text": "Practice_Bolts",
+        "old_translation": "",
         "translation": "练习弩箭"
     },
     {
+        "id": "itm_practice_bolts_9_amount_pl",
+        "text": "Practice_Bolts",
+        "old_translation": "",
+        "translation": "练习弩箭"
+    },
+    {
+        "id": "itm_practice_boots",
         "text": "Boots",
+        "old_translation": "",
         "translation": "靴子"
     },
     {
+        "id": "itm_practice_boots_pl",
+        "text": "Boots",
+        "old_translation": "",
+        "translation": "靴子"
+    },
+    {
+        "id": "itm_red_tourney_armor",
         "text": "Red_Tunic",
+        "old_translation": "",
         "translation": "红色上衣"
     },
     {
+        "id": "itm_red_tourney_armor_pl",
+        "text": "Red_Tunic",
+        "old_translation": "",
+        "translation": "红色上衣"
+    },
+    {
+        "id": "itm_blue_tourney_armor",
         "text": "Blue_Tunic",
+        "old_translation": "",
         "translation": "蓝色上衣"
     },
     {
+        "id": "itm_blue_tourney_armor_pl",
+        "text": "Blue_Tunic",
+        "old_translation": "",
+        "translation": "蓝色上衣"
+    },
+    {
+        "id": "itm_green_tourney_armor",
         "text": "Green_Tunic",
+        "old_translation": "",
         "translation": "绿色上衣"
     },
     {
+        "id": "itm_green_tourney_armor_pl",
+        "text": "Green_Tunic",
+        "old_translation": "",
+        "translation": "绿色上衣"
+    },
+    {
+        "id": "itm_gold_tourney_armor",
         "text": "White_Tunic",
+        "old_translation": "",
         "translation": "白色上衣"
     },
     {
+        "id": "itm_gold_tourney_armor_pl",
+        "text": "White_Tunic",
+        "old_translation": "",
+        "translation": "白色上衣"
+    },
+    {
+        "id": "itm_red_tourney_helmet",
         "text": "Cap",
+        "old_translation": "",
         "translation": "帽子"
     },
     {
+        "id": "itm_red_tourney_helmet_pl",
+        "text": "Cap",
+        "old_translation": "",
+        "translation": "帽子"
+    },
+    {
+        "id": "itm_blue_tourney_helmet",
+        "text": "Cap",
+        "old_translation": "",
+        "translation": "帽子"
+    },
+    {
+        "id": "itm_blue_tourney_helmet_pl",
+        "text": "Cap",
+        "old_translation": "",
+        "translation": "帽子"
+    },
+    {
+        "id": "itm_green_tourney_helmet",
+        "text": "Cap",
+        "old_translation": "",
+        "translation": "帽子"
+    },
+    {
+        "id": "itm_green_tourney_helmet_pl",
+        "text": "Cap",
+        "old_translation": "",
+        "translation": "帽子"
+    },
+    {
+        "id": "itm_gold_tourney_helmet",
+        "text": "Cap",
+        "old_translation": "",
+        "translation": "帽子"
+    },
+    {
+        "id": "itm_gold_tourney_helmet_pl",
+        "text": "Cap",
+        "old_translation": "",
+        "translation": "帽子"
+    },
+    {
+        "id": "itm_arena_shield_red",
         "text": "Light_Round_Shield",
+        "old_translation": "",
         "translation": "轻圆盾"
     },
     {
+        "id": "itm_arena_shield_red_pl",
+        "text": "Light_Round_Shield",
+        "old_translation": "",
+        "translation": "轻圆盾"
+    },
+    {
+        "id": "itm_arena_shield_blue",
+        "text": "Light_Round_Shield",
+        "old_translation": "",
+        "translation": "轻圆盾"
+    },
+    {
+        "id": "itm_arena_shield_blue_pl",
+        "text": "Light_Round_Shield",
+        "old_translation": "",
+        "translation": "轻圆盾"
+    },
+    {
+        "id": "itm_arena_shield_green",
+        "text": "Light_Round_Shield",
+        "old_translation": "",
+        "translation": "轻圆盾"
+    },
+    {
+        "id": "itm_arena_shield_green_pl",
+        "text": "Light_Round_Shield",
+        "old_translation": "",
+        "translation": "轻圆盾"
+    },
+    {
+        "id": "itm_arena_shield_yellow",
+        "text": "Light_Round_Shield",
+        "old_translation": "",
+        "translation": "轻圆盾"
+    },
+    {
+        "id": "itm_arena_shield_yellow_pl",
+        "text": "Light_Round_Shield",
+        "old_translation": "",
+        "translation": "轻圆盾"
+    },
+    {
+        "id": "itm_arena_armor_white",
+        "text": "White_Tunic",
+        "old_translation": "",
+        "translation": "白色上衣"
+    },
+    {
+        "id": "itm_arena_armor_white_pl",
+        "text": "White_Tunic",
+        "old_translation": "",
+        "translation": "白色上衣"
+    },
+    {
+        "id": "itm_arena_armor_red",
+        "text": "Red_Tunic",
+        "old_translation": "",
+        "translation": "红色上衣"
+    },
+    {
+        "id": "itm_arena_armor_red_pl",
+        "text": "Red_Tunic",
+        "old_translation": "",
+        "translation": "红色上衣"
+    },
+    {
+        "id": "itm_arena_armor_blue",
+        "text": "Blue_Tunic",
+        "old_translation": "",
+        "translation": "蓝色上衣"
+    },
+    {
+        "id": "itm_arena_armor_blue_pl",
+        "text": "Blue_Tunic",
+        "old_translation": "",
+        "translation": "蓝色上衣"
+    },
+    {
+        "id": "itm_arena_armor_green",
+        "text": "Green_Tunic",
+        "old_translation": "",
+        "translation": "绿色上衣"
+    },
+    {
+        "id": "itm_arena_armor_green_pl",
+        "text": "Green_Tunic",
+        "old_translation": "",
+        "translation": "绿色上衣"
+    },
+    {
+        "id": "itm_arena_armor_yellow",
         "text": "Yellow_Tunic",
+        "old_translation": "",
         "translation": "黄色上衣"
     },
     {
+        "id": "itm_arena_armor_yellow_pl",
+        "text": "Yellow_Tunic",
+        "old_translation": "",
+        "translation": "黄色上衣"
+    },
+    {
+        "id": "itm_arena_tunic_white",
+        "text": "White_Tunic",
+        "old_translation": "",
+        "translation": "白色上衣"
+    },
+    {
+        "id": "itm_arena_tunic_white_pl",
+        "text": "White_Tunic",
+        "old_translation": "",
+        "translation": "白色上衣"
+    },
+    {
+        "id": "itm_arena_tunic_red",
+        "text": "Red_Tunic",
+        "old_translation": "",
+        "translation": "红色上衣"
+    },
+    {
+        "id": "itm_arena_tunic_red_pl",
+        "text": "Red_Tunic",
+        "old_translation": "",
+        "translation": "红色上衣"
+    },
+    {
+        "id": "itm_arena_tunic_blue",
+        "text": "Blue_Tunic",
+        "old_translation": "",
+        "translation": "蓝色上衣"
+    },
+    {
+        "id": "itm_arena_tunic_blue_pl",
+        "text": "Blue_Tunic",
+        "old_translation": "",
+        "translation": "蓝色上衣"
+    },
+    {
+        "id": "itm_arena_tunic_green",
+        "text": "Green_Tunic",
+        "old_translation": "",
+        "translation": "绿色上衣"
+    },
+    {
+        "id": "itm_arena_tunic_green_pl",
+        "text": "Green_Tunic",
+        "old_translation": "",
+        "translation": "绿色上衣"
+    },
+    {
+        "id": "itm_arena_tunic_yellow",
+        "text": "Yellow_Tunic",
+        "old_translation": "",
+        "translation": "黄色上衣"
+    },
+    {
+        "id": "itm_arena_tunic_yellow_pl",
+        "text": "Yellow_Tunic",
+        "old_translation": "",
+        "translation": "黄色上衣"
+    },
+    {
+        "id": "itm_arena_helmet_red",
         "text": "Helm_with_Nasal",
+        "old_translation": "",
         "translation": "带护鼻头盔"
     },
     {
+        "id": "itm_arena_helmet_red_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_arena_helmet_blue",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_arena_helmet_blue_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_arena_helmet_green",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_arena_helmet_green_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_arena_helmet_yellow",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_arena_helmet_yellow_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_steppe_helmet_white",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_steppe_helmet_white_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_steppe_helmet_red",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_steppe_helmet_red_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_steppe_helmet_blue",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_steppe_helmet_blue_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_steppe_helmet_green",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_steppe_helmet_green_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_steppe_helmet_yellow",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_steppe_helmet_yellow_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_tourney_helm_white",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_tourney_helm_white_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_tourney_helm_red",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_tourney_helm_red_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_tourney_helm_blue",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_tourney_helm_blue_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_tourney_helm_green",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_tourney_helm_green_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_tourney_helm_yellow",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_tourney_helm_yellow_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_arena_turban_red",
+        "text": "Cap",
+        "old_translation": "",
+        "translation": "帽子"
+    },
+    {
+        "id": "itm_arena_turban_red_pl",
+        "text": "Cap",
+        "old_translation": "",
+        "translation": "帽子"
+    },
+    {
+        "id": "itm_arena_turban_blue",
+        "text": "Cap",
+        "old_translation": "",
+        "translation": "帽子"
+    },
+    {
+        "id": "itm_arena_turban_blue_pl",
+        "text": "Cap",
+        "old_translation": "",
+        "translation": "帽子"
+    },
+    {
+        "id": "itm_arena_turban_green",
+        "text": "Cap",
+        "old_translation": "",
+        "translation": "帽子"
+    },
+    {
+        "id": "itm_arena_turban_green_pl",
+        "text": "Cap",
+        "old_translation": "",
+        "translation": "帽子"
+    },
+    {
+        "id": "itm_arena_turban_yellow",
+        "text": "Cap",
+        "old_translation": "",
+        "translation": "帽子"
+    },
+    {
+        "id": "itm_arena_turban_yellow_pl",
+        "text": "Cap",
+        "old_translation": "",
+        "translation": "帽子"
+    },
+    {
+        "id": "itm_book_tactics",
         "text": "History_of_the_Peloponnesian_War,_of_Thucydides",
+        "old_translation": "",
         "translation": "伯罗奔尼撒战争史"
     },
     {
+        "id": "itm_book_tactics_pl",
+        "text": "History_of_the_Peloponnesian_War,_of_Thucydides",
+        "old_translation": "",
+        "translation": "伯罗奔尼撒战争史"
+    },
+    {
+        "id": "itm_book_persuasion",
         "text": "Rhetorica_ad_Herennium",
+        "old_translation": "",
         "translation": "修辞学"
     },
     {
+        "id": "itm_book_persuasion_pl",
+        "text": "Rhetorica_ad_Herennium",
+        "old_translation": "",
+        "translation": "修辞学"
+    },
+    {
+        "id": "itm_book_leadership",
         "text": "The_Life_of_Alexander_the_Great",
+        "old_translation": "",
         "translation": "亚历山大大帝传记"
     },
     {
+        "id": "itm_book_leadership_pl",
+        "text": "The_Life_of_Alexander_the_Great",
+        "old_translation": "",
+        "translation": "亚历山大大帝传记"
+    },
+    {
+        "id": "itm_book_intelligence",
         "text": "Paedeia",
+        "old_translation": "",
         "translation": "派代亚的希腊古典教育学"
     },
     {
+        "id": "itm_book_intelligence_pl",
+        "text": "Paedeia",
+        "old_translation": "",
+        "translation": "派代亚的希腊古典教育学"
+    },
+    {
+        "id": "itm_book_trade",
         "text": "Oeconomica,_of_Aristotle",
+        "old_translation": "",
         "translation": "亚里士多德的经济论"
     },
     {
+        "id": "itm_book_trade_pl",
+        "text": "Oeconomica,_of_Aristotle",
+        "old_translation": "",
+        "translation": "亚里士多德的经济论"
+    },
+    {
+        "id": "itm_book_weapon_mastery",
         "text": "Constitution_of_Sparta,_of_Xenophon",
+        "old_translation": "",
         "translation": "色诺芬的斯巴达政体论"
     },
     {
+        "id": "itm_book_weapon_mastery_pl",
+        "text": "Constitution_of_Sparta,_of_Xenophon",
+        "old_translation": "",
+        "translation": "色诺芬的斯巴达政体论"
+    },
+    {
+        "id": "itm_book_engineering",
         "text": "De_architectura,_of_Vitrivius",
+        "old_translation": "",
         "translation": "维特鲁威的建筑学"
     },
     {
+        "id": "itm_book_engineering_pl",
+        "text": "De_architectura,_of_Vitrivius",
+        "old_translation": "",
+        "translation": "维特鲁威的建筑学"
+    },
+    {
+        "id": "itm_book_wound_treatment_reference",
         "text": "De_Materia_Medica,_of_Dioscorides",
+        "old_translation": "",
         "translation": "迪奥斯科里季斯的药物学"
     },
     {
+        "id": "itm_book_wound_treatment_reference_pl",
+        "text": "De_Materia_Medica,_of_Dioscorides",
+        "old_translation": "",
+        "translation": "迪奥斯科里季斯的药物学"
+    },
+    {
+        "id": "itm_book_training_reference",
         "text": "Epitoma_Rei_Militaris",
+        "old_translation": "",
         "translation": "兵法简述"
     },
     {
+        "id": "itm_book_training_reference_pl",
+        "text": "Epitoma_Rei_Militaris",
+        "old_translation": "",
+        "translation": "兵法简述"
+    },
+    {
+        "id": "itm_book_surgery_reference",
         "text": "Synopsis_of_Aelius_Galenus",
+        "old_translation": "",
         "translation": "古希腊医学大纲"
     },
     {
+        "id": "itm_book_surgery_reference_pl",
+        "text": "Synopsis_of_Aelius_Galenus",
+        "old_translation": "",
+        "translation": "古希腊医学大纲"
+    },
+    {
+        "id": "itm_relic",
         "text": "The_Cathach_of_Colum_Cille",
+        "old_translation": "",
         "translation": "科伦西尔之经"
     },
     {
+        "id": "itm_relic_pl",
+        "text": "The_Cathach_of_Colum_Cille",
+        "old_translation": "",
+        "translation": "科伦西尔之经"
+    },
+    {
+        "id": "itm_mead",
         "text": "Mead",
+        "old_translation": "",
         "translation": "蜂蜜酒"
     },
     {
+        "id": "itm_mead_pl",
+        "text": "Mead",
+        "old_translation": "",
+        "translation": "蜂蜜酒"
+    },
+    {
+        "id": "itm_salt",
         "text": "Salt",
+        "old_translation": "",
         "translation": "盐"
     },
     {
+        "id": "itm_salt_pl",
+        "text": "Salt",
+        "old_translation": "",
+        "translation": "盐"
+    },
+    {
+        "id": "itm_tar",
         "text": "Tar",
+        "old_translation": "",
         "translation": "柏油"
     },
     {
+        "id": "itm_tar_pl",
+        "text": "Tar",
+        "old_translation": "",
+        "translation": "柏油"
+    },
+    {
+        "id": "itm_jewelry",
         "text": "Jewellery",
+        "old_translation": "",
         "translation": "珠宝"
     },
     {
+        "id": "itm_jewelry_pl",
+        "text": "Jewellery",
+        "old_translation": "",
+        "translation": "珠宝"
+    },
+    {
+        "id": "itm_raw_flax",
         "text": "Flax_Bundle",
+        "old_translation": "",
         "translation": "亚麻捆"
     },
     {
+        "id": "itm_raw_flax_pl",
+        "text": "Flax_Bundle",
+        "old_translation": "",
+        "translation": "亚麻捆"
+    },
+    {
+        "id": "itm_linen",
         "text": "Linen",
+        "old_translation": "",
         "translation": "亚麻布"
     },
     {
+        "id": "itm_linen_pl",
+        "text": "Linen",
+        "old_translation": "",
+        "translation": "亚麻布"
+    },
+    {
+        "id": "itm_wool",
         "text": "Wool",
+        "old_translation": "",
         "translation": "羊毛"
     },
     {
+        "id": "itm_wool_pl",
+        "text": "Wool",
+        "old_translation": "",
+        "translation": "羊毛"
+    },
+    {
+        "id": "itm_vc_wool_cloth",
         "text": "Wool_Cloth",
+        "old_translation": "",
         "translation": "毛织布"
     },
     {
+        "id": "itm_vc_wool_cloth_pl",
+        "text": "Wool_Cloth",
+        "old_translation": "",
+        "translation": "毛织布"
+    },
+    {
+        "id": "itm_amber",
         "text": "Amber",
+        "old_translation": "",
         "translation": "琥珀"
     },
     {
+        "id": "itm_amber_pl",
+        "text": "Amber",
+        "old_translation": "",
+        "translation": "琥珀"
+    },
+    {
+        "id": "itm_ivory",
         "text": "Walrus_Ivory",
+        "old_translation": "",
         "translation": "海象象牙"
     },
     {
+        "id": "itm_ivory_pl",
+        "text": "Walrus_Ivory",
+        "old_translation": "",
+        "translation": "海象象牙"
+    },
+    {
+        "id": "itm_silver",
         "text": "Silver",
+        "old_translation": "",
         "translation": "银"
     },
     {
+        "id": "itm_silver_pl",
+        "text": "Silver",
+        "old_translation": "",
+        "translation": "银"
+    },
+    {
+        "id": "itm_iron",
         "text": "Iron",
+        "old_translation": "",
         "translation": "生铁"
     },
     {
-        "text": "Stone",
-        "translation": ""
+        "id": "itm_iron_pl",
+        "text": "Iron",
+        "old_translation": "",
+        "translation": "生铁"
     },
     {
+        "id": "itm_stone",
+        "text": "Stone",
+        "old_translation": "",
+        "translation": "nan"
+    },
+    {
+        "id": "itm_stone_pl",
+        "text": "Stone",
+        "old_translation": "",
+        "translation": "nan"
+    },
+    {
+        "id": "itm_tools",
         "text": "Tools",
+        "old_translation": "",
         "translation": "工具"
     },
     {
+        "id": "itm_tools_pl",
+        "text": "Tools",
+        "old_translation": "",
+        "translation": "工具"
+    },
+    {
+        "id": "itm_vc_raw_leather",
         "text": "Hides",
+        "old_translation": "",
         "translation": "兽皮"
     },
     {
+        "id": "itm_vc_raw_leather_pl",
+        "text": "Hides",
+        "old_translation": "",
+        "translation": "兽皮"
+    },
+    {
+        "id": "itm_timber",
         "text": "Timber",
+        "old_translation": "",
         "translation": "木材"
     },
     {
+        "id": "itm_timber_pl",
+        "text": "Timber",
+        "old_translation": "",
+        "translation": "木材"
+    },
+    {
+        "id": "itm_soapstone",
         "text": "Soapstone",
+        "old_translation": "",
         "translation": "皂石"
     },
     {
+        "id": "itm_soapstone_pl",
+        "text": "Soapstone",
+        "old_translation": "",
+        "translation": "皂石"
+    },
+    {
+        "id": "itm_vc_furs",
         "text": "Furs",
+        "old_translation": "",
         "translation": "毛皮"
     },
     {
+        "id": "itm_vc_furs_pl",
+        "text": "Furs",
+        "old_translation": "",
+        "translation": "毛皮"
+    },
+    {
+        "id": "itm_wine",
         "text": "Wine",
+        "old_translation": "",
         "translation": "葡萄酒"
     },
     {
+        "id": "itm_wine_pl",
+        "text": "Wine",
+        "old_translation": "",
+        "translation": "葡萄酒"
+    },
+    {
+        "id": "itm_ale",
         "text": "Ale",
+        "old_translation": "",
         "translation": "麦芽酒"
     },
     {
+        "id": "itm_ale_pl",
+        "text": "Ale",
+        "old_translation": "",
+        "translation": "麦芽酒"
+    },
+    {
+        "id": "itm_smoked_fish",
         "text": "Smoked_Fish",
+        "old_translation": "",
         "translation": "熏鱼"
     },
     {
+        "id": "itm_smoked_fish_pl",
+        "text": "Smoked_Fish",
+        "old_translation": "",
+        "translation": "熏鱼"
+    },
+    {
+        "id": "itm_cheese",
         "text": "Cheese",
+        "old_translation": "",
         "translation": "奶酪"
     },
     {
+        "id": "itm_cheese_pl",
+        "text": "Cheese",
+        "old_translation": "",
+        "translation": "奶酪"
+    },
+    {
+        "id": "itm_vc_honey",
         "text": "Honey",
+        "old_translation": "",
         "translation": "蜂蜜"
     },
     {
+        "id": "itm_vc_honey_pl",
+        "text": "Honey",
+        "old_translation": "",
+        "translation": "蜂蜜"
+    },
+    {
+        "id": "itm_sausages",
         "text": "Sausages",
+        "old_translation": "",
         "translation": "腊肠"
     },
     {
+        "id": "itm_sausages_pl",
+        "text": "Sausages",
+        "old_translation": "",
+        "translation": "腊肠"
+    },
+    {
+        "id": "itm_cabbages",
         "text": "Vegetables",
+        "old_translation": "",
         "translation": "蔬菜"
     },
     {
+        "id": "itm_cabbages_pl",
+        "text": "Vegetables",
+        "old_translation": "",
+        "translation": "蔬菜"
+    },
+    {
+        "id": "itm_dried_meat",
         "text": "Dried_Meat",
+        "old_translation": "",
         "translation": "风干肉"
     },
     {
+        "id": "itm_dried_meat_pl",
+        "text": "Dried_Meat",
+        "old_translation": "",
+        "translation": "风干肉"
+    },
+    {
+        "id": "itm_apples",
         "text": "Fruit",
+        "old_translation": "",
         "translation": "苹果"
     },
     {
+        "id": "itm_apples_pl",
+        "text": "Fruit",
+        "old_translation": "",
+        "translation": "苹果"
+    },
+    {
+        "id": "itm_barley",
         "text": "Barley",
+        "old_translation": "",
         "translation": "大麦"
     },
     {
+        "id": "itm_barley_pl",
+        "text": "Barley",
+        "old_translation": "",
+        "translation": "大麦"
+    },
+    {
+        "id": "itm_venison",
         "text": "Boar_Meat",
+        "old_translation": "",
         "translation": "野猪肉"
     },
     {
+        "id": "itm_venison_pl",
+        "text": "Boar_Meat",
+        "old_translation": "",
+        "translation": "野猪肉"
+    },
+    {
+        "id": "itm_grain",
         "text": "Wheat",
+        "old_translation": "",
         "translation": "小麦"
     },
     {
+        "id": "itm_grain_pl",
+        "text": "Wheat",
+        "old_translation": "",
+        "translation": "小麦"
+    },
+    {
+        "id": "itm_cattle_meat",
         "text": "Beef",
+        "old_translation": "",
         "translation": "牛肉"
     },
     {
+        "id": "itm_cattle_meat_pl",
+        "text": "Beef",
+        "old_translation": "",
+        "translation": "牛肉"
+    },
+    {
+        "id": "itm_bread",
         "text": "Bread",
+        "old_translation": "",
         "translation": "面包"
     },
     {
+        "id": "itm_bread_pl",
+        "text": "Bread",
+        "old_translation": "",
+        "translation": "面包"
+    },
+    {
+        "id": "itm_chicken",
         "text": "Chicken",
+        "old_translation": "",
         "translation": "鸡肉"
     },
     {
+        "id": "itm_chicken_pl",
+        "text": "Chicken",
+        "old_translation": "",
+        "translation": "鸡肉"
+    },
+    {
+        "id": "itm_pork",
         "text": "Pork",
+        "old_translation": "",
         "translation": "猪肉"
     },
     {
+        "id": "itm_pork_pl",
+        "text": "Pork",
+        "old_translation": "",
+        "translation": "猪肉"
+    },
+    {
+        "id": "itm_butter",
         "text": "Butter",
+        "old_translation": "",
         "translation": "奶油"
     },
     {
+        "id": "itm_butter_pl",
+        "text": "Butter",
+        "old_translation": "",
+        "translation": "奶油"
+    },
+    {
+        "id": "itm_siege_supply",
         "text": "Supplies",
+        "old_translation": "",
         "translation": "补给品"
     },
     {
+        "id": "itm_siege_supply_pl",
+        "text": "Supplies",
+        "old_translation": "",
+        "translation": "补给品"
+    },
+    {
+        "id": "itm_quest_wine",
+        "text": "Wine",
+        "old_translation": "",
+        "translation": "葡萄酒"
+    },
+    {
+        "id": "itm_quest_wine_pl",
+        "text": "Wine",
+        "old_translation": "",
+        "translation": "葡萄酒"
+    },
+    {
+        "id": "itm_quest_ale",
+        "text": "Ale",
+        "old_translation": "",
+        "translation": "麦芽酒"
+    },
+    {
+        "id": "itm_quest_ale_pl",
+        "text": "Ale",
+        "old_translation": "",
+        "translation": "麦芽酒"
+    },
+    {
+        "id": "itm_common_horse",
         "text": "Horse",
+        "old_translation": "",
         "translation": "野生马"
     },
     {
+        "id": "itm_common_horse_pl",
+        "text": "Horse",
+        "old_translation": "",
+        "translation": "野生马"
+    },
+    {
+        "id": "itm_common_horse2",
+        "text": "Horse",
+        "old_translation": "",
+        "translation": "野生马"
+    },
+    {
+        "id": "itm_common_horse2_pl",
+        "text": "Horse",
+        "old_translation": "",
+        "translation": "野生马"
+    },
+    {
+        "id": "itm_common_pony",
         "text": "Pony",
+        "old_translation": "",
         "translation": "野生矮种马"
     },
     {
+        "id": "itm_common_pony_pl",
+        "text": "Pony",
+        "old_translation": "",
+        "translation": "野生矮种马"
+    },
+    {
+        "id": "itm_common_pony2",
+        "text": "Pony",
+        "old_translation": "",
+        "translation": "野生矮种马"
+    },
+    {
+        "id": "itm_common_pony2_pl",
+        "text": "Pony",
+        "old_translation": "",
+        "translation": "野生矮种马"
+    },
+    {
+        "id": "itm_wild_horse",
+        "text": "Horse",
+        "old_translation": "",
+        "translation": "野生马"
+    },
+    {
+        "id": "itm_wild_horse_pl",
+        "text": "Horse",
+        "old_translation": "",
+        "translation": "野生马"
+    },
+    {
+        "id": "itm_wild_horse2",
+        "text": "Horse",
+        "old_translation": "",
+        "translation": "野生马"
+    },
+    {
+        "id": "itm_wild_horse2_pl",
+        "text": "Horse",
+        "old_translation": "",
+        "translation": "野生马"
+    },
+    {
+        "id": "itm_wild_pony",
+        "text": "Pony",
+        "old_translation": "",
+        "translation": "野生矮种马"
+    },
+    {
+        "id": "itm_wild_pony_pl",
+        "text": "Pony",
+        "old_translation": "",
+        "translation": "野生矮种马"
+    },
+    {
+        "id": "itm_wild_pony2",
+        "text": "Pony",
+        "old_translation": "",
+        "translation": "野生矮种马"
+    },
+    {
+        "id": "itm_wild_pony2_pl",
+        "text": "Pony",
+        "old_translation": "",
+        "translation": "野生矮种马"
+    },
+    {
+        "id": "itm_cow1",
         "text": "Cow",
+        "old_translation": "",
         "translation": "牛"
     },
     {
+        "id": "itm_cow1_pl",
+        "text": "Cow",
+        "old_translation": "",
+        "translation": "牛"
+    },
+    {
+        "id": "itm_cow2",
+        "text": "Cow",
+        "old_translation": "",
+        "translation": "牛"
+    },
+    {
+        "id": "itm_cow2_pl",
+        "text": "Cow",
+        "old_translation": "",
+        "translation": "牛"
+    },
+    {
+        "id": "itm_arrows",
+        "text": "Arrows",
+        "old_translation": "",
+        "translation": "箭"
+    },
+    {
+        "id": "itm_arrows_pl",
+        "text": "Arrows",
+        "old_translation": "",
+        "translation": "箭"
+    },
+    {
+        "id": "itm_khergit_arrows",
         "text": "Piercing_Arrows",
+        "old_translation": "",
         "translation": "锋利的箭"
     },
     {
+        "id": "itm_khergit_arrows_pl",
+        "text": "Piercing_Arrows",
+        "old_translation": "",
+        "translation": "锋利的箭"
+    },
+    {
+        "id": "itm_barbed_arrows",
         "text": "Barbed_Arrows",
+        "old_translation": "",
         "translation": "倒刺箭"
     },
     {
+        "id": "itm_barbed_arrows_pl",
+        "text": "Barbed_Arrows",
+        "old_translation": "",
+        "translation": "倒刺箭"
+    },
+    {
+        "id": "itm_bodkin_arrows",
         "text": "Bodkin_Arrows",
+        "old_translation": "",
         "translation": "锥头箭"
     },
     {
+        "id": "itm_bodkin_arrows_pl",
+        "text": "Bodkin_Arrows",
+        "old_translation": "",
+        "translation": "锥头箭"
+    },
+    {
+        "id": "itm_bolts",
+        "text": "Bolts",
+        "old_translation": "",
+        "translation": "螺栓"
+    },
+    {
+        "id": "itm_bolts_pl",
+        "text": "Bolts",
+        "old_translation": "",
+        "translation": "螺栓"
+    },
+    {
+        "id": "itm_bolts2",
         "text": "Piercing_Bolts",
+        "old_translation": "",
         "translation": "锋利的弩箭"
     },
     {
+        "id": "itm_bolts2_pl",
+        "text": "Piercing_Bolts",
+        "old_translation": "",
+        "translation": "锋利的弩箭"
+    },
+    {
+        "id": "itm_bolts3",
         "text": "Barbed_Bolts",
+        "old_translation": "",
         "translation": "倒刺弩箭"
     },
     {
+        "id": "itm_bolts3_pl",
+        "text": "Barbed_Bolts",
+        "old_translation": "",
+        "translation": "倒刺弩箭"
+    },
+    {
+        "id": "itm_bolts4",
         "text": "Bodkin_Bolts",
+        "old_translation": "",
         "translation": "锥头弩箭"
     },
     {
+        "id": "itm_bolts4_pl",
+        "text": "Bodkin_Bolts",
+        "old_translation": "",
+        "translation": "锥头弩箭"
+    },
+    {
+        "id": "itm_pilgrim_disguise",
         "text": "Pilgrim_Disguise",
+        "old_translation": "",
         "translation": "朝圣者服"
     },
     {
+        "id": "itm_pilgrim_disguise_pl",
+        "text": "Pilgrim_Disguise",
+        "old_translation": "",
+        "translation": "朝圣者服"
+    },
+    {
+        "id": "itm_pilgrim_hood",
         "text": "Pilgrim_Hood",
+        "old_translation": "",
         "translation": "朝圣者风帽"
     },
     {
+        "id": "itm_pilgrim_hood_pl",
+        "text": "Pilgrim_Hood",
+        "old_translation": "",
+        "translation": "朝圣者风帽"
+    },
+    {
+        "id": "itm_leather_gloves",
         "text": "Leather_Gloves",
+        "old_translation": "",
         "translation": "皮手套"
     },
     {
+        "id": "itm_leather_gloves_pl",
+        "text": "Leather_Gloves",
+        "old_translation": "",
+        "translation": "皮手套"
+    },
+    {
+        "id": "itm_carbatinae_1",
         "text": "Leather_Shoes",
+        "old_translation": "",
         "translation": "皮鞋"
     },
     {
+        "id": "itm_carbatinae_1_pl",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_2",
         "text": "Wrapping_Boots",
+        "old_translation": "",
         "translation": "绑腿靴"
     },
     {
+        "id": "itm_carbatinae_2_pl",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_3",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_3_pl",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_4",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_4_pl",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_5",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_5_pl",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_6",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_6_pl",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_7",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_7_pl",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_8",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_8_pl",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_9",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_9_pl",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_10",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_10_pl",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_vc1",
         "text": "Ankle_Boots",
+        "old_translation": "",
         "translation": "短统靴"
     },
     {
+        "id": "itm_carbatinae_vc1_pl",
+        "text": "Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统靴"
+    },
+    {
+        "id": "itm_carbatinae_vc2",
+        "text": "Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统靴"
+    },
+    {
+        "id": "itm_carbatinae_vc2_pl",
+        "text": "Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统靴"
+    },
+    {
+        "id": "itm_carbatinae_vc3",
+        "text": "Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统靴"
+    },
+    {
+        "id": "itm_carbatinae_vc3_pl",
+        "text": "Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统靴"
+    },
+    {
+        "id": "itm_carbatinae_vc4",
         "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
         "translation": "优质绑腿靴"
     },
     {
+        "id": "itm_carbatinae_vc4_pl",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_vc5",
+        "text": "Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统靴"
+    },
+    {
+        "id": "itm_carbatinae_vc5_pl",
+        "text": "Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统靴"
+    },
+    {
+        "id": "itm_carbatinae_vc6",
+        "text": "Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统靴"
+    },
+    {
+        "id": "itm_carbatinae_vc6_pl",
+        "text": "Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统靴"
+    },
+    {
+        "id": "itm_carbatinae_1s",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_1s_pl",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_2s",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_2s_pl",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_3s",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_3s_pl",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_4s",
         "text": "Rawhide_Shoes",
+        "old_translation": "",
         "translation": "生皮鞋"
     },
     {
+        "id": "itm_carbatinae_4s_pl",
+        "text": "Rawhide_Shoes",
+        "old_translation": "",
+        "translation": "生皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_5s",
+        "text": "Rawhide_Shoes",
+        "old_translation": "",
+        "translation": "生皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_5s_pl",
+        "text": "Rawhide_Shoes",
+        "old_translation": "",
+        "translation": "生皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_6s",
+        "text": "Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统靴"
+    },
+    {
+        "id": "itm_carbatinae_6s_pl",
+        "text": "Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统靴"
+    },
+    {
+        "id": "itm_carbatinae_vc1s",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_vc1s_pl",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_vc2s",
+        "text": "Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统靴"
+    },
+    {
+        "id": "itm_carbatinae_vc2s_pl",
+        "text": "Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统靴"
+    },
+    {
+        "id": "itm_carbatinae_vc3s",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_vc3s_pl",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_vc4s",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_vc4s_pl",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_1v",
+        "text": "Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统靴"
+    },
+    {
+        "id": "itm_carbatinae_1v_pl",
+        "text": "Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统靴"
+    },
+    {
+        "id": "itm_carbatinae_2v",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_2v_pl",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_3v",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_3v_pl",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_4v",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_4v_pl",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_5v",
+        "text": "Rawhide_Shoes",
+        "old_translation": "",
+        "translation": "生皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_5v_pl",
+        "text": "Rawhide_Shoes",
+        "old_translation": "",
+        "translation": "生皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_6v",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_6v_pl",
+        "text": "Wrapping_Boots",
+        "old_translation": "",
+        "translation": "绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_vc1v",
+        "text": "Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统靴"
+    },
+    {
+        "id": "itm_carbatinae_vc1v_pl",
+        "text": "Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统靴"
+    },
+    {
+        "id": "itm_carbatinae_vc2v",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_vc2v_pl",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_11q",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_11q_pl",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_12q",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_12q_pl",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_carbatinae_11qs",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_11qs_pl",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_12qs",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_12qs_pl",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_13qs",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_13qs_pl",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_14qs",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_14qs_pl",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_14qv",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_carbatinae_14qv_pl",
+        "text": "Quality_Wrapping_Boots",
+        "old_translation": "",
+        "translation": "优质绑腿靴"
+    },
+    {
+        "id": "itm_bare_foot_man",
         "text": "Cheap_Shoes",
+        "old_translation": "",
         "translation": "穷人鞋"
     },
     {
+        "id": "itm_bare_foot_man_pl",
+        "text": "Cheap_Shoes",
+        "old_translation": "",
+        "translation": "穷人鞋"
+    },
+    {
+        "id": "itm_just_man_boots_medium",
+        "text": "Rawhide_Shoes",
+        "old_translation": "",
+        "translation": "生皮鞋"
+    },
+    {
+        "id": "itm_just_man_boots_medium_pl",
+        "text": "Rawhide_Shoes",
+        "old_translation": "",
+        "translation": "生皮鞋"
+    },
+    {
+        "id": "itm_just_man_boots_light",
         "text": "Light_Ankle_Boots",
+        "old_translation": "",
         "translation": "光亮短统靴"
     },
     {
+        "id": "itm_just_man_boots_light_pl",
+        "text": "Light_Ankle_Boots",
+        "old_translation": "",
+        "translation": "光亮短统靴"
+    },
+    {
+        "id": "itm_just_man_shoes",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_just_man_shoes_pl",
+        "text": "Leather_Shoes",
+        "old_translation": "",
+        "translation": "皮鞋"
+    },
+    {
+        "id": "itm_just_man_boots_dark",
+        "text": "Light_Ankle_Boots",
+        "old_translation": "",
+        "translation": "光亮短统靴"
+    },
+    {
+        "id": "itm_just_man_boots_dark_pl",
+        "text": "Light_Ankle_Boots",
+        "old_translation": "",
+        "translation": "光亮短统靴"
+    },
+    {
+        "id": "itm_gaelshoes_1",
         "text": "Goidelic_Shoes",
+        "old_translation": "",
         "translation": "戈伊德尔鞋"
     },
     {
+        "id": "itm_gaelshoes_1_pl",
+        "text": "Goidelic_Shoes",
+        "old_translation": "",
+        "translation": "戈伊德尔鞋"
+    },
+    {
+        "id": "itm_gaelshoes_2",
+        "text": "Goidelic_Shoes",
+        "old_translation": "",
+        "translation": "戈伊德尔鞋"
+    },
+    {
+        "id": "itm_gaelshoes_2_pl",
+        "text": "Goidelic_Shoes",
+        "old_translation": "",
+        "translation": "戈伊德尔鞋"
+    },
+    {
+        "id": "itm_gaelshoes_3",
         "text": "Goidelic_Boots",
+        "old_translation": "",
         "translation": "戈伊德尔靴"
     },
     {
+        "id": "itm_gaelshoes_3_pl",
+        "text": "Goidelic_Boots",
+        "old_translation": "",
+        "translation": "戈伊德尔靴"
+    },
+    {
+        "id": "itm_womenshoes_1",
         "text": "Simple_Shoes",
+        "old_translation": "",
         "translation": "单鞋"
     },
     {
+        "id": "itm_womenshoes_1_pl",
+        "text": "Simple_Shoes",
+        "old_translation": "",
+        "translation": "单鞋"
+    },
+    {
+        "id": "itm_womenshoes_2",
         "text": "Simple_Ankle_Boots",
+        "old_translation": "",
         "translation": "短统单靴"
     },
     {
-        "text": "Simple_Boots",
+        "id": "itm_womenshoes_2_pl",
+        "text": "Simple_Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统单靴"
+    },
+    {
+        "id": "itm_womenshoes_3",
+        "text": "Simple_Shoes",
+        "old_translation": "",
         "translation": "单鞋"
     },
     {
+        "id": "itm_womenshoes_3_pl",
+        "text": "Simple_Shoes",
+        "old_translation": "",
+        "translation": "单鞋"
+    },
+    {
+        "id": "itm_womenshoes_4",
+        "text": "Simple_Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统单靴"
+    },
+    {
+        "id": "itm_womenshoes_4_pl",
+        "text": "Simple_Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统单靴"
+    },
+    {
+        "id": "itm_womenshoes_5",
+        "text": "Simple_Boots",
+        "old_translation": "",
+        "translation": "单鞋"
+    },
+    {
+        "id": "itm_womenshoes_5_pl",
+        "text": "Simple_Boots",
+        "old_translation": "",
+        "translation": "单鞋"
+    },
+    {
+        "id": "itm_womenshoes_6",
+        "text": "Simple_Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统单靴"
+    },
+    {
+        "id": "itm_womenshoes_6_pl",
+        "text": "Simple_Ankle_Boots",
+        "old_translation": "",
+        "translation": "短统单靴"
+    },
+    {
+        "id": "itm_womenshoes_7",
+        "text": "Simple_Shoes",
+        "old_translation": "",
+        "translation": "单鞋"
+    },
+    {
+        "id": "itm_womenshoes_7_pl",
+        "text": "Simple_Shoes",
+        "old_translation": "",
+        "translation": "单鞋"
+    },
+    {
+        "id": "itm_womenshoes_8",
+        "text": "Simple_Shoes",
+        "old_translation": "",
+        "translation": "单鞋"
+    },
+    {
+        "id": "itm_womenshoes_8_pl",
+        "text": "Simple_Shoes",
+        "old_translation": "",
+        "translation": "单鞋"
+    },
+    {
+        "id": "itm_long_tunic1",
         "text": "Frisian_Light_Armor",
+        "old_translation": "",
         "translation": "弗里斯轻甲"
     },
     {
+        "id": "itm_long_tunic1_pl",
+        "text": "Frisian_Light_Armor",
+        "old_translation": "",
+        "translation": "弗里斯轻甲"
+    },
+    {
+        "id": "itm_nobleman_outfit",
         "text": "Saxon_Light_Armor",
+        "old_translation": "",
         "translation": "撒克逊轻甲"
     },
     {
+        "id": "itm_nobleman_outfit_pl",
+        "text": "Saxon_Light_Armor",
+        "old_translation": "",
+        "translation": "撒克逊轻甲"
+    },
+    {
+        "id": "itm_troll_tunic",
         "text": "Troll's_Tunic",
+        "old_translation": "",
         "translation": "山妖的外衣"
     },
     {
+        "id": "itm_troll_tunic_pl",
+        "text": "Troll's_Tunic",
+        "old_translation": "",
+        "translation": "山妖的外衣"
+    },
+    {
+        "id": "itm_priest1",
         "text": "Priest_Robe",
+        "old_translation": "",
         "translation": "牧师长袍"
     },
     {
+        "id": "itm_priest1_pl",
+        "text": "Priest_Robe",
+        "old_translation": "",
+        "translation": "牧师长袍"
+    },
+    {
+        "id": "itm_priest2",
+        "text": "Priest_Robe",
+        "old_translation": "",
+        "translation": "牧师长袍"
+    },
+    {
+        "id": "itm_priest2_pl",
+        "text": "Priest_Robe",
+        "old_translation": "",
+        "translation": "牧师长袍"
+    },
+    {
+        "id": "itm_robe",
         "text": "Monk_Robe",
+        "old_translation": "",
         "translation": "僧袍"
     },
     {
+        "id": "itm_robe_pl",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_robe2",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_robe2_pl",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_robe3",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_robe3_pl",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_robe4",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_robe4_pl",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_robe5",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_robe5_pl",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_robe6",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_robe6_pl",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_robe7",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_robe7_pl",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_robe8",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_robe8_pl",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_robe9",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_robe9_pl",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_robe10",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_robe10_pl",
+        "text": "Monk_Robe",
+        "old_translation": "",
+        "translation": "僧袍"
+    },
+    {
+        "id": "itm_ptunic_1",
         "text": "Simple_Angle_Tunic",
+        "old_translation": "",
         "translation": "简易盎格鲁上衣"
     },
     {
+        "id": "itm_ptunic_1_pl",
+        "text": "Simple_Angle_Tunic",
+        "old_translation": "",
+        "translation": "简易盎格鲁上衣"
+    },
+    {
+        "id": "itm_ptunic_2",
         "text": "Angle_Light_Armor",
+        "old_translation": "",
         "translation": "短上衣"
     },
     {
+        "id": "itm_ptunic_2_pl",
+        "text": "Angle_Light_Armor",
+        "old_translation": "",
+        "translation": "短上衣"
+    },
+    {
+        "id": "itm_ptunic_3",
         "text": "Angle_Tunic",
+        "old_translation": "",
         "translation": "盎格鲁上衣"
     },
     {
+        "id": "itm_ptunic_3_pl",
+        "text": "Angle_Tunic",
+        "old_translation": "",
+        "translation": "盎格鲁上衣"
+    },
+    {
+        "id": "itm_ptunic_4",
+        "text": "Angle_Tunic",
+        "old_translation": "",
+        "translation": "盎格鲁上衣"
+    },
+    {
+        "id": "itm_ptunic_4_pl",
+        "text": "Angle_Tunic",
+        "old_translation": "",
+        "translation": "盎格鲁上衣"
+    },
+    {
+        "id": "itm_ptunic_5",
+        "text": "Simple_Angle_Tunic",
+        "old_translation": "",
+        "translation": "简易盎格鲁上衣"
+    },
+    {
+        "id": "itm_ptunic_5_pl",
+        "text": "Simple_Angle_Tunic",
+        "old_translation": "",
+        "translation": "简易盎格鲁上衣"
+    },
+    {
+        "id": "itm_ptunic_6",
+        "text": "Angle_Tunic",
+        "old_translation": "",
+        "translation": "盎格鲁上衣"
+    },
+    {
+        "id": "itm_ptunic_6_pl",
+        "text": "Angle_Tunic",
+        "old_translation": "",
+        "translation": "盎格鲁上衣"
+    },
+    {
+        "id": "itm_ptunic_7",
         "text": "Padded_Angle_Tunic",
+        "old_translation": "",
         "translation": "盎格鲁衬里上衣"
     },
     {
-        "text": "Cloak",
-        "translation": "布立吞上衣"
+        "id": "itm_ptunic_7_pl",
+        "text": "Padded_Angle_Tunic",
+        "old_translation": "",
+        "translation": "盎格鲁衬里上衣"
     },
     {
-        "text": "Trousers",
-        "translation": "白色皮克特上衣"
+        "id": "itm_ptunic_8",
+        "text": "Padded_Angle_Tunic",
+        "old_translation": "",
+        "translation": "盎格鲁衬里上衣"
     },
     {
-        "text": "Norse_Tunic",
-        "translation": "诺尔斯上衣"
+        "id": "itm_ptunic_8_pl",
+        "text": "Padded_Angle_Tunic",
+        "old_translation": "",
+        "translation": "盎格鲁衬里上衣"
     },
     {
-        "text": "Simple_Norse_Tunic",
-        "translation": "简易诺尔斯上衣"
-    },
-    {
-        "text": "Norse_Light_Armor",
-        "translation": "诺尔斯轻甲"
-    },
-    {
-        "text": "Tunic",
-        "translation": "绿色带披风短袍"
-    },
-    {
-        "text": "Simple_Saxon_Tunic",
-        "translation": "简易撒克逊上衣"
-    },
-    {
-        "text": "Saxon_Tunic",
-        "translation": "撒克逊带披风上衣"
-    },
-    {
-        "text": "Padded_Saxon_Tunic",
-        "translation": "撒克逊衬里上衣"
-    },
-    {
-        "text": "Elite_Frisian_Tunic",
-        "translation": "弗里斯带披风上衣"
-    },
-    {
-        "text": "Pictish_Light_Armor",
-        "translation": "皮克特轻甲"
-    },
-    {
-        "text": "Briton_Tunic",
-        "translation": "布立吞上衣"
-    },
-    {
-        "text": "Simple_Briton_Tunic",
-        "translation": "简易布立吞上衣"
-    },
-    {
-        "text": "Briton_Light_Armor",
-        "translation": "布立吞轻甲"
-    },
-    {
-        "text": "Pictish_Tunic",
-        "translation": "皮克特上衣"
-    },
-    {
-        "text": "Goidelic_Hooded_Tunic",
-        "translation": "戈伊德尔连帽上衣"
-    },
-    {
-        "text": "Goidelic_Tunic",
-        "translation": "戈伊德尔上衣"
-    },
-    {
-        "text": "Goidelic_Long_Cloak",
-        "translation": "戈伊德尔长披风"
-    },
-    {
-        "text": "Goidelic_Trousers",
-        "translation": "戈伊德尔裤子"
-    },
-    {
-        "text": "Goidelic_Rich_Cloak",
-        "translation": "戈伊德尔华丽披风"
-    },
-    {
-        "text": "Goidelic_Light_Armor",
-        "translation": "戈伊德尔轻甲"
-    },
-    {
-        "text": "Cloaked_Goidelic_Tunic",
-        "translation": "带披风戈伊德尔上衣"
-    },
-    {
-        "text": "Hooded_Goidelic_Tunic",
-        "translation": "带兜帽戈伊德尔上衣"
-    },
-    {
-        "text": "Hooded_Goidelic_Light_Armor",
-        "translation": "带兜帽戈伊德尔轻甲"
-    },
-    {
-        "text": "Norse_Trousers",
-        "translation": "诺尔斯裤子"
-    },
-    {
-        "text": "Norse_Cloak",
-        "translation": "诺尔斯披风"
-    },
-    {
-        "text": "Frisian_Trousers",
-        "translation": "弗里斯裤子"
-    },
-    {
-        "text": "Pictish_Naked",
-        "translation": "皮克特赤膊"
-    },
-    {
-        "text": "Pictish_Cloak",
-        "translation": "皮克特披风"
-    },
-    {
-        "text": "Pictish_Hood",
-        "translation": "皮克特披风"
-    },
-    {
-        "text": "Cloaked_Pictish_Tunic",
-        "translation": "皮克特帽兜上衣"
-    },
-    {
-        "text": "Hooded_Pictish_Tunic",
-        "translation": "皮克特帽兜上衣"
-    },
-    {
-        "text": "Saxon_Dress",
-        "translation": "撒克逊长裙"
-    },
-    {
-        "text": "Rich_Saxon_Dress",
-        "translation": "撒克逊贵妇长裙"
-    },
-    {
-        "text": "Royal_Saxon_Dress",
-        "translation": "撒克逊皇家长裙"
-    },
-    {
-        "text": "Rich_Dress",
-        "translation": "贵妇长裙"
-    },
-    {
-        "text": "Dress",
-        "translation": "长裙"
-    },
-    {
-        "text": "Norse_Dress",
-        "translation": "诺尔斯长裙"
-    },
-    {
-        "text": "Rich_Norse_Dress",
-        "translation": "诺尔斯贵妇长裙"
-    },
-    {
-        "text": "Frisian_Tunic",
-        "translation": "弗里斯短上衣"
-    },
-    {
-        "text": "Simple_Tunic",
+        "id": "itm_ptunic_9",
+        "text": "Angle_Light_Armor",
+        "old_translation": "",
         "translation": "短上衣"
     },
     {
-        "text": "Bear_Skin",
-        "translation": "橙色上衣"
+        "id": "itm_ptunic_9_pl",
+        "text": "Angle_Light_Armor",
+        "old_translation": "",
+        "translation": "短上衣"
     },
     {
-        "text": "Wolf_Skin",
-        "translation": "紫色上衣"
+        "id": "itm_ptunic_10",
+        "text": "Angle_Tunic",
+        "old_translation": "",
+        "translation": "盎格鲁上衣"
     },
     {
-        "text": "Veil",
-        "translation": "面纱"
+        "id": "itm_ptunic_10_pl",
+        "text": "Angle_Tunic",
+        "old_translation": "",
+        "translation": "盎格鲁上衣"
     },
     {
-        "text": "Rich_Veil",
-        "translation": "女士面纱"
+        "id": "itm_ptunic_11",
+        "text": "Angle_Tunic",
+        "old_translation": "",
+        "translation": "盎格鲁上衣"
     },
     {
-        "text": "Saxon_Gambeson",
-        "translation": "撒克逊软甲"
+        "id": "itm_ptunic_11_pl",
+        "text": "Angle_Tunic",
+        "old_translation": "",
+        "translation": "盎格鲁上衣"
     },
     {
-        "text": "Norse_Gambeson",
-        "translation": "诺尔斯软甲"
+        "id": "itm_ptunic_12",
+        "text": "Angle_Light_Armor",
+        "old_translation": "",
+        "translation": "短上衣"
     },
     {
-        "text": "Angle_Gambeson",
-        "translation": "盎格鲁软甲"
+        "id": "itm_ptunic_12_pl",
+        "text": "Angle_Light_Armor",
+        "old_translation": "",
+        "translation": "短上衣"
     },
     {
-        "text": "Briton_Gambeson",
-        "translation": "布立吞长软甲"
+        "id": "itm_btunic_1",
+        "text": "Cloak",
+        "old_translation": "",
+        "translation": "布立吞上衣"
     },
     {
-        "text": "Saxon_Long_Gambeson",
-        "translation": "撒克逊长软甲"
+        "id": "itm_btunic_1_pl",
+        "text": "Cloak",
+        "old_translation": "",
+        "translation": "布立吞上衣"
     },
     {
-        "text": "Frisian_Gambeson",
-        "translation": "弗里斯软甲"
+        "id": "itm_btunic_2",
+        "text": "Trousers",
+        "old_translation": "",
+        "translation": "白色皮克特上衣"
     },
     {
-        "text": "Common_Gambeson",
-        "translation": "平民软甲"
+        "id": "itm_btunic_2_pl",
+        "text": "Trousers",
+        "old_translation": "",
+        "translation": "白色皮克特上衣"
     },
     {
-        "text": "Pictish_Gambeson",
-        "translation": "皮克特软甲"
+        "id": "itm_btunic_3",
+        "text": "Norse_Tunic",
+        "old_translation": "",
+        "translation": "诺尔斯上衣"
     },
     {
-        "text": "Goidelic_Gambeson",
-        "translation": "戈伊德尔软甲"
+        "id": "itm_btunic_3_pl",
+        "text": "Norse_Tunic",
+        "old_translation": "",
+        "translation": "诺尔斯上衣"
     },
     {
-        "text": "Norse_Long_Gambeson",
-        "translation": "诺尔斯长软甲"
+        "id": "itm_btunic_4",
+        "text": "Norse_Tunic",
+        "old_translation": "",
+        "translation": "诺尔斯上衣"
     },
     {
-        "text": "Angle_Long_Gambeson",
-        "translation": "盎格鲁长软甲"
+        "id": "itm_btunic_4_pl",
+        "text": "Norse_Tunic",
+        "old_translation": "",
+        "translation": "诺尔斯上衣"
     },
     {
-        "text": "Common_Long_Gambeson",
-        "translation": "平民长软甲"
+        "id": "itm_btunic_5",
+        "text": "Norse_Tunic",
+        "old_translation": "",
+        "translation": "诺尔斯上衣"
     },
     {
-        "text": "Frisian_Long_Gambeson",
-        "translation": "弗里斯长软甲"
+        "id": "itm_btunic_5_pl",
+        "text": "Norse_Tunic",
+        "old_translation": "",
+        "translation": "诺尔斯上衣"
     },
     {
-        "text": "Briton_Long_Gambeson",
-        "translation": "布立吞长软甲"
+        "id": "itm_btunic_6",
+        "text": "Norse_Tunic",
+        "old_translation": "",
+        "translation": "诺尔斯上衣"
     },
     {
-        "text": "Frisian_Byrnie",
-        "translation": "撒克逊重型锁子甲"
+        "id": "itm_btunic_6_pl",
+        "text": "Norse_Tunic",
+        "old_translation": "",
+        "translation": "诺尔斯上衣"
     },
     {
-        "text": "Common_Byrnie",
-        "translation": "带披风蓝钢重型锁子甲"
+        "id": "itm_btunic_7",
+        "text": "Norse_Tunic",
+        "old_translation": "",
+        "translation": "诺尔斯上衣"
     },
     {
-        "text": "Pictish_Lorica",
-        "translation": "撒克逊重型锁子甲"
+        "id": "itm_btunic_7_pl",
+        "text": "Norse_Tunic",
+        "old_translation": "",
+        "translation": "诺尔斯上衣"
     },
     {
-        "text": "Cloaked_Pictish_Lorica",
-        "translation": "外披毛皮的锁子甲"
+        "id": "itm_btunic_8",
+        "text": "Simple_Norse_Tunic",
+        "old_translation": "",
+        "translation": "简易诺尔斯上衣"
     },
     {
-        "text": "Elite_Briton_Byrnie",
-        "translation": "撒克逊重型锁子甲"
+        "id": "itm_btunic_8_pl",
+        "text": "Simple_Norse_Tunic",
+        "old_translation": "",
+        "translation": "简易诺尔斯上衣"
     },
     {
-        "text": "Elite_Saxon_Halsberg",
-        "translation": "撒克逊重型锁子甲"
+        "id": "itm_btunic_9",
+        "text": "Simple_Norse_Tunic",
+        "old_translation": "",
+        "translation": "简易诺尔斯上衣"
     },
     {
-        "text": "Common_Halsberg",
-        "translation": "长袖锁甲袍"
+        "id": "itm_btunic_9_pl",
+        "text": "Simple_Norse_Tunic",
+        "old_translation": "",
+        "translation": "简易诺尔斯上衣"
     },
     {
-        "text": "Saxon_Halsberg",
-        "translation": "撒克逊锁子甲"
+        "id": "itm_btunic_10",
+        "text": "Simple_Norse_Tunic",
+        "old_translation": "",
+        "translation": "简易诺尔斯上衣"
     },
     {
-        "text": "Elite_Saxon_Lorica",
-        "translation": "撒克逊重型锁子甲"
+        "id": "itm_btunic_10_pl",
+        "text": "Simple_Norse_Tunic",
+        "old_translation": "",
+        "translation": "简易诺尔斯上衣"
     },
     {
-        "text": "Frisian_Lorica",
-        "translation": "弗里斯长袖锁甲袍"
+        "id": "itm_btunic_11",
+        "text": "Norse_Tunic",
+        "old_translation": "",
+        "translation": "诺尔斯上衣"
     },
     {
-        "text": "Briton_Byrnie",
-        "translation": "带披风蓝钢长袖锁甲袍"
+        "id": "itm_btunic_11_pl",
+        "text": "Norse_Tunic",
+        "old_translation": "",
+        "translation": "诺尔斯上衣"
     },
     {
-        "text": "Elite_Frisian_Lorica",
-        "translation": "弗里斯长袖锁甲袍"
+        "id": "itm_btunic_12",
+        "text": "Norse_Light_Armor",
+        "old_translation": "",
+        "translation": "诺尔斯轻甲"
     },
     {
-        "text": "Elite_Frisian_Halsberg",
-        "translation": "弗里斯长袖锁甲袍"
+        "id": "itm_btunic_12_pl",
+        "text": "Norse_Light_Armor",
+        "old_translation": "",
+        "translation": "诺尔斯轻甲"
     },
     {
-        "text": "Goidelic_Lorica",
-        "translation": "戈伊德尔重型锁子甲"
+        "id": "itm_btunic_13",
+        "text": "Norse_Tunic",
+        "old_translation": "",
+        "translation": "诺尔斯上衣"
     },
     {
-        "text": "Cloaked_Goidelic_Lorica",
-        "translation": "带斗篷长袖锁甲袍"
+        "id": "itm_btunic_13_pl",
+        "text": "Norse_Tunic",
+        "old_translation": "",
+        "translation": "诺尔斯上衣"
     },
     {
-        "text": "Cloaked_Briton_Byrnie",
-        "translation": "带斗篷布立吞锁子甲"
+        "id": "itm_btunic_14",
+        "text": "Norse_Tunic",
+        "old_translation": "",
+        "translation": "诺尔斯上衣"
     },
     {
-        "text": "Norse_Hringserks",
-        "translation": "带斗篷长袖锁甲袍"
+        "id": "itm_btunic_14_pl",
+        "text": "Norse_Tunic",
+        "old_translation": "",
+        "translation": "诺尔斯上衣"
     },
     {
-        "text": "Frisian_Halsberg",
-        "translation": "弗里斯重型锁子甲"
+        "id": "itm_btunic_15",
+        "text": "Norse_Light_Armor",
+        "old_translation": "",
+        "translation": "诺尔斯轻甲"
     },
     {
-        "text": "Saxon_Lorica",
-        "translation": "撒克逊胸甲"
-    },
-    {
-        "text": "Angle_Halsberg",
-        "translation": "盎格鲁锁子甲"
-    },
-    {
-        "text": "Cloaked_Angle_Halsberg",
-        "translation": "带斗篷盎格鲁锁子甲"
-    },
-    {
-        "text": "Angle_Halsberg_with_Fur",
-        "translation": "外披毛皮的盎格鲁锁子甲"
-    },
-    {
-        "text": "Cloaked_Norse_Hringserks",
-        "translation": "带斗篷长袖锁甲袍"
-    },
-    {
-        "text": "Norse_Hringserks_with_Fur",
-        "translation": "带斗篷长袖锁甲袍"
-    },
-    {
-        "text": "Orm's_Lorica",
-        "translation": "奥姆锁子甲"
-    },
-    {
-        "text": "Scale_Lorica",
-        "translation": "鳞片胸甲"
-    },
-    {
-        "text": "Burlap_Tunic",
-        "translation": "麻布短袍"
-    },
-    {
-        "text": "Hood",
-        "translation": "风帽"
-    },
-    {
-        "text": "Phrygian",
-        "translation": "头巾"
-    },
-    {
-        "text": "Quality_Phrygian",
-        "translation": "优质头巾"
-    },
-    {
-        "text": "Decorated_Phrygian",
-        "translation": "带装饰的头巾"
-    },
-    {
-        "text": "Simple_Helm",
-        "translation": "简易头盔"
-    },
-    {
-        "text": "Old_Simple_Helm",
-        "translation": "老式简易头盔"
-    },
-    {
-        "text": "Simple_Helm_with_Leather",
-        "translation": "带皮护颈简易头盔"
-    },
-    {
-        "text": "Old_Simple_Helm_with_Leather",
-        "translation": "老式带皮护颈头盔"
-    },
-    {
-        "text": "Complete_Helm",
-        "translation": "全盔"
-    },
-    {
-        "text": "Old_Complete_Helm",
-        "translation": "旧式全盔"
-    },
-    {
-        "text": "Old_Helm_with_Nasal",
-        "translation": "老式带护鼻头盔"
-    },
-    {
-        "text": "Helm_with_Leather",
-        "translation": "带皮护颈头盔"
-    },
-    {
-        "text": "Old_Helm_with_Leather",
-        "translation": "老式带皮护颈头盔"
-    },
-    {
-        "text": "Helm_with_Mail",
-        "translation": "链甲护颈头盔"
-    },
-    {
-        "text": "Simple_Helm_with_Mail",
-        "translation": "简易链甲护颈头盔"
-    },
-    {
-        "text": "Old_Anglo_Saxon_Helm",
-        "translation": "老式全盔"
-    },
-    {
-        "text": "Elite_Anglo_Saxon_Helm",
-        "translation": "老式全盔"
-    },
-    {
-        "text": "Saxon_Helm",
-        "translation": "老式全盔"
-    },
-    {
-        "text": "Old_Helm",
-        "translation": "老式头盔"
-    },
-    {
-        "text": "Saxon_Helm_with_Leather",
-        "translation": "撒克逊带皮护颈头盔"
-    },
-    {
-        "text": "Old_Helm_with_Mail",
-        "translation": "老式链甲护颈头盔"
-    },
-    {
-        "text": "Nobleman_Anglo_Saxon_Helm",
-        "translation": "老式全盔"
-    },
-    {
-        "text": "Old_Norse_Helm",
-        "translation": "老式诺尔斯盔"
-    },
-    {
-        "text": "Old_Norse_Helm_with_Nasal",
-        "translation": "带护鼻老式诺尔斯盔"
-    },
-    {
-        "text": "Old_Norse_Helm_with_Mail",
-        "translation": "老式诺尔斯链甲护颈头盔"
-    },
-    {
-        "text": "Old_Complete_Norse_Helm",
-        "translation": "老式诺尔斯全盔"
-    },
-    {
-        "text": "Simple_Norse_Helm",
-        "translation": "简易诺尔斯盔"
-    },
-    {
-        "text": "Norse_Helm_with_Nasal",
-        "translation": "带护鼻诺尔斯盔"
-    },
-    {
-        "text": "Norse_Helm",
-        "translation": "诺尔斯盔"
-    },
-    {
-        "text": "Norse_Helm_with_Mail",
-        "translation": "诺尔斯链甲护颈盔"
-    },
-    {
-        "text": "Complete_Norse_Helm",
-        "translation": "诺尔斯全盔"
-    },
-    {
-        "text": "Old_Norse_Helm_with_Leather",
-        "translation": "老式带皮护颈诺尔斯盔"
-    },
-    {
-        "text": "Rich_Norse_Helm",
-        "translation": "老式诺尔斯链甲护颈头盔"
-    },
-    {
-        "text": "Norse_Helm_with_Leather",
-        "translation": "带皮护颈诺尔斯盔"
-    },
-    {
-        "text": "Elite_Norse_Helm",
-        "translation": "诺尔斯精英盔"
-    },
-    {
-        "text": "Elite_Norse_Helm_with_Leather",
-        "translation": "带皮护颈诺尔斯精英盔"
-    },
-    {
-        "text": "Elite_Norse_Helm_with_Mail",
-        "translation": "链甲护颈诺尔斯精英盔"
-    },
-    {
-        "text": "Noble_Helm",
-        "translation": "贵族盔"
-    },
-    {
-        "text": "Elf's_Helm",
-        "translation": "精灵之盔"
-    },
-    {
-        "text": "Hersir_Helm",
-        "translation": "赫希尔之盔"
-    },
-    {
-        "text": "Crown",
-        "translation": "王冠"
-    },
-    {
-        "text": "No_head",
-        "translation": "无头"
-    },
-    {
-        "text": "Sack",
-        "translation": "麻袋"
-    },
-    {
-        "text": "Wooden_Stick",
-        "translation": "木棍"
-    },
-    {
-        "text": "Troll's_Axe",
-        "translation": "巨人之斧"
-    },
-    {
-        "text": "Hunting_Knife",
-        "translation": "猎刀"
-    },
-    {
-        "text": "Broadseax",
-        "translation": "阔刀"
-    },
-    {
-        "text": "Langseax",
-        "translation": "长刀"
-    },
-    {
-        "text": "Ragnar's_Langseax",
-        "translation": "拉格纳之刀"
-    },
-    {
-        "text": "Elf's_Langseax",
-        "translation": "精灵之刀"
-    },
-    {
-        "text": "Sword",
-        "translation": "短剑"
-    },
-    {
-        "text": "Short_Sword",
-        "translation": "短剑"
-    },
-    {
-        "text": "Rich_Sword",
-        "translation": "贵族剑"
-    },
-    {
-        "text": "Ulfberth_Sword",
-        "translation": "贵族剑"
-    },
-    {
-        "text": "False_Ulfberth_Sword",
-        "translation": "贵族剑"
-    },
-    {
-        "text": "Briton_Sword",
-        "translation": "布立吞剑"
-    },
-    {
-        "text": "Rich_Briton_Sword",
-        "translation": "华丽的布立吞剑"
-    },
-    {
-        "text": "Goidelic_Noble_Long_Sword",
-        "translation": "戈伊德尔贵族长剑"
-    },
-    {
-        "text": "Goidelic_Long_Sword",
-        "translation": "戈伊德尔长剑"
-    },
-    {
-        "text": "Goidelic_Short_Sword",
-        "translation": "戈伊德尔短剑"
-    },
-    {
-        "text": "Widow_Maker",
-        "translation": "寡妇制造者"
-    },
-    {
-        "text": "Bandit_King_Sword",
-        "translation": "强盗王之剑"
-    },
-    {
-        "text": "Laufi",
-        "translation": "塞壬之歌"
-    },
-    {
-        "text": "Olvir's_Sword",
-        "translation": "奥维尔剑"
-    },
-    {
-        "text": "Nad",
-        "translation": "纳德之剑"
-    },
-    {
-        "text": "Draguandil",
-        "translation": "龙之剑"
-    },
-    {
-        "text": "Blynjubitr",
-        "translation": "布林朱庇特之剑"
-    },
-    {
-        "text": "Long_Axe",
-        "translation": "长战斧"
-    },
-    {
-        "text": "Short_Battle_Axe",
-        "translation": "短战斧"
-    },
-    {
-        "text": "Long_Hand_Axe",
-        "translation": "长手斧"
-    },
-    {
-        "text": "Hand_Axe",
-        "translation": "手斧"
-    },
-    {
-        "text": "Short_Hand_Axe",
-        "translation": "短手斧"
-    },
-    {
-        "text": "Big_Hand_Axe",
-        "translation": "重手斧"
-    },
-    {
-        "text": "Goidelic_Axe",
-        "translation": "戈伊德尔斧"
-    },
-    {
-        "text": "Goidelic_Long_Axe",
-        "translation": "戈伊德尔长斧"
-    },
-    {
-        "text": "Pictish_Axe",
-        "translation": "皮克特斧"
-    },
-    {
-        "text": "Short_Pictish_Axe",
-        "translation": "皮克特短斧"
-    },
-    {
-        "text": "Big_Pictish_Axe",
-        "translation": "皮克特重斧"
-    },
-    {
-        "text": "Goidelic_Hatchet",
-        "translation": "戈伊德尔短手斧"
-    },
-    {
-        "text": "Short_Goidelic_Hatchet",
-        "translation": "戈伊德尔短手斧"
-    },
-    {
-        "text": "Goidelic_Long_Hatchet",
-        "translation": "戈伊德尔长手斧"
-    },
-    {
-        "text": "Noble_Goidelic_Axe",
-        "translation": "戈伊德尔贵族斧"
-    },
-    {
-        "text": "Woodcutter",
-        "translation": "伐木斧"
-    },
-    {
-        "text": "Frankish_Battle_Axe",
-        "translation": "法兰克战斧"
-    },
-    {
-        "text": "Short_Staff",
-        "translation": "短棍"
-    },
-    {
-        "text": "Pitch_Fork",
-        "translation": "粪叉"
-    },
-    {
-        "text": "Shepherd's_Crook",
-        "translation": "牧羊杖"
-    },
-    {
-        "text": "Light_Spear",
-        "translation": "轻型矛"
-    },
-    {
-        "text": "War_Spear",
-        "translation": "战矛"
-    },
-    {
-        "text": "Heavy_Spear",
-        "translation": "重型矛"
-    },
-    {
-        "text": "Light_Long_Spear",
-        "translation": "轻型长矛"
-    },
-    {
-        "text": "Long_War_Spear",
-        "translation": "长战矛"
-    },
-    {
-        "text": "Heavy_Long_Spear",
-        "translation": "重型长矛"
-    },
-    {
-        "text": "Ray",
-        "translation": "权杖"
-    },
-    {
-        "text": "Gungnir",
-        "translation": "冈格尼尔"
-    },
-    {
-        "text": "Army_Standard",
-        "translation": "军旗"
-    },
-    {
-        "text": "5",
-        "translation": ""
-    },
-    {
-        "text": "1955",
-        "translation": ""
-    },
-    {
-        "text": "Dragon_Standard",
-        "translation": "龙旗"
-    },
-    {
-        "text": "Horn",
-        "translation": "号角"
-    },
-    {
-        "text": "Rawhide_Shield",
-        "translation": "生皮盾"
-    },
-    {
-        "text": "Rawhide_Round_Shield",
-        "translation": "生皮圆盾"
-    },
-    {
-        "text": "Convex_Shield",
-        "translation": "凸圆盾"
-    },
-    {
-        "text": "Berserkr_Shield",
-        "translation": "勇士盾"
-    },
-    {
-        "text": "Svear_Shield",
-        "translation": "斯维尔盾"
-    },
-    {
-        "text": "Danish_Shield",
-        "translation": "丹麦盾"
-    },
-    {
-        "text": "Northmathr_Shield",
-        "translation": "诺曼盾"
-    },
-    {
-        "text": "Gael_Round_Shield",
-        "translation": "盖尔圆盾"
-    },
-    {
-        "text": "Elf's_Shield",
-        "translation": "精灵之盾"
-    },
-    {
-        "text": "Painted_Convex_Shield",
-        "translation": "彩绘凸圆盾"
-    },
-    {
-        "text": "Painted_Round_Shield",
-        "translation": "彩绘圆盾"
-    },
-    {
-        "text": "Small_Round_Shield",
-        "translation": "小圆盾"
-    },
-    {
-        "text": "H_Shield",
-        "translation": "H形盾"
-    },
-    {
-        "text": "Square_Shield",
-        "translation": "方盾"
-    },
-    {
-        "text": "Simple_Javelins",
-        "translation": "简易标枪"
-    },
-    {
-        "text": "Skirmish_Javelins",
-        "translation": "战斗标枪"
-    },
-    {
-        "text": "Skirmish_Javelin",
-        "translation": "战斗标枪"
-    },
-    {
-        "text": "Heavy_Javelins",
-        "translation": "重标枪"
-    },
-    {
-        "text": "Heavy_Javelin",
-        "translation": "重标枪"
-    },
-    {
-        "text": "Horsemen_Javelins",
-        "translation": "骑手标枪"
-    },
-    {
-        "text": "Horseman_Javelin",
-        "translation": "骑手标枪"
-    },
-    {
-        "text": "Throwing_Spears",
-        "translation": "投矛"
-    },
-    {
-        "text": "Throwing_Spear",
-        "translation": "投矛"
-    },
-    {
-        "text": "Stones",
-        "translation": "石头"
-    },
-    {
-        "text": "Elite_Long_Bow",
-        "translation": "优质长弓"
-    },
-    {
-        "text": "Featured_Long_Bow",
-        "translation": "精制长弓"
-    },
-    {
-        "text": "Pictish_Crossbow",
-        "translation": "皮克特弩"
-    },
-    {
-        "text": "Dark_Hunter",
-        "translation": "暗黑猎人"
-    },
-    {
-        "text": "Eye-popping",
-        "translation": "瞠目结舌"
-    },
-    {
-        "text": "Sling_Lead",
-        "translation": "投石索用铅块"
-    },
-    {
-        "text": "1",
-        "translation": ""
-    },
-    {
-        "text": "600",
-        "translation": ""
-    },
-    {
-        "text": "Military_Sling",
-        "translation": "军用投石索"
-    },
-    {
-        "text": "Fustibalus",
-        "translation": "投石器"
-    },
-    {
-        "text": "Military_Fustibalus",
-        "translation": "军用投石器"
-    },
-    {
-        "text": "Torches",
-        "translation": "火把"
-    },
-    {
-        "text": "Lyre",
-        "translation": "里拉琴"
-    },
-    {
-        "text": "Lute",
-        "translation": "鲁特琴"
-    },
-    {
-        "text": "Instruments_End",
-        "translation": "InstrumentsEnd"
-    },
-    {
-        "text": "Court_Dress",
-        "translation": "侍女裙"
-    },
-    {
-        "text": "Siege_Stones",
-        "translation": "攻城用石"
-    },
-    {
-        "text": "13",
-        "translation": ""
-    },
-    {
-        "text": "4",
-        "translation": ""
-    },
-    {
-        "text": "Battle_Trophy",
-        "translation": "战利品"
-    },
-    {
-        "text": "War_Trophy",
-        "translation": "优良的战利品"
-    },
-    {
-        "text": "Epic_Trophy",
-        "translation": "极好的战利品"
-    },
-    {
-        "text": "Iniau_Horn",
-        "translation": "因里奥的号角"
-    },
-    {
-        "text": "Ring_of_Keys",
-        "translation": "钥匙串"
-    },
-    {
-        "text": "Bride_Dress",
-        "translation": "新娘装"
-    },
-    {
-        "text": "Crown_of_Flowers",
-        "translation": "花冠"
-    },
-    {
-        "text": "Bride_Shoes",
-        "translation": "新娘鞋"
-    },
-    {
-        "text": "Shirt",
-        "translation": "衬衫"
-    },
-    {
-        "text": "Thor's_Helmet",
-        "translation": "索尔之盔"
-    },
-    {
-        "text": "Thor's_Armor",
-        "translation": "索尔之甲"
-    },
-    {
-        "text": "Thor's_Boots",
-        "translation": "索尔之靴"
-    },
-    {
-        "text": "Thor's_Hammer",
-        "translation": "索尔之锤"
-    },
-    {
-        "text": "Deadly_Bow",
-        "translation": "致命的弓"
-    },
-    {
-        "text": "Deadly_Arrows",
-        "translation": "致命的箭"
-    },
-    {
-        "text": "{!}ship_data_array",
-        "translation": ""
-    },
-    {
-        "text": "{!}glove_animation",
-        "translation": ""
-    },
-    {
-        "text": "Oil",
-        "translation": "油"
-    },
-    {
-        "text": "Velvet",
-        "translation": "天鹅绒"
-    },
-    {
-        "text": "Pickaxe",
-        "translation": "镐"
-    },
-    {
-        "text": "Pitchfork",
-        "translation": "草叉"
-    },
-    {
-        "text": "Basket",
-        "translation": "篮子"
-    },
-    {
-        "text": "Torch",
-        "translation": "火把"
-    },
-    {
-        "text": "Boar",
-        "translation": "野猪"
-    },
-    {
-        "text": "Pig",
-        "translation": "猪"
-    },
-    {
-        "text": "Piglet",
-        "translation": "猪崽"
-    },
-    {
-        "text": "Sheep",
-        "translation": "羊"
-    },
-    {
-        "text": "Dog",
-        "translation": "狗"
-    },
-    {
-        "text": "Strange_broom",
-        "translation": "古怪的扫帚"
-    },
-    {
-        "text": "Kejserens_nye_Klaeder",
-        "translation": "皇帝的新衣"
-    },
-    {
-        "text": "Bite",
-        "translation": "螺丝"
-    },
-    {
-        "text": "Bear_Byrnie",
-        "translation": "熊皮链甲"
-    },
-    {
-        "text": "Wolf_Byrnie",
-        "translation": "狼皮胸甲"
-    },
-    {
-        "text": "Bear_Lorica",
-        "translation": "熊皮胸甲"
-    },
-    {
-        "text": "Wolf_Lorica",
-        "translation": "狼皮胸甲"
-    },
-    {
-        "text": "Norse_Konungr_Trophy",
-        "translation": "诺尔斯国王奖杯"
-    },
-    {
-        "text": "Vrenhin_Lloegr_Trophy",
-        "translation": "布立吞国王奖杯"
-    },
-    {
-        "text": "Ard_Ruire_Trophy",
-        "translation": "戈伊德尔大首领奖杯"
-    },
-    {
-        "text": "Brytenwalda_Trophy",
-        "translation": "盎格鲁国王奖杯"
-    },
-    {
-        "text": "Emissary_Tunic",
-        "translation": "使者外衣"
-    },
-    {
-        "text": "Ealdorman_Tunic",
-        "translation": "使者外衣"
-    },
-    {
-        "text": "Trader_Tunic",
-        "translation": "商人外衣"
-    },
-    {
-        "text": "Fine_Pictish_Dress",
-        "translation": "皮克特精致长裙"
-    },
-    {
-        "text": "Noble_Norse_Dress",
-        "translation": "诺尔斯贵妇长裙"
-    },
-    {
-        "text": "Thor's_Javelins",
-        "translation": "雷神的标枪"
-    },
-    {
-        "text": "Old_Seax",
-        "translation": "古老的刀"
-    },
-    {
-        "text": "Old_Spear",
-        "translation": "古老的矛"
-    },
-    {
-        "text": "Items_End",
-        "translation": "ItemsEnd"
+        "id": "itm_btunic_15_pl",
+        "text": "Norse_Light_Armor",
+        "old_translation": "",
+        "translation": "诺尔斯轻甲"
     }
 ]

@@ -1,0 +1,2912 @@
+[
+    {
+        "id": "trp_village_48_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_49_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_50_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_51_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_52_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_53_elder",
+        "text": "Wigmund_the_Elder",
+        "old_translation": "",
+        "translation": "威格蒙德长老"
+    },
+    {
+        "id": "trp_village_54_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_55_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_56_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_57_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_58_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_59_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_60_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_61_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_62_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_63_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_64_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_65_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_66_elder",
+        "text": "Pyr_the_Elder",
+        "old_translation": "",
+        "translation": "皮尔长老"
+    },
+    {
+        "id": "trp_village_67_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_68_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_69_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_70_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_71_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_72_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_73_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_74_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_75_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_76_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_77_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_78_elder",
+        "text": "Caliacas",
+        "old_translation": "",
+        "translation": "卡利卡斯"
+    },
+    {
+        "id": "trp_village_79_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_80_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_81_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_82_elder",
+        "text": "Aesc_the_Elder",
+        "old_translation": "",
+        "translation": "艾斯长老"
+    },
+    {
+        "id": "trp_village_83_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_84_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_85_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_86_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_87_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_88_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_89_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_90_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_91_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_92_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_93_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_94_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_95_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_96_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_97_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_98_elder",
+        "text": "Ingolf_the_Elder",
+        "old_translation": "",
+        "translation": "印戈福长老"
+    },
+    {
+        "id": "trp_village_99_elder",
+        "text": "Oleif_the_Elder",
+        "old_translation": "",
+        "translation": "奥利弗长老"
+    },
+    {
+        "id": "trp_village_100_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_101_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_102_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_103_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_104_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_105_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_106_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_107_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_108_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_109_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_110_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_111_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_112_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_113_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_114_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_115_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_116_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_117_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_118_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_119_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_120_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_121_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_122_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_123_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_124_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_125_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_126_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_127_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_128_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_129_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_130_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_131_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_132_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_133_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_134_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_135_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_136_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_137_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_138_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_139_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_140_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_141_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_142_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_143_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_144_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_145_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_146_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_147_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_148_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_149_elder",
+        "text": "Local_Leader",
+        "old_translation": "",
+        "translation": "地方领袖"
+    },
+    {
+        "id": "trp_village_150_elder",
+        "text": "Thonkrik",
+        "old_translation": "",
+        "translation": "索里克"
+    },
+    {
+        "id": "trp_monje_mercader",
+        "text": "Monk_merchant",
+        "old_translation": "",
+        "translation": "僧侣商人"
+    },
+    {
+        "id": "trp_monje_mercader_pl",
+        "text": "Monk_merchants",
+        "old_translation": "",
+        "translation": "僧侣商人"
+    },
+    {
+        "id": "trp_merchants_end",
+        "text": "merchants_end",
+        "old_translation": "",
+        "translation": "商人结束"
+    },
+    {
+        "id": "trp_merchants_end_pl",
+        "text": "merchants_end",
+        "old_translation": "",
+        "translation": "商人结束"
+    },
+    {
+        "id": "trp_town_1_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_2_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_3_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_4_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_5_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_6_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_7_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_8_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_9_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_10_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_11_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_12_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_13_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_14_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_15_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_16_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_17_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_18_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_19_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_20_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_21_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_22_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_23_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_24_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_25_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_26_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_27_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_28_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_29_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_town_30_healer",
+        "text": "Physician",
+        "old_translation": "",
+        "translation": "医生"
+    },
+    {
+        "id": "trp_healer_end",
+        "text": "healer_end",
+        "old_translation": "",
+        "translation": "治疗师结束"
+    },
+    {
+        "id": "trp_town_1_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_2_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_3_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_port_chief",
+        "text": "Port_Master",
+        "old_translation": "",
+        "translation": "港口主管"
+    },
+    {
+        "id": "trp_port_chief_pl",
+        "text": "Port_Masters",
+        "old_translation": "",
+        "translation": "港口主管"
+    },
+    {
+        "id": "trp_town_5_shipwright",
+        "text": "Kalle_the_Shipwright",
+        "old_translation": "",
+        "translation": "造船师卡勒"
+    },
+    {
+        "id": "trp_town_6_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_7_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_8_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_9_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_10_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_11_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_12_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_13_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_14_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_15_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_16_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_17_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_18_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_19_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_20_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_21_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_22_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_23_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_24_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_25_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_26_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_27_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_28_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_town_29_shipwright",
+        "text": "Shipwright",
+        "old_translation": "",
+        "translation": "造船师"
+    },
+    {
+        "id": "trp_shipwright_end",
+        "text": "Boar",
+        "old_translation": "",
+        "translation": "野猪"
+    },
+    {
+        "id": "trp_shipwright_end_pl",
+        "text": "Boars",
+        "old_translation": "",
+        "translation": "野猪"
+    },
+    {
+        "id": "trp_town_1_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_2_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_3_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_4_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_5_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_6_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_7_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_8_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_9_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_10_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_11_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_12_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_13_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_14_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_15_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_16_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_17_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_18_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_19_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_20_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_21_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_22_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_23_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_24_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_25_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_26_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_27_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_28_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_town_29_master_craftsman",
+        "text": "Craftsman",
+        "old_translation": "",
+        "translation": "手艺人"
+    },
+    {
+        "id": "trp_local_merchant",
+        "text": "Local_Merchant",
+        "old_translation": "",
+        "translation": "本地商人"
+    },
+    {
+        "id": "trp_local_merchant_pl",
+        "text": "Local_Merchants",
+        "old_translation": "",
+        "translation": "本地商人"
+    },
+    {
+        "id": "trp_tax_rebel",
+        "text": "Peasant_Rebel",
+        "old_translation": "",
+        "translation": "造反的农民"
+    },
+    {
+        "id": "trp_tax_rebel_pl",
+        "text": "Peasant_Rebels",
+        "old_translation": "",
+        "translation": "造反的农民"
+    },
+    {
+        "id": "trp_trainee_peasant",
+        "text": "Peasant",
+        "old_translation": "",
+        "translation": "农民"
+    },
+    {
+        "id": "trp_trainee_peasant_pl",
+        "text": "Peasants",
+        "old_translation": "",
+        "translation": "农民"
+    },
+    {
+        "id": "trp_fugitive",
+        "text": "Nervous_Man",
+        "old_translation": "",
+        "translation": "紧张不安的人"
+    },
+    {
+        "id": "trp_fugitive_pl",
+        "text": "Nervous_Men",
+        "old_translation": "",
+        "translation": "紧张不安的人"
+    },
+    {
+        "id": "trp_belligerent_drunk",
+        "text": "Belligerent_Drunk",
+        "old_translation": "",
+        "translation": "闹事的酒鬼"
+    },
+    {
+        "id": "trp_belligerent_drunk_pl",
+        "text": "Belligerent_Drunks",
+        "old_translation": "",
+        "translation": "闹事的酒鬼"
+    },
+    {
+        "id": "trp_hired_assassin",
+        "text": "Traveler",
+        "old_translation": "",
+        "translation": "旅行者"
+    },
+    {
+        "id": "trp_hired_assassin_pl",
+        "text": "Hired_Assassin",
+        "old_translation": "",
+        "translation": "受雇刺客"
+    },
+    {
+        "id": "trp_fight_promoter",
+        "text": "Rough-Looking_Character",
+        "old_translation": "",
+        "translation": "相貌粗野的人"
+    },
+    {
+        "id": "trp_fight_promoter_pl",
+        "text": "Rough-Looking_Character",
+        "old_translation": "",
+        "translation": "相貌粗野的人"
+    },
+    {
+        "id": "trp_spy",
+        "text": "Ordinary_Townsman",
+        "old_translation": "",
+        "translation": "普通市民"
+    },
+    {
+        "id": "trp_spy_pl",
+        "text": "Ordinary_Townsmen",
+        "old_translation": "",
+        "translation": "普通的市民"
+    },
+    {
+        "id": "trp_spy_partner",
+        "text": "Unremarkable_Townsman",
+        "old_translation": "",
+        "translation": "不起眼的市民"
+    },
+    {
+        "id": "trp_spy_partner_pl",
+        "text": "Unremarkable_Townsmen",
+        "old_translation": "",
+        "translation": "不起眼的市民"
+    },
+    {
+        "id": "trp_camp_armory",
+        "text": "Camp_Armory",
+        "old_translation": "",
+        "translation": "营帐地军械库"
+    },
+    {
+        "id": "trp_camp_armory_pl",
+        "text": "Camp_Armory",
+        "old_translation": "",
+        "translation": "营帐地军械库"
+    },
+    {
+        "id": "trp_nurse_for_lady",
+        "text": "Nurse",
+        "old_translation": "",
+        "translation": "护士"
+    },
+    {
+        "id": "trp_nurse_for_lady_pl",
+        "text": "Nurse",
+        "old_translation": "",
+        "translation": "护士"
+    },
+    {
+        "id": "trp_temporary_minister",
+        "text": "Minister",
+        "old_translation": "",
+        "translation": "大臣"
+    },
+    {
+        "id": "trp_temporary_minister_pl",
+        "text": "Minister",
+        "old_translation": "",
+        "translation": "大臣"
+    },
+    {
+        "id": "trp_norse_multiplayer",
+        "text": "Hirdman",
+        "old_translation": "",
+        "translation": "雅尔亲卫"
+    },
+    {
+        "id": "trp_norse_multiplayer_pl",
+        "text": "Hirdmen",
+        "old_translation": "",
+        "translation": "雅尔亲卫"
+    },
+    {
+        "id": "trp_saxon_multiplayer",
+        "text": "Geanata",
+        "old_translation": "",
+        "translation": "吉纳塔"
+    },
+    {
+        "id": "trp_saxon_multiplayer_pl",
+        "text": "Geanatas",
+        "old_translation": "",
+        "translation": "吉纳塔"
+    },
+    {
+        "id": "trp_angle_multiplayer",
+        "text": "Geanata",
+        "old_translation": "",
+        "translation": "吉纳塔"
+    },
+    {
+        "id": "trp_angle_multiplayer_pl",
+        "text": "Geanatas",
+        "old_translation": "",
+        "translation": "吉纳塔"
+    },
+    {
+        "id": "trp_briton_multiplayer",
+        "text": "Milwr",
+        "old_translation": "",
+        "translation": "威尔士士兵"
+    },
+    {
+        "id": "trp_briton_multiplayer_pl",
+        "text": "Milwyr",
+        "old_translation": "",
+        "translation": "威尔士士兵"
+    },
+    {
+        "id": "trp_irish_multiplayer",
+        "text": "Cliarthaire",
+        "old_translation": "",
+        "translation": "布立吞战士"
+    },
+    {
+        "id": "trp_irish_multiplayer_pl",
+        "text": "Cliarthairi",
+        "old_translation": "",
+        "translation": "布立吞战士"
+    },
+    {
+        "id": "trp_scotch_multiplayer",
+        "text": "Bruide",
+        "old_translation": "",
+        "translation": "盖尔勇士"
+    },
+    {
+        "id": "trp_scotch_multiplayer_pl",
+        "text": "Bruides",
+        "old_translation": "",
+        "translation": "盖尔勇士"
+    },
+    {
+        "id": "trp_norse_capitan",
+        "text": "Noble_(Hersi)",
+        "old_translation": "",
+        "translation": "诺斯贵族（海希尔）"
+    },
+    {
+        "id": "trp_norse_capitan_pl",
+        "text": "Nobles_(Hersir)",
+        "old_translation": "",
+        "translation": "诺斯贵族（海希尔）"
+    },
+    {
+        "id": "trp_norse_elite",
+        "text": "Elite_Warrior_(Huskarl)",
+        "old_translation": "",
+        "translation": "诺斯精英战士（效死亲卫）"
+    },
+    {
+        "id": "trp_norse_elite_pl",
+        "text": "Elite_Warriors_(Huskarlar)",
+        "old_translation": "",
+        "translation": "诺斯精英战士（效死亲卫）"
+    },
+    {
+        "id": "trp_saxon_capitan",
+        "text": "Noble_(Thegn)",
+        "old_translation": "",
+        "translation": "撒克逊贵族（贵族）"
+    },
+    {
+        "id": "trp_saxon_capitan_pl",
+        "text": "Nobles_(Thegns)",
+        "old_translation": "",
+        "translation": "盎格鲁贵族（贵族）"
+    },
+    {
+        "id": "trp_saxon_elite",
+        "text": "Bodyguard_(Hearthweru)",
+        "old_translation": "",
+        "translation": "盎格鲁侍卫（精·游）"
+    },
+    {
+        "id": "trp_saxon_elite_pl",
+        "text": "Bodyguards_(Hearthwerus)",
+        "old_translation": "",
+        "translation": "盎格鲁侍卫（精·游）"
+    },
+    {
+        "id": "trp_angle_capitan",
+        "text": "Noble_(Thegn)",
+        "old_translation": "",
+        "translation": "撒克逊贵族（贵族）"
+    },
+    {
+        "id": "trp_angle_capitan_pl",
+        "text": "Nobles_(Thegns)",
+        "old_translation": "",
+        "translation": "盎格鲁贵族（贵族）"
+    },
+    {
+        "id": "trp_angle_elite",
+        "text": "Bodyguard_(Hearthweru)",
+        "old_translation": "",
+        "translation": "盎格鲁侍卫（精·游）"
+    },
+    {
+        "id": "trp_angle_elite_pl",
+        "text": "Bodyguards_(Hearthwerus)",
+        "old_translation": "",
+        "translation": "盎格鲁侍卫（精·游）"
+    },
+    {
+        "id": "trp_briton_capitan",
+        "text": "Noble_(Uchelwr)",
+        "old_translation": "",
+        "translation": "布立吞贵族（精·步）"
+    },
+    {
+        "id": "trp_briton_capitan_pl",
+        "text": "Nobles_(Uchelwyr)",
+        "old_translation": "",
+        "translation": "布立吞贵族（精·步）"
+    },
+    {
+        "id": "trp_briton_elite",
+        "text": "Champion_(Campiwr)",
+        "old_translation": "",
+        "translation": "布立吞剑术大师（精·步）"
+    },
+    {
+        "id": "trp_briton_elite_pl",
+        "text": "Champions_(Campgwr)",
+        "old_translation": "",
+        "translation": "布立吞剑术大师（精·步）"
+    },
+    {
+        "id": "trp_irish_capitan",
+        "text": "Noble_(Airig)",
+        "old_translation": "",
+        "translation": "戈伊德尔贵族（精·步）"
+    },
+    {
+        "id": "trp_irish_capitan_pl",
+        "text": "Nobles_(Arras)",
+        "old_translation": "",
+        "translation": "戈伊德尔贵族（精·步）"
+    },
+    {
+        "id": "trp_irish_elite",
+        "text": "Bodyguard_(Deaisbard)",
+        "old_translation": "",
+        "translation": "戈伊德尔侍卫（精·步）"
+    },
+    {
+        "id": "trp_irish_elite_pl",
+        "text": "Bodyguard_(Deaisbards)",
+        "old_translation": "",
+        "translation": "戈伊德尔侍卫（精·步）"
+    },
+    {
+        "id": "trp_scotch_capitan",
+        "text": "Noble_(Toisech)",
+        "old_translation": "",
+        "translation": "皮克特贵族（精·步）"
+    },
+    {
+        "id": "trp_scotch_capitan_pl",
+        "text": "Nobles_(Toisechs)",
+        "old_translation": "",
+        "translation": "皮克特贵族（精·步）"
+    },
+    {
+        "id": "trp_scotch_elite",
+        "text": "Champion_(Gaisgidh)",
+        "old_translation": "",
+        "translation": "皮克特剑术大师（精·步）"
+    },
+    {
+        "id": "trp_scotch_elite_pl",
+        "text": "Champions_(Gaisgidhs)",
+        "old_translation": "",
+        "translation": "皮克特剑术大师（精·步）"
+    },
+    {
+        "id": "trp_nurse",
+        "text": "Nurse",
+        "old_translation": "",
+        "translation": "护士"
+    },
+    {
+        "id": "trp_quick_battle_troop_1",
+        "text": "Bodo_the_Cantabrian",
+        "old_translation": "",
+        "translation": "坎塔布里亚人博多"
+    },
+    {
+        "id": "trp_quick_battle_troop_1_pl",
+        "text": "Bodo_the_Cantabrian",
+        "old_translation": "",
+        "translation": "坎塔布里亚人博多"
+    },
+    {
+        "id": "trp_quick_battle_troop_2",
+        "text": "Sven_Bull_Neck",
+        "old_translation": "",
+        "translation": "“牛颈”斯温"
+    },
+    {
+        "id": "trp_quick_battle_troop_2_pl",
+        "text": "Sven_Bull_Neck",
+        "old_translation": "",
+        "translation": "“牛颈”斯温"
+    },
+    {
+        "id": "trp_quick_battle_troop_3",
+        "text": "Cerball_mac_Dunlainge",
+        "old_translation": "",
+        "translation": "库努乌·麦·顿莱耶"
+    },
+    {
+        "id": "trp_quick_battle_troop_3_pl",
+        "text": "Cerball_mac_Dunlainge",
+        "old_translation": "",
+        "translation": "库努乌·麦·顿莱耶"
+    },
+    {
+        "id": "trp_quick_battle_troop_4",
+        "text": "Artorius",
+        "old_translation": "",
+        "translation": "阿托利斯"
+    },
+    {
+        "id": "trp_quick_battle_troop_4_pl",
+        "text": "Artorius",
+        "old_translation": "",
+        "translation": "阿托利斯"
+    },
+    {
+        "id": "trp_quick_battle_troop_5",
+        "text": "Cinead",
+        "old_translation": "",
+        "translation": "辛奈德"
+    },
+    {
+        "id": "trp_quick_battle_troop_5_pl",
+        "text": "Cinead",
+        "old_translation": "",
+        "translation": "辛奈德"
+    },
+    {
+        "id": "trp_quick_battle_troop_6",
+        "text": "Oswald",
+        "old_translation": "",
+        "translation": "奥斯沃德"
+    },
+    {
+        "id": "trp_quick_battle_troop_6_pl",
+        "text": "Oswald",
+        "old_translation": "",
+        "translation": "奥斯沃德"
+    },
+    {
+        "id": "trp_quick_battle_troop_7",
+        "text": "Hildr",
+        "old_translation": "",
+        "translation": "希露德"
+    },
+    {
+        "id": "trp_quick_battle_troop_7_pl",
+        "text": "Hildr",
+        "old_translation": "",
+        "translation": "希露德"
+    },
+    {
+        "id": "trp_quick_battle_troops_cam",
+        "text": "Camera",
+        "old_translation": "",
+        "translation": "摄影机"
+    },
+    {
+        "id": "trp_quick_battle_troops_cam_pl",
+        "text": "Camera",
+        "old_translation": "",
+        "translation": "摄影机"
+    },
+    {
+        "id": "trp_tutorial_fighter_1",
+        "text": "Novice_Warrior",
+        "old_translation": "",
+        "translation": "初级战士"
+    },
+    {
+        "id": "trp_tutorial_fighter_1_pl",
+        "text": "Fighters",
+        "old_translation": "",
+        "translation": "战士"
+    },
+    {
+        "id": "trp_tutorial_fighter_2",
+        "text": "Novice_Warrior",
+        "old_translation": "",
+        "translation": "初级战士"
+    },
+    {
+        "id": "trp_tutorial_fighter_2_pl",
+        "text": "Fighters",
+        "old_translation": "",
+        "translation": "战士"
+    },
+    {
+        "id": "trp_tutorial_fighter_3",
+        "text": "Regular_Warrior",
+        "old_translation": "",
+        "translation": "正规战士"
+    },
+    {
+        "id": "trp_tutorial_fighter_3_pl",
+        "text": "Fighters",
+        "old_translation": "",
+        "translation": "战士"
+    },
+    {
+        "id": "trp_tutorial_fighter_4",
+        "text": "Veteran_Warrior",
+        "old_translation": "",
+        "translation": "资深战士"
+    },
+    {
+        "id": "trp_tutorial_fighter_4_pl",
+        "text": "Fighters",
+        "old_translation": "",
+        "translation": "战士"
+    },
+    {
+        "id": "trp_tutorial_archer_1",
+        "text": "Archer",
+        "old_translation": "",
+        "translation": "弓箭手"
+    },
+    {
+        "id": "trp_tutorial_archer_1_pl",
+        "text": "Archers",
+        "old_translation": "",
+        "translation": "弓手"
+    },
+    {
+        "id": "trp_tutorial_master_archer",
+        "text": "Archery_Trainer",
+        "old_translation": "",
+        "translation": "弓术教练"
+    },
+    {
+        "id": "trp_tutorial_master_archer_pl",
+        "text": "Archery_Trainer",
+        "old_translation": "",
+        "translation": "弓术教练"
+    },
+    {
+        "id": "trp_tutorial_rider_1",
+        "text": "Rider",
+        "old_translation": "",
+        "translation": "骑手"
+    },
+    {
+        "id": "trp_tutorial_rider_2",
+        "text": "Horsewealas",
+        "old_translation": "",
+        "translation": "威尔士轻骑兵"
+    },
+    {
+        "id": "trp_tutorial_master_horseman",
+        "text": "Riding_Trainer",
+        "old_translation": "",
+        "translation": "骑术教练"
+    },
+    {
+        "id": "trp_tutorial_master_horseman_pl",
+        "text": "Riding_Trainer",
+        "old_translation": "",
+        "translation": "骑术教练"
+    },
+    {
+        "id": "trp_swadian_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_vaegir_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_khergit_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_nord_merchant",
+        "text": "Healer",
+        "old_translation": "",
+        "translation": "医治者"
+    },
+    {
+        "id": "trp_rhodok_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_sarranid_merchant",
+        "text": "Merchant",
+        "old_translation": "",
+        "translation": "杂货商人"
+    },
+    {
+        "id": "trp_startup_merchants_end",
+        "text": "startup_merchants_end",
+        "old_translation": "",
+        "translation": "开局商人结束"
+    },
+    {
+        "id": "trp_startup_merchants_end_pl",
+        "text": "startup_merchants_end",
+        "old_translation": "",
+        "translation": "开局商人结束"
+    },
+    {
+        "id": "trp_old_hero_boargrove",
+        "text": "Old_Hero",
+        "old_translation": "",
+        "translation": "老英雄"
+    },
+    {
+        "id": "trp_old_hero_boargrove_pl",
+        "text": "Old_Heroes",
+        "old_translation": "",
+        "translation": "老英雄们"
+    },
+    {
+        "id": "trp_sea_raider_leader",
+        "text": "Berserkr",
+        "old_translation": "",
+        "translation": "熊皮狂战士"
+    },
+    {
+        "id": "trp_sea_raider_leader_pl",
+        "text": "Berserkir",
+        "old_translation": "",
+        "translation": "熊皮狂战士"
+    },
+    {
+        "id": "trp_looter_leader",
+        "text": "Ulfhedinn",
+        "old_translation": "",
+        "translation": "狼皮狂战士"
+    },
+    {
+        "id": "trp_looter_leader_pl",
+        "text": "Ulfhednar",
+        "old_translation": "",
+        "translation": "狼皮狂战士"
+    },
+    {
+        "id": "trp_bandit_leaders_end",
+        "text": "bandit_leaders_end",
+        "old_translation": "",
+        "translation": "盗贼首领们结束"
+    },
+    {
+        "id": "trp_bandit_leaders_end_pl",
+        "text": "bandit_leaders_end",
+        "old_translation": "",
+        "translation": "盗贼首领们结束"
+    },
+    {
+        "id": "trp_relative_of_merchant",
+        "text": "Asturian_Captain",
+        "old_translation": "",
+        "translation": "阿斯图里亚队长"
+    },
+    {
+        "id": "trp_relative_of_merchants_end",
+        "text": "relative_of_merchants_end",
+        "old_translation": "",
+        "translation": "商人亲属结束"
+    },
+    {
+        "id": "trp_relative_of_merchants_end_pl",
+        "text": "relative_of_merchants_end",
+        "old_translation": "",
+        "translation": "商人亲属结束"
+    },
+    {
+        "id": "trp_sacerdote_lair",
+        "text": "Priest_Beda",
+        "old_translation": "",
+        "translation": "帕里斯特·贝达"
+    },
+    {
+        "id": "trp_sacerdote_lair_pl",
+        "text": "priest",
+        "old_translation": "",
+        "translation": "牧师"
+    },
+    {
+        "id": "trp_pagano_lair",
+        "text": "Godi_Olafr",
+        "old_translation": "",
+        "translation": "戈迪·奥拉夫"
+    },
+    {
+        "id": "trp_pagano_lair_pl",
+        "text": "priest",
+        "old_translation": "",
+        "translation": "牧师"
+    },
+    {
+        "id": "trp_bardo_lair",
+        "text": "Bard_Siwi",
+        "old_translation": "",
+        "translation": "巴德·西维"
+    },
+    {
+        "id": "trp_bardo_lair_pl",
+        "text": "bard",
+        "old_translation": "",
+        "translation": "诗人"
+    },
+    {
+        "id": "trp_skald_lair",
+        "text": "Skald_Bragi",
+        "old_translation": "",
+        "translation": "颂诗人布拉吉"
+    },
+    {
+        "id": "trp_skald_lair_pl",
+        "text": "bard",
+        "old_translation": "",
+        "translation": "诗人"
+    },
+    {
+        "id": "trp_quastuosa_lair1",
+        "text": "Suaibsech",
+        "old_translation": "",
+        "translation": "苏艾布塞克"
+    },
+    {
+        "id": "trp_quastuosa_lair1_pl",
+        "text": "quastuosa",
+        "old_translation": "",
+        "translation": "妓女"
+    },
+    {
+        "id": "trp_quastuosa_lair2",
+        "text": "Tancoystl",
+        "old_translation": "",
+        "translation": "坦柯斯提"
+    },
+    {
+        "id": "trp_quastuosa_lair2_pl",
+        "text": "quastuosa",
+        "old_translation": "",
+        "translation": "妓女"
+    },
+    {
+        "id": "trp_quastuosa_lair3",
+        "text": "Gulla",
+        "old_translation": "",
+        "translation": "古拉"
+    },
+    {
+        "id": "trp_quastuosa_lair3_pl",
+        "text": "quastuosa",
+        "old_translation": "",
+        "translation": "妓女"
+    },
+    {
+        "id": "trp_quastuosa_lair4",
+        "text": "Eadgyd",
+        "old_translation": "",
+        "translation": "艾德济"
+    },
+    {
+        "id": "trp_quastuosa_lair4_pl",
+        "text": "quastuosa",
+        "old_translation": "",
+        "translation": "妓女"
+    },
+    {
+        "id": "trp_lair_barber1",
+        "text": "Aurelius",
+        "old_translation": "",
+        "translation": "阿乌雷利乌斯"
+    },
+    {
+        "id": "trp_lair_barber1_pl",
+        "text": "Aurelius",
+        "old_translation": "",
+        "translation": "阿乌雷利乌斯"
+    },
+    {
+        "id": "trp_lair_barber2",
+        "text": "Morgan",
+        "old_translation": "",
+        "translation": "莫根"
+    },
+    {
+        "id": "trp_lair_barber2_pl",
+        "text": "Morgan",
+        "old_translation": "",
+        "translation": "莫根"
+    },
+    {
+        "id": "trp_lair_barber3",
+        "text": "Alexander",
+        "old_translation": "",
+        "translation": "亚历山大"
+    },
+    {
+        "id": "trp_lair_barber3_pl",
+        "text": "Alexander",
+        "old_translation": "",
+        "translation": "亚历山大"
+    },
+    {
+        "id": "trp_lair_barber4",
+        "text": "Ailill",
+        "old_translation": "",
+        "translation": "阿伊尔"
+    },
+    {
+        "id": "trp_lair_barber4_pl",
+        "text": "Ailill",
+        "old_translation": "",
+        "translation": "阿伊尔"
+    },
+    {
+        "id": "trp_cook_lair",
+        "text": "Wamba",
+        "old_translation": "",
+        "translation": "万巴"
+    },
+    {
+        "id": "trp_cook_lair_pl",
+        "text": "Cook",
+        "old_translation": "",
+        "translation": "厨师"
+    },
+    {
+        "id": "trp_lair_captain",
+        "text": "Marcus",
+        "old_translation": "",
+        "translation": "马库斯"
+    },
+    {
+        "id": "trp_lair_captain_pl",
+        "text": "Lair_Captains",
+        "old_translation": "",
+        "translation": "据点主管"
+    },
+    {
+        "id": "trp_mule_troop",
+        "text": "The_Frog",
+        "old_translation": "",
+        "translation": "“青蛙”"
+    },
+    {
+        "id": "trp_mule_troop_pl",
+        "text": "The_Frog",
+        "old_translation": "",
+        "translation": "“青蛙”"
+    },
+    {
+        "id": "trp_leader_playerrf",
+        "text": "Veteran",
+        "old_translation": "",
+        "translation": "老兵"
+    },
+    {
+        "id": "trp_leader_playerrf_pl",
+        "text": "Veteran",
+        "old_translation": "",
+        "translation": "老兵"
+    },
+    {
+        "id": "trp_mountain_bandit_leader",
+        "text": "Wolf_Heart",
+        "old_translation": "",
+        "translation": "狼心"
+    },
+    {
+        "id": "trp_mountain_bandit_leader_pl",
+        "text": "Wolf_Heart",
+        "old_translation": "",
+        "translation": "狼心"
+    },
+    {
+        "id": "trp_last_druid",
+        "text": "Druid",
+        "old_translation": "",
+        "translation": "德鲁伊"
+    },
+    {
+        "id": "trp_last_druid_pl",
+        "text": "Druid",
+        "old_translation": "",
+        "translation": "德鲁伊"
+    },
+    {
+        "id": "trp_old_roman",
+        "text": "Old_Roman",
+        "old_translation": "",
+        "translation": "老罗马人"
+    },
+    {
+        "id": "trp_old_roman_pl",
+        "text": "Old_Roman",
+        "old_translation": "",
+        "translation": "老罗马人"
+    },
+    {
+        "id": "trp_sea_raider_hero2",
+        "text": "Captain_Hero",
+        "old_translation": "",
+        "translation": "英雄队长"
+    },
+    {
+        "id": "trp_sea_raider_hero2_pl",
+        "text": "Captain_Hero",
+        "old_translation": "",
+        "translation": "英雄队长"
+    },
+    {
+        "id": "trp_desert_bandit_hero",
+        "text": "Bandit_King",
+        "old_translation": "",
+        "translation": "强盗王"
+    },
+    {
+        "id": "trp_desert_bandit_hero_pl",
+        "text": "Bandits_Kings",
+        "old_translation": "",
+        "translation": "强盗王"
+    },
+    {
+        "id": "trp_troll_bridge",
+        "text": "Huge_Man",
+        "old_translation": "",
+        "translation": "巨人"
+    },
+    {
+        "id": "trp_troll_bridge_pl",
+        "text": "Huge_Man",
+        "old_translation": "",
+        "translation": "巨人"
+    },
+    {
+        "id": "trp_elf_riddles",
+        "text": "Short_Man",
+        "old_translation": "",
+        "translation": "矮人"
+    },
+    {
+        "id": "trp_elf_riddles_pl",
+        "text": "Short_Man",
+        "old_translation": "",
+        "translation": "矮人"
+    },
+    {
+        "id": "trp_silo_gallaecia",
+        "text": "Comes_Silo_of_Gallaecia",
+        "old_translation": "",
+        "translation": "加雷西亚的西诺伯爵"
+    },
+    {
+        "id": "trp_silo_gallaecia_pl",
+        "text": "Silo_of_Gallaecia",
+        "old_translation": "",
+        "translation": "加雷西亚的西诺"
+    },
+    {
+        "id": "trp_petrus_didaz",
+        "text": "Dux_Petrus_Didaz",
+        "old_translation": "",
+        "translation": "柏图斯·迪亚兹公爵"
+    },
+    {
+        "id": "trp_petrus_didaz_pl",
+        "text": "Dux_Petro_of_Oveto",
+        "old_translation": "",
+        "translation": "奥维图的柏图公爵"
+    },
+    {
+        "id": "trp_gundinsalvo_cantabrian",
+        "text": "Comes_Gundinsalvo_of_Amaia",
+        "old_translation": "",
+        "translation": "阿迈亚的甘迪索瓦尔伯爵"
+    },
+    {
+        "id": "trp_gundinsalvo_cantabrian_pl",
+        "text": "Comes_Gundinsalvo_of_Amaia",
+        "old_translation": "",
+        "translation": "阿迈亚的甘迪索瓦尔伯爵"
+    },
+    {
+        "id": "trp_port_crew",
+        "text": "Old_Sea_Captain",
+        "old_translation": "",
+        "translation": "老船长"
+    },
+    {
+        "id": "trp_port_crew_pl",
+        "text": "SR_Captains",
+        "old_translation": "",
+        "translation": "SR船长"
+    },
+    {
+        "id": "trp_port_pirate",
+        "text": "Slave_Trader",
+        "old_translation": "",
+        "translation": "奴隶商人"
+    },
+    {
+        "id": "trp_port_pirate_pl",
+        "text": "Slave_Traders",
+        "old_translation": "",
+        "translation": "奴隶贩子"
+    },
+    {
+        "id": "trp_fisher",
+        "text": "Fisher",
+        "old_translation": "",
+        "translation": "渔夫"
+    },
+    {
+        "id": "trp_fisher_pl",
+        "text": "Fishers",
+        "old_translation": "",
+        "translation": "渔夫"
+    },
+    {
+        "id": "trp_thiaderd",
+        "text": "Thiaderd",
+        "old_translation": "",
+        "translation": "提亚德尔"
+    },
+    {
+        "id": "trp_thiaderd_pl",
+        "text": "Thiaderd",
+        "old_translation": "",
+        "translation": "提亚德尔"
+    },
+    {
+        "id": "trp_sea_raider_prisoner",
+        "text": "Ship_Captain",
+        "old_translation": "",
+        "translation": "船长"
+    },
+    {
+        "id": "trp_sea_raider_prisoner_pl",
+        "text": "Captains",
+        "old_translation": "",
+        "translation": "船长"
+    },
+    {
+        "id": "trp_doccinga_torturador",
+        "text": "Torturer",
+        "old_translation": "",
+        "translation": "拷打者"
+    },
+    {
+        "id": "trp_doccinga_torturador_pl",
+        "text": "Torturers",
+        "old_translation": "",
+        "translation": "拷打者"
+    },
+    {
+        "id": "trp_leader_svenlair",
+        "text": "Harald",
+        "old_translation": "",
+        "translation": "哈拉尔"
+    },
+    {
+        "id": "trp_leader_svenlair_pl",
+        "text": "Captains",
+        "old_translation": "",
+        "translation": "船长"
+    },
+    {
+        "id": "trp_farmstead_prisoner",
+        "text": "Prisoner",
+        "old_translation": "",
+        "translation": "俘虏"
+    },
+    {
+        "id": "trp_farmstead_prisoner_pl",
+        "text": "Prisoner",
+        "old_translation": "",
+        "translation": "俘虏"
+    },
+    {
+        "id": "trp_sven_brother",
+        "text": "Olvir_White_Hair",
+        "old_translation": "",
+        "translation": "“白发”奥利维"
+    },
+    {
+        "id": "trp_sven_brother_pl",
+        "text": "Olvir",
+        "old_translation": "",
+        "translation": "奥维尔"
+    },
+    {
+        "id": "trp_atli_eiriksson",
+        "text": "Atli_Eiriksson",
+        "old_translation": "",
+        "translation": "阿提利·埃里克松"
+    },
+    {
+        "id": "trp_atli_eiriksson_pl",
+        "text": "Atli",
+        "old_translation": "",
+        "translation": "阿特利"
+    },
+    {
+        "id": "trp_sven_bull_neck",
+        "text": "Sven_Bull_Neck",
+        "old_translation": "",
+        "translation": "“牛颈”斯温"
+    },
+    {
+        "id": "trp_sven_bull_neck_pl",
+        "text": "Sven",
+        "old_translation": "",
+        "translation": "斯温"
+    },
+    {
+        "id": "trp_frisianship_merchant",
+        "text": "Captain",
+        "old_translation": "",
+        "translation": "船长"
+    },
+    {
+        "id": "trp_sailors",
+        "text": "Woden_Ric_Sailor",
+        "old_translation": "",
+        "translation": "沃登里克号水手"
+    },
+    {
+        "id": "trp_sailors_pl",
+        "text": "Woden_Ric_Sailors",
+        "old_translation": "",
+        "translation": "沃登里克号水手"
+    },
+    {
+        "id": "trp_mercenary_arqueros",
+        "text": "Mercenary_Archer",
+        "old_translation": "",
+        "translation": "雇佣弓箭手"
+    },
+    {
+        "id": "trp_mercenary_arqueros_pl",
+        "text": "Mercenary_Archers",
+        "old_translation": "",
+        "translation": "雇佣弓箭手"
+    },
+    {
+        "id": "trp_bodo_falso",
+        "text": "Bodo",
+        "old_translation": "",
+        "translation": "博多"
+    },
+    {
+        "id": "trp_bodo_falso_pl",
+        "text": "Bodo",
+        "old_translation": "",
+        "translation": "博多"
+    },
+    {
+        "id": "trp_your_tutorialwife",
+        "text": "Mother",
+        "old_translation": "",
+        "translation": "母亲"
+    },
+    {
+        "id": "trp_your_tutorialwife_pl",
+        "text": "Mother",
+        "old_translation": "",
+        "translation": "母亲"
+    },
+    {
+        "id": "trp_your_motherold",
+        "text": "Aged_Mother",
+        "old_translation": "",
+        "translation": "年迈的母亲"
+    },
+    {
+        "id": "trp_your_motherold_pl",
+        "text": "Aged_Mother",
+        "old_translation": "",
+        "translation": "年迈的母亲"
+    },
+    {
+        "id": "trp_ulf_thefarmer",
+        "text": "Ulf",
+        "old_translation": "",
+        "translation": "乌尔夫"
+    },
+    {
+        "id": "trp_hija_granja",
+        "text": "Thora",
+        "old_translation": "",
+        "translation": "索拉"
+    },
+    {
+        "id": "trp_hija_granja_pl",
+        "text": "Thora",
+        "old_translation": "",
+        "translation": "索拉"
+    },
+    {
+        "id": "trp_orm_robagranjas",
+        "text": "Orm_Svarti",
+        "old_translation": "",
+        "translation": "奥姆·斯瓦蒂"
+    },
+    {
+        "id": "trp_orm_robagranjas_pl",
+        "text": "Orm_Svarti",
+        "old_translation": "",
+        "translation": "奥姆·斯瓦蒂"
+    },
+    {
+        "id": "trp_pagano",
+        "text": "Godi_Olafr",
+        "old_translation": "",
+        "translation": "戈迪·奥拉夫"
+    },
+    {
+        "id": "trp_pagano_pl",
+        "text": "Sacerdote",
+        "old_translation": "",
+        "translation": "神父"
+    },
+    {
+        "id": "trp_pseudo_troop_01",
+        "text": "Gjalfrmarr",
+        "old_translation": "",
+        "translation": "贾尔弗马尔"
+    },
+    {
+        "id": "trp_pseudo_troop_01_pl",
+        "text": "pt",
+        "old_translation": "",
+        "translation": "特"
+    },
+    {
+        "id": "trp_pseudo_troop_02",
+        "text": "Eydendr",
+        "old_translation": "",
+        "translation": "艾登德"
+    },
+    {
+        "id": "trp_pseudo_troop_02_pl",
+        "text": "pt",
+        "old_translation": "",
+        "translation": "特"
+    },
+    {
+        "id": "trp_pseudo_troop_03",
+        "text": "Gunnmas",
+        "old_translation": "",
+        "translation": "冈纳斯"
+    },
+    {
+        "id": "trp_pseudo_troop_03_pl",
+        "text": "pt",
+        "old_translation": "",
+        "translation": "特"
+    },
+    {
+        "id": "trp_pseudo_troop_04",
+        "text": "Sundvargs",
+        "old_translation": "",
+        "translation": "森德瓦尔格斯"
+    },
+    {
+        "id": "trp_pseudo_troop_04_pl",
+        "text": "pt",
+        "old_translation": "",
+        "translation": "特"
+    },
+    {
+        "id": "trp_pseudo_troop_05",
+        "text": "Unnswin",
+        "old_translation": "",
+        "translation": "乌恩斯温"
+    },
+    {
+        "id": "trp_pseudo_troop_05_pl",
+        "text": "pt",
+        "old_translation": "",
+        "translation": "特"
+    },
+    {
+        "id": "trp_pseudo_troop_06",
+        "text": "Bengrefill",
+        "old_translation": "",
+        "translation": "本格雷菲尔"
+    },
+    {
+        "id": "trp_pseudo_troop_06_pl",
+        "text": "pt",
+        "old_translation": "",
+        "translation": "特"
+    },
+    {
+        "id": "trp_pseudo_troop_07",
+        "text": "Elgslagar",
+        "old_translation": "",
+        "translation": "埃尔格斯拉格"
+    },
+    {
+        "id": "trp_pseudo_troop_07_pl",
+        "text": "pt",
+        "old_translation": "",
+        "translation": "特"
+    },
+    {
+        "id": "trp_pseudo_troop_08",
+        "text": "Arajo",
+        "old_translation": "",
+        "translation": "阿拉霍"
+    },
+    {
+        "id": "trp_pseudo_troop_08_pl",
+        "text": "pt",
+        "old_translation": "",
+        "translation": "特"
+    },
+    {
+        "id": "trp_pseudo_troop_09",
+        "text": "Byrskids",
+        "old_translation": "",
+        "translation": "比尔斯基德"
+    },
+    {
+        "id": "trp_pseudo_troop_09_pl",
+        "text": "pt",
+        "old_translation": "",
+        "translation": "特"
+    },
+    {
+        "id": "trp_pseudo_troop_end",
+        "text": "Second_Outfit",
+        "old_translation": "",
+        "translation": "伪军"
+    },
+    {
+        "id": "trp_pseudo_troop_end_pl",
+        "text": "pseudo_troop_end",
+        "old_translation": "",
+        "translation": "伪军结束"
+    },
+    {
+        "id": "trp_the_snake",
+        "text": "The_Snake",
+        "old_translation": "",
+        "translation": "“蛇”"
+    },
+    {
+        "id": "trp_the_snake_pl",
+        "text": "The_Snake",
+        "old_translation": "",
+        "translation": "“蛇”"
+    },
+    {
+        "id": "trp_campeon_1",
+        "text": "Aed_mac_Ainmerech",
+        "old_translation": "",
+        "translation": "艾德·麦·艾门奇"
+    },
+    {
+        "id": "trp_campeon_1_pl",
+        "text": "Aed_mac_Ainmerech",
+        "old_translation": "",
+        "translation": "艾德·麦·艾门奇"
+    },
+    {
+        "id": "trp_campeon_2",
+        "text": "Olchobar_mac_Cinaeda",
+        "old_translation": "",
+        "translation": "奥乔巴·麦·辛奈德"
+    },
+    {
+        "id": "trp_campeon_2_pl",
+        "text": "Olchobar_mac_Cinaeda",
+        "old_translation": "",
+        "translation": "奥乔巴·麦·辛奈德"
+    },
+    {
+        "id": "trp_slave",
+        "text": "Slave",
+        "old_translation": "",
+        "translation": "奴隶"
+    },
+    {
+        "id": "trp_slave_pl",
+        "text": "Slaves",
+        "old_translation": "",
+        "translation": "奴隶"
+    },
+    {
+        "id": "trp_morrigan_npc",
+        "text": "Morrigan",
+        "old_translation": "",
+        "translation": "莫莉甘"
+    },
+    {
+        "id": "trp_morrigan_npc_pl",
+        "text": "Morrigan",
+        "old_translation": "",
+        "translation": "莫莉甘"
+    },
+    {
+        "id": "trp_dog",
+        "text": "Dog",
+        "old_translation": "",
+        "translation": "狗"
+    },
+    {
+        "id": "trp_dog_pl",
+        "text": "Dogs",
+        "old_translation": "",
+        "translation": "狗"
+    },
+    {
+        "id": "trp_caliacas_son",
+        "text": "Bran_mac_Caliacas",
+        "old_translation": "",
+        "translation": "布兰·麦·卡利卡斯"
+    },
+    {
+        "id": "trp_caliacas_son_pl",
+        "text": "Bran_mac_Caliacas",
+        "old_translation": "",
+        "translation": "布兰·麦·卡利卡斯"
+    },
+    {
+        "id": "trp_maelbresail_man",
+        "text": "Fergus_mac_Cormaic",
+        "old_translation": "",
+        "translation": "费格斯·麦·科马克"
+    },
+    {
+        "id": "trp_maelbresail_man_pl",
+        "text": "Fergus_mac_Cormaic",
+        "old_translation": "",
+        "translation": "费格斯·麦·科马克"
+    },
+    {
+        "id": "trp_maelbressail_nother",
+        "text": "Mael_Bresail's_Mother",
+        "old_translation": "",
+        "translation": "梅尔·普雷西尔的母亲"
+    },
+    {
+        "id": "trp_maelbressail_nother_pl",
+        "text": "Mael_Bresail's_Mother",
+        "old_translation": "",
+        "translation": "梅尔·普雷西尔的母亲"
+    },
+    {
+        "id": "trp_mp_norse_peasant",
+        "text": "Peasant",
+        "old_translation": "",
+        "translation": "农民"
+    },
+    {
+        "id": "trp_mp_norse_peasant_pl",
+        "text": "Peasant",
+        "old_translation": "",
+        "translation": "农民"
+    },
+    {
+        "id": "trp_mp_saxon_peasant",
+        "text": "Peasant",
+        "old_translation": "",
+        "translation": "农民"
+    },
+    {
+        "id": "trp_mp_saxon_peasant_pl",
+        "text": "Peasant",
+        "old_translation": "",
+        "translation": "农民"
+    },
+    {
+        "id": "trp_mp_angle_peasant",
+        "text": "Peasant",
+        "old_translation": "",
+        "translation": "农民"
+    },
+    {
+        "id": "trp_mp_angle_peasant_pl",
+        "text": "Peasant",
+        "old_translation": "",
+        "translation": "农民"
+    },
+    {
+        "id": "trp_mp_briton_peasant",
+        "text": "Peasant",
+        "old_translation": "",
+        "translation": "农民"
+    },
+    {
+        "id": "trp_mp_briton_peasant_pl",
+        "text": "Peasant",
+        "old_translation": "",
+        "translation": "农民"
+    },
+    {
+        "id": "trp_mp_irish_peasant",
+        "text": "Peasant",
+        "old_translation": "",
+        "translation": "农民"
+    },
+    {
+        "id": "trp_mp_irish_peasant_pl",
+        "text": "Peasant",
+        "old_translation": "",
+        "translation": "农民"
+    },
+    {
+        "id": "trp_mp_scotch_peasant",
+        "text": "Peasant",
+        "old_translation": "",
+        "translation": "农民"
+    },
+    {
+        "id": "trp_mp_scotch_peasant_pl",
+        "text": "Peasant",
+        "old_translation": "",
+        "translation": "农民"
+    },
+    {
+        "id": "trp_mp_norse_infantry",
+        "text": "Norse_Infantry",
+        "old_translation": "",
+        "translation": "诺斯步兵"
+    },
+    {
+        "id": "trp_mp_norse_archer",
+        "text": "Norse_Archer",
+        "old_translation": "",
+        "translation": "诺斯弓箭手"
+    },
+    {
+        "id": "trp_mp_norse_cavalry",
+        "text": "Norse_Cavalry",
+        "old_translation": "",
+        "translation": "诺斯骑兵"
+    },
+    {
+        "id": "trp_mp_saxon_infantry",
+        "text": "Saxon_Infantry",
+        "old_translation": "",
+        "translation": "撒克逊步兵"
+    },
+    {
+        "id": "trp_mp_saxon_archer",
+        "text": "Saxon_Archer",
+        "old_translation": "",
+        "translation": "撒克逊弓箭手"
+    },
+    {
+        "id": "trp_mp_saxon_cavalry",
+        "text": "Saxon_Cavalry",
+        "old_translation": "",
+        "translation": "撒克逊骑兵"
+    },
+    {
+        "id": "trp_mp_angle_infantry",
+        "text": "Angle_Infantry",
+        "old_translation": "",
+        "translation": "盎格鲁步兵"
+    },
+    {
+        "id": "trp_mp_angle_archer",
+        "text": "Angle_Archer",
+        "old_translation": "",
+        "translation": "盎格鲁弓箭手"
+    },
+    {
+        "id": "trp_mp_angle_cavalry",
+        "text": "Angle_Cavalry",
+        "old_translation": "",
+        "translation": "盎格鲁骑兵"
+    },
+    {
+        "id": "trp_mp_briton_infantry",
+        "text": "Brittonic_Infantry",
+        "old_translation": "",
+        "translation": "布立吞步兵"
+    },
+    {
+        "id": "trp_mp_briton_archer",
+        "text": "Brittonic_Archer",
+        "old_translation": "",
+        "translation": "布立吞弓箭手"
+    },
+    {
+        "id": "trp_mp_briton_cavalry",
+        "text": "Brittonic_Cavalry",
+        "old_translation": "",
+        "translation": "布立吞骑兵"
+    },
+    {
+        "id": "trp_mp_irish_infantry",
+        "text": "Goidelic_Infantry",
+        "old_translation": "",
+        "translation": "盖尔步兵"
+    },
+    {
+        "id": "trp_mp_irish_archer",
+        "text": "Goidelic_Archer",
+        "old_translation": "",
+        "translation": "盖尔弓箭手"
+    },
+    {
+        "id": "trp_mp_irish_cavalry",
+        "text": "Goidelic_Cavalry",
+        "old_translation": "",
+        "translation": "盖尔骑兵"
+    },
+    {
+        "id": "trp_mp_scotch_infantry",
+        "text": "Pictish_Infantry",
+        "old_translation": "",
+        "translation": "皮克特步兵"
+    },
+    {
+        "id": "trp_mp_scotch_archer",
+        "text": "Pictish_Archer",
+        "old_translation": "",
+        "translation": "皮克特弓箭手"
+    },
+    {
+        "id": "trp_mp_scotch_cavalry",
+        "text": "Pictish_Cavalry",
+        "old_translation": "",
+        "translation": "皮克特骑兵"
+    },
+    {
+        "id": "trp_norse_peasant_ai",
+        "text": "Norse_Freedman_(Leysingi)",
+        "old_translation": "",
+        "translation": "诺斯自由民（赎身奴隶）"
+    },
+    {
+        "id": "trp_norse_peasant_ai_pl",
+        "text": "Norse_Freedmen_(Leysingja)",
+        "old_translation": "",
+        "translation": "诺斯自由民（赎身奴隶）"
+    },
+    {
+        "id": "trp_saxon_peasant_ai",
+        "text": "Saxon_Peasant_(Gebur)",
+        "old_translation": "",
+        "translation": "撒克逊自由民（佃农）"
+    },
+    {
+        "id": "trp_saxon_peasant_ai_pl",
+        "text": "Peasants_(Geburas)",
+        "old_translation": "",
+        "translation": "盎格鲁自由民（佃农）"
+    },
+    {
+        "id": "trp_angle_peasant_ai",
+        "text": "Angle_Peasant_(Gebur)",
+        "old_translation": "",
+        "translation": "盎格鲁贫民（佃农）"
+    },
+    {
+        "id": "trp_angle_peasant_ai_pl",
+        "text": "Peasants_(Geburas)",
+        "old_translation": "",
+        "translation": "盎格鲁自由民（佃农）"
+    },
+    {
+        "id": "trp_briton_peasant_ai",
+        "text": "Briton_Serf_(Aillt)",
+        "old_translation": "",
+        "translation": "布立吞农奴（流亡者）"
+    },
+    {
+        "id": "trp_briton_peasant_ai_pl",
+        "text": "Briton_Serfs_(Aillts)",
+        "old_translation": "",
+        "translation": "布立吞农奴（流亡者）"
+    },
+    {
+        "id": "trp_irish_peasant_ai",
+        "text": "Irish_Serf_(Senchleithe)",
+        "old_translation": "",
+        "translation": "爱尔兰农奴（世袭农奴）"
+    },
+    {
+        "id": "trp_irish_peasant_ai_pl",
+        "text": "Irish_Serfs_(Senchleithe)",
+        "old_translation": "",
+        "translation": "爱尔兰农奴（世袭农奴）"
+    },
+    {
+        "id": "trp_scotch_peasant_ai",
+        "text": "Pictish_Peasant_(Bachlach)",
+        "old_translation": "",
+        "translation": "皮克特贫民（奴仆）"
+    },
+    {
+        "id": "trp_scotch_peasant_ai_pl",
+        "text": "Peasants_(Bachlach)",
+        "old_translation": "",
+        "translation": "皮克特贫民（奴仆）"
+    },
+    {
+        "id": "trp_fake_berserker",
+        "text": "Berserkr",
+        "old_translation": "",
+        "translation": "熊皮狂战士"
+    },
+    {
+        "id": "trp_fake_berserker_pl",
+        "text": "Berserkir",
+        "old_translation": "",
+        "translation": "熊皮狂战士"
+    }
+]

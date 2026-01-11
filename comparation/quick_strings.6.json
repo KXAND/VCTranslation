@@ -1,706 +1,1058 @@
 [
     {
+        "id": "qstr_{reg1}_lords_will_los",
         "text": "{reg1}_lords_will_lose_track_of_you._They_must_embark_at_the_next_port_and_then_come_find_you.",
-        "translation": "有{reg1}个首领会在下个港口登陆并跟随你的踪迹与你会合。"
+        "old_translation": "{reg1}位领主将失去你的踪迹。他们必须在下一座港口登岸，再前来寻你。",
+        "translation": "{reg1}位领主将失去你的踪迹。他们必须在下一座港口登岸，再前来寻你。"
     },
     {
+        "id": "qstr_You_need_to_get_the_p",
         "text": "You_need_to_get_the_permission_of_the_lord_of_this_place_to_recruit_here.",
-        "translation": "当你获得村长的许可后才能在这里招募。"
+        "old_translation": "你必须取得此地领主的许可，才能在此募兵。",
+        "translation": "你必须取得此地领主的许可，才能在此募兵。"
     },
     {
+        "id": "qstr_a_lone_boar",
         "text": "a_lone_boar",
-        "translation": "落单的野猪"
+        "old_translation": "一头落单的野猪",
+        "translation": "一头落单的野猪"
     },
     {
+        "id": "qstr_a_herd_of_{reg6}_boa",
         "text": "a_herd_of_{reg6}_boar",
-        "translation": "{reg6}只野猪"
+        "old_translation": "一群{reg6}头野猪",
+        "translation": "一群{reg6}头野猪"
     },
     {
+        "id": "qstr_a_herd_of_{reg6}_wil",
         "text": "a_herd_of_{reg6}_wild_animals",
-        "translation": "{reg6}只野生动物"
+        "old_translation": "一群{reg6}只野生动物",
+        "translation": "一群{reg6}只野生动物"
     },
     {
+        "id": "qstr_You_successfully_hun",
         "text": "You_successfully_hunted_{reg6}_boar.",
-        "translation": "你成功猎到了{reg6}头野猪。"
+        "old_translation": "你成功猎获了{reg6}头野猪。",
+        "translation": "你成功猎获了{reg6}头野猪。"
     },
     {
+        "id": "qstr_You_have_lost_track_",
         "text": "You_have_lost_track_of_the_animals.",
+        "old_translation": "你跟丢了那些动物。",
         "translation": "你跟丢了那些动物。"
     },
     {
+        "id": "qstr_Choose_a_Goal^^^^{s1",
         "text": "Choose_a_Goal^^^^{s1}",
+        "old_translation": "选择一个目标^^^^{s1}",
         "translation": "选择一个目标^^^^{s1}"
     },
     {
+        "id": "qstr_Congratulations!^^^^",
         "text": "Congratulations!^^^^{s1}",
+        "old_translation": "恭喜！^^^^{s1}",
         "translation": "恭喜！^^^^{s1}"
     },
     {
+        "id": "qstr_You_have_obtained_th",
         "text": "You_have_obtained_the_prison_keys.",
-        "translation": "你得到监狱的钥匙。"
+        "old_translation": "你获得了监狱钥匙。",
+        "translation": "你获得了监狱钥匙。"
     },
     {
+        "id": "qstr_You_killed_the_ghost",
         "text": "You_killed_the_ghost",
+        "old_translation": "你杀死了幽灵。",
         "translation": "你杀死了幽灵。"
     },
     {
+        "id": "qstr_You_are_so_tired_you",
         "text": "You_are_so_tired_you_can_barely_move_a_muscle._You_can_inflict_only_half_damage,_and_you_can't_run.",
-        "translation": "你实在是太累了，简直无法挪动你的步子。你造成的伤害减半，并且无法奔跑。"
+        "old_translation": "你累到几乎挪不动步子，只能造成一半伤害，也无法奔跑。",
+        "translation": "你累到几乎挪不动步子，只能造成一半伤害，也无法奔跑。"
     },
     {
+        "id": "qstr_You_take_1_damage_fr",
         "text": "You_take_1_damage_from_blood_loss.",
-        "translation": "由于流血受到1点伤害。"
+        "old_translation": "你因流血受到1点伤害。",
+        "translation": "你因流血受到1点伤害。"
     },
     {
+        "id": "qstr_You_have_received_{reg",
         "text": "You_have_received_{reg5}_critical_damage_to_your_head_and_will_lose_vision_very_soon!",
-        "translation": "你的头部受到了{reg5}点暴击伤害并且暂时失去了视力！"
+        "old_translation": "你的头部遭到{reg5}点暴击，很快将失去视力！",
+        "translation": "你的头部遭到{reg5}点暴击，很快将失去视力！"
     },
     {
+        "id": "qstr_You_have_received_{reg5",
         "text": "You_have_received_{reg5}_critical_damage_to_your_body!",
-        "translation": "你的身体受到了{reg5}点暴击伤害！"
+        "old_translation": "你的身体遭到{reg5}点暴击！",
+        "translation": "你的身体遭到{reg5}点暴击！"
     },
     {
+        "id": "qstr_You_have_caused_{reg",
         "text": "You_have_caused_{reg5}_critical_extra_damage!",
-        "translation": "你造成了额外的{reg5}点暴击伤害！"
+        "old_translation": "你造成额外{reg5}点暴击伤害！",
+        "translation": "你造成额外{reg5}点暴击伤害！"
     },
     {
+        "id": "qstr_You_have_caused_{reg5",
         "text": "You_have_caused_{reg5}_critical_damage_to_your_enemy_from_behind!",
-        "translation": "你从敌人的背后袭击，造成了额外的{reg5}点暴击伤害！"
+        "old_translation": "你从背后袭击敌人，造成{reg5}点暴击伤害！",
+        "translation": "你从背后袭击敌人，造成{reg5}点暴击伤害！"
     },
     {
+        "id": "qstr_You_have_received_{reg5}",
         "text": "You_have_received_{reg5}_critical_damage_from_behind!",
-        "translation": "背部受袭，受到{reg5}点暴击伤害！"
+        "old_translation": "你从背后遭到袭击，受到{reg5}点暴击伤害！",
+        "translation": "你从背后遭到袭击，受到{reg5}点暴击伤害！"
     },
     {
+        "id": "qstr_You_suffer_a_serious",
         "text": "You_suffer_a_serious_injury_to_your_face._(-1_charisma)",
-        "translation": "你的脸上留了一道疤。（-1魅力）"
+        "old_translation": "你的脸部重伤，留下疤痕。（-1魅力）",
+        "translation": "你的脸部重伤，留下疤痕。（-1魅力）"
     },
     {
+        "id": "qstr_You_suffer_a_serious_",
         "text": "You_suffer_a_serious_injury_to_one_of_your_limbs._(-1_agility)",
-        "translation": "你的腿受了很严重的伤。（-1敏捷）"
+        "old_translation": "你的肢体重伤，行动受阻。（-1敏捷）",
+        "translation": "你的肢体重伤，行动受阻。（-1敏捷）"
     },
     {
+        "id": "qstr_You_suffer_a_serious_i",
         "text": "You_suffer_a_serious_injury_to_your_body._(-1_strength)",
-        "translation": "你的身体受了很严重的伤。（-1力量）"
+        "old_translation": "你受了重伤，身体受损。（-1力量）",
+        "translation": "你受了重伤，身体受损。（-1力量）"
     },
     {
+        "id": "qstr_Your_weapon_was_dama",
         "text": "Your_weapon_was_damaged!",
-        "translation": "你的武器损坏了。"
+        "old_translation": "你的武器受损了！",
+        "translation": "你的武器受损了！"
     },
     {
+        "id": "qstr_Your_weapon_broke!",
         "text": "Your_weapon_broke!",
+        "old_translation": "你的武器断了！",
         "translation": "你的武器断了！"
     },
     {
+        "id": "qstr_Your_{s1}_was_damage",
         "text": "Your_{s1}_was_damaged!",
-        "translation": "你的{s1}受到了伤害！"
+        "old_translation": "你的{s1}受损了！",
+        "translation": "你的{s1}受损了！"
     },
     {
+        "id": "qstr_{s33}_changes_weapon",
         "text": "{s33}_changes_weapons",
-        "translation": "{s33}更换了武器。"
+        "old_translation": "{s33}更换了武器",
+        "translation": "{s33}更换了武器"
     },
     {
+        "id": "qstr_You_call_your_horse.",
         "text": "You_call_your_horse...",
-        "translation": "唤马..."
+        "old_translation": "你呼唤战马……",
+        "translation": "你呼唤战马……"
     },
     {
+        "id": "qstr_We_lost_a_quarter_of",
         "text": "We_lost_a_quarter_of_our_troops_in_a_very_short_time._The_hearts_of_our_troops_are_filled_with_fear.",
-        "translation": "我们很快就损失了四分之一的人手，士兵们的心中充满了恐惧！"
+        "old_translation": "我们很快就损失了四分之一的人手，士兵们心中充满恐惧。",
+        "translation": "我们眨眼就折了四分之一兵力，士兵心里满是恐惧。"
     },
     {
+        "id": "qstr_Half_of_our_army_has",
         "text": "Half_of_our_army_has_fallen_within_a_very_short_time._The_troops_panic!",
-        "translation": "我们很快就损失了一半的人马，士兵们陷入了恐慌之中！"
+        "old_translation": "我们很快就损失了一半的人马，士兵们陷入恐慌！",
+        "translation": "顷刻间我军已折一半，士兵大乱！"
     },
     {
+        "id": "qstr_The_enemy_lost_a_qua",
         "text": "The_enemy_lost_a_quarter_of_his_troops_in_a_very_short_time._The_hearts_of_his_troops_are_filled_with_fear.",
-        "translation": "敌人四分之一的兵力很快就被我方歼灭！敌人的士兵现在十分恐惧！"
+        "old_translation": "敌人四分之一的兵力很快就被歼灭，敌军士兵心生恐惧！",
+        "translation": "敌军眨眼就少了四分之一，敌兵心生惧意。"
     },
     {
+        "id": "qstr_Half_of_the_enemy_ar",
         "text": "Half_of_the_enemy_army_has_fallen_within_a_very_short_time._His_troops_panic.",
-        "translation": "我方很快就杀掉了一半的敌军！敌人陷入了恐慌！"
+        "old_translation": "敌军一半兵力顷刻覆灭，敌人陷入恐慌！",
+        "translation": "敌军一半兵力顷刻覆灭，他们陷入恐慌！"
     },
     {
+        "id": "qstr_You_fall_and_your_tr",
         "text": "You_fall_and_your_troops_panic!",
-        "translation": "你倒下了，你的队伍陷入了恐慌！"
+        "old_translation": "你倒下了，你的队伍陷入恐慌！",
+        "translation": "你倒下，队伍顿时慌乱！"
     },
     {
+        "id": "qstr_Our_side_lost_a_lead",
         "text": "Our_side_lost_a_leader._Our_troops_panic!",
-        "translation": "我们失去了一位首领，士兵陷入了慌乱！"
+        "old_translation": "我们失去了一位首领，士兵陷入慌乱！",
+        "translation": "我方失去首领，士兵惊惶！"
     },
     {
+        "id": "qstr_The_enemy_lost_a_lea",
         "text": "The_enemy_lost_a_leader._Their_troops_panic!",
-        "translation": "敌人失去了首领，他们现在乱作一团！"
+        "old_translation": "敌人失去首领，他们乱作一团！",
+        "translation": "敌人失去首领，他们乱作一团！"
     },
     {
+        "id": "qstr__{reg3}",
         "text": "_{reg3}",
+        "old_translation": "{reg3}",
         "translation": "{reg3}"
     },
     {
+        "id": "qstr_You_have_fallen.__Pr",
         "text": "You_have_fallen._(Press_tab_key_to_leave)",
+        "old_translation": "你被击倒了。（按Tab键离开）",
         "translation": "你被击倒了。（按Tab键离开）"
     },
     {
+        "id": "qstr_Scout_report:_We_ve_",
         "text": "Scout_report:_We've_reached_an_ancient_monument_--_rows_of_stones_--_but_the_real_obstacle_is_the_enemy_lined_up_beyond_the_brook.^^You_reply:_Rows_of_stones,_you_say?_Let_us_make_them_tombstones_for_the_enemy,_then!",
-        "translation": "侦察兵报告：我们到达了一处古代遗迹——一排排的巨石——不过真正的障碍是在小溪另一侧列阵的敌军。^^你的回复：一排排的石头？那么正好，就用这些石头来当敌人的墓碑吧！"
+        "old_translation": "侦察兵报告：我们抵达一处古遗迹——成排巨石——真正的阻碍是小溪对岸列阵的敌军。^^你回应：成排石头？那就让它们成为敌人的墓碑吧！",
+        "translation": "侦察兵回报：我们抵达一处古遗迹——成排巨石——真正的阻碍是小溪对岸列阵的敌军。^^你答：成排石头？那就让它们成为敌人的墓碑！"
     },
     {
+        "id": "qstr_Scout_report:_A_bog_",
         "text": "Scout_report:_A_bog_lies_before_us,_so_we_must_be_wary._Stay_on_the_path!^^A_man_tugs_on_your_sleeve:_What_is_that_in_the_trees_up_ahead?_Evil_lurks_here.",
-        "translation": "侦察兵报告：前方路上躺着一只狗，我们得保持谨慎。不要离开道路！^^一个士兵紧紧抓住你的袖子：前方树林里的东西是什么？这里暗藏着邪恶。"
+        "old_translation": "侦察兵报告：前方是沼泽，务必小心。别离开道路！^^一名士兵拽住你袖子：前方林子里是什么？这里潜伏着邪恶。",
+        "translation": "侦察兵回报：前方是沼泽，务必小心，别离开道路！^^一名士兵拽你袖子：前面林子里是什么？此处有邪祟潜伏。"
     },
     {
+        "id": "qstr_While_exploring_an_a",
         "text": "While_exploring_an_abandoned_Roman_fort,_the_scout_informs_you:_Commander,_we_cannot_linger_here_much_longer._The_enemy_is_spotted_behind_the_hill._What_are_your_orders?",
-        "translation": "当你们探索一处古罗马时期的要塞时，侦察兵提醒你说：指挥官，我们不能在此逗留了，敌人出现于小山的后方。您的命令是？"
+        "old_translation": "探索废弃罗马堡垒时，侦察兵禀报：指挥官，不能久留，敌人已出现在山后。请下令！",
+        "translation": "探索废弃罗马堡垒时，侦察兵急报：指挥官，不能久留，敌人已出现在山后，请下令！"
     },
     {
+        "id": "qstr_Stretched_out_before",
         "text": "Stretched_out_before_you_as_far_as_the_eye_can_see_stand_the_remains_of_a_once_great_wall._The_enemy_has_taken_up_position_just_on_the_other_side.^^A_witty_person_next_to_you_mutters:_Let's_hope_it_will_protect_us_better_than_it_did_the_Romans.",
-        "translation": "你目光所及之处伫立着曾经一度辉煌的城墙遗迹，敌人占据了它的另外一边。^^一个人在你身边小声嘀咕道：希望它们能保护我们而不是重蹈罗马人的覆辙。"
+        "old_translation": "眼前尽是一段昔日宏伟城墙的残垣，敌人就在墙后布阵。^^身旁有人低声打趣：希望这墙这次能护住我们，别再像护罗马人那样失败。",
+        "translation": "眼前尽是一段昔日宏伟城墙的残垣，敌人就在墙后布阵。^^身旁有人低声打趣：但愿这墙这次能护住我们，别再像护罗马人那样不顶用。"
     },
     {
+        "id": "qstr_The_scout_returns_an",
         "text": "The_scout_returns_and_informs_you,_'The_enemy_is_spotted_behind_the_village._The_villagers_have_fled_the_fields_and_sought_safety_in_one_of_the_houses._They_know_all_too_well_the_horrors_of_war.'^^'As_do_we..._As_do_we...'_you_find_yourself_mumbling.",
-        "translation": "侦察兵返回并提醒你道：“侦察到敌军在村庄后方。村民们已经逃离了这里并且躲到了安全的地方——他们实在是深谙战争的恐怖。”^^“我们也是啊，我们也是…”，你喃喃道。"
+        "old_translation": "侦察兵回报：“敌军在村庄后方出现。村民已逃离田野，躲进屋内避难。他们深知战争的恐怖。”^^“我们也一样……我们也一样……”你喃喃自语。",
+        "translation": "侦察兵回报：“敌军在村庄后方出现，村民已逃离田野，躲进屋内避难，他们深知战争的恐怖。”^^“我们也一样……我们也一样……”你喃喃自语。"
     },
     {
+        "id": "qstr_Camera_follow_terrai",
         "text": "Camera_follow_terrain_mode_ON.",
-        "translation": "视角跟随地形模式打开。"
+        "old_translation": "摄影机跟随地形模式开启。",
+        "translation": "摄影机跟随地形模式开启。"
     },
     {
+        "id": "qstr_Camera_follow_terrain",
         "text": "Camera_follow_terrain_mode_OFF.",
-        "translation": "视角跟随地形模式关闭。"
+        "old_translation": "摄影机跟随地形模式关闭。",
+        "translation": "摄影机跟随地形模式关闭。"
     },
     {
+        "id": "qstr_Camera_rotate_before",
         "text": "Camera_rotate_before_pan_ON.",
-        "translation": "视角旋转打开。"
+        "old_translation": "摄影机先旋转再平移开启。",
+        "translation": "摄影机先旋转再平移开启。"
     },
     {
+        "id": "qstr_Camera_rotate_before_",
         "text": "Camera_rotate_before_pan_OFF.",
-        "translation": "视角旋转关闭。"
+        "old_translation": "摄影机先旋转再平移关闭。",
+        "translation": "摄影机先旋转再平移关闭。"
     },
     {
+        "id": "qstr_{s0}^^A_Battle_Comma",
         "text": "{s0}^^A_Battle_Command_Display_is_often_available_by_pressing_the_{s1}_key.",
-        "translation": "{s0}^^作战指挥通常是按{s1}键。"
+        "old_translation": "{s0}^^作战指挥通常可按{s1}键呼出。",
+        "translation": "{s0}^^作战指挥通常可按{s1}键呼出。"
     },
     {
+        "id": "qstr_Strategy_Camera",
         "text": "Strategy_Camera",
+        "old_translation": "战略视角",
         "translation": "战略视角"
     },
     {
+        "id": "qstr_Tactical_Controls",
         "text": "Tactical_Controls",
+        "old_translation": "战术控制",
         "translation": "战术控制"
     },
     {
+        "id": "qstr_Death_Camera",
         "text": "Death_Camera",
+        "old_translation": "死亡视角",
         "translation": "死亡视角"
     },
     {
+        "id": "qstr_Division_Placement",
         "text": "Division_Placement",
-        "translation": "部队编整"
+        "old_translation": "队列部署",
+        "translation": "队列部署"
     },
     {
+        "id": "qstr_Complex_Formations",
         "text": "Complex_Formations",
-        "translation": "复杂编队"
+        "old_translation": "复杂阵型",
+        "translation": "复杂阵型"
     },
     {
+        "id": "qstr_Formations_turned_OF",
         "text": "Formations_turned_OFF_in_options_menu",
-        "translation": "选项菜单的阵型关闭。"
+        "old_translation": "已在选项菜单关闭阵型",
+        "translation": "已在选项菜单关闭阵型"
     },
     {
+        "id": "qstr_Division_{reg1}_{s2}_g",
         "text": "Division_{reg1}_{s2}_goes_to_its_memorized_position...",
-        "translation": "队列{reg1}的{s2}去它的保存位置..."
+        "old_translation": "分队{reg1}的{s2}前往记忆位置……",
+        "translation": "分队{reg1}的{s2}前往记忆位置……"
     },
     {
+        "id": "qstr_Division_{reg1}_{s2}_f",
         "text": "Division_{reg1}_{s2}_forms_line_(memorized).",
-        "translation": "队列{reg1}的{s2}排成一列(保存)。"
+        "old_translation": "分队{reg1}的{s2}列成横队（记忆）。",
+        "translation": "分队{reg1}的{s2}列成横队（记忆）。"
     },
     {
+        "id": "qstr_Division_{reg1}_{s2}_fo",
         "text": "Division_{reg1}_{s2}_forms_{reg0}_lines_(memorized).",
-        "translation": "队列{reg1}的{s2}排成{reg0}列(保存)。"
+        "old_translation": "分队{reg1}的{s2}列成{reg0}排横队（记忆）。",
+        "translation": "分队{reg1}的{s2}列成{reg0}排横队（记忆）。"
     },
     {
+        "id": "qstr_{s1}_is_shouting_out",
         "text": "{s1}_is_shouting_out_his_war_cry!",
-        "translation": "{s1}喊出他的战号！"
+        "old_translation": "{s1}正高声喊出他的战吼！",
+        "translation": "{s1}正高声喊出他的战吼！"
     },
     {
+        "id": "qstr_{s1}_is_starting_a_s",
         "text": "{s1}_is_starting_a_shield_taunt!",
-        "translation": "{s1}正在盾击！"
+        "old_translation": "{s1}开始举盾挑衅！",
+        "translation": "{s1}开始举盾挑衅！"
     },
     {
+        "id": "qstr_Spawned_{s13}",
         "text": "Spawned_{s13}",
-        "translation": "引起{s13}"
+        "old_translation": "已生成{s13}",
+        "translation": "已生成{s13}"
     },
     {
+        "id": "qstr_You_must_stay_behind",
         "text": "You_must_stay_behind_the_line_on_the_ground!_The_point_doesn't_count.",
-        "translation": "你必须原地站在线的后方！该点不算。"
+        "old_translation": "你必须待在地面标线后方！此点无效。",
+        "translation": "你必须待在地面标线后方！此点无效。"
     },
     {
+        "id": "qstr_All_around_you_unfol",
         "text": "All_around_you_unfolds_God's_world,_Ora_et_Labora,_where_men_wear_the_habit._They_are_busy_with_their_work,_stopping_only_to_eat,_sleep_or_pray.",
-        "translation": "神的世界在你的面前展开，祈祷和工作，那里的人们都穿着修道服，他们都忙着干活，有时候停下来仅仅是为了进餐，睡觉或祈祷。"
+        "old_translation": "你周围展开的是神的世界：祈祷与劳作。人们身着修道袍，忙于工作，只在进食、睡眠或祈祷时稍作停歇。",
+        "translation": "你周围展开的是神的世界：祈祷与劳作。人们身着修道袍，忙于工作，只在进食、睡眠或祈祷时稍作停歇。"
     },
     {
+        "id": "qstr_This_is_the_home_of_",
         "text": "This_is_the_home_of_the_Nordic_gods._You_can_recite_old_verses,_compose_songs_or_make_sacrifices_to_please_the_gods._If_you're_lucky,_the_gods_may_hear_you_and_grant_your_wish.",
-        "translation": "这是北欧神的家，你可以背诵古老的诗词，作曲或者献祭神。如果你够幸运，神会聆听你的愿望并且实现它。"
+        "old_translation": "这里是北欧诸神的居所。你可吟诵古谣、谱写颂歌或献上祭品以取悦诸神。若得垂怜，诸神或将聆听并实现你的愿望。",
+        "translation": "这里是北欧诸神的居所。你可吟诵古谣、谱写颂歌或献上祭品以取悦诸神。若得垂怜，诸神或将聆听并实现你的愿望。"
     },
     {
+        "id": "qstr_{s0}^^{s1}",
         "text": "{s0}^^{s1}",
+        "old_translation": "{s0}^^{s1}",
         "translation": "{s0}^^{s1}"
     },
     {
+        "id": "qstr_The_old_captain_is_t",
         "text": "The_old_captain_is_too_much_for_you._You_fall_in_a_puddle_of_blood,_and_your_vision_slowly_fades_away...",
-        "translation": "你不是老船长的对手。你倒在了血泊之中，视线渐渐地模糊……"
+        "old_translation": "你不是老队长的对手。你倒在血泊里，视线慢慢暗了下去……",
+        "translation": "你不是老队长的对手。你倒在血泊里，视线慢慢暗了下去……"
     },
     {
+        "id": "qstr_The_old_captain_is_to",
         "text": "The_old_captain_is_too_much_for_you._You_lie_battered_and_wounded_at_his_feet._Only_the_mercy_of_the_old_captain_keeps_him_from_killing_you.",
-        "translation": "你不是老船长的对手。你躺倒在他的脚边，浑身伤痕——你之所以没有被杀，仅仅是因为他的怜悯。"
+        "old_translation": "你不是老队长的对手。你遍体鳞伤地躺在他脚边，只因他一时怜悯才保住性命。",
+        "translation": "你不是老队长的对手。你遍体鳞伤地躺在他脚边，只因他一时怜悯才保住性命。"
     },
     {
+        "id": "qstr_You_have_beaten_the_",
         "text": "You_have_beaten_the_old_captain,_so_beginning_your_journey_into_legend.",
-        "translation": "你击败了老英雄，你的名字正要成为传奇。"
+        "old_translation": "你击败了老队长，传奇之路由此开启。",
+        "translation": "你击败了老队长，传奇之路由此开启。"
     },
     {
+        "id": "qstr_Today_is_a_good_day_",
         "text": "Today_is_a_good_day_to_die,_is_not_it?'",
-        "translation": "视死如归，就在今日。"
+        "old_translation": "“今日慷慨赴死，岂不痛快？”",
+        "translation": "“今日慷慨赴死，岂不痛快？”"
     },
     {
+        "id": "qstr_The_battle_against_t",
         "text": "The_battle_against_the_bandits_was_hard,_but_you've_risen_to_victory._Picking_through_the_remains_of_the_hole_they_were_digging_between_the_rocks,_you_find_a_fortune_in_money.",
-        "translation": "对抗土匪的战斗是艰苦的，但是你们取得了胜利！通过搜寻他们在岩石之间挖出的洞，你找到了一些钱。"
+        "old_translation": "与山贼一战艰苦卓绝，但你终获胜利。翻检他们在岩间掘出的洞穴，你发了一笔横财。",
+        "translation": "与山贼一战艰苦卓绝，但你终获胜利。翻检他们在岩间掘出的洞穴，你发了一笔横财。"
     },
     {
+        "id": "qstr_You_have_killed_all_",
         "text": "You_have_killed_all_the_Vikings_and_freed_the_slaves._This_will_give_you_fame_and_reputation.",
-        "translation": "你杀死了所有的维京人并且释放了所有的奴隶，这将给你带来荣耀和声望！"
+        "old_translation": "你杀光维京人，解放了所有奴隶，名声与威望随之而来。",
+        "translation": "你杀光维京人，解放了所有奴隶，名声与威望随之而来。"
     },
     {
+        "id": "qstr_You_look_up_and_see_",
         "text": "You_look_up_and_see_that_this_village_has_already_been_sacked_by_Vikings,_and_now_you_are_their_new_prey.",
-        "translation": "你发现这个村庄已经被维京人洗劫了，现在你是我们的新猎物了。"
+        "old_translation": "你抬头望去，村庄已被维京人洗劫，如今他们盯上了你。",
+        "translation": "你抬头望去，村庄已被维京人洗劫，如今他们盯上了你。"
     },
     {
+        "id": "qstr_After_a_hard_battle_",
         "text": "After_a_hard_battle,_you've_defeated_the_Vikings_who_attempted_to_ambush_you._Now_their_riches_are_yours,_but_you_are_especially_happy_to_see_a_few_pieces_of_chain_mail.",
-        "translation": "经过一场苦战，你击败了试图伏击你的维京人，现在他们的财物是你的了，但使你尤其高兴的是一些锁子甲。"
+        "old_translation": "苦战之后，你击溃了埋伏的维京人。他们的财宝尽归你手，尤其那几件锁子甲更让你欣喜。",
+        "translation": "苦战之后，你击溃了埋伏的维京人。他们的财宝尽归你手，尤其那几件锁子甲更让你欣喜。"
     },
     {
+        "id": "qstr_If_you_want_to_cross",
         "text": "If_you_want_to_cross_the_bridge,_you'll_have_to_pay_the_troll!'",
-        "translation": "如果你想过桥，必须付钱给巨人！"
+        "old_translation": "“想过桥？先付买路钱给巨人！”",
+        "translation": "“想过桥？先付买路钱给巨人！”"
     },
     {
+        "id": "qstr_The_troll_is_dead_at",
         "text": "The_troll_is_dead_at_your_feet,_so_you_can_keep_the_treasure_extorted_from_travelers,_as_well_as_his_club.",
-        "translation": "巨人倒在了你的脚下，你可以将他从其他旅行者那儿敲诈的财物取走，还有他硕大的棒子。"
+        "old_translation": "巨人倒在你脚下，你可以拿走他从旅人那里勒索的财宝，还有他的大棒。",
+        "translation": "巨人倒在你脚下，你可以拿走他从旅人那里勒索的财宝，还有他的大棒。"
     },
     {
+        "id": "qstr_Come_closer_closer_c",
         "text": "Come_closer,_closer_come,_I'm_here,_almost_nigh._So_long_I've_been_alone._Come_and_win_a_prize!",
-        "translation": "靠近些，靠近些！我在这里，就在这里！这么久了我一直是孤身一人！来吧，赢得你的奖赏！"
+        "old_translation": "“靠近些，再近些，我在这儿，就在近旁。孤单已久，来赢取你的奖赏吧！”",
+        "translation": "“靠近些，再近些，我在这儿，就在近旁。孤单已久，来赢取你的奖赏吧！”"
     },
     {
+        "id": "qstr_The_voice_continues_",
         "text": "The_voice_continues,_'Oh,_I_cannot_be_discourteous._Finally,_someone_is_here_to_see_me,_someone_who_really_wants_to_play_games_and_win_awards.'",
-        "translation": "这把声音继续道：“噢，我不能无礼。终于有人来见我了，某个希望玩游戏赢奖品的人。”"
+        "old_translation": "那声音继续道：“啊，不可失礼。终于有人来看我，有人真心想玩游戏、拿奖品。”",
+        "translation": "那声音继续道：“啊，不可失礼。终于有人来看我，有人真心想玩游戏、拿奖品。”"
     },
     {
+        "id": "qstr_The_voice_seems_to_b",
         "text": "The_voice_seems_to_be_getting_closer,_'Who_are_you,_and_why_are_you_here?_You_came_to_visit_me,_someone_who_withdrew_from_people_to_avoid_their_fears_and_insults.'",
-        "translation": "这把声音更近了：“你是谁？为什么来这里？你来这里拜访我这个为了逃避恐惧和侮辱而隐居于此的人吗？”"
+        "old_translation": "声音愈发逼近：“你是谁？为何而来？你来看我这个为避世人惧与辱而隐居的人吗？”",
+        "translation": "声音愈发逼近：“你是谁？为何而来？你来看我这个为避世人惧与辱而隐居的人吗？”"
     },
     {
+        "id": "qstr_A_voice_is_coming_fr",
         "text": "A_voice_is_coming_from_somewhere_in_the_ruins,_'Someone_visits_ancient_ruins_of_the_past?_Someone_is_certainly_brave,_because_nobody_else_dares_to_visit_them_for_fear_of_ghosts.'",
-        "translation": "一个声音从废墟中的某处传来：“某个参观昔日废墟的游客吗？你肯定非常勇敢，因为其他人都害怕这里的幽灵。”"
+        "old_translation": "废墟某处传来声音：“竟有人敢踏足这古老废墟？你胆子不小，别人都怕鬼不敢来。”",
+        "translation": "废墟某处传来声音：“竟有人敢踏足这古老废墟？你胆子不小，别人都怕鬼不敢来。”"
     },
     {
+        "id": "qstr_Do_you_want_to_stop_",
         "text": "Do_you_want_to_stop_your_work_and_give_up_your_pay?",
-        "translation": "你想停止你的工作并且放弃你的付款？"
+        "old_translation": "你想停工并放弃工钱吗？",
+        "translation": "你要停工并放弃工钱吗？"
     },
     {
+        "id": "qstr_Your_own_life_seems_",
         "text": "Your_own_life_seems_not_so_bad,_now_that_you_see_these_poor_wretches_working_themselves_into_an_early_grave_just_for_the_bread_to_survive.",
-        "translation": "你过得似乎没有那么糟糕——当你看到这些不幸的人正冒着死亡的危险工作着，目的仅仅是为了得到一小片仅够维持生存的面包。"
+        "old_translation": "看到这些可怜人为一口活命面包而拼命劳作，你忽然觉得自己的生活还不算太糟。",
+        "translation": "看到这些可怜人为一口活命面包而早早累死，你忽然觉得自己的生活还不算太糟。"
     },
     {
+        "id": "qstr_The_rattle_of_spikes",
         "text": "The_rattle_of_spikes_on_the_stone_is_deafening._Below,_you_can_see_people_working_hard_under_the_command_of_a_foreman.",
-        "translation": "凿石声震耳欲聋。在下面，你可以看到人们在领班的监督下辛苦地劳作着。"
+        "old_translation": "铁钎击石的铿锵震耳欲聋。下方，人们正被工头驱使着辛勤劳作。",
+        "translation": "铁钎击石的铿锵震耳欲聋。下方，人们正被工头驱使着拼命干活。"
     },
     {
+        "id": "qstr_Bodo_has_received_to",
         "text": "Bodo_has_received_too_many_blows_to_continue_fighting.",
-        "translation": "博多数次受创，意识模糊。"
+        "old_translation": "博多连遭重击，已无力再战。",
+        "translation": "博多连遭重击，已无力再战。"
     },
     {
+        "id": "qstr_Bodo_spots_you_shake",
         "text": "Bodo_spots_you,_shakes_his_head,_and_silently_indicates_that_there_are_still_enemies_about.",
-        "translation": "博多摇摇头，默默地表明，还有敌人。"
+        "old_translation": "博多望见你，摇了摇头，无声示意敌人仍在附近。",
+        "translation": "博多望见你，摇了摇头，无声示意敌人仍在附近。"
     },
     {
+        "id": "qstr_Bandits_strike_at_yo",
         "text": "Bandits_strike_at_you_furiously,_and_you_fall_in_a_puddle_of_blood._They_think_you're_dead...",
-        "translation": "强盗狠狠地击昏你，你倒在了血泊之中，他们认为你已经死了……"
+        "old_translation": "山贼猛扑向你，你倒在血泊里。他们以为你已气绝……",
+        "translation": "山贼猛扑向你，你倒在血泊里。他们以为你已气绝……"
     },
     {
+        "id": "qstr_The_bandits_and_slav",
         "text": "The_bandits_and_slavers_have_been_dealt_with._Get_the_prisoners_and_leave.^^When_you_want_to_leave,_press_TAB.",
-        "translation": "强盗和奴隶商人都被干掉了，把这些囚犯放走吧。^^当你想要离开的时候，按Tab键。"
+        "old_translation": "山贼与奴隶贩子已被肃清。带走俘虏，速离此地。^^想离开时按TAB键。",
+        "translation": "山贼与奴隶贩子已被肃清。带走俘虏，速离此地。^^想离开时按TAB键。"
     },
     {
+        "id": "qstr_You_can_t_leave_the_",
         "text": "You_can't_leave_the_cave_while_there_still_enemies!",
-        "translation": "在那里仍然有敌人，你不能离开山洞！"
+        "old_translation": "仍有敌人潜伏，你无法离开洞穴！",
+        "translation": "仍有敌人潜伏，你无法离开洞穴！"
     },
     {
+        "id": "qstr_You_have_just_killed",
         "text": "You_have_just_killed_the_bandit_king's_main_bodyguards._Rummaging_through_their_things,_you_find_some_treasures._You_still_need_to_defeat_the_other_bandits_before_you_can_collect_your_reward.",
-        "translation": "你杀死了强盗王的贴身护卫，搜寻他的尸体，你找到了一些财物。你还需要击败其他的强盗才可以得到奖励。"
+        "old_translation": "你刚斩杀了强盗王的贴身护卫。翻检他们的遗物，你找到几件珍宝。但须先剿灭余匪，才能领取赏金。",
+        "translation": "你刚斩杀了强盗王的贴身护卫。翻检他们的遗物，你找到几件珍宝。但须先剿灭余匪，才能领取赏金。"
     },
     {
+        "id": "qstr_You_have_killed_the_c",
         "text": "You_have_killed_the_captain,_an_ugly_guy,_big_and_crooked_and_smelling_like_a_rat._Picking_through_the_remains,_you_find_a_few_useful_things._You_still_need_to_defeat_the_other_bandits_before_you_can_collect_your_reward.",
-        "translation": "你杀掉了队长，那个丑陋的家伙，硕大的身躯在地上蜷缩成一团。搜寻他的尸体，你找到了几样有用的东西。你还需要击败其他的强盗才可以得到奖励。"
+        "old_translation": "你杀死了队长——那丑陋的巨汉，蜷曲如鼠，臭不可闻。搜刮残骸，你得到几样有用之物。但须先剿灭余匪，才能领取赏金。",
+        "translation": "你杀死了队长——那丑陋的巨汉，蜷曲如鼠，臭不可闻。搜刮残骸，你得到几样有用之物。但须先剿灭余匪，才能领取赏金。"
     },
     {
+        "id": "qstr_Rising_victorious_ov",
         "text": "Rising_victorious_over_the_body_of_the_bandit_king,_your_steel_stained_with_blood,_you_put_an_end_to_a_long_reign_of_terror_and_banditry_with_all_its_horrors._Among_the_remains_of_the_once_proud_bandit_king_are:",
-        "translation": "脚踏强盗王的尸体，武器上沾满鲜血——因为你，长期以来笼罩在此的恐怖的幽云，都随着强盗的覆灭而烟消云散。曾经不可一世的强盗王的遗物有："
+        "old_translation": "你踏过强盗王的尸身，染血的兵刃宣告恐怖统治的终结。昔日不可一世的强盗王留下的遗物有：",
+        "translation": "你踏过强盗王的尸身，染血的兵刃宣告恐怖统治的终结。昔日不可一世的强盗王留下的遗物有："
     },
     {
+        "id": "qstr_The_body_of_Atli_Eir",
         "text": "The_body_of_Atli_Eiriksson,_former_second_man_of_Sigurd_Ragnarsson,_lies_at_your_feet._You_rummage_through_his_clothes_and_find_a_bloodstained_parchment_with_a_broken_seal._It_is_the_letter_that_had_been_entrusted_to_Bodo._You'll_have_to_ask_him_about_it.",
-        "translation": "阿提利·埃里克逊，西格德·拉格纳逊的二号人物，躺倒在你的面前。你搜索了他的衣服并且发现了一封沾着血迹的信，密封处都已经破碎了——这是博多写的。"
+        "old_translation": "阿提利·埃里克松——西格德·拉格纳逊昔日的副手——倒在你脚边。你翻遍他的衣襟，找到一封血迹斑斑、封印已碎的羊皮信。这正是托付给博多的那封信。你得找他问个明白。",
+        "translation": "阿提利·埃里克松——西格德·拉格纳逊昔日的副手——倒在你脚边。你翻遍他的衣襟，找到一封血迹斑斑、封印已碎的羊皮信。这正是托付给博多的那封信。你得找他问个明白。"
     },
     {
+        "id": "qstr_The_Danish_and_Atli_",
         "text": "The_Danish_and_Atli_have_been_dealt_with._Talk_to_Bodo_about_the_letter.",
-        "translation": "丹麦人和阿提利都已经解决，博多的信中说。"
+        "old_translation": "丹麦人与阿提利已解决。去和博多谈谈那封信。",
+        "translation": "丹麦人与阿提利已解决。去和博多谈谈那封信。"
     },
     {
+        "id": "qstr_As_you_advance_you_f",
         "text": "As_you_advance,_you_find_there_is_a_light_inside._It_seems_this_place_is_not_as_deserted_as_you_thought.",
-        "translation": "你慢慢往前走，发现里面有一道亮光透出——这地方似乎并没有你想象的那么荒凉。"
+        "old_translation": "你继续前行，发现深处透出光亮——这地方并非如你所想那般荒凉。",
+        "translation": "你继续前行，发现深处透出光亮——这地方并非如你所想那般荒凉。"
     },
     {
+        "id": "qstr_You_feel_the_tension",
         "text": "You_feel_the_tension_with_every_step_that_you_take.",
-        "translation": "你小心翼翼地迈出你的每一步。"
+        "old_translation": "每一步都让你绷紧神经。",
+        "translation": "每一步都让你绷紧神经。"
     },
     {
+        "id": "qstr_The_mouth_of_a_rock_",
         "text": "The_mouth_of_a_rock_opens_before_you._All_around_is_cold_stone,_and_you_behold_graven_marks_in_a_language_you_do_not_know._What_surprises_and_treasures_are_hidden_here?",
-        "translation": "巨石在你面前缓缓打开，周围的一切都是冰冷的岩石，镌刻着你不认识的语言，这里藏匿着怎样的惊奇与财富？"
+        "old_translation": "巨石在你面前裂开，四周尽是冰冷岩壁，刻着你不识的符文。这里藏着怎样的惊喜与宝藏？",
+        "translation": "巨石在你面前裂开，四周尽是冰冷岩壁，刻着你不识的符文。这里藏着怎样的惊喜与宝藏？"
     },
     {
+        "id": "qstr_You_are_overwhelmed_",
         "text": "You_are_overwhelmed_by_the_enormity_of_time._The_men_who_built_this_are_long_gone._We_are_dust_and_our_life_is_so_ephemeral..._Who_could_live_forever?",
-        "translation": "你被时间的冷酷无情所震慑——建造它的人们早已逝去——人生五十载，去事恍如梦幻，天下之内，岂有长生不灭者？"
+        "old_translation": "你被时间的浩瀚震慑——建造者早已化为尘埃，人生短暂如露……谁能永生？",
+        "translation": "你被时间的浩瀚震慑——建造者早已化为尘埃，人生短暂如露……谁能永生？"
     },
     {
+        "id": "qstr_On_the_right_you_see",
         "text": "On_the_right,_you_see_a_graffito_on_the_wall_that_says,_'Livia_pulchra_est,_Marcus_dixit.'",
-        "translation": "在右边，你看到一条标语：Liviapulchraest,Marcusdixit（拉丁文：利维娅非常漂亮，马库斯留）。"
+        "old_translation": "右侧墙上潦草地刻着：“Liviapulchraest，Marcusdixit.”",
+        "translation": "右侧墙上潦草地刻着：“Liviapulchraest，Marcusdixit.”"
     },
     {
+        "id": "qstr_It_s_cold_and_smells",
         "text": "It's_cold_and_smells_old,_taking_you_back_to_another_time..._a_time_when_Rome_ruled_the_world,_and_men_knew_how_to_construct_huge_stone_buildings_of_several_stories.^^The_pools,_old_recreation_rooms,_changing_rooms..._everything_is_covered_in_dust_and_brambles,_all_is_abandoned.",
-        "translation": "它冷冰冰的，看起来很古老了，将你带回了另一段时光——罗马人统治世界的那段岁月，只有他们懂得如何用巨石建造如此庞大的建筑。^^水池，康乐室，换衣间……所有的一切都覆盖着尘土和荆棘，荒废已久。"
+        "old_translation": "寒意与古旧气息扑面而来，将你带回罗马统治世界的年代，那时人们懂得用巨石筑起数层高楼。^^浴池、康乐室、更衣室……皆覆满尘土与荆棘，尽归荒废。",
+        "translation": "寒意与古旧气息扑面而来，将你带回罗马统治世界的年代，那时人们懂得用巨石筑起数层高楼。^^浴池、康乐室、更衣室……皆覆满尘土与荆棘，尽归荒废。"
     },
     {
+        "id": "qstr_Refugees_and_deserte",
         "text": "Refugees_and_deserters_have_made_this_place_their_home._They_are_protected_under_the_mantle_of_the_last_Druid_and_the_blood_of_their_sacrifices.",
-        "translation": "难民和逃兵将这儿当做了他们的家，他们依靠着德鲁伊的庇护和他们自己的鲜血在这里顽强生存。"
+        "old_translation": "难民与乱军把这里当家，他们受最后一位德鲁伊的庇护，以鲜血祭祀换取苟活。",
+        "translation": "难民与乱军把这里当家，他们受最后一位德鲁伊的庇护，以鲜血祭祀换取苟活。"
     },
     {
+        "id": "qstr_Not_far_away_on_top_",
         "text": "Not_far_away,_on_top_of_the_hills,_you_see_several_stone_circles_of_the_ancients._You_imagine_you_can_feel_magic_at_this_site,_as_if_a_bit_of_the_old_religion_of_the_Celts_still_struggles_to_survive.",
-        "translation": "不远处，在山顶上，你看到了几个古老的巨石环。在这个地方，你幻想自己接触到魔法的气息，还有一些古塞尔特人留下的习俗在挣扎求存。"
+        "old_translation": "不远处山巅，几座古老石环矗立。你仿佛感到残留的魔法，古凯尔特的信仰仍在挣扎求生。",
+        "translation": "不远处山巅，几座古老石环矗立。你仿佛感到残留的魔法，古凯尔特的信仰仍在挣扎求生。"
     },
     {
+        "id": "qstr_The_magnificence_of_",
         "text": "The_magnificence_of_this_place_still_surprises_you._When_will_men_come_to_build_defenses_like_this_again?",
-        "translation": "这儿的宏伟依旧使你感到震惊：人们什么时候才能再次建筑起如此宏伟的防御工程？"
+        "old_translation": "此地的宏伟依旧震撼你：人类何时才能再造如此壁垒？",
+        "translation": "此地的宏伟依旧震撼你：人类何时才能再造如此壁垒？"
     },
     {
+        "id": "qstr_Time_and_neglect_has",
         "text": "Time_and_neglect_has_ruined_what_once_was._In_Roman_times,_this_was_the_main_wall_defending_the_southern_towns_from_the_ravages_of_the_Caledonians._It_fell_long_ago,_but_life_can_still_be_found_in_the_rubble.",
-        "translation": "时间摧毁了往昔的一切。在罗马时代，这堵城墙是保卫南方城镇免于喀里多尼亚人侵略的最主要的屏障。它在很久之前就陷落了，但是在碎石堆中依然可见当年人们的生活遗迹。"
+        "old_translation": "岁月与荒废摧毁了昔日辉煌。罗马时代，这道城墙曾守护南方诸镇免遭喀里多尼亚人蹂躏。它早已崩塌，但瓦砾间仍有生命痕迹。",
+        "translation": "岁月与荒废摧毁了昔日辉煌。罗马时代，这道城墙曾守护南方诸镇免遭喀里多尼亚人蹂躏。它早已崩塌，但瓦砾间仍有生命痕迹。"
     },
     {
+        "id": "qstr_Your_mission_is_to_a",
         "text": "Your_mission_is_to_ambush_the_enemy_when_they_come_for_water_supplies._If_you_feel_lost_at_some_point,_press_the_K_key_to_remember_these_goals.",
-        "translation": "你的任务是当敌人补给水源的时候伏击他们。如果你失去目标，按K键来标记目标。"
+        "old_translation": "你的任务是在敌人取水时伏击。若迷失方向，按K键回顾目标。",
+        "translation": "你的任务是在敌人取水时伏击。若迷失方向，按K键回顾目标。"
     },
     {
+        "id": "qstr_Someone_wants_to_tal",
         "text": "Someone_wants_to_talk_to_you._Find_{s4}_in_the_camp.",
-        "translation": "有人想和你谈谈，在营地找到{s4}。"
+        "old_translation": "有人想与你交谈。去营地找{s4}。",
+        "translation": "有人想与你交谈。去营地找{s4}。"
     },
     {
+        "id": "qstr_Camp_Conversation",
         "text": "Camp_Conversation",
+        "old_translation": "营地对话",
         "translation": "营地对话"
     },
     {
+        "id": "qstr_Everybody_back_on_th",
         "text": "Everybody_back_on_the_ship!_Hurry!",
-        "translation": "所有人回到船上！赶快！"
+        "old_translation": "所有人回到船上！赶快！",
+        "translation": "所有人回船！快！"
     },
     {
+        "id": "qstr_Sea_Info_Tutorial",
         "text": "Sea_Info_Tutorial",
+        "old_translation": "海战教程",
         "translation": "海战教程"
     },
     {
+        "id": "qstr_A_huskarl_shouts__Me",
         "text": "A_huskarl_shouts,_'Men!_Listen!_Hold_the_line,_and_we_will_win!_Those_who_come_are_only_Vikings._We_are_Danish_warriors!'",
-        "translation": "一名亲卫军喊道：“听着，士兵们！守住防线，我们就能胜利！我们是丹麦的勇士！”"
+        "old_translation": "一名亲卫军喊道：“士兵们！听着！守住防线，我们就能胜利！来的不过是维京人，我们是丹麦的勇士！”",
+        "translation": "一名亲卫军高喊：“士兵们！听好了！守住阵线，我们就赢！来的只是维京人，我们是丹麦战士！”"
     },
     {
+        "id": "qstr_A_huskarl_shouts__Th",
         "text": "A_huskarl_shouts,_'Thor!_Hear_our_battle_cry_and_prepare_the_Valkyries!_Tonight_we_dine_in_your_halls!'",
-        "translation": "一名亲卫军喊道：“索尔！请听听我们的战嚎！今晚我们就要在您的大厅之中畅饮！”"
+        "old_translation": "一名亲卫军喊道：“索尔！聆听我们的战吼，为瓦尔基里做好准备！今夜我们将在你的殿堂痛饮！”",
+        "translation": "一名亲卫军高喊：“索尔！听见我们的战吼，让瓦尔基里做好准备！今夜我们在你的殿堂痛饮！”"
     },
     {
+        "id": "qstr_Harald_calls_out__Co",
         "text": "Harald_calls_out,_'Come_on!_Hurry!_We_don't_have_all_day._Look_at_the_slaves_already_and_meet_me!'",
-        "translation": "哈罗德大叫：来吧！快点！我们没有一整天时间。看好奴隶，然后来见我！"
+        "old_translation": "哈拉尔大喊：“来吧！快点！我们可没一整天。先看好奴隶，然后来见我！”",
+        "translation": "哈拉尔大喊：“快点！别磨蹭！先看好奴隶，再来见我！”"
     },
     {
+        "id": "qstr_The_stranger_shouts_",
         "text": "The_stranger_shouts,_'Heill!_My_name_is_Olvir,_known_as_White_Hair._So_you're_the_one_seeking_my_brother,_Sven,_known_as_Bull_Neck._Well,_I_do_not_care._I_have_come_solely_on_behalf_of_Sigurd_Ragnarsson,_to_exchange_your_mother_for_the_man_called_Bodo.'",
-        "translation": "陌生人说道：“你好！我的名字是奥利维，人们都称我为白发奥利维。那么你就是那个正在寻找我兄弟斯温的人咯？人们也叫他牛颈斯温，不过我不在乎，我仅仅代表西格德·拉格纳逊单独前来，用你的母亲交换那个叫做博多的人。”"
+        "old_translation": "陌生人喊道：“你好！我叫奥维尔，人称‘白发’。你就是找我兄弟斯温——外号‘牛颈’——的人？我不在乎。我只代表西格德·拉格纳逊而来，用你们的母亲交换那个叫博多的人。”",
+        "translation": "陌生人高喊：“你好！我叫奥维尔，人称‘白发’。你就是找我兄弟‘牛颈’斯温的人？我不在乎。我只代表西格德·拉格纳逊，用你们的母亲换那个叫博多的人。”"
     },
     {
+        "id": "qstr_The_stranger_shouts__",
         "text": "The_stranger_shouts,_'Heill!_My_name_is_Olvir,_known_as_White_Hair._So_you're_the_one_seeking_my_brother,_Sven,_known_as_Bull_Neck._Well,_I_do_not_care._I_have_come_solely_on_behalf_of_Sigurd_Ragnarsson,_to_give_you_your_mother.'",
-        "translation": "陌生人说道：“你好！我的名字是奥利维，人们都称我为白发奥利维。那么你就是那个正在寻找我兄弟斯温的人咯？人们也叫他牛颈斯温，不过我不在乎，我仅仅代表西格德·拉格纳逊单独前来，将你的母亲交还给你。”"
+        "old_translation": "陌生人喊道：“你好！我叫奥维尔，人称‘白发’。你就是找我兄弟斯温——外号‘牛颈’——的人？我不在乎。我只代表西格德·拉格纳逊而来，把你的母亲交还给你。”",
+        "translation": "陌生人高喊：“你好！我叫奥维尔，人称‘白发’。你就是找我兄弟‘牛颈’斯温的人？我不在乎。我只代表西格德·拉格纳逊，把你的母亲交还给你。”"
     },
     {
+        "id": "qstr_Egil_yells__Heill_Ol",
         "text": "Egil_yells,_'Heill_Olvir_White_Hair!_I_have_heard_of_you_and_your_agreements_with_Loki._Let_my_friend_join_{reg59?her:his}_mother_before_continuing_this_conversation.'",
-        "translation": "埃吉尔说道：“你好，白发奥利维！我听说过你，还有你同洛基达成的协议。不过在我们继续谈话之前，最好还是让我的朋友先见到{reg59?她:他}的母亲吧！"
+        "old_translation": "埃吉尔喊道：“你好，‘白发’奥维尔！我听说过你，也听说过你和洛基的协议。先让我的朋友去见{reg59?她:他}的母亲，再谈别的。”",
+        "translation": "埃吉尔高喊：“你好，‘白发’奥维尔！我听说过你，也听说过你和洛基的协议。先让我的朋友去见{reg59?她:他}的母亲，再谈别的。”"
     },
     {
+        "id": "qstr_Olvir_shouts:__Sure_",
         "text": "Olvir_shouts:_'Sure,_Egil,_king's_bastard,_I_have_heard_of_you,_too,_and_I_see_that_you_have_become_the_mouth_of_{playername},_the_traitor_of_Kennemer._{reg59?She:He}_is_free_to_talk_to_our_prisoner._I_will_send_her_to_you.'",
-        "translation": "奥利维说道：“当然了，埃吉尔，国王的私生子，我也听说过你的大名呢，你看起来就像是{playername}的喉舌，这个肯尼莫的叛国贼。他可以随便和我们的囚犯交谈，我将把她带来见你。”"
+        "old_translation": "奥维尔喊道：“当然，埃吉尔，国王的私生子，我也听说过你。看来你成了{playername}——肯尼莫的叛徒——的传声筒。{reg59?她:他}可以跟我们的俘虏说话，我会把她带来。”",
+        "translation": "奥维尔高喊：“当然，埃吉尔，国王的私生子，我也听说过你。看来你成了{playername}——肯尼莫的叛徒——的传声筒。{reg59?她:他}可以跟我们的俘虏说话，我会把她带来。”"
     },
     {
+        "id": "qstr_Mission:_Speak_to_yo",
         "text": "Mission:_Speak_to_your_mother.",
-        "translation": "任务：和你的母亲对话。"
+        "old_translation": "任务：与你的母亲交谈。",
+        "translation": "任务：与你的母亲交谈。"
     },
     {
+        "id": "qstr_Suddenly_Olvir_shout",
         "text": "Suddenly_Olvir_shouts:_'Men._Shield_wall._Now!_By_Ragnar!_By_Sigurd!_By_Odin!_Death_to_our_enemies!",
-        "translation": "突然，奥利维喊道：“士兵们！列成盾墙！就是现在！以拉格纳之名！以西格德之名！以奥丁之名！杀死我们的敌人！”"
+        "old_translation": "奥维尔突然大喊：“士兵们！盾墙！立刻！以拉格纳之名！以西格德之名！以奥丁之名！让敌人去死！”",
+        "translation": "奥维尔突然高喊：“士兵们！盾墙！立刻！以拉格纳之名！以西格德之名！以奥丁之名！让敌人去死！”"
     },
     {
+        "id": "qstr_The_old_hero_is_too_",
         "text": "The_old_hero_is_too_much_for_you._You_fall_in_a_puddle_of_blood,_and_your_vision_slowly_fades_away...",
-        "translation": "你不是老英雄的敌手。你倒在了血泊之中，视线渐渐地模糊……"
+        "old_translation": "老英雄远胜于你。你倒在血泊中，视线渐渐模糊……",
+        "translation": "老英雄远胜于你。你倒在血泊中，视线渐渐模糊……"
     },
     {
+        "id": "qstr_The_old_hero_is_too_m",
         "text": "The_old_hero_is_too_much_for_you._You_lie_battered_and_wounded_at_his_feet._Only_the_mercy_of_the_old_hero_keeps_him_from_killing_you.",
-        "translation": "你不是老英雄的敌手。你躺倒在他的脚边，浑身伤痕——你之所以没有被杀，仅仅是因为他的怜悯。"
+        "old_translation": "老英雄远胜于你。你遍体鳞伤地倒在他脚边，只因他的怜悯才保住性命。",
+        "translation": "老英雄远胜于你。你遍体鳞伤地倒在他脚边，只因他的怜悯才保住性命。"
     },
     {
+        "id": "qstr_You_have_beaten_the_o",
         "text": "You_have_beaten_the_old_hero,_so_beginning_your_journey_into_legend.",
-        "translation": "你击败了老船长，开始让你成为传奇的传奇吧！"
+        "old_translation": "你击败了老英雄，传奇之路由此开启。",
+        "translation": "你击败了老英雄，传奇之路由此开启。"
     },
     {
+        "id": "qstr_Beda_cries_out__Oh_m",
         "text": "Beda_cries_out,_'Oh_my_God!_Oh_my_God!_I_heard_a_noise!_They've_followed_me!_Sven's_men_have_followed_me!_God_save_us!'",
-        "translation": "贝达哭喊道：“我的神啊！我的神啊！我听到了！他们在跟着我！斯温的人正跟着我！神啊，救救我们吧！”"
+        "old_translation": "贝达哭喊：“我的天啊！我的天啊！我听见动静！他们追来了！斯温的人追来了！上帝救救我们！”",
+        "translation": "贝达哭喊：“我的天啊！我的天啊！我听见动静！他们追来了！斯温的人追来了！上帝救救我们！”"
     },
     {
+        "id": "qstr_Something_is_moving_",
         "text": "Something_is_moving_in_the_undergrowth...",
-        "translation": "在灌木丛中有些什么东西在动…"
+        "old_translation": "灌木丛里有什么东西在动……",
+        "translation": "灌木丛里有什么东西在动……"
     },
     {
+        "id": "qstr_Reginhard_shouts__Al",
         "text": "Reginhard_shouts,_'All_I_wanted_was_a_farm,_a_wife_and_children._I_did_not_want_your_death,_but_I_do_not_want_to_die_either._Sorry,_{playername}._Sorry_to_have_to_kill_you.'",
-        "translation": "雷因哈德吼道：“我想要的只不过是土地、妻子和孩子，我并不想要你的命，但我自己也不想死。抱歉，{playername}，我不得不杀死你。”"
+        "old_translation": "雷因哈德吼道：“我只想有一块地、一个妻子、几个孩子。我不想你死，可我也不想死。抱歉，{playername}，我必须杀了你。”",
+        "translation": "雷因哈德吼道：“我只想有一块地、一个妻子、几个孩子。我不想你死，可我也不想死。抱歉，{playername}，我必须杀了你。”"
     },
     {
+        "id": "qstr_Egil_shouts__You_ll_",
         "text": "Egil_shouts,_'You'll_die_to_defend_the_bastard_traitor,_Reginhard._You_have_chosen_this_poor_course,_so_I_will_take_command_of_your_men_after_your_death_and_take_them_on_a_path_of_glory_that_they_would_never_have_known_with_you.'",
-        "translation": "埃吉尔喊道：“你在与雷因哈德这个该死的叛徒交手时，肯定会被杀死的。你自己选择了这条路，在你死后，我将领导你的人，领导他们通向你无法带给他们的荣耀！”"
+        "old_translation": "埃吉尔吼道：“你会为保卫那个该死的叛徒雷因哈德而死。你选了这条绝路，等你死后，我会接管你的人马，带他们走向你永远给不了的荣耀！”",
+        "translation": "埃吉尔吼道：“你会为保卫那个该死的叛徒雷因哈德而死。你选了这条绝路，等你死后，我会接管你的人马，带他们走向你永远给不了的荣耀！”"
     },
     {
+        "id": "qstr_Sigurd_shouts__I_hav",
         "text": "Sigurd_shouts,_'I_have_more_than_800_men_ready_to_go_to_Englaland_and_support_my_brothers,_but_all_I_hear_here_are_obstacles_to_these_men_embarking_as_Vikings.'",
-        "translation": "西格德喊道：“我有超过800名士兵随时准备去往英格兰支援我的兄弟们，但我听说有人在阻挠这些维京人登船。”"
+        "old_translation": "西格德吼道：“我已备好八百多人，随时渡海去英格兰支援我的兄弟，可我在这里听到的全是阻挠他们登船的借口！”",
+        "translation": "西格德吼道：“我已备好八百多人，随时渡海去英格兰支援我的兄弟，可我在这里听到的全是阻挠他们登船的借口！”"
     },
     {
+        "id": "qstr_King_Horik_yells__Si",
         "text": "King_Horik_yells,_'Sigurd,_we_don't_prevent_the_embarking_of_these_men._In_fact,_we_are_unhappy_that_they_have_not_already_left.'",
-        "translation": "霍里克国王说道：”西格德，我们不会妨碍这些人登船。事实上，他们现在还没离开，这使得我们很不高兴。”"
+        "old_translation": "霍里克国王喊道：“西格德，我们不会阻止这些人登船。事实上，他们还没走，我们很不高兴。”",
+        "translation": "霍里克国王喊道：“西格德，我们不会阻止这些人登船。事实上，他们还没走，我们很不高兴。”"
     },
     {
+        "id": "qstr_Sven_Bull_Neck_shout",
         "text": "Sven_Bull_Neck_shouts,_'These_men_will_embark_when_they_have_a_proper_leader._Guthrum_was_not_to_be_their_leader._Their_leader_was_to_be_my_brother,_Olvir_White_Hair,_but_was_killed._It's_time_to_take_this_issue_for_consideration_at_the_Assembly.'",
-        "translation": "斯温大声吼道：“这些人如果没有一个像样的领袖来领导，他们是不可能会服从命令的。古霍根本不是他们真正的领袖。他们的领袖本该是我的兄弟奥利维，但是他已经永远离开了我们。现在是时候好好的处理这个问题了。”"
+        "old_translation": "“牛颈”斯温吼道：“这些人只有拥有一位真正的领袖才会登船。古斯鲁姆本不该是他们的领袖。他们的领袖本该是我兄弟‘白发’奥维尔，可他被杀了。是时候把这事拿到集结地议一议了。”",
+        "translation": "“牛颈”斯温吼道：“这些人只有拥有一位真正的领袖才会登船。古斯鲁姆本不该是他们的领袖。他们的领袖本该是我兄弟‘白发’奥维尔，可他被杀了。是时候把这事拿到集结地议一议了。”"
     },
     {
+        "id": "qstr_Mission:_The_Thing_h",
         "text": "Mission:_The_Thing_has_begun._Approach_King_Horik.",
-        "translation": "任务：议事会已经开始，去找霍里克国王。"
+        "old_translation": "任务：议事会已开始。去见霍里克国王。",
+        "translation": "任务：议事会已开始。去见霍里克国王。"
     },
     {
+        "id": "qstr_Harald_s_orders_arri",
         "text": "Harald's_orders_arrive_on_the_wind:_'We_cannot_hold_them._They_are_too_many._Everyone_flee!_Meet_at_Jorvik._Flee!'",
-        "translation": "哈罗德的命令随风散播：“我们挡不住了，他们人多势众，让所有人逃命吧！我们在约维克会合。逃吧！”"
+        "old_translation": "哈拉尔的命令随风传来：“我们守不住了。他们人太多。所有人逃！到约维克会合。逃！”",
+        "translation": "哈拉尔的命令随风传来：“我们守不住了。他们人太多。所有人逃！到约维克会合。逃！”"
     },
     {
+        "id": "qstr_Try_to_flee!_",
         "text": "Try_to_flee!'",
-        "translation": "逃命吧！"
+        "old_translation": "快逃！",
+        "translation": "快逃！"
     },
     {
+        "id": "qstr_A_stranger_shouts__Q",
         "text": "A_stranger_shouts,_'Quick._Back_to_camp._You're_in_danger!'",
-        "translation": "一个陌生人喊道：“快回到你的营地去！你在这里太危险了！”"
+        "old_translation": "一个陌生人喊道：“快！回营地。你有危险！”",
+        "translation": "一个陌生人喊道：“快！回营地。你有危险！”"
     },
     {
+        "id": "qstr_An_attacker_yells__W",
         "text": "An_attacker_yells,_'Who_are_you,_woman?_Anyway,_you're_too_late!_{playername},_the_jarl_of_Kennemer_wants_your_head._You_were_a_fool_to_walk_away_from_your_camp._Now_you're_going_to_die!_Greet_Hell_for_me!'",
-        "translation": "袭击者叫道：“你是谁？一个女人？无论如何，你来晚了！{playername}，肯尼莫的雅尔想要你的脑袋。你居然离开自己的营地，真是太愚蠢了。那么现在，你将离开这个世界！替我向地狱问好吧！”"
+        "old_translation": "袭击者吼道：“你是谁，女人？无所谓，你来晚了！{playername}，肯尼莫的雅尔要你的脑袋。你离开营地真是蠢到家了。现在你得死！替我向地狱问好！”",
+        "translation": "袭击者吼道：“你是谁，女人？无所谓，你来晚了！{playername}，肯尼莫的雅尔要你的脑袋。你离开营地真是蠢到家了。现在你得死！替我向地狱问好！”"
     },
     {
+        "id": "qstr_Not_far_in_the_dista",
         "text": "Not_far_in_the_distance_are_Snotingaham's_walls._Exit_the_forest_and_walk_towards_them.",
-        "translation": "不远处就是诺丁汉的城墙。走出森林，接近那里。"
+        "old_translation": "不远处就是诺丁汉的城墙。离开森林，朝那里走。",
+        "translation": "不远处就是诺丁汉的城墙。离开森林，朝那里走。"
     },
     {
+        "id": "qstr_You_run_into_the_for",
         "text": "You_run_into_the_forest_and_manage_to_flee.",
-        "translation": "你进入森林并设法逃离。"
+        "old_translation": "你冲进森林，成功逃脱。",
+        "translation": "你冲进森林，成功逃脱。"
     },
     {
+        "id": "qstr_Your_mission_is_to_f",
         "text": "Your_mission_is_to_follow_the_road_to_Snotingaham_on_the_other_side_of_the_forest,_avoiding_the_Mercians_patrols.^^If_you_feel_lost_at_some_point,_press_the_K_key_to_remember_these_goals.",
-        "translation": "你的任务是沿着去诺丁汉的道路到森林的另一边去，记得避开麦西亚人的巡逻队^^如果你忘记目标，按K键来标记。"
+        "old_translation": "你的任务是沿森林另一侧通往诺丁汉的道路前进，避开麦西亚巡逻队。^^若迷路，按K键回顾目标。",
+        "translation": "你的任务是沿森林另一侧通往诺丁汉的道路前进，避开麦西亚巡逻队。^^若迷路，按K键回顾目标。"
     },
     {
+        "id": "qstr_On_a_hill_taking_adv",
         "text": "On_a_hill,_taking_advantage_of_the_natural_defenses,_the_Danish_have_set_camp._You_notice_that_there_are_many_tents,_and_must_accommodate_more_than_200_men.",
-        "translation": "丹麦在山上利用自然的防御建立营地。你注意到有能容纳超过200人的帐篷。"
+        "old_translation": "丹麦人利用山势设营。你看见许多帐篷，足以容纳两百多人。",
+        "translation": "丹麦人利用山势设营。你看见许多帐篷，足以容纳两百多人。"
     },
     {
+        "id": "qstr_Aescendun_is_the_pla",
         "text": "Aescendun_is_the_place_chosen_by_the_Saxons_to_regroup._It_cuts_off_the_way_into_Wessex_for_the_Danish.",
-        "translation": "阿先顿是撒克逊人重新集结的地方，这是可以截断丹麦人通往的西撒克逊的唯一一条路。"
+        "old_translation": "阿先顿是撒克逊人选定的集结点，它截断了丹麦人进入韦塞克斯的通路。",
+        "translation": "阿先顿是撒克逊人选定的集结点，它截断了丹麦人进入韦塞克斯的通路。"
     },
     {
+        "id": "qstr_Readingum_previously",
         "text": "Readingum,_previously_a_Saxon_village,_is_now_owned_by_the_Danish._They_have_fortified_it_and_made_it_a_place_of_refuge.",
-        "translation": "雷丁镇，从前是一座撒克逊的村庄，现为丹麦人所有。他们在这里修筑工事，建造了一个避难所。"
+        "old_translation": "雷丁姆，曾是撒克逊村庄，现归丹麦人所有。他们加固了此地，使其成为避难所。",
+        "translation": "雷丁姆，曾是撒克逊村庄，现归丹麦人所有。他们加固了此地，使其成为避难所。"
     },
     {
+        "id": "qstr_Aelfred_shouts__Men_",
         "text": "Aelfred_shouts,_'Men_of_Wessex_and_Cent,_these_lands_are_the_lands_of_our_fathers_and_grandfathers._They_are_the_lands_where_our_families_live_and_from_which_we_get_our_livelihood._This_is_our_land,_and_we_are_governed_by_one_king_and_one_God.'",
-        "translation": "艾弗德大喊，“西撒克逊的人民，这里是你们的祖辈父辈传给你们的土地，这里是我们和家人共同生活的地方，这里是属于我们的土地，是唯一的神和唯一的国王统治的土地。”"
+        "old_translation": "阿尔弗雷德高喊：“韦塞克斯与肯特的战士们，这片土地是我们父辈与祖辈的土地，是我们的家人生活、我们赖以生存的地方。这是我们的土地，由一位国王、一位上帝统治。”",
+        "translation": "阿尔弗雷德高喊：“韦塞克斯与肯特的战士们，这片土地是我们父辈与祖辈的土地，是我们的家人生活、我们赖以生存的地方。这是我们的土地，由一位国王、一位上帝统治。”"
     },
     {
+        "id": "qstr_Aelfred_shouts__Dane",
         "text": "Aelfred_shouts,_'Danes_bring_violence,_fear_and_their_pagan_gods._They_come_to_plunder_this_land_--_your_land_--_and_will_not_hesitate_to_kill_our_families_if_we_allow_them.'",
-        "translation": "艾弗德喊道：“丹麦人带来了暴力，恐惧，以及他们的异教神灵。他们来洗劫这片土地——你们的土地——如果我们束手就擒，他们将毫不犹豫地杀光我们的家人。”"
+        "old_translation": "阿尔弗雷德高喊：“丹麦人带来暴力、恐惧和他们的多神教神祇。他们来劫掠这片土地——你们的土地——若我们退让，他们会毫不犹豫地杀害我们的家人。”",
+        "translation": "阿尔弗雷德高喊：“丹麦人带来暴力、恐惧和他们的多神教徒神祇。他们来劫掠这片土地——你们的土地——若我们退让，他们会毫不犹豫地杀害我们的家人。”"
     },
     {
+        "id": "qstr_Aelfred_shouts__You_",
         "text": "Aelfred_shouts,_'You're_the_only_thing_standing_in_their_way._You're_the_wall_that_defends_Wessex._If_you_fall,_Wessex_dies._Men_of_Wessex_and_Cent,_God_is_with_us!_He_protects_us!_Can_we_fail_God?_Can_we_fail_our_families?'",
-        "translation": "艾弗德大喊：“现在只有你们能阻挡他们的军队，你们现在就是西撒克逊的城墙，如果你们倒下了，西撒克逊就完了。西撒克逊的人民，愿上帝保佑我们！上帝会保护我们！上帝会看着我们倒下吗？为了亲人们，我们能倒下吗？”"
+        "old_translation": "阿尔弗雷德高喊：“你们是阻挡他们的唯一屏障。你们是守护韦塞克斯的城墙。若你们倒下，韦塞克斯便亡。韦塞克斯与肯特的战士们，上帝与我们同在！他庇佑我们！我们能让上帝失望吗？能让家人失望吗？”",
+        "translation": "阿尔弗雷德高喊：“你们是阻挡他们的唯一屏障。你们是守护韦塞克斯的城墙。若你们倒下，韦塞克斯便亡。韦塞克斯与肯特的战士们，上帝与我们同在！他庇佑我们！我们能让上帝失望吗？能让家人失望吗？”"
     },
     {
+        "id": "qstr_Ut_Ut_Ut!_Ut_Ut_Ut!_",
         "text": "Ut_Ut_Ut!_Ut_Ut_Ut!_Ut_Ut_Ut!_Ut_Ut_Ut!_Ut_Ut_Ut!_Ut_Ut_Ut!",
-        "translation": "UtUtUt!UtUtUt!UtUtUt!UtUtUt!UtUtUt!UtUtUt!"
+        "old_translation": "UtUtUt！UtUtUt！UtUtUt！UtUtUt！UtUtUt！UtUtUt！",
+        "translation": "Ut Ut Ut！Ut Ut Ut！Ut Ut Ut！Ut Ut Ut！Ut Ut Ut！Ut Ut Ut！"
     },
     {
+        "id": "qstr_Aelfred_shouts__Ut_U",
         "text": "Aelfred_shouts,_'Ut_Ut_Ut!'",
-        "translation": "艾弗德大喊，“UtUtUt！”"
+        "old_translation": "阿尔弗雷德高喊：“UtUtUt！”",
+        "translation": "阿尔弗雷德高喊：“Ut Ut Ut！”"
     },
     {
+        "id": "qstr_Halfdan_shouts__Brot",
         "text": "Halfdan_shouts,_'Brothers!_Warriors!_Odin_watches_you,_Thor_is_among_us,_and_Loki_has_gone_to_confuse_our_enemies!_They,_the_Saxons,_are_afraid._They_know_that_we_will_go_after_them,_defeat_them_and_kill_many,_as_we_did_here_in_Readingum!'",
-        "translation": "哈弗丹大喊：“兄弟们！勇士们！奥丁看着你们呢，索尔与我们同在，洛基在迷惑敌人！他们这群撒克逊人害怕了，他们知道我们穷追不舍，把他们杀个片甲不留，就像我们在雷丁镇的胜利一样！”"
+        "old_translation": "哈夫丹高喊：“兄弟们！勇士们！奥丁注视你们，索尔与我们同在，洛基已去迷惑敌人！撒克逊人害怕了。他们知道我们会追击、击败并大量杀戮他们，正如我们在雷丁姆所做！”",
+        "translation": "哈夫丹高喊：“兄弟们！勇士们！奥丁注视你们，索尔与我们同在，洛基已去迷惑敌人！撒克逊人害怕了。他们知道我们会追击、击败并大量杀戮他们，正如我们在雷丁姆所做！”"
     },
     {
+        "id": "qstr_Halfdan_shouts__You_",
         "text": "Halfdan_shouts,_'You_know_me,_and_I_will_know_you._We_fought_together,_and_we_will_continue_doing_it._Today_we_depart_for_Aescesdun_to_attack_the_Saxons._If_you_fight_as_ever,_if_our_time_is_come,_then_the_Saxons_will_be_broken_and_Wessex_will_be_ours.'",
-        "translation": "哈弗丹大喊：“你们知道我是谁，我也领教过你们的本事。我们并肩作战，一如既往。今天我们前往阿先顿攻击撒克逊人，如果你们像往常一样战斗，只要我们抓住这个机会，那么撒克逊人就会毫无胜算，而西撒克逊的土地就是我们的了。”"
+        "old_translation": "哈夫丹高喊：“你们认识我，我也认识你们。我们并肩作战，并将继续如此。今日我们向阿什顿进发，攻打撒克逊人。若你们一如既往奋战，若时机已到，撒克逊人将被击溃，韦塞克斯将归我们所有。”",
+        "translation": "哈夫丹高喊：“你们认识我，我也认识你们。我们并肩作战，并将继续如此。今日我们向阿什顿进发，攻打撒克逊人。若你们一如既往奋战，若时机已到，撒克逊人将被击溃，韦塞克斯将归我们所有。”"
     },
     {
+        "id": "qstr_Halfdan_shouts__Thin",
         "text": "Halfdan_shouts,_'Think_of_the_riches_that_await_you_in_slaves_and_everlasting_fame._My_father,_Ragnar,_would_be_proud_of_you,_as_I_am._We_are_Danish._We_are_Scyldings._Today,_brethren,_mark_a_new_rune_of_glory!_Are_you_with_me?_Are_you_ready_for_glory?'",
-        "translation": "哈弗丹大喊：“想想那些任由你们处置的财富，以及不朽的名声，正在翘首以盼。我的父亲拉格纳将以你们为荣，我也是。我们是丹麦人，我们是神之子民。今天，同胞们，我们将要书写辉煌的新一页！你们跟我一起来吗？你们准备好迎接荣耀了吗？”"
+        "old_translation": "哈夫丹高声喊道：“想想奴隶与永世英名带来的财富吧！我的父亲拉格纳会为你骄傲，正如我一样。我们是丹麦人，我们是斯基尔丁族裔。今日，兄弟们，刻下新的荣耀符文！你们与我同在吗？你们准备好迎接荣耀了吗？”",
+        "translation": "哈夫丹高喊：“想想奴隶与永世英名带来的财富吧！我的父亲拉格纳会为你骄傲，正如我一样。我们是丹麦人，我们是斯基尔丁族裔。今日，兄弟们，刻下新的荣耀符文！你们与我同在吗？你们准备好迎接荣耀了吗？”"
     },
     {
+        "id": "qstr_Knyjum_knyjum_konung",
         "text": "Knyjum,_knyjum,_konungs_lidar,_hardla,_hardla_boanda_menn!_Knyjum!_Knyjum!_Knyjum!",
-        "translation": "Knyjum,knyjum,konungslidar,hardla,hardlaboandamenn!Knyjum!Knyjum!Knyjum!"
+        "old_translation": "（古诺斯语）战，战，王之战士，快，快，农夫们！战！战！战！^^Knyjum，knyjum，konungslidar，hardla，hardlaboandamenn!Knyjum!Knyjum!Knyjum!",
+        "translation": "（古诺斯语）战，战，王之战士，快，快，农夫们！战！战！战！^^Knyjum，knyjum，konungslidar，hardla，hardlaboandamenn!Knyjum!Knyjum!Knyjum!"
     },
     {
+        "id": "qstr_Halfdan_shouts__Knyj",
         "text": "Halfdan_shouts,_'Knyjum!_knyjum!_knyjum!'",
-        "translation": "哈弗丹大喊：“Knyjum!knyjum!knyjum!”"
+        "old_translation": "哈夫丹高声喊道：“战！战！战！（Knyjum!Knyjum!Knyjum!）”",
+        "translation": "哈夫丹高喊：“战！战！战！（Knyjum!Knyjum!Knyjum!）”"
     },
     {
+        "id": "qstr_The_Asturians_have_t",
         "text": "The_Asturians_have_taken_the_village,_and_you_see_many_of_them_around._Douar-an-Enez_sits_on_a_cliff,_and_you_suppose_that_the_men_you_seek_will_be_there.",
-        "translation": "阿斯图里亚斯的军队已经拿下了村庄，你也看到了很多他们的人在附近。当纳莱斯就在悬崖上，你猜你要找的人就在那里。"
+        "old_translation": "阿斯图里亚人已经占领村庄，你看见他们四处游荡。杜瓦讷内坐落在悬崖之上，你猜想你要找的人就在那儿。",
+        "translation": "阿斯图里亚人已经占领村庄，你看见他们四处游荡。杜瓦讷内坐落在悬崖之上，你猜想你要找的人就在那儿。"
     },
     {
+        "id": "qstr_Aelfred_says__{playe",
         "text": "Aelfred_says,_'{playername},_listen_to_me._We_have_a_problem._The_messengers_I_send_my_brother_always_come_back_with_the_same_answer._He_is_still_in_his_prayers_and_has_ordered_his_guard_that_nobody_disturb_him.'",
-        "translation": "艾弗德说：“{playername}，听我说，我们有个麻烦，我的信使总是带回同一个消息，我的兄弟还是在不停祈祷，而且命令他的护卫不让任何人打扰他。”"
+        "old_translation": "阿尔弗雷德说：“{playername}，听我说。我们遇到麻烦。我派去给我兄弟的信使总是带回同样的答复。他仍在祷告，并命令守卫不许任何人打扰。”",
+        "translation": "阿尔弗雷德说：“{playername}，听我说。我们遇到麻烦。我派去给我兄弟的信使总是带回同样的答复。他仍在祷告，并命令守卫不许任何人打扰。”"
     },
     {
+        "id": "qstr_Aelfred_continues__I",
         "text": "Aelfred_continues,_'I_think_he_does_not_know_that_the_Danish_are_about_to_gain_the_height_advantage._If_that_happens,_we_will_all_be_killed._His_guards_are_very_protective_and_do_not_let_anyone_pass,_but_if_we_wait,_we_die._I_will_order_an_attack_on_the_Danish..._I_think_that's_what_we_have_to_do,_you_know?_I_need_you_to_go_with_me._If_we_stay_here,_we_die.'",
-        "translation": "艾弗德继续说，“我认为他还不知道丹麦人正要占领高地优势。如果他们成功了，我们就会被杀光。他吩咐侍卫不让任何人打扰他，但如果我们就这么干等着，就死定了。我将下令向丹麦人发起攻击…我想我们别无选择了，你懂吗？你需要你跟我一起去。如果我们呆在原地，就会死在这里。”"
+        "old_translation": "阿尔弗雷德继续道：“我觉得他不知道丹麦人即将占据高地。若真如此，我们全都会死。他的守卫极其警惕，不让任何人通过，可若我们等待，也是死路一条。我将下令进攻丹麦人……我们必须这么做，你明白吗？我需要你随我同行。我们留在这里，只有死。”",
+        "translation": "阿尔弗雷德继续道：“我觉得他不知道丹麦人即将占据高地。若真如此，我们全都会死。他的守卫极其警惕，不让任何人通过，可若我们等待，也是死路一条。我将下令进攻丹麦人……我们必须这么做，你明白吗？我需要你随我同行。我们留在这里，只有死。”"
     },
     {
+        "id": "qstr___Aelfred_takes_a_de",
         "text": "--Aelfred_takes_a_deep_breath_and_blows_it_out_hard._You_notice_that_he_is_very_nervous._He_turns_to_his_men.--^^Men_of_Wessex_and_Cent,_follow_me!'",
-        "translation": "——艾弗德深吸了一口气然后僵硬地呼了出来。你看到他现在非常紧张。他转向自己的部下。——^^“西撒克逊的士兵们，跟我来！”"
+        "old_translation": "——阿尔弗雷德深吸一口气，重重呼出。你看得出他十分紧张。他转向部下。——^^“威塞克斯与肯特的战士们，随我来！”",
+        "translation": "——阿尔弗雷德深吸一口气，重重呼出。你看得出他十分紧张。他转向部下。——^^“韦塞克斯与肯特的战士们，随我来！”"
     },
     {
+        "id": "qstr_Halfdan_takes_you_as",
         "text": "Halfdan_takes_you_aside_and_says,_'{playername},_we_have_divided_our_army_into_two._I_will_lead_the_party_to_attack_the_hill_where_King_Aethelred_is,_and_my_brothers_will_take_the_other_against_where_the_king's_brother,_Aelfred,_is.'",
-        "translation": "哈弗丹把你拉到一边，说：“{playername}，我们把部队一分为二，我将率领其中一支突击阿尔弗雷德国王所在的山头，而我的兄弟将带领另一支攻击国王的兄弟，艾弗德。”"
+        "old_translation": "哈夫丹把你拉到一旁，说：“{playername}，我们已将军队一分为二。我将率部攻打埃塞尔雷德国王所在的山丘，我的兄弟们则去对付国王之弟阿尔弗雷德。”",
+        "translation": "哈夫丹把你拉到一旁，说：“{playername}，我们已将军队一分为二。我将率部攻打埃塞尔雷德国王所在的山丘，我的兄弟们则去对付国王之弟阿尔弗雷德。”"
     },
     {
+        "id": "qstr_Halfdan_continues__W",
         "text": "Halfdan_continues,_'We_will_move_quickly_to_confuse_them_and_break_their_spirit._I_want_you_to_advance_with_your_troops_and_offer_support_wherever_the_Saxons_offer_the_most_resistance._I'm_not_sure_where_exactly_Sven_is,_but_when_we_find_him,_he_will_be_yours.'",
-        "translation": "哈弗丹继续说：“我们要趁他们不备一举击破。我需要你和你的士兵随时准备增援撒克逊人激烈反抗的地方。我不清楚斯温在哪里，一旦我们找到他，就会马上交给你。”"
+        "old_translation": "哈夫丹继续道：“我们会迅速行动，扰乱他们，击垮他们的士气。我要你率部前进，在撒克逊人抵抗最激烈的地方提供支援。我不确定斯温确切在哪，但等我们找到他，他就归你。”",
+        "translation": "哈夫丹继续道：“我们会迅速行动，扰乱他们，击垮他们的士气。我要你率部前进，在撒克逊人抵抗最激烈的地方提供支援。我不确定斯温确切在哪，但等我们找到他，他就归你。”"
     },
     {
+        "id": "qstr___Halfdan_turns_to_h",
         "text": "--Halfdan_turns_to_his_men.--^^Let's_go_Scyldings!_By_Odin!_By_Ragnar!'",
-        "translation": "——哈弗丹转向他的士兵——^^“出发吧！战士们！为了奥丁！为了拉格纳！”"
+        "old_translation": "——哈夫丹转向部下。——^^“斯基尔丁的族裔们，出发！以奥丁之名！以拉格纳之名！”",
+        "translation": "——哈夫丹转向部下。——^^“斯基尔丁的族裔们，出发！以奥丁之名！以拉格纳之名！”"
     },
     {
+        "id": "qstr_From_the_boat_you_se",
         "text": "From_the_boat,_you_see_that_men_fight_on_the_hill._You_can_make_out_Bodo_between_them,_beset_by_enemies,_fighting_for_his_life...",
-        "translation": "从船上，你可以看到在小山丘上战斗的人们。你从他们当中认出了博多，他正为敌人所困，正在奋战求生。"
+        "old_translation": "从船上望去，你看见人们在山丘上厮杀。你认出了博多，他身陷重围，正在奋战求生……",
+        "translation": "从船上望去，你看见人们在山丘上厮杀。你认出了博多，他身陷重围，正为活命而战……"
     },
     {
+        "id": "qstr_Sven_shouts__Hah!_I_",
         "text": "Sven_shouts,_'Hah!_I_knew_you_would_come,_{playername}._You_and_me_have_unfinished_business_that_must_be_concluded._The_blood_of_my_brother,_Olvir_White_Hair,_still_stains_your_hands._Thanks_to_you,_I_had_to_turn_against_my_lord_Sigurd,_kill_Harald_and_become_a_masterless_man._But_now_I'm_strong._Many_men_follow_me_and_are_willing_to_fight_for_me.'",
-        "translation": "斯温喊道：“我就知道你会来的。事实上，{playername}，我们之间还有些事情没有解决。你的手上沾满了我的兄弟奥利维的血。但还是谢谢你，是你让我背叛了我的领主西格德，让我成为一个无主的人，并杀死了哈罗德。现在我感到很欣慰，因为有许多人愿意跟随我并为我而战。”"
+        "old_translation": "斯温高喊：“哈！我就知道你会来，{playername}。你我之间没完呢。我兄弟“白发”奥维尔的血仍染在你手上。因为你，我不得不背叛我的领主西格德，杀了哈拉尔，成为无主之人。但如今我更强了。许多人追随我，愿为我而战。”",
+        "translation": "斯温高喊：“哈！我就知道你会来，{playername}。你我之间还有未了之事。我兄弟‘白发’奥维尔的血仍沾在你手上。因为你，我不得不背叛我的领主西格德，杀了哈拉尔，成为无主之人。但如今我更强了。许多人追随我，愿为我而战。”"
     },
     {
+        "id": "qstr_You_say__You_and_you",
         "text": "You_say,_'You_and_you_alone_are_the_cause_of_your_ruin,_Sven._You_should_never_have_attacked_the_Woden_Ric._Now,_free_my_mother,_and_let's_settle_this_between_you_and_me.'",
-        "translation": "你说：“你和你的孤独是你失败的原因。你从一开始就不该袭击沃登里克号。现在，我要求你放了我的母亲，让我们两个人来解决我们之间的恩怨。”"
+        "old_translation": "你说：“斯温，你的覆灭全因你自己。你本不该袭击沃登里克号。赶紧放了我母亲，然后我们单独了结这件事。”",
+        "translation": "你说：“斯温，你的覆灭全因你自己。你本不该袭击沃登里克号。立刻放了我母亲，我们单独了结此事。”"
     },
     {
+        "id": "qstr_Sven_shouts__I_think",
         "text": "Sven_shouts,_'I_think_not._She_is_my_wife_and_my_seidr._If_you_want_her,_come_get_her._But_have_a_care;_you_might_find_my_sword_instead!'",
-        "translation": "斯温喊道：“我想我不会这么做，她现在是我的妻子和我的女巫。如果你想让我放了她，那就放马过来吧。但我最好事先提醒你，注意我的剑！”"
+        "old_translation": "斯温高喊：“休想。她是我妻子，也是我的赛德尔。想要她，那就放马过来吧。但小心，你迎来的可能是我的剑！”",
+        "translation": "斯温高喊：“休想。她是我妻子，也是我的赛德尔。想要她，就放马过来。但小心，你迎来的可能是我的剑！”"
     },
     {
+        "id": "qstr_Your_mother_looks_ti",
         "text": "Your_mother_looks_tired_and_withered._She_says,_'My_little_one,_I_see_your_face,_and_I_remember._I_regret_everything_you've_had_to_do_for_my_sake._Go_and_live_your_life._I_die_soon._Sven_is_a_murderer_and_a_madman._Do_not_give_him_the_satisfaction_of_killing_you..._I_want_you_to_live._I_want_you_to_live_for_both_of_us.'",
-        "translation": "你的母亲看起来极度疲惫。她说：“我的小家伙，让我看着你的脸，让我记住它。对于你为我所做的一切，我很遗憾。找回你自己应有的生活吧，我快要离开这个世界了。斯温是一个疯子，也是一个杀人犯。不要让他杀了你，不要让他得逞…我要你好好活着，我希望你为了我们活着。”"
+        "old_translation": "你母亲显得憔悴疲惫。她说：“我的孩子，我看见你的脸，便想起过去。我后悔你为我所做的一切。去过你的生活吧。我命不久矣。斯温是凶手，也是疯子。别让他得逞杀了你……我要你活下去。我要你为我们两人而活。”",
+        "translation": "你母亲显得憔悴疲惫。她说：“我的孩子，我看见你的脸，便想起过去。我后悔你为我所做的一切。去过你的生活吧。我命不久矣。斯温是凶手，也是疯子。别让他得逞杀了你……我要你活下去。我要你为我们两人而活。”"
     },
     {
+        "id": "qstr_Sven_says__Shut_up_w",
         "text": "Sven_says,_'Shut_up_woman!_You_see_your_little_one_has_decided_to_die._{playername},_here_I_wait._Come_and_get_me_if_you_dare._My_brother_Olvir_will_glad_when_I_send_you_to_the_halls_of_Hel.'",
-        "translation": "斯温说：“闭嘴，你这个女人！你所谓的小家伙已经准备好来送死了。{playername}，我在这等你，如果你敢过来，我就让你死无葬身之地。我想当我把你送到赫尔的大厅时，我的兄弟奥利维会很高兴的。”"
+        "old_translation": "斯温说：“闭嘴，女人！你的小崽子已经准备好来送死了。{playername}，我就在这儿等你。有本事就来取我性命吧，等我把你送进赫尔的宫殿，我兄弟奥维尔会很高兴的。”",
+        "translation": "斯温说：“闭嘴，女人！你的小崽子已经准备好来送死了。{playername}，我就在这儿等你。有本事就来取我性命，等我把你送进赫尔的殿堂，我兄弟奥维尔会很高兴。”"
     },
     {
+        "id": "qstr_Ambush!_The_Sven_s_m",
         "text": "Ambush!_The_Sven's_men_are_attacking_from_behind_us!",
-        "translation": "伏击！斯温的手下正从后方突袭我们！"
+        "old_translation": "埋伏！斯温的人从后方袭来！",
+        "translation": "埋伏！斯温的人从后方袭来！"
     },
     {
+        "id": "qstr_Sven_says__Is_this_w",
         "text": "Sven_says,_'Is_this_what_you_wanted?_Do_you_still_think_you_can_win?_I'm_still_alive!_As_I_warned_you,_she_is_dead!'",
-        "translation": "斯温说：“难道这就是你想要的结果吗？你以为你会赢吗？我还活着！我也警告过你，你的母亲已经死了！”"
+        "old_translation": "斯温说：“这就是你想要的结果？你还以为能赢？我还活着！正如我警告过你，她已经死了！”",
+        "translation": "斯温说：“这就是你想要的结果？你还以为能赢？我还活着！正如我警告过你，她已经死了！”"
     },
     {
+        "id": "qstr_Your_mother_speaks__",
         "text": "Your_mother_speaks,_'My_little_one,_I_love_you._Remember_that_your_mother_has_always_loved_you,_and_will_watch_from_wherever_I_go...'",
-        "translation": "你的母亲说：“我的小家伙，我爱你。请记住，你的母亲一直都爱着你，无论你身在何处，我都会陪伴着你…”"
+        "old_translation": "你母亲开口：“我的孩子，我爱你。记住，你的母亲永远爱你，无论我去往何处，都会守望你……”",
+        "translation": "你母亲开口：“我的孩子，我爱你。记住，你的母亲永远爱你，无论我去往何处，都会守望你……”"
     },
     {
+        "id": "qstr_Sven_says__This_is_y",
         "text": "Sven_says,_'This_is_your_fault!'",
+        "old_translation": "斯温说：“你这是自作自受！”",
         "translation": "斯温说：“你这是自作自受！”"
     },
     {
+        "id": "qstr_Hint:_Drop_something",
         "text": "Hint:_Drop_something_in_the_ship!'",
+        "old_translation": "提示：把东西丢在船上！",
         "translation": "提示：把东西丢在船上！"
     },
     {
+        "id": "qstr_The_Snake_lies_dead_",
         "text": "The_Snake_lies_dead_at_your_feet._His_goods_are_yours_now.^You_have_fulfilled_your_mission._It's_time_to_go_to_the_abbot_of_Finian_to_collect_your_reward.",
-        "translation": "蛇的尸体躺在你的脚边，他的货物是你的了。^你完成了你的使命。是时候去找菲尼安的修道院长领取奖励了。"
+        "old_translation": "蛇的尸体躺在你的脚边，他的货物是你的了。^你完成了你的使命。是时候去找菲尼安的修道院院长领取奖励了。",
+        "translation": "“蛇”的尸体躺在你的脚边，他的货物归你了。^你完成了使命。该去找菲尼安的修道院院长领取奖励了。"
     },
     {
+        "id": "qstr_The_song_the_cries_o",
         "text": "The_song,_the_cries_of_beasts,_the_fog,_chaos_and_angst..._Your_men_die_without_seeing_who_kills_them._For_a_moment,_you_remember_the_words_of_Caliacas,_and_you_fear_the_unknown.",
-        "translation": "歌声，野兽的叫声，雾，混乱和焦虑....你的士兵被杀死的时候都不知道是谁干的。过了一会，你想起了卡利卡斯说的话吗，并且你开始害怕接下来会发生什么。"
+        "old_translation": "歌声，野兽的叫声，雾，混乱和焦虑……你的士兵被杀死的时候都不知道是谁干的。过了一会，你想起了卡利卡斯说的话，并且你开始害怕未知。",
+        "translation": "歌声、兽吼、迷雾、混乱与焦虑……你的部下被杀死时连凶手都没看清。片刻间，你想起卡利卡斯的话，开始对未知感到恐惧。"
     },
     {
+        "id": "qstr_Horns_sound_in_the_d",
         "text": "Horns_sound_in_the_distance,_and_it_seems_that_the_fog_dissipates_a_bit._Someone_is_coming_to_your_aid._Morrigan_and_her_animals_turn_from_their_attack.",
-        "translation": "号角的声音在远处传来，并且雾似乎开始消散了。有些人来援助你。莫莉卡和她的野兽停止了他们的攻击。"
+        "old_translation": "号角的声音在远处传来，雾似乎开始消散了。有人前来援助你。莫莉甘和她的野兽停止了攻击。",
+        "translation": "远处号角响起，迷雾似乎散去些许。有人前来支援。莫莉甘和她的野兽停止攻击。"
     },
     {
+        "id": "qstr_Breaking_before_your",
         "text": "Breaking_before_your_ferocious_attack,_your_enemies_retreat_to_the_cave._There_are_not_many,_but_they_fight_hard_and_leave_no_casualties.",
-        "translation": "在你凶猛的攻击之前，你的敌人撤退到洞穴。他们人数并不多，但是他们仍很努力地战斗，没有任何伤亡。"
+        "old_translation": "在你凶猛的攻势下，敌人退入洞穴。他们人数不多，却顽强抵抗，没有留下任何伤亡。",
+        "translation": "在你凶猛的攻势下，敌人退入洞穴。他们人数不多，却顽强抵抗，没有留下伤亡。"
     },
     {
+        "id": "qstr_Explore_the_area_and",
         "text": "Explore_the_area_and_meet_Morrigan.",
-        "translation": "探索区域并且和莫莉卡见面。"
+        "old_translation": "探索这片区域，与莫莉甘会面。",
+        "translation": "探索这片区域，与莫莉甘会面。"
     },
     {
+        "id": "qstr_Fire_consumes_the_ha",
         "text": "Fire_consumes_the_hall,_and_smoke_enters_your_body_with_every_breath_you_take._You_must_find_an_exit_or_you_will_die_soon._Hurry_up!_Find_a_weak_spot_in_the_burned_walls!'",
-        "translation": "大厅在燃烧着，你每一次呼吸都把烟雾吸进身体里。你必须找到一个出口不然过不了多久你便会死。快点！在燃烧的墙壁上找到一个薄弱点！"
+        "old_translation": "火焰吞噬大厅，每一次呼吸都把浓烟吸进体内。你必须找到出口，否则很快就会死去。快点！在燃烧的墙壁上寻找薄弱点！",
+        "translation": "火焰吞噬大厅，你每吸一口气都吸入浓烟。必须找到出口，否则必死无疑。快点！在燃烧的墙上找薄弱处！"
     },
     {
+        "id": "qstr_You_take_5_damage_fr",
         "text": "You_take_5_damage_from_smoke.",
-        "translation": "在烟雾中受到5点伤害"
+        "old_translation": "你因烟雾受到5点伤害。",
+        "translation": "你因烟雾受到5点伤害。"
     },
     {
+        "id": "qstr_You_find_a_small_hol",
         "text": "You_find_a_small_hole_in_one_wall_and_open_it_using_your_hands_and_weapons,_looking_to_escape_the_hell_of_fire_that_consumes_the_room.",
-        "translation": "你在一个墙上发现一个小洞，用你的手和武器打开它，逃离这个地狱。"
+        "old_translation": "你在墙上发现一个小洞，用手和武器把它扩大，逃离这片火狱。",
+        "translation": "你在墙上发现一个小洞，用手和武器把它扩大，逃离这片火狱。"
     },
     {
+        "id": "qstr_Chaos_and_war!_The_f",
         "text": "Chaos_and_war!_The_feast_converts_into_a_slaughterhouse_as_Fergus,_Mael_Bresail's_man,_leads_his_warriors_to_kill_yours._You_are_not_yet_safe;_even_now,_death_hovers_near._If_you_somehow_survive,_Mael_Bresail_will_have_much_to_answer_for!",
-        "translation": "混乱和战斗！宴会变成了一个屠宰场，普雷西尔王子命令士兵杀了你。你现在不是很安全，即使是现在，死神随时会带走你。如果你想要活下去，普雷西尔王子会有许多方式给你一个答案。"
+        "old_translation": "混乱与战争！宴会瞬间变成屠宰场，梅尔·布雷塞尔的手下弗格斯率领战士屠杀你的人。你仍未脱险；死亡就在身边徘徊。若能侥幸生还，梅尔·布雷塞尔必须为此付出代价！",
+        "translation": "混乱与战争！宴会瞬间变成屠宰场，梅尔·布雷塞尔的手下弗格斯率领战士屠杀你的人。你仍未脱险；死亡就在身边徘徊。若能生还，梅尔·布雷塞尔必须付出代价！"
     },
     {
+        "id": "qstr_Mael_Bresail_has_bet",
         "text": "Mael_Bresail_has_betrayed_you,_possibly_because_he_feared_you_are_the_only_witness_to_his_machinations_to_have_Flaithbertach's_remaining_family_assassinated._Fergus_tried_to_burn_down_the_mead_hall_with_you_inside_and_afterwards_to_kill_you_when_you_escaped_the_fire._Many_of_your_men_died_in_the_fray._Mael_Bresail_must_pay._Maybe_now_is_a_good_time_to_ask_the_abbot_of_Finian_where_his_master_is...",
-        "translation": "普雷西尔王子已经出卖了你，可能是因为他害怕你是唯一见证他的阴谋的人。费格斯企图烧毁蜜酒厅来杀死你，但你逃过了一劫。你的许多士兵死于这场大火，普雷西尔王子必须付出代价。也许现在是一个很好的时间来问菲尼安的修道院长，他的主人在哪里。"
+        "old_translation": "梅尔·布雷塞尔背叛了你，或许因为他害怕你是唯一目睹他密谋刺杀弗莱厄伯特赫残存家族的人。弗格斯先纵火焚烧蜜酒厅，又在你逃出火海时试图杀你。许多部下在混战中丧生。梅尔·布雷塞尔必须血债血偿。也许现在正是向菲尼安的修道院院长打听他主人下落的好时机……",
+        "translation": "梅尔·布雷塞尔背叛了你，或许因为他害怕你是唯一目睹他密谋刺杀弗莱厄伯特赫残存家族的人。弗格斯先纵火焚烧蜜酒厅，又在你逃出火海时试图杀你。许多部下在混战中丧生。梅尔·布雷塞尔必须血债血偿。也许现在正是向菲尼安的修道院院长打听他主人下落的好时机……"
     },
     {
+        "id": "qstr_{s2}",
         "text": "{s2}",
+        "old_translation": "{s2}",
         "translation": "{s2}"
     },
     {
+        "id": "qstr_Mael_Bresail_has_fal",
         "text": "Mael_Bresail_has_fallen_under_the_blows_of_your_steel._Your_revenge_is_consummated._Your_men_plunder_the_farm,_and_they_bring_you_a_chest_full_of_gold.",
-        "translation": "普雷西尔王子倒在你的剑下，你完成了你的复仇。你的士兵掠夺农场，收获了一箱子的黄金。"
+        "old_translation": "梅尔·布雷塞尔倒在你的钢铁之下，复仇得以完成。你的部下洗劫农场，为你抬来一箱黄金。",
+        "translation": "梅尔·布雷塞尔倒在你的钢铁之下，复仇完成。你的部下洗劫农场，为你抬来一箱黄金。"
     },
     {
+        "id": "qstr_Ambush!_There_were_m",
         "text": "Ambush!_There_were_men_hiding_in_the_houses!",
-        "translation": "伏击!有人埋伏在房子里！！"
+        "old_translation": "伏击！屋里藏有伏兵！",
+        "translation": "伏击！屋里藏有伏兵！"
     },
     {
+        "id": "qstr_You_can_give_the_com",
         "text": "You_can_give_the_command_to_row_forward,_fast_forward,_backwards,_or_stay._The_up_and_down_arrow_keys_switch_between_these_commands.^You_can_also_give_the_command_to_go_straight,_starboard,_hard_starboard,_port_or_hard_port._The_left_and_right_arrow_keys_switch_between_these_commands.^Current_commands_are_represented_by_arrows_around_the_representation_of_your_ship_in_the_upper_right_corner.^Press_Enter_to_set_the_sail_and_backspace_to_get_a_wide_view_of_the_scene.",
-        "translation": "你可以给舰队下指令：缓慢前进、快速前进、后退或是停留原地。使用上下光标键在这些命令当中切换。^你同样可以给舰队下这些指令：前进、右转舵、左转舵、抛锚或是起锚。使用左右光标键在这些命令当中切换。^当前的指令会在屏幕的右上角以箭头的形式表示。^按下回车键来升降船帆，按下退格键可以观看全局。"
+        "old_translation": "你可以下令船只缓进、快进、后退或停船。上下箭头键在这些命令间切换。^你也可以下令直航、右舵、右满舵、左舵或左满舵。左右箭头键在这些命令间切换。^当前命令以箭头形式显示在右上角的船只图标周围。^按回车键扬帆，按退格键查看全景。",
+        "translation": "你可以下令船只缓进、快进、后退或停船。上下箭头键在这些命令间切换。^你也可以下令直航、右舵、右满舵、左舵或左满舵。左右箭头键在这些命令间切换。^当前命令以箭头形式显示在右上角的船只图标周围。^按回车键扬帆，按退格键查看全景。"
     },
     {
+        "id": "qstr_Ship_Control",
         "text": "Ship_Control",
+        "old_translation": "船只控制",
         "translation": "船只控制"
     }
 ]

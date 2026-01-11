@@ -1,298 +1,488 @@
 [
     {
+        "id": "pt_none",
         "text": "none",
+        "old_translation": "",
         "translation": "none{***}"
     },
     {
+        "id": "pt_rescued_prisoners",
         "text": "Rescued_Prisoners",
+        "old_translation": "",
         "translation": "被救的俘虏"
     },
     {
+        "id": "pt_enemy",
         "text": "Enemy",
+        "old_translation": "",
         "translation": "敌人"
     },
     {
+        "id": "pt_hero_party",
         "text": "Hero_Party",
+        "old_translation": "",
         "translation": "英雄部队"
     },
     {
+        "id": "pt_village_defenders",
         "text": "Village_Defenders",
+        "old_translation": "",
         "translation": "村庄卫队"
     },
     {
+        "id": "pt_cattle_herd",
         "text": "Cattle_Herd",
+        "old_translation": "",
         "translation": "牛群"
     },
     {
+        "id": "pt_looters",
         "text": "Thieves",
+        "old_translation": "",
         "translation": "盗贼"
     },
     {
+        "id": "pt_manhunters",
         "text": "Young_Warriors",
+        "old_translation": "",
         "translation": "青年勇士"
     },
     {
+        "id": "pt_steppe_bandits",
         "text": "Northmenn",
+        "old_translation": "",
         "translation": "诺曼强盗"
     },
     {
+        "id": "pt_taiga_bandits",
         "text": "Vikingarnir",
+        "old_translation": "",
         "translation": "维京强盗"
     },
     {
+        "id": "pt_desert_bandits",
         "text": "Veteran_Renegades",
+        "old_translation": "",
         "translation": "老练叛军"
     },
     {
+        "id": "pt_forest_bandits",
         "text": "Robbers",
+        "old_translation": "",
         "translation": "强盗"
     },
     {
+        "id": "pt_mountain_bandits",
         "text": "Renegades",
+        "old_translation": "",
         "translation": "叛军"
     },
     {
+        "id": "pt_sea_raiders",
         "text": "Masterless_Fighters",
+        "old_translation": "",
         "translation": "无主斗士"
     },
     {
+        "id": "pt_sea_raiders2",
         "text": "Danish_Elite_Vikingarnir",
+        "old_translation": "",
         "translation": "丹麦精英维京强盗"
     },
     {
+        "id": "pt_fianna",
         "text": "Renegade_Fianna",
+        "old_translation": "",
         "translation": "费奥纳的叛徒"
     },
     {
+        "id": "pt_frank_looters_1",
         "text": "Thieving_Franks",
+        "old_translation": "",
         "translation": "盗贼"
     },
     {
+        "id": "pt_frank_looters_2",
         "text": "Raiding_Franks",
+        "old_translation": "",
         "translation": "盗贼"
     },
     {
+        "id": "pt_deserters",
         "text": "Masterless_Men",
+        "old_translation": "",
         "translation": "散兵游勇"
     },
     {
+        "id": "pt_merchant_caravan",
         "text": "Merchant_Caravan",
+        "old_translation": "",
         "translation": "商人的商队"
     },
     {
+        "id": "pt_troublesome_bandits",
         "text": "Troublesome_Bandits",
+        "old_translation": "",
         "translation": "难对付的强盗"
     },
     {
+        "id": "pt_bandits_awaiting_ransom",
         "text": "Bandits_Awaiting_Ransom",
+        "old_translation": "",
         "translation": "等待赎金的强盗"
     },
     {
+        "id": "pt_kidnapped_girl",
         "text": "Kidnapped_Girl",
+        "old_translation": "",
         "translation": "被绑架的女孩"
     },
     {
+        "id": "pt_village_farmers",
         "text": "Village_Farmers",
+        "old_translation": "",
         "translation": "村民"
     },
     {
+        "id": "pt_spy_partners",
         "text": "Unremarkable_Travellers",
+        "old_translation": "",
         "translation": "不显眼的旅行者"
     },
     {
+        "id": "pt_runaway_serfs",
         "text": "Runaway_Serfs",
+        "old_translation": "",
         "translation": "逃跑的农奴"
     },
     {
+        "id": "pt_spy",
         "text": "Ordinary_Townsman",
+        "old_translation": "",
         "translation": "普通的市民"
     },
     {
+        "id": "pt_sacrificed_messenger",
         "text": "Sacrificed_Messenger",
+        "old_translation": "",
         "translation": "献祭信使"
     },
     {
+        "id": "pt_scout_party",
         "text": "Scouts",
+        "old_translation": "",
         "translation": "侦察队"
     },
     {
+        "id": "pt_messenger_party",
         "text": "Messenger",
+        "old_translation": "",
         "translation": "信使"
     },
     {
+        "id": "pt_raider_party",
         "text": "Raiders",
+        "old_translation": "",
         "translation": "突袭者"
     },
     {
+        "id": "pt_raider_captives",
         "text": "Raider_Captives",
+        "old_translation": "",
         "translation": "猎俘队"
     },
     {
+        "id": "pt_kingdom_caravan_party",
         "text": "Trader",
+        "old_translation": "",
         "translation": "商队"
     },
     {
+        "id": "pt_prisoner_train_party",
         "text": "Prisoner_Train",
+        "old_translation": "",
         "translation": "运俘队"
     },
     {
+        "id": "pt_default_prisoners",
         "text": "Default_Prisoners",
+        "old_translation": "",
         "translation": "逃走的俘虏"
     },
     {
+        "id": "pt_routed_warriors",
         "text": "Routed_Enemies",
+        "old_translation": "",
         "translation": "溃军"
     },
     {
+        "id": "pt_center_reinforcements",
         "text": "Reinforcements",
+        "old_translation": "",
         "translation": "增援部队"
     },
     {
+        "id": "pt_kingdom_hero_party",
         "text": "War_Party",
+        "old_translation": "",
         "translation": "战团"
     },
     {
+        "id": "pt_steppe_bandit_lair",
         "text": "a_Northmenn_longphort",
+        "old_translation": "",
         "translation": "诺曼港垒"
     },
     {
+        "id": "pt_taiga_bandit_lair",
         "text": "a_Vikingarnir_longphort",
+        "old_translation": "",
         "translation": "维京港垒"
     },
     {
+        "id": "pt_desert_bandit_lair",
         "text": "a_veteran_renegades'_camp",
+        "old_translation": "",
         "translation": "老练叛军营地"
     },
     {
+        "id": "pt_forest_bandit_lair",
         "text": "a_robbers'_den",
+        "old_translation": "",
         "translation": "强盗老巢"
     },
     {
+        "id": "pt_mountain_bandit_lair",
         "text": "a_renegades'_camp",
+        "old_translation": "",
         "translation": "叛军营地"
     },
     {
+        "id": "pt_sea_raider_lair",
         "text": "a_fighters_camp",
+        "old_translation": "",
         "translation": "斗士营地"
     },
     {
+        "id": "pt_sea_raider_lair2",
         "text": "a_Danish_longphort",
+        "old_translation": "",
         "translation": "丹麦港垒"
     },
     {
+        "id": "pt_looter_lair",
         "text": "the_kidnappers'_hideout",
+        "old_translation": "",
         "translation": "绑架者藏身处"
     },
     {
+        "id": "pt_leaded_looters",
         "text": "Band_of_Robbers",
+        "old_translation": "",
         "translation": "强盗团"
     },
     {
+        "id": "pt_sacerdotes_party",
         "text": "Christian_Clergy",
+        "old_translation": "",
         "translation": "基督教牧师"
     },
     {
+        "id": "pt_paganos_party",
         "text": "Pagan_Priests",
+        "old_translation": "",
         "translation": "多神教祭司"
     },
     {
+        "id": "pt_sea_raiders_ships",
         "text": "Frankish_Raiders",
+        "old_translation": "",
         "translation": "法兰克突袭者"
     },
     {
+        "id": "pt_sea_raiders_ships2",
         "text": "Danish_Vikingr",
+        "old_translation": "",
         "translation": "丹麦维京强盗"
     },
     {
+        "id": "pt_sea_raiders_ships3",
         "text": "Vikingr",
+        "old_translation": "",
         "translation": "维京强盗"
     },
     {
+        "id": "pt_sea_raiders_ships4",
         "text": "Norwegian_Vikingr",
+        "old_translation": "",
         "translation": "挪威维京强盗"
     },
     {
+        "id": "pt_sea_raiders_ships5",
         "text": "Swedish_Vikingr",
+        "old_translation": "",
         "translation": "瑞典维京强盗"
     },
     {
+        "id": "pt_sea_raiders_ships6",
+        "text": "Raiders",
+        "old_translation": "",
+        "translation": "突袭者"
+    },
+    {
+        "id": "pt_chimney_smoke",
         "text": "Smoke",
+        "old_translation": "",
         "translation": "烟"
     },
     {
+        "id": "pt_epic_fleet",
         "text": "Epic_Viking_Fleet",
+        "old_translation": "",
         "translation": "传奇维京船队"
     },
     {
+        "id": "pt_port",
         "text": "port",
+        "old_translation": "",
         "translation": "港口"
     },
     {
+        "id": "pt_ferry_port",
+        "text": "port",
+        "old_translation": "",
+        "translation": "港口"
+    },
+    {
+        "id": "pt_landet_ships",
         "text": "your_ships",
+        "old_translation": "",
         "translation": "你的船"
     },
     {
+        "id": "pt_fisher_ship",
         "text": "Fisher",
+        "old_translation": "",
         "translation": "渔船"
     },
     {
+        "id": "pt_traveller_ship",
         "text": "Traveller",
+        "old_translation": "",
         "translation": "旅行者"
     },
     {
+        "id": "pt_slave_trader_ship",
         "text": "Slave_Trader",
+        "old_translation": "",
         "translation": "贩奴船"
     },
     {
+        "id": "pt_sea_king_danish",
         "text": "Sea_King",
+        "old_translation": "",
         "translation": "提督"
     },
     {
+        "id": "pt_sea_king_norweg",
+        "text": "Sea_King",
+        "old_translation": "",
+        "translation": "提督"
+    },
+    {
+        "id": "pt_walrus_hunter",
         "text": "Walrus_Hunter",
+        "old_translation": "",
         "translation": "海象猎人"
     },
     {
+        "id": "pt_viking_raider",
         "text": "Viking_Raider",
+        "old_translation": "",
         "translation": "维京突袭者"
     },
     {
+        "id": "pt_ambushers",
         "text": "Ambushers",
+        "old_translation": "",
         "translation": "伏击者"
     },
     {
+        "id": "pt_ship",
         "text": "Ship",
+        "old_translation": "",
         "translation": "船"
     },
     {
+        "id": "pt_sven_doccinga_ca",
         "text": "Sven's_Raiders",
+        "old_translation": "",
         "translation": "斯温的突袭队"
     },
     {
+        "id": "pt_sven_lair_deffense",
         "text": "Sven's_Hideout",
+        "old_translation": "",
         "translation": "斯温的藏身处"
     },
     {
+        "id": "pt_kennemer_revenge",
+        "text": "Raiders",
+        "old_translation": "",
+        "translation": "突袭者"
+    },
+    {
+        "id": "pt_sigurd_farm_men",
         "text": "Sigurd's_Men",
+        "old_translation": "",
         "translation": "西格德的战士"
     },
     {
+        "id": "pt_wessex_foragers",
         "text": "West_Seaxe_Foragers",
+        "old_translation": "",
         "translation": "西撒克逊征粮队"
     },
     {
+        "id": "pt_wessex_patrol",
         "text": "West_Seaxe_Patrol",
+        "old_translation": "",
         "translation": "西撒克逊巡逻队"
     },
     {
+        "id": "pt_norway_looters",
+        "text": "Thieves",
+        "old_translation": "",
+        "translation": "盗贼"
+    },
+    {
+        "id": "pt_jetty_port",
+        "text": "port",
+        "old_translation": "",
+        "translation": "港口"
+    },
+    {
+        "id": "pt_boar_herd",
         "text": "Boar_Herd",
+        "old_translation": "",
         "translation": "野猪群"
     },
     {
+        "id": "pt_adv_party",
+        "text": "War_Party",
+        "old_translation": "",
+        "translation": "战团"
+    },
+    {
+        "id": "pt_slave_hideout",
         "text": "Hideout",
+        "old_translation": "",
         "translation": "藏身处"
     },
     {
+        "id": "pt_village_elder",
         "text": "Levy",
+        "old_translation": "",
         "translation": "税吏"
     }
 ]

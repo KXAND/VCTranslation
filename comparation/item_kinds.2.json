@@ -1,0 +1,3002 @@
+[
+    {
+        "id": "itm_gambeson34",
+        "text": "Angle_Long_Gambeson",
+        "old_translation": "",
+        "translation": "盎格鲁长软甲"
+    },
+    {
+        "id": "itm_gambeson34_pl",
+        "text": "Angle_Long_Gambeson",
+        "old_translation": "",
+        "translation": "盎格鲁长软甲"
+    },
+    {
+        "id": "itm_gambeson35",
+        "text": "Norse_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯软甲"
+    },
+    {
+        "id": "itm_gambeson35_pl",
+        "text": "Norse_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯软甲"
+    },
+    {
+        "id": "itm_gambeson36",
+        "text": "Briton_Long_Gambeson",
+        "old_translation": "",
+        "translation": "布立吞长软甲"
+    },
+    {
+        "id": "itm_gambeson36_pl",
+        "text": "Briton_Long_Gambeson",
+        "old_translation": "",
+        "translation": "布立吞长软甲"
+    },
+    {
+        "id": "itm_gambeson37",
+        "text": "Briton_Gambeson",
+        "old_translation": "",
+        "translation": "布立吞长软甲"
+    },
+    {
+        "id": "itm_gambeson37_pl",
+        "text": "Briton_Gambeson",
+        "old_translation": "",
+        "translation": "布立吞长软甲"
+    },
+    {
+        "id": "itm_gambeson38",
+        "text": "Briton_Long_Gambeson",
+        "old_translation": "",
+        "translation": "布立吞长软甲"
+    },
+    {
+        "id": "itm_gambeson38_pl",
+        "text": "Briton_Long_Gambeson",
+        "old_translation": "",
+        "translation": "布立吞长软甲"
+    },
+    {
+        "id": "itm_gambeson39",
+        "text": "Angle_Long_Gambeson",
+        "old_translation": "",
+        "translation": "盎格鲁长软甲"
+    },
+    {
+        "id": "itm_gambeson39_pl",
+        "text": "Angle_Long_Gambeson",
+        "old_translation": "",
+        "translation": "盎格鲁长软甲"
+    },
+    {
+        "id": "itm_gambeson40",
+        "text": "Briton_Long_Gambeson",
+        "old_translation": "",
+        "translation": "布立吞长软甲"
+    },
+    {
+        "id": "itm_gambeson40_pl",
+        "text": "Briton_Long_Gambeson",
+        "old_translation": "",
+        "translation": "布立吞长软甲"
+    },
+    {
+        "id": "itm_gambeson41",
+        "text": "Briton_Long_Gambeson",
+        "old_translation": "",
+        "translation": "布立吞长软甲"
+    },
+    {
+        "id": "itm_gambeson41_pl",
+        "text": "Briton_Long_Gambeson",
+        "old_translation": "",
+        "translation": "布立吞长软甲"
+    },
+    {
+        "id": "itm_gambeson42",
+        "text": "Briton_Gambeson",
+        "old_translation": "",
+        "translation": "布立吞长软甲"
+    },
+    {
+        "id": "itm_gambeson42_pl",
+        "text": "Briton_Gambeson",
+        "old_translation": "",
+        "translation": "布立吞长软甲"
+    },
+    {
+        "id": "itm_gambeson43",
+        "text": "Norse_Long_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯长软甲"
+    },
+    {
+        "id": "itm_gambeson43_pl",
+        "text": "Norse_Long_Gambeson",
+        "old_translation": "",
+        "translation": "诺尔斯长软甲"
+    },
+    {
+        "id": "itm_gambeson44",
+        "text": "Frisian_Long_Gambeson",
+        "old_translation": "",
+        "translation": "弗里斯长软甲"
+    },
+    {
+        "id": "itm_gambeson44_pl",
+        "text": "Frisian_Long_Gambeson",
+        "old_translation": "",
+        "translation": "弗里斯长软甲"
+    },
+    {
+        "id": "itm_gambeson45",
+        "text": "Angle_Gambeson",
+        "old_translation": "",
+        "translation": "盎格鲁软甲"
+    },
+    {
+        "id": "itm_gambeson45_pl",
+        "text": "Angle_Gambeson",
+        "old_translation": "",
+        "translation": "盎格鲁软甲"
+    },
+    {
+        "id": "itm_gambeson46",
+        "text": "Frisian_Long_Gambeson",
+        "old_translation": "",
+        "translation": "弗里斯长软甲"
+    },
+    {
+        "id": "itm_gambeson46_pl",
+        "text": "Frisian_Long_Gambeson",
+        "old_translation": "",
+        "translation": "弗里斯长软甲"
+    },
+    {
+        "id": "itm_gambeson47",
+        "text": "Common_Long_Gambeson",
+        "old_translation": "",
+        "translation": "平民长软甲"
+    },
+    {
+        "id": "itm_gambeson47_pl",
+        "text": "Common_Long_Gambeson",
+        "old_translation": "",
+        "translation": "平民长软甲"
+    },
+    {
+        "id": "itm_gambeson48",
+        "text": "Common_Long_Gambeson",
+        "old_translation": "",
+        "translation": "平民长软甲"
+    },
+    {
+        "id": "itm_gambeson48_pl",
+        "text": "Common_Long_Gambeson",
+        "old_translation": "",
+        "translation": "平民长软甲"
+    },
+    {
+        "id": "itm_mail_shirt",
+        "text": "Frisian_Byrnie",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_pl",
+        "text": "Frisian_Byrnie",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_1",
+        "text": "Common_Byrnie",
+        "old_translation": "",
+        "translation": "带披风蓝钢重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_1_pl",
+        "text": "Common_Byrnie",
+        "old_translation": "",
+        "translation": "带披风蓝钢重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_2",
+        "text": "Pictish_Lorica",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_2_pl",
+        "text": "Pictish_Lorica",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_3",
+        "text": "Common_Byrnie",
+        "old_translation": "",
+        "translation": "带披风蓝钢重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_3_pl",
+        "text": "Common_Byrnie",
+        "old_translation": "",
+        "translation": "带披风蓝钢重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_6",
+        "text": "Pictish_Lorica",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_6_pl",
+        "text": "Pictish_Lorica",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_7",
+        "text": "Pictish_Lorica",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_7_pl",
+        "text": "Pictish_Lorica",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_8",
+        "text": "Cloaked_Pictish_Lorica",
+        "old_translation": "",
+        "translation": "外披毛皮的锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_8_pl",
+        "text": "Cloaked_Pictish_Lorica",
+        "old_translation": "",
+        "translation": "外披毛皮的锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_9",
+        "text": "Cloaked_Pictish_Lorica",
+        "old_translation": "",
+        "translation": "外披毛皮的锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_9_pl",
+        "text": "Cloaked_Pictish_Lorica",
+        "old_translation": "",
+        "translation": "外披毛皮的锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_10",
+        "text": "Elite_Briton_Byrnie",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_10_pl",
+        "text": "Elite_Briton_Byrnie",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_11",
+        "text": "Elite_Briton_Byrnie",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_11_pl",
+        "text": "Elite_Briton_Byrnie",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_11_2",
+        "text": "Frisian_Byrnie",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_11_2_pl",
+        "text": "Frisian_Byrnie",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_11_3",
+        "text": "Pictish_Lorica",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_11_3_pl",
+        "text": "Pictish_Lorica",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_12",
+        "text": "Common_Byrnie",
+        "old_translation": "",
+        "translation": "带披风蓝钢重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_12_pl",
+        "text": "Common_Byrnie",
+        "old_translation": "",
+        "translation": "带披风蓝钢重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_13",
+        "text": "Common_Byrnie",
+        "old_translation": "",
+        "translation": "带披风蓝钢重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_13_pl",
+        "text": "Common_Byrnie",
+        "old_translation": "",
+        "translation": "带披风蓝钢重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_4",
+        "text": "Frisian_Byrnie",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_4_pl",
+        "text": "Frisian_Byrnie",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_5",
+        "text": "Pictish_Lorica",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_5_pl",
+        "text": "Pictish_Lorica",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_5_1",
+        "text": "Elite_Briton_Byrnie",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_5_1_pl",
+        "text": "Elite_Briton_Byrnie",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_5_2",
+        "text": "Elite_Saxon_Halsberg",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_5_2_pl",
+        "text": "Elite_Saxon_Halsberg",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_12_1",
+        "text": "Common_Halsberg",
+        "old_translation": "",
+        "translation": "长袖锁甲袍"
+    },
+    {
+        "id": "itm_mail_shirt_12_1_pl",
+        "text": "Common_Halsberg",
+        "old_translation": "",
+        "translation": "长袖锁甲袍"
+    },
+    {
+        "id": "itm_mail_shirt_12_2",
+        "text": "Common_Halsberg",
+        "old_translation": "",
+        "translation": "长袖锁甲袍"
+    },
+    {
+        "id": "itm_mail_shirt_12_2_pl",
+        "text": "Common_Halsberg",
+        "old_translation": "",
+        "translation": "长袖锁甲袍"
+    },
+    {
+        "id": "itm_mail_shirt_12_3",
+        "text": "Common_Halsberg",
+        "old_translation": "",
+        "translation": "长袖锁甲袍"
+    },
+    {
+        "id": "itm_mail_shirt_12_3_pl",
+        "text": "Common_Halsberg",
+        "old_translation": "",
+        "translation": "长袖锁甲袍"
+    },
+    {
+        "id": "itm_mail_shirt_12_4",
+        "text": "Common_Halsberg",
+        "old_translation": "",
+        "translation": "长袖锁甲袍"
+    },
+    {
+        "id": "itm_mail_shirt_12_4_pl",
+        "text": "Common_Halsberg",
+        "old_translation": "",
+        "translation": "长袖锁甲袍"
+    },
+    {
+        "id": "itm_mail_shirt_13_1",
+        "text": "Elite_Saxon_Halsberg",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_13_1_pl",
+        "text": "Elite_Saxon_Halsberg",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_13_2",
+        "text": "Saxon_Halsberg",
+        "old_translation": "",
+        "translation": "撒克逊锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_13_2_pl",
+        "text": "Saxon_Halsberg",
+        "old_translation": "",
+        "translation": "撒克逊锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_13_3",
+        "text": "Saxon_Halsberg",
+        "old_translation": "",
+        "translation": "撒克逊锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_13_3_pl",
+        "text": "Saxon_Halsberg",
+        "old_translation": "",
+        "translation": "撒克逊锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_13_4",
+        "text": "Elite_Saxon_Lorica",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_mail_shirt_13_4_pl",
+        "text": "Elite_Saxon_Lorica",
+        "old_translation": "",
+        "translation": "撒克逊重型锁子甲"
+    },
+    {
+        "id": "itm_byrnie",
+        "text": "Common_Halsberg",
+        "old_translation": "",
+        "translation": "长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie_pl",
+        "text": "Common_Halsberg",
+        "old_translation": "",
+        "translation": "长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie2",
+        "text": "Frisian_Lorica",
+        "old_translation": "",
+        "translation": "弗里斯长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie2_pl",
+        "text": "Frisian_Lorica",
+        "old_translation": "",
+        "translation": "弗里斯长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie3",
+        "text": "Common_Halsberg",
+        "old_translation": "",
+        "translation": "长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie3_pl",
+        "text": "Common_Halsberg",
+        "old_translation": "",
+        "translation": "长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie4",
+        "text": "Briton_Byrnie",
+        "old_translation": "",
+        "translation": "带披风蓝钢长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie4_pl",
+        "text": "Briton_Byrnie",
+        "old_translation": "",
+        "translation": "带披风蓝钢长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie5",
+        "text": "Saxon_Halsberg",
+        "old_translation": "",
+        "translation": "撒克逊锁子甲"
+    },
+    {
+        "id": "itm_byrnie5_pl",
+        "text": "Saxon_Halsberg",
+        "old_translation": "",
+        "translation": "撒克逊锁子甲"
+    },
+    {
+        "id": "itm_byrnie6",
+        "text": "Briton_Byrnie",
+        "old_translation": "",
+        "translation": "带披风蓝钢长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie6_pl",
+        "text": "Briton_Byrnie",
+        "old_translation": "",
+        "translation": "带披风蓝钢长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie7",
+        "text": "Elite_Frisian_Lorica",
+        "old_translation": "",
+        "translation": "弗里斯长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie7_pl",
+        "text": "Elite_Frisian_Lorica",
+        "old_translation": "",
+        "translation": "弗里斯长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie8",
+        "text": "Elite_Frisian_Halsberg",
+        "old_translation": "",
+        "translation": "弗里斯长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie8_pl",
+        "text": "Elite_Frisian_Halsberg",
+        "old_translation": "",
+        "translation": "弗里斯长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie9",
+        "text": "Goidelic_Lorica",
+        "old_translation": "",
+        "translation": "戈伊德尔重型锁子甲"
+    },
+    {
+        "id": "itm_byrnie9_pl",
+        "text": "Goidelic_Lorica",
+        "old_translation": "",
+        "translation": "戈伊德尔重型锁子甲"
+    },
+    {
+        "id": "itm_byrnie10",
+        "text": "Goidelic_Lorica",
+        "old_translation": "",
+        "translation": "戈伊德尔重型锁子甲"
+    },
+    {
+        "id": "itm_byrnie10_pl",
+        "text": "Goidelic_Lorica",
+        "old_translation": "",
+        "translation": "戈伊德尔重型锁子甲"
+    },
+    {
+        "id": "itm_byrnie11",
+        "text": "Cloaked_Goidelic_Lorica",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie11_pl",
+        "text": "Cloaked_Goidelic_Lorica",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie12",
+        "text": "Cloaked_Goidelic_Lorica",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie12_pl",
+        "text": "Cloaked_Goidelic_Lorica",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie13",
+        "text": "Briton_Byrnie",
+        "old_translation": "",
+        "translation": "带披风蓝钢长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie13_pl",
+        "text": "Briton_Byrnie",
+        "old_translation": "",
+        "translation": "带披风蓝钢长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie14",
+        "text": "Briton_Byrnie",
+        "old_translation": "",
+        "translation": "带披风蓝钢长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie14_pl",
+        "text": "Briton_Byrnie",
+        "old_translation": "",
+        "translation": "带披风蓝钢长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie15",
+        "text": "Cloaked_Briton_Byrnie",
+        "old_translation": "",
+        "translation": "带斗篷布立吞锁子甲"
+    },
+    {
+        "id": "itm_byrnie15_pl",
+        "text": "Cloaked_Briton_Byrnie",
+        "old_translation": "",
+        "translation": "带斗篷布立吞锁子甲"
+    },
+    {
+        "id": "itm_byrnie16",
+        "text": "Norse_Hringserks",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie16_pl",
+        "text": "Norse_Hringserks",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie17",
+        "text": "Norse_Hringserks",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie17_pl",
+        "text": "Norse_Hringserks",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie18",
+        "text": "Norse_Hringserks",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie18_pl",
+        "text": "Norse_Hringserks",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie19",
+        "text": "Norse_Hringserks",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie19_pl",
+        "text": "Norse_Hringserks",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie20",
+        "text": "Frisian_Halsberg",
+        "old_translation": "",
+        "translation": "弗里斯重型锁子甲"
+    },
+    {
+        "id": "itm_byrnie20_pl",
+        "text": "Frisian_Halsberg",
+        "old_translation": "",
+        "translation": "弗里斯重型锁子甲"
+    },
+    {
+        "id": "itm_byrnie21",
+        "text": "Saxon_Lorica",
+        "old_translation": "",
+        "translation": "撒克逊胸甲"
+    },
+    {
+        "id": "itm_byrnie21_pl",
+        "text": "Saxon_Lorica",
+        "old_translation": "",
+        "translation": "撒克逊胸甲"
+    },
+    {
+        "id": "itm_byrnie22",
+        "text": "Saxon_Halsberg",
+        "old_translation": "",
+        "translation": "撒克逊锁子甲"
+    },
+    {
+        "id": "itm_byrnie22_pl",
+        "text": "Saxon_Halsberg",
+        "old_translation": "",
+        "translation": "撒克逊锁子甲"
+    },
+    {
+        "id": "itm_byrnie23",
+        "text": "Angle_Halsberg",
+        "old_translation": "",
+        "translation": "盎格鲁锁子甲"
+    },
+    {
+        "id": "itm_byrnie23_pl",
+        "text": "Angle_Halsberg",
+        "old_translation": "",
+        "translation": "盎格鲁锁子甲"
+    },
+    {
+        "id": "itm_byrnie24",
+        "text": "Angle_Halsberg",
+        "old_translation": "",
+        "translation": "盎格鲁锁子甲"
+    },
+    {
+        "id": "itm_byrnie24_pl",
+        "text": "Angle_Halsberg",
+        "old_translation": "",
+        "translation": "盎格鲁锁子甲"
+    },
+    {
+        "id": "itm_byrnie25",
+        "text": "Angle_Halsberg",
+        "old_translation": "",
+        "translation": "盎格鲁锁子甲"
+    },
+    {
+        "id": "itm_byrnie25_pl",
+        "text": "Angle_Halsberg",
+        "old_translation": "",
+        "translation": "盎格鲁锁子甲"
+    },
+    {
+        "id": "itm_byrnie26",
+        "text": "Angle_Halsberg",
+        "old_translation": "",
+        "translation": "盎格鲁锁子甲"
+    },
+    {
+        "id": "itm_byrnie26_pl",
+        "text": "Angle_Halsberg",
+        "old_translation": "",
+        "translation": "盎格鲁锁子甲"
+    },
+    {
+        "id": "itm_byrnie27",
+        "text": "Cloaked_Angle_Halsberg",
+        "old_translation": "",
+        "translation": "带斗篷盎格鲁锁子甲"
+    },
+    {
+        "id": "itm_byrnie27_pl",
+        "text": "Cloaked_Angle_Halsberg",
+        "old_translation": "",
+        "translation": "带斗篷盎格鲁锁子甲"
+    },
+    {
+        "id": "itm_byrnie28",
+        "text": "Angle_Halsberg_with_Fur",
+        "old_translation": "",
+        "translation": "外披毛皮的盎格鲁锁子甲"
+    },
+    {
+        "id": "itm_byrnie28_pl",
+        "text": "Angle_Halsberg_with_Fur",
+        "old_translation": "",
+        "translation": "外披毛皮的盎格鲁锁子甲"
+    },
+    {
+        "id": "itm_byrnie29",
+        "text": "Cloaked_Angle_Halsberg",
+        "old_translation": "",
+        "translation": "带斗篷盎格鲁锁子甲"
+    },
+    {
+        "id": "itm_byrnie29_pl",
+        "text": "Cloaked_Angle_Halsberg",
+        "old_translation": "",
+        "translation": "带斗篷盎格鲁锁子甲"
+    },
+    {
+        "id": "itm_byrnie30",
+        "text": "Angle_Halsberg_with_Fur",
+        "old_translation": "",
+        "translation": "外披毛皮的盎格鲁锁子甲"
+    },
+    {
+        "id": "itm_byrnie30_pl",
+        "text": "Angle_Halsberg_with_Fur",
+        "old_translation": "",
+        "translation": "外披毛皮的盎格鲁锁子甲"
+    },
+    {
+        "id": "itm_byrnie31",
+        "text": "Cloaked_Norse_Hringserks",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie31_pl",
+        "text": "Cloaked_Norse_Hringserks",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie32",
+        "text": "Norse_Hringserks",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie32_pl",
+        "text": "Norse_Hringserks",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie33",
+        "text": "Norse_Hringserks_with_Fur",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie33_pl",
+        "text": "Norse_Hringserks_with_Fur",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie34",
+        "text": "Norse_Hringserks_with_Fur",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie34_pl",
+        "text": "Norse_Hringserks_with_Fur",
+        "old_translation": "",
+        "translation": "带斗篷长袖锁甲袍"
+    },
+    {
+        "id": "itm_byrnie35",
+        "text": "Frisian_Halsberg",
+        "old_translation": "",
+        "translation": "弗里斯重型锁子甲"
+    },
+    {
+        "id": "itm_byrnie35_pl",
+        "text": "Frisian_Halsberg",
+        "old_translation": "",
+        "translation": "弗里斯重型锁子甲"
+    },
+    {
+        "id": "itm_byrnie36",
+        "text": "Goidelic_Lorica",
+        "old_translation": "",
+        "translation": "戈伊德尔重型锁子甲"
+    },
+    {
+        "id": "itm_byrnie36_pl",
+        "text": "Goidelic_Lorica",
+        "old_translation": "",
+        "translation": "戈伊德尔重型锁子甲"
+    },
+    {
+        "id": "itm_byrnie37",
+        "text": "Goidelic_Lorica",
+        "old_translation": "",
+        "translation": "戈伊德尔重型锁子甲"
+    },
+    {
+        "id": "itm_byrnie37_pl",
+        "text": "Goidelic_Lorica",
+        "old_translation": "",
+        "translation": "戈伊德尔重型锁子甲"
+    },
+    {
+        "id": "itm_byrnie38",
+        "text": "Goidelic_Lorica",
+        "old_translation": "",
+        "translation": "戈伊德尔重型锁子甲"
+    },
+    {
+        "id": "itm_byrnie38_pl",
+        "text": "Goidelic_Lorica",
+        "old_translation": "",
+        "translation": "戈伊德尔重型锁子甲"
+    },
+    {
+        "id": "itm_orm_byrnie",
+        "text": "Orm's_Lorica",
+        "old_translation": "",
+        "translation": "奥姆锁子甲"
+    },
+    {
+        "id": "itm_orm_byrnie_pl",
+        "text": "Orm's_Lorica",
+        "old_translation": "",
+        "translation": "奥姆锁子甲"
+    },
+    {
+        "id": "itm_lamellar_armor",
+        "text": "Scale_Lorica",
+        "old_translation": "",
+        "translation": "鳞片胸甲"
+    },
+    {
+        "id": "itm_lamellar_armor_pl",
+        "text": "Scale_Lorica",
+        "old_translation": "",
+        "translation": "鳞片胸甲"
+    },
+    {
+        "id": "itm_burlap_tunic",
+        "text": "Burlap_Tunic",
+        "old_translation": "",
+        "translation": "麻布短袍"
+    },
+    {
+        "id": "itm_burlap_tunic_pl",
+        "text": "Burlap_Tunic",
+        "old_translation": "",
+        "translation": "麻布短袍"
+    },
+    {
+        "id": "itm_hood_01",
+        "text": "Hood",
+        "old_translation": "",
+        "translation": "风帽"
+    },
+    {
+        "id": "itm_hood_01_pl",
+        "text": "Hood",
+        "old_translation": "",
+        "translation": "风帽"
+    },
+    {
+        "id": "itm_hood_02",
+        "text": "Hood",
+        "old_translation": "",
+        "translation": "风帽"
+    },
+    {
+        "id": "itm_hood_02_pl",
+        "text": "Hood",
+        "old_translation": "",
+        "translation": "风帽"
+    },
+    {
+        "id": "itm_phrygian1",
+        "text": "Phrygian",
+        "old_translation": "",
+        "translation": "头巾"
+    },
+    {
+        "id": "itm_phrygian1_pl",
+        "text": "Phrygian",
+        "old_translation": "",
+        "translation": "头巾"
+    },
+    {
+        "id": "itm_phrygian2",
+        "text": "Phrygian",
+        "old_translation": "",
+        "translation": "头巾"
+    },
+    {
+        "id": "itm_phrygian2_pl",
+        "text": "Phrygian",
+        "old_translation": "",
+        "translation": "头巾"
+    },
+    {
+        "id": "itm_phrygian3",
+        "text": "Phrygian",
+        "old_translation": "",
+        "translation": "头巾"
+    },
+    {
+        "id": "itm_phrygian3_pl",
+        "text": "Phrygian",
+        "old_translation": "",
+        "translation": "头巾"
+    },
+    {
+        "id": "itm_phrygian4",
+        "text": "Phrygian",
+        "old_translation": "",
+        "translation": "头巾"
+    },
+    {
+        "id": "itm_phrygian4_pl",
+        "text": "Phrygian",
+        "old_translation": "",
+        "translation": "头巾"
+    },
+    {
+        "id": "itm_phrygian5",
+        "text": "Phrygian",
+        "old_translation": "",
+        "translation": "头巾"
+    },
+    {
+        "id": "itm_phrygian5_pl",
+        "text": "Phrygian",
+        "old_translation": "",
+        "translation": "头巾"
+    },
+    {
+        "id": "itm_phrygian6",
+        "text": "Phrygian",
+        "old_translation": "",
+        "translation": "头巾"
+    },
+    {
+        "id": "itm_phrygian6_pl",
+        "text": "Phrygian",
+        "old_translation": "",
+        "translation": "头巾"
+    },
+    {
+        "id": "itm_phrygian7",
+        "text": "Quality_Phrygian",
+        "old_translation": "",
+        "translation": "优质头巾"
+    },
+    {
+        "id": "itm_phrygian7_pl",
+        "text": "Quality_Phrygian",
+        "old_translation": "",
+        "translation": "优质头巾"
+    },
+    {
+        "id": "itm_phrygian8",
+        "text": "Quality_Phrygian",
+        "old_translation": "",
+        "translation": "优质头巾"
+    },
+    {
+        "id": "itm_phrygian8_pl",
+        "text": "Quality_Phrygian",
+        "old_translation": "",
+        "translation": "优质头巾"
+    },
+    {
+        "id": "itm_phrygian9",
+        "text": "Quality_Phrygian",
+        "old_translation": "",
+        "translation": "优质头巾"
+    },
+    {
+        "id": "itm_phrygian9_pl",
+        "text": "Quality_Phrygian",
+        "old_translation": "",
+        "translation": "优质头巾"
+    },
+    {
+        "id": "itm_phrygian10",
+        "text": "Quality_Phrygian",
+        "old_translation": "",
+        "translation": "优质头巾"
+    },
+    {
+        "id": "itm_phrygian10_pl",
+        "text": "Quality_Phrygian",
+        "old_translation": "",
+        "translation": "优质头巾"
+    },
+    {
+        "id": "itm_phrygian11",
+        "text": "Quality_Phrygian",
+        "old_translation": "",
+        "translation": "优质头巾"
+    },
+    {
+        "id": "itm_phrygian11_pl",
+        "text": "Quality_Phrygian",
+        "old_translation": "",
+        "translation": "优质头巾"
+    },
+    {
+        "id": "itm_phrygian12",
+        "text": "Quality_Phrygian",
+        "old_translation": "",
+        "translation": "优质头巾"
+    },
+    {
+        "id": "itm_phrygian12_pl",
+        "text": "Quality_Phrygian",
+        "old_translation": "",
+        "translation": "优质头巾"
+    },
+    {
+        "id": "itm_phrygian13",
+        "text": "Quality_Phrygian",
+        "old_translation": "",
+        "translation": "优质头巾"
+    },
+    {
+        "id": "itm_phrygian13_pl",
+        "text": "Quality_Phrygian",
+        "old_translation": "",
+        "translation": "优质头巾"
+    },
+    {
+        "id": "itm_phrygian14",
+        "text": "Decorated_Phrygian",
+        "old_translation": "",
+        "translation": "带装饰的头巾"
+    },
+    {
+        "id": "itm_phrygian14_pl",
+        "text": "Decorated_Phrygian",
+        "old_translation": "",
+        "translation": "带装饰的头巾"
+    },
+    {
+        "id": "itm_phrygian15",
+        "text": "Decorated_Phrygian",
+        "old_translation": "",
+        "translation": "带装饰的头巾"
+    },
+    {
+        "id": "itm_phrygian15_pl",
+        "text": "Decorated_Phrygian",
+        "old_translation": "",
+        "translation": "带装饰的头巾"
+    },
+    {
+        "id": "itm_phrygian16",
+        "text": "Decorated_Phrygian",
+        "old_translation": "",
+        "translation": "带装饰的头巾"
+    },
+    {
+        "id": "itm_phrygian16_pl",
+        "text": "Decorated_Phrygian",
+        "old_translation": "",
+        "translation": "带装饰的头巾"
+    },
+    {
+        "id": "itm_phrygian17",
+        "text": "Decorated_Phrygian",
+        "old_translation": "",
+        "translation": "带装饰的头巾"
+    },
+    {
+        "id": "itm_phrygian17_pl",
+        "text": "Decorated_Phrygian",
+        "old_translation": "",
+        "translation": "带装饰的头巾"
+    },
+    {
+        "id": "itm_briton_helm",
+        "text": "Simple_Helm",
+        "old_translation": "",
+        "translation": "简易头盔"
+    },
+    {
+        "id": "itm_briton_helm_pl",
+        "text": "Simple_Helm",
+        "old_translation": "",
+        "translation": "简易头盔"
+    },
+    {
+        "id": "itm_briton_helm2",
+        "text": "Simple_Helm",
+        "old_translation": "",
+        "translation": "简易头盔"
+    },
+    {
+        "id": "itm_briton_helm2_pl",
+        "text": "Simple_Helm",
+        "old_translation": "",
+        "translation": "简易头盔"
+    },
+    {
+        "id": "itm_briton_helm3",
+        "text": "Old_Simple_Helm",
+        "old_translation": "",
+        "translation": "老式简易头盔"
+    },
+    {
+        "id": "itm_briton_helm3_pl",
+        "text": "Old_Simple_Helm",
+        "old_translation": "",
+        "translation": "老式简易头盔"
+    },
+    {
+        "id": "itm_briton_helm4",
+        "text": "Old_Simple_Helm",
+        "old_translation": "",
+        "translation": "老式简易头盔"
+    },
+    {
+        "id": "itm_briton_helm4_pl",
+        "text": "Old_Simple_Helm",
+        "old_translation": "",
+        "translation": "老式简易头盔"
+    },
+    {
+        "id": "itm_briton_helm5",
+        "text": "Simple_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈简易头盔"
+    },
+    {
+        "id": "itm_briton_helm5_pl",
+        "text": "Simple_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈简易头盔"
+    },
+    {
+        "id": "itm_briton_helm6",
+        "text": "Simple_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈简易头盔"
+    },
+    {
+        "id": "itm_briton_helm6_pl",
+        "text": "Simple_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈简易头盔"
+    },
+    {
+        "id": "itm_briton_helm7",
+        "text": "Old_Simple_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm7_pl",
+        "text": "Old_Simple_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm8",
+        "text": "Old_Simple_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm8_pl",
+        "text": "Old_Simple_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm9",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_briton_helm9_pl",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_briton_helm10",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_briton_helm10_pl",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_briton_helm11",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_briton_helm11_pl",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_briton_helm12",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_briton_helm12_pl",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_briton_helm13",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_briton_helm13_pl",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_briton_helm14",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_briton_helm14_pl",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_briton_helm15",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_briton_helm15_pl",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_briton_helm16",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_briton_helm16_pl",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_briton_helm17",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_briton_helm17_pl",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_briton_helm18",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_briton_helm18_pl",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_briton_helm19",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_briton_helm19_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_briton_helm20",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_briton_helm20_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_briton_helm21",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_briton_helm21_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_briton_helm22",
+        "text": "Old_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "老式带护鼻头盔"
+    },
+    {
+        "id": "itm_briton_helm22_pl",
+        "text": "Old_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "老式带护鼻头盔"
+    },
+    {
+        "id": "itm_briton_helm23",
+        "text": "Old_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "老式带护鼻头盔"
+    },
+    {
+        "id": "itm_briton_helm23_pl",
+        "text": "Old_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "老式带护鼻头盔"
+    },
+    {
+        "id": "itm_briton_helm24",
+        "text": "Old_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "老式带护鼻头盔"
+    },
+    {
+        "id": "itm_briton_helm24_pl",
+        "text": "Old_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "老式带护鼻头盔"
+    },
+    {
+        "id": "itm_briton_helm25",
+        "text": "Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm25_pl",
+        "text": "Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm26",
+        "text": "Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm26_pl",
+        "text": "Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm27",
+        "text": "Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm27_pl",
+        "text": "Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm28",
+        "text": "Old_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm28_pl",
+        "text": "Old_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm29",
+        "text": "Old_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm29_pl",
+        "text": "Old_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm30",
+        "text": "Old_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm30_pl",
+        "text": "Old_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm31",
+        "text": "Helm_with_Mail",
+        "old_translation": "",
+        "translation": "链甲护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm31_pl",
+        "text": "Helm_with_Mail",
+        "old_translation": "",
+        "translation": "链甲护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm32",
+        "text": "Helm_with_Mail",
+        "old_translation": "",
+        "translation": "链甲护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm32_pl",
+        "text": "Helm_with_Mail",
+        "old_translation": "",
+        "translation": "链甲护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm33",
+        "text": "Helm_with_Mail",
+        "old_translation": "",
+        "translation": "链甲护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm33_pl",
+        "text": "Helm_with_Mail",
+        "old_translation": "",
+        "translation": "链甲护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm34",
+        "text": "Helm_with_Mail",
+        "old_translation": "",
+        "translation": "链甲护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm34_pl",
+        "text": "Helm_with_Mail",
+        "old_translation": "",
+        "translation": "链甲护颈头盔"
+    },
+    {
+        "id": "itm_briton_helm35",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_briton_helm35_pl",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_briton_helm36",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_briton_helm36_pl",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_briton_helm37",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_briton_helm37_pl",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_briton_helm38",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_briton_helm38_pl",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_briton_helm39",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_briton_helm39_pl",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_briton_helm40",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_briton_helm40_pl",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_spangenhelm_1",
+        "text": "Simple_Helm",
+        "old_translation": "",
+        "translation": "简易头盔"
+    },
+    {
+        "id": "itm_spangenhelm_1_pl",
+        "text": "Simple_Helm",
+        "old_translation": "",
+        "translation": "简易头盔"
+    },
+    {
+        "id": "itm_spangenhelm_2",
+        "text": "Simple_Helm",
+        "old_translation": "",
+        "translation": "简易头盔"
+    },
+    {
+        "id": "itm_spangenhelm_2_pl",
+        "text": "Simple_Helm",
+        "old_translation": "",
+        "translation": "简易头盔"
+    },
+    {
+        "id": "itm_spangenhelm_3",
+        "text": "Old_Simple_Helm",
+        "old_translation": "",
+        "translation": "老式简易头盔"
+    },
+    {
+        "id": "itm_spangenhelm_3_pl",
+        "text": "Old_Simple_Helm",
+        "old_translation": "",
+        "translation": "老式简易头盔"
+    },
+    {
+        "id": "itm_spangenhelm_4",
+        "text": "Old_Simple_Helm",
+        "old_translation": "",
+        "translation": "老式简易头盔"
+    },
+    {
+        "id": "itm_spangenhelm_4_pl",
+        "text": "Old_Simple_Helm",
+        "old_translation": "",
+        "translation": "老式简易头盔"
+    },
+    {
+        "id": "itm_spangenhelm_5",
+        "text": "Simple_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "简易链甲护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_5_pl",
+        "text": "Simple_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "简易链甲护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_6",
+        "text": "Simple_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "简易链甲护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_6_pl",
+        "text": "Simple_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "简易链甲护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_7",
+        "text": "Old_Simple_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_7_pl",
+        "text": "Old_Simple_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_8",
+        "text": "Old_Anglo_Saxon_Helm",
+        "old_translation": "",
+        "translation": "老式全盔"
+    },
+    {
+        "id": "itm_spangenhelm_8_pl",
+        "text": "Old_Anglo_Saxon_Helm",
+        "old_translation": "",
+        "translation": "老式全盔"
+    },
+    {
+        "id": "itm_spangenhelm_9",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_spangenhelm_9_pl",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_spangenhelm_10",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_spangenhelm_10_pl",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_spangenhelm_11",
+        "text": "Old_Anglo_Saxon_Helm",
+        "old_translation": "",
+        "translation": "老式全盔"
+    },
+    {
+        "id": "itm_spangenhelm_11_pl",
+        "text": "Old_Anglo_Saxon_Helm",
+        "old_translation": "",
+        "translation": "老式全盔"
+    },
+    {
+        "id": "itm_spangenhelm_12",
+        "text": "Old_Anglo_Saxon_Helm",
+        "old_translation": "",
+        "translation": "老式全盔"
+    },
+    {
+        "id": "itm_spangenhelm_12_pl",
+        "text": "Old_Anglo_Saxon_Helm",
+        "old_translation": "",
+        "translation": "老式全盔"
+    },
+    {
+        "id": "itm_spangenhelm_13",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_spangenhelm_13_pl",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_spangenhelm_14",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_spangenhelm_14_pl",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_spangenhelm_15",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_spangenhelm_15_pl",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_spangenhelm_16",
+        "text": "Elite_Anglo_Saxon_Helm",
+        "old_translation": "",
+        "translation": "老式全盔"
+    },
+    {
+        "id": "itm_spangenhelm_16_pl",
+        "text": "Elite_Anglo_Saxon_Helm",
+        "old_translation": "",
+        "translation": "老式全盔"
+    },
+    {
+        "id": "itm_spangenhelm_17",
+        "text": "Elite_Anglo_Saxon_Helm",
+        "old_translation": "",
+        "translation": "老式全盔"
+    },
+    {
+        "id": "itm_spangenhelm_17_pl",
+        "text": "Elite_Anglo_Saxon_Helm",
+        "old_translation": "",
+        "translation": "老式全盔"
+    },
+    {
+        "id": "itm_spangenhelm_18",
+        "text": "Saxon_Helm",
+        "old_translation": "",
+        "translation": "老式全盔"
+    },
+    {
+        "id": "itm_spangenhelm_18_pl",
+        "text": "Saxon_Helm",
+        "old_translation": "",
+        "translation": "老式全盔"
+    },
+    {
+        "id": "itm_spangenhelm_19",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_spangenhelm_19_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_spangenhelm_20",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_spangenhelm_20_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_spangenhelm_21",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_spangenhelm_21_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_spangenhelm_22",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_spangenhelm_22_pl",
+        "text": "Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻头盔"
+    },
+    {
+        "id": "itm_spangenhelm_23",
+        "text": "Old_Helm",
+        "old_translation": "",
+        "translation": "老式头盔"
+    },
+    {
+        "id": "itm_spangenhelm_23_pl",
+        "text": "Old_Helm",
+        "old_translation": "",
+        "translation": "老式头盔"
+    },
+    {
+        "id": "itm_spangenhelm_24",
+        "text": "Old_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "老式带护鼻头盔"
+    },
+    {
+        "id": "itm_spangenhelm_24_pl",
+        "text": "Old_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "老式带护鼻头盔"
+    },
+    {
+        "id": "itm_spangenhelm_25",
+        "text": "Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_25_pl",
+        "text": "Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_26",
+        "text": "Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_26_pl",
+        "text": "Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_27",
+        "text": "Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_27_pl",
+        "text": "Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_28",
+        "text": "Old_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_28_pl",
+        "text": "Old_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_29",
+        "text": "Old_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_29_pl",
+        "text": "Old_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_30",
+        "text": "Saxon_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "撒克逊带皮护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_30_pl",
+        "text": "Saxon_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "撒克逊带皮护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_31",
+        "text": "Helm_with_Mail",
+        "old_translation": "",
+        "translation": "链甲护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_31_pl",
+        "text": "Helm_with_Mail",
+        "old_translation": "",
+        "translation": "链甲护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_32",
+        "text": "Helm_with_Mail",
+        "old_translation": "",
+        "translation": "链甲护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_32_pl",
+        "text": "Helm_with_Mail",
+        "old_translation": "",
+        "translation": "链甲护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_33",
+        "text": "Old_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式链甲护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_33_pl",
+        "text": "Old_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式链甲护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_34",
+        "text": "Old_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式链甲护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_34_pl",
+        "text": "Old_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式链甲护颈头盔"
+    },
+    {
+        "id": "itm_spangenhelm_35",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_spangenhelm_35_pl",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_spangenhelm_36",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_spangenhelm_36_pl",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_spangenhelm_37",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_spangenhelm_37_pl",
+        "text": "Complete_Helm",
+        "old_translation": "",
+        "translation": "全盔"
+    },
+    {
+        "id": "itm_spangenhelm_38",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_spangenhelm_38_pl",
+        "text": "Old_Complete_Helm",
+        "old_translation": "",
+        "translation": "旧式全盔"
+    },
+    {
+        "id": "itm_spangenhelm_39",
+        "text": "Nobleman_Anglo_Saxon_Helm",
+        "old_translation": "",
+        "translation": "老式全盔"
+    },
+    {
+        "id": "itm_spangenhelm_39_pl",
+        "text": "Nobleman_Anglo_Saxon_Helm",
+        "old_translation": "",
+        "translation": "老式全盔"
+    },
+    {
+        "id": "itm_spangenhelm_40",
+        "text": "Nobleman_Anglo_Saxon_Helm",
+        "old_translation": "",
+        "translation": "老式全盔"
+    },
+    {
+        "id": "itm_spangenhelm_40_pl",
+        "text": "Nobleman_Anglo_Saxon_Helm",
+        "old_translation": "",
+        "translation": "老式全盔"
+    },
+    {
+        "id": "itm_vikingold_helm",
+        "text": "Old_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm_pl",
+        "text": "Old_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm2",
+        "text": "Old_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm2_pl",
+        "text": "Old_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm3",
+        "text": "Old_Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm3_pl",
+        "text": "Old_Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm4",
+        "text": "Old_Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm4_pl",
+        "text": "Old_Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm5",
+        "text": "Old_Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm5_pl",
+        "text": "Old_Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm6",
+        "text": "Old_Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm6_pl",
+        "text": "Old_Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm7",
+        "text": "Old_Helm",
+        "old_translation": "",
+        "translation": "老式头盔"
+    },
+    {
+        "id": "itm_vikingold_helm7_pl",
+        "text": "Old_Helm",
+        "old_translation": "",
+        "translation": "老式头盔"
+    },
+    {
+        "id": "itm_vikingold_helm8",
+        "text": "Old_Helm",
+        "old_translation": "",
+        "translation": "老式头盔"
+    },
+    {
+        "id": "itm_vikingold_helm8_pl",
+        "text": "Old_Helm",
+        "old_translation": "",
+        "translation": "老式头盔"
+    },
+    {
+        "id": "itm_vikingold_helm9",
+        "text": "Old_Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm9_pl",
+        "text": "Old_Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm10",
+        "text": "Old_Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm10_pl",
+        "text": "Old_Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm11",
+        "text": "Old_Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm11_pl",
+        "text": "Old_Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm12",
+        "text": "Old_Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm12_pl",
+        "text": "Old_Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_helm13",
+        "text": "Old_Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_helm13_pl",
+        "text": "Old_Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_helm14",
+        "text": "Old_Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_helm14_pl",
+        "text": "Old_Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_helm15",
+        "text": "Old_Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_helm15_pl",
+        "text": "Old_Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_helm16",
+        "text": "Old_Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_helm16_pl",
+        "text": "Old_Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_helm17",
+        "text": "Old_Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_helm17_pl",
+        "text": "Old_Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_helm18",
+        "text": "Old_Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_helm18_pl",
+        "text": "Old_Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_helm19",
+        "text": "Old_Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯全盔"
+    },
+    {
+        "id": "itm_vikingold_helm19_pl",
+        "text": "Old_Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯全盔"
+    },
+    {
+        "id": "itm_vikingold_helm20",
+        "text": "Old_Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯全盔"
+    },
+    {
+        "id": "itm_vikingold_helm20_pl",
+        "text": "Old_Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯全盔"
+    },
+    {
+        "id": "itm_vikingold_helm21",
+        "text": "Old_Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯全盔"
+    },
+    {
+        "id": "itm_vikingold_helm21_pl",
+        "text": "Old_Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯全盔"
+    },
+    {
+        "id": "itm_vikingold_helm22",
+        "text": "Old_Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯全盔"
+    },
+    {
+        "id": "itm_vikingold_helm22_pl",
+        "text": "Old_Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯全盔"
+    },
+    {
+        "id": "itm_vikingold_helm23",
+        "text": "Old_Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯全盔"
+    },
+    {
+        "id": "itm_vikingold_helm23_pl",
+        "text": "Old_Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯全盔"
+    },
+    {
+        "id": "itm_vikingold_helm24",
+        "text": "Old_Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯全盔"
+    },
+    {
+        "id": "itm_vikingold_helm24_pl",
+        "text": "Old_Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯全盔"
+    },
+    {
+        "id": "itm_viking_helm",
+        "text": "Simple_Norse_Helm",
+        "old_translation": "",
+        "translation": "简易诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm_pl",
+        "text": "Simple_Norse_Helm",
+        "old_translation": "",
+        "translation": "简易诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm2",
+        "text": "Simple_Norse_Helm",
+        "old_translation": "",
+        "translation": "简易诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm2_pl",
+        "text": "Simple_Norse_Helm",
+        "old_translation": "",
+        "translation": "简易诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm3",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm3_pl",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm4",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm4_pl",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm5",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm5_pl",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm6",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm6_pl",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm7",
+        "text": "Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm7_pl",
+        "text": "Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm8",
+        "text": "Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm8_pl",
+        "text": "Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm9",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm9_pl",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm10",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm10_pl",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm11",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm11_pl",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm12",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm12_pl",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm13",
+        "text": "Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "诺尔斯链甲护颈盔"
+    },
+    {
+        "id": "itm_viking_helm13_pl",
+        "text": "Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "诺尔斯链甲护颈盔"
+    },
+    {
+        "id": "itm_viking_helm14",
+        "text": "Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "诺尔斯链甲护颈盔"
+    },
+    {
+        "id": "itm_viking_helm14_pl",
+        "text": "Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "诺尔斯链甲护颈盔"
+    },
+    {
+        "id": "itm_viking_helm15",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm15_pl",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm16",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm16_pl",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm17",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm17_pl",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm18",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm18_pl",
+        "text": "Norse_Helm_with_Nasal",
+        "old_translation": "",
+        "translation": "带护鼻诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_helm19",
+        "text": "Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯全盔"
+    },
+    {
+        "id": "itm_viking_helm19_pl",
+        "text": "Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯全盔"
+    },
+    {
+        "id": "itm_viking_helm20",
+        "text": "Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯全盔"
+    },
+    {
+        "id": "itm_viking_helm20_pl",
+        "text": "Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯全盔"
+    },
+    {
+        "id": "itm_viking_helm21",
+        "text": "Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯全盔"
+    },
+    {
+        "id": "itm_viking_helm21_pl",
+        "text": "Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯全盔"
+    },
+    {
+        "id": "itm_viking_helm22",
+        "text": "Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯全盔"
+    },
+    {
+        "id": "itm_viking_helm22_pl",
+        "text": "Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯全盔"
+    },
+    {
+        "id": "itm_viking_helm23",
+        "text": "Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯全盔"
+    },
+    {
+        "id": "itm_viking_helm23_pl",
+        "text": "Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯全盔"
+    },
+    {
+        "id": "itm_viking_helm24",
+        "text": "Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯全盔"
+    },
+    {
+        "id": "itm_viking_helm24_pl",
+        "text": "Complete_Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯全盔"
+    },
+    {
+        "id": "itm_vikingold_elitehelm1",
+        "text": "Old_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_elitehelm1_pl",
+        "text": "Old_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_elitehelm2",
+        "text": "Old_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_elitehelm2_pl",
+        "text": "Old_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_elitehelm3",
+        "text": "Old_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_elitehelm3_pl",
+        "text": "Old_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_elitehelm4",
+        "text": "Old_Norse_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_elitehelm4_pl",
+        "text": "Old_Norse_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_elitehelm5",
+        "text": "Old_Norse_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_elitehelm5_pl",
+        "text": "Old_Norse_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "老式带皮护颈诺尔斯盔"
+    },
+    {
+        "id": "itm_vikingold_elitehelm6",
+        "text": "Old_Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_elitehelm6_pl",
+        "text": "Old_Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_elitehelm7",
+        "text": "Old_Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_elitehelm7_pl",
+        "text": "Old_Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_elitehelm8",
+        "text": "Rich_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_elitehelm8_pl",
+        "text": "Rich_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_elitehelm9",
+        "text": "Rich_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_vikingold_elitehelm9_pl",
+        "text": "Rich_Norse_Helm",
+        "old_translation": "",
+        "translation": "老式诺尔斯链甲护颈头盔"
+    },
+    {
+        "id": "itm_viking_elitehelm1",
+        "text": "Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_elitehelm1_pl",
+        "text": "Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_elitehelm2",
+        "text": "Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_elitehelm2_pl",
+        "text": "Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_elitehelm3",
+        "text": "Norse_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_elitehelm3_pl",
+        "text": "Norse_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_elitehelm4",
+        "text": "Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_elitehelm4_pl",
+        "text": "Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_elitehelm5",
+        "text": "Norse_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_elitehelm5_pl",
+        "text": "Norse_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_elitehelm6",
+        "text": "Norse_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_elitehelm6_pl",
+        "text": "Norse_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈诺尔斯盔"
+    },
+    {
+        "id": "itm_viking_elitehelm7",
+        "text": "Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "诺尔斯链甲护颈盔"
+    },
+    {
+        "id": "itm_viking_elitehelm7_pl",
+        "text": "Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "诺尔斯链甲护颈盔"
+    },
+    {
+        "id": "itm_viking_elitehelm8",
+        "text": "Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "诺尔斯链甲护颈盔"
+    },
+    {
+        "id": "itm_viking_elitehelm8_pl",
+        "text": "Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "诺尔斯链甲护颈盔"
+    },
+    {
+        "id": "itm_viking_elitehelm9",
+        "text": "Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "诺尔斯链甲护颈盔"
+    },
+    {
+        "id": "itm_viking_elitehelm9_pl",
+        "text": "Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "诺尔斯链甲护颈盔"
+    },
+    {
+        "id": "itm_viking_noblehelm1",
+        "text": "Elite_Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯精英盔"
+    },
+    {
+        "id": "itm_viking_noblehelm1_pl",
+        "text": "Elite_Norse_Helm",
+        "old_translation": "",
+        "translation": "诺尔斯精英盔"
+    },
+    {
+        "id": "itm_viking_noblehelm2",
+        "text": "Elite_Norse_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈诺尔斯精英盔"
+    },
+    {
+        "id": "itm_viking_noblehelm2_pl",
+        "text": "Elite_Norse_Helm_with_Leather",
+        "old_translation": "",
+        "translation": "带皮护颈诺尔斯精英盔"
+    },
+    {
+        "id": "itm_viking_noblehelm3",
+        "text": "Elite_Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "链甲护颈诺尔斯精英盔"
+    },
+    {
+        "id": "itm_viking_noblehelm3_pl",
+        "text": "Elite_Norse_Helm_with_Mail",
+        "old_translation": "",
+        "translation": "链甲护颈诺尔斯精英盔"
+    }
+]

@@ -1,690 +1,1088 @@
 [
     {
+        "id": "qst_deliver_message",
         "text": "Deliver_Message_to_{s13}",
+        "old_translation": "送信给{s13}",
         "translation": "送信给{s13}"
     },
     {
+        "id": "qst_deliver_message_text",
         "text": "{s9}_asked_you_to_take_a_message_to_{s13}._{s13}_was_at_{s4}_when_you_were_given_this_quest.",
-        "translation": "{s9}请你带个口信给{s13}，当你接受这个任务的时候{s13}正在{s4}。"
+        "old_translation": "{s9}请你带个口信给{s13}。你接任务时，{s13}正在{s4}。",
+        "translation": "{s9}请你带个口信给{s13}。你接任务时，{s13}正在{s4}。"
     },
     {
+        "id": "qst_deliver_message_to_enemy_lord",
+        "text": "Deliver_Message_to_{s13}",
+        "old_translation": "送信给{s13}",
+        "translation": "送信给{s13}"
+    },
+    {
+        "id": "qst_deliver_message_to_enemy_lord_text",
         "text": "{s9}_asked_you_to_take_a_message_to_{s13}_of_{s15}._{s13}_was_at_{s4}_when_you_were_given_this_quest.",
-        "translation": "{s9}请你带个口信给{s15}的{s13}，当你接受这个任务的时候{s13}在{s4}。"
+        "old_translation": "送信给{s13}",
+        "translation": "{s9}请你带个口信给{s15}的{s13}。你接任务时，{s13}在{s4}。"
     },
     {
+        "id": "qst_raise_troops",
         "text": "Raise_{reg1}_{s14}",
+        "old_translation": "{s9}请你带个口信给{s15}的{s13}。你接任务时，{s13}在{s4}。",
         "translation": "培养{reg1}名{s14}"
     },
     {
+        "id": "qst_raise_troops_text",
         "text": "{s9}_asked_you_to_raise_{reg1}_{s14}_and_bring_them_to_him.",
-        "translation": "{s9}请你筹集{reg1}{s14}并且把这些东西带给他。"
+        "old_translation": "培养{reg1}名{s14}",
+        "translation": "{s9}请你筹集{reg1}名{s14}并带给他。"
     },
     {
+        "id": "qst_escort_lady",
         "text": "Escort_{s13}_to_{s14}",
+        "old_translation": "{s9}请你筹集{reg1}名{s14}并带给他。",
         "translation": "护送{s13}去{s14}"
     },
     {
+        "id": "qst_deal_with_bandits_at_lords_village",
         "text": "Save_the_Village_of_{s15}_from_Marauding_Bandits",
-        "translation": "从强盗手里解救{s15}村"
+        "old_translation": "护送{s13}去{s14}",
+        "translation": "从山贼手里解救{s15}村"
     },
     {
+        "id": "qst_deal_with_bandits_at_lords_village_text",
         "text": "{s13}_asked_you_to_deal_with_the_bandits_who_took_refuge_in_his_village_of_{s15}_and_then_report_back_to_him.",
-        "translation": "{s13}请你去对付那些躲在{s15}里的强盗然后回去报告给他。"
+        "old_translation": "从山贼手里解救{s15}村",
+        "translation": "{s13}请你去对付那些躲在他{s15}村的山贼，然后回来向他报告。"
     },
     {
+        "id": "qst_collect_taxes",
         "text": "Collect_Taxes_from_{s3}",
+        "old_translation": "{s13}请你去对付那些躲在他{s15}村的山贼，然后回来向他报告。",
         "translation": "到{s3}征税"
     },
     {
+        "id": "qst_collect_taxes_text",
         "text": "{s9}_asked_you_to_collect_taxes_from_{s3}._He_offered_to_leave_you_one-fifth_of_all_the_money_you_collect_there.",
-        "translation": "{s9}请你征收{s3}的税，你可以拿走五分之一的钱。"
+        "old_translation": "到{s3}征税",
+        "translation": "{s9}请你到{s3}征税，并许你留下所收税款的五分之一。"
     },
     {
+        "id": "qst_hunt_down_fugitive",
         "text": "Hunt_Down_{s4}",
+        "old_translation": "{s9}请你到{s3}征税，并许你留下所收税款的五分之一。",
         "translation": "抓捕{s4}"
     },
     {
+        "id": "qst_hunt_down_fugitive_text",
         "text": "{s9}_asked_you_to_hunt_down_the_fugitive_named_{s4}._He_is_currently_believed_to_be_at_{s3}.",
-        "translation": "{s9}请你去抓捕一个叫{s4}的囚犯，他现在正在{s3}。"
+        "old_translation": "抓捕{s4}",
+        "translation": "{s9}请你去追捕逃犯{s4}，据信他此刻在{s3}。"
     },
     {
+        "id": "qst_kill_local_merchant",
         "text": "Assassinate_Local_Merchant_at_{s3}",
-        "translation": "杀掉{s3}的地方商人"
+        "old_translation": "{s9}请你去追捕逃犯{s4}，据信他此刻在{s3}。",
+        "translation": "杀掉{s3}的本地商人"
     },
     {
+        "id": "qst_kill_local_merchant_text",
         "text": "{s9}_asked_you_to_assassinate_a_local_merchant_at_{s3}.",
-        "translation": "{s9}请你暗杀一个当地的商人，他现在在{s3}。"
+        "old_translation": "杀掉{s3}的本地商人",
+        "translation": "{s9}请你去{s3}暗杀一名本地商人。"
     },
     {
+        "id": "qst_bring_back_runaway_serfs",
         "text": "Bring_Back_Runaway_Serfs",
+        "old_translation": "{s9}请你去{s3}暗杀一名本地商人。",
         "translation": "追回逃跑的农奴"
     },
     {
+        "id": "qst_bring_back_runaway_serfs_text",
         "text": "{s9}_asked_you_to_bring_back_the_three_groups_of_runaway_serfs_back_to_{s2}._He_said_all_three_groups_must_be_running_away_in_the_direction_of_{s3}.",
-        "translation": "{s9}请你去抓捕逃跑的农民，把他们带回{s2}。他说所有的农民正逃向{s3}。"
+        "old_translation": "追回逃跑的农奴",
+        "translation": "{s9}请你把三伙逃跑的农奴带回{s2}。他说这些人正一起逃往{s3}。"
     },
     {
+        "id": "qst_follow_spy",
         "text": "Follow_the_Spy_to_Meeting",
+        "old_translation": "{s9}请你把三伙逃跑的农奴带回{s2}。他说这些人正一起逃往{s3}。",
         "translation": "跟踪准备去碰头的间谍"
     },
     {
+        "id": "qst_follow_spy_text",
         "text": "{s11}_asked_you_to_follow_the_spy_that_will_leave_{s12}._You_must_be_careful_not_to_be_seen_by_the_spy_during_his_travel,_or_else_he_may_get_suspicious_and_turn_back._Once_the_spy_meets_with_his_accomplice,_you_are_to_ambush_and_capture_them_and_bring_them_both_back_to_{s11}.",
-        "translation": "{s11}请你跟踪一个从{s12}出来的间谍。你必须小心的跟着他，不要在中途被他发现否则他可能会起疑心并且返回镇子里去，当他与同伙会面时，你要埋伏并且抓住他们，把他们都带回{s11}。"
+        "old_translation": "跟踪准备去碰头的间谍",
+        "translation": "{s11}请你跟踪一名即将离开{s12}的间谍。途中务必小心，别被他发现，否则他会起疑折返。等他与同伙会面，你就埋伏擒住两人，一并押回{s11}。"
     },
     {
+        "id": "qst_capture_enemy_hero",
         "text": "Capture_a_Lord_from_{s13}",
-        "translation": "抓捕在{s13}的一个领主"
+        "old_translation": "{s11}请你跟踪一名即将离开{s12}的间谍。途中务必小心，别被他发现，否则他会起疑折返。等他与同伙会面，你就埋伏擒住两人，一并押回{s11}。",
+        "translation": "从{s13}俘虏一名领主"
     },
     {
+        "id": "qst_lend_companion",
         "text": "Lend_Your_Companion_{s3}_to_{s9}",
+        "old_translation": "把你的同伴{s3}借给{s9}",
         "translation": "把你的同伴{s3}借给{s9}"
     },
     {
+        "id": "qst_lend_companion_text",
         "text": "{s9}_asked_you_to_lend_your_companion_{s3}_to_him_for_a_week.",
-        "translation": "{s9}向你借{s3}到他的队伍里一个星期"
+        "old_translation": "{s9}请你把同伴{s3}借给他一周",
+        "translation": "{s9}请你把同伴{s3}借给他一周"
     },
     {
+        "id": "qst_collect_debt",
         "text": "Collect_the_Debt_{s3}_Owes_to_{s9}",
-        "translation": "讨要{s3}欠{s9}的借款"
+        "old_translation": "讨要{s3}欠{s9}的债务",
+        "translation": "讨要{s3}欠{s9}的债务"
     },
     {
+        "id": "qst_collect_debt_text",
         "text": "{s9}_asked_you_to_collect_the_debt_of_{reg4}_peningas_{s3}_owes_to_him.",
-        "translation": "{s9}请你去收回债务{reg4}先令{s3}带给他。"
+        "old_translation": "{s9}请你去收回{s3}欠他的{reg4}银便士",
+        "translation": "{s9}请你去收回{s3}欠他的{reg4}银便士"
     },
     {
+        "id": "qst_incriminate_loyal_commander",
         "text": "Incriminate_the_Loyal_Commander_of_{s13},_{s16}",
-        "translation": "控告{s13}的忠心指挥官{s16}"
+        "old_translation": "控告{s13}的忠诚指挥官{s16}",
+        "translation": "控告{s13}的忠诚指挥官{s16}"
     },
     {
+        "id": "qst_meet_spy_in_enemy_town",
         "text": "Meet_Spy_in_{s13}",
-        "translation": "与在{s13}的间谍碰头"
+        "old_translation": "在{s13}与间谍接头",
+        "translation": "在{s13}与间谍接头"
     },
     {
+        "id": "qst_capture_prisoners",
         "text": "Bring_{reg1}_{s3}_Prisoners",
-        "translation": "抓捕{reg1}个{s3}俘虏"
+        "old_translation": "带来{reg1}名{s3}俘虏",
+        "translation": "带来{reg1}名{s3}俘虏"
     },
     {
+        "id": "qst_capture_prisoners_text",
         "text": "{s9}_wanted_you_to_bring_him_{reg1}_{s3}_as_prisoners.",
-        "translation": "{s9}想让你带{reg1}{s3}作为人质。"
+        "old_translation": "{s9}要你带来{reg1}名{s3}俘虏",
+        "translation": "{s9}要你带来{reg1}名{s3}俘虏"
     },
     {
+        "id": "qst_lend_surgeon",
         "text": "Lend_Your_Surgeon_{s3}_to_{s1}",
+        "old_translation": "把你的外科医生{s3}借给{s1}",
         "translation": "把你的外科医生{s3}借给{s1}"
     },
     {
+        "id": "qst_lend_surgeon_text",
         "text": "Lend_your_experienced_surgeon_{s3}_to_{s1}.",
-        "translation": "借你有经验的外科医生{s3}到{s1}。"
+        "old_translation": "把经验丰富的外科医生{s3}借给{s1}",
+        "translation": "把经验丰富的外科医生{s3}借给{s1}"
     },
     {
+        "id": "qst_follow_army",
         "text": "Follow_{s9}'s_Army",
+        "old_translation": "跟随{s9}的部队",
         "translation": "跟随{s9}的部队"
     },
     {
+        "id": "qst_report_to_army",
         "text": "Report_to_{s13},_the_Marshal",
-        "translation": "向元帅{s13}报告情况"
+        "old_translation": "向元帅{s13}汇报",
+        "translation": "向元帅{s13}汇报"
     },
     {
+        "id": "qst_deliver_cattle_to_army",
         "text": "Deliver_{reg3}_Head_of_Cattle_to_{s13}",
-        "translation": "复仇之路：与肯尼莫的雅尔交谈"
+        "old_translation": "送{reg3}头牛给{s13}",
+        "translation": "送{reg3}头牛给{s13}"
     },
     {
+        "id": "qst_join_siege_with_army",
         "text": "Join_the_Siege_of_{s14}",
-        "translation": "参加{s14}的围城战"
+        "old_translation": "把{reg3}头牛送到{s13}",
+        "translation": "加入围攻{s14}"
     },
     {
+        "id": "qst_screen_army",
         "text": "Screen_the_Advance_of_{s13}'s_Army",
-        "translation": "掩护{s13}的军队前进"
+        "old_translation": "加入围攻{s14}",
+        "translation": "掩护{s13}的部队推进"
     },
     {
+        "id": "qst_scout_waypoints",
         "text": "Scout_{s13},_{s14}_and_{s15}",
-        "translation": "侦察{s13}，{s14}和{s15}"
+        "old_translation": "掩护{s13}的部队推进",
+        "translation": "侦察{s13}、{s14}和{s15}"
     },
     {
+        "id": "qst_rescue_lord_by_replace",
         "text": "Rescue_{s13}_from_{s14}",
-        "translation": "从{s14}解救{s13}"
+        "old_translation": "侦察{s13}、{s14}和{s15}",
+        "translation": "从{s14}救出{s13}"
     },
     {
+        "id": "qst_deliver_message_to_prisoner_lord",
         "text": "Deliver_Message_to_{s13}_at_{s14}",
-        "translation": "送信给{s14}的{s13}"
+        "old_translation": "从{s14}救出{s13}",
+        "translation": "把信送到{s14}的{s13}手中"
     },
     {
+        "id": "qst_duel_for_lady",
         "text": "Challenge_{s13}_to_a_Trial_of_Arms",
-        "translation": "与{s13}决斗"
+        "old_translation": "把信送到{s14}的{s13}手中",
+        "translation": "向{s13}发起决斗"
     },
     {
+        "id": "qst_duel_courtship_rival",
         "text": "Challenge_{s13}_to_a_Trial_of_Arms_(optional)",
-        "translation": "与{s13}决斗（可选择）"
+        "old_translation": "向{s13}发起决斗",
+        "translation": "向{s13}发起决斗（可选）"
     },
     {
+        "id": "qst_duel_avenge_insult",
+        "text": "Challenge_{s13}_to_a_Trial_of_Arms",
+        "old_translation": "把信送到{s14}的{s13}手中",
+        "translation": "向{s13}发起决斗"
+    },
+    {
+        "id": "qst_move_cattle_herd",
         "text": "Move_Cattle_Herd_to_{s13}",
-        "translation": "赶牛到{s13}"
+        "old_translation": "向{s13}发起决斗",
+        "translation": "把牛群赶到{s13}"
     },
     {
+        "id": "qst_move_cattle_herd_text",
         "text": "The_mayor_of_{s10}_asked_you_to_move_a_cattle_herd_to_{s13}.",
-        "translation": "{s10}的村长请你把牛群带到{s13}。"
+        "old_translation": "把牛群赶到{s13}",
+        "translation": "{s10}的镇长请你把牛群赶到{s13}。"
     },
     {
+        "id": "qst_escort_merchant_caravan",
         "text": "Escort_Merchant_Caravan_to_{s8}",
-        "translation": "护送商队去{s8}"
+        "old_translation": "{s10}的镇长请你把牛群赶到{s13}。",
+        "translation": "护送商队前往{s8}"
     },
     {
+        "id": "qst_escort_merchant_caravan_text",
         "text": "Escort_the_merchant_caravan_to_the_town_of_{s8}.",
-        "translation": "护送商船队到{s8}。"
+        "old_translation": "护送商队前往{s8}",
+        "translation": "护送商队前往{s8}镇。"
     },
     {
+        "id": "qst_deliver_wine",
         "text": "Deliver_{reg5}_Units_of_{s6}_to_{s4}",
-        "translation": "捎带{reg5}单位的{s6}到{s4}"
+        "old_translation": "护送商队前往{s8}镇。",
+        "translation": "把{reg5}单位{s6}送到{s4}"
     },
     {
+        "id": "qst_deliver_wine_text",
         "text": "{s9}_of_{s3}_asked_you_to_deliver_{reg5}_units_of_{s6}_to_the_tavern_in_{s4}_in_7_days.",
-        "translation": "{s3}的{s9}请你在7天内送{reg5}个{s6}到{s4}的小酒馆。"
+        "old_translation": "把{reg5}单位{s6}送到{s4}",
+        "translation": "{s3}的{s9}请你在7天内把{reg5}单位{s6}送到{s4}的酒馆。"
     },
     {
+        "id": "qst_troublesome_bandits",
         "text": "Hunt_Down_Troublesome_Bandits",
-        "translation": "解决难对付的强盗"
+        "old_translation": "{s3}的{s9}请你在7天内把{reg5}单位{s6}送到{s4}的酒馆。",
+        "translation": "清剿难缠的山贼"
     },
     {
+        "id": "qst_troublesome_bandits_text",
         "text": "{s9}_of_{s4}_asked_you_to_hunt_down_the_troublesome_bandits_in_the_vicinity_of_the_town.",
-        "translation": "{s4}的{s9}请你追捕在镇子附近麻烦的土匪。"
+        "old_translation": "清剿难缠的山贼",
+        "translation": "{s4}的{s9}请你清剿镇子附近那伙难缠的山贼。"
     },
     {
+        "id": "qst_kidnapped_girl",
         "text": "Ransom_Girl_from_Bandits",
-        "translation": "从强盗那儿赎回女孩"
+        "old_translation": "{s4}的{s9}请你清剿镇子附近那伙难缠的山贼。",
+        "translation": "从山贼手中赎回女孩"
     },
     {
+        "id": "qst_kidnapped_girl_text",
         "text": "The_mayor_of_{s4}_gave_you_{reg12}_peningas_to_pay_the_ransom_of_a_girl_kidnapped_by_bandits._You_are_to_meet_the_bandits_near_{s3}_and_pay_them_the_ransom_fee._After_that,_you_are_to_bring_the_girl_back_to_{s4}.",
-        "translation": "{s4}的村长给你{reg12}先令去支付一个女孩的赎金，你在{s3}附近遇见土匪并且付给他们赎金。之后你把女孩带回了{s4}."
+        "old_translation": "从山贼手中赎回女孩",
+        "translation": "{s4}的镇长给你{reg12}银便士，用来支付被山贼绑走的女孩的赎金。你要在{s3}附近与山贼会面并付赎金，然后把女孩带回{s4}。"
     },
     {
+        "id": "qst_persuade_lords_to_make_peace",
         "text": "Make_Sure_Two_Lords_Do_Not_Object_to_Peace",
-        "translation": "确保两个领主不反对和平"
+        "old_translation": "{s4}的镇长给你{reg12}银便士，用来支付被山贼绑走的女孩的赎金。你要在{s3}附近与山贼会面并付赎金，然后把女孩带回{s4}。",
+        "translation": "确保两位领主不反对议和"
     },
     {
+        "id": "qst_persuade_lords_to_make_peace_text",
         "text": "The_mayor_of_{s4}_promised_you_{reg12}_peningas_if_you_can_make_sure_that_{s12}_and_{s13}_no_longer_pose_a_threat_to_a_peace_settlement_between_{s15}_and_{s14}._In_order_to_do_that,_you_must_either_convince_them_or_take_them_captive_until_a_peace_agreement_is_made.",
-        "translation": "{s4}的村长答应给你{reg12}先令如果你能确保{s12}和{s13}不再对{s15}和{s14}之间和平解决问题构成威胁的话。为了做到这一点你必须说服他们或者确保他们有一个俘虏直到一个和平协议制定出来。"
+        "old_translation": "确保两位领主不反对和议",
+        "translation": "{s4}的镇长答应给你{reg12}银便士，如果你能确保{s12}和{s13}不再威胁{s15}与{s14}的和议。为此，你必须说服他们，或在和约签订前将他们俘虏。"
     },
     {
+        "id": "qst_deal_with_looters",
         "text": "Deal_with_Looters",
-        "translation": "解决劫匪"
+        "old_translation": "{s4}的镇长答应给你{reg12}银便士，如果你能确保{s12}和{s13}不再威胁{s15}与{s14}的和议。为此，你必须说服他们，或在和约签订前将他们俘虏。",
+        "translation": "清剿劫匪"
     },
     {
+        "id": "qst_deal_with_looters_text",
         "text": "The_mayor_of_{s4}_has_asked_you_to_deal_with_several_bands_of_looters_around_{s4},_and_bring_back_any_goods_you_recover.",
-        "translation": "{s4}的村长请你对付在{s4}附近的强盗，并且带回任何你找到的货物。"
+        "old_translation": "清剿劫匪",
+        "translation": "{s4}的镇长请你清剿{s4}附近的几股劫匪，并带回任何缴获的货物。"
     },
     {
+        "id": "qst_deal_with_night_bandits",
         "text": "Deal_with_Night_Bandits",
-        "translation": "解决暗夜强盗"
+        "old_translation": "{s4}的镇长请你清剿{s4}附近的几股劫匪，并带回任何缴获的货物。",
+        "translation": "清剿夜袭山贼"
     },
     {
+        "id": "qst_deliver_grain",
         "text": "Bring_wheat_to_{s3}",
-        "translation": "筹集小麦给{s3}"
+        "old_translation": "清剿夜袭山贼",
+        "translation": "把小麦送到{s3}"
     },
     {
+        "id": "qst_deliver_grain_text",
         "text": "The_local_leader_of_the_village_of_{s3}_asked_you_to_bring_them_{reg5}_sacks_of_wheat.",
-        "translation": "{s3}的村长请你带给他们{reg5}包小麦。"
+        "old_translation": "把小麦送到{s3}",
+        "translation": "{s3}村的地方领袖请你带去{reg5}袋小麦。"
     },
     {
+        "id": "qst_deliver_cattle",
         "text": "Deliver_{reg5}_Head_of_Cattle_to_{s3}",
-        "translation": "筹集{reg5}头牛给{s3}"
+        "old_translation": "{s3}村的地方领袖请你带去{reg5}袋小麦。",
+        "translation": "把{reg5}头牛送到{s3}"
     },
     {
+        "id": "qst_deliver_cattle_text",
         "text": "The_local_leader_of_the_village_of_{s3}_asked_you_to_bring_{reg5}_head_of_cattle.",
-        "translation": "{s3}的村长请你带{reg5}头牛。"
+        "old_translation": "把{reg5}头牛送到{s3}",
+        "translation": "{s3}村的地方领袖请你带去{reg5}头牛。"
     },
     {
+        "id": "qst_train_peasants_against_bandits",
         "text": "Train_the_Peasants_of_{s13}_Against_Bandits.",
-        "translation": "训练农民以对抗在{s13}的强盗"
+        "old_translation": "训练{s13}的农民对抗山贼",
+        "translation": "训练{s13}的农民对抗山贼"
     },
     {
+        "id": "qst_eliminate_bandits_infesting_village",
         "text": "Save_the_Village_of_{s7}_from_Marauding_Bandits",
-        "translation": "从强盗手里解救{s7}村"
+        "old_translation": "从劫掠的山贼手中解救{s7}村",
+        "translation": "从劫掠的山贼手中解救{s7}村"
     },
     {
+        "id": "qst_eliminate_bandits_infesting_village_text",
         "text": "A_villager_from_{s7}_begged_you_to_save_their_village_from_the_bandits_that_took_refuge_there.",
-        "translation": "一个来自{s7}的人请求你从强盗的手中拯救他的村庄。"
+        "old_translation": "一位来自{s7}的村民恳求你从占据那里的山贼手中拯救他们的村庄",
+        "translation": "一位来自{s7}的村民恳求你从占据那里的山贼手中拯救他们的村庄。"
     },
     {
+        "id": "qst_visit_lady",
         "text": "Visit_Lady",
+        "old_translation": "拜访女士",
         "translation": "拜访女士"
     },
     {
+        "id": "qst_formal_marriage_proposal",
         "text": "Formal_Marriage_Proposal",
-        "translation": "正式求婚提案"
+        "old_translation": "正式求婚",
+        "translation": "正式求婚"
     },
     {
+        "id": "qst_obtain_liege_blessing",
+        "text": "Formal_Marriage_Proposal",
+        "old_translation": "正式求婚",
+        "translation": "正式求婚"
+    },
+    {
+        "id": "qst_wed_betrothed",
         "text": "Wed_Your_Betrothed",
-        "translation": "和你的未婚妻成婚"
+        "old_translation": "正式求婚",
+        "translation": "与未婚妻成婚"
     },
     {
+        "id": "qst_wed_betrothed_female",
+        "text": "Wed_Your_Betrothed",
+        "old_translation": "正式求婚",
+        "translation": "与未婚妻成婚"
+    },
+    {
+        "id": "qst_join_faction",
         "text": "Give_Oath_of_Homage_to_{s1}",
-        "translation": "宣誓效忠于{s1}"
+        "old_translation": "与未婚妻成婚",
+        "translation": "向{s1}宣誓效忠"
     },
     {
+        "id": "qst_join_faction_text",
         "text": "Find_{s1}_and_give_him_your_oath_of_homage.",
-        "translation": "找到{s1}并且宣誓效忠于他。"
+        "old_translation": "与未婚妻成婚",
+        "translation": "找到{s1}并向他宣誓效忠。"
     },
     {
+        "id": "qst_rebel_against_kingdom",
         "text": "Help_{s13}_Claim_the_Throne_of_{s14}",
-        "translation": "帮助{s13}取得{s14}的王位"
+        "old_translation": "向{s1}宣誓效忠",
+        "translation": "帮助{s13}夺取{s14}的王位"
     },
     {
+        "id": "qst_consult_with_minister",
         "text": "Consult_With_Minister",
-        "translation": "和首相商议"
+        "old_translation": "找到{s1}并向他宣誓效忠",
+        "translation": "与大臣商议"
     },
     {
+        "id": "qst_consult_with_minister_text",
         "text": "Consult_your_minister,_{s11},_currently_at_{s12}.",
-        "translation": "询问你的大臣{s11}，目前在{s12}"
+        "old_translation": "帮助{s13}夺取{s14}的王位",
+        "translation": "与大臣{s11}商议，他目前在{s12}。"
     },
     {
+        "id": "qst_organize_feast",
         "text": "Organize_Feast",
-        "translation": "组织宴会"
+        "old_translation": "与大臣商议",
+        "translation": "筹办宴会"
     },
     {
+        "id": "qst_organize_feast_text",
         "text": "Bring_goods_for_a_feast_to_your_spouse_{s11},_currently_at_{s12}.",
-        "translation": "在宴会上带一件礼物给你的配偶{s11}，目前在{s12}"
+        "old_translation": "与大臣{s11}商议，他目前在{s12}",
+        "translation": "把宴会所需物资带给你的配偶{s11}，她目前在{s12}。"
     },
     {
+        "id": "qst_resolve_dispute",
         "text": "Resolve_Dispute",
+        "old_translation": "筹办宴会",
         "translation": "解决争端"
     },
     {
+        "id": "qst_resolve_dispute_text",
         "text": "Resolve_the_dispute_between_{s11}_and_{s12}.",
-        "translation": "解决{s11}和{s12}之间的矛盾。"
+        "old_translation": "把宴会所需物资带给你的配偶{s11}，她目前在{s12}",
+        "translation": "解决{s11}与{s12}之间的争端。"
     },
     {
+        "id": "qst_offer_gift",
         "text": "Procure_Gift",
-        "translation": "获取礼物"
+        "old_translation": "解决争端",
+        "translation": "准备礼物"
     },
     {
+        "id": "qst_offer_gift_text",
         "text": "Give_{s10}_a_gift_to_provide_to_{reg4?her:his}_{s11},_{s12}.",
-        "translation": "给{s10}一个礼物让他献给{reg4?她:他}{s11}，{s12}"
+        "old_translation": "解决{s11}与{s12}之间的争端",
+        "translation": "给{s10}一件礼物，好让他转交给{s11}的{s12}。"
     },
     {
+        "id": "qst_denounce_lord",
         "text": "Denounce_Lord",
-        "translation": "指控领主"
+        "old_translation": "准备礼物",
+        "translation": "公开指责领主"
     },
     {
+        "id": "qst_denounce_lord_text",
         "text": "Denounce_{s11}_in_public.",
+        "old_translation": "公开指责{s11}。",
         "translation": "公开指责{s11}。"
     },
     {
+        "id": "qst_intrigue_against_lord",
         "text": "Intrigue_against_Lord",
+        "old_translation": "密谋反对领主",
         "translation": "密谋反对领主"
     },
     {
+        "id": "qst_intrigue_against_lord_text",
         "text": "Criticize_{s11}_in_private.",
-        "translation": "在私下批评{s11}。"
+        "old_translation": "私下批评{s11}。",
+        "translation": "私下批评{s11}。"
     },
     {
+        "id": "qst_track_down_bandits",
         "text": "Track_Down_Bandits",
-        "translation": "追捕强盗"
+        "old_translation": "追捕山贼",
+        "translation": "追捕山贼"
     },
     {
+        "id": "qst_track_down_bandits_text",
         "text": "{s9}_of_{s4}_asked_you_to_track_down_{s6},_who_attacked_travellers_on_the_roads_near_town.",
-        "translation": "{s4}的{s9}请你跟踪{s6}，在附近城镇袭击旅行的人。"
+        "old_translation": "{s4}的{s9}请你追捕{s6}，此人曾在城镇附近的道路上袭击旅人。",
+        "translation": "{s4}的{s9}请你追捕{s6}，此人曾在城镇附近的道路上袭击旅人。"
     },
     {
+        "id": "qst_track_down_provocateurs",
         "text": "Track_Down_Provocateurs",
+        "old_translation": "追捕奸细",
         "translation": "追捕奸细"
     },
     {
+        "id": "qst_track_down_provocateurs_text",
         "text": "{s9}_of_{s4}_asked_you_to_track_down_a_group_of_thugs,_hired_to_create_a_border_incident_between_{s5}_and_{s6}.",
-        "translation": "{s4}的{s9}请你追踪一伙暴徒，雇佣他们在{s5}和{s6}边境上制造事件。"
+        "old_translation": "{s4}的{s9}请你追踪一伙暴徒，他们受雇在{s5}与{s6}之间制造边境事端。",
+        "translation": "{s4}的{s9}请你追踪一伙暴徒，他们受雇在{s5}与{s6}之间制造边境事端。"
     },
     {
+        "id": "qst_retaliate_for_border_incident",
         "text": "Retaliate_for_a_Border_Incident",
+        "old_translation": "报复边境事件",
         "translation": "报复边境事件"
     },
     {
+        "id": "qst_retaliate_for_border_incident_text",
         "text": "{s9}_of_{s4}_asked_you_to_defeat_{s5}_of_the_{s7}_in_battle,_defusing_tension_in_the_{s8}_to_go_to_war.",
-        "translation": "{s4}的{s9}让你在战场上击败{s7}的{s5}，消除{s8}的紧张让他上战场。"
+        "old_translation": "{s4}的{s9}要求你在战场上击败{s7}的{s5}，以化解{s8}一触即发的战火。",
+        "translation": "{s4}的{s9}要求你在战场上击败{s7}的{s5}，以化解{s8}一触即发的战火。"
     },
     {
+        "id": "qst_raid_caravan_to_start_war",
         "text": "Attack_a_Neutral_Caravan_to_Provoke_War",
-        "translation": "攻击中立国商队来挑起战争"
+        "old_translation": "袭击中立商队以挑起战争",
+        "translation": "袭击中立商队以挑起战争"
     },
     {
+        "id": "qst_cause_provocation",
         "text": "Give_a_Kingdom_Provocation_to_Attack_Another",
-        "translation": "挑拔一个国家攻打别的国家"
+        "old_translation": "向一国提供借口，使其进攻他国",
+        "translation": "向一国提供借口，使其进攻他国"
     },
     {
+        "id": "qst_rescue_prisoner",
         "text": "Rescue_or_Ransom_a_Prisoner",
-        "translation": "营救或赎回一名俘虏"
+        "old_translation": "营救或赎回俘虏",
+        "translation": "营救或赎回俘虏"
     },
     {
+        "id": "qst_destroy_bandit_lair",
         "text": "Destroy_Bandit_Lair",
-        "translation": "摧毁强盗老巢"
+        "old_translation": "摧毁山贼老巢",
+        "translation": "摧毁山贼老巢"
     },
     {
+        "id": "qst_destroy_bandit_lair_text",
         "text": "{s9}_of_{s4}_asked_you_to_discover_the_{s6}_in_the_area_and_destroy_it.",
-        "translation": "{s4}的{s9}让你去找到{s6}并且摧毁它。"
+        "old_translation": "{s4}的{s9}命你找出该地区的{s6}并将其摧毁。",
+        "translation": "{s4}的{s9}命你找出该地区的{s6}并将其摧毁。"
     },
     {
+        "id": "qst_kennemer_jarl",
         "text": "The_Revenge:_Talk_to_the_Jarl_of_Kennemer",
-        "translation": "复仇之路：和肯尼莫的雅尔交谈"
+        "old_translation": "复仇之路：与肯尼莫的雅尔交谈",
+        "translation": "复仇之路：与肯尼莫的雅尔交谈"
     },
     {
+        "id": "qst_kennemer_jarl_missions",
         "text": "The_Revenge:_Working_for_a_Jarl",
-        "translation": "复仇之路：为一名雅尔工作"
+        "old_translation": "复仇之路：为雅尔效力",
+        "translation": "复仇之路：为雅尔效力"
     },
     {
+        "id": "qst_kennemer_mission_1",
         "text": "Jarl_Mission:_Judgment_in_the_Monastery",
+        "old_translation": "雅尔任务：修道院的审判",
         "translation": "雅尔任务：修道院的审判"
     },
     {
+        "id": "qst_kennemer_mission_2",
         "text": "Jarl_Mission:_Thiaderd_Must_Die",
-        "translation": "雅尔任务：泰德必须死"
+        "old_translation": "雅尔任务：提亚德尔必须死",
+        "translation": "雅尔任务：提亚德尔必须死"
     },
     {
+        "id": "qst_kennemer_mission_3",
         "text": "Jarl_Mission:_To_Kill_a_King",
+        "old_translation": "雅尔任务：弑君",
         "translation": "雅尔任务：弑君"
     },
     {
+        "id": "qst_reginhard_donations",
         "text": "Reginhard's_Petition:_A_Donation_for_War_Victims",
-        "translation": "雷因哈德的请求：为战争受害者捐款"
+        "old_translation": "雷因哈德的请求：为战争受难者捐款",
+        "translation": "雷因哈德的请求：为战争受难者捐款"
     },
     {
+        "id": "qst_recruit_an_army",
         "text": "Jarl_Mission:_Recruiting_Warriors",
-        "translation": "雅尔任务：招募新兵"
+        "old_translation": "雅尔任务：招募战士",
+        "translation": "雅尔任务：招募战士"
     },
     {
+        "id": "qst_doccinga_assault",
         "text": "Viking_Attack:_Save_Doccinga_from_Sven's_Assault",
+        "old_translation": "维京袭击：从斯温的突袭下拯救道琴嘉",
         "translation": "维京袭击：从斯温的突袭下拯救道琴嘉"
     },
     {
+        "id": "qst_doccinga_interrogation",
         "text": "Viking_Attack:_Interrogating_a_Viking",
-        "translation": "维京袭击：审讯一名维京海盗"
+        "old_translation": "维京袭击：审讯一名维京人",
+        "translation": "维京袭击：审讯一名维京人"
     },
     {
+        "id": "qst_getting_ship",
         "text": "Viking_Attack:_A_Boat_and_a_Girl",
+        "old_translation": "维京袭击：船与少女",
         "translation": "维京袭击：船与少女"
     },
     {
+        "id": "qst_notes_companions",
         "text": "Notes_on_Your_Companions",
-        "translation": "关于同伴的笔记"
+        "old_translation": "关于同伴的笔记",
+        "translation": "同伴札记"
     },
     {
+        "id": "qst_notes_global",
         "text": "Your_Book_Notes",
-        "translation": "你的个人笔记"
+        "old_translation": "你的个人笔记",
+        "translation": "你的札记"
     },
     {
+        "id": "qst_notes_frisa",
         "text": "Notes_on_Friese",
-        "translation": "你在弗里斯的笔记"
+        "old_translation": "你在弗里斯的笔记",
+        "translation": "弗里西札记"
     },
     {
+        "id": "qst_notes_danmork",
         "text": "Notes_on_Danmark",
-        "translation": "你在丹麦的笔记"
+        "old_translation": "你在丹麦的笔记",
+        "translation": "丹麦札记"
     },
     {
+        "id": "qst_notes_englaland",
         "text": "Notes_on_Englaland",
-        "translation": "你在英格兰的笔记"
+        "old_translation": "你在英格兰的笔记",
+        "translation": "英格兰札记"
     },
     {
+        "id": "qst_sven_lair",
         "text": "The_Revenge:_The_Wolf's_Den",
-        "translation": "复仇之路：深入狼穴"
+        "old_translation": "复仇之路：深入狼穴",
+        "translation": "复仇：狼穴"
     },
     {
+        "id": "qst_danmork_protection",
         "text": "The_Revenge:_Under_the_Wing_of_a_King",
-        "translation": "复仇之路：寻求霍里克国王的保护"
+        "old_translation": "复仇之路：寻求国王的庇护",
+        "translation": "复仇：托庇于王"
     },
     {
+        "id": "qst_revenge_sigurd",
         "text": "The_Revenge:_Ask_Sigurd_'Snake_in_the_Eye'",
-        "translation": "复仇之路：与“蛇眼”西格德当面对质"
+        "old_translation": "复仇之路：与“蛇眼”西格德当面对质",
+        "translation": "复仇：质问“蛇眼”西格德"
     },
     {
+        "id": "qst_collect_smen",
         "text": "Sigurd_Mission:_Recruiting_an_Army_for_Sigurd",
-        "translation": "西格德的任务：为西格德募集军队"
+        "old_translation": "西格德的任务：为西格德募集军队",
+        "translation": "西格德任务：为西格德募军"
     },
     {
+        "id": "qst_bodo_letter",
         "text": "The_Revenge:_A_Most_Important_Letter",
-        "translation": "复仇之路：夺回密信"
+        "old_translation": "复仇之路：夺回密信",
+        "translation": "复仇：至要密信"
     },
     {
+        "id": "qst_the_holmgang",
         "text": "The_Holmgang:_Killing_a_Hirdman",
-        "translation": "生死对决：昔友今敌"
+        "old_translation": "生死对决：杀死雅尔亲卫",
+        "translation": "决斗：击杀雅尔亲卫"
     },
     {
+        "id": "qst_the_fleet",
         "text": "The_Revenge:_Invading_Englaland",
-        "translation": "复仇之路：入侵英格兰"
+        "old_translation": "复仇之路：入侵英格兰",
+        "translation": "复仇：攻入英格兰"
     },
     {
+        "id": "qst_sven_traitor",
         "text": "The_Revenge:_Sven_the_Traitor",
-        "translation": "复仇之路：叛徒斯温"
+        "old_translation": "复仇之路：叛徒斯温",
+        "translation": "复仇：叛徒斯温"
     },
     {
+        "id": "qst_wessex_foragers",
         "text": "The_Siege:_Saxon_Foragers",
-        "translation": "围城之战：西撒克逊征粮队"
+        "old_translation": "围城之战：撒克逊征粮队",
+        "translation": "围城：撒克逊征粮队"
     },
     {
+        "id": "qst_the_messengersn",
         "text": "The_Siege:_The_Messenger",
-        "translation": "围城之战：信使"
+        "old_translation": "围城之战：信使",
+        "translation": "围城：信使"
     },
     {
+        "id": "qst_the_alliance",
         "text": "The_Revenge:_The_Alliance",
-        "translation": "复仇之路：联盟"
+        "old_translation": "复仇之路：联盟",
+        "translation": "复仇：结盟"
     },
     {
+        "id": "qst_welsh_and_pictish",
         "text": "The_Conqueror:_Serving_a_Cause",
-        "translation": "征服者：复国大业"
+        "old_translation": "征服者：为理想而战",
+        "translation": "征服者：为志而战"
     },
     {
+        "id": "qst_cathach_colum",
         "text": "Being_a_Viking:_'The_Cathach_of_Colum_Cille'",
-        "translation": "化身维京海盗：“科伦西尔之经”"
+        "old_translation": "化身维京海盗：“圣科伦巴护战书”",
+        "translation": "维京之路：“圣科伦巴护战书”"
     },
     {
+        "id": "qst_entregando_pieles",
         "text": "Being_a_Viking:_Trading_in_Furs",
-        "translation": "化身维京海盗：皮毛交易"
+        "old_translation": "化身维京海盗：皮毛交易",
+        "translation": "维京之路：皮毛买卖"
     },
     {
+        "id": "qst_revenge_exchange",
         "text": "The_Revenge:_The_Farm",
-        "translation": "复仇之路：农场"
+        "old_translation": "复仇之路：农场",
+        "translation": "复仇：农场"
     },
     {
+        "id": "qst_ulf_testigo",
         "text": "The_Revenge:_Wooing_Farmers_and_Jarls",
-        "translation": "保住脑袋：讨好农夫和领主们"
+        "old_translation": "复仇之路：拉拢农民与雅尔",
+        "translation": "复仇：争取农民与雅尔"
     },
     {
+        "id": "qst_the_thing",
         "text": "The_Revenge:_The_Assembly",
-        "translation": "复仇之路：议事会"
+        "old_translation": "复仇之路：集结地",
+        "translation": "复仇：集结地"
     },
     {
+        "id": "qst_douar_an_enez",
         "text": "The_Revenge:_Douar-an-Enez",
-        "translation": "复仇之路：当纳莱斯"
+        "old_translation": "复仇之路：杜瓦讷内",
+        "translation": "复仇：杜瓦讷内"
     },
     {
+        "id": "qst_aescesdun",
         "text": "The_Battle:_Aescesdun",
-        "translation": "战役：艾克丹"
+        "old_translation": "战役：阿什顿",
+        "translation": "会战：阿什顿"
     },
     {
+        "id": "qst_svenbn_final",
         "text": "The_Revenge:_Sven_Bull_Neck",
-        "translation": "复仇之路：牛颈斯温"
+        "old_translation": "复仇之路：“牛颈”斯温",
+        "translation": "复仇：“牛颈”斯温"
     },
     {
+        "id": "qst_old_roman",
         "text": "Hadrian's_Wall:_Saving_the_Starving",
+        "old_translation": "哈德良长城：拯救饥民",
         "translation": "哈德良长城：拯救饥民"
     },
     {
+        "id": "qst_vc_menu",
         "text": "Viking_Conquest_menu_system.",
-        "translation": "维京征服菜单系统"
+        "old_translation": "维京征服菜单系统",
+        "translation": "维京征服菜单系统。"
     },
     {
+        "id": "qst_vc_wounds",
         "text": "Viking_Conquest_wound_system.",
-        "translation": "维京征服伤害系统"
+        "old_translation": "维京征服伤害系统",
+        "translation": "维京征服伤害系统。"
     },
     {
+        "id": "qst_sea_battle_spawn",
         "text": "a_spawning_system.",
-        "translation": "复活系统"
+        "old_translation": "复活系统",
+        "translation": "复活系统。"
     },
     {
+        "id": "qst_team_0_ships",
+        "text": "a_spawning_system.",
+        "old_translation": "复活系统",
+        "translation": "复活系统。"
+    },
+    {
+        "id": "qst_team_1_ships",
+        "text": "a_spawning_system.",
+        "old_translation": "复活系统",
+        "translation": "复活系统。"
+    },
+    {
+        "id": "qst_blank_quest_2",
         "text": "Escort_Bishop_to_{s14}.",
-        "translation": "陪同主教去{s14}。"
+        "old_translation": "复活系统",
+        "translation": "护送主教至{s14}。"
     },
     {
+        "id": "qst_blank_quest_2_text",
         "text": "{s11}_asked_you_to_escort_the_Bishop_from_{s22}_to_{s14}.",
-        "translation": "{s11}请你从{s22}护送主教前往{s14}。"
+        "old_translation": "复活系统",
+        "translation": "{s11}请你把主教从{s22}护送到{s14}。"
     },
     {
+        "id": "qst_blank_quest_3",
         "text": "Raid_Monastery_at_{s14}",
+        "old_translation": "护送主教前往{s14}。",
         "translation": "洗劫{s14}的修道院"
     },
     {
+        "id": "qst_blank_quest_3_text",
         "text": "{s11}_asked_you_to_raid_Monastery_at_{s14},_near_{s34},_and_bring_him_{reg33}_peningas.",
-        "translation": "{s11}请你洗劫{s14}的修道院，位于{s34}附近，并带给他{reg33}先令。"
+        "old_translation": "{s11}请你把主教从{s22}护送至{s14}。",
+        "translation": "{s11}请你洗劫{s14}的修道院，就在{s34}附近，并带给他{reg33}银便士。"
     },
     {
+        "id": "qst_blank_quest_4",
         "text": "Find_and_destroy_a_group_of_masterless_men",
-        "translation": "找到并击溃一帮无主士兵"
+        "old_translation": "洗劫{s14}的修道院",
+        "translation": "找到并消灭一群无主散兵"
     },
     {
+        "id": "qst_blank_quest_4_text",
         "text": "{s8}_asked_you_to_track_down_a_group_of_masterless_men_who_looted_his_village,_{s9}.",
-        "translation": "{s8}请你追踪一帮劫掠了他的村庄{s9}的无主士兵。"
+        "old_translation": "{s8}请你追踪一群洗劫了他村庄{s9}的散兵。",
+        "translation": "{s8}请你追捕一群洗劫他村庄{s9}的无主散兵。"
     },
     {
+        "id": "qst_blank_quest_5",
         "text": "{!}blank_quest",
-        "translation": ""
+        "old_translation": "{!}blankquest",
+        "translation": "{!}blank quest"
     },
     {
+        "id": "qst_blank_quest_6",
         "text": "Capture_and_bring_{reg5}_women_to_{s3}",
-        "translation": "俘虏{reg5}名女人并带给{s3}"
+        "old_translation": "俘虏{reg5}名女子并押至{s3}",
+        "translation": "俘虏{reg5}名女子并押至{s3}"
     },
     {
+        "id": "qst_blank_quest_6_text",
         "text": "The_local_leader_of_the_village_of_{s3}_asked_you_to_bring_{reg5}_women_to_the_village_(as_prisoners).",
-        "translation": "{s3}的村庄长老请你带{reg5}个女人去村庄。（作为人质）"
+        "old_translation": "{s3}村的地方领袖命你押送{reg5}名女子到村中（作为俘虏）。",
+        "translation": "{s3}村的地方领袖请你把{reg5}名女子带到村里（作为俘虏）。"
     },
     {
+        "id": "qst_blank_quest_7",
         "text": "Return_Runaway_Slave_to_{s3}",
-        "translation": "将逃跑的奴隶归还给{s3}"
+        "old_translation": "将逃跑的奴隶交还{s3}",
+        "translation": "将逃跑的奴隶交还{s3}"
     },
     {
+        "id": "qst_blank_quest_7_text",
         "text": "The_leader_of_the_village_of_{s3}_asked_you_to_bring_a_runaway_slave_back_to_the_village.",
-        "translation": "{s3}的村庄长老请你把一名逃跑的奴隶带回村庄。"
+        "old_translation": "{s3}村的地方领袖命你把一名逃跑的奴隶带回村中。",
+        "translation": "{s3}村的地方领袖请你把一名逃跑的奴隶带回村里。"
     },
     {
+        "id": "qst_blank_quest_8",
+        "text": "{!}blank_quest",
+        "old_translation": "{!}blankquest",
+        "translation": "{!}blank quest"
+    },
+    {
+        "id": "qst_blank_quest_9",
         "text": "Bring_{reg33}_Horns_of_Mead_to_{s3}",
-        "translation": "将{reg33}份蜜酒带到{s3}"
+        "old_translation": "{!}blankquest",
+        "translation": "将{reg33}角蜜酒送至{s3}"
     },
     {
+        "id": "qst_blank_quest_9_text",
         "text": "The_priest_at_{s3}_asked_you_to_bring_him_{reg33}_drinking_horns_of_mead.",
-        "translation": "{s3}的牧师请你带给他{reg33}份蜂蜜酒。"
+        "old_translation": "将{reg33}角蜜酒送至{s3}",
+        "translation": "{s3}的牧师请你带{reg33}角蜜酒给他。"
     },
     {
+        "id": "qst_blank_quest_10",
         "text": "Recover_a_{s13}_Stolen_from_{s9}_of_{s3}",
-        "translation": "为{s3}的{s9}取回一件被窃的{s13}。"
+        "old_translation": "{s3}的牧师请你带{reg33}角蜜酒给他。",
+        "translation": "为{s3}的{s9}追回一件被窃的{s13}。"
     },
     {
+        "id": "qst_blank_quest_10_text",
         "text": "The_{s9}_of_{s3}_asked_you_to_recover_a_{s13}_stolen_from_him.^^Look_Into:^{s10}",
-        "translation": "{s3}的{s9}请你取回一件被窃的{s13}。^^查看：^{s10}"
+        "old_translation": "为{s3}的{s9}追回一件被窃的{s13}。",
+        "translation": "{s3}的{s9}请你追回一件被窃的{s13}。^^调查：^{s10}"
     },
     {
+        "id": "qst_blank_quest_11",
         "text": "Bring_{reg33}_Loads_of_{s33}_to_{s3}",
-        "translation": "将{reg33}份{s33}带到{s3}"
+        "old_translation": "{s3}的{s9}请你追回一件被窃的{s13}。^^调查：^{s10}",
+        "translation": "将{reg33}车{s33}送至{s3}"
     },
     {
+        "id": "qst_blank_quest_11_text",
         "text": "The_{s9}_of_{s3}_asked_you_to_bring_{reg33}_loads_of_{s33}_to_him.",
-        "translation": "{s3}的{s9}请你将{reg33}份{s33}带给他。"
+        "old_translation": "将{reg33}车{s33}送至{s3}",
+        "translation": "{s3}的{s9}请你把{reg33}车{s33}送到他那里。"
     },
     {
+        "id": "qst_blank_quest_12",
         "text": "Bring_{reg33}_Pallets_of_Timber_to_{s3}",
-        "translation": "将{reg33}件木材带到{s3}"
+        "old_translation": "{s3}的{s9}请你把{reg33}车{s33}送到他那里。",
+        "translation": "将{reg33}垛木材送至{s3}"
     },
     {
+        "id": "qst_blank_quest_12_text",
         "text": "The_abbot_at_{s3}_asked_you_to_bring_him_{reg33}_pallets_of_timber.",
-        "translation": "{s3}的修道院院长请你将{reg33}件木材带给他。"
+        "old_translation": "将{reg33}垛木材送至{s3}",
+        "translation": "{s3}的修道院院长请你把{reg33}垛木材送到他那里。"
     },
     {
+        "id": "qst_blank_quest_13",
         "text": "A_Blast_from_the_Past",
+        "old_translation": "{s3}的修道院院长请你把{reg33}垛木材送到他那里。",
         "translation": "往昔回响"
     },
     {
+        "id": "qst_blank_quest_13_text",
         "text": "{s11}_asked_you_to_deal_with_her_'ghost'_ex-lover_who_is_believed_to_be_in_{s33}.",
-        "translation": "{s11}请你对付她过去的爱人的鬼魂，它应该在{s33}"
+        "old_translation": "往昔回响",
+        "translation": "{s11}请你处理她的“幽灵”旧情人，据说那人就在{s33}。"
     },
     {
+        "id": "qst_blank_quest_14",
         "text": "Reveal_Assassination_Plot",
+        "old_translation": "{s11}请你处理她那位据说在{s33}的“幽灵”旧情人。",
         "translation": "揭露刺杀阴谋"
     },
     {
+        "id": "qst_blank_quest_14_text",
         "text": "Someone_attempted_to_murder_you._You_can_try_to_find_out_who_wanted_you_dead_by_meeting_the_killers'_contact_in_{s3}.",
-        "translation": "有人想谋杀你。你可以到{s3}与杀手的联系人会面，试着找出想要买你一命的人。"
+        "old_translation": "找到并摧毁{s9}，然后向{s11}复命。",
+        "translation": "有人企图谋杀你。你可以前往{s3}与杀手的联络人接头，查出谁想要你的命。"
     },
     {
+        "id": "qst_blank_quest_15",
+        "text": "Reveal_Assassination_Plot",
+        "old_translation": "{s11}请你处理她那位据说在{s33}的“幽灵”旧情人。",
+        "translation": "揭露刺杀阴谋"
+    },
+    {
+        "id": "qst_blank_quest_15_text",
         "text": "The_contact_has_given_away_the_lord_who_ordered_the_assassination_-_it_is_{s9}._It's_time_to_confront_the_lord_directly._",
-        "translation": "联系人给出了那名下令刺杀你的领主的名字——他是{s9}。是时候与这位领主当面对质了。"
+        "old_translation": "有人企图刺杀你。若想查出幕后主使，可前往{s3}与杀手的联络人接头。",
+        "translation": "联络人供出了下令刺杀的那位领主——正是{s9}。是时候直接面对这位领主了。"
     },
     {
+        "id": "qst_blank_quest_16",
         "text": "Bring_{reg25}_{reg1?Pieces:Piece}_of_{s17}_to_{s11}",
-        "translation": "带{reg25}块{s17}给{s11}。"
+        "old_translation": "带{reg25}{reg1?块:块}{s17}给{s11}",
+        "translation": "带{reg25}{reg1?块:块}{s17}给{s11}"
     },
     {
+        "id": "qst_blank_quest_16_text",
         "text": "{s11}_asked_you_to_bring_her_{reg25}_{reg1?pieces:piece}_of_{s17}.",
-        "translation": "{s11}请你给她带{reg25}块{s17}。"
+        "old_translation": "{s11}请你给她带{reg25}{reg1?块:块}{s17}",
+        "translation": "{s11}请你给她带{reg25}{reg1?块:块}{s17}"
     },
     {
+        "id": "qst_blank_quest_17",
         "text": "Bring_Foodstuffs_to_{s11}",
-        "translation": "带两块奶酪和{reg25}瓶酒给{s11}。"
+        "old_translation": "带食物给{s11}",
+        "translation": "带食物给{s11}"
     },
     {
+        "id": "qst_blank_quest_17_text",
         "text": "{s11}_asked_you_to_bring_her_two_pieces_of_cheese_and_{reg25}_{reg1?bottles:bottle}_of_wine.",
-        "translation": "{s11}请你带两块奶酪和{reg25}瓶酒。"
+        "old_translation": "{s11}请你带两块奶酪和{reg25}{reg1?瓶:瓶}酒",
+        "translation": "{s11}请你带两块奶酪和{reg25}{reg1?瓶:瓶}酒"
     },
     {
+        "id": "qst_blank_quest_18",
         "text": "Deliver_Message_to_{s3}",
+        "old_translation": "送信给{s3}",
         "translation": "送信给{s3}"
     },
     {
+        "id": "qst_blank_quest_18_text",
         "text": "{s11}_asked_you_to_take_a_message_to_her_lover_{s3}.",
-        "translation": "{s11}请你将一条消息带给她的爱人{s3}。"
+        "old_translation": "{s11}请你把口信带给她的爱人{s3}",
+        "translation": "{s11}请你把口信带给她的爱人{s3}"
     },
     {
+        "id": "qst_blank_quest_19",
         "text": "Become_Norse_Konungr_Over_All_Scandinavia",
-        "translation": "成为全斯堪的纳维亚的统治者"
+        "old_translation": "成为全斯堪的纳维亚的诺斯康戈尔",
+        "translation": "成为全斯堪的纳维亚的诺斯康戈尔"
     },
     {
+        "id": "qst_blank_quest_20",
         "text": "Become_Vrenhin_Lloegr_Over_All_Britons",
+        "old_translation": "成为全布立吞的统治者",
         "translation": "成为全布立吞的统治者"
     },
     {
+        "id": "qst_blank_quest_21",
         "text": "Become_Ard_Ruire_Over_All_Eriu",
-        "translation": "成为全爱尔兰的统治者"
+        "old_translation": "成为全爱尔兰的阿尔德·鲁伊雷",
+        "translation": "成为全爱尔兰的阿尔德·鲁伊雷"
     },
     {
+        "id": "qst_blank_quest_22",
         "text": "Become_Brytenwalda_Over_All_Englaland",
-        "translation": "成为全英格兰的统治者"
+        "old_translation": "成为全英格兰的“不列颠共主”",
+        "translation": "成为全英格兰的“不列颠共主”"
     },
     {
+        "id": "qst_blank_quest_23",
         "text": "The_Last_Tuatha_De_Danann",
+        "old_translation": "最后的达努神族",
         "translation": "最后的达努神族"
     },
     {
+        "id": "qst_blank_quest_24",
         "text": "The_Snake",
-        "translation": "蛇"
+        "old_translation": "“蛇”",
+        "translation": "“蛇”"
     },
     {
+        "id": "qst_blank_quest_25",
         "text": "Flaithbertach's_Grandchildren",
+        "old_translation": "弗莱厄蒂的子嗣",
         "translation": "弗莱厄蒂的子嗣"
     },
     {
+        "id": "qst_blank_quest_26",
         "text": "Mael_Bresail",
-        "translation": "普雷西尔王子"
+        "old_translation": "梅尔·布雷塞尔",
+        "translation": "梅尔·布雷塞尔"
     },
     {
+        "id": "qst_blank_quest_27",
         "text": "Notes_on_Eriu",
-        "translation": "爱尔兰的笔记"
+        "old_translation": "爱尔兰札记",
+        "translation": "爱尔兰札记"
     },
     {
+        "id": "qst_collect_men",
         "text": "The_Revenge:_Visit_Doccinga",
-        "translation": "复仇之路：参观道琴嘉"
+        "old_translation": "复仇之路：拜访道琴嘉",
+        "translation": "复仇之路：拜访道琴嘉"
     },
     {
+        "id": "qst_learn_where_merchant_brother_is",
+        "text": "Deliver_{reg3}_Head_of_Cattle_to_{s13}",
+        "old_translation": "送{reg3}头牛给{s13}",
+        "translation": "送{reg3}头牛给{s13}"
+    },
+    {
+        "id": "qst_save_relative_of_merchant",
         "text": "Attack_the_Bandit_Lair",
-        "translation": "攻打强盗老巢"
+        "old_translation": "攻打山贼老巢",
+        "translation": "攻打山贼老巢"
     },
     {
+        "id": "qst_save_town_from_bandits",
         "text": "Save_Town_from_Bandits",
-        "translation": "从强盗手中拯救城镇"
+        "old_translation": "从山贼手中拯救城镇",
+        "translation": "从山贼手中拯救城镇"
     },
     {
+        "id": "qst_quests_end",
         "text": "Quests_End",
-        "translation": "QuestsEnd"
+        "old_translation": "任务终焉",
+        "translation": "任务终焉"
     }
 ]

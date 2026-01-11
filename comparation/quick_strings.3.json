@@ -1,2002 +1,3002 @@
 [
     {
+        "id": "qstr_{s1}_or_{s2}",
         "text": "{s1}_or_{s2}",
+        "old_translation": "{s1}或{s2}",
         "translation": "{s1}或{s2}"
     },
     {
+        "id": "qstr__Click_on_a_unit_for",
         "text": "(Click_on_a_unit_for_details)",
-        "translation": "(点击查看详情)"
+        "old_translation": "（点击查看详情）",
+        "translation": "（点击查看详情）"
     },
     {
+        "id": "qstr_{reg2}",
         "text": "{reg2}",
+        "old_translation": "{reg2}",
         "translation": "{reg2}"
     },
     {
+        "id": "qstr_On_several_occasions",
         "text": "On_several_occasions_throughout_your_life,_you_have_seen_the_strange_Latin_letters._You_quickly_learn_to_read._Perhaps,_in_time,_you_will_also_learn_to_write!^^This_will_require_you_to_stay_a_week_at_the_monastery._Do_you_still_want_to_learn_to_read?",
-        "translation": "在你的人生中，你已经多次见过这些奇怪的拉丁字母了，因此你很快便学会了如何阅读。也许你将在短时间内也学懂写字！^^这会让你在修道院停留一周。你想学习阅读吗？"
+        "old_translation": "在你过往的人生中，你已经多次见过这些奇怪的拉丁字母了，因此你很快便学会了如何阅读。也许你将在短时间内也学懂写字！^^这会让你在修道院停留一周。你想学习阅读吗？",
+        "translation": "你一生中多次见过那些奇怪的拉丁字母，很快就学会了阅读。也许不久之后，你还能学会写字！^^这会让你在修道院停留一周。你仍想学习阅读吗？"
     },
     {
+        "id": "qstr_Yes.",
         "text": "Yes.",
+        "old_translation": "是。",
         "translation": "是。"
     },
     {
+        "id": "qstr_No.",
         "text": "No.",
-        "translation": "否。"
+        "old_translation": "不。",
+        "translation": "不。"
     },
     {
+        "id": "qstr_No_one_here_wants_to",
         "text": "No_one_here_wants_to_join_your_party.",
-        "translation": "这里没人想加入你的部队。"
+        "old_translation": "这里没人想加入你的部队。",
+        "translation": "这里没人想加入你的队伍。"
     },
     {
+        "id": "qstr_One_{s3}_is_willing_",
         "text": "One_{s3}_is_willing_to_follow_you.",
+        "old_translation": "一个{s3}愿意跟随你。",
         "translation": "一个{s3}愿意跟随你。"
     },
     {
+        "id": "qstr_{reg5}_{s3}_are_will",
         "text": "{reg5}_{s3}_are_willing_to_follow_you.",
+        "old_translation": "{reg5}个{s3}愿意跟随你。",
         "translation": "{reg5}个{s3}愿意跟随你。"
     },
     {
+        "id": "qstr_Recruit_them__{reg6}",
         "text": "Recruit_them_({reg6}_peningas).",
-        "translation": "招募他们（{reg6}先令）。"
+        "old_translation": "奴役村民。",
+        "translation": "招募他们（{reg6}银便士）。"
     },
     {
+        "id": "qstr_One_{s3}_volunteers_",
         "text": "One_{s3}_volunteers_to_follow_you.",
+        "old_translation": "一个{s3}自愿跟随你。",
         "translation": "一个{s3}自愿跟随你。"
     },
     {
+        "id": "qstr_{reg5}_{s3}_voluntee",
         "text": "{reg5}_{s3}_volunteer_to_follow_you.",
+        "old_translation": "{reg5}个{s3}自愿跟随你。",
         "translation": "{reg5}个{s3}自愿跟随你。"
     },
     {
+        "id": "qstr_You_need_to_get_the_",
         "text": "You_need_to_get_the_permission_of_the_village_leader_to_recruit_here.",
-        "translation": "当你获得本地领主的许可后才能在这里招募。"
+        "old_translation": "当你获得本地领主的许可后才能在这里招募。",
+        "translation": "你得先获得村长的许可，才能在此地招募。"
     },
     {
+        "id": "qstr_My_Boats",
         "text": "My_Boats",
-        "translation": "我的船。"
+        "old_translation": "我的船只。",
+        "translation": "我的船只"
     },
     {
+        "id": "qstr_Boats_for_Sale",
         "text": "Boats_for_Sale",
-        "translation": "待售船只。"
+        "old_translation": "待售船只。",
+        "translation": "待售船只"
     },
     {
+        "id": "qstr_No_ships_for_sale^in",
         "text": "No_ships_for_sale^in_this_town.",
+        "old_translation": "这个城市^没有待售船只。",
         "translation": "这个城市^没有待售船只。"
     },
     {
+        "id": "qstr_No_Name",
         "text": "No_Name",
+        "old_translation": "没有名称",
         "translation": "没有名称"
     },
     {
+        "id": "qstr_{reg7}._Ship",
         "text": "{reg7}._Ship",
-        "translation": "第{reg7}艘船"
+        "old_translation": "第{reg7}艘船",
+        "translation": "{reg7}. 船"
     },
     {
+        "id": "qstr_Flagship",
         "text": "Flagship",
+        "old_translation": "旗舰",
         "translation": "旗舰"
     },
     {
+        "id": "qstr_Very_Good",
         "text": "Very_Good",
+        "old_translation": "非常好",
         "translation": "非常好"
     },
     {
+        "id": "qstr_Good",
         "text": "Good",
+        "old_translation": "良好",
         "translation": "良好"
     },
     {
+        "id": "qstr_Acceptable",
         "text": "Acceptable",
+        "old_translation": "可以接受",
         "translation": "可以接受"
     },
     {
+        "id": "qstr_Bad",
         "text": "Bad",
+        "old_translation": "差",
         "translation": "差"
     },
     {
+        "id": "qstr_Very_Bad",
         "text": "Very_Bad",
+        "old_translation": "非常差",
         "translation": "非常差"
     },
     {
+        "id": "qstr_Dangerous",
         "text": "Dangerous",
+        "old_translation": "危险",
         "translation": "危险"
     },
     {
+        "id": "qstr_Repair:_{reg8}_penin",
         "text": "Repair:_{reg8}_peningas",
-        "translation": "修理：{reg8}先令"
+        "old_translation": "修理：{reg8}银便士",
+        "translation": "修理：{reg8}银便士"
     },
     {
+        "id": "qstr_Type:_{s7}^Wood:_{s6",
         "text": "Type:_{s7}^Wood:_{s6}^Condition:_{s1}^Speed:_{reg1}_knots^Crew:_{reg6}_men^Price:_{reg7}_peningas^{s2}",
-        "translation": "种类：{s7}^材质：{s6}^状况：{s1}^速度：{reg1}节^可载船员：{reg6}人^价格：{reg7}先令^{s2}"
+        "old_translation": "种类：{s7}^材质：{s6}^状况：{s1}^速度：{reg1}节^可载船员：{reg6}人^价格：{reg7}银便士^{s2}",
+        "translation": "种类：{s7}^材质：{s6}^状况：{s1}^速度：{reg1}节^可载船员：{reg6}人^价格：{reg7}银便士^{s2}"
     },
     {
+        "id": "qstr_Repair_Ship",
         "text": "Repair_Ship",
+        "old_translation": "修理船只",
         "translation": "修理船只"
     },
     {
+        "id": "qstr_Customize_Ship",
         "text": "Customize_Ship",
+        "old_translation": "自定义船只",
         "translation": "自定义船只"
     },
     {
+        "id": "qstr_Sell_Ship",
         "text": "Sell_Ship",
+        "old_translation": "出售船只",
         "translation": "出售船只"
     },
     {
+        "id": "qstr_Buy_Ship",
         "text": "Buy_Ship",
+        "old_translation": "购买船只",
         "translation": "购买船只"
     },
     {
+        "id": "qstr_Are_you_sure_you_wan",
         "text": "Are_you_sure_you_want_to_do_this_transaction?",
-        "translation": "你确定你要做这笔交易？"
+        "old_translation": "你确定你要做这笔交易？",
+        "translation": "你确定要做这笔交易吗？"
     },
     {
+        "id": "qstr_Leave_ship_at_the_sh",
         "text": "Leave_ship_at_the_shore",
-        "translation": "离开停在岸边的船"
+        "old_translation": "把这艘船停靠在岸边",
+        "translation": "把船留在岸边"
     },
     {
+        "id": "qstr_Next_ship",
         "text": "Next_ship",
+        "old_translation": "下一艘船",
         "translation": "下一艘船"
     },
     {
+        "id": "qstr_Fleet_Capacity:",
         "text": "Fleet_Capacity:",
+        "old_translation": "舰队容量：",
         "translation": "舰队容量："
     },
     {
+        "id": "qstr_{reg1}/{reg2}",
         "text": "{reg1}/{reg2}",
+        "old_translation": "{reg1}/{reg2}",
         "translation": "{reg1}/{reg2}"
     },
     {
+        "id": "qstr_You_cannot_buy_this_",
         "text": "You_cannot_buy_this_boat,_as_it_requires_a_Sea-King_skill_to_manage_boats.",
-        "translation": "你不能购买这艘船，因为你没有提督技能。"
+        "old_translation": "你不能购买这艘船，因为你没有提督技能。",
+        "translation": "你无法购买这艘船，需要提督技能才能管理船只。"
     },
     {
+        "id": "qstr_You_cannot_buy_this_b",
         "text": "You_cannot_buy_this_boat,_because_you_don't_have_the_Sea-King_skill.",
-        "translation": "你不能购买这艘船，因为你没有提督技能。"
+        "old_translation": "你不能购买这艘船，因为你没有提督技能。",
+        "translation": "你无法购买这艘船，因为你没有提督技能。"
     },
     {
+        "id": "qstr_You_cannot_buy_this_bo",
         "text": "You_cannot_buy_this_boat,_as_it_requires_a_higher_Sea-King_skill_to_manage_more_boats.",
-        "translation": "你不能购买这艘船，因为你的提督技能不足。"
+        "old_translation": "你不能购买这艘船，因为你的提督技能不足。",
+        "translation": "你无法购买这艘船，需要更高的提督技能才能管理更多船只。"
     },
     {
+        "id": "qstr_You_cannot_buy_this_boa",
         "text": "You_cannot_buy_this_boat,_because_you_don't_have_enough_money.",
-        "translation": "你不能购买这艘船，因为你的金钱不足。"
+        "old_translation": "你不能购买这艘船，因为你的金钱不足。",
+        "translation": "你无法购买这艘船，因为你的钱不够。"
     },
     {
+        "id": "qstr_You_can_t_leave_your",
         "text": "You_can't_leave_your_last_ship_at_the_shore.",
-        "translation": "你不能离开你停靠在岸边的最后一艘船"
+        "old_translation": "你不能把最后一艘船留在岸边。",
+        "translation": "你不能把最后一艘船留在岸边。"
     },
     {
+        "id": "qstr_You_can_t_leave_this",
         "text": "You_can't_leave_this_ship_at_the_shore,_because_otherwise_your_crew_wouldn't_fit_any_more_in_the_rest_of_the_ships.",
-        "translation": "你不能把这艘船停在岸边，因为你其余船只已容纳不了这批船员。"
+        "old_translation": "你不能把这艘船留在岸边，否则其余船只就装不下所有船员。",
+        "translation": "你不能把这艘船留在岸边，否则其余船只就装不下所有船员。"
     },
     {
+        "id": "qstr_{s1}_s_Ships",
         "text": "{s1}'s_Ships",
-        "translation": "{s1}'的船"
+        "old_translation": "{s1}的船",
+        "translation": "{s1}的船"
     },
     {
+        "id": "qstr_You_need_to_get_clos",
         "text": "You_need_to_get_closer_to_the_shore_if_you_want_to_leave_ships_there.",
-        "translation": "你必须更靠近岸边才能上岸"
+        "old_translation": "想留船就得再靠近岸边。",
+        "translation": "想留船就得再靠近岸边。"
     },
     {
+        "id": "qstr_You_cannot_repair_th",
         "text": "You_cannot_repair_this_boat,_because_you_don't_have_enough_money.",
-        "translation": "你不能修理这艘船，因为你的金钱不足。"
+        "old_translation": "你钱不够，修不了这艘船。",
+        "translation": "你钱不够，修不了这艘船。"
     },
     {
+        "id": "qstr_No_ships_for_sell^in",
         "text": "No_ships_for_sell^in_this_Town.",
-        "translation": "这个城市^没有待售船只。"
+        "old_translation": "本城^无船可售。",
+        "translation": "本城^无船可售。"
     },
     {
+        "id": "qstr_Wood:_{s0}^",
         "text": "Wood:_{s0}^",
+        "old_translation": "木材：{s0}^",
         "translation": "木材：{s0}^"
     },
     {
+        "id": "qstr_custom",
         "text": "custom",
+        "old_translation": "自定义",
         "translation": "自定义"
     },
     {
+        "id": "qstr_blue_and_white",
         "text": "blue_and_white",
-        "translation": "蓝，白色"
+        "old_translation": "蓝白",
+        "translation": "蓝白"
     },
     {
+        "id": "qstr_red_and_white",
         "text": "red_and_white",
-        "translation": "红，白色"
+        "old_translation": "红白",
+        "translation": "红白"
     },
     {
+        "id": "qstr_rich_striped",
         "text": "rich_striped",
-        "translation": "条纹"
+        "old_translation": "富纹",
+        "translation": "富纹"
     },
     {
+        "id": "qstr_green_and_yellow",
         "text": "green_and_yellow",
-        "translation": "黄，绿色"
+        "old_translation": "黄绿",
+        "translation": "绿黄相间"
     },
     {
+        "id": "qstr_red",
         "text": "red",
+        "old_translation": "红色",
         "translation": "红色"
     },
     {
+        "id": "qstr_blue_and_red",
         "text": "blue_and_red",
-        "translation": "红，蓝色"
+        "old_translation": "红蓝",
+        "translation": "蓝红相间"
     },
     {
+        "id": "qstr_green",
         "text": "green",
+        "old_translation": "绿色",
         "translation": "绿色"
     },
     {
+        "id": "qstr_blue_and_yellow",
         "text": "blue_and_yellow",
-        "translation": "黄，蓝色"
+        "old_translation": "黄蓝",
+        "translation": "蓝黄相间"
     },
     {
+        "id": "qstr_Sail:_{s0}^",
         "text": "Sail:_{s0}^",
+        "old_translation": "帆布：{s0}^",
         "translation": "帆布：{s0}^"
     },
     {
+        "id": "qstr_tarred",
         "text": "tarred",
+        "old_translation": "涂柏油",
         "translation": "涂柏油"
     },
     {
+        "id": "qstr_tarred_and_red",
         "text": "tarred_and_red",
-        "translation": "红色并涂柏油"
+        "old_translation": "红底涂柏油",
+        "translation": "红底涂柏油"
     },
     {
+        "id": "qstr_varnished",
         "text": "varnished",
+        "old_translation": "涂漆",
         "translation": "涂漆"
     },
     {
+        "id": "qstr_varnished_and_purple",
         "text": "varnished_and_purple",
+        "old_translation": "紫色并涂漆",
         "translation": "紫色并涂漆"
     },
     {
+        "id": "qstr_blue",
         "text": "blue",
+        "old_translation": "蓝色",
         "translation": "蓝色"
     },
     {
+        "id": "qstr_blue_red_and_green",
         "text": "blue,_red_and_green",
-        "translation": "蓝，红，绿色"
+        "old_translation": "蓝、红、绿色",
+        "translation": "蓝、红、绿色"
     },
     {
+        "id": "qstr_plain",
         "text": "plain",
+        "old_translation": "素色",
         "translation": "素色"
     },
     {
+        "id": "qstr_Finish:_{s0}^",
         "text": "Finish:_{s0}^",
+        "old_translation": "船体：{s0}^",
         "translation": "船体：{s0}^"
     },
     {
+        "id": "qstr_Price:_{reg7}_pening",
         "text": "Price:_{reg7}_peningas",
-        "translation": "价格：{reg7}先令"
+        "old_translation": "价格：{reg7}银便士",
+        "translation": "价格：{reg7}银便士"
     },
     {
+        "id": "qstr_{s1}{s2}{s3}{s4}",
         "text": "{s1}{s2}{s3}{s4}",
+        "old_translation": "{s1}{s2}{s3}{s4}",
         "translation": "{s1}{s2}{s3}{s4}"
     },
     {
+        "id": "qstr_Change_Finish",
         "text": "Change_Finish",
+        "old_translation": "改变船体",
         "translation": "改变船体"
     },
     {
+        "id": "qstr_Change_Sail",
         "text": "Change_Sail",
+        "old_translation": "改变帆布",
         "translation": "改变帆布"
     },
     {
+        "id": "qstr_Apply",
         "text": "Apply",
+        "old_translation": "接受",
         "translation": "接受"
     },
     {
+        "id": "qstr_Only_ships_made_of_o",
         "text": "Only_ships_made_of_oak_are_considered_to_deserve_a_special_finish.",
-        "translation": "只有橡木船才能处理船体。"
+        "old_translation": "只有橡木船才配得上特殊船体。",
+        "translation": "只有橡木船才配得上特殊船体。"
     },
     {
+        "id": "qstr_You_don_t_have_enoug",
         "text": "You_don't_have_enough_money.",
+        "old_translation": "你钱不够。",
         "translation": "你钱不够。"
     },
     {
+        "id": "qstr_Accept",
         "text": "Accept",
+        "old_translation": "接受",
         "translation": "接受"
     },
     {
+        "id": "qstr_Dismiss_Staff",
         "text": "Dismiss_Staff",
+        "old_translation": "解雇职员",
         "translation": "解雇职员"
     },
     {
+        "id": "qstr_Recruit_staff_for_yo",
         "text": "Recruit_staff_for_your_refuge:",
-        "translation": "为你的庇护所招募职员。"
+        "old_translation": "为你的庇护所招募职员：",
+        "translation": "为你的庇护所招募职员："
     },
     {
+        "id": "qstr_^Hiring_staff_has_bo",
         "text": "^Hiring_staff_has_both_initial_and_continuing_costs._A_good_reputation_and_an_impressive_refuge_will_attract_a_greater_variety_of_candidates.",
-        "translation": "^除了首付，你将持续支付职员工资。好名声和让人印象深刻的庇护所能够吸引大量各色人选。"
+        "old_translation": "^除了首付，你还得持续支付职员工资。好名声和装潢精致的庇护所会吸引更多各色人选。",
+        "translation": "^雇佣员工既有初始费用，也有持续开销。好名声和体面的庇护所会吸引更多各类人选。"
     },
     {
+        "id": "qstr_Description:",
         "text": "Description:",
+        "old_translation": "描述：",
         "translation": "描述："
     },
     {
+        "id": "qstr_Captain:",
         "text": "Captain:",
-        "translation": "队长："
+        "old_translation": "船长：",
+        "translation": "船长："
     },
     {
+        "id": "qstr_Priest:",
         "text": "Priest:",
-        "translation": "神职人员："
+        "old_translation": "牧师：",
+        "translation": "牧师："
     },
     {
+        "id": "qstr_Bard:",
         "text": "Bard:",
+        "old_translation": "吟游诗人：",
         "translation": "吟游诗人："
     },
     {
+        "id": "qstr_Bottler:",
         "text": "Bottler:",
-        "translation": "斟酒人："
+        "old_translation": "Bottler：斟酒人：",
+        "translation": "Bottler：斟酒人："
     },
     {
+        "id": "qstr_Happy_Widow:",
         "text": "Happy_Widow:",
-        "translation": "妓女："
+        "old_translation": "HappyWidow：风流寡妇：",
+        "translation": "Happy Widow：风流寡妇："
     },
     {
+        "id": "qstr_Trainer:",
         "text": "Trainer:",
-        "translation": "教练："
+        "old_translation": "Trainer：教练：",
+        "translation": "Trainer：教练："
     },
     {
+        "id": "qstr_Smith:",
         "text": "Smith:",
-        "translation": "铁匠："
+        "old_translation": "Smith：铁匠：",
+        "translation": "Smith：铁匠："
     },
     {
+        "id": "qstr_Armorer:",
         "text": "Armorer:",
-        "translation": "军需官："
+        "old_translation": "Armorer：防具商人：",
+        "translation": "Armorer：防具商人："
     },
     {
+        "id": "qstr_Physician:",
         "text": "Physician:",
-        "translation": "医师："
+        "old_translation": "Physician：医生：",
+        "translation": "Physician：医生："
     },
     {
+        "id": "qstr_Cook:",
         "text": "Cook:",
-        "translation": "厨师："
+        "old_translation": "Cook：厨师：",
+        "translation": "Cook：厨师："
     },
     {
+        "id": "qstr_Captain_Marcus",
         "text": "Captain_Marcus",
-        "translation": "马库斯队长"
+        "old_translation": "CaptainMarcus马库斯队长",
+        "translation": "Captain Marcus马库斯船长"
     },
     {
+        "id": "qstr_Dismiss/No_Captain",
         "text": "Dismiss/No_Captain",
-        "translation": "解雇/无队长"
+        "old_translation": "Dismiss/NoCaptain解雇/无队长",
+        "translation": "Dismiss/NoCaptain解雇/无船长"
     },
     {
+        "id": "qstr_Priest_Beda",
         "text": "Priest_Beda",
-        "translation": "贝达牧师"
+        "old_translation": "PriestBeda帕里斯特·贝达",
+        "translation": "Priest Beda帕里斯特·贝达"
     },
     {
+        "id": "qstr_Godi_Olafr",
         "text": "Godi_Olafr",
-        "translation": "戈迪·奥拉夫"
+        "old_translation": "GodiOlafr戈迪·奥拉夫",
+        "translation": "Godi Olafr戈迪·奥拉夫"
     },
     {
+        "id": "qstr_Dismiss/No_Priest",
         "text": "Dismiss/No_Priest",
-        "translation": "解雇/无神职人员"
+        "old_translation": "Dismiss/NoPriest解雇/无神职人员",
+        "translation": "Dismiss/NoPriest解雇/无牧师"
     },
     {
+        "id": "qstr_No_bard_wants_to_ser",
         "text": "No_bard_wants_to_serve_you.",
-        "translation": "没有吟游诗人愿意加入你。"
+        "old_translation": "Nobardwantstoserveyou。没有吟游诗人愿意加入你。",
+        "translation": "Nobardwantstoserveyou。没有吟游诗人愿意为你效力。"
     },
     {
+        "id": "qstr_Skald_Bragi",
         "text": "Skald_Bragi",
-        "translation": "诗人布拉吉"
+        "old_translation": "SkaldBragi颂诗人布拉吉",
+        "translation": "SkaldBragi颂诗人布拉吉"
     },
     {
+        "id": "qstr_Bard_Siwi",
         "text": "Bard_Siwi",
-        "translation": "诗人斯维"
+        "old_translation": "BardSiwi巴德·西维",
+        "translation": "BardSiwi巴德·西维"
     },
     {
+        "id": "qstr_Dismiss/No_Bard",
         "text": "Dismiss/No_Bard",
-        "translation": "解雇/无吟游诗人"
+        "old_translation": "Dismiss/NoBard解雇/无吟游诗人",
+        "translation": "Dismiss/NoBard解雇/无吟游诗人"
     },
     {
+        "id": "qstr_Casius",
         "text": "Casius",
-        "translation": "斟酒人"
+        "old_translation": "Casius凯亚斯",
+        "translation": "Casius凯亚斯"
     },
     {
+        "id": "qstr_Dismiss/No_Bottler",
         "text": "Dismiss/No_Bottler",
-        "translation": "解雇/无斟酒人"
+        "old_translation": "Dismiss/NoBottler解雇/无斟酒人",
+        "translation": "Dismiss/NoBottler解雇/无斟酒人"
     },
     {
+        "id": "qstr_No_happy_widow_is_av",
         "text": "No_happy_widow_is_available.",
-        "translation": "没有妓女愿意加入你。"
+        "old_translation": "Nohappywidowisavailable。没有风流寡妇愿意加入你。",
+        "translation": "Nohappywidowisavailable。没有风流寡妇可招募。"
     },
     {
+        "id": "qstr_Suaibsech",
         "text": "Suaibsech",
-        "translation": "苏埃塞"
+        "old_translation": "Suaibsech苏艾布塞克",
+        "translation": "Suaibsech苏艾布塞克"
     },
     {
+        "id": "qstr_Tancoystl",
         "text": "Tancoystl",
+        "old_translation": "坦柯斯提",
         "translation": "坦柯斯提"
     },
     {
+        "id": "qstr_Gulla",
         "text": "Gulla",
+        "old_translation": "古拉",
         "translation": "古拉"
     },
     {
+        "id": "qstr_Eadgyd",
         "text": "Eadgyd",
+        "old_translation": "艾德济",
         "translation": "艾德济"
     },
     {
+        "id": "qstr_Dismiss/No_Whore",
         "text": "Dismiss/No_Whore",
+        "old_translation": "解雇/无妓女",
         "translation": "解雇/无妓女"
     },
     {
+        "id": "qstr_Trainer_Harald",
         "text": "Trainer_Harald",
-        "translation": "哈罗德教练"
+        "old_translation": "教练哈拉尔",
+        "translation": "教练哈拉尔"
     },
     {
+        "id": "qstr_Dismiss/No_Trainer",
         "text": "Dismiss/No_Trainer",
+        "old_translation": "解雇/无教练",
         "translation": "解雇/无教练"
     },
     {
+        "id": "qstr_Ulfberht",
         "text": "Ulfberht",
-        "translation": "乌夫贝特"
+        "old_translation": "尤福贝特",
+        "translation": "尤福贝特"
     },
     {
+        "id": "qstr_Dismiss/No_Smith",
         "text": "Dismiss/No_Smith",
+        "old_translation": "解雇/无铁匠",
         "translation": "解雇/无铁匠"
     },
     {
+        "id": "qstr_Armorer__The_Hungry_",
         "text": "Armorer_'The_Hungry_Hammer'",
-        "translation": "军需官“饥渴之锤”"
+        "old_translation": "防具商人“饥饿之锤”",
+        "translation": "防具商人“饥饿之锤”"
     },
     {
+        "id": "qstr_Dismiss/No_Armorer",
         "text": "Dismiss/No_Armorer",
-        "translation": "解雇/无军需官"
+        "old_translation": "解雇/无防具商人",
+        "translation": "解雇/无防具商人"
     },
     {
+        "id": "qstr_No_physicians_are_av",
         "text": "No_physicians_are_available.",
-        "translation": "没有医师愿意加入你。"
+        "old_translation": "没有医生愿意加入你。",
+        "translation": "没有医生愿意加入你。"
     },
     {
+        "id": "qstr_Aurelius",
         "text": "Aurelius",
-        "translation": "奥勒留"
+        "old_translation": "阿乌雷利乌斯",
+        "translation": "阿乌雷利乌斯"
     },
     {
+        "id": "qstr_Morgan",
         "text": "Morgan",
-        "translation": "摩根"
+        "old_translation": "莫根",
+        "translation": "莫根"
     },
     {
+        "id": "qstr_Alexander",
         "text": "Alexander",
+        "old_translation": "亚历山大",
         "translation": "亚历山大"
     },
     {
+        "id": "qstr_Ailill",
         "text": "Ailill",
-        "translation": "阿希尔"
+        "old_translation": "阿伊尔",
+        "translation": "阿伊尔"
     },
     {
+        "id": "qstr_Dismiss/No_Physician",
         "text": "Dismiss/No_Physician",
-        "translation": "解雇/无医师"
+        "old_translation": "解雇/无医生",
+        "translation": "解雇/无医生"
     },
     {
+        "id": "qstr_Wamba",
         "text": "Wamba",
+        "old_translation": "万巴",
         "translation": "万巴"
     },
     {
+        "id": "qstr_Dismiss/No_Cook",
         "text": "Dismiss/No_Cook",
+        "old_translation": "解雇/无厨师",
         "translation": "解雇/无厨师"
     },
     {
+        "id": "qstr_{s10}",
         "text": "{s10}",
+        "old_translation": "{s10}",
         "translation": "{s10}"
     },
     {
+        "id": "qstr_You_do_not_have_enou",
         "text": "You_do_not_have_enough_money_to_increase_your_staff_this_much._Please_reduce_the_number_of_people_to_hire!",
-        "translation": "你没有足够的钱来付给这么多的职员，请减少雇员的数量！"
+        "old_translation": "你没有足够的钱来雇这么多人，请减少要雇佣的人数！",
+        "translation": "你没有足够的钱来雇这么多人，请减少要雇佣的人数！"
     },
     {
+        "id": "qstr_The_abbot_sends_for_",
         "text": "The_abbot_sends_for_all_parties_to_come_to_the_chapel,_so_that_you_can_hear_all_sides_of_the_story.^^For_your_part,_you_take_advantage_of_the_waiting_time_to_observe_the_work_of_the_scribes,_texts_ornate_with_gold.",
-        "translation": "修道院长派人去请各方来修道院，这样你就可以听到他们各自的陈述了。^^对你来说，你可以趁等待的时间看看抄写员写的那些金边装饰的文本了。"
+        "old_translation": "修道院院长派人请来各方，齐聚礼拜堂，好让你听遍所有说法。^^趁等候的空当，你趁机端详抄写员们那些镶金描彩的经卷。",
+        "translation": "修道院院长派人请来各方，齐聚礼拜堂，好让你听遍所有说法。^^趁等候的空当，你趁机端详抄写员们那些镶金描彩的经卷。"
     },
     {
+        "id": "qstr_fort",
         "text": "fort",
-        "translation": "要塞"
+        "old_translation": "城堡",
+        "translation": "城堡"
     },
     {
+        "id": "qstr_Infiltration",
         "text": "Infiltration",
+        "old_translation": "渗透",
         "translation": "渗透"
     },
     {
+        "id": "qstr_A_good_way_to_hasten",
         "text": "A_good_way_to_hasten_the_fall_of_the_{s2}_is_to_infiltrate_it_with_a_group_of_men_to_damage_the_defences,_food_stores,_water_supplies_or_loyalty_of_the_defenders._It_is_a_difficult_and_risky_maneuver,_almost_suicidal._Those_you_send_in_have_low_chances_of_returning,_but_if_successful,_they_could_cause_great_damage_to_the_enemy._They_need_600_peningas_for_their_troubles._What_type_of_sabotage_would_you_like_them_to_cause?",
-        "translation": "一个快速促使{s2}陷落的好办法是派一小队人渗透进去，破坏防御设施，粮食储备，水源或者守军的忠诚。这是一个困难且冒险的策略，几乎是自杀。你派去的人生还的几率很小，但是如果成功了，他们会对敌人造成巨大破坏。为此，你需要为他们准备600先令。你希望他们去实施那种破坏吗？"
+        "old_translation": "要加速{s2}的陷落，可派一队人潜入，破坏防御、粮窖、水源或守军忠诚。此举艰难而凶险，几近送死。派去的人多半回不来，可一旦成功，必重创敌军。他们需600银便士作酬。你想让他们破坏什么？",
+        "translation": "要加速{s2}的陷落，可派一队人潜入，破坏防御、粮窖、水源或守军忠诚。此举艰难而凶险，几近送死。派去的人多半回不来，可一旦成功，必重创敌军。他们需600银便士作酬。你想让他们破坏什么？"
     },
     {
+        "id": "qstr_Poison_the_{s2}_s_wa",
         "text": "Poison_the_{s2}'s_water.",
+        "old_translation": "在{s2}的水源下毒。",
         "translation": "在{s2}的水源下毒。"
     },
     {
+        "id": "qstr_Kill_the_{s2}_s_live",
         "text": "Kill_the_{s2}'s_livestock.",
-        "translation": "杀死{s2}的牲畜。"
+        "old_translation": "杀死{s2}的牛。",
+        "translation": "杀死{s2}的牛。"
     },
     {
+        "id": "qstr_Burn_the_{s2}_s_food",
         "text": "Burn_the_{s2}'s_food.",
-        "translation": "烧了{s2}的粮仓。"
+        "old_translation": "焚毁{s2}的存粮。",
+        "translation": "焚毁{s2}的存粮。"
     },
     {
+        "id": "qstr_Subvert_the_defender",
         "text": "Subvert_the_defenders.",
-        "translation": "策反守卫者"
+        "old_translation": "策反守军。",
+        "translation": "策反守军。"
     },
     {
+        "id": "qstr_____",
         "text": "____",
-        "translation": "？？"
-    },
-    {
-        "text": "A_group_of_chosen_men_will_be_sent_to_poison_the_water_supplies.",
-        "translation": "选出的人会被派到水源的位置。"
-    },
-    {
-        "text": "A_group_of_chosen_men_will_be_sent_to_kill_the_cattle.",
-        "translation": "选出的人会被派去杀牛。"
-    },
-    {
-        "text": "A_group_of_chosen_men_will_be_sent_to_burn_the_granaries.",
-        "translation": "选出的人会被派去烧粮仓。"
-    },
-    {
-        "text": "A_group_of_chosen_men_will_be_sent_to_subvert_the_defenders.",
-        "translation": "选出的人会被派去策反守军。"
-    },
-    {
-        "text": "You_do_not_have_the_600_peningas_to_pay_for_this_mission.",
-        "translation": "你没有600先令来实施这项任务。"
-    },
-    {
-        "text": "{s1}_of_the_{s2}",
-        "translation": "{s2}的{s1}"
-    },
-    {
-        "text": "Send",
-        "translation": "派出"
-    },
-    {
-        "text": "You_are_hiring_a_messenger.^You_can_do_three_kinds_of_things_with_a_message:_give_Orders,_change_Relations_and_make_Diplomacy.",
-        "translation": "你在招募信使。^你可以发出三种信件：发布命令，改善关系和实施外交。"
-    },
-    {
-        "text": "Message_Type:",
-        "translation": "信件类型："
-    },
-    {
-        "text": "Select_a_Place_for_your_orders:",
-        "translation": "选择你的命令："
-    },
-    {
-        "text": ">>_Orders:^_You_cannot_give_orders_to_a_lord_who_doesn't_belong_to_your_kingdom.",
-        "translation": ">>命令：^你不能对他国领主发布命令。"
-    },
-    {
-        "text": "Orders:_None.",
-        "translation": "命令：无。"
-    },
-    {
-        "text": "Orders:_Meet_and_Follow_You.",
-        "translation": "命令：与你会合并跟随你。"
-    },
-    {
-        "text": "Orders:_Go_to_a_Place.",
-        "translation": "命令：去一个地方。"
-    },
-    {
-        "text": "Orders:_Patrol_an_Area.",
-        "translation": "命令：巡逻一片区域。"
-    },
-    {
-        "text": "Orders:_Besiege_a_Place.",
-        "translation": "命令：围攻一个地方。"
-    },
-    {
-        "text": ">>_Relations:^This_lord_belongs_to_your_kingdom.",
-        "translation": ">>关系：^这个领主属于你的王国。"
-    },
-    {
-        "text": "Relations:_None.",
-        "translation": "关系：无。"
-    },
-    {
-        "text": "Relations:_Insult_and_Provoke.",
-        "translation": "关系：侮辱，激怒。"
-    },
-    {
-        "text": "Relations:_Send_a_Gift.",
-        "translation": "关系：送出礼物。"
-    },
-    {
-        "text": ">>Diplomacy:^It_is_only_possible_to_negotiate_between_faction_leaders.^You_aren't_a_king.",
-        "translation": ">>^^外交：^只能与阵营领袖谈判^——你不是国王。"
-    },
-    {
-        "text": ">>Diplomacy:^It_is_only_possible_to_negotiate_between_faction_leaders.^{s1}_isn't_a_king.",
-        "translation": ">>外交：^只有阵营领导者之间才能谈判，^{s1}并不是一位国王。"
-    },
-    {
-        "text": "Diplomacy:_None.",
-        "translation": "外交：无。"
-    },
-    {
-        "text": "Diplomacy:_Suggest_an_Alliance.",
-        "translation": "外交：提议联盟。"
-    },
-    {
-        "text": "Diplomacy:_Suggest_Peace.",
-        "translation": "外交：议和。"
-    },
-    {
-        "text": "Diplomacy:_Declare_War.",
-        "translation": "外交：宣战。"
-    },
-    {
-        "text": "You_want_to_order_{s9}_to_meet_and_follow_you.",
-        "translation": "你想命令{s9}与你会合并跟随你。"
-    },
-    {
-        "text": "You_want_to_order_{s9}_to_go_to...",
-        "translation": "你想命令{s9}去…"
-    },
-    {
-        "text": "You_want_to_order_{s9}_to_patrol_around....",
-        "translation": "你想命令{s9}去巡逻…"
-    },
-    {
-        "text": "You_want_to_order_{s9}_to_besiege...",
-        "translation": "你想命令{s9}去围攻…"
-    },
-    {
-        "text": "You_want_to_send_a_message_to_insult_and_provoke_{s9}._Perhaps_this_will_make_him_attack_you.",
-        "translation": "你想送出信件去侮辱，激怒{s9}。这或许会使得他攻击你。"
-    },
-    {
-        "text": "You_want_to_send_a_gift_of_rings,_bracelets_and_other_jewelry_valued_at_2000_peningas_to_{s9},_with_the_intention_of_improving_your_relationship.",
-        "translation": "你想送出价值2000先令的戒指，手镯和其他首饰当做礼物给{s9}，以增进你们之间的关系。"
-    },
-    {
-        "text": "You_want_to_invite_{s9}_to_make_an_alliance_with_you.",
-        "translation": "你想邀请{s9}与你结成同盟。"
-    },
-    {
-        "text": "You_want_to_make_peace_with_{s9}.",
-        "translation": "你想与{s9}停战。"
-    },
-    {
-        "text": "You_want_to_declare_war_on_{s9}._Remember_that_declaring_a_war_without_bad_relations_can_cause_other_realms_discomfort_with_and_mistrust_of_you,_especially_if_your_kingdom_has_a_truce_or_alliance_with_the_other_kingdom.",
-        "translation": "你想与{s9}宣战。切记，如果不是与一个关系很差的阵营宣战，就会造成其他阵营的不满与不信任，尤其是当你刚停战或是拥有同盟时。"
-    },
-    {
-        "text": "No_message_chosen.",
-        "translation": "无选中信件。"
-    },
-    {
-        "text": ">_You_are_sending_a_message_to_{s9}^^>_Distance:_{reg2}_km.^^>_Messenger_services_will_cost_{reg3}_peningas.^^^>_{s10}",
-        "translation": ">你向{s9}送出了信件。^^>距离：{reg2}公里。^^>信使服务将会花费{reg3}先令。^^^>{s10}"
-    },
-    {
-        "text": "You_have_not_chosen_a_message_to_send.",
-        "translation": "你没有选择信件发送。"
-    },
-    {
-        "text": "This_place_is_already_besieged_by_another_realm.",
-        "translation": "这个地方已经被他国围攻了。"
-    },
-    {
-        "text": "You_have_good_relations_with_this_kingdom._Your_lord_won't_attack_it.",
-        "translation": "你与这个国家的关系很好，你的领主不会攻击它。"
-    },
-    {
-        "text": "You're_already_at_peace_with_this_kingdom._It_isn't_necessary_to_send_a_messenger.",
-        "translation": "你已经与这个国家处于和平了，没必要派出信使了。"
-    },
-    {
-        "text": "You_need_to_improve_your_relationship_with_this_kingdom_before_proposing_an_alliance.",
-        "translation": "在你提议结盟前，你应与这个国家增进关系。"
-    },
-    {
-        "text": "You_already_have_an_alliance_with_this_kingdom._Wait_until_the_current_alliance_finishes_before_you_send_your_petition.",
-        "translation": "你已经与这个国家结盟了，只有等目前的盟约结束了才能送出你的请愿。"
-    },
-    {
-        "text": "You_are_already_at_war_with_this_kingdom.",
-        "translation": "你已经与这个国家开战了。"
-    },
-    {
-        "text": "You_do_not_have_the_needed_peningas_to_pay_to_messenger.",
-        "translation": "你没有足够的金钱支付给信使。"
-    },
-    {
-        "text": "This_is_a_hardcore_mode_of_Invasion.^^Respawn_is_possible_only_at_the_start_of_the_round.",
-        "translation": "这是入侵的专家模式。^^只有回合开始时才能复活。"
-    },
-    {
-        "text": "Please_wait.^Player_respawn_will_be_possible_{reg11?after_{reg10}_rounds:next_round}.",
-        "translation": "请等待。^玩家将在{reg11?第{reg10}回合后:下回合}复活。"
-    },
-    {
-        "text": "Send_message_to_other_ADMINS:",
-        "translation": "向其他管理员发送消息："
-    },
-    {
-        "text": "Broadcast_message_to_all_players:",
-        "translation": "向所有玩家广播消息："
-    },
-    {
-        "text": "*ADMIN*:_{s0}",
-        "translation": "*ADMIN*：{s0}"
-    },
-    {
-        "text": "*ADMIN*:",
-        "translation": "*ADMIN*:"
-    },
-    {
-        "text": "Reset_map",
-        "translation": "重置地图"
-    },
-    {
-        "text": "Slay_all_horses",
-        "translation": "杀死所有的马"
-    },
-    {
-        "text": "Slay_all_bots",
-        "translation": "杀死所有机器人"
-    },
-    {
-        "text": "Slay_player",
-        "translation": "杀死玩家"
-    },
-    {
-        "text": "Heal_player",
-        "translation": "治疗玩家"
-    },
-    {
-        "text": "Refill_player's_ammo",
-        "translation": "补充玩家的弹药"
-    },
-    {
-        "text": "Fix_player's_shield",
-        "translation": "修复玩家的盾牌"
-    },
-    {
-        "text": "Change_player's_team",
-        "translation": "改变玩家的团队"
-    },
-    {
-        "text": "Make_player_a_spectator",
-        "translation": "让玩家成为旁观者"
-    },
-    {
-        "text": "Give_player_Thor's_Hammer",
-        "translation": "将索尔之锤交给玩家"
-    },
-    {
-        "text": "Beacon_a_player",
-        "translation": "标记一个玩家"
-    },
-    {
-        "text": "Teleport_to_player",
-        "translation": "传送到玩家"
-    },
-    {
-        "text": "Teleport_a_player_to_me",
-        "translation": "把玩家传送到我"
-    },
-    {
-        "text": "Make_player_immortal",
-        "translation": "把玩家设为不死"
-    },
-    {
-        "text": "Make_player_mortal_again",
-        "translation": "把玩家设为可以被杀死"
-    },
-    {
-        "text": "Force_Master_of_the_Field",
-        "translation": "这块土地上强有力的统治者"
-    },
-    {
-        "text": "Only_available_in_Battle_game_mode!",
-        "translation": "只在战场模式可用！"
-    },
-    {
-        "text": "You_are_the_Thor's_Champion",
-        "translation": "你是索尔的冠军"
-    },
-    {
-        "text": "Kill_as_many_opponents_as_you_can",
-        "translation": "尽可能多的杀死对手"
-    },
-    {
-        "text": "Kill",
-        "translation": "杀"
-    },
-    {
-        "text": "You_are_Thor's_champion",
-        "translation": "你是索尔的拥护者！"
-    },
-    {
-        "text": "You_are_the_captain_of_this_ship",
-        "translation": "你掌控这艘船了"
-    },
-    {
-        "text": "Controls:_arrow_keys,_Enter",
-        "translation": "操纵：箭头键，回车"
-    },
-    {
-        "text": "Ship_Captain",
-        "translation": "船长"
-    },
-    {
-        "text": "Change_game_type_to:",
-        "translation": "更换你的游戏模式为："
-    },
-    {
-        "text": "Send_Poll",
-        "translation": "发送投票"
-    },
-    {
-        "text": "Choose_a_colour_for_your_kingdom!",
-        "translation": "为你的王国选择一个颜色！"
-    },
-    {
-        "text": "Red",
-        "translation": "红色"
-    },
-    {
-        "text": "Green",
-        "translation": "绿色"
-    },
-    {
-        "text": "Blue",
-        "translation": "蓝色"
-    },
-    {
-        "text": "{reg11},_{reg12},_{reg13}",
-        "translation": "{reg11}，{reg12}，{reg13}"
-    },
-    {
-        "text": "Head_of_cattle_to_take_(max_{reg22}):",
-        "translation": "带牛(最大{reg22}):"
-    },
-    {
-        "text": "Create_a_new_goal:",
-        "translation": "创建新的目标："
-    },
-    {
-        "text": "(You_can_select_a_custom_goal_or_one_of^the_templates_below_for_a_reward!)",
-        "translation": "(你可以选择一个自定目标或下面的其中一个，完成后会有奖励)"
-    },
-    {
-        "text": "Let_me_choose!",
-        "translation": "让我选择！"
-    },
-    {
-        "text": "{s0}:",
-        "translation": "{s0}："
-    },
-    {
-        "text": "Army_size:",
-        "translation": "军队规模："
-    },
-    {
-        "text": "Marry_a_{reg59?lord:lady}:",
-        "translation": "与{reg59?先生:女士}结婚："
-    },
-    {
-        "text": "Right_to_rule:",
-        "translation": "统治权："
-    },
-    {
-        "text": "Wealth:",
-        "translation": "财富："
-    },
-    {
-        "text": "(You_need_to_choose^a_goal_first!)",
-        "translation": "(你需要先设置一个目标！)"
-    },
-    {
-        "text": "Yes",
-        "translation": "是"
-    },
-    {
-        "text": "No",
-        "translation": "否"
-    },
-    {
-        "text": "Custom_Goal_(no_reward)",
-        "translation": "自定目标(没有回报)"
-    },
-    {
-        "text": "(You_are_a_king_already!)",
-        "translation": "(你已经是一名国王了！)"
-    },
-    {
-        "text": "(You_need_to_be_the_ruler^of_your_faction_first!)",
-        "translation": "(你需要先成为你的阵营的统治者！)"
-    },
-    {
-        "text": "{reg1},_{reg2}",
-        "translation": "{reg1}，{reg2}"
-    },
-    {
-        "text": "New_Goal",
-        "translation": "新目标"
-    },
-    {
-        "text": "Current_Goal:_{s1}",
-        "translation": "当前目标：{s1}"
-    },
-    {
-        "text": "Troops:",
-        "translation": "士兵："
-    },
-    {
-        "text": "Marry:",
-        "translation": "婚姻："
-    },
-    {
-        "text": "{s3}^-------------------------------^",
-        "translation": "{s3}^-------------------------------^"
-    },
-    {
-        "text": "{s1}^{s2}^",
-        "translation": "{s1}^{s2}^"
-    },
-    {
-        "text": "^{s1}",
-        "translation": "^{s1}"
-    },
-    {
-        "text": "Port_of_{s1}",
-        "translation": "{s1}港"
-    },
-    {
-        "text": "vWindDirection",
+        "old_translation": "",
         "translation": ""
     },
     {
+        "id": "qstr_A_group_of_chosen_me",
+        "text": "A_group_of_chosen_men_will_be_sent_to_poison_the_water_supplies.",
+        "old_translation": "一队精兵将潜入，往水源投毒。",
+        "translation": "一队精兵将潜入，往水源投毒。"
+    },
+    {
+        "id": "qstr_A_group_of_chosen_men",
+        "text": "A_group_of_chosen_men_will_be_sent_to_kill_the_cattle.",
+        "old_translation": "一队精兵将潜入，屠尽牛群。",
+        "translation": "一队精兵将潜入，屠尽牛群。"
+    },
+    {
+        "id": "qstr_A_group_of_chosen_men_",
+        "text": "A_group_of_chosen_men_will_be_sent_to_burn_the_granaries.",
+        "old_translation": "一队精兵将潜入，火烧粮仓。",
+        "translation": "一队精兵将潜入，火烧粮仓。"
+    },
+    {
+        "id": "qstr_A_group_of_chosen_men_w",
+        "text": "A_group_of_chosen_men_will_be_sent_to_subvert_the_defenders.",
+        "old_translation": "一队精兵将潜入，策反守军。",
+        "translation": "一队精兵将潜入，策反守军。"
+    },
+    {
+        "id": "qstr_You_do_not_have_the_",
+        "text": "You_do_not_have_the_600_peningas_to_pay_for_this_mission.",
+        "old_translation": "你没有600银便士支付这次行动。",
+        "translation": "你没有600银便士支付这次行动。"
+    },
+    {
+        "id": "qstr_{s1}_of_the_{s2}",
+        "text": "{s1}_of_the_{s2}",
+        "old_translation": "{s2}的{s1}",
+        "translation": "{s2}的{s1}"
+    },
+    {
+        "id": "qstr_Send",
+        "text": "Send",
+        "old_translation": "派出",
+        "translation": "派出"
+    },
+    {
+        "id": "qstr_You_are_hiring_a_mes",
+        "text": "You_are_hiring_a_messenger.^You_can_do_three_kinds_of_things_with_a_message:_give_Orders,_change_Relations_and_make_Diplomacy.",
+        "old_translation": "你正在雇佣信使。^信件可做三件事：下达命令、调整关系、展开外交。",
+        "translation": "你正在雇佣信使。^信件可做三件事：下达命令、调整关系、展开外交。"
+    },
+    {
+        "id": "qstr_Message_Type:",
+        "text": "Message_Type:",
+        "old_translation": "信件类型：",
+        "translation": "信件类型："
+    },
+    {
+        "id": "qstr_Select_a_Place_for_y",
+        "text": "Select_a_Place_for_your_orders:",
+        "old_translation": "选择命令地点：",
+        "translation": "选择命令地点："
+    },
+    {
+        "id": "qstr_>>_Orders:^_You_cann",
+        "text": ">>_Orders:^_You_cannot_give_orders_to_a_lord_who_doesn't_belong_to_your_kingdom.",
+        "old_translation": ">>命令：^你不能向非本国领主下令。",
+        "translation": ">>命令：^你不能向非本国领主下令。"
+    },
+    {
+        "id": "qstr_Orders:_None.",
+        "text": "Orders:_None.",
+        "old_translation": "命令：无。",
+        "translation": "命令：无。"
+    },
+    {
+        "id": "qstr_Orders:_Meet_and_Fol",
+        "text": "Orders:_Meet_and_Follow_You.",
+        "old_translation": "命令：与你会合并跟随你。",
+        "translation": "命令：与你会合并跟随你。"
+    },
+    {
+        "id": "qstr_Orders:_Go_to_a_Plac",
+        "text": "Orders:_Go_to_a_Place.",
+        "old_translation": "命令：去一个地方。",
+        "translation": "命令：去一个地方。"
+    },
+    {
+        "id": "qstr_Orders:_Patrol_an_Ar",
+        "text": "Orders:_Patrol_an_Area.",
+        "old_translation": "命令：巡逻一片区域。",
+        "translation": "命令：巡逻一片区域。"
+    },
+    {
+        "id": "qstr_Orders:_Besiege_a_Pl",
+        "text": "Orders:_Besiege_a_Place.",
+        "old_translation": "命令：围攻一个地方。",
+        "translation": "命令：围攻一个地方。"
+    },
+    {
+        "id": "qstr_>>_Relations:^This_l",
+        "text": ">>_Relations:^This_lord_belongs_to_your_kingdom.",
+        "old_translation": ">>关系：^这个领主属于你的王国。",
+        "translation": ">>关系：^这个领主属于你的王国。"
+    },
+    {
+        "id": "qstr_Relations:_None.",
+        "text": "Relations:_None.",
+        "old_translation": "关系：无。",
+        "translation": "关系：无。"
+    },
+    {
+        "id": "qstr_Relations:_Insult_an",
+        "text": "Relations:_Insult_and_Provoke.",
+        "old_translation": "关系：侮辱，激怒。",
+        "translation": "关系：侮辱，激怒。"
+    },
+    {
+        "id": "qstr_Relations:_Send_a_Gi",
+        "text": "Relations:_Send_a_Gift.",
+        "old_translation": "关系：送出礼物。",
+        "translation": "关系：送出礼物。"
+    },
+    {
+        "id": "qstr_>>Diplomacy:^It_is_o",
+        "text": ">>Diplomacy:^It_is_only_possible_to_negotiate_between_faction_leaders.^You_aren't_a_king.",
+        "old_translation": ">>外交：^只能与阵营领袖谈判^——你不是国王。",
+        "translation": ">>外交：^只能与阵营领袖谈判^——你不是国王。"
+    },
+    {
+        "id": "qstr_>>Diplomacy:^It_is_on",
+        "text": ">>Diplomacy:^It_is_only_possible_to_negotiate_between_faction_leaders.^{s1}_isn't_a_king.",
+        "old_translation": ">>外交：^只有阵营领导者之间才能谈判，^{s1}并不是一位国王。",
+        "translation": ">>外交：^只有阵营领袖之间才能谈判，^{s1}并非国王。"
+    },
+    {
+        "id": "qstr_Diplomacy:_None.",
+        "text": "Diplomacy:_None.",
+        "old_translation": "外交：无。",
+        "translation": "外交：无。"
+    },
+    {
+        "id": "qstr_Diplomacy:_Suggest_a",
+        "text": "Diplomacy:_Suggest_an_Alliance.",
+        "old_translation": "外交：提议联盟。",
+        "translation": "外交：提议结盟。"
+    },
+    {
+        "id": "qstr_Diplomacy:_Suggest_P",
+        "text": "Diplomacy:_Suggest_Peace.",
+        "old_translation": "外交：议和。",
+        "translation": "外交：议和。"
+    },
+    {
+        "id": "qstr_Diplomacy:_Declare_W",
+        "text": "Diplomacy:_Declare_War.",
+        "old_translation": "外交：宣战。",
+        "translation": "外交：宣战。"
+    },
+    {
+        "id": "qstr_You_want_to_order_{s",
+        "text": "You_want_to_order_{s9}_to_meet_and_follow_you.",
+        "old_translation": "你想命令{s9}与你会合并跟随你。",
+        "translation": "你想命令{s9}前来与你会合并跟随你。"
+    },
+    {
+        "id": "qstr_You_want_to_order_{s9",
+        "text": "You_want_to_order_{s9}_to_go_to...",
+        "old_translation": "你想命令{s9}去……",
+        "translation": "你想命令{s9}前往……"
+    },
+    {
+        "id": "qstr_You_want_to_order_{s9}",
+        "text": "You_want_to_order_{s9}_to_patrol_around....",
+        "old_translation": "你想命令{s9}去巡逻……",
+        "translation": "你想命令{s9}在……一带巡逻。"
+    },
+    {
+        "id": "qstr_You_want_to_order_{s9}_",
+        "text": "You_want_to_order_{s9}_to_besiege...",
+        "old_translation": "你想命令{s9}去围攻……",
+        "translation": "你想命令{s9}围攻……"
+    },
+    {
+        "id": "qstr_You_want_to_send_a_m",
+        "text": "You_want_to_send_a_message_to_insult_and_provoke_{s9}._Perhaps_this_will_make_him_attack_you.",
+        "old_translation": "你想送出信件去侮辱，激怒{s9}。这或许会使得他攻击你。",
+        "translation": "你想送信侮辱并激怒{s9}，或许能引他出兵。"
+    },
+    {
+        "id": "qstr_You_want_to_send_a_g",
+        "text": "You_want_to_send_a_gift_of_rings,_bracelets_and_other_jewelry_valued_at_2000_peningas_to_{s9},_with_the_intention_of_improving_your_relationship.",
+        "old_translation": "你想赠送价值2000银便士的戒指、手镯与其他珠宝给{s9}，以增进关系。",
+        "translation": "你想赠送价值2000银便士的戒指、手镯及其他珠宝给{s9}，以增进关系。"
+    },
+    {
+        "id": "qstr_You_want_to_invite_{",
+        "text": "You_want_to_invite_{s9}_to_make_an_alliance_with_you.",
+        "old_translation": "你想邀请{s9}与你结盟。",
+        "translation": "你想邀请{s9}与你结盟。"
+    },
+    {
+        "id": "qstr_You_want_to_make_pea",
+        "text": "You_want_to_make_peace_with_{s9}.",
+        "old_translation": "你想与{s9}议和。",
+        "translation": "你想与{s9}议和。"
+    },
+    {
+        "id": "qstr_You_want_to_declare_",
+        "text": "You_want_to_declare_war_on_{s9}._Remember_that_declaring_a_war_without_bad_relations_can_cause_other_realms_discomfort_with_and_mistrust_of_you,_especially_if_your_kingdom_has_a_truce_or_alliance_with_the_other_kingdom.",
+        "old_translation": "你想向{s9}宣战。切记，若对方与你关系尚可便宣战，会令其他王国不安并失去信任，尤其当你的王国与其尚有停战或盟约时。",
+        "translation": "你想向{s9}宣战。记住，若关系尚可就开战，会让其他王国不安并失去信任，尤其当你的王国与其有停战或盟约时。"
+    },
+    {
+        "id": "qstr_No_message_chosen.",
+        "text": "No_message_chosen.",
+        "old_translation": "未选择信件。",
+        "translation": "未选择信件。"
+    },
+    {
+        "id": "qstr_>_You_are_sending_a_",
+        "text": ">_You_are_sending_a_message_to_{s9}^^>_Distance:_{reg2}_km.^^>_Messenger_services_will_cost_{reg3}_peningas.^^^>_{s10}",
+        "old_translation": ">你正送信给{s9}^^>距离：{reg2}公里。^^>信使费用：{reg3}银便士。^^^>{s10}",
+        "translation": ">你正送信给{s9}^^>距离：{reg2}公里。^^>信使费用：{reg3}银便士。^^^>{s10}"
+    },
+    {
+        "id": "qstr_You_have_not_chosen_",
+        "text": "You_have_not_chosen_a_message_to_send.",
+        "old_translation": "你尚未选择要发送的信件。",
+        "translation": "你尚未选择要发送的信件。"
+    },
+    {
+        "id": "qstr_This_place_is_alread",
+        "text": "This_place_is_already_besieged_by_another_realm.",
+        "old_translation": "此地已被他国围攻。",
+        "translation": "此地已被他国围攻。"
+    },
+    {
+        "id": "qstr_You_have_good_relati",
+        "text": "You_have_good_relations_with_this_kingdom._Your_lord_won't_attack_it.",
+        "old_translation": "你与该国关系良好，你的领主不会进攻。",
+        "translation": "你与该国关系良好，你的领主不会进攻。"
+    },
+    {
+        "id": "qstr_You_re_already_at_pe",
+        "text": "You're_already_at_peace_with_this_kingdom._It_isn't_necessary_to_send_a_messenger.",
+        "old_translation": "你已与此国和平，无需再派信使。",
+        "translation": "你已与此国和平，无需再派信使。"
+    },
+    {
+        "id": "qstr_You_need_to_improve_",
+        "text": "You_need_to_improve_your_relationship_with_this_kingdom_before_proposing_an_alliance.",
+        "old_translation": "提议结盟前，你需先改善与该国关系。",
+        "translation": "提议结盟前，你需先改善与该国关系。"
+    },
+    {
+        "id": "qstr_You_already_have_an_",
+        "text": "You_already_have_an_alliance_with_this_kingdom._Wait_until_the_current_alliance_finishes_before_you_send_your_petition.",
+        "old_translation": "你已与此国结盟，须等当前盟约结束后再递交请愿。",
+        "translation": "你已与此国结盟，须等当前盟约结束后再递交请愿。"
+    },
+    {
+        "id": "qstr_You_are_already_at_w",
+        "text": "You_are_already_at_war_with_this_kingdom.",
+        "old_translation": "你已与此国交战。",
+        "translation": "你已与此国交战。"
+    },
+    {
+        "id": "qstr_You_do_not_have_the_n",
+        "text": "You_do_not_have_the_needed_peningas_to_pay_to_messenger.",
+        "old_translation": "你没有足够的银便士支付信使费用。",
+        "translation": "你没有足够的银便士支付信使费用。"
+    },
+    {
+        "id": "qstr_This_is_a_hardcore_m",
+        "text": "This_is_a_hardcore_mode_of_Invasion.^^Respawn_is_possible_only_at_the_start_of_the_round.",
+        "old_translation": "此为入侵专家模式。^^仅回合开始时可复活。",
+        "translation": "此为入侵专家模式。^^仅回合开始时可复活。"
+    },
+    {
+        "id": "qstr_Please_wait.^Player_",
+        "text": "Please_wait.^Player_respawn_will_be_possible_{reg11?after_{reg10}_rounds:next_round}.",
+        "old_translation": "请稍候。^玩家将在{reg11?{reg10}回合后:下回合}复活。",
+        "translation": "请稍候。^玩家复活将在{reg11?{reg10}回合后:下一回合}开放。"
+    },
+    {
+        "id": "qstr_Send_message_to_othe",
+        "text": "Send_message_to_other_ADMINS:",
+        "old_translation": "向其他管理员发送消息：",
+        "translation": "向其他管理员发送消息："
+    },
+    {
+        "id": "qstr_Broadcast_message_to",
+        "text": "Broadcast_message_to_all_players:",
+        "old_translation": "向所有玩家广播消息：",
+        "translation": "向所有玩家广播消息："
+    },
+    {
+        "id": "qstr_*ADMIN*:_{s0}",
+        "text": "*ADMIN*:_{s0}",
+        "old_translation": "*管理员*：{s0}",
+        "translation": "*管理员*：{s0}"
+    },
+    {
+        "id": "qstr_*ADMIN*:",
+        "text": "*ADMIN*:",
+        "old_translation": "*管理员*：",
+        "translation": "*管理员*："
+    },
+    {
+        "id": "qstr_Reset_map",
+        "text": "Reset_map",
+        "old_translation": "重置地图",
+        "translation": "重置玛"
+    },
+    {
+        "id": "qstr_Slay_all_horses",
+        "text": "Slay_all_horses",
+        "old_translation": "杀死所有的马",
+        "translation": "杀死所有的马"
+    },
+    {
+        "id": "qstr_Slay_all_bots",
+        "text": "Slay_all_bots",
+        "old_translation": "杀死所有机器人",
+        "translation": "杀死所有机器人"
+    },
+    {
+        "id": "qstr_Slay_player",
+        "text": "Slay_player",
+        "old_translation": "杀死玩家",
+        "translation": "杀死玩家"
+    },
+    {
+        "id": "qstr_Heal_player",
+        "text": "Heal_player",
+        "old_translation": "治疗玩家",
+        "translation": "治疗玩家"
+    },
+    {
+        "id": "qstr_Refill_player_s_ammo",
+        "text": "Refill_player's_ammo",
+        "old_translation": "补充玩家的弹药",
+        "translation": "补充玩家的弹药"
+    },
+    {
+        "id": "qstr_Fix_player_s_shield",
+        "text": "Fix_player's_shield",
+        "old_translation": "修复玩家的盾牌",
+        "translation": "修复玩家的盾牌"
+    },
+    {
+        "id": "qstr_Change_player_s_team",
+        "text": "Change_player's_team",
+        "old_translation": "改变玩家的团队",
+        "translation": "改变玩家的团队"
+    },
+    {
+        "id": "qstr_Make_player_a_specta",
+        "text": "Make_player_a_spectator",
+        "old_translation": "让玩家成为旁观者",
+        "translation": "让玩家成为旁观者"
+    },
+    {
+        "id": "qstr_Give_player_Thor_s_H",
+        "text": "Give_player_Thor's_Hammer",
+        "old_translation": "将索尔之锤交给玩家",
+        "translation": "将索尔之锤交给玩家"
+    },
+    {
+        "id": "qstr_Beacon_a_player",
+        "text": "Beacon_a_player",
+        "old_translation": "标记一个玩家",
+        "translation": "标记一个玩家"
+    },
+    {
+        "id": "qstr_Teleport_to_player",
+        "text": "Teleport_to_player",
+        "old_translation": "传送到玩家",
+        "translation": "传送到玩家"
+    },
+    {
+        "id": "qstr_Teleport_a_player_to",
+        "text": "Teleport_a_player_to_me",
+        "old_translation": "把玩家传送到我",
+        "translation": "把玩家传送到我"
+    },
+    {
+        "id": "qstr_Make_player_immortal",
+        "text": "Make_player_immortal",
+        "old_translation": "把玩家设为不死",
+        "translation": "把玩家设为不死"
+    },
+    {
+        "id": "qstr_Make_player_mortal_a",
+        "text": "Make_player_mortal_again",
+        "old_translation": "把玩家设为可以被杀死",
+        "translation": "把玩家设为可以被杀死"
+    },
+    {
+        "id": "qstr_Force_Master_of_the_",
+        "text": "Force_Master_of_the_Field",
+        "old_translation": "这块土地上强有力的统治者",
+        "translation": "强制成为战场主宰"
+    },
+    {
+        "id": "qstr_Only_available_in_Ba",
+        "text": "Only_available_in_Battle_game_mode!",
+        "old_translation": "只在战场模式可用！",
+        "translation": "只在战场模式可用！"
+    },
+    {
+        "id": "qstr_You_are_the_Thor_s_C",
+        "text": "You_are_the_Thor's_Champion",
+        "old_translation": "你是索尔的冠军",
+        "translation": "你是索尔的冠军"
+    },
+    {
+        "id": "qstr_Kill_as_many_opponen",
+        "text": "Kill_as_many_opponents_as_you_can",
+        "old_translation": "尽可能多的杀死对手",
+        "translation": "尽可能多地杀死对手"
+    },
+    {
+        "id": "qstr_Kill",
+        "text": "Kill",
+        "old_translation": "杀",
+        "translation": "杀"
+    },
+    {
+        "id": "qstr_You_are_Thor_s_champ",
+        "text": "You_are_Thor's_champion",
+        "old_translation": "你是托尔的勇士",
+        "translation": "你是托尔的勇士"
+    },
+    {
+        "id": "qstr_You_are_the_captain_",
+        "text": "You_are_the_captain_of_this_ship",
+        "old_translation": "你是这艘船的船长",
+        "translation": "你是这艘船的船长"
+    },
+    {
+        "id": "qstr_Controls:_arrow_keys",
+        "text": "Controls:_arrow_keys,_Enter",
+        "old_translation": "操作：方向键，回车",
+        "translation": "操作：方向键，回车"
+    },
+    {
+        "id": "qstr_Ship_Captain",
+        "text": "Ship_Captain",
+        "old_translation": "船长",
+        "translation": "船长"
+    },
+    {
+        "id": "qstr_Change_game_type_to:",
+        "text": "Change_game_type_to:",
+        "old_translation": "切换游戏类型为：",
+        "translation": "切换游戏类型为："
+    },
+    {
+        "id": "qstr_Send_Poll",
+        "text": "Send_Poll",
+        "old_translation": "发起投票",
+        "translation": "发起投票"
+    },
+    {
+        "id": "qstr_Choose_a_colour_for_",
+        "text": "Choose_a_colour_for_your_kingdom!",
+        "old_translation": "为你的王国挑选颜色！",
+        "translation": "为你的王国挑选颜色！"
+    },
+    {
+        "id": "qstr_Red",
+        "text": "Red",
+        "old_translation": "红色",
+        "translation": "红色"
+    },
+    {
+        "id": "qstr_Green",
+        "text": "Green",
+        "old_translation": "绿色",
+        "translation": "绿色"
+    },
+    {
+        "id": "qstr_Blue",
+        "text": "Blue",
+        "old_translation": "蓝色",
+        "translation": "蓝色"
+    },
+    {
+        "id": "qstr_{reg11}_{reg12}_{reg",
+        "text": "{reg11},_{reg12},_{reg13}",
+        "old_translation": "{reg11}，{reg12}，{reg13}",
+        "translation": "{reg11}，{reg12}，{reg13}"
+    },
+    {
+        "id": "qstr_Head_of_cattle_to_ta",
+        "text": "Head_of_cattle_to_take_(max_{reg22}):",
+        "old_translation": "要牵走的牛（最多{reg22}）：",
+        "translation": "要牵走的牛（最多{reg22}）："
+    },
+    {
+        "id": "qstr_Create_a_new_goal:",
+        "text": "Create_a_new_goal:",
+        "old_translation": "设立新目标：",
+        "translation": "设立新目标："
+    },
+    {
+        "id": "qstr__You_can_select_a_cu",
+        "text": "(You_can_select_a_custom_goal_or_one_of^the_templates_below_for_a_reward!)",
+        "old_translation": "（你可自选目标，或从下方模板挑一个，达成即有奖励！）",
+        "translation": "（你可自选目标，或从下方模板挑一个，达成即有奖励！）"
+    },
+    {
+        "id": "qstr_Let_me_choose!",
+        "text": "Let_me_choose!",
+        "old_translation": "让我来选！",
+        "translation": "让我来选！"
+    },
+    {
+        "id": "qstr_{s0}:",
+        "text": "{s0}:",
+        "old_translation": "{s0}：",
+        "translation": "{s0}："
+    },
+    {
+        "id": "qstr_Army_size:",
+        "text": "Army_size:",
+        "old_translation": "军队规模：",
+        "translation": "军队规模："
+    },
+    {
+        "id": "qstr_Marry_a_{reg59?lord:",
+        "text": "Marry_a_{reg59?lord:lady}:",
+        "old_translation": "迎娶一位{reg59?领主:女士}：",
+        "translation": "迎娶一位{reg59?领主:女士}："
+    },
+    {
+        "id": "qstr_Right_to_rule:",
+        "text": "Right_to_rule:",
+        "old_translation": "统治权：",
+        "translation": "统治权："
+    },
+    {
+        "id": "qstr_Wealth:",
+        "text": "Wealth:",
+        "old_translation": "财富：",
+        "translation": "财富："
+    },
+    {
+        "id": "qstr__You_need_to_choose^",
+        "text": "(You_need_to_choose^a_goal_first!)",
+        "old_translation": "（你需要先选择一个目标！）",
+        "translation": "（你需要先选择一个目标！）"
+    },
+    {
+        "id": "qstr_Yes",
+        "text": "Yes",
+        "old_translation": "是",
+        "translation": "是"
+    },
+    {
+        "id": "qstr_No",
+        "text": "No",
+        "old_translation": "否",
+        "translation": "否"
+    },
+    {
+        "id": "qstr_Custom_Goal__no_rewa",
+        "text": "Custom_Goal_(no_reward)",
+        "old_translation": "自定目标（没有回报）",
+        "translation": "自定目标（没有回报）"
+    },
+    {
+        "id": "qstr__You_are_a_king_alre",
+        "text": "(You_are_a_king_already!)",
+        "old_translation": "（你已经是国王了！）",
+        "translation": "（你已经是国王了！）"
+    },
+    {
+        "id": "qstr__You_need_to_be_the_",
+        "text": "(You_need_to_be_the_ruler^of_your_faction_first!)",
+        "old_translation": "（你需要先成为阵营的统治者！）",
+        "translation": "（你必须先成为阵营的统治者！）"
+    },
+    {
+        "id": "qstr_{reg1}_{reg2}",
+        "text": "{reg1},_{reg2}",
+        "old_translation": "{reg1}，{reg2}",
+        "translation": "{reg1}，{reg2}"
+    },
+    {
+        "id": "qstr_New_Goal",
+        "text": "New_Goal",
+        "old_translation": "新目标",
+        "translation": "新目标"
+    },
+    {
+        "id": "qstr_Current_Goal:_{s1}",
+        "text": "Current_Goal:_{s1}",
+        "old_translation": "当前目标：{s1}",
+        "translation": "当前目标：{s1}"
+    },
+    {
+        "id": "qstr_Troops:",
+        "text": "Troops:",
+        "old_translation": "士兵：",
+        "translation": "士兵："
+    },
+    {
+        "id": "qstr_Marry:",
+        "text": "Marry:",
+        "old_translation": "婚姻：",
+        "translation": "婚姻："
+    },
+    {
+        "id": "qstr_{s3}^_______________",
+        "text": "{s3}^-------------------------------^",
+        "old_translation": "{s3}^-------------------------------^",
+        "translation": "{s3}^-------------------------------^"
+    },
+    {
+        "id": "qstr_{s1}^{s2}^",
+        "text": "{s1}^{s2}^",
+        "old_translation": "{s1}^{s2}^",
+        "translation": "{s1}^{s2}^"
+    },
+    {
+        "id": "qstr_^{s1}",
+        "text": "^{s1}",
+        "old_translation": "^{s1}",
+        "translation": "^{s1}"
+    },
+    {
+        "id": "qstr_Port_of_{s1}",
+        "text": "Port_of_{s1}",
+        "old_translation": "{s1}港",
+        "translation": "{s1}港"
+    },
+    {
+        "id": "qstr_vWindDirection",
+        "text": "vWindDirection",
+        "old_translation": "vWindDirection",
+        "translation": "vWindDirection"
+    },
+    {
+        "id": "qstr_Refill_Supplies",
         "text": "Refill_Supplies",
+        "old_translation": "补充给养",
         "translation": "补充给养"
     },
     {
+        "id": "qstr_Refill_Stones",
         "text": "Refill_Stones",
-        "translation": "补充石头。"
+        "old_translation": "补充石头",
+        "translation": "补充石头"
     },
     {
+        "id": "qstr_{s1}_of_the_{s3}_was",
         "text": "{s1}_of_the_{s3}_was_defeated_in_battle_but_managed_to_escape.",
-        "translation": "{s3}的{s1}被击败但设法逃离了。"
+        "old_translation": "{s3}的{s1}在战斗中落败，但设法逃脱。",
+        "translation": "{s3}的{s1}在战斗中落败，但设法逃脱。"
     },
     {
+        "id": "qstr_{s49}{s12}",
         "text": "{s49}{s12}",
+        "old_translation": "{s49}{s12}",
         "translation": "{s49}{s12}"
     },
     {
+        "id": "qstr_Trying_to_improve_yo",
         "text": "Trying_to_improve_your_relations_with_{s44}",
-        "translation": "努力提升与{s44}的关系"
+        "old_translation": "努力改善与{s44}的关系",
+        "translation": "努力改善与{s44}的关系"
     },
     {
+        "id": "qstr_Is_imprisoned_in_the",
         "text": "Is_imprisoned_in_the_dungeon_of_{s44}",
-        "translation": "被关在　{s44}的监狱里"
+        "old_translation": "被囚于{s44}的地牢",
+        "translation": "被囚于{s44}的地牢"
     },
     {
+        "id": "qstr_{s54}_is_a_claimant_",
         "text": "{s54}_is_a_claimant_to_the_throne_of_the_{s56}.",
-        "translation": "{s54}是{s56}的篡位者。"
+        "old_translation": "{s54}是{s56}王位的宣称者",
+        "translation": "{s54}是{s56}王位的宣称者"
     },
     {
+        "id": "qstr_nowhere",
         "text": "nowhere",
-        "translation": "无"
+        "old_translation": "无处",
+        "translation": "无处"
     },
     {
+        "id": "qstr_{s57}_and_{s58}",
         "text": "{s57}_and_{s58}",
-        "translation": "{s57}和{s58}"
+        "old_translation": "{s57}与{s58}",
+        "translation": "{s57}与{s58}"
     },
     {
+        "id": "qstr_{reg3?She:He}",
         "text": "{reg3?She:He}",
+        "old_translation": "{reg3?她:他}",
         "translation": "{reg3?她:他}"
     },
     {
+        "id": "qstr_The_town_of_{s50}",
         "text": "The_town_of_{s50}",
+        "old_translation": "{s50}镇",
         "translation": "{s50}镇"
     },
     {
+        "id": "qstr_The_village_of_{s50}",
         "text": "The_village_of_{s50}_near_{s52}",
+        "old_translation": "{s52}附近的{s50}村",
         "translation": "{s52}附近的{s50}村"
     },
     {
+        "id": "qstr_{s51}_belongs_to_{s1",
         "text": "{s51}_belongs_to_{s1}_of_the_{s2}.^",
-        "translation": "{s51}属于{s2}的{s1}。"
+        "old_translation": "{s51}隶属{s2}的{s1}。^",
+        "translation": "{s51}隶属{s2}的{s1}。^"
     },
     {
+        "id": "qstr_{s2}It_has_no_villag",
         "text": "{s2}It_has_no_villages.^",
-        "translation": "{s2}它没有下属的村庄。^"
+        "old_translation": "{s2}它无附属村庄。^",
+        "translation": "{s2}它无附属村庄。^"
     },
     {
+        "id": "qstr_{s2}{reg0?Its_villag",
         "text": "{s2}{reg0?Its_villages_are:Its_village_is}_{s8}.^",
-        "translation": "{s2}它{reg0?的下属的村庄是:的下属的村庄是}{s8}。^"
+        "old_translation": "{s2}{reg0?其附属村庄为:其附属村庄为}{s8}。^",
+        "translation": "{s2}{reg0?其附属村庄为:其附属村庄为}{s8}。^"
     },
     {
+        "id": "qstr_{s2}Its_prosperity_i",
         "text": "{s2}Its_prosperity_is:_{s50}.",
-        "translation": "{s2}它的繁荣度为：{s50}"
+        "old_translation": "{s2}其繁荣度：{s50}",
+        "translation": "{s2}其繁荣度：{s50}。"
     },
     {
+        "id": "qstr_{s9}_and_{s10}",
         "text": "{s9}_and_{s10}",
-        "translation": "{s9}和{s10}"
+        "old_translation": "{s9}与{s10}",
+        "translation": "{s9}与{s10}"
     },
     {
+        "id": "qstr_{s12}{s14}",
         "text": "{s12}{s14}",
+        "old_translation": "{s12}{s14}",
         "translation": "{s12}{s14}"
     },
     {
+        "id": "qstr_{s12}_{s14}",
         "text": "{s12},_{s14}",
+        "old_translation": "{s12}，{s14}",
         "translation": "{s12}，{s14}"
     },
     {
+        "id": "qstr_{s11}{s14}",
         "text": "{s11}{s14}",
+        "old_translation": "{s11}{s14}",
         "translation": "{s11}{s14}"
     },
     {
+        "id": "qstr_{s11}_{s14}",
         "text": "{s11},_{s14}",
+        "old_translation": "{s11}，{s14}",
         "translation": "{s11}，{s14}"
     },
     {
+        "id": "qstr_{s13}{s14}",
         "text": "{s13}{s14}",
+        "old_translation": "{s13}{s14}",
         "translation": "{s13}{s14}"
     },
     {
+        "id": "qstr_{s13}_{s14}",
         "text": "{s13},_{s14}",
+        "old_translation": "{s13}，{s14}",
         "translation": "{s13}，{s14}"
     },
     {
+        "id": "qstr_{s21}._The_{s8}_decl",
         "text": "{s21}._The_{s8}_declared_war_to_fulfil_an_alliance.",
-        "translation": "为了履行盟约，{s21}对{s8}宣战了"
+        "old_translation": "{s21}。{s8}为履行盟约而宣战。",
+        "translation": "{s21}。{s8}为履行盟约而宣战。"
     },
     {
+        "id": "qstr_No_wars!",
         "text": "No_wars!",
+        "old_translation": "没有战争！",
         "translation": "没有战争！"
     },
     {
+        "id": "qstr_At_war_with__{reg1}_",
         "text": "At_war_with_({reg1}):_{s12}",
-        "translation": "与({reg1})交战中：{s12}"
+        "old_translation": "与（{reg1}）交战中：{s12}",
+        "translation": "与（{reg1}）交战中：{s12}"
     },
     {
+        "id": "qstr_No_allies!",
         "text": "No_allies!",
+        "old_translation": "没有盟友！",
         "translation": "没有盟友！"
     },
     {
+        "id": "qstr_Alliances__{reg2}___",
         "text": "Alliances_({reg2})__:_{s11}",
-        "translation": "同盟({reg2})：{s11}"
+        "old_translation": "同盟（{reg2}）：{s11}",
+        "translation": "同盟（{reg2}）：{s11}"
     },
     {
+        "id": "qstr_No_casus_belli!",
         "text": "No_casus_belli!",
+        "old_translation": "没有开战理由！",
         "translation": "没有开战理由！"
     },
     {
+        "id": "qstr_Casus_belli____{reg3",
         "text": "Casus_belli___({reg3}):_{s13}",
-        "translation": "开战理由({reg3})：{s13}"
+        "old_translation": "开战理由（{reg3}）：{s13}",
+        "translation": "开战理由（{reg3}）：{s13}"
     },
     {
+        "id": "qstr_{s12}^{s11}^{s13}^^{",
         "text": "{s12}^{s11}^{s13}^^{s21}",
+        "old_translation": "{s12}^{s11}^{s13}^^{s21}",
         "translation": "{s12}^{s11}^{s13}^^{s21}"
     },
     {
+        "id": "qstr_^___________________",
         "text": "^-------------------------------------------------------------------------------^{s1}^{s21}",
+        "old_translation": "^-------------------------------------------------------------------------------^{s1}^{s21}",
         "translation": "^-------------------------------------------------------------------------------^{s1}^{s21}"
     },
     {
+        "id": "qstr_The_{s5}_has_been_de",
         "text": "The_{s5}_has_been_defeated!",
+        "old_translation": "{s5}被击败了！",
         "translation": "{s5}被击败了！"
     },
     {
+        "id": "qstr_{s7}_opened_the_gate",
         "text": "{s7}_opened_the_gate.",
-        "translation": "{s7}将门打开。"
+        "old_translation": "{s7}打开了城门。",
+        "translation": "{s7}打开了城门。"
     },
     {
+        "id": "qstr_{s7}_closed_the_gate",
         "text": "{s7}_closed_the_gate.",
-        "translation": "{s7}将门关上。"
+        "old_translation": "{s7}关闭了城门。",
+        "translation": "{s7}关闭了城门。"
     },
     {
+        "id": "qstr_You_have_received_{r",
         "text": "You_have_received_{reg5}_critical_damage!",
+        "old_translation": "你受到了{reg5}致命一击！",
         "translation": "你受到了{reg5}致命一击！"
     },
     {
+        "id": "qstr_You_have_dealt_{reg5",
         "text": "You_have_dealt_{reg5}_critical_damage!",
-        "translation": "你发动了{reg5}致命一击！"
+        "old_translation": "你打出了{reg5}致命一击！",
+        "translation": "你打出了{reg5}致命一击！"
     },
     {
+        "id": "qstr_You_have_received_{re",
         "text": "You_have_received_{reg5}_critical_damage_to_your_head_and_lose_vision_for_a_second!",
-        "translation": "你的头遭到了{reg5}致命一击，你在一秒钟内将看不清东西！"
+        "old_translation": "你的头部遭到{reg5}致命一击，瞬间失去视觉！",
+        "translation": "你的头部遭到{reg5}致命一击，瞬间失去视觉！"
     },
     {
+        "id": "qstr_You_unleash_your_bat",
         "text": "You_unleash_your_battle_rage!",
-        "translation": "你发起狂暴了！！！"
+        "old_translation": "你释放出战怒！",
+        "translation": "你释放出战怒！"
     },
     {
+        "id": "qstr_You_feel_exhausted_a",
         "text": "You_feel_exhausted_after_the_rage.",
-        "translation": "狂暴后你筋疲力尽了！！！"
+        "old_translation": "战怒过后，你感到精疲力竭！",
+        "translation": "狂怒过后，你感到筋疲力尽。"
     },
     {
+        "id": "qstr_Your_strength_is_bac",
         "text": "Your_strength_is_back.",
-        "translation": "你的力量恢复了。"
+        "old_translation": "你的力量回来了。",
+        "translation": "你的力量回来了。"
     },
     {
+        "id": "qstr_You_are_too_exhauste",
         "text": "You_are_too_exhausted_to_go_into_a_battle_rage.",
-        "translation": "你现在筋疲力尽了，不能进入狂暴状态。"
+        "old_translation": "你太疲惫，无法再次进入战怒。",
+        "translation": "你太疲惫，无法再次进入战怒。"
     },
     {
+        "id": "qstr_The_sound_of_your_si",
         "text": "The_sound_of_your_side's_horn_makes_you_feel_stronger!",
-        "translation": "我方的号角声使你更加有力！"
+        "old_translation": "己方号角声让你力量倍增！",
+        "translation": "己方号角声让你力量倍增！"
     },
     {
+        "id": "qstr_The_sound_of_the_ene",
         "text": "The_sound_of_the_enemy's_horn_makes_you_feel_doubtful.",
-        "translation": "敌方的号角声使你逡巡不前！"
+        "old_translation": "敌方号角声令你心生迟疑！",
+        "translation": "敌方号角声令你心生迟疑！"
     },
     {
+        "id": "qstr_You_are_no_longer_af",
         "text": "You_are_no_longer_affected_by_having_heard_the_horn.",
-        "translation": "你不再受到号角声的影响！"
+        "old_translation": "你不再受号角声的影响！",
+        "translation": "你不再受号角声的影响！"
     },
     {
+        "id": "qstr_{reg1}_ally_troops_w",
         "text": "{reg1}_ally_troops_were_affected_by_your_horn!",
-        "translation": "{reg1}盟军为我方的号角声所激励！"
+        "old_translation": "{reg1}名盟军士兵被你的号角激励！",
+        "translation": "{reg1}名盟军士兵被你的号角激励！"
     },
     {
+        "id": "qstr_No_ally_troops_were_",
         "text": "No_ally_troops_were_affected_by_your_horn.",
-        "translation": "盟军不再受到我方的号角声的影响。"
+        "old_translation": "没有盟军士兵被你的号角激励。",
+        "translation": "没有盟军士兵被你的号角激励。"
     },
     {
+        "id": "qstr_You_need_to_catch_yo",
         "text": "You_need_to_catch_your_breath_before_blowing_the_horn_again.",
-        "translation": "你在再次吹响号角前需要歇口气。"
+        "old_translation": "你得先喘口气，才能再次吹响号角。",
+        "translation": "你得先喘口气，才能再次吹响号角。"
     },
     {
+        "id": "qstr_Your_supplies_are_re",
         "text": "Your_supplies_are_replenished.",
-        "translation": "你的给养已补充完毕。"
+        "old_translation": "你的补给已补充完毕。",
+        "translation": "你的补给已补充完毕。"
     },
     {
+        "id": "qstr_All_stray_horses_wer",
         "text": "All_stray_horses_were_slain_by_an_admin",
-        "translation": "所有无人骑乘的马被管理员杀死了。"
+        "old_translation": "所有无人骑乘的马匹被管理员击杀。",
+        "translation": "所有无人骑乘的马匹被管理员击杀。"
     },
     {
+        "id": "qstr_AI_warriors_were_sla",
         "text": "AI_warriors_were_slain_by_an_admin",
-        "translation": "AI战士被管理员杀死"
+        "old_translation": "AI战士被管理员击杀。",
+        "translation": "AI战士被管理员击杀。"
     },
     {
+        "id": "qstr_All_players_were_sla",
         "text": "All_players_were_slain_by_an_admin",
-        "translation": "所有玩家被一名管理员杀死"
+        "old_translation": "所有玩家被管理员击杀。",
+        "translation": "所有玩家被管理员击杀。"
     },
     {
+        "id": "qstr_Player__{s1}__was_sl",
         "text": "Player_'{s1}'_was_slain_by_an_admin",
-        "translation": "玩家“{s1}”被一名管理员杀死"
+        "old_translation": "玩家“{s1}”被管理员击杀。",
+        "translation": "玩家‘{s1}’被管理员击杀。"
     },
     {
+        "id": "qstr_Admin_made_all_playe",
         "text": "Admin_made_all_players_immortal",
-        "translation": "所有人都被管理员设置为不死模式。"
+        "old_translation": "管理员让所有玩家进入不死模式。",
+        "translation": "管理员让所有玩家进入不死模式。"
     },
     {
+        "id": "qstr_Admin_made_all_player",
         "text": "Admin_made_all_players_mortal",
-        "translation": "所有人都被管理员设置为可被死模式。"
+        "old_translation": "管理员让所有玩家恢复可死模式。",
+        "translation": "管理员让所有玩家恢复可死模式。"
     },
     {
+        "id": "qstr_All_players_were_hea",
         "text": "All_players_were_healed_by_an_admin",
-        "translation": "所有玩家被一名管理员治疗"
+        "old_translation": "所有玩家被管理员治疗。",
+        "translation": "所有玩家被管理员治疗。"
     },
     {
+        "id": "qstr_Admin_refilled_ammo_",
         "text": "Admin_refilled_ammo_of_all_players",
+        "old_translation": "管理员为所有玩家补充了弹药。",
         "translation": "管理员为所有玩家补充了弹药。"
     },
     {
+        "id": "qstr_Admin_fixed_shields_",
         "text": "Admin_fixed_shields_of_all_players",
+        "old_translation": "管理员为所有玩家修复了盾牌。",
         "translation": "管理员为所有玩家修复了盾牌。"
     },
     {
+        "id": "qstr_Player__{s1}__was_he",
         "text": "Player_'{s1}'_was_healed_by_an_admin",
-        "translation": "玩家“{s1}”被一名管理员治疗"
+        "old_translation": "玩家“{s1}”被管理员治疗。",
+        "translation": "玩家‘{s1}’被管理员治疗。"
     },
     {
+        "id": "qstr_Admin_refilled_ammo_o",
         "text": "Admin_refilled_ammo_of_player_'{s1}'",
-        "translation": "管理员为玩家'{s1}'补充了弹药。"
+        "old_translation": "管理员为玩家“{s1}”补充了弹药。",
+        "translation": "管理员为玩家‘{s1}’补充了弹药。"
     },
     {
+        "id": "qstr_Admin_fixed_shield_o",
         "text": "Admin_fixed_shield_of_player_'{s1}'",
-        "translation": "管理员为玩家'{s1}'修复了盾牌。"
+        "old_translation": "管理员为玩家“{s1}”修复了盾牌。",
+        "translation": "管理员为玩家‘{s1}’修复了盾牌。"
     },
     {
+        "id": "qstr_Admin_made_player__{",
         "text": "Admin_made_player_'{s1}'_{reg1?im:}mortal",
-        "translation": "管理员设定玩家'{s1}'{reg1?不:}可以被杀死"
+        "old_translation": "管理员设定玩家“{s1}”{reg1?不:}可被杀。",
+        "translation": "管理员设定玩家‘{s1}’{reg1?不:}可被杀。"
     },
     {
+        "id": "qstr_Teams_have_been_swit",
         "text": "Teams_have_been_switched_by_an_admin",
-        "translation": "队伍被管理员交换了"
+        "old_translation": "队伍被管理员交换。",
+        "translation": "队伍被管理员交换。"
     },
     {
+        "id": "qstr_Player__{s1}__was_sw",
         "text": "Player_'{s1}'_was_switched_to_the_other_team_by_an_admin",
-        "translation": "玩家“{s1}”被一名管理员切换到对方队伍"
+        "old_translation": "玩家“{s1}”被管理员换到对方队伍。",
+        "translation": "玩家‘{s1}’被管理员换到对方队伍。"
     },
     {
+        "id": "qstr_All_players_were_tur",
         "text": "All_players_were_turned_into_spectators_by_an_admin",
-        "translation": "所有玩家被一名管理员切换到旁观者"
+        "old_translation": "所有玩家被一名管理员切换到旁观者",
+        "translation": "所有玩家被管理员转为旁观者"
     },
     {
+        "id": "qstr_Player__{s1}__was_tu",
         "text": "Player_'{s1}'_was_turned_into_spectator_by_an_admin",
-        "translation": "玩家“{s1}”被一名管理员切换到旁观者"
+        "old_translation": "玩家“{s1}”被一名管理员切换到旁观者",
+        "translation": "玩家“{s1}”被管理员转为旁观者"
     },
     {
+        "id": "qstr_{s1}_received_a_Thor",
         "text": "{s1}_received_a_Thor's_Hammer_from_an_admin",
-        "translation": "{s1}从一名管理员处得到索尔之锤"
+        "old_translation": "{s1}从一名管理员处得到索尔之锤",
+        "translation": "{s1}从管理员处获得索尔之锤"
     },
     {
+        "id": "qstr_*ADMIN_CHAT*_[{s1}]:",
         "text": "*ADMIN_CHAT*_[{s1}]:_{s0}",
-        "translation": "*ADMINCHAT*[{s1}]：{s0}"
+        "old_translation": "*ADMINCHAT*【{s1}】：{s0}",
+        "translation": "*ADMIN CHAT*【{s1}】：{s0}"
     },
     {
+        "id": "qstr_Grants_+{reg1}_to_pa",
         "text": "Grants_+{reg1}_to_party_morale",
-        "translation": "部队士气增加{reg1}"
+        "old_translation": "部队士气增加{reg1}",
+        "translation": "部队士气+{reg1}"
     },
     {
+        "id": "qstr_Increases_morale_dur",
         "text": "Increases_morale_during_battle",
-        "translation": "在战斗中增加士气"
+        "old_translation": "在战斗中增加士气",
+        "translation": "战斗中提升士气"
     },
     {
+        "id": "qstr_Heavy_Armour:_you_su",
         "text": "Heavy_Armour:_you_suffer_high_penalties_for_certain_skills.",
-        "translation": "重甲：你的一些技能将被削弱"
+        "old_translation": "重甲：你的一些技能将被削弱",
+        "translation": "重甲：部分技能受大幅削弱"
     },
     {
+        "id": "qstr_Medium_Armour:_you_s",
         "text": "Medium_Armour:_you_suffer_penalties_for_certain_skills.",
-        "translation": "中甲：你的一些技能将被削弱"
+        "old_translation": "中甲：你的一些技能将被削弱",
+        "translation": "中甲：部分技能受削弱"
     },
     {
+        "id": "qstr_Heavy_Equipment:_you",
         "text": "Heavy_Equipment:_you_suffer_penalties_for_certain_skills.",
-        "translation": "重装备：你的一些技能将被削弱"
+        "old_translation": "重装备：你的一些技能将被削弱",
+        "translation": "重装备：部分技能受削弱"
     },
     {
+        "id": "qstr_Ritual_Equipment:_Ad",
         "text": "Ritual_Equipment:_Advantages_in_certain_skills",
-        "translation": "仪仗装备：你的某些技能将被削弱"
+        "old_translation": "仪仗装备：你的某些技能将被削弱",
+        "translation": "仪仗装备：部分技能获得加成"
     },
     {
+        "id": "qstr_Improves_leadership_",
         "text": "Improves_leadership_and_persuasion.",
-        "translation": "提高你的领导力和说服力"
+        "old_translation": "提高你的领导力和说服力",
+        "translation": "提升领导力与说服力"
     },
     {
+        "id": "qstr_Requires_{reg1}_inte",
         "text": "Requires_{reg1}_intelligence_to_read",
-        "translation": "需要{reg1}点智慧才能读"
+        "old_translation": "需要{reg1}点智慧才能读",
+        "translation": "需{reg1}点智慧方可阅读"
     },
     {
+        "id": "qstr_Reading_Progress:_{r",
         "text": "Reading_Progress:_{reg1}%",
+        "old_translation": "阅读进度：{reg1}%",
         "translation": "阅读进度：{reg1}%"
     },
     {
+        "id": "qstr_wound_treatment",
         "text": "wound_treatment",
+        "old_translation": "治疗伤口",
         "translation": "治疗伤口"
     },
     {
+        "id": "qstr_trainer",
         "text": "trainer",
+        "old_translation": "教练",
         "translation": "教练"
     },
     {
+        "id": "qstr_surgery",
         "text": "surgery",
+        "old_translation": "手术",
         "translation": "手术"
     },
     {
+        "id": "qstr_persuasion",
         "text": "persuasion",
+        "old_translation": "说服",
         "translation": "说服"
     },
     {
+        "id": "qstr_Gives_+1_to_{s1}_whi",
         "text": "Gives_+1_to_{s1}_while_in_inventory",
-        "translation": "在物品栏中增加1点{s1}"
+        "old_translation": "在物品栏中增加1点{s1}",
+        "translation": "置于物品栏时{s1}+1"
     },
     {
+        "id": "qstr_Special_Attire:_Bonu",
         "text": "Special_Attire:_Bonus_in_certain_skills",
-        "translation": "特殊装备：个别技能得到加成"
+        "old_translation": "特殊装备：个别技能得到加成",
+        "translation": "特殊装备：部分技能获得加成"
     },
     {
+        "id": "qstr_Bonus_to_movement_sp",
         "text": "Bonus_to_movement_speed",
-        "translation": "运动速度加成"
+        "old_translation": "运动速度加成",
+        "translation": "移动速度加成"
     },
     {
+        "id": "qstr_Move_here",
         "text": "Move_here",
-        "translation": "移动到这里"
+        "old_translation": "移动到这里",
+        "translation": "移动至此"
     },
     {
+        "id": "qstr_View_notes",
         "text": "View_notes",
+        "old_translation": "查看记录",
         "translation": "查看记录"
     },
     {
+        "id": "qstr_Accompany",
         "text": "Accompany",
+        "old_translation": "同伴",
         "translation": "同伴"
     },
     {
+        "id": "qstr_Find_landing_point",
         "text": "Find_landing_point",
+        "old_translation": "找到登陆点",
         "translation": "找到登陆点"
     },
     {
+        "id": "qstr_killed",
         "text": "killed",
+        "old_translation": "死亡",
         "translation": "死亡"
     },
     {
+        "id": "qstr_wounded",
         "text": "wounded",
+        "old_translation": "受伤",
         "translation": "受伤"
     },
     {
+        "id": "qstr_{s0}^TOTAL:_{reg3}__",
         "text": "{s0}^TOTAL:_{reg3}_({s2})",
-        "translation": "{s0}^总计：{reg3}({s2})"
+        "old_translation": "{s0}^总计：{reg3}（{s2}）",
+        "translation": "{s0}^总计：{reg3}（{s2}）"
     },
     {
+        "id": "qstr_^{s0}",
         "text": "^{s0}",
+        "old_translation": "^{s0}",
         "translation": "^{s0}"
     },
     {
+        "id": "qstr_nothing",
         "text": "nothing",
+        "old_translation": "无",
         "translation": "无"
     },
     {
+        "id": "qstr_{reg0}_village{reg1?",
         "text": "{reg0}_village{reg1?s:}",
-        "translation": "{reg0}村庄{reg1?:}"
+        "old_translation": "{reg0}村庄{reg1?:}",
+        "translation": "{reg0}座村庄{reg1?:}"
     },
     {
+        "id": "qstr_{reg0}_fort{reg1?s:}",
         "text": "{reg0}_fort{reg1?s:}",
-        "translation": "{reg0}城堡{reg1?:}"
+        "old_translation": "{reg0}城堡{reg1?:}",
+        "translation": "{reg0}座城堡{reg1?:}"
     },
     {
+        "id": "qstr_{reg0}_fort{reg1?s:}_",
         "text": "{reg0}_fort{reg1?s:}_and_{s0}",
-        "translation": "{reg0}城堡{reg1?:}以及{s0}"
+        "old_translation": "{reg0}城堡{reg1?:}以及{s0}",
+        "translation": "{reg0}座城堡{reg1?:}以及{s0}"
     },
     {
+        "id": "qstr_{reg0}_town{reg1?s:}",
         "text": "{reg0}_town{reg1?s:}",
-        "translation": "{reg0}城镇{reg1?:}"
+        "old_translation": "{reg0}城镇{reg1?:}",
+        "translation": "{reg0}座城镇{reg1?:}"
     },
     {
+        "id": "qstr_{reg0}_town{reg1?s:}_",
         "text": "{reg0}_town{reg1?s:}_and_{s0}",
-        "translation": "{reg0}城镇{reg1?:}以及{s0}"
+        "old_translation": "{reg0}城镇{reg1?:}以及{s0}",
+        "translation": "{reg0}座城镇{reg1?:}以及{s0}"
     },
     {
+        "id": "qstr_{reg0}_town{reg1?s:}_{",
         "text": "{reg0}_town{reg1?s:},_{s0}",
-        "translation": "{reg0}城镇{reg1?:}，{s0}"
+        "old_translation": "{reg0}城镇{reg1?:}，{s0}",
+        "translation": "{reg0}座城镇{reg1?:}，{s0}"
     },
     {
+        "id": "qstr_Your_opponents_are_r",
         "text": "Your_opponents_are_ready_for_the_fight.",
-        "translation": "你的对手已经准备好了。"
+        "old_translation": "你的对手已经准备好了。",
+        "translation": "你的对手已经准备好迎战。"
     },
     {
+        "id": "qstr_Try_to_destroy_as_ma",
         "text": "Try_to_destroy_as_many_targets_as_you_can._You_have_two_and_a_half_minutes_to_clear_the_track.",
-        "translation": "你需要在两分半钟的时间内尽可能多的摧毁目标。"
+        "old_translation": "你需要在两分半钟的时间内尽可能多的摧毁目标。",
+        "translation": "尽量多摧毁目标。你有两分半钟清理赛道。"
     },
     {
+        "id": "qstr_Stay_behind_the_line",
         "text": "Stay_behind_the_line_on_the_ground_and_shoot_the_targets._Try_not_to_waste_any_shots.",
-        "translation": "站在线后射击目标。尽量不要浪费任何一发弹药。"
+        "old_translation": "站在线后射击目标。尽量不要浪费任何一发弹药。",
+        "translation": "站在地上的线后射击目标，别浪费箭矢。"
     },
     {
+        "id": "qstr_trying_quest_{reg1}",
         "text": "trying_quest_{reg1}",
-        "translation": "试图探索{reg1}"
+        "old_translation": "试图探索{reg1}",
+        "translation": "尝试任务{reg1}"
     },
     {
+        "id": "qstr_Garrison_Troops",
         "text": "Garrison_Troops",
+        "old_translation": "守备部队",
         "translation": "守备部队"
     },
     {
+        "id": "qstr_Camp_Troops",
         "text": "Camp_Troops",
+        "old_translation": "营地部队",
         "translation": "营地部队"
     },
     {
+        "id": "qstr_Refuge_Troops",
         "text": "Refuge_Troops",
+        "old_translation": "避难所部队",
         "translation": "避难所部队"
     },
     {
+        "id": "qstr_Even_though_nearby_{",
         "text": "Even_though_nearby,_{s1}_does_not_come_to_your_aid.",
-        "translation": "即使就在附近，{s1}也不会来帮你。"
+        "old_translation": "即使就在附近，{s1}也不会来帮你。",
+        "translation": "即便就在附近，{s1}也未前来相助。"
     },
     {
+        "id": "qstr_Battle_Advantage_=_{",
         "text": "Battle_Advantage_=_{reg0}.",
-        "translation": "战场优势为{reg0}。"
+        "old_translation": "战场优势为{reg0}。",
+        "translation": "战场优势 = {reg0}。"
     },
     {
+        "id": "qstr_{s9}_wants_you_to_re",
         "text": "{s9}_wants_you_to_resume_following_his_army_until_further_notice.",
-        "translation": "{s9}希望你能够在接到进一步的指令以前跟着他的部队前进。"
+        "old_translation": "{s9}希望你能够在接到进一步的指令以前跟着他的部队前进。",
+        "translation": "{s9}要你继续跟随他的军队，直到另行通知。"
     },
     {
+        "id": "qstr__Being_Raided_",
         "text": "(Being_Raided)",
+        "old_translation": "（被掠夺中）",
         "translation": "（被掠夺中）"
     },
     {
+        "id": "qstr__Looted_",
         "text": "(Looted)",
+        "old_translation": "（已被洗劫）",
         "translation": "（已被洗劫）"
     },
     {
+        "id": "qstr__Under_Siege_",
         "text": "(Under_Siege)",
-        "translation": "（陷入包围）"
+        "old_translation": "（陷入包围）",
+        "translation": "（被围城中）"
     },
     {
+        "id": "qstr_The_village_of_{s1}_",
         "text": "The_village_of_{s1}_has_been_looted_by_{s2}.",
-        "translation": "{s1}村遭受了{s2}的掠夺。"
+        "old_translation": "{s1}村遭受了{s2}的掠夺。",
+        "translation": "{s1}村被{s2}洗劫。"
     },
     {
+        "id": "qstr_{s3}_is_no_longer_un",
         "text": "{s3}_is_no_longer_under_siege.",
-        "translation": "{s3}不再陷入包围了。"
+        "old_translation": "{s3}不再陷入包围了。",
+        "translation": "{s3}已解围。"
     },
     {
+        "id": "qstr_Small_bands_of_enemi",
         "text": "Small_bands_of_enemies_have_been_spotted_near_{s1}.",
-        "translation": "在{s1}附近发现小队敌军。"
+        "old_translation": "在{s1}附近发现小队敌军。",
+        "translation": "在{s1}附近发现小队敌人。"
     },
     {
+        "id": "qstr_Enemy_patrols_have_b",
         "text": "Enemy_patrols_have_been_spotted_near_{s1}.",
+        "old_translation": "在{s1}附近发现敌军巡逻队。",
         "translation": "在{s1}附近发现敌军巡逻队。"
     },
     {
+        "id": "qstr_A_medium_sized_group",
         "text": "A_medium-sized_group_of_enemies_has_been_spotted_near_{s1}.",
-        "translation": "在{s1}附近发现中等规模的敌军。"
+        "old_translation": "在{s1}附近发现中等规模的敌军。",
+        "translation": "在{s1}附近发现中等规模的敌人。"
     },
     {
+        "id": "qstr_A_significant_group_",
         "text": "A_significant_group_of_enemies_has_been_spotted_near_{s1}.",
-        "translation": "在{s1}附近发现敌军集团。"
+        "old_translation": "在{s1}附近发现敌军集团。",
+        "translation": "在{s1}附近发现一股可观的敌人。"
     },
     {
+        "id": "qstr_An_army_of_enemies_h",
         "text": "An_army_of_enemies_has_been_spotted_near_{s1}.",
+        "old_translation": "在{s1}附近发现一支敌军。",
         "translation": "在{s1}附近发现一支敌军。"
     },
     {
+        "id": "qstr_A_large_army_of_enem",
         "text": "A_large_army_of_enemies_has_been_spotted_near_{s1}.",
-        "translation": "在{s1}附近发现大规模敌军。"
+        "old_translation": "在{s1}附近发现大规模敌军。",
+        "translation": "在{s1}附近发现一支庞大的敌军。"
     },
     {
+        "id": "qstr_A_great_host_of_enem",
         "text": "A_great_host_of_enemies_has_been_spotted_near_{s1}.",
-        "translation": "在{s1}附近发现大群敌军。"
+        "old_translation": "在{s1}附近发现大群敌军。",
+        "translation": "在{s1}附近发现敌军大军。"
     },
     {
+        "id": "qstr_{s1}_has_been_besieg",
         "text": "{s1}_has_been_besieged_by_{s2}_of_the_{s3}.",
-        "translation": "{s3}的{s2}包围了{s1}。"
+        "old_translation": "{s3}的{s2}包围了{s1}。",
+        "translation": "{s1}被{s3}的{s2}围困。"
     },
     {
+        "id": "qstr__{s1}__{s11}:_{s14}",
         "text": "({s1})_{s11}:_{s14}",
+        "old_translation": "（{s1}）{s11}：{s14}",
         "translation": "（{s1}）{s11}：{s14}"
     },
     {
+        "id": "qstr_{s14}__{s21}_",
         "text": "{s14}_({s21})",
+        "old_translation": "{s14}（{s21}）",
         "translation": "{s14}（{s21}）"
     },
     {
+        "id": "qstr_Feast_concludes",
         "text": "Feast_concludes",
+        "old_translation": "宴会结束",
         "translation": "宴会结束"
     },
     {
+        "id": "qstr_{s1}_is_the_new_mars",
         "text": "{s1}_is_the_new_marshal_of_the_{s2}.",
-        "translation": "{s1}成了{s2}的新元帅。"
+        "old_translation": "{s1}成了{s2}的新元帅。",
+        "translation": "{s1}成为{s2}的新任元帅。"
     },
     {
+        "id": "qstr_You_gain_{reg12}_ren",
         "text": "You_gain_{reg12}_renown.",
-        "translation": "你得到{reg12}声望。"
+        "old_translation": "你得到{reg12}声望。",
+        "translation": "你获得{reg12}声望。"
     },
     {
+        "id": "qstr_You_lose_{reg12}_ren",
         "text": "You_lose_{reg12}_renown.",
-        "translation": "你失去了{reg12}点声望。"
+        "old_translation": "你失去了{reg12}点声望。",
+        "translation": "你失去{reg12}声望。"
     },
     {
+        "id": "qstr_Your_relation_with_{",
         "text": "Your_relation_with_{s1}_has_improved.",
-        "translation": "你与{s1}的关系提升了。"
+        "old_translation": "你与{s1}的关系提升了。",
+        "translation": "你与{s1}的关系改善了。"
     },
     {
+        "id": "qstr_Your_relation_with_{s",
         "text": "Your_relation_with_{s1}_has_deteriorated.",
+        "old_translation": "你与{s1}的关系恶化了。",
         "translation": "你与{s1}的关系恶化了。"
     },
     {
+        "id": "qstr_You_have_angered_the",
         "text": "You_have_angered_them.",
-        "translation": "你激怒了他们"
+        "old_translation": "你激怒了他们",
+        "translation": "你激怒了他们。"
     },
     {
+        "id": "qstr_You_have_appeased_th",
         "text": "You_have_appeased_them.",
-        "translation": "你安抚了他们"
+        "old_translation": "你安抚了他们",
+        "translation": "你安抚了他们。"
     },
     {
+        "id": "qstr_You_gain_reputation.",
         "text": "You_gain_reputation.",
-        "translation": "你得到荣誉"
+        "old_translation": "你得到荣誉",
+        "translation": "你获得荣誉。"
     },
     {
+        "id": "qstr_You_lose_reputation.",
         "text": "You_lose_reputation.",
-        "translation": "你失去荣誉"
+        "old_translation": "你失去荣誉",
+        "translation": "你失去荣誉。"
     },
     {
+        "id": "qstr_Now_your_reputation_",
         "text": "Now_your_reputation_is_{reg1}",
-        "translation": "现在你有{reg1}荣誉。"
+        "old_translation": "现在你有{reg1}荣誉。",
+        "translation": "你现在的荣誉为{reg1}"
     },
     {
+        "id": "qstr_The_{s1}_has_declare",
         "text": "The_{s1}_has_declared_war_against_the_{s2}.",
-        "translation": "{s1}对{s2}宣战。"
+        "old_translation": "{s1}对{s2}宣战。",
+        "translation": "{s1}向{s2}宣战。"
     },
     {
+        "id": "qstr_The_{s15}_complies_w",
         "text": "The_{s15}_complies_with_its_alliance_with_the_{s17}_by_attacking_the_{s16}.",
-        "translation": "{s15}为遵守与{s17}的盟约，对{s16}宣战。"
+        "old_translation": "{s15}为遵守与{s17}的盟约，对{s16}宣战。",
+        "translation": "{s15}为履行与{s17}的盟约，向{s16}开战。"
     },
     {
+        "id": "qstr_The_{s1}_and_the_{s2",
         "text": "The_{s1}_and_the_{s2}_have_made_peace_with_each_other.",
-        "translation": "{s1}已与{s2}议和。"
+        "old_translation": "{s1}已与{s2}议和。",
+        "translation": "{s1}与{s2}达成和平。"
     },
     {
+        "id": "qstr_{s2}_{reg3?was:is_cu",
         "text": "{s2}_{reg3?was:is_currently}_at_{s3}.",
+        "old_translation": "{s2}{reg3?曾:正}在{s3}。",
         "translation": "{s2}{reg3?曾:正}在{s3}。"
     },
     {
+        "id": "qstr_{s2}_{reg3?was:is}_t",
         "text": "{s2}_{reg3?was:is}_travelling_to_{s3},_and_{reg4?she:he}_{reg3?was:should_be}_close_to_{s4}{reg3?:_at_the_moment}.",
-        "translation": "{s2}{reg3?已经:正在}赶去{s3}，而{reg4?她:他}{reg3?之前:也许}在{s4}{reg3?:附近}。"
+        "old_translation": "{s2}{reg3?已经:正在}赶去{s3}，而{reg4?她:他}{reg3?之前:也许}在{s4}{reg3?:附近}。",
+        "translation": "{s2}{reg3?当时正:此刻正}赶往{s3}，{reg4?她:他}{reg3?那时:应该}就在{s4}{reg3?:附近}。"
     },
     {
+        "id": "qstr_{s2}_{reg3?was:is}_i",
         "text": "{s2}_{reg3?was:is}_in_the_field,_and_{reg4?she:he}_{reg3?was:should_be}_close_to_{s3}{reg3?:_at_the_moment}.",
-        "translation": "{s2}{reg3?:正}在野外某地，而{reg4?她:他}{reg3?之前:也许}在{s3}{reg3?:附近}。"
+        "old_translation": "{s2}{reg3?:正}在野外某地，而{reg4?她:他}{reg3?之前:也许}在{s3}{reg3?:附近}。",
+        "translation": "{s2}{reg3?当时:此刻}在野外，{reg4?她:他}{reg3?那时:应该}就在{s3}{reg3?:附近}。"
     },
     {
+        "id": "qstr_{s2}_{reg3?was:is}_b",
         "text": "{s2}_{reg3?was:is}_being_held_captive_at_{s3}.",
+        "old_translation": "{s2}{reg3?曾:正}被囚禁在{s3}。",
         "translation": "{s2}{reg3?曾:正}被囚禁在{s3}。"
     },
     {
+        "id": "qstr_{s2}_{reg3?was:has_b",
         "text": "{s2}_{reg3?was:has_been}_taken_captive_by_{reg4?her:his}_enemies.",
-        "translation": "{s2}{reg3?已:已经}被{reg4?她的:他的}敌人俘虏。"
+        "old_translation": "{s2}{reg3?已:已经}被{reg4?她的:他的}敌人俘虏。",
+        "translation": "{s2}{reg3?被:已被}{reg4?她的:他的}敌人俘虏。"
     },
     {
+        "id": "qstr_I_don_t_know_where_{",
         "text": "I_don't_know_where_{s2}_{reg3?was:is}.",
-        "translation": "我不知道{s2}在哪里。"
+        "old_translation": "我不知道{s2}在哪里。",
+        "translation": "我不知道{s2}{reg3?当时:此刻}在哪里。"
     },
     {
+        "id": "qstr_{s2}_is_attacking_th",
         "text": "{s2}_is_attacking_the_Saxons.",
+        "old_translation": "{s2}正在攻击撒克逊人。",
         "translation": "{s2}正在攻击撒克逊人。"
     },
     {
+        "id": "qstr_{s2}_is_defending_th",
         "text": "{s2}_is_defending_the_kingdom_of_Ragnar's_sons.",
+        "old_translation": "{s2}正在保卫拉格纳之子的国度。",
         "translation": "{s2}正在保卫拉格纳之子的国度。"
     },
     {
+        "id": "qstr_You_now_owe_{reg2}_p",
         "text": "You_now_owe_{reg2}_peningas_to_{s1}.",
-        "translation": "你现在欠{s1}{reg2}先令。"
+        "old_translation": "你现在欠{s1}{reg2}银便士。",
+        "translation": "你现在欠{s1}{reg2}银便士。"
     },
     {
+        "id": "qstr_Royal_guardian",
         "text": "Royal_guardian",
+        "old_translation": "皇家卫士",
         "translation": "皇家卫士"
     },
     {
+        "id": "qstr_You_stand_to_gain_{r",
         "text": "You_stand_to_gain_{reg8}_renown_if_you_win_this_battle.",
-        "translation": "如果你赢得战斗，你将得到{reg8}声望"
+        "old_translation": "如果你赢得战斗，你将得到{reg8}声望",
+        "translation": "若胜，你可得{reg8}声望。"
     },
     {
+        "id": "qstr_You_have_run_into_a_",
         "text": "You_have_run_into_a_trap!",
-        "translation": "你陷入了圈套之中！"
+        "old_translation": "你陷入了圈套之中！",
+        "translation": "你中了埋伏！"
     },
     {
+        "id": "qstr_You_are_attacked_by_",
         "text": "You_are_attacked_by_a_group_of_bandits!",
-        "translation": "你被一群强盗打劫了！"
+        "old_translation": "你被一群山贼打劫了！",
+        "translation": "一群山贼杀了出来！"
     },
     {
+        "id": "qstr_Following",
         "text": "Following",
+        "old_translation": "随行中",
         "translation": "随行中"
     },
     {
+        "id": "qstr_Holding",
         "text": "Holding",
+        "old_translation": "坚守中",
         "translation": "坚守中"
     },
     {
+        "id": "qstr_Charging",
         "text": "Charging",
+        "old_translation": "冲锋中",
         "translation": "冲锋中"
     },
     {
+        "id": "qstr_Advancing",
         "text": "Advancing",
+        "old_translation": "前进中",
         "translation": "前进中"
     },
     {
+        "id": "qstr_Falling_Back",
         "text": "Falling_Back",
+        "old_translation": "后退中",
         "translation": "后退中"
     },
     {
+        "id": "qstr_Standing_Closer",
         "text": "Standing_Closer",
+        "old_translation": "聚拢中",
         "translation": "聚拢中"
     },
     {
+        "id": "qstr_Spreading_Out",
         "text": "Spreading_Out",
+        "old_translation": "散开中",
         "translation": "散开中"
     },
     {
+        "id": "qstr_Standing",
         "text": "Standing",
+        "old_translation": "站立中",
         "translation": "站立中"
     },
     {
+        "id": "qstr_Retreating",
         "text": "Retreating",
+        "old_translation": "撤退中",
         "translation": "撤退中"
     },
     {
+        "id": "qstr_N/A",
         "text": "N/A",
+        "old_translation": "无效",
         "translation": "无效"
     },
     {
+        "id": "qstr_Free",
         "text": "Free",
-        "translation": "自由行动中"
+        "old_translation": "自由",
+        "translation": "自由"
     },
     {
+        "id": "qstr_Any_Weapon",
         "text": "Any_Weapon",
+        "old_translation": "任意武器",
         "translation": "任意武器"
     },
     {
+        "id": "qstr_Blunt_Weapons",
         "text": "Blunt_Weapons",
+        "old_translation": "钝击武器",
         "translation": "钝击武器"
     },
     {
+        "id": "qstr_Given_by:_{s62}",
         "text": "Given_by:_{s62}",
+        "old_translation": "给予人：{s62}",
         "translation": "给予人：{s62}"
     },
     {
+        "id": "qstr_Given_on:_{s60}",
         "text": "Given_on:_{s60}",
+        "old_translation": "开始于：{s60}",
         "translation": "开始于：{s60}"
     },
     {
+        "id": "qstr_This_quest_has_been_",
         "text": "This_quest_has_been_concluded._Give_{s59}_the_news.",
-        "translation": "任务已经完成，把消息告诉{s59}"
+        "old_translation": "任务已经完成，把消息告诉{s59}",
+        "translation": "任务已结束，把消息告诉{s59}。"
     },
     {
+        "id": "qstr_This_quest_has_been_c",
         "text": "This_quest_has_been_concluded.",
-        "translation": "这个任务已经结束"
+        "old_translation": "这个任务已经结束",
+        "translation": "任务已结束。"
     },
     {
+        "id": "qstr_This_quest_has_been_s",
         "text": "This_quest_has_been_successfully_completed._Talk_to_{s59}.",
-        "translation": "任务已经成功完成，回去告知{s59}."
+        "old_translation": "任务已经成功完成，回去告知{s59}。",
+        "translation": "任务已成功完成，去找{s59}。"
     },
     {
+        "id": "qstr_This_quest_has_been_su",
         "text": "This_quest_has_been_successfully_completed.",
-        "translation": "任务已经成功完成。"
+        "old_translation": "任务已经成功完成。",
+        "translation": "任务已成功完成。"
     },
     {
+        "id": "qstr_This_quest_has_faile",
         "text": "This_quest_has_failed._Talk_to_{s59}_to_explain_the_situation.",
-        "translation": "你没能成功完成任务，跟{s59}解释一下吧。"
+        "old_translation": "你没能成功完成任务，跟{s59}解释一下吧。",
+        "translation": "任务失败，去向{s59}说明情况。"
     },
     {
+        "id": "qstr_This_quest_has_failed",
         "text": "This_quest_has_failed.",
+        "old_translation": "任务失败。",
         "translation": "任务失败。"
     },
     {
+        "id": "qstr_At_the_time_quest_wa",
         "text": "At_the_time_quest_was_given:^{s1}",
+        "old_translation": "接受任务时：^{s1}",
         "translation": "接受任务时：^{s1}"
     },
     {
+        "id": "qstr_The_{s5}_has_a_stren",
         "text": "The_{s5}_has_a_strength_of_{reg1}_men_in_total.",
-        "translation": "{s5}总共有{reg1}个士兵。"
+        "old_translation": "{s5}总共有{reg1}个士兵。",
+        "translation": "{s5}共有{reg1}人。"
     },
     {
+        "id": "qstr_According_to_the_las",
         "text": "According_to_the_last_time_you_saw_{reg1?her:him},_{s1}",
-        "translation": "上一次你见到{reg1?她:他}，{s1}"
+        "old_translation": "上一次你见到{reg1?她:他}，{s1}",
+        "translation": "上次你见到{reg1?她:他}，{s1}"
     },
     {
+        "id": "qstr_According_to_the_last",
         "text": "According_to_the_last_time_you_heard_about_{reg1?her:him},_{s1}",
-        "translation": "上一次你听说到{reg1?她:他}，{s1}"
+        "old_translation": "上一次你听说到{reg1?她:他}，{s1}",
+        "translation": "上次你听说到{reg1?她:他}，{s1}"
     },
     {
+        "id": "qstr_The_current_garrison",
         "text": "The_current_garrison_consists_of_{reg5}_men.^It_should_have_food_stocks_for_{reg6}_days.",
-        "translation": "这个要塞有{reg5}人驻守，还能支撑{reg6}天。"
+        "old_translation": "这个要塞有{reg5}人驻守，还能支撑{reg6}天。",
+        "translation": "当前守军{reg5}人，存粮可撑{reg6}天。"
     },
     {
+        "id": "qstr_Very_Poor",
         "text": "Very_Poor",
+        "old_translation": "非常贫穷",
         "translation": "非常贫穷"
     },
     {
+        "id": "qstr_Poor",
         "text": "Poor",
+        "old_translation": "贫穷",
         "translation": "贫穷"
     },
     {
+        "id": "qstr_Average",
         "text": "Average",
+        "old_translation": "一般",
         "translation": "一般"
     },
     {
+        "id": "qstr_Rich",
         "text": "Rich",
+        "old_translation": "富有",
         "translation": "富有"
     },
     {
+        "id": "qstr_Very_Rich",
         "text": "Very_Rich",
+        "old_translation": "非常富有",
         "translation": "非常富有"
     },
     {
+        "id": "qstr_Mead_Hall",
         "text": "Mead_Hall",
+        "old_translation": "蜜酒厅",
         "translation": "蜜酒厅"
     },
     {
+        "id": "qstr_A_manor_lets_you_res",
         "text": "A_manor_lets_you_rest_at_the_village_and_pay_your_troops_half_wages_while_you_rest.",
-        "translation": "有了一个庄园，你就可以在村子中休息，而且在此期间你只用付相当于平时一半的工资给你的部队。"
+        "old_translation": "有了庄园，你就可以在村子中休息，而且在此期间你只用付相当于平时一半的工资给你的部队。",
+        "translation": "庄园让你在村里休息，期间部队工资减半。"
     },
     {
+        "id": "qstr_Mill",
         "text": "Mill",
+        "old_translation": "磨坊",
         "translation": "磨坊"
     },
     {
+        "id": "qstr_A_mill_increases_vil",
         "text": "A_mill_increases_village_prosperity_by_5%.",
-        "translation": "有了一个磨坊，就可以使村子的繁荣度提升5%。"
+        "old_translation": "磨坊使村庄繁荣度提升5%。",
+        "translation": "磨坊使村庄繁荣度提升5%。"
     },
     {
+        "id": "qstr_Watchtower",
         "text": "Watchtower",
-        "translation": "了望塔"
+        "old_translation": "瞭望塔",
+        "translation": "瞭望塔"
     },
     {
+        "id": "qstr_A_watchtower_lets_th",
         "text": "A_watchtower_lets_the_villagers_raise_the_alarm_earlier._The_time_it_takes_for_enemies_to_loot_the_village_increases_by_50%.",
-        "translation": "有了一个了望塔，就可以使村民更早的发出警报，并延长敌人掠夺这村子的时间50%。"
+        "old_translation": "瞭望塔让村民更早拉响警报，敌人掠夺村庄所需时间延长50%。",
+        "translation": "瞭望塔让村民提前示警，敌人掠夺时间延长50%。"
     },
     {
+        "id": "qstr_School",
         "text": "School",
+        "old_translation": "学校",
         "translation": "学校"
     },
     {
+        "id": "qstr_A_school_increases_t",
         "text": "A_school_increases_the_loyalty_of_the_villagers_by_+1_every_month.",
-        "translation": "有了一个学校，就可以使村民对你的忠诚度每月提升1点。"
+        "old_translation": "学校每月为村民忠诚度+1。",
+        "translation": "学校每月为村民忠诚度+1。"
     },
     {
+        "id": "qstr_Messenger_Post",
         "text": "Messenger_Post",
+        "old_translation": "驿站",
         "translation": "驿站"
     },
     {
+        "id": "qstr_A_messenger_post_let",
         "text": "A_messenger_post_lets_the_inhabitants_send_you_a_message_whenever_enemies_are_nearby,_even_if_you_are_far_away.",
-        "translation": "有了一个驿站，就可以使村民在村子旁发现敌军时向你汇报，不论你离村子有多远。"
+        "old_translation": "驿站让村民在发现敌军时即可向你传讯，无论你身在何处。",
+        "translation": "驿站让居民在敌人靠近时随时给你传讯，即使你远在天涯。"
     },
     {
+        "id": "qstr_Prison_Tower",
         "text": "Prison_Tower",
-        "translation": "哨塔"
+        "old_translation": "监狱塔",
+        "translation": "监狱塔"
     },
     {
+        "id": "qstr_A_prison_tower_reduc",
         "text": "A_prison_tower_reduces_the_chance_that_captives_here_will_run_away._It_includes_a_torturer.",
-        "translation": "监狱能降低俘虏成功逃跑的几率。"
+        "old_translation": "监狱塔降低俘虏逃跑几率，并配有拷打者。",
+        "translation": "监狱塔降低俘虏逃跑几率，并配有拷打者。"
     },
     {
+        "id": "qstr_Christian_Monastery",
         "text": "Christian_Monastery",
+        "old_translation": "基督教修道院",
         "translation": "基督教修道院"
     },
     {
+        "id": "qstr_A_monastery_promotes",
         "text": "A_monastery_promotes_Christianity.",
-        "translation": "基督教修士传播基督教义"
+        "old_translation": "修道院弘扬基督教。",
+        "translation": "修道院弘扬基督教。"
     },
     {
+        "id": "qstr_Temple_to_god_Odin",
         "text": "Temple_to_god_Odin",
-        "translation": "奥丁神的神庙"
+        "old_translation": "奥丁神庙",
+        "translation": "奥丁神庙"
     },
     {
+        "id": "qstr_A_temple_promotes_pa",
         "text": "A_temple_promotes_pagan_practices.",
-        "translation": "传播多神教习俗的神庙"
+        "old_translation": "神庙弘扬多神教习俗。",
+        "translation": "神庙弘扬多神教习俗。"
     },
     {
+        "id": "qstr_Christian_Church",
         "text": "Christian_Church",
+        "old_translation": "基督教堂",
         "translation": "基督教堂"
     },
     {
+        "id": "qstr_A_church_promotes_Ch",
         "text": "A_church_promotes_Christianity.",
-        "translation": "传播基督教义的神庙"
+        "old_translation": "教堂弘扬基督教。",
+        "translation": "教堂弘扬基督教。"
     },
     {
+        "id": "qstr_Shrine_to_Norse_Gods",
         "text": "Shrine_to_Norse_Gods",
-        "translation": "北欧神的神殿"
+        "old_translation": "北欧神殿",
+        "translation": "北欧神殿"
     },
     {
+        "id": "qstr_A_shrine_promotes_pa",
         "text": "A_shrine_promotes_pagan_practices.",
-        "translation": "传播多神教习俗的神庙"
+        "old_translation": "神殿弘扬多神教习俗。",
+        "translation": "神殿弘扬多神教习俗。"
     },
     {
+        "id": "qstr_Blacksmith",
         "text": "Blacksmith",
+        "old_translation": "铁匠",
         "translation": "铁匠"
     },
     {
+        "id": "qstr_A_blacksmith_manufac",
         "text": "A_blacksmith_manufactures_and_sells_tools_and_weapons.",
-        "translation": "铁匠制造并出售武器"
+        "old_translation": "铁匠打造并出售工具与武器。",
+        "translation": "铁匠打造并出售工具与武器。"
     },
     {
+        "id": "qstr_Merchants__Rest_Hall",
         "text": "Merchants'_Rest_Hall",
-        "translation": "商人的休息室"
+        "old_translation": "商人之憩厅",
+        "translation": "商人之憩厅"
     },
     {
+        "id": "qstr_A_rest_hall_supports",
         "text": "A_rest_hall_supports_the_merchant_community,_adding_prosperity.",
-        "translation": "商人的休息室：增加商人数量，推动商业繁荣"
+        "old_translation": "憩厅支持商人社群，带来繁荣。",
+        "translation": "憩厅支持商人社群，带来繁荣。"
     },
     {
+        "id": "qstr_Scriptorium",
         "text": "Scriptorium",
+        "old_translation": "缮写室",
         "translation": "缮写室"
     },
     {
+        "id": "qstr_A_scriptorium_increa",
         "text": "A_scriptorium_increases_your_renown_as_a_patron_of_knowledge.",
-        "translation": "缮写室可提高你作为学术赞助人的名声"
+        "old_translation": "缮写室提升你作为学问恩主的名声。",
+        "translation": "缮写室提升你作为学问恩主的名声。"
     },
     {
+        "id": "qstr_Slave_Market",
         "text": "Slave_Market",
+        "old_translation": "奴隶市场",
         "translation": "奴隶市场"
     },
     {
+        "id": "qstr_A_slave_market_incre",
         "text": "A_slave_market_increases_the_prosperity_and_tariffs_of_the_port_town,_but_reduces_your_reputation.",
-        "translation": "奴隶市场能增加港口城市的繁荣和关税，但会减少了你的荣誉。"
+        "old_translation": "奴隶市场增加港口城镇的繁荣与关税，却损害你的声望。",
+        "translation": "奴隶市场增加港口城镇的繁荣与关税，却损害你的声望。"
     },
     {
+        "id": "qstr_Brewery",
         "text": "Brewery",
-        "translation": "啤酒厂"
+        "old_translation": "酿酒坊",
+        "translation": "酿酒坊"
     },
     {
+        "id": "qstr_A_brewery_increases_",
         "text": "A_brewery_increases_the_prosperity_and_loyalty_of_the_fort.",
-        "translation": "啤酒厂能增加城堡的繁荣和忠诚度"
+        "old_translation": "酿酒坊提升城堡的繁荣与忠诚。",
+        "translation": "酿酒坊提升城堡的繁荣与忠诚。"
     },
     {
+        "id": "qstr_The_prosperity_of_{s",
         "text": "The_prosperity_of_{s2}_has_changed_from_{s3}_to_{s4}.",
-        "translation": "{s2}的繁荣度已由{s3}变至{s4}"
+        "old_translation": "{s2}的繁荣度已由{s3}变为{s4}。",
+        "translation": "{s2}的繁荣度已由{s3}变为{s4}。"
     },
     {
+        "id": "qstr_{s4}_looks_upset.",
         "text": "{s4}_looks_upset.",
-        "translation": "{s4}看起来很失落。"
+        "old_translation": "{s4}显得闷闷不乐。",
+        "translation": "{s4}显得闷闷不乐。"
     },
     {
+        "id": "qstr_your_party",
         "text": "your_party",
-        "translation": "你的部队"
+        "old_translation": "你的部队",
+        "translation": "你的队伍"
     },
     {
+        "id": "qstr_{reg0?One_of_your_pr",
         "text": "{reg0?One_of_your_prisoners,_:}{s1}_of_the_{s3}_has_escaped_from_captivity!",
-        "translation": "{reg0?你的囚犯之一，:}{s3}的{s1}逃跑了！"
+        "old_translation": "{reg0?你的囚犯之一，:}{s3}的{s1}已逃离囚笼！",
+        "translation": "{reg0?你的囚犯之一，:}{s3}的{s1}已逃离囚笼！"
     },
     {
+        "id": "qstr_You_have_delivered_{",
         "text": "You_have_delivered_{reg3}_head_of_cattle_to_{s1}.",
-        "translation": "你已经把{reg3}头牛送到了{s1}手中。"
+        "old_translation": "你已把{reg3}头牛交付给{s1}。",
+        "translation": "你已把{reg3}头牛交付给{s1}。"
     },
     {
+        "id": "qstr_I_hear_that_there_wi",
         "text": "I_hear_that_there_will_be_a_tournament_in_{s62}_soon.",
-        "translation": "我听说在{s62}将会举办一场竞技大会。"
+        "old_translation": "我听说{s62}不久将举办比武大会。",
+        "translation": "我听说{s62}不久将举办比武大会。"
     },
     {
+        "id": "qstr_I_heard_that_one_can",
         "text": "I_heard_that_one_can_buy_{s62}_very_cheap_at_{s63}.",
+        "old_translation": "我听说{s62}在{s63}卖得很便宜。",
         "translation": "我听说{s62}在{s63}卖得很便宜。"
     },
     {
+        "id": "qstr_I_heard_that_they_pa",
         "text": "I_heard_that_they_pay_a_very_high_price_for_{s62}_at_{s63}.",
-        "translation": "我听说{s62}在{s63}卖的很贵。"
+        "old_translation": "我听说{s63}为{s62}出高价。",
+        "translation": "我听说{s63}为{s62}出高价。"
     },
     {
+        "id": "qstr_I_heard_that_the_Dan",
         "text": "I_heard_that_the_Danish_promise_to_conquer_West_Seaxe_before_next_spring.",
-        "translation": "我听说丹麦人要在明年春天之前征服西撒克逊。"
+        "old_translation": "我听说丹麦人誓在明年春前征服西撒克逊。",
+        "translation": "我听说丹麦人誓在明年春前征服西撒克逊。"
     },
     {
+        "id": "qstr_Currently_the_most_r",
         "text": "Currently,_the_most_requested_song_the_bards_perform_is_the_one_of_King_Cadwallon_of_Gwynedd_and_King_Penda_of_Mierce_invading_Northhymbre_and_penetrating_deep_into_the_heart_of_the_old_Kingdom_of_Deira._There_King_Eadwine_amassed_his_warriors_and_rode_south_to_meet_them_in_battle._The_two_armies_met_at_Haedfeldland_and_engaged_in_the_bloodiest_and_most_brutal_battle_of_the_time._Perhaps_it_is_popular_because_of_the_recent_invasion.",
-        "translation": "大概是由于这次入侵，近来有首歌在吟游诗人之中风行，这首歌讲的是格温特国王卡德沃隆和麦西亚国王潘达入侵诺森布里亚的故事，他们深入古老的迪拉王国的心脏地带。埃德温国王召集士兵，与南方的敌人决一死战。两军在赫夫兰相遇，战场上血流漂杵，尸横遍野，战士遗骸的惨状令人终生难忘。"
+        "old_translation": "如今吟游诗人最常唱的，是圭内斯王卡德瓦隆与麦西亚王彭达联手攻入诺森布里亚、深入古迪拉王国腹地的那支歌。埃德温王在那里集结战士，南下迎敌。两军于赫德菲尔德相遇，展开当时最惨烈血腥的一战。或许因新近入侵，此曲才广为流传。",
+        "translation": "如今吟游诗人最常唱的，是圭内斯王卡德瓦隆与麦西亚王彭达联手攻入诺森布里亚、深入古迪拉王国腹地的那支歌。埃德温王在那里集结战士，南下迎敌。两军于赫德菲尔德相遇，展开当时最惨烈血腥的一战。或许因新近入侵，此曲才广为流传。"
     },
     {
+        "id": "qstr_I_heard_the_Pope_in_",
         "text": "I_heard_the_Pope_in_Rome_sent_missionaries_to_convert_the_Danish!",
-        "translation": "我听说罗马教皇将传教士派到丹麦人那里去了！"
+        "old_translation": "我听说罗马教皇已遣传教士去感化丹麦人！",
+        "translation": "我听说罗马教皇已遣传教士去感化丹麦人！"
     },
     {
+        "id": "qstr_Ragnar_s_sons_are_th",
         "text": "Ragnar's_sons_are_the_most_dangerous_men_in_the_world._I_hear_they_are_relentless,_and_nobody_dares_to_face_up_to_them.",
-        "translation": "拉格纳之子是世上最危险的人物。我听说他们冷酷无情，没有人敢正视他们。"
+        "old_translation": "拉格纳的儿子们是世上最危险的人。我听说他们冷酷无情，无人敢直面其锋。",
+        "translation": "拉格纳的儿子们是世上最危险的人。我听说他们冷酷无情，无人敢直面其锋。"
     },
     {
+        "id": "qstr_I_think_the_wife_of_",
         "text": "I_think_the_wife_of_my_friend_is_cheating_on_him_with_a_bard.",
-        "translation": "我觉得我朋友的妻子跟一个吟游诗人私通，他们合起伙来骗我朋友。"
+        "old_translation": "我觉得朋友的妻子正跟一个诗人私通。",
+        "translation": "我觉得朋友的妻子正跟一个吟游诗人私通。"
     },
     {
+        "id": "qstr_I_hate_bandits!_Some",
         "text": "I_hate_bandits!_Somebody_should_kill_them_all.",
-        "translation": "我憎恶土匪！怎么没有人把他们杀个精光！"
+        "old_translation": "我恨山贼！真该有人把他们杀个干净。",
+        "translation": "我恨山贼！真该有人把他们杀个干净。"
     },
     {
+        "id": "qstr_I_would_like_to_know",
         "text": "I_would_like_to_know_about_the_Roman_times.",
-        "translation": "我想知道罗马时代是怎么一回事。"
+        "old_translation": "我想了解罗马时代的事。",
+        "translation": "我想了解罗马时代的事。"
     },
     {
+        "id": "qstr_Many_of_the_nobles_o",
         "text": "Many_of_the_nobles_of_Englaland_are_very_impressed_by_young_princess_Hild._She_is_so_beautiful._Too_bad_she_has_religious_leanings!",
-        "translation": "年轻的海德公主令不列颠的许多贵族瞠目结舌。她真是美若天仙。但可惜的是，她竟然想遁入教门！"
+        "old_translation": "英格兰诸多贵族都对年轻的慧德公主赞叹不已。她美若天仙，可惜一心向教！",
+        "translation": "英格兰诸多贵族都对年轻的慧德公主赞叹不已。她美若天仙，可惜一心向教！"
     },
     {
+        "id": "qstr_A_traveller_told_me_",
         "text": "A_traveller_told_me_the_Franks_are_recruiting_men_for_attacking_the_Frisians.",
-        "translation": "一个旅行者告诉我，法兰克为正为了进攻弗里斯而招兵买马。"
+        "old_translation": "一位旅行者告诉我，法兰克人正在招兵，准备攻打弗里斯人。",
+        "translation": "一位旅行者告诉我，法兰克人正在招兵，准备攻打弗里斯人。"
     },
     {
+        "id": "qstr_The_Danish_have_brou",
         "text": "The_Danish_have_brought_all_kinds_of_foreigners_with_them._It's_like_the_whole_world_has_come_to_old_Englaland.",
-        "translation": "丹麦人几乎把各种各样的外国人都带来了。看起来全世界的人都来到了古老的不列颠。"
+        "old_translation": "丹麦人带来了形形色色的外邦人，仿佛全世界都涌进了古老的不列颠。",
+        "translation": "丹麦人带来了形形色色的外邦人，仿佛全世界都涌进了古老的不列颠。"
     },
     {
+        "id": "qstr_West_Seaxe_was_never",
         "text": "West_Seaxe_was_never_as_powerful_as_now._It_is_logical_that_their_king_is_considered_to_be_a_Brytenwalda.",
-        "translation": "西撒克逊从未如今日这般强盛。他们的国王自然被视为不列颠的统治者。"
+        "old_translation": "西撒克逊从未如此强盛，他们的国王被尊为“不列颠共主”也是理所当然。",
+        "translation": "西撒克逊从未如此强盛，他们的国王被尊为“不列颠共主”也是理所当然。"
     },
     {
+        "id": "qstr_I_wish_the_world_wer",
         "text": "I_wish_the_world_were_less_dangerous._Few_men_grow_old.",
-        "translation": "我希望世道太平些。现在几乎没人可以活到老年。"
+        "old_translation": "但愿世道太平些，如今少有人能活到白发苍苍。",
+        "translation": "但愿世道太平些，如今少有人能活到白发苍苍。"
     },
     {
+        "id": "qstr_I_ve_been_told_the_a",
         "text": "I've_been_told_the_army_of_the_Ui_Neill_maintains_strict_discipline_and_training._For_that_reason,_they_are_the_most_powerful_in_Hibernia!",
-        "translation": "我听说乌内尔正在秣兵历马，养精蓄锐。他们将无敌于爱尔兰！"
+        "old_translation": "我听说乌伊·尼尔大军纪律严明、训练刻苦，因此在爱尔兰所向披靡！",
+        "translation": "我听说乌伊·尼尔大军纪律严明、训练刻苦，因此在爱尔兰所向披靡！"
     },
     {
+        "id": "qstr_two_days_ago",
         "text": "two_days_ago",
-        "translation": "两天之前"
+        "old_translation": "两天前",
+        "translation": "两天前"
     },
     {
+        "id": "qstr_{s24}_increased_reno",
         "text": "{s24}_increased_renown_by_attending_a_feast_at_{s25}",
-        "translation": "{s24}在{s25}参加了宴会并因此提高了声望"
+        "old_translation": "{s24}在{s25}赴宴，声望随之提升。",
+        "translation": "{s24}在{s25}赴宴，声望随之提升。"
     },
     {
+        "id": "qstr_You_asked_me_to_come",
         "text": "You_asked_me_to_come_and_meet_you_here_at_{s33}._So,_here_I_am,_waiting_for_you_to_show_up.",
-        "translation": "你命令我在{s33}与你见面。所以我在这里等待你的出现。"
+        "old_translation": "你让我来{s33}见你，我便在此等候。",
+        "translation": "你让我来{s33}见你，我便在此等候。"
     },
     {
+        "id": "qstr_You_asked_me_to_come_",
         "text": "You_asked_me_to_come_and_patrol_around_{s33}._So,_here_I_am,_looking_for_enemies.",
-        "translation": "你命令我来{s33}附近巡逻。所以我在这里找寻敌人的踪迹。"
+        "old_translation": "你命我到{s33}一带巡逻，我正搜寻敌踪。",
+        "translation": "你命我到{s33}一带巡逻，我正搜寻敌踪。"
     },
     {
+        "id": "qstr_Marshal_has_chosen_{",
         "text": "Marshal_has_chosen_{s13}_to_levy_troops.",
-        "translation": "元帅选定{s13}去征收士兵。"
+        "old_translation": "元帅已指定{s13}征兵。",
+        "translation": "元帅已指定{s13}征兵。"
     },
     {
+        "id": "qstr_Marshal_Levying_Troo",
         "text": "Marshal_Levying_Troops",
-        "translation": "元帅征收士兵"
+        "old_translation": "元帅征兵",
+        "translation": "元帅征兵"
     },
     {
+        "id": "qstr_The_marshal_is_levyi",
         "text": "The_marshal_is_levying_{reg0}_troops_from_your_center_{s10}.",
-        "translation": "元帅正从你的{s10}领地征收{reg0}兵士。"
+        "old_translation": "元帅正从你的{s10}征召{reg0}名士兵。",
+        "translation": "元帅正从你的{s10}征召{reg0}名士兵。"
     },
     {
+        "id": "qstr_{s35}_of_the_{s34}",
         "text": "{s35}_of_the_{s34}",
+        "old_translation": "{s34}的{s35}",
         "translation": "{s34}的{s35}"
     },
     {
+        "id": "qstr_{s37}_of_the_{s36}",
         "text": "{s37}_of_the_{s36}",
+        "old_translation": "{s36}的{s37}",
         "translation": "{s36}的{s37}"
     },
     {
+        "id": "qstr_The_brewery_in_{s1}_",
         "text": "The_brewery_in_{s1}_adds_to_its_prosperity.",
-        "translation": "{s1}的啤酒厂促进了经济繁荣。"
+        "old_translation": "{s1}的酿酒坊带动了当地繁荣。",
+        "translation": "{s1}的酿酒坊带动了当地繁荣。"
     },
     {
+        "id": "qstr_You_gain_right_to_ru",
         "text": "You_gain_right_to_rule.",
-        "translation": "你获得统治权。"
+        "old_translation": "你获得了统治权。",
+        "translation": "你获得了统治权。"
     },
     {
+        "id": "qstr_You_lose_right_to_ru",
         "text": "You_lose_right_to_rule.",
+        "old_translation": "你失去统治权。",
         "translation": "你失去统治权。"
     },
     {
+        "id": "qstr_Content_update_appli",
         "text": "Content_update_applied_to_the_save_game.",
-        "translation": "新的内容已经保存到存档里面。"
+        "old_translation": "新的内容已应用到存档。",
+        "translation": "新的内容已应用到存档。"
     },
     {
+        "id": "qstr_{s1}_has_entered_tra",
         "text": "{s1}_has_entered_trance!",
-        "translation": "{s1}进入了挂机状态！"
+        "old_translation": "{s1}进入狂怒状态！",
+        "translation": "{s1}进入狂怒状态！"
     },
     {
+        "id": "qstr_{s1}_has_become_unco",
         "text": "{s1}_has_become_uncontrollable!",
+        "old_translation": "{s1}变得无法控制！",
         "translation": "{s1}变得无法控制！"
     },
     {
+        "id": "qstr_{s1}_is_getting_exha",
         "text": "{s1}_is_getting_exhausted_after_the_rage.",
-        "translation": "{s1}在大发雷霆之后变得精疲力竭。"
+        "old_translation": "{s1}在狂怒之后精疲力竭。",
+        "translation": "{s1}在狂怒之后精疲力竭。"
     },
     {
+        "id": "qstr_{s1}_back_to_normal!",
         "text": "{s1}_back_to_normal!",
-        "translation": "{s1}回复到普通！"
+        "old_translation": "{s1}恢复正常！",
+        "translation": "{s1}恢复正常！"
     },
     {
+        "id": "qstr_Manage_this_village.",
         "text": "Manage_this_village.",
-        "translation": "管理这个村庄。"
+        "old_translation": "{s10}{s12}^{s11}^{s6}{s7}^^{s15}",
+        "translation": "{s10}{s12}^{s11}^{s6}{s7}^^{s15}"
     },
     {
+        "id": "qstr_Recruit_volunteers.",
         "text": "Recruit_volunteers.",
+        "old_translation": "招募志愿者。",
         "translation": "招募志愿者。"
     },
     {
+        "id": "qstr_Go_to_the_village_ce",
         "text": "Go_to_the_village_center.",
-        "translation": "前往村庄。"
+        "old_translation": "招募志愿兵。",
+        "translation": "招募志愿兵。"
     },
     {
+        "id": "qstr_Meet_the_leader.",
         "text": "Meet_the_leader.",
-        "translation": "与领导者会面。"
+        "old_translation": "与村庄长老见面。",
+        "translation": "与村庄长老见面。"
     },
     {
+        "id": "qstr_Buy_supplies.",
         "text": "Buy_supplies.",
+        "old_translation": "购买补给品。",
         "translation": "购买补给品。"
     },
     {
+        "id": "qstr_Attack_the_bandits.",
         "text": "Attack_the_bandits.",
-        "translation": "攻击强盗。"
+        "old_translation": "向农民购买补给。",
+        "translation": "向农民购买补给。"
     },
     {
+        "id": "qstr_Wait_here_for_some_t",
         "text": "Wait_here_for_some_time.",
-        "translation": "在这里呆一段时间。"
+        "old_translation": "在此稍候片刻。",
+        "translation": "在此稍候片刻。"
     },
     {
+        "id": "qstr_{reg5?Continue_colle",
         "text": "{reg5?Continue_collecting_taxes:Collect_taxes}.",
+        "old_translation": "进攻山贼。",
         "translation": "{reg5?继续收税:收税}。"
     },
     {
+        "id": "qstr_Train_the_peasants.",
         "text": "Train_the_peasants.",
+        "old_translation": "{reg5?继续收税:收税}。",
         "translation": "训练农民。"
     },
     {
+        "id": "qstr_Take_an_action.",
         "text": "Take_an_action.",
+        "old_translation": "你已做出选择，游戏开始后无法更改。是否保留并继续？",
         "translation": "采取行动。"
     },
     {
+        "id": "qstr_Leave...",
         "text": "Leave...",
-        "translation": "离开…"
+        "old_translation": "扬帆起航。",
+        "translation": "离开……"
     },
     {
+        "id": "qstr_You_need_to_obtain_p",
         "text": "You_need_to_obtain_permission_from_the_leader_in_this_village_to_recruit_here.",
-        "translation": "你需要获得村庄长老的许可才能在此招募。"
+        "old_translation": "你必须获得该村领袖的许可，才能在此招募。",
+        "translation": "你必须获得该村领袖的许可，才能在此招募。"
     },
     {
+        "id": "qstr___Symbel_",
         "text": "_(Symbel)",
-        "translation": "(宴会)"
+        "old_translation": "（宴会）",
+        "translation": "（宴会）"
     },
     {
+        "id": "qstr_Join_the_competition",
         "text": "Join_the_competitions.",
-        "translation": "加入比赛。"
+        "old_translation": "参加比赛。",
+        "translation": "参加比赛。"
     }
 ]
