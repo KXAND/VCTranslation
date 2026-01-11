@@ -20,29 +20,20 @@ TRANSLATE_MODEL = "moonshotai/Kimi-K2-Instruct"  # 翻译模型名
 SOURCE_DIR = "comparation/"
 CACHE_FILE = "translation_cache.json"  # 缓存文件
 GLOSSARY_FILE = "GLOSSARY.json"  # 术语文件
-TARGET_FILES = [
-    "dialogs.1",
-    "dialogs.2",
-    "dialogs.3",
-    "dialogs.4",
-    "dialogs.5",
-    "dialogs.6",
-    "dialogs.7",
-    "dialogs.8",
-    "dialogs.9",
-    "dialogs.10",
-    "dialogs.11",
+TARGET_FILE_PREFIXS = [
+    "game_menus",
+    "info_pages",
+    "quests",
+    "quick_strings",
 ]  # 无扩展名
 HUMAN_TRANSLATED_FILES = [
-    "troops.0",
-    "troops.1",
-    "troops.2",
-    "factions.0",
-    "parties.0",
-    # 已翻译
-    "dialogs.0",
+    "troops",
+    "factions",
+    "parties",
 ]  # 已有人类翻译的文件列表，无扩展名
-
+EXCLUDE_FILE_PREFIXS = HUMAN_TRANSLATED_FILES + [
+    "dialogs",
+]
 # 校对
 ENABLE_PROOFREAD = False  # 启用校对
 PROOFREAD_MODEL = "Qwen/Qwen3-8B"  # 校验模型名
@@ -55,14 +46,19 @@ ERROR_LOG = []
 def get_global_GLOSSAARY():
     with open(GLOSSARY_FILE, "r", encoding="utf-8") as f:
         glossary = json.load(f)
-    for file in HUMAN_TRANSLATED_FILES:
-        with open("comparation\\" + file + ".json", "r", encoding="utf-8") as f:
+    files = [
+        file
+        for file in os.listdir(SOURCE_DIR)
+        if any(file.startswith(prefix) for prefix in HUMAN_TRANSLATED_FILES)
+    ]
+    for file in files:
+        with open("comparation\\" + file, "r", encoding="utf-8") as f:
             data = json.load(f)
-        for eng, *_, translation in data:
-            eng: str
-            eng = eng.replace("_", " ")
-            if glossary.get(eng) is None:
-                glossary[eng] = translation
+        for entry in data:
+            text = entry.get("text", "").replace("_", " ")
+            translation = entry.get("translation", "")
+            if glossary.get(text) is None:
+                glossary[text] = translation
     return glossary
 
 
@@ -309,12 +305,22 @@ async def process_batch(batch, content_section):
 
 async def main():
     # 如果没有值，则全量翻译（除已有人类翻译的文件），否则翻译指定文件
-    if TARGET_FILES is None or len(TARGET_FILES) == 0:
-        target_files = set(item.split(".")[0] for item in os.listdir(SOURCE_DIR)) - set(
-            HUMAN_TRANSLATED_FILES
-        )
+    all_files = os.listdir(SOURCE_DIR)
+
+    if not TARGET_FILE_PREFIXS:
+        # 如果没有指定目标，排除人工翻译的文件
+        # 这里假设 EXCLUDE_FILE_PREFIXS 里的也是前缀 A
+        target_files = [
+            ".".join(f.split(".")[:-1])
+            for f in all_files
+            if not any(f.startswith(prefix + ".") for prefix in HUMAN_TRANSLATED_FILES)
+        ]
     else:
-        target_files = TARGET_FILES
+        target_files = [
+            ".".join(f.split(".")[:-1])
+            for f in all_files
+            if any(f.startswith(prefix + ".") for prefix in TARGET_FILE_PREFIXS)
+        ]
 
     for target_file in target_files:
         print(f"Processing {target_file}...")

@@ -263,18 +263,14 @@ for filename in os.listdir(in_dir):
         tran = translation.get(key)
         if tran is None:
             tran = ""
-        combine.append([key, val, tran, ""])
-   
-    # 去重
-    dict = {row[1]: row[2] for row in combine}
-    items = list({"text": key, "translation": val} for key, val in dict.items())
+        combine.append({"id": key, "text": val, "old_translation": tran, "translation": ""})
+
 
     # 分块保存
-    for i in range(0, len(items), 500):
+    for i in range(0, len(combine), 500):
         with open(
             f"{out_dir}{filename.split('.')[0]}.{i//500}.json",
             "w",
             encoding="utf-8",
         ) as f:
-            json.dump(items[i : i + 500], f, ensure_ascii=False, indent=4)
-
+            json.dump(combine[i : i + 500], f, ensure_ascii=False, indent=4)
